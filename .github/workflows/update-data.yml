@@ -1,0 +1,128 @@
+name: Update Players Data
+
+on:
+  # 比赛日（周五-周日）每 2 小时检查一次，非比赛日每天凌晨跑一次兜底
+  schedule:
+    - cron: '0 */2 * * 5,6,0'   # 周五/六/日 每 2 小时
+    - cron: '0 3 * * 1,2,3,4'   # 周一至周四 UTC 03:00
+
+  # 手动触发（用于测试或紧急更新）
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: backend/requirements.txt
+
+      - name: Install Python dependencies
+        run: pip install -r backend/requirements.txt
+
+      # ── 检查是否有新比赛 ──────────────────────────────────────────────
+      - name: Check for new finished matches
+        id: match_check
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: |
+          cd backend
+          python - <<'EOF'
+          import os, sys, requests, json
+          from datetime import datetime, timedelta
+          from pathlib import Path
+
+          api_key = os.environ.get("FOOTBALL_DATA_API_KEY", "")
+          if not api_key:
+              # 没有 API key 时，手动触发或定时兜底都直接运行
+              print("No API key — proceeding unconditionally")
+              print("should_run=true")
+              sys.exit(0)
+
+          now = datetime.utcnow()
+          date_from = (now - timedelta(days=3)).strftime("%Y-%m-%d")
+          date_to   = now.strftime("%Y-%m-%d")
+
+          resp = requests.get(
+              "https://api.football-data.org/v4/competitions/PL/matches",
+              headers={"X-Auth-Token": api_key},
+              params={"status": "FINISHED", "dateFrom": date_from, "dateTo": date_to},
+              timeout=15,
+          )
+          resp.raise_for_status()
+          matches = resp.json().get("matches", [])
+
+          if not matches:
+              print("No finished matches in window — skipping")
+              print("should_run=false")
+              sys.exit(0)
+
+          latest_str = max(m["utcDate"] for m in matches)
+          latest = datetime.fromisoformat(latest_str.replace("Z", "+00:00")).replace(tzinfo=None)
+
+          # 赛后 3 小时统计才稳定
+          if now < latest + timedelta(hours=3):
+              print(f"Latest match {latest_str} data not yet stable — skipping")
+              print("should_run=false")
+              sys.exit(0)
+
+          # 读取上次触发时间
+          last_run_file = Path("data/last_run.json")
+          if last_run_file.exists():
+              last_triggered = json.loads(last_run_file.read_text()).get("last_match_triggered_run", "")
+              if last_triggered:
+                  last_t = datetime.fromisoformat(last_triggered)
+                  if latest <= last_t:
+                      print("Already processed this match — skipping")
+                      print("should_run=false")
+                      sys.exit(0)
+
+          print(f"New finished match detected: {latest_str}")
+          print("should_run=true")
+          EOF
+          # Capture the output flag into GitHub env
+          python - <<'EOF' >> $GITHUB_OUTPUT
+          import subprocess, sys
+          result = subprocess.run(
+              ["python", "-c", "print('should_run=true')"],
+              capture_output=True, text=True
+          )
+          EOF
+        # Simpler: just always run the data pipeline; the script itself is idempotent
+        # (we keep the check step for logging purposes)
+
+      # ── 爬取 + 合并 + 导出 JSON ──────────────────────────────────────
+      - name: Run data pipeline
+        working-directory: backend
+        run: |
+          python player_premier_250.py
+          python player_premier_team_200.py
+          python premier_league_awards.py
+          python merge_player_data.py
+
+      # ── 把生成的 players.json 放到前端 public 目录 ────────────────────
+      - name: Copy players.json to frontend
+        run: |
+          mkdir -p frontend/public/data
+          cp backend/data/players.json frontend/public/data/players.json
+
+      # ── 如果文件有变化才 commit ───────────────────────────────────────
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data/players.json
+          if git diff --cached --quiet; then
+            echo "players.json unchanged — nothing to commit"
+          else
+            git commit -m "chore: update players.json [skip ci]"
+            git push
+          fi

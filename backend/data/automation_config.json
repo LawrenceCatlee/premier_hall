@@ -1,0 +1,19 @@
+{
+  "check_interval_minutes": 30,
+  "match_check_urls": [
+    "https://www.premierleague.com/matchweek/4743",
+    "https://api.football-data.org/v4/competitions/PL/matches"
+  ],
+  "run_times": ["02:00", "14:00", "20:00"],
+  "scripts_to_run": ["player_premier_250", "player_premier_team_200", "merge_data"],
+  "notification_email": null,
+  "max_retries": 3,
+  "retry_delay_minutes": 5,
+  "notes": {
+    "check_interval_minutes": "检查新比赛的间隔时间（分钟）",
+    "run_times": "每日定时运行时间，24小时制",
+    "scripts_to_run": "要运行的脚本列表，可注释掉不需要的脚本",
+    "max_retries": "脚本运行失败时的最大重试次数",
+    "retry_delay_minutes": "重试间隔时间（分钟）"
+  }
+}

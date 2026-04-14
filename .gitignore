@@ -1,0 +1,36 @@
+# ── Frontend ──────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# ── Backend ───────────────────────────────────────────────────────────
+# Python virtual environment (bin/ lib/ include/ pyvenv.cfg are venv artifacts)
+backend/bin/
+backend/lib/
+backend/include/
+backend/pyvenv.cfg
+
+# Python cache
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/*.pyo
+*.pyc
+*.pyo
+__pycache__/
+
+# Large / intermediate data files (keep only players.json which is the final output)
+backend/data/*.csv
+backend/data/*.xlsx
+backend/data/*.log
+backend/data/last_run.json
+backend/data/pulselive_player_id_auto_aliases.json
+
+# Keep automation config and the generated JSON
+!backend/data/automation_config.json
+
+# ── OS ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
