@@ -28,18 +28,19 @@ export const clubNameMap = {
   '其他': 'Other',
 };
 
-// Maps Chinese achievement strings to English
+// Maps Chinese achievement type strings to English
 export const achievementMap = {
-  '出场250次': '250 Appearances',
-  '单队200场': '200 Single Club',
-  '最佳阵容': 'Team of the Year',
+  '出场250次': '250+ Appearances',
+  '单队200场': 'Single Club 200+',
+  '最佳阵容': 'Team of the Decade',
+  '10年最佳阵容': '10-Year Team XI',
+  '20年最佳阵容': '20-Year Team XI',
   '金靴奖': 'Golden Boot',
   '金手套奖': 'Golden Glove',
   '年度最佳': 'Player of the Year',
-  '三冠王': 'Three Titles',
-  '百球': '100 Goals',
-  '百零封': '100 Clean Sheets',
-  '三次冠军': 'Three Titles',
+  '三冠王': '3+ Titles',
+  '百球': '100+ Goals',
+  '百大零封': '100+ Clean Sheets',
 };
 
 export const translations = {

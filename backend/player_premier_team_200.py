@@ -150,8 +150,8 @@ def scrape_team_players(team_name, url):
                         appearances = int(cell_text)
                         break
                 
-                # 只保存出场数>=180的球员
-                if appearances >= 180:
+                # 只保存出场数>=10的球员（捕获所有在英超有一定出场的球队）
+                if appearances >= 10:
                     player_info = {
                         'player_id': player_id,  # 添加player_id
                         'team': team_name,
@@ -326,7 +326,7 @@ def check_current_team(current_team, page_team, is_retired):
 
 def main():
     print("=" * 80)
-    print("英超所有球队球员数据爬取脚本 (出场数>=180)")
+    print("英超所有球队球员数据爬取脚本 (出场数>=10，捕获所有效力球队)")
     print("=" * 80)
     
     # 爬取所有球队数据
@@ -347,8 +347,8 @@ def main():
             print(f"{team}: {count}人")
         
         # 统计多球队球员
-        multi_team_players = df[(df['team2'] != '') & (df['team2_appearances'] >= 180)]
-        print(f"\n在多支球队都有>=180场出场的球员数量: {len(multi_team_players)}人")
+        multi_team_players = df[(df['team2'] != '') & (df['team2_appearances'] >= 10)]
+        print(f"\n在多支球队都有>=10场出场的球员数量: {len(multi_team_players)}人")
         
         # 统计现役vs退役
         active_players = df[df['is_retired'] == 'no']

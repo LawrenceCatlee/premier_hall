@@ -4,7 +4,7 @@ import pandas as pd
 import os
 from pathlib import Path
 import glob
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Set
 import re
 
 def load_all_data_files(data_dir: str = "data") -> Dict[str, pd.DataFrame]:
@@ -44,7 +44,18 @@ def load_all_data_files(data_dir: str = "data") -> Dict[str, pd.DataFrame]:
             print(f"加载 premier_league_players_multi_team: {len(df)} 行数据")
         except Exception as e:
             print(f"加载 premier_league_players_multi_team 失败: {e}")
-    
+
+    # 加载 250.py 输出的 clubs 列（currentTeam + previousTeam）
+    clubs_250_file = data_path / "epl_players_appearances_230plus.csv"
+    if clubs_250_file.exists():
+        try:
+            df = pd.read_csv(clubs_250_file, usecols=lambda c: c in ("player_id", "clubs"))
+            df = df.rename(columns={"clubs": "profile_clubs"})
+            data_files["epl_250_clubs"] = df
+            print(f"加载 epl_250_clubs: {len(df)} 行数据")
+        except Exception as e:
+            print(f"加载 epl_250_clubs 失败: {e}")
+
     return data_files
 
 def standardize_player_names(df: pd.DataFrame, name_column: str) -> pd.DataFrame:
@@ -363,40 +374,62 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
     
     # 第五步：专门合并金靴奖数据
     merged_df = merge_golden_boot_data(merged_df, data_files)
-    
-    # 第六步：去除重复记录
+
+    # 第六步：合并 250.py 的 profile_clubs（currentTeam + previousTeam）
+    if "epl_250_clubs" in data_files:
+        clubs_df = data_files["epl_250_clubs"].dropna(subset=["player_id"]).copy()
+        clubs_df["player_id"] = clubs_df["player_id"].astype(int)
+        merged_df = pd.merge(merged_df, clubs_df, on="player_id", how="left")
+        print(f"合并 profile_clubs 后: {len(merged_df)} 行")
+
+    # 第七步：去除重复记录
     merged_df = remove_duplicate_players(merged_df)
     
     # 数据清理和整理
     print("\n数据清理和整理...")
     
     # 定义需要移除的列
-    columns_to_remove = [
+    columns_to_remove = {
         'goldenglovewinners_Player', 'goldenglovewinners_Club',
         '100cleansheetsgk_Rank', '100cleansheetsgk_Percent', '100cleansheetsgk_Club(s)', '100cleansheetsgk_Ref.',
-        'ayerofseasonwinners_Position', 'ayerofseasonwinners_Nationality',
+        '100cleansheetsgk_player name', '100cleansheetsgk_Premier League appearances',
+        'ayerofseasonwinners_Player', 'ayerofseasonwinners_Position', 'ayerofseasonwinners_Nationality',
         'team10y20yawardxi_position', 'team10y20yawardxi_player',
-        '100goalsclub_Ratio', '100goalsclub_First', '100goalsclub_Last', '100goalsclub_Club(s)',
-        'ayers3ustitles_nationality'
-    ]
-    
+        '100goalsclub_Ratio', '100goalsclub_First', '100goalsclub_Last', '100goalsclub_Club(s)', '100goalsclub_player name',
+        '100goalsclub_Premier League appearances',
+        'ayers3ustitles_nationality', 'ayers3ustitles_player',
+        'goldenbootwinners_Player', 'goldenbootwinners_Club',
+        # multi_ columns that are redundant
+        'multi_player_name', 'multi_player_id', 'multi_total_appearances',
+    }
+
+    # multi_ columns we want to keep (the rest are excluded above)
+    multi_keep = {
+        'multi_all_teams',  # all PL clubs (used by _parse_clubs for clubs column)
+        'multi_team1', 'multi_team1_appearances', 'multi_is_in_team1',
+        'multi_team2', 'multi_team2_appearances', 'multi_is_in_team2',
+        'multi_team3', 'multi_team3_appearances', 'multi_is_in_team3',
+        'multi_is_retired',
+    }
+
     # 移除不需要的列
     columns_to_keep = []
     seen_columns = set()
-    
+
     for col in merged_df.columns:
         if col in columns_to_remove:
             continue
-        # 保留player_id和核心列
-        if col in ['player_id', 'player_name', 'appearances']:
+        # 保留player_id和核心列（含 profile_clubs/multi_all_teams/ayerofseasonwinners_Season，防止被 base_col 去重逻辑误删）
+        if col in ['player_id', 'player_name', 'appearances', 'profile_clubs', 'multi_all_teams', 'ayerofseasonwinners_Season']:
             columns_to_keep.append(col)
             continue
-        
-        # 保留所有multi_开头的列
+
+        # multi_ 列：只保留白名单里的
         if col.startswith('multi_'):
-            columns_to_keep.append(col)
+            if col in multi_keep:
+                columns_to_keep.append(col)
             continue
-        
+
         # 对于其他列，检查是否与已保留的列重复
         base_col = col.split('_')[-1] if '_' in col else col
         if base_col not in seen_columns:
@@ -437,9 +470,11 @@ def save_merged_data(merged_df: pd.DataFrame, output_dir: str = "data",
     output_path = Path(output_dir)
     output_path.mkdir(exist_ok=True)
 
-    # 保存完整 CSV
+    # 保存完整 CSV（multi_all_teams 仅供内部 JSON 处理，不写入 CSV）
+    csv_exclude = {'multi_all_teams'}
+    csv_cols = [c for c in merged_df.columns if c not in csv_exclude]
     full_file = output_path / "premier_league_players_merged_final.csv"
-    merged_df.to_csv(full_file, index=False, encoding='utf-8-sig')
+    merged_df[csv_cols].to_csv(full_file, index=False, encoding='utf-8-sig')
     print(f"完整数据已保存到: {full_file}")
 
     # 保存 Excel
@@ -452,19 +487,234 @@ def save_merged_data(merged_df: pd.DataFrame, output_dir: str = "data",
     except Exception as e:
         print(f"保存Excel文件时出错: {e}")
 
-    # 保存前端简化 CSV
-    frontend_df = create_frontend_dataset(merged_df)
-    frontend_file = output_path / "premier_league_players_frontend_final.csv"
-    frontend_df.to_csv(frontend_file, index=False, encoding='utf-8-sig')
-    print(f"前端数据已保存到: {frontend_file}")
-
     # 导出前端 players.json
     if frontend_json_path is None:
         # 默认：相对于 backend/ 找 frontend/public/data/players.json
         frontend_json_path = Path(__file__).parent.parent / "frontend" / "public" / "data" / "players.json"
     export_players_json(merged_df, Path(frontend_json_path), dob_df=dob_df)
 
+# 英超球员官方中文译名映射（用于 players.json 的 name_cn 字段）
+# 键为 Pulselive 标准英文姓名（小写），值为中文译名
+PLAYER_CN_NAME_MAP: Dict[str, str] = {
+    # ── 出场榜顶端 ──────────────────────────────────────────────
+    'gareth barry': '加雷斯·巴里',
+    'ryan giggs': '瑞安·吉格斯',
+    'james milner': '詹姆斯·米尔纳',
+    'frank lampard': '弗兰克·兰帕德',
+    'david james': '大卫·詹姆斯',
+    'gary speed': '加里·斯皮德',
+    'emile heskey': '埃米尔·赫斯基',
+    'sol campbell': '索尔·坎贝尔',
+    'paul scholes': '保罗·斯科尔斯',
+    'jamie carragher': '杰米·卡拉格',
+    'wayne rooney': '韦恩·鲁尼',
+    'steven gerrard': '史蒂文·杰拉德',
+    'john terry': '约翰·特里',
+    'andy cole': '安迪·科尔',
+    'andrew cole': '安迪·科尔',
+    'alan shearer': '艾伦·希勒',
+    'michael owen': '迈克尔·欧文',
+    'robbie fowler': '罗比·福勒',
+    'peter schmeichel': '彼得·舒梅切尔',
+    'petr cech': '彼得·切赫',
+    'david seaman': '大卫·西曼',
+    'mark schwarzer': '马克·施瓦泽',
+    'brad friedel': '布拉德·弗里德尔',
+    'shay given': '谢·吉文',
+    'tim howard': '蒂姆·霍华德',
+    'paul robinson': '保罗·罗宾逊',
+    'ashley cole': '阿什利·科尔',
+    'gary neville': '加里·内维尔',
+    'phil neville': '菲尔·内维尔',
+    'nicky butt': '尼基·巴特',
+    'roy keane': '罗伊·基恩',
+    'david beckham': '大卫·贝克汉姆',
+    'patrick vieira': '帕特里克·维埃拉',
+    'robert pires': '罗伯特·皮雷斯',
+    'freddie ljungberg': '弗雷迪·云加贝里',
+    'thierry henry': '蒂埃里·亨利',
+    'dennis bergkamp': '丹尼斯·伯格坎普',
+    'nicolas anelka': '尼古拉斯·阿内尔卡',
+    'tony adams': '托尼·亚当斯',
+    'martin keown': '马丁·基翁',
+    'nigel winterburn': '奈杰尔·温特伯恩',
+    'lee dixon': '李·迪克森',
+    'ray parlour': '雷·帕洛尔',
+    'dwight yorke': '德怀特·约克',
+    'ruud van nistelrooij': '鲁德·范尼斯特尔罗伊',
+    'ole gunnar solskjaer': '奥莱·冈纳·索尔斯克亚',
+    'robin van persie': '罗宾·范佩西',
+    'dimitar berbatov': '迪米塔尔·贝尔巴托夫',
+    'carlos tevez': '卡洛斯·特维斯',
+    'cristiano ronaldo': '克里斯蒂亚诺·罗纳尔多',
+    'michael carrick': '迈克尔·卡里克',
+    'ashley young': '阿什利·杨',
+    'wes brown': '韦斯·布朗',
+    'john o\'shea': '约翰·奥谢',
+    'rio ferdinand': '里奥·费迪南德',
+    'didier drogba': '迪迪埃·德罗巴',
+    'eden hazard': '伊甸·阿扎尔',
+    'john obi mikel': '约翰·奥比·米克尔',
+    'fernando torres': '费尔南多·托雷斯',
+    'peter crouch': '彼得·克劳奇',
+    'teddy sheringham': '泰迪·谢林汉姆',
+    'dion dublin': '狄翁·都柏林',
+    'les ferdinand': '莱斯·费迪南德',
+    'ledley king': '莱德利·金',
+    'robbie keane': '罗比·基恩',
+    'jermain defoe': '贾梅因·德福',
+    'darren bent': '达伦·本特',
+    'darren anderton': '达伦·安德顿',
+    'michael dawson': '迈克尔·道森',
+    'leighton baines': '利顿·贝恩斯',
+    'leon osman': '莱昂·奥斯曼',
+    'tim cahill': '蒂姆·卡希尔',
+    'phil jagielka': '菲利普·雅吉尔卡',
+    'seamus coleman': '谢默斯·科尔曼',
+    'mikel arteta': '米克尔·阿尔特塔',
+    'kevin campbell': '凯文·坎贝尔',
+    'sami hyypia': '萨米·许佩亚',
+    'jamie redknapp': '杰米·雷德克纳普',
+    'martin skrtel': '马丁·斯克特尔',
+    'daniel agger': '丹尼尔·阿格',
+    'lucas leiva': '卢卡斯·莱瓦',
+    'kolo toure': '科洛·图雷',
+    'bacary sagna': '巴卡里·萨尼亚',
+    'william gallas': '威廉·加拉斯',
+    'mikael silvestre': '米卡埃尔·西尔韦斯特雷',
+    'sylvain distin': '西尔万·迪斯汀',
+    'matthew le tissier': '马修·勒蒂西尔',
+    'matt le tissier': '马修·勒蒂西尔',
+    'nigel martyn': '奈杰尔·马丁',
+    'sander westerveld': '桑德·韦斯特韦尔德',
+    'dean kiely': '迪安·基利',
+    'scott carson': '斯科特·卡森',
+    'ben foster': '本·福斯特',
+    'robert green': '罗伯特·格林',
+    'stephen warnock': '史蒂芬·沃诺克',
+    'martin laursen': '马丁·劳森',
+    'olof mellberg': '奥洛夫·梅尔贝里',
+    'gareth southgate': '加雷斯·索斯盖特',
+    'ugo ehiogu': '乌戈·埃霍古',
+    'alan wright': '艾伦·莱特',
+    'mark bosnich': '马克·博斯尼奇',
+    'peter enckelman': '彼得·恩克尔曼',
+    'darius vassell': '达里亚斯·瓦塞尔',
+    'dion dublin': '狄翁·都柏林',
+    'tommy johnson': '汤米·约翰逊',
+    'paul merson': '保罗·默森',
+    'lee hendrie': '李·亨德里',
+    'ian taylor': '伊恩·泰勒',
+    'tommy elphick': '汤米·埃尔菲克',
+    'marc albrighton': '马克·阿尔布莱顿',
+    'shinji okazaki': '冈崎慎司',
+    'riyad mahrez': '里亚德·马赫雷斯',
+    'jamie vardy': '杰米·瓦尔迪',
+    'kasper schmeichel': '卡斯帕·舒梅切尔',
+    'christian fuchs': '克里斯蒂安·富克斯',
+    'danny drinkwater': '丹尼·德林克沃特',
+    'wes morgan': '韦斯·摩根',
+    'robert huth': '罗伯特·胡特',
+    'son heung-min': '孙兴慜',
+    'harry kane': '哈里·凯恩',
+    'hugo lloris': '乌戈·洛里斯',
+    'jan vertonghen': '扬·弗托根',
+    'toby alderweireld': '托比·阿尔德韦勒尔德',
+    'kieran trippier': '基兰·特里皮尔',
+    'dele alli': '德莱·阿利',
+    'christian eriksen': '克里斯蒂安·埃里克森',
+    'vincent kompany': '文森特·孔帕尼',
+    'yaya toure': '亚亚·图雷',
+    'david silva': '大卫·席尔瓦',
+    'sergio aguero': '塞尔希奥·阿奎罗',
+    'ilkay gundogan': '伊尔卡伊·居恩多安',
+    'ilkay gündogan': '伊尔卡伊·居恩多安',
+    'raheem sterling': '拉希姆·斯特林',
+    'kevin de bruyne': '凯文·德布劳内',
+    'fernandinho': '费尔南迪尼奥',
+    'nicolas otamendi': '尼古拉斯·奥塔门迪',
+    'kyle walker': '凯尔·沃克',
+    'pablo zabaleta': '巴勃罗·萨瓦莱塔',
+    'james milner': '詹姆斯·米尔纳',
+    'joe hart': '乔·哈特',
+    'james mcnulty': '詹姆斯·麦克纳尔蒂',
+    'jordan henderson': '乔丹·亨德森',
+    'virgil van dijk': '维吉尔·范戴克',
+    'alisson becker': '阿利松·贝克尔',
+    'trent alexander-arnold': '特伦特·亚历山大-阿诺德',
+    'andy robertson': '安迪·罗伯逊',
+    'sadio mane': '萨迪奥·马内',
+    'mohamed salah': '穆罕默德·萨拉赫',
+    'roberto firmino': '罗伯托·菲尔米诺',
+    'xabi alonso': '沙比·阿隆索',
+    'dirk kuijt': '德克·库伊特',
+    'pepe reina': '佩佩·雷纳',
+    'paul konchesky': '保罗·坤切斯基',
+    'jamie redknapp': '杰米·雷德克纳普',
+    'cesc fabregas': '塞斯克·法布雷加斯',
+    'samir nasri': '萨米尔·纳斯里',
+    'gael clichy': '加埃尔·克利希',
+    'thomas vermaelen': '托马斯·弗梅伦',
+    'per mertesacker': '佩尔·默特萨克',
+    'laurent koscielny': '洛朗·科西尔尼',
+    'nacho monreal': '纳乔·蒙雷亚尔',
+    'santi cazorla': '桑蒂·卡索拉',
+    'alexis sanchez': '阿莱克西斯·桑切斯',
+    'mesut ozil': '梅苏特·厄齐尔',
+    'pierre-emerick aubameyang': '皮埃尔-埃梅里克·奥巴姆扬',
+    'alexandre lacazette': '亚历山大·拉卡泽特',
+    'granit xhaka': '格拉尼特·贾卡',
+    'bernd leno': '贝恩德·莱诺',
+    'hector bellerin': '埃克托尔·贝列林',
+    'rob holding': '罗伯·霍尔丁',
+    'jack wilshere': '杰克·威尔谢尔',
+    'theo walcott': '西奥·沃尔科特',
+    'tomás soucek': '托马斯·苏切克',
+    'mark noble': '马克·诺布尔',
+    'antonio conte': '安东尼奥·孔蒂',
+    'michail antonio': '米夏伊尔·安东尼奥',
+    'declan rice': '德克兰·赖斯',
+    'craig dawson': '克雷格·道森',
+    'issa diop': '伊萨·迪奥普',
+    'aaron cresswell': '亚伦·克莱斯韦尔',
+    'pablo fornals': '巴勃罗·福纳尔斯',
+    'andriy yarmolenko': '安德烈·亚尔莫连科',
+    'patrice evra': '帕特里斯·埃夫拉',
+    'nemanja vidic': '内马尼亚·维迪奇',
+    'jonny evans': '乔尼·埃文斯',
+    'darren fletcher': '达伦·弗莱彻',
+    'anderson': '安德森',
+    'antonio valencia': '安东尼奥·巴伦西亚',
+    'wayne bridge': '韦恩·布里奇',
+    'claude makelele': '克劳德·马克莱莱',
+    'michael essien': '迈克尔·埃辛',
+    'frank lampard': '弗兰克·兰帕德',
+    'joe cole': '乔·科尔',
+    'arjen robben': '阿尔扬·罗本',
+    'shaun wright-phillips': '肖恩·赖特-菲利普斯',
+    'scott parker': '斯科特·帕克',
+    'john lundstram': '约翰·伦斯特拉姆',
+    'james ward-prowse': '詹姆斯·沃德-普劳斯',
+    'maya yoshida': '吉田麻也',
+    'virgil van dijk': '维吉尔·范戴克',
+    'dejan lovren': '德扬·洛夫伦',
+    'nathaniel clyne': '纳撒尼尔·克莱恩',
+    'emre can': '埃姆雷·詹',
+    'adam lallana': '亚当·拉拉纳',
+    'philippe coutinho': '菲利普·库蒂尼奥',
+    'daniel sturridge': '丹尼尔·斯特里奇',
+    'divock origi': '迪沃克·奥里吉',
+    'gylfi sigurdsson': '吉尔菲·西于尔兹松',
+    'peter odemwingie': '彼得·奥德姆温吉耶',
+    'andrew johnson': '安德鲁·约翰逊',
+    'david wheater': '大卫·韦特尔',
+    'ian wright': '伊恩·赖特',
+    'eric cantona': '埃里克·坎通纳',
+    'dennis bergkamp': '丹尼斯·伯格坎普',
+}
+
 CLUB_MAP = {
+    # Full names → Chinese
     'Manchester United': '曼联', 'Arsenal': '阿森纳', 'Chelsea': '切尔西',
     'Liverpool': '利物浦', 'Manchester City': '曼城', 'Tottenham Hotspur': '热刺',
     'Everton': '埃弗顿', 'Newcastle United': '纽卡斯尔', 'Aston Villa': '阿斯顿维拉',
@@ -483,6 +733,18 @@ CLUB_MAP = {
     'Brighton & Hove Albion': '布莱顿', 'Watford': '沃特福德',
     'Huddersfield Town': '哈德斯菲尔德', 'Cardiff City': '卡迪夫城',
     'Bournemouth': '伯恩茅斯', 'Brentford': '布伦特福德', 'Luton Town': '卢顿',
+    # API shortNames → Chinese (so profile_clubs short names get mapped correctly)
+    'Man Utd': '曼联', 'Man City': '曼城', 'Spurs': '热刺',
+    'Brighton': '布莱顿', 'Newcastle': '纽卡斯尔', 'West Ham': '西汉姆',
+    'Leicester': '莱斯特城', 'Blackburn': '布莱克本', 'Leeds': '利兹联',
+    'West Brom': '西布罗姆维奇', 'Stoke': '斯托克城', 'Birmingham': '伯明翰',
+    'Coventry': '考文垂', 'Swansea': '斯旺西', 'Wigan': '威根竞技',
+    'Norwich': '诺维奇', 'Wolves': '狼队', "Nott'm Forest": '诺丁汉森林',
+    'Sheff Weds': '谢周三', 'Sheff Utd': '谢菲尔德联', 'QPR': '女王公园巡游者',
+    'Ipswich': '伊普斯威奇', 'Derby': '德比郡', 'Bolton': '博尔顿',
+    'Middlesbrough': '米德尔斯堡', 'Boro': '米德尔斯堡',
+    'Huddersfield': '哈德斯菲尔德', 'Cardiff': '卡迪夫城',
+    'Aston Villa': '阿斯顿维拉',
 }
 
 
@@ -500,60 +762,88 @@ def _v(row, col, default=None):
     return val
 
 
-def _parse_achievements(row) -> List[str]:
-    achievements = []
+def _parse_achievements(row) -> List[Dict[str, str]]:
+    """Return list of {type, detail} dicts for each achievement."""
+    achievements: List[Dict[str, str]] = []
+    seen: Set[str] = set()
+
+    def _add(typ: str, detail: str) -> None:
+        if typ not in seen:
+            achievements.append({'type': typ, 'detail': detail})
+            seen.add(typ)
+
     apps = float(_v(row, 'appearances', 0) or 0)
     clean_sheets = float(_v(row, '100cleansheetsgk_Premier League total clean sheets', 0) or 0)
     goals = float(_v(row, '100goalsclub_Premier League total goals', 0) or 0)
     titles = float(_v(row, 'ayers3ustitles_titles', 0) or 0)
     golden_boot = _v(row, 'golden_boot_season')
     golden_glove = _v(row, 'goldenglovewinners_Season')
-    pots = _v(row, 'ayerofseasonwinners_Club')
+    pots_club = _v(row, 'ayerofseasonwinners_Club')
+    # ayerofseasonwinners_Season 在列清理阶段被 rename 成了 yearofseasonwinners
+    pots_season = _v(row, 'yearofseasonwinners') or _v(row, 'ayerofseasonwinners_Season')
     team_xi = _v(row, 'team10y20yawardxi_award')
-    team1 = _v(row, 'multi_team1', '')
-    team2 = _v(row, 'multi_team2', '')
-    team3 = _v(row, 'multi_team3', '')
+    team1 = str(_v(row, 'multi_team1', '') or '')
+    team2 = str(_v(row, 'multi_team2', '') or '')
+    team3 = str(_v(row, 'multi_team3', '') or '')
     team1_apps = float(_v(row, 'multi_team1_appearances', 0) or 0)
     team2_apps = float(_v(row, 'multi_team2_appearances', 0) or 0)
     team3_apps = float(_v(row, 'multi_team3_appearances', 0) or 0)
 
     if apps >= 250:
-        achievements.append('出场250次')
-    if clean_sheets >= 100:
-        achievements.append('百大零封')
+        _add('出场250次', f'{int(apps)}场')
+    # 单队200场紧排在出场250次之后
+    for tname, tapps in [(team1, team1_apps), (team2, team2_apps), (team3, team3_apps)]:
+        if tname.strip() and tapps >= 200:
+            mapped = CLUB_MAP.get(tname.strip(), tname.strip())
+            _add('单队200场', f'{mapped}|{int(tapps)}')
     if goals >= 100:
-        achievements.append('百球')
+        _add('百球', f'{int(goals)}')
+    if clean_sheets >= 100:
+        _add('百大零封', f'{int(clean_sheets)}')
     if titles >= 3:
-        achievements.append('三冠王')
+        # detail 使用完整赛季字符串，供前端格式化显示
+        seasons_raw = str(_v(row, 'ayers3ustitles_seasons', '') or '').strip()
+        _add('三冠王', seasons_raw)
     if golden_boot and str(golden_boot).strip():
-        achievements.append('金靴奖')
+        _add('金靴奖', str(golden_boot).strip())
     if golden_glove and str(golden_glove).strip():
-        achievements.append('金手套奖')
-    if pots and str(pots).strip():
-        achievements.append('年度最佳')
+        _add('金手套奖', str(golden_glove).strip())
+    if pots_club and str(pots_club).strip():
+        detail = str(pots_season).strip() if pots_season and str(pots_season).strip() else ''
+        _add('年度最佳', detail)
     if team_xi and str(team_xi).strip():
-        achievements.append('最佳阵容')
-    is_single = team1 and str(team1).strip() and \
-                (not team2 or not str(team2).strip() or team2_apps == 0) and \
-                (not team3 or not str(team3).strip() or team3_apps == 0)
-    if is_single and team1_apps >= 200:
-        achievements.append('单队200场')
-    return list(dict.fromkeys(achievements))
+        xi_label = '20年' if '20' in str(team_xi) else '10年'
+        _add('最佳阵容', xi_label)
+    return achievements
 
 
 def _parse_clubs(row) -> List[str]:
     clubs = []
-    for team_col, apps_col in [
-        ('multi_team1', 'multi_team1_appearances'),
-        ('multi_team2', 'multi_team2_appearances'),
-        ('multi_team3', 'multi_team3_appearances'),
-    ]:
-        team = _v(row, team_col, '')
-        apps = float(_v(row, apps_col, 0) or 0)
-        if team and str(team).strip() and (team_col == 'multi_team1' or apps > 0):
-            mapped = CLUB_MAP.get(str(team).strip(), str(team).strip())
+
+    # 1. Transfermarkt 全量数据（multi_all_teams，10+ apps/club，降阈后可覆盖所有效力球队）
+    all_teams = _v(row, 'multi_all_teams', '')
+    if all_teams and str(all_teams).strip():
+        for raw in str(all_teams).split(','):
+            raw = raw.strip()
+            if not raw:
+                continue
+            mapped = CLUB_MAP.get(raw, raw)
             if mapped not in clubs:
                 clubs.append(mapped)
+
+    # 2. profile_clubs 补充（currentTeam + previousTeam，来自250.py）
+    #    只保留能映射到已知英超俱乐部的条目，过滤掉非英超俱乐部（如 FC Bayern）
+    profile = _v(row, 'profile_clubs', '')
+    if profile and str(profile).strip():
+        for raw in str(profile).split(','):
+            raw = raw.strip()
+            if not raw or raw not in CLUB_MAP:
+                continue  # 不在 CLUB_MAP 里 = 非英超俱乐部，跳过
+            mapped = CLUB_MAP[raw]
+            if mapped not in clubs:
+                clubs.append(mapped)
+
+    # 3. 兜底：用获冠军记录里的俱乐部
     if not clubs:
         titles_club = _v(row, 'ayers3ustitles_clubs', '')
         if titles_club and str(titles_club).strip():
@@ -564,16 +854,27 @@ def _parse_clubs(row) -> List[str]:
 
 
 def _single_club_apps(row) -> Optional[float]:
+    """Return the highest single-club PL appearances (team1, sorted by apps desc).
+    Used for near-miss detection (180-200) and single-club 200 badge."""
     team1 = _v(row, 'multi_team1', '')
-    team2 = _v(row, 'multi_team2', '')
-    team3 = _v(row, 'multi_team3', '')
     team1_apps = float(_v(row, 'multi_team1_appearances', 0) or 0)
-    team2_apps = float(_v(row, 'multi_team2_appearances', 0) or 0)
-    team3_apps = float(_v(row, 'multi_team3_appearances', 0) or 0)
-    is_single = team1 and str(team1).strip() and \
-                (not team2 or not str(team2).strip() or team2_apps == 0) and \
-                (not team3 or not str(team3).strip() or team3_apps == 0)
-    return team1_apps if is_single else None
+    return team1_apps if team1 and str(team1).strip() else None
+
+
+# 英超名人堂入选球员（官方公布，2021 年起）
+# 键为 Pulselive 标准英文姓名（小写）
+HALL_OF_FAME_NAMES: Set[str] = {
+    # 2021 届
+    'alan shearer', 'andrew cole', 'frank lampard', 'thierry henry',
+    'peter schmeichel', 'steven gerrard', 'roy keane', 'didier drogba',
+    'eric cantona', 'david beckham',
+    # 2022 届
+    'dennis bergkamp', 'ian wright', 'patrick vieira', 'robbie fowler',
+    'teddy sheringham', 'ledley king', 'sol campbell',
+    # 2023 届
+    'wayne rooney', 'michael owen', 'rio ferdinand',
+    'nemanja vidic', 'vincent kompany',
+}
 
 
 def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Optional[pd.DataFrame] = None) -> None:
@@ -624,15 +925,16 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         titles_val = _v(row, 'ayers3ustitles_titles')
         titles_val = float(titles_val) if titles_val else None
 
-        is_retired = str(_v(row, 'multi_is_retired', 'no') or 'no').strip().lower()
-        is_active = is_retired != 'yes'
+        # 只根据 multi_is_retired 判断：'no' 才算现役，其他(yes/NaN/空) 都算退役
+        _retired_val = _v(row, 'multi_is_retired')
+        is_active = str(_retired_val).strip().lower() == 'no' if _retired_val is not None else False
 
         birth_date = dob_lookup.get(player_id, '')
 
         players.append({
             'id': player_id,
             'name_en': name,
-            'name_cn': name,
+            'name_cn': PLAYER_CN_NAME_MAP.get(name.lower(), name),
             'total_appearances': total_apps,
             'single_club_appearances': _single_club_apps(row),
             'goals': goals_val,
@@ -641,7 +943,7 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
             'clubs': _parse_clubs(row),
             'achievements': _parse_achievements(row),
             'is_active': is_active,
-            'is_hall_of_fame': False,
+            'is_hall_of_fame': name.lower() in HALL_OF_FAME_NAMES,
             'nationality': str(_v(row, 'nationality', '') or ''),
             'position': str(_v(row, 'position', '') or ''),
             'birth_date': birth_date,

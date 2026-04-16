@@ -22,6 +22,10 @@ export default function HallOfFame() {
     queryFn: fetchPlayers,
   });
 
+  // Helper: get achievement type string (supports both old string[] and new {type,detail}[])
+  const getAchievementTypes = (achievements) =>
+    (achievements || []).map(a => (typeof a === 'string' ? a : a.type));
+
   const qualifiedPlayers = useMemo(() => {
     return players.filter(player => player.achievements && player.achievements.length > 0);
   }, [players]);
@@ -33,9 +37,9 @@ export default function HallOfFame() {
           return false;
         }
 
-        const hasNearMiss = 
+        const hasNearMiss =
           (player.total_appearances >= 230 && player.total_appearances < 250) ||
-          (player.single_club_appearances >= 180 && player.single_club_appearances < 200) ||
+          (player.single_club_appearances != null && player.single_club_appearances >= 180 && player.single_club_appearances < 200) ||
           (player.goals >= 80 && player.goals < 100) ||
           (player.clean_sheets >= 80 && player.clean_sheets < 100);
 
@@ -43,12 +47,12 @@ export default function HallOfFame() {
       })
       .map(player => {
         const gaps = [];
-        
+
         if (player.total_appearances >= 230 && player.total_appearances < 250) {
           gaps.push(`还差${250 - player.total_appearances}场出场`);
         }
-        if (player.single_club_appearances >= 180 && player.single_club_appearances < 200) {
-          gaps.push(`单队还差${200 - player.single_club_appearances}场`);
+        if (player.single_club_appearances != null && player.single_club_appearances >= 180 && player.single_club_appearances < 200) {
+          gaps.push(`单队还差${Math.ceil(200 - player.single_club_appearances)}场`);
         }
         if (player.goals >= 80 && player.goals < 100) {
           gaps.push(`还差${100 - player.goals}个进球`);
@@ -93,8 +97,8 @@ export default function HallOfFame() {
 
     if (selectedAchievement !== 'all') {
       filtered = filtered.filter(player =>
-        player.achievements?.some(achievement => 
-          achievement.includes(selectedAchievement)
+        getAchievementTypes(player.achievements).some(type =>
+          type.includes(selectedAchievement)
         )
       );
     }

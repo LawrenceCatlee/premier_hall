@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
@@ -110,46 +111,28 @@ def _player_details(session: requests.Session, player_id: int) -> Dict[str, Any]
     return _get_json(session, f"/football/players/{player_id}", params={"altIds": "true"})
 
 
-def _collect_clubs_from_player_stats(session: requests.Session, player_id: int) -> List[str]:
-    js = _get_json(session, f"/football/stats/player/{player_id}", params={"comps": "1", "altIds": "true"})
-
-    clubs: Set[str] = set()
-
-    def walk(o: Any) -> None:
-        if isinstance(o, dict):
-            c = o.get("club")
-            if isinstance(c, dict):
-                nm = c.get("shortName") or c.get("name")
-                if nm:
-                    clubs.add(str(nm).strip())
-
-            t = o.get("team")
-            if isinstance(t, dict):
-                nm = t.get("shortName") or t.get("name")
-                if nm:
-                    clubs.add(str(nm).strip())
-                c2 = t.get("club")
-                if isinstance(c2, dict):
-                    nm2 = c2.get("shortName") or c2.get("name")
-                    if nm2:
-                        clubs.add(str(nm2).strip())
-
-            for v in o.values():
-                walk(v)
-        elif isinstance(o, list):
-            for it in o:
-                walk(it)
-
-    walk(js)
-
+def _clubs_from_profile(details: Dict[str, Any]) -> List[str]:
+    """Extract currentTeam + previousTeam short names from a player profile dict."""
+    clubs: List[str] = []
     noise = {"", "FIRST", "U21", "U18"}
-    clubs = {c for c in clubs if c not in noise}
-    return sorted(clubs)
+
+    def _pick(team_dict: Any) -> Optional[str]:
+        if not isinstance(team_dict, dict):
+            return None
+        club = team_dict.get("club") or team_dict
+        nm = club.get("shortName") or club.get("name") or team_dict.get("shortName") or team_dict.get("name")
+        return str(nm).strip() if nm and str(nm).strip() not in noise else None
+
+    for key in ("currentTeam", "previousTeam"):
+        nm = _pick(details.get(key))
+        if nm and nm not in clubs:
+            clubs.append(nm)
+    return clubs
 
 
 def _infer_is_retired(rank_item: Dict[str, Any], details: Dict[str, Any]) -> bool:
     """
-    这里返回“近似退役/非英超现役”：
+    这里返回"近似退役/非英超现役"：
     - 若 details.active / details.isActive 存在：active=True -> not retired
     - 否则用 rank_item.owner.active
     - 再兜底 currentTeam
@@ -165,9 +148,41 @@ def _infer_is_retired(rank_item: Dict[str, Any], details: Dict[str, Any]) -> boo
     return not bool(details.get("currentTeam"))
 
 
+def _load_cache() -> Dict[int, Dict[str, Any]]:
+    """Load existing CSV into a dict keyed by player_id."""
+    if not OUT_PATH.exists():
+        return {}
+    try:
+        df = pd.read_csv(OUT_PATH, encoding="utf-8-sig")
+        cache: Dict[int, Dict[str, Any]] = {}
+        for _, row in df.iterrows():
+            pid = _as_int(row.get("player_id"))
+            if pid is not None:
+                cache[pid] = row.to_dict()
+        print(f"[cache] Loaded {len(cache)} players from {OUT_PATH}", flush=True)
+        return cache
+    except Exception as e:
+        print(f"[cache] Failed to load cache: {e}", flush=True)
+        return {}
+
+
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--active-only",
+        action="store_true",
+        help=(
+            "Incremental mode: only re-fetch active EPL players from the API. "
+            "Retired/inactive players are kept from the existing CSV cache."
+        ),
+    )
+    args = parser.parse_args()
+
     session = _make_session()
     Path("data").mkdir(parents=True, exist_ok=True)
+
+    # Load cache (always; used as fallback in active-only mode, or overwritten in full mode)
+    cache = _load_cache() if args.active_only else {}
 
     rows: List[Dict[str, Any]] = []
     seen: Set[int] = set()
@@ -176,8 +191,10 @@ def main() -> None:
     stop = False
 
     while not stop:
+        print(f"[page {page}] fetching appearances ranking...", flush=True)
         items = _ranked_appearances_page(session, page=page, page_size=PAGE_SIZE)
         if not items:
+            print(f"[page {page}] no items returned, stopping.", flush=True)
             break
 
         for it in items:
@@ -189,9 +206,11 @@ def main() -> None:
 
             apps = _as_int(it.get("value") or it.get("statValue") or it.get("total") or it.get("appearances"))
             if apps is None:
+                print(f"  [skip] player_id={player_id} — could not parse apps value", flush=True)
                 continue
 
             if apps < MIN_APPS:
+                print(f"  [stop] apps={apps} < {MIN_APPS}, done fetching pages.", flush=True)
                 stop = True
                 break
 
@@ -199,19 +218,54 @@ def main() -> None:
                 continue
             seen.add(player_id)
 
-            player_name = _extract_name(owner)
+            # Fix: name is at item level, not inside owner
+            player_name = it.get("name") or _extract_name(owner)
+            is_active = bool(owner.get("active")) if isinstance(owner, dict) else False
 
-            details = _player_details(session, player_id)
-            clubs = _collect_clubs_from_player_stats(session, player_id)
+            if args.active_only and not is_active:
+                # --active-only mode: use cached row for retired/inactive players
+                if player_id in cache:
+                    rows.append(cache[player_id])
+                    print(
+                        f"  [cache] {player_name} (id={player_id}, apps={apps}) — inactive, using cache.",
+                        flush=True,
+                    )
+                else:
+                    # Not in cache yet — add with minimal info (no API call)
+                    rows.append(
+                        {
+                            "player_id": player_id,
+                            "player name": player_name,
+                            "clubs": "",
+                            "total_appearances": apps,
+                            "is_retired": True,
+                        }
+                    )
+                    print(
+                        f"  [new-inactive] {player_name} (id={player_id}, apps={apps}) — not in cache, added bare.",
+                        flush=True,
+                    )
+                continue
 
-            if not clubs:
-                ct = details.get("currentTeam")
+            if is_active:
+                # Active player — fetch full profile for clubs + retirement status
+                print(f"  [{len(rows)+1}] {player_name} (id={player_id}, apps={apps}) — fetching details...", flush=True)
+                details = _player_details(session, player_id)
+                clubs = _clubs_from_profile(details)
+                is_retired = _infer_is_retired(it, details)
+            else:
+                # Full mode, inactive — skip expensive API calls
+                print(f"  [{len(rows)+1}] {player_name} (id={player_id}, apps={apps}) — inactive, skipping detail fetch.", flush=True)
+                details = {}
+                ct = owner.get("currentTeam") if isinstance(owner, dict) else None
+                clubs = []
                 if isinstance(ct, dict):
-                    nm = ct.get("shortName") or ct.get("name")
+                    nm = (ct.get("club") or ct).get("shortName") or ct.get("name")
                     if nm:
                         clubs = [str(nm).strip()]
+                is_retired = True
 
-            is_retired = _infer_is_retired(it, details)
+            is_retired = _infer_is_retired(it, details) if details else True
 
             rows.append(
                 {
@@ -222,6 +276,7 @@ def main() -> None:
                     "is_retired": bool(is_retired),
                 }
             )
+            print(f"    -> clubs={clubs}, retired={is_retired}", flush=True)
 
             time.sleep(0.15)
 
@@ -232,7 +287,7 @@ def main() -> None:
         columns=["player_id", "player name", "clubs", "total_appearances", "is_retired"],
     )
     df.to_csv(OUT_PATH, index=False, encoding="utf-8-sig")
-    print(f"Saved: {OUT_PATH} (rows={len(df)})")
+    print(f"Saved: {OUT_PATH} (rows={len(df)})", flush=True)
 
 
 if __name__ == "__main__":

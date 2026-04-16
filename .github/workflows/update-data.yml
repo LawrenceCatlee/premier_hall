@@ -103,16 +103,10 @@ jobs:
       - name: Run data pipeline
         working-directory: backend
         run: |
-          python player_premier_250.py
+          python player_premier_250.py --active-only
           python player_premier_team_200.py
           python premier_league_awards.py
           python merge_player_data.py
-
-      # ── 把生成的 players.json 放到前端 public 目录 ────────────────────
-      - name: Copy players.json to frontend
-        run: |
-          mkdir -p frontend/public/data
-          cp backend/data/players.json frontend/public/data/players.json
 
       # ── 如果文件有变化才 commit ───────────────────────────────────────
       - name: Commit & push if changed

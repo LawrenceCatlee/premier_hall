@@ -736,7 +736,7 @@ def scrape_100_clean_sheets_gk(
     page = 1
     while True:
         url = base_url if page == 1 else f"{base_url}/page/{page}"
-        resp = requests.get(url, headers=headers, timeout=30)
+        resp = requests.get(url, headers=headers, timeout=60)
         resp.raise_for_status()
 
         soup = BeautifulSoup(resp.content, "html.parser")
@@ -966,14 +966,27 @@ def main() -> None:
     resolver = PlayerIdResolver()
     outputs: List[Path] = []
 
-    # Be polite to Wikipedia
-    # outputs.append(scrape_team_10_and_20_awards(resolver)); time.sleep(1)
+    # team_10y_20y is static — only scrape once if CSV is missing
+    team_10y_file = DATA_DIR / "pl_team_10y_20y_award_xi.csv"
+    if team_10y_file.exists():
+        print(f"[INFO] {team_10y_file} already exists, skipping scrape.")
+        outputs.append(team_10y_file)
+    else:
+        outputs.append(scrape_team_10_and_20_awards(resolver)); time.sleep(1)
+
     outputs.append(scrape_golden_boot(resolver)); time.sleep(1)
     outputs.append(scrape_golden_glove(resolver)); time.sleep(1)
     outputs.append(scrape_player_of_the_season(resolver)); time.sleep(1)
     outputs.append(scrape_3plus_premier_league_titles(resolver)); time.sleep(1)
     outputs.append(scrape_100_goals_club(resolver)); time.sleep(1)
-    outputs.append(scrape_100_clean_sheets_gk(resolver))
+    try:
+        outputs.append(scrape_100_clean_sheets_gk(resolver))
+    except Exception as e:
+        print(f"[WARN] scrape_100_clean_sheets_gk failed ({e}), using existing file if available")
+        existing = DATA_DIR / "pl_100_clean_sheets_gk.csv"
+        if existing.exists():
+            outputs.append(existing)
+            print(f"[INFO] Using cached {existing}")
 
     # 1) dump unresolved suggestions for manual review (if any)
     resolver.dump_unmatched_report()
