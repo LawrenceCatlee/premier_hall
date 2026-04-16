@@ -1,54 +1,41 @@
-import React from 'react';
-import { Card, CardContent } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Trophy, Users, Star } from 'lucide-react';
+import { Trophy, Users, Star, TrendingUp } from 'lucide-react';
 import { cn } from "@/lib/utils";
 import { useLanguage } from '../LanguageContext';
 import { translations, clubNameMap } from '../translations';
 
-/**
- * Format a single achievement as a plain-text sentence.
- * detail formats coming from the backend:
- *   出场250次  → "653场"
- *   单队200场  → "切尔西|429"  (team|apps)
- *   百球       → "177"
- *   百大零封   → "100"
- *   三冠王     → "1992–93, 1993–94, ..."
- *   金靴奖     → "1994, 1995, 1996"
- *   金手套奖   → "2004–05, 2005–06"
- *   年度最佳   → "2004"
- *   最佳阵容   → "10年" | "20年"
- */
+const POSITION_LABEL = { G: 'GK', D: 'DEF', M: 'MID', F: 'FWD' };
+const POSITION_COLOR = {
+  G:  { bg: 'bg-amber-400/20',   text: 'text-amber-300'  },
+  D:  { bg: 'bg-sky-400/20',     text: 'text-sky-300'    },
+  M:  { bg: 'bg-emerald-400/20', text: 'text-emerald-300'},
+  F:  { bg: 'bg-rose-400/20',    text: 'text-rose-300'   },
+};
+
 function formatAchievement(type, detail, language) {
-  const joinDot = (str) => (str || '').split(',').map(s => s.trim()).filter(Boolean).join('、');
+  const joinDot = (str) =>
+    (str || '').split(',').map(s => s.trim()).filter(Boolean).join('、');
 
   if (language === 'zh') {
     switch (type) {
       case '出场250次':
         return `在英超出场了${detail.replace('场', '')}场`;
       case '单队200场': {
-        const [team, apps] = detail.split('|');
+        const [team, apps] = (detail || '').split('|');
         return `为${team}出场${apps}场英超比赛`;
       }
       case '百球':
         return `英超共打入${detail}球`;
       case '百大零封':
         return `英超共零封${detail}次`;
-      case '三冠王': {
-        const seasons = joinDot(detail);
-        return `英超冠军：${seasons}`;
-      }
-      case '金靴奖': {
-        const years = joinDot(detail);
-        return `英超射手王：${years}`;
-      }
-      case '金手套奖': {
-        const years = joinDot(detail);
-        return `英超最佳门将奖：${years}`;
-      }
+      case '三冠王':
+        return `英超冠军：${joinDot(detail)}`;
+      case '金靴奖':
+        return `英超射手王：${joinDot(detail)}`;
+      case '金手套奖':
+        return `英超最佳门将奖：${joinDot(detail)}`;
       case '年度最佳': {
-        const years = joinDot(detail);
-        return years ? `英超年度最佳：${years}` : '英超年度最佳';
+        const y = joinDot(detail);
+        return y ? `英超年度最佳：${y}` : '英超年度最佳';
       }
       case '最佳阵容':
         return `入选英超${detail}最佳阵容`;
@@ -56,33 +43,32 @@ function formatAchievement(type, detail, language) {
         return detail ? `${type}：${detail}` : type;
     }
   } else {
-    // English
     switch (type) {
       case '出场250次':
-        return `${detail.replace('场', '')} Premier League appearances`;
+        return `${detail.replace('场', '')} PL Appearances`;
       case '单队200场': {
-        const [team, apps] = detail.split('|');
+        const [team, apps] = (detail || '').split('|');
         return `${apps} PL apps for ${clubNameMap[team] || team}`;
       }
       case '百球':
-        return `${detail} Premier League goals`;
+        return `${detail} PL Goals`;
       case '百大零封':
-        return `${detail} Premier League clean sheets`;
+        return `${detail} PL Clean Sheets`;
       case '三冠王': {
-        const seasons = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
-        return `PL Champion: ${seasons}`;
+        const s = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
+        return `PL Champion: ${s}`;
       }
       case '金靴奖': {
-        const years = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
-        return `Golden Boot: ${years}`;
+        const y = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
+        return `Golden Boot: ${y}`;
       }
       case '金手套奖': {
-        const years = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
-        return `Golden Glove: ${years}`;
+        const y = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
+        return `Golden Glove: ${y}`;
       }
       case '年度最佳': {
-        const years = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
-        return years ? `Player of the Year: ${years}` : 'Player of the Year';
+        const y = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
+        return y ? `Player of Year: ${y}` : 'Player of Year';
       }
       case '最佳阵容':
         return `PL ${detail} Team of the Year`;
@@ -96,80 +82,105 @@ export default function PlayerCard({ player, showGap = false }) {
   const { language } = useLanguage();
   const t = translations[language];
 
-  const isHoF = player.is_hall_of_fame;
+  const isHoF    = player.is_hall_of_fame;
   const isActive = player.is_active;
+  const pos      = (player.position || '').toUpperCase().charAt(0);
+  const posLabel = POSITION_LABEL[pos] || pos;
+  const posStyle = POSITION_COLOR[pos] || { bg: 'bg-slate-400/20', text: 'text-slate-300' };
 
-  const borderColor = isHoF
-    ? 'border-[#FFD700] shadow-[#FFD700]/40'
-    : isActive
-    ? 'border-[#ff2882] shadow-[#ff2882]/30'
-    : 'border-slate-200';
+  // Accent colour
+  const accentColor = isHoF ? '#FFD700' : isActive ? '#ff2882' : '#475569';
 
-  // Normalise achievements: support both old string[] and new {type,detail}[]
+  // Achievements: normalise old string[] to {type,detail}[]
   const achievements = (player.achievements || []).map(a =>
     typeof a === 'string' ? { type: a, detail: '' } : a
   );
 
+  // Near-miss gap items (provided by HallOfFame.jsx)
+  const gapItems = player.gap_items || [];
+
   return (
-    <Card className={cn(
-      "overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-1",
-      "border-2",
-      borderColor
-    )}>
-      <CardContent className="p-4">
-        <div className="flex items-start justify-between mb-3">
-          <h3 className="text-xl font-bold text-slate-900">
-            {language === 'zh' ? player.name_cn : player.name_en}
-          </h3>
-          <div className="flex flex-col gap-1 ml-2 flex-shrink-0">
+    <div
+      className={cn(
+        'rounded-2xl overflow-hidden flex flex-col',
+        'bg-white/5 backdrop-blur-sm',
+        'border transition-all duration-300 hover:scale-[1.02] hover:shadow-2xl'
+      )}
+      style={{ borderColor: `${accentColor}55` }}
+    >
+      {/* Accent top bar */}
+      <div className="h-1 w-full" style={{ background: accentColor }} />
+
+      <div className="p-4 flex flex-col gap-3 flex-1">
+        {/* Header: name + badges */}
+        <div className="flex items-start justify-between gap-2">
+          <div className="flex-1 min-w-0">
+            <h3 className="text-base font-bold text-white leading-snug truncate">
+              {language === 'zh' ? player.name_cn : player.name_en}
+            </h3>
+            {language === 'zh' && player.name_cn !== player.name_en && (
+              <p className="text-xs text-slate-400 truncate">{player.name_en}</p>
+            )}
+          </div>
+          <div className="flex flex-col gap-1 items-end shrink-0">
             {isHoF && (
-              <Badge className="bg-[#FFD700] hover:bg-[#FFD700]/90 text-slate-900 font-bold text-xs">
-                <Trophy className="w-3 h-3 mr-1" />
-                {t.hallOfFame}
-              </Badge>
+              <span className="inline-flex items-center gap-0.5 text-[10px] font-bold px-1.5 py-0.5 rounded-full bg-[#FFD700]/20 text-[#FFD700] border border-[#FFD700]/40">
+                <Trophy className="w-2.5 h-2.5" />{t.hallOfFame}
+              </span>
             )}
             {isActive && (
-              <Badge className="bg-[#ff2882] hover:bg-[#ff2882]/90 text-white font-bold text-xs">
+              <span className="text-[10px] font-bold px-1.5 py-0.5 rounded-full bg-[#ff2882]/20 text-[#ff2882] border border-[#ff2882]/40">
                 {t.active}
-              </Badge>
+              </span>
+            )}
+            {posLabel && (
+              <span className={cn('text-[10px] font-semibold px-1.5 py-0.5 rounded-full', posStyle.bg, posStyle.text)}>
+                {posLabel}
+              </span>
             )}
           </div>
         </div>
 
-        <div className="space-y-2">
-          {/* Clubs */}
-          <div className="flex items-start gap-2 text-sm">
-            <Users className="w-4 h-4 text-[#37003c] flex-shrink-0 mt-0.5" />
-            <p className="text-slate-600">
+        {/* Clubs */}
+        {player.clubs && player.clubs.length > 0 && (
+          <div className="flex items-start gap-1.5 text-xs text-slate-300">
+            <Users className="w-3.5 h-3.5 text-slate-500 shrink-0 mt-0.5" />
+            <span>
               {language === 'en'
-                ? player.clubs?.map(c => clubNameMap[c] || c).join(', ')
-                : player.clubs?.join('、')}
-            </p>
-          </div>
-
-          {/* Achievements — one plain-text sentence per line */}
-          {achievements.length > 0 && (
-            <div className="flex items-start gap-2 text-sm">
-              <Star className="w-4 h-4 text-[#37003c] flex-shrink-0 mt-0.5" />
-              <ul className="space-y-0.5">
-                {achievements.map((a, idx) => (
-                  <li key={idx} className="text-slate-700">
-                    {formatAchievement(a.type, a.detail, language)}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
-        </div>
-
-        {showGap && player.gap_info && (
-          <div className="mt-3 pt-3 border-t border-slate-200">
-            <p className="text-sm font-medium text-[#ff2882]">
-              {player.gap_info}
-            </p>
+                ? player.clubs.map(c => clubNameMap[c] || c).join(' · ')
+                : player.clubs.join(' · ')}
+            </span>
           </div>
         )}
-      </CardContent>
-    </Card>
+
+        {/* Achievements */}
+        {achievements.length > 0 && (
+          <div className="flex items-start gap-1.5">
+            <Star className="w-3.5 h-3.5 text-[#FFD700]/70 shrink-0 mt-0.5" />
+            <ul className="space-y-0.5 flex-1">
+              {achievements.map((a, i) => (
+                <li key={i} className="text-xs text-slate-200 leading-relaxed">
+                  {formatAchievement(a.type, a.detail, language)}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {/* Near-miss gaps */}
+        {showGap && gapItems.length > 0 && (
+          <div className="mt-auto pt-2 border-t border-white/10 flex items-start gap-1.5">
+            <TrendingUp className="w-3.5 h-3.5 text-[#ff2882] shrink-0 mt-0.5" />
+            <ul className="space-y-0.5 flex-1">
+              {gapItems.map((item, i) => (
+                <li key={i} className="text-xs text-[#ff2882]/90 leading-relaxed">
+                  {item}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+    </div>
   );
 }

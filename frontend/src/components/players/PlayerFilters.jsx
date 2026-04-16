@@ -10,12 +10,13 @@ const getAchievementTypes = (t) => [
   { value: 'all', label: t.achievements.all },
   { value: '出场250次', label: t.achievements.appearances250 },
   { value: '单队200场', label: t.achievements.singleClub200 },
-  { value: '最佳阵容', label: t.achievements.teamOfYear },
+  { value: '百球', label: t.achievements.century100goals },
+  { value: '百大零封', label: t.achievements.century100clean },
+  { value: '三冠王', label: t.achievements.threeChampionships },
   { value: '金靴奖', label: t.achievements.goldenBoot },
   { value: '金手套奖', label: t.achievements.goldenGlove },
   { value: '年度最佳', label: t.achievements.playerOfYear },
-  { value: '三冠王', label: t.achievements.threeChampionships },
-  { value: '百球', label: t.achievements.century }
+  { value: '最佳阵容', label: t.achievements.teamOfYear },
 ];
 
 const getClubs = (t) => [
@@ -51,19 +52,19 @@ export default function PlayerFilters({
   const hasFilters = selectedClub !== 'all' || selectedAchievement !== 'all' || selectedStatus !== 'all' || selectedPlayerStatus !== 'all';
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-4 mb-6">
+    <div className="rounded-xl p-4 mb-6 bg-white/5 backdrop-blur-sm border border-white/10">
       <div className="flex items-center gap-2 mb-4">
-        <Filter className="w-5 h-5 text-[#37003c]" />
-        <h3 className="text-lg font-semibold text-slate-900">{t.filters}</h3>
+        <Filter className="w-5 h-5 text-slate-400" />
+        <h3 className="text-lg font-semibold text-white">{t.filters}</h3>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         <div>
-          <label className="text-sm font-medium text-slate-700 mb-2 block">
+          <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
             {t.club}
           </label>
           <Select value={selectedClub} onValueChange={onClubChange}>
-            <SelectTrigger>
+            <SelectTrigger className="bg-white/10 border-white/20 text-white">
               <SelectValue placeholder={t.club} />
             </SelectTrigger>
             <SelectContent>
@@ -77,11 +78,11 @@ export default function PlayerFilters({
         </div>
 
         <div>
-          <label className="text-sm font-medium text-slate-700 mb-2 block">
+          <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
             {t.achievement}
           </label>
           <Select value={selectedAchievement} onValueChange={onAchievementChange}>
-            <SelectTrigger>
+            <SelectTrigger className="bg-white/10 border-white/20 text-white">
               <SelectValue placeholder={t.achievement} />
             </SelectTrigger>
             <SelectContent>
@@ -95,11 +96,11 @@ export default function PlayerFilters({
         </div>
 
         <div>
-          <label className="text-sm font-medium text-slate-700 mb-2 block">
+          <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
             {t.qualificationStatus}
           </label>
           <Select value={selectedStatus} onValueChange={onStatusChange}>
-            <SelectTrigger>
+            <SelectTrigger className="bg-white/10 border-white/20 text-white">
               <SelectValue placeholder={t.qualificationStatus} />
             </SelectTrigger>
             <SelectContent>
@@ -111,11 +112,11 @@ export default function PlayerFilters({
         </div>
 
         <div>
-          <label className="text-sm font-medium text-slate-700 mb-2 block">
+          <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
             {t.playerStatus}
           </label>
           <Select value={selectedPlayerStatus} onValueChange={onPlayerStatusChange}>
-            <SelectTrigger>
+            <SelectTrigger className="bg-white/10 border-white/20 text-white">
               <SelectValue placeholder={t.playerStatus} />
             </SelectTrigger>
             <SelectContent>
@@ -129,32 +130,32 @@ export default function PlayerFilters({
 
       {hasFilters && (
         <div className="mt-4 flex items-center gap-2 flex-wrap">
-          <span className="text-sm text-slate-600">{t.currentFilters}</span>
+          <span className="text-xs text-slate-400">{t.currentFilters}</span>
           {selectedClub !== 'all' && (
-            <Badge variant="secondary">
+            <Badge className="bg-white/10 text-slate-200 border-white/20">
               {CLUBS.find(c => c.value === selectedClub)?.label}
             </Badge>
           )}
           {selectedAchievement !== 'all' && (
-            <Badge variant="secondary">
+            <Badge className="bg-white/10 text-slate-200 border-white/20">
               {ACHIEVEMENT_TYPES.find(a => a.value === selectedAchievement)?.label}
             </Badge>
           )}
           {selectedStatus !== 'all' && (
-            <Badge variant="secondary">
+            <Badge className="bg-white/10 text-slate-200 border-white/20">
               {selectedStatus === 'qualified' ? t.qualified : t.nearMiss}
             </Badge>
           )}
           {selectedPlayerStatus !== 'all' && (
-            <Badge variant="secondary">
+            <Badge className="bg-white/10 text-slate-200 border-white/20">
               {selectedPlayerStatus === 'active' ? t.active : t.retired}
             </Badge>
           )}
-          <Button 
-            variant="ghost" 
-            size="sm" 
+          <Button
+            variant="ghost"
+            size="sm"
             onClick={onClear}
-            className="ml-auto"
+            className="ml-auto text-slate-400 hover:text-white"
           >
             <X className="w-4 h-4 mr-1" />
             {t.clearFilters}

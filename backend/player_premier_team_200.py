@@ -20,8 +20,21 @@ def scrape_team_players(team_name, url):
     
     # 获取Pulselive球员索引用于player_id匹配
     print("加载Pulselive球员索引...")
-    pl_players_df = get_pulselive_player_index()
-    pl_name_to_id = dict(zip(pl_players_df['player_name'].str.lower(), pl_players_df['player_id']))
+    pl_players_df = get_pulselive_player_index().copy()
+
+    # 只保留 Pulselive 中 appearances >= 180 的球员
+    if 'appearances' not in pl_players_df.columns:
+        raise KeyError("Pulselive 索引中没有 appearances 列，无法按 appearances>=180 过滤")
+
+    pl_players_df['appearances'] = pd.to_numeric(pl_players_df['appearances'], errors='coerce')
+    pl_players_df = pl_players_df[pl_players_df['appearances'] >= 180].copy()
+
+    print(f"Pulselive 过滤后剩余 {len(pl_players_df)} 名球员")
+
+    pl_name_to_id = dict(zip(
+        pl_players_df['player_name'].str.lower().str.strip(),
+        pl_players_df['player_id']
+    ))
     
     # 设置请求头，模拟浏览器访问
     headers = {
@@ -150,8 +163,8 @@ def scrape_team_players(team_name, url):
                         appearances = int(cell_text)
                         break
                 
-                # 只保存出场数>=10的球员（捕获所有在英超有一定出场的球队）
-                if appearances >= 10:
+                # 只保存出场数>=180的球员（捕获所有在英超有一定出场的球队）
+                if appearances >= 180:
                     player_info = {
                         'player_id': player_id,  # 添加player_id
                         'team': team_name,
@@ -298,7 +311,7 @@ def process_players_data(all_players_data):
     
     # 创建DataFrame并按第一支球队出场数降序排列
     df = pd.DataFrame(final_players_data)
-    df = df.sort_values('team1_appearances', ascending=False).reset_index(drop=True)
+    df = df.sort_values('total_appearances', ascending=False).reset_index(drop=True)
     return df
 
 def check_current_team(current_team, page_team, is_retired):
@@ -311,7 +324,7 @@ def check_current_team(current_team, page_team, is_retired):
     
     # 如果没有当前效力球队信息，返回否
     if not current_team:
-        return '否'
+        return 'no'
     
     # 检查当前效力球队是否与页面球队一致
     # 需要处理球队名称的标准化（去除多余空格、统一大小写等）

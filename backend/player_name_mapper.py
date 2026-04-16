@@ -41,7 +41,8 @@ NAME_MAPPING = {
     "tomáš souček": "tomás soucek",
     "nemanja vidic‎": "nemanja vidic",
     "dirk kuyt": "dirk kuijt",
-    "ken monkou": "kenneth monkou"
+    "ken monkou": "kenneth monkou",
+    "gabriel": "gabriel magalhães"
     
     # Add more mappings as discovered from analysis
 }

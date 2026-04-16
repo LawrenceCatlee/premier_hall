@@ -36,6 +36,7 @@ SPECIAL_NAME_MAP = {
     "alisson": "alisson becker",  # Alisson -> Alisson Becker
     "heung-min son": "son heung-min",  # Heung-min Son -> Son Heung-min
     "yakubu aiyegbeni": "yakubu",  # Yakubu Aiyegbeni -> Yakubu
+    "Gabriel": "Gabriel Magalhães"
 }
 
 # Extra transliteration for common football-name characters

@@ -49,8 +49,8 @@ def load_all_data_files(data_dir: str = "data") -> Dict[str, pd.DataFrame]:
     clubs_250_file = data_path / "epl_players_appearances_230plus.csv"
     if clubs_250_file.exists():
         try:
-            df = pd.read_csv(clubs_250_file, usecols=lambda c: c in ("player_id", "clubs"))
-            df = df.rename(columns={"clubs": "profile_clubs"})
+            df = pd.read_csv(clubs_250_file, usecols=lambda c: c in ("player_id", "clubs", "is_retired"))
+            df = df.rename(columns={"clubs": "profile_clubs", "is_retired": "epl250_is_retired"})
             data_files["epl_250_clubs"] = df
             print(f"加载 epl_250_clubs: {len(df)} 行数据")
         except Exception as e:
@@ -210,9 +210,9 @@ def consolidate_awards(df: pd.DataFrame) -> pd.DataFrame:
 
 def merge_multi_team_data(base_df: pd.DataFrame, multi_team_df: pd.DataFrame) -> pd.DataFrame:
     """
-    基于球员姓名合并multi_team数据，包含所有详细信息
+    基于球员id合并multi_team数据，包含所有详细信息
     """
-    print("\n基于球员姓名合并multi_team数据...")
+    print("\n基于球员id合并multi_team数据...")
     
     # 标准化两个表的姓名
     base_df = standardize_player_names(base_df, 'player_name')
@@ -220,7 +220,7 @@ def merge_multi_team_data(base_df: pd.DataFrame, multi_team_df: pd.DataFrame) ->
     
     # 为multi_team表的列添加前缀，但保留所有列
     multi_team_renamed = multi_team_df.rename(columns={
-        col: f"multi_{col}" if col != 'standardized_name' else col 
+        col: f"multi_{col}" if col != 'standardized_name' and col != 'player_id' else col 
         for col in multi_team_df.columns
     })
     
@@ -230,14 +230,14 @@ def merge_multi_team_data(base_df: pd.DataFrame, multi_team_df: pd.DataFrame) ->
     merged_df = pd.merge(
         base_df, 
         multi_team_renamed, 
-        on='standardized_name', 
+        on='player_id', 
         how='left'
     )
     
     print(f"合并multi_team后: {len(merged_df)} 行")
     
     # 移除临时列
-    merged_df = merged_df.drop(columns=['standardized_name'])
+    merged_df = merged_df.drop(columns=['standardized_name_x', 'standardized_name_y'], errors='ignore')
     
     return merged_df
 
@@ -400,7 +400,7 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         'ayers3ustitles_nationality', 'ayers3ustitles_player',
         'goldenbootwinners_Player', 'goldenbootwinners_Club',
         # multi_ columns that are redundant
-        'multi_player_name', 'multi_player_id', 'multi_total_appearances',
+        'multi_player_name', 'multi_total_appearances',
     }
 
     # multi_ columns we want to keep (the rest are excluded above)
@@ -420,7 +420,7 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         if col in columns_to_remove:
             continue
         # 保留player_id和核心列（含 profile_clubs/multi_all_teams/ayerofseasonwinners_Season，防止被 base_col 去重逻辑误删）
-        if col in ['player_id', 'player_name', 'appearances', 'profile_clubs', 'multi_all_teams', 'ayerofseasonwinners_Season']:
+        if col in ['player_id', 'player_name', 'appearances', 'profile_clubs', 'multi_all_teams', 'ayerofseasonwinners_Season', 'epl250_is_retired']:
             columns_to_keep.append(col)
             continue
 
@@ -443,6 +443,51 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
     if 'ayerofseasonwinners_Season' in merged_df.columns:
         merged_df = merged_df.rename(columns={'ayerofseasonwinners_Season': 'yearofseasonwinners'})
         print("已添加 yearofseasonwinners 列")
+
+    # 删除：appearances < 180 且指定荣誉/球队信息列全部为空 的行
+    check_cols = [
+        'goldenglovewinners_Season',
+        'goldenglovewinners_Clean sheets',
+        '100cleansheetsgk_Premier League total clean sheets',
+        'yearofseasonwinners',
+        'ayerofseasonwinners_Club',
+        'team10y20yawardxi_award',
+        '100goalsclub_Premier League total goals',
+        'goldenbootwinners_Goals',
+        'ayers3ustitles_titles',
+        'ayers3ustitles_clubs',
+        'ayers3ustitles_seasons',
+        'multi_all_teams',
+        'multi_team1',
+        'multi_team1_appearances',
+        'multi_is_in_team1',
+        'multi_team2',
+        'multi_team2_appearances',
+        'multi_is_in_team2',
+        'multi_team3',
+        'multi_team3_appearances',
+        'multi_is_in_team3',
+        'multi_is_retired',
+        'golden_boot_season',
+        'golden_boot_goals',
+    ]
+
+    existing_check_cols = [col for col in check_cols if col in merged_df.columns]
+
+    if 'appearances' in merged_df.columns and existing_check_cols:
+        appearances_num = pd.to_numeric(merged_df['appearances'], errors='coerce')
+
+        # 把空字符串、纯空格也视为缺失值
+        check_block = merged_df[existing_check_cols].replace(r'^\s*$', pd.NA, regex=True)
+
+        delete_mask = appearances_num.lt(180) & check_block.isna().all(axis=1)
+
+        print(f"删除前: {len(merged_df)} 行")
+        print(f"满足条件待删除: {delete_mask.sum()} 行")
+
+        merged_df = merged_df.loc[~delete_mask].copy()
+
+        print(f"删除后: {len(merged_df)} 行")
     
     # 按出场数排序
     if 'appearances' in merged_df.columns:
@@ -876,6 +921,29 @@ HALL_OF_FAME_NAMES: Set[str] = {
     'nemanja vidic', 'vincent kompany',
 }
 
+# ── Chinese name lookup ──────────────────────────────────────────────────────
+# Load from data/player_chinese_names.json if it exists;
+# fall back to the hardcoded PLAYER_CN_NAME_MAP for any missing entries.
+_CN_NAMES_FILE = Path(__file__).parent / "data" / "player_chinese_names.json"
+
+def _load_cn_name_map() -> Dict[str, str]:
+    """Return merged dict: JSON file (preferred) + PLAYER_CN_NAME_MAP (seed fallback)."""
+    combined = dict(PLAYER_CN_NAME_MAP)  # start from seed
+    if _CN_NAMES_FILE.exists():
+        try:
+            with open(_CN_NAMES_FILE, encoding='utf-8') as f:
+                from_file = json.load(f)
+            combined.update(from_file)  # JSON entries win over seed
+            print(f"Loaded {len(from_file)} Chinese names from {_CN_NAMES_FILE.name}")
+        except Exception as e:
+            print(f"Warning: could not load {_CN_NAMES_FILE.name}: {e}")
+    else:
+        print(f"Note: {_CN_NAMES_FILE.name} not found — using built-in name map only. "
+              "Run fetch_all_chinese_names.py to build it.")
+    return combined
+
+_CN_NAME_MAP: Dict[str, str] = _load_cn_name_map()
+
 
 def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Optional[pd.DataFrame] = None) -> None:
     """
@@ -925,18 +993,28 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         titles_val = _v(row, 'ayers3ustitles_titles')
         titles_val = float(titles_val) if titles_val else None
 
-        # 只根据 multi_is_retired 判断：'no' 才算现役，其他(yes/NaN/空) 都算退役
-        _retired_val = _v(row, 'multi_is_retired')
-        is_active = str(_retired_val).strip().lower() == 'no' if _retired_val is not None else False
+        # 退役判断：优先使用 epl_250 的 is_retired（True/False 布尔，来自250.py）
+        # 次选 multi_is_retired（'yes'/'no' 字符串，来自200.py Transfermarkt）
+        _epl250_retired = _v(row, 'epl250_is_retired')
+        if _epl250_retired is not None and str(_epl250_retired).strip().lower() not in ('', 'nan'):
+            is_active = str(_epl250_retired).strip().lower() == 'false'
+        else:
+            _multi_retired = _v(row, 'multi_is_retired')
+            is_active = str(_multi_retired).strip().lower() == 'no' if _multi_retired is not None else False
 
         birth_date = dob_lookup.get(player_id, '')
+
+        # single_club_name: English name of the club with highest PL apps (for near-miss label)
+        _team1_raw = str(_v(row, 'multi_team1', '') or '').strip()
+        single_club_name_en = _team1_raw  # keep English for frontend filtering
 
         players.append({
             'id': player_id,
             'name_en': name,
-            'name_cn': PLAYER_CN_NAME_MAP.get(name.lower(), name),
+            'name_cn': _CN_NAME_MAP.get(name.lower(), name),
             'total_appearances': total_apps,
             'single_club_appearances': _single_club_apps(row),
+            'single_club_name': single_club_name_en,
             'goals': goals_val,
             'clean_sheets': clean_sheets_val,
             'premier_league_titles': titles_val,
@@ -946,6 +1024,7 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
             'is_hall_of_fame': name.lower() in HALL_OF_FAME_NAMES,
             'nationality': str(_v(row, 'nationality', '') or ''),
             'position': str(_v(row, 'position', '') or ''),
+            'current_club': str(_v(row, 'current_club', '') or ''),
             'birth_date': birth_date,
             'age': calc_age(birth_date),
         })
