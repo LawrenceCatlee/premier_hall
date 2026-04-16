@@ -16,6 +16,7 @@ export default function HallOfFame() {
   const [selectedAchievement, setSelectedAchievement] = useState('all');
   const [selectedStatus, setSelectedStatus] = useState('all');
   const [selectedPlayerStatus, setSelectedPlayerStatus] = useState('all');
+  const [selectedNationality, setSelectedNationality] = useState('all');
   const [searchName, setSearchName] = useState('');
 
   const { data: players = [], isLoading } = useQuery({
@@ -105,6 +106,12 @@ export default function HallOfFame() {
 
   const allPlayers = useMemo(() => [...qualifiedPlayers, ...nearMissPlayers], [qualifiedPlayers, nearMissPlayers]);
 
+  // Sorted unique nationality list for filter dropdown
+  const nationalities = useMemo(() => {
+    const set = new Set(allPlayers.map(p => p.nationality).filter(Boolean));
+    return Array.from(set).sort();
+  }, [allPlayers]);
+
   const filteredPlayers = useMemo(() => {
     let filtered = allPlayers;
 
@@ -129,6 +136,10 @@ export default function HallOfFame() {
       filtered = filtered.filter(p => !p.is_active);
     }
 
+    if (selectedNationality !== 'all') {
+      filtered = filtered.filter(p => p.nationality === selectedNationality);
+    }
+
     if (selectedClub !== 'all') {
       filtered = filtered.filter(p => p.clubs?.some(c => c.includes(selectedClub)));
     }
@@ -142,16 +153,14 @@ export default function HallOfFame() {
         '百大零封':   p => p.clean_sheets != null && p.clean_sheets >= 80 && p.clean_sheets < 100,
       };
       filtered = filtered.filter(p => {
-        // Qualified players: check achievements array
         if (getAchievementTypes(p.achievements).some(type => type.includes(selectedAchievement))) return true;
-        // Near-miss players: check approaching criterion
         const check = nearMissCheck[selectedAchievement];
         return check ? check(p) : false;
       });
     }
 
     return filtered;
-  }, [allPlayers, searchName, selectedClub, selectedAchievement, selectedStatus, selectedPlayerStatus]);
+  }, [allPlayers, searchName, selectedClub, selectedAchievement, selectedStatus, selectedPlayerStatus, selectedNationality]);
 
   const stats = useMemo(() => ({
     qualified: qualifiedPlayers.length,
@@ -166,6 +175,7 @@ export default function HallOfFame() {
     setSelectedAchievement('all');
     setSelectedStatus('all');
     setSelectedPlayerStatus('all');
+    setSelectedNationality('all');
     setSearchName('');
   };
 
@@ -190,9 +200,9 @@ export default function HallOfFame() {
           {/* Stats */}
           <div className="grid grid-cols-2 md:grid-cols-5 gap-3 max-w-4xl mx-auto">
             {[
-              { value: stats.inducted, label: t.hallOfFame, accent: '#FFD700' },
               { value: stats.qualified, label: t.qualified, accent: '#00ff85' },
               { value: stats.nearMiss, label: t.nearMiss, accent: '#ff2882' },
+              { value: stats.inducted, label: t.hallOfFame, accent: '#FFD700' },
               { value: stats.active, label: t.active, accent: '#38bdf8' },
               { value: stats.retired, label: t.retired, accent: '#94a3b8' },
             ].map(({ value, label, accent, dark }) => (
@@ -207,8 +217,23 @@ export default function HallOfFame() {
             ))}
           </div>
 
+          {/* Color legend */}
+          <div className="mt-6 flex items-center justify-center gap-5 flex-wrap">
+            <span className="text-xs text-slate-500 mr-1">{t.legendTitle}:</span>
+            {[
+              { color: '#FFD700', label: t.legendHoF },
+              { color: '#ff2882', label: t.legendActive },
+              { color: '#475569', label: t.legendRetired },
+            ].map(({ color, label }) => (
+              <span key={label} className="flex items-center gap-1.5 text-xs text-slate-400">
+                <span className="inline-block w-2.5 h-2.5 rounded-sm" style={{ background: color }} />
+                {label}
+              </span>
+            ))}
+          </div>
+
           {/* Search bar */}
-          <div className="mt-8 max-w-md mx-auto">
+          <div className="mt-6 max-w-md mx-auto">
             <div className="relative">
               <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" />
               <input
@@ -230,10 +255,13 @@ export default function HallOfFame() {
           selectedAchievement={selectedAchievement}
           selectedStatus={selectedStatus}
           selectedPlayerStatus={selectedPlayerStatus}
+          selectedNationality={selectedNationality}
+          nationalities={nationalities}
           onClubChange={setSelectedClub}
           onAchievementChange={setSelectedAchievement}
           onStatusChange={setSelectedStatus}
           onPlayerStatusChange={setSelectedPlayerStatus}
+          onNationalityChange={setSelectedNationality}
           onClear={handleClearFilters}
         />
 

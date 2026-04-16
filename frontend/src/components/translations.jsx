@@ -69,7 +69,7 @@ export const achievementMap = {
 export const translations = {
   zh: {
     title: 'Premier Hall',
-    subtitle: '展示自英超开办以来符合名人堂入选资格的传奇球员',
+    subtitle: '展示自英超开办以来符合名人堂入选资格的球员',
     qualified: '已达标',
     nearMiss: '接近达标',
     hallOfFame: '名人堂',
@@ -103,6 +103,12 @@ export const translations = {
       playerOfYear: '年度最佳',
       teamOfYear: '最佳阵容',
     },
+    nationality: '国籍',
+    allNationalities: '全部国籍',
+    legendTitle: '卡片颜色说明',
+    legendHoF: '名人堂成员',
+    legendActive: '在役球员',
+    legendRetired: '退役球员',
     clubs: {
       all: '全部俱乐部',
       manUtd: '曼联',
@@ -153,6 +159,12 @@ export const translations = {
       playerOfYear: 'Player of Year',
       teamOfYear: 'Team of Year',
     },
+    nationality: 'Nationality',
+    allNationalities: 'All Nationalities',
+    legendTitle: 'Card Colours',
+    legendHoF: 'Hall of Fame',
+    legendActive: 'Active Player',
+    legendRetired: 'Retired Player',
     clubs: {
       all: 'All Clubs',
       manUtd: 'Man Utd',

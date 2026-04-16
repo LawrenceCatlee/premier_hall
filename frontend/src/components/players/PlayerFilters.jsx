@@ -1,4 +1,3 @@
-import React from 'react';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Badge } from "@/components/ui/badge";
 import { X, Filter } from 'lucide-react';
@@ -30,26 +29,41 @@ const getClubs = (t) => [
   { value: '埃弗顿', label: t.clubs.everton },
   { value: '纽卡斯尔', label: t.clubs.newcastle },
   { value: '阿斯顿维拉', label: t.clubs.astonVilla },
-  { value: '其他', label: t.clubs.other }
+  { value: '其他', label: t.clubs.other },
 ];
 
-export default function PlayerFilters({ 
-  selectedClub, 
+export default function PlayerFilters({
+  selectedClub,
   selectedAchievement,
   selectedStatus,
   selectedPlayerStatus,
-  onClubChange, 
+  selectedNationality,
+  nationalities = [],
+  onClubChange,
   onAchievementChange,
   onStatusChange,
   onPlayerStatusChange,
-  onClear 
+  onNationalityChange,
+  onClear,
 }) {
   const { language } = useLanguage();
   const t = translations[language];
   const ACHIEVEMENT_TYPES = getAchievementTypes(t);
   const CLUBS = getClubs(t);
 
-  const hasFilters = selectedClub !== 'all' || selectedAchievement !== 'all' || selectedStatus !== 'all' || selectedPlayerStatus !== 'all';
+  const hasFilters =
+    selectedClub !== 'all' ||
+    selectedAchievement !== 'all' ||
+    selectedStatus !== 'all' ||
+    selectedPlayerStatus !== 'all' ||
+    selectedNationality !== 'all';
+
+  const NAT_OPTIONS = [
+    { value: 'all', label: t.allNationalities },
+    ...nationalities.map((n) => ({ value: n, label: n })),
+  ];
+
+  const triggerCls = "bg-white/10 border-white/20 text-white";
 
   return (
     <div className="rounded-xl p-4 mb-6 bg-white/5 backdrop-blur-sm border border-white/10">
@@ -58,49 +72,48 @@ export default function PlayerFilters({
         <h3 className="text-lg font-semibold text-white">{t.filters}</h3>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6 gap-4">
+        {/* Club */}
         <div>
           <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
             {t.club}
           </label>
           <Select value={selectedClub} onValueChange={onClubChange}>
-            <SelectTrigger className="bg-white/10 border-white/20 text-white">
+            <SelectTrigger className={triggerCls}>
               <SelectValue placeholder={t.club} />
             </SelectTrigger>
             <SelectContent>
               {CLUBS.map(club => (
-                <SelectItem key={club.value} value={club.value}>
-                  {club.label}
-                </SelectItem>
+                <SelectItem key={club.value} value={club.value}>{club.label}</SelectItem>
               ))}
             </SelectContent>
           </Select>
         </div>
 
+        {/* Achievement */}
         <div>
           <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
             {t.achievement}
           </label>
           <Select value={selectedAchievement} onValueChange={onAchievementChange}>
-            <SelectTrigger className="bg-white/10 border-white/20 text-white">
+            <SelectTrigger className={triggerCls}>
               <SelectValue placeholder={t.achievement} />
             </SelectTrigger>
             <SelectContent>
               {ACHIEVEMENT_TYPES.map(type => (
-                <SelectItem key={type.value} value={type.value}>
-                  {type.label}
-                </SelectItem>
+                <SelectItem key={type.value} value={type.value}>{type.label}</SelectItem>
               ))}
             </SelectContent>
           </Select>
         </div>
 
+        {/* Qualification status */}
         <div>
           <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
             {t.qualificationStatus}
           </label>
           <Select value={selectedStatus} onValueChange={onStatusChange}>
-            <SelectTrigger className="bg-white/10 border-white/20 text-white">
+            <SelectTrigger className={triggerCls}>
               <SelectValue placeholder={t.qualificationStatus} />
             </SelectTrigger>
             <SelectContent>
@@ -111,12 +124,13 @@ export default function PlayerFilters({
           </Select>
         </div>
 
+        {/* Player status */}
         <div>
           <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
             {t.playerStatus}
           </label>
           <Select value={selectedPlayerStatus} onValueChange={onPlayerStatusChange}>
-            <SelectTrigger className="bg-white/10 border-white/20 text-white">
+            <SelectTrigger className={triggerCls}>
               <SelectValue placeholder={t.playerStatus} />
             </SelectTrigger>
             <SelectContent>
@@ -126,29 +140,51 @@ export default function PlayerFilters({
             </SelectContent>
           </Select>
         </div>
+
+        {/* Nationality */}
+        <div>
+          <label className="text-xs font-medium text-slate-400 mb-1.5 block uppercase tracking-wide">
+            {t.nationality}
+          </label>
+          <Select value={selectedNationality} onValueChange={onNationalityChange}>
+            <SelectTrigger className={triggerCls}>
+              <SelectValue placeholder={t.allNationalities} />
+            </SelectTrigger>
+            <SelectContent>
+              {NAT_OPTIONS.map(opt => (
+                <SelectItem key={opt.value} value={opt.value}>{opt.label}</SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
+        </div>
       </div>
 
       {hasFilters && (
         <div className="mt-4 flex items-center gap-2 flex-wrap">
           <span className="text-xs text-slate-400">{t.currentFilters}</span>
           {selectedClub !== 'all' && (
-            <Badge className="bg-white/10 text-slate-200 border-white/20">
+            <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
               {CLUBS.find(c => c.value === selectedClub)?.label}
             </Badge>
           )}
           {selectedAchievement !== 'all' && (
-            <Badge className="bg-white/10 text-slate-200 border-white/20">
+            <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
               {ACHIEVEMENT_TYPES.find(a => a.value === selectedAchievement)?.label}
             </Badge>
           )}
           {selectedStatus !== 'all' && (
-            <Badge className="bg-white/10 text-slate-200 border-white/20">
+            <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
               {selectedStatus === 'qualified' ? t.qualified : t.nearMiss}
             </Badge>
           )}
           {selectedPlayerStatus !== 'all' && (
-            <Badge className="bg-white/10 text-slate-200 border-white/20">
+            <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
               {selectedPlayerStatus === 'active' ? t.active : t.retired}
+            </Badge>
+          )}
+          {selectedNationality !== 'all' && (
+            <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
+              {selectedNationality}
             </Badge>
           )}
           <Button

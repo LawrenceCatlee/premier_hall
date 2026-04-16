@@ -1,4 +1,4 @@
-import { Trophy, Users, Star, TrendingUp } from 'lucide-react';
+import { Users, Star, TrendingUp } from 'lucide-react';
 import { cn } from "@/lib/utils";
 import { useLanguage } from '../LanguageContext';
 import { translations, clubNameMap } from '../translations';
@@ -123,19 +123,9 @@ export default function PlayerCard({ player, showGap = false }) {
             )}
           </div>
           <div className="flex flex-col gap-1 items-end shrink-0">
-            {isHoF && (
-              <span className="inline-flex items-center gap-0.5 text-[10px] font-bold px-1.5 py-0.5 rounded-full bg-[#FFD700]/20 text-[#FFD700] border border-[#FFD700]/40">
-                <Trophy className="w-2.5 h-2.5" />{t.hallOfFame}
-              </span>
-            )}
-            {isActive && (
-              <span className="text-[10px] font-bold px-1.5 py-0.5 rounded-full bg-[#ff2882]/20 text-[#ff2882] border border-[#ff2882]/40">
-                {t.active}
-              </span>
-            )}
-            {posLabel && (
-              <span className={cn('text-[10px] font-semibold px-1.5 py-0.5 rounded-full', posStyle.bg, posStyle.text)}>
-                {posLabel}
+            {player.nationality && (
+              <span className="text-[10px] font-medium px-1.5 py-0.5 rounded-full bg-white/10 text-slate-300 border border-white/20 whitespace-nowrap">
+                {player.nationality}
               </span>
             )}
           </div>

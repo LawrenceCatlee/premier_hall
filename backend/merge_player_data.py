@@ -45,6 +45,33 @@ def load_all_data_files(data_dir: str = "data") -> Dict[str, pd.DataFrame]:
         except Exception as e:
             print(f"加载 premier_league_players_multi_team 失败: {e}")
 
+    # 加载 ChatGPT 爬取的中文名 xlsx（player_id + player_name_zh）
+    cn_xlsx = data_path / "premier_league_players_name_Chinese.xlsx"
+    if cn_xlsx.exists():
+        try:
+            df = pd.read_excel(cn_xlsx, usecols=["player_id", "player_name_zh"])
+            df["player_id"] = pd.to_numeric(df["player_id"], errors="coerce")
+            df = df.dropna(subset=["player_id"])
+            df["player_id"] = df["player_id"].astype(int)
+            data_files["xlsx_cn_names"] = df
+            print(f"加载 xlsx_cn_names: {len(df)} 行数据")
+        except Exception as e:
+            print(f"加载 xlsx_cn_names 失败: {e}")
+
+    # 加载 ChatGPT 爬取的历史俱乐部 xlsx（player_id + 效力英超球队）
+    clubs_xlsx = data_path / "premier_league_players_history_clubs.xlsx"
+    if clubs_xlsx.exists():
+        try:
+            df = pd.read_excel(clubs_xlsx, usecols=["player_id", "效力英超球队"])
+            df["player_id"] = pd.to_numeric(df["player_id"], errors="coerce")
+            df = df.dropna(subset=["player_id"])
+            df["player_id"] = df["player_id"].astype(int)
+            df = df.rename(columns={"效力英超球队": "xlsx_clubs"})
+            data_files["xlsx_history_clubs"] = df
+            print(f"加载 xlsx_history_clubs: {len(df)} 行数据")
+        except Exception as e:
+            print(f"加载 xlsx_history_clubs 失败: {e}")
+
     # 加载 250.py 输出的 clubs 列（currentTeam + previousTeam）
     clubs_250_file = data_path / "epl_players_appearances_230plus.csv"
     if clubs_250_file.exists():
@@ -382,6 +409,20 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         merged_df = pd.merge(merged_df, clubs_df, on="player_id", how="left")
         print(f"合并 profile_clubs 后: {len(merged_df)} 行")
 
+    # 第七步A：合并 ChatGPT xlsx 历史俱乐部（优先于 Transfermarkt multi_all_teams）
+    if "xlsx_history_clubs" in data_files:
+        hc_df = data_files["xlsx_history_clubs"].copy()
+        hc_df["player_id"] = hc_df["player_id"].astype(int)
+        merged_df = pd.merge(merged_df, hc_df, on="player_id", how="left")
+        print(f"合并 xlsx_history_clubs 后: {len(merged_df)} 行")
+
+    # 第七步B：合并 ChatGPT xlsx 中文名（player_id 级别，补充 JSON 映射）
+    if "xlsx_cn_names" in data_files:
+        cn_df = data_files["xlsx_cn_names"].copy()
+        cn_df["player_id"] = cn_df["player_id"].astype(int)
+        merged_df = pd.merge(merged_df, cn_df, on="player_id", how="left")
+        print(f"合并 xlsx_cn_names 后: {len(merged_df)} 行")
+
     # 第七步：去除重复记录
     merged_df = remove_duplicate_players(merged_df)
     
@@ -420,7 +461,8 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         if col in columns_to_remove:
             continue
         # 保留player_id和核心列（含 profile_clubs/multi_all_teams/ayerofseasonwinners_Season，防止被 base_col 去重逻辑误删）
-        if col in ['player_id', 'player_name', 'appearances', 'profile_clubs', 'multi_all_teams', 'ayerofseasonwinners_Season', 'epl250_is_retired']:
+        if col in ['player_id', 'player_name', 'appearances', 'profile_clubs', 'multi_all_teams',
+                   'ayerofseasonwinners_Season', 'epl250_is_retired', 'xlsx_clubs', 'player_name_zh']:
             columns_to_keep.append(col)
             continue
 
@@ -865,7 +907,20 @@ def _parse_achievements(row) -> List[Dict[str, str]]:
 def _parse_clubs(row) -> List[str]:
     clubs = []
 
-    # 1. Transfermarkt 全量数据（multi_all_teams，10+ apps/club，降阈后可覆盖所有效力球队）
+    # 1. ChatGPT xlsx 历史俱乐部（最高优先级，全角分号分隔，已确认为英超球队）
+    xlsx_clubs = _v(row, 'xlsx_clubs', '')
+    if xlsx_clubs and str(xlsx_clubs).strip():
+        for raw in str(xlsx_clubs).split('\uff1b'):  # ；全角分号
+            raw = raw.strip()
+            if not raw:
+                continue
+            mapped = CLUB_MAP.get(raw, raw)
+            if mapped not in clubs:
+                clubs.append(mapped)
+        if clubs:
+            return clubs
+
+    # 2. Transfermarkt 全量数据（multi_all_teams）
     all_teams = _v(row, 'multi_all_teams', '')
     if all_teams and str(all_teams).strip():
         for raw in str(all_teams).split(','):
@@ -876,19 +931,18 @@ def _parse_clubs(row) -> List[str]:
             if mapped not in clubs:
                 clubs.append(mapped)
 
-    # 2. profile_clubs 补充（currentTeam + previousTeam，来自250.py）
-    #    只保留能映射到已知英超俱乐部的条目，过滤掉非英超俱乐部（如 FC Bayern）
+    # 3. profile_clubs 补充（currentTeam + previousTeam，来自250.py）
     profile = _v(row, 'profile_clubs', '')
     if profile and str(profile).strip():
         for raw in str(profile).split(','):
             raw = raw.strip()
             if not raw or raw not in CLUB_MAP:
-                continue  # 不在 CLUB_MAP 里 = 非英超俱乐部，跳过
+                continue
             mapped = CLUB_MAP[raw]
             if mapped not in clubs:
                 clubs.append(mapped)
 
-    # 3. 兜底：用获冠军记录里的俱乐部
+    # 4. 兜底：用获冠军记录里的俱乐部
     if not clubs:
         titles_club = _v(row, 'ayers3ustitles_clubs', '')
         if titles_club and str(titles_club).strip():
@@ -921,28 +975,7 @@ HALL_OF_FAME_NAMES: Set[str] = {
     'nemanja vidic', 'vincent kompany',
 }
 
-# ── Chinese name lookup ──────────────────────────────────────────────────────
-# Load from data/player_chinese_names.json if it exists;
-# fall back to the hardcoded PLAYER_CN_NAME_MAP for any missing entries.
-_CN_NAMES_FILE = Path(__file__).parent / "data" / "player_chinese_names.json"
-
-def _load_cn_name_map() -> Dict[str, str]:
-    """Return merged dict: JSON file (preferred) + PLAYER_CN_NAME_MAP (seed fallback)."""
-    combined = dict(PLAYER_CN_NAME_MAP)  # start from seed
-    if _CN_NAMES_FILE.exists():
-        try:
-            with open(_CN_NAMES_FILE, encoding='utf-8') as f:
-                from_file = json.load(f)
-            combined.update(from_file)  # JSON entries win over seed
-            print(f"Loaded {len(from_file)} Chinese names from {_CN_NAMES_FILE.name}")
-        except Exception as e:
-            print(f"Warning: could not load {_CN_NAMES_FILE.name}: {e}")
-    else:
-        print(f"Note: {_CN_NAMES_FILE.name} not found — using built-in name map only. "
-              "Run fetch_all_chinese_names.py to build it.")
-    return combined
-
-_CN_NAME_MAP: Dict[str, str] = _load_cn_name_map()
+# 中文名现在通过 xlsx 合并（xlsx_cn_names），不再使用 JSON 文件。
 
 
 def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Optional[pd.DataFrame] = None) -> None:
@@ -1008,10 +1041,14 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         _team1_raw = str(_v(row, 'multi_team1', '') or '').strip()
         single_club_name_en = _team1_raw  # keep English for frontend filtering
 
+        # 中文名来源：xlsx player_name_zh（ChatGPT 爬取），未找到则保留英文名
+        _xlsx_zh = str(_v(row, 'player_name_zh', '') or '').strip()
+        name_cn = _xlsx_zh if _xlsx_zh else name
+
         players.append({
             'id': player_id,
             'name_en': name,
-            'name_cn': _CN_NAME_MAP.get(name.lower(), name),
+            'name_cn': name_cn,
             'total_appearances': total_apps,
             'single_club_appearances': _single_club_apps(row),
             'single_club_name': single_club_name_en,
@@ -1024,7 +1061,7 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
             'is_hall_of_fame': name.lower() in HALL_OF_FAME_NAMES,
             'nationality': str(_v(row, 'nationality', '') or ''),
             'position': str(_v(row, 'position', '') or ''),
-            'current_club': str(_v(row, 'current_club', '') or ''),
+            'current_club': str(_v(row, 'current_team', '') or ''),
             'birth_date': birth_date,
             'age': calc_age(birth_date),
         })
