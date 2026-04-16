@@ -1,7 +1,7 @@
 import { Users, Star, TrendingUp } from 'lucide-react';
 import { cn } from "@/lib/utils";
 import { useLanguage } from '../LanguageContext';
-import { translations, clubNameMap } from '../translations';
+import { translations, clubNameMap, nationalityFlag, nationalityZh } from '../translations';
 
 const POSITION_LABEL = { G: 'GK', D: 'DEF', M: 'MID', F: 'FWD' };
 const POSITION_COLOR = {
@@ -125,7 +125,13 @@ export default function PlayerCard({ player, showGap = false }) {
           <div className="flex flex-col gap-1 items-end shrink-0">
             {player.nationality && (
               <span className="text-[10px] font-medium px-1.5 py-0.5 rounded-full bg-white/10 text-slate-300 border border-white/20 whitespace-nowrap">
-                {player.nationality}
+                {nationalityFlag[player.nationality] || ''}{' '}
+                {language === 'zh' ? (nationalityZh[player.nationality] || player.nationality) : player.nationality}
+              </span>
+            )}
+            {player.hof_year && (
+              <span className="text-[10px] font-medium px-1.5 py-0.5 rounded-full whitespace-nowrap" style={{ background: '#FFD70022', color: '#FFD700', border: '1px solid #FFD70055' }}>
+                {language === 'zh' ? `${player.hof_year}年入选` : `Inducted ${player.hof_year}`}
               </span>
             )}
           </div>

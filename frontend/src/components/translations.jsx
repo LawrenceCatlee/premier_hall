@@ -1,3 +1,43 @@
+// Maps nationality (English) → flag emoji
+export const nationalityFlag = {
+  'Algeria': '🇩🇿', 'Argentina': '🇦🇷', 'Australia': '🇦🇺', 'Austria': '🇦🇹',
+  'Barbados': '🇧🇧', 'Belgium': '🇧🇪', 'Bosnia & Herzegovina': '🇧🇦', 'Brazil': '🇧🇷',
+  'Bulgaria': '🇧🇬', 'Cameroon': '🇨🇲', 'Canada': '🇨🇦', 'Colombia': '🇨🇴',
+  "Cote D'Ivoire": '🇨🇮', 'Croatia': '🇭🇷', 'Czech Republic': '🇨🇿', 'DR Congo': '🇨🇩',
+  'Denmark': '🇩🇰', 'Ecuador': '🇪🇨', 'Egypt': '🇪🇬', 'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+  'Finland': '🇫🇮', 'France': '🇫🇷', 'Gabon': '🇬🇦', 'Germany': '🇩🇪',
+  'Ghana': '🇬🇭', 'Gibraltar': '🇬🇮', 'Grenada': '🇬🇩', 'Honduras': '🇭🇳',
+  'Iceland': '🇮🇸', 'Ireland': '🇮🇪', 'Israel': '🇮🇱', 'Italy': '🇮🇹',
+  'Jamaica': '🇯🇲', 'Mali': '🇲🇱', 'Mexico': '🇲🇽', 'Montserrat': '🇲🇸',
+  'Netherlands': '🇳🇱', 'New Zealand': '🇳🇿', 'Nigeria': '🇳🇬', 'Northern Ireland': '🇬🇧',
+  'Norway': '🇳🇴', 'Paraguay': '🇵🇾', 'Peru': '🇵🇪', 'Poland': '🇵🇱',
+  'Portugal': '🇵🇹', 'Romania': '🇷🇴', 'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿', 'Senegal': '🇸🇳',
+  'Serbia': '🇷🇸', 'Slovakia': '🇸🇰', 'South Africa': '🇿🇦', 'South Korea': '🇰🇷',
+  'Spain': '🇪🇸', 'Sweden': '🇸🇪', 'Switzerland': '🇨🇭', 'Togo': '🇹🇬',
+  'Trinidad & Tobago': '🇹🇹', 'Turkiye': '🇹🇷', 'Ukraine': '🇺🇦', 'United States': '🇺🇸',
+  'Uruguay': '🇺🇾', 'Wales': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+};
+
+// Maps nationality (English) → Chinese name
+export const nationalityZh = {
+  'Algeria': '阿尔及利亚', 'Argentina': '阿根廷', 'Australia': '澳大利亚', 'Austria': '奥地利',
+  'Barbados': '巴巴多斯', 'Belgium': '比利时', 'Bosnia & Herzegovina': '波黑', 'Brazil': '巴西',
+  'Bulgaria': '保加利亚', 'Cameroon': '喀麦隆', 'Canada': '加拿大', 'Colombia': '哥伦比亚',
+  "Cote D'Ivoire": '科特迪瓦', 'Croatia': '克罗地亚', 'Czech Republic': '捷克', 'DR Congo': '刚果（金）',
+  'Denmark': '丹麦', 'Ecuador': '厄瓜多尔', 'Egypt': '埃及', 'England': '英格兰',
+  'Finland': '芬兰', 'France': '法国', 'Gabon': '加蓬', 'Germany': '德国',
+  'Ghana': '加纳', 'Gibraltar': '直布罗陀', 'Grenada': '格林纳达', 'Honduras': '洪都拉斯',
+  'Iceland': '冰岛', 'Ireland': '爱尔兰', 'Israel': '以色列', 'Italy': '意大利',
+  'Jamaica': '牙买加', 'Mali': '马里', 'Mexico': '墨西哥', 'Montserrat': '蒙特塞拉特',
+  'Netherlands': '荷兰', 'New Zealand': '新西兰', 'Nigeria': '尼日利亚', 'Northern Ireland': '北爱尔兰',
+  'Norway': '挪威', 'Paraguay': '巴拉圭', 'Peru': '秘鲁', 'Poland': '波兰',
+  'Portugal': '葡萄牙', 'Romania': '罗马尼亚', 'Scotland': '苏格兰', 'Senegal': '塞内加尔',
+  'Serbia': '塞尔维亚', 'Slovakia': '斯洛伐克', 'South Africa': '南非', 'South Korea': '韩国',
+  'Spain': '西班牙', 'Sweden': '瑞典', 'Switzerland': '瑞士', 'Togo': '多哥',
+  'Trinidad & Tobago': '特立尼达和多巴哥', 'Turkiye': '土耳其', 'Ukraine': '乌克兰', 'United States': '美国',
+  'Uruguay': '乌拉圭', 'Wales': '威尔士',
+};
+
 // Maps Chinese club names to English
 export const clubNameMap = {
   '曼联': 'Man Utd',
@@ -107,8 +147,8 @@ export const translations = {
     allNationalities: '全部国籍',
     legendTitle: '卡片颜色说明',
     legendHoF: '名人堂成员',
-    legendActive: '在役球员',
-    legendRetired: '退役球员',
+    legendActive: '活跃于英超的球员',
+    legendRetired: '不活跃于英超的球员',
     clubs: {
       all: '全部俱乐部',
       manUtd: '曼联',
@@ -163,8 +203,8 @@ export const translations = {
     allNationalities: 'All Nationalities',
     legendTitle: 'Card Colours',
     legendHoF: 'Hall of Fame',
-    legendActive: 'Active Player',
-    legendRetired: 'Retired Player',
+    legendActive: 'Active in PL',
+    legendRetired: 'Inactive in PL',
     clubs: {
       all: 'All Clubs',
       manUtd: 'Man Utd',

@@ -961,18 +961,35 @@ def _single_club_apps(row) -> Optional[float]:
 
 
 # 英超名人堂入选球员（官方公布，2021 年起）
-# 键为 Pulselive 标准英文姓名（小写）
-HALL_OF_FAME_NAMES: Set[str] = {
-    # 2021 届
-    'alan shearer', 'andrew cole', 'frank lampard', 'thierry henry',
-    'peter schmeichel', 'steven gerrard', 'roy keane', 'didier drogba',
-    'eric cantona', 'david beckham',
+# 键为 Pulselive 标准英文姓名（小写），值为入选年份
+HALL_OF_FAME_MEMBERS: dict = {
+    # 2021 届首批
+    'alan shearer':    2021,
+    'thierry henry':   2021,
+    'eric cantona':    2021,
+    'roy keane':       2021,
+    'frank lampard':   2021,
+    'dennis bergkamp': 2021,
+    'steven gerrard':  2021,
+    'david beckham':   2021,
     # 2022 届
-    'dennis bergkamp', 'ian wright', 'patrick vieira', 'robbie fowler',
-    'teddy sheringham', 'ledley king', 'sol campbell',
-    # 2023 届
-    'wayne rooney', 'michael owen', 'rio ferdinand',
-    'nemanja vidic', 'vincent kompany',
+    'sergio agüero':   2022,
+    'didier drogba':   2022,
+    'vincent kompany': 2022,
+    'peter schmeichel':2022,
+    'paul scholes':    2022,
+    'ian wright':      2022,
+    # 2023 届（教练 Ferguson/Wenger 不在球员表中）
+    'tony adams':      2023,
+    'petr cech':       2023,
+    'rio ferdinand':   2023,
+    # 2024 届
+    'ashley cole':     2024,
+    'andrew cole':     2024,
+    'john terry':      2024,
+    # 2025 届
+    'gary neville':    2025,
+    'eden hazard':     2025,
 }
 
 # 中文名现在通过 xlsx 合并（xlsx_cn_names），不再使用 JSON 文件。
@@ -1058,7 +1075,8 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
             'clubs': _parse_clubs(row),
             'achievements': _parse_achievements(row),
             'is_active': is_active,
-            'is_hall_of_fame': name.lower() in HALL_OF_FAME_NAMES,
+            'hof_year': HALL_OF_FAME_MEMBERS.get(name.lower()),
+            'is_hall_of_fame': name.lower() in HALL_OF_FAME_MEMBERS,
             'nationality': str(_v(row, 'nationality', '') or ''),
             'position': str(_v(row, 'position', '') or ''),
             'current_club': str(_v(row, 'current_team', '') or ''),

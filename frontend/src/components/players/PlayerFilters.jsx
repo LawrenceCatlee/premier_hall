@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { X, Filter } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { useLanguage } from '../LanguageContext';
-import { translations } from '../translations';
+import { translations, nationalityFlag, nationalityZh } from '../translations';
 
 const getAchievementTypes = (t) => [
   { value: 'all', label: t.achievements.all },
@@ -60,7 +60,10 @@ export default function PlayerFilters({
 
   const NAT_OPTIONS = [
     { value: 'all', label: t.allNationalities },
-    ...nationalities.map((n) => ({ value: n, label: n })),
+    ...nationalities.map((n) => ({
+      value: n,
+      label: `${nationalityFlag[n] || ''} ${language === 'zh' ? (nationalityZh[n] || n) : n}`.trim(),
+    })),
   ];
 
   const triggerCls = "bg-white/10 border-white/20 text-white";
@@ -184,7 +187,8 @@ export default function PlayerFilters({
           )}
           {selectedNationality !== 'all' && (
             <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
-              {selectedNationality}
+              {nationalityFlag[selectedNationality] || ''}{' '}
+              {language === 'zh' ? (nationalityZh[selectedNationality] || selectedNationality) : selectedNationality}
             </Badge>
           )}
           <Button
