@@ -181,14 +181,14 @@ def generate_simple_players_json():
                 'detail': f'{single_club}|{int(single_club_apps)}',
             })
 
-        # 百球
+        # 百球 (achievement only if >= 100; 80-99 stored in goals for near-miss display)
         goals_val = goals_lookup.get(pid)
-        if goals_val is not None:
+        if goals_val is not None and goals_val >= 100:
             achievements.append({'type': '百球', 'detail': str(goals_val)})
 
-        # 百大零封
+        # 百大零封 (achievement only if >= 100)
         cs_val = cs_lookup.get(pid)
-        if cs_val is not None:
+        if cs_val is not None and cs_val >= 100:
             achievements.append({'type': '百大零封', 'detail': str(cs_val)})
 
         # 金靴奖

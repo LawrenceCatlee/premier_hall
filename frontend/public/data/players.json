@@ -954,10 +954,6 @@
       {
         "type": "单队200场",
         "detail": "Bolton Wanderers|316"
-      },
-      {
-        "type": "百球",
-        "detail": "87"
       }
     ]
   },
@@ -1783,10 +1779,6 @@
       {
         "type": "出场250次",
         "detail": "394场"
-      },
-      {
-        "type": "百球",
-        "detail": "89"
       }
     ]
   },
@@ -1847,10 +1839,6 @@
       {
         "type": "单队200场",
         "detail": "West Bromwich Albion|209"
-      },
-      {
-        "type": "百大零封",
-        "detail": "94"
       }
     ]
   },
@@ -2136,10 +2124,6 @@
       {
         "type": "出场250次",
         "detail": "376场"
-      },
-      {
-        "type": "百大零封",
-        "detail": "97"
       }
     ]
   },
@@ -2242,10 +2226,6 @@
       {
         "type": "出场250次",
         "detail": "374场"
-      },
-      {
-        "type": "百大零封",
-        "detail": "88"
       }
     ]
   },
@@ -2656,10 +2636,6 @@
       {
         "type": "单队200场",
         "detail": "Everton|325"
-      },
-      {
-        "type": "百大零封",
-        "detail": "98"
       }
     ]
   },
@@ -3448,10 +3424,6 @@
       {
         "type": "单队200场",
         "detail": "Southampton|202"
-      },
-      {
-        "type": "百球",
-        "detail": "90"
       }
     ]
   },
@@ -3677,10 +3649,6 @@
       {
         "type": "出场250次",
         "detail": "325场"
-      },
-      {
-        "type": "百球",
-        "detail": "83"
       }
     ]
   },
@@ -4375,10 +4343,6 @@
       {
         "type": "单队200场",
         "detail": "Arsenal|315"
-      },
-      {
-        "type": "百球",
-        "detail": "87"
       },
       {
         "type": "三冠王",
@@ -5442,10 +5406,6 @@
       {
         "type": "单队200场",
         "detail": "Manchester United|287"
-      },
-      {
-        "type": "百球",
-        "detail": "89"
       }
     ]
   },
@@ -5900,10 +5860,6 @@
       {
         "type": "出场250次",
         "detail": "289场"
-      },
-      {
-        "type": "百球",
-        "detail": "84"
       }
     ]
   },
@@ -6254,10 +6210,6 @@
       {
         "type": "出场250次",
         "detail": "286场"
-      },
-      {
-        "type": "百大零封",
-        "detail": "88"
       }
     ]
   },
@@ -6415,10 +6367,6 @@
         "detail": "284场"
       },
       {
-        "type": "百球",
-        "detail": "82"
-      },
-      {
         "type": "三冠王",
         "detail": "2015–16, 2018–19, 2020–21, 2021–22, 2022–23§Leicester City (1), Manchester City (4)"
       }
@@ -6477,10 +6425,6 @@
       {
         "type": "单队200场",
         "detail": "Leicester City|276"
-      },
-      {
-        "type": "百大零封",
-        "detail": "83"
       }
     ]
   },
@@ -6590,10 +6534,6 @@
       {
         "type": "出场250次",
         "detail": "280场"
-      },
-      {
-        "type": "百球",
-        "detail": "86"
       }
     ]
   },
@@ -7618,10 +7558,6 @@
       {
         "type": "出场250次",
         "detail": "272场"
-      },
-      {
-        "type": "百球",
-        "detail": "91"
       }
     ]
   },
@@ -8244,10 +8180,6 @@
       {
         "type": "出场250次",
         "detail": "265场"
-      },
-      {
-        "type": "百球",
-        "detail": "93"
       }
     ]
   },
@@ -8401,10 +8333,6 @@
       {
         "type": "出场250次",
         "detail": "263场"
-      },
-      {
-        "type": "百球",
-        "detail": "92"
       },
       {
         "type": "金靴奖",
@@ -8825,10 +8753,6 @@
       {
         "type": "单队200场",
         "detail": "Liverpool|256"
-      },
-      {
-        "type": "百球",
-        "detail": "82"
       }
     ]
   },
@@ -8917,10 +8841,6 @@
       {
         "type": "出场250次",
         "detail": "255场"
-      },
-      {
-        "type": "百球",
-        "detail": "90"
       }
     ]
   },
@@ -9009,10 +8929,6 @@
       {
         "type": "出场250次",
         "detail": "255场"
-      },
-      {
-        "type": "百球",
-        "detail": "83"
       },
       {
         "type": "金靴奖",
@@ -9231,10 +9147,6 @@
       {
         "type": "出场250次",
         "detail": "252场"
-      },
-      {
-        "type": "百球",
-        "detail": "95"
       }
     ]
   },
@@ -9756,10 +9668,6 @@
         "detail": "Chelsea|245"
       },
       {
-        "type": "百球",
-        "detail": "85"
-      },
-      {
         "type": "年度最佳",
         "detail": "2014–15"
       }
@@ -9849,12 +9757,7 @@
     "birth_date": "1988-03-06",
     "hof_year": null,
     "player_status": "retired",
-    "achievements": [
-      {
-        "type": "百大零封",
-        "detail": "81"
-      }
-    ]
+    "achievements": []
   },
   {
     "id": 598,
@@ -9981,12 +9884,7 @@
     "birth_date": "1992-04-19",
     "hof_year": null,
     "player_status": "active_pl",
-    "achievements": [
-      {
-        "type": "百大零封",
-        "detail": "82"
-      }
-    ]
+    "achievements": []
   },
   {
     "id": 245,
@@ -10116,12 +10014,7 @@
     "birth_date": "1984-02-26",
     "hof_year": null,
     "player_status": "retired",
-    "achievements": [
-      {
-        "type": "百球",
-        "detail": "97"
-      }
-    ]
+    "achievements": []
   },
   {
     "id": 3807,
@@ -10324,12 +10217,7 @@
     "birth_date": "1975-10-09",
     "hof_year": null,
     "player_status": "retired",
-    "achievements": [
-      {
-        "type": "百球",
-        "detail": "92"
-      }
-    ]
+    "achievements": []
   },
   {
     "id": 3982,
@@ -10668,10 +10556,6 @@
       {
         "type": "单队200场",
         "detail": "Manchester United|235"
-      },
-      {
-        "type": "百球",
-        "detail": "91"
       },
       {
         "type": "三冠王",
@@ -11072,10 +10956,6 @@
     "hof_year": null,
     "player_status": "retired",
     "achievements": [
-      {
-        "type": "百球",
-        "detail": "94"
-      },
       {
         "type": "金靴奖",
         "detail": "2010–11"
@@ -12184,10 +12064,6 @@
       {
         "type": "单队200场",
         "detail": "Aston Villa|215"
-      },
-      {
-        "type": "百球",
-        "detail": "84"
       }
     ]
   },
@@ -12456,12 +12332,7 @@
     "birth_date": "1984-03-20",
     "hof_year": null,
     "player_status": "retired",
-    "achievements": [
-      {
-        "type": "百球",
-        "detail": "85"
-      }
-    ]
+    "achievements": []
   },
   {
     "id": 2279,
@@ -12989,12 +12860,7 @@
     "birth_date": "1972-01-13",
     "hof_year": null,
     "player_status": "retired",
-    "achievements": [
-      {
-        "type": "百大零封",
-        "detail": "81"
-      }
-    ]
+    "achievements": []
   },
   {
     "id": 4000,
@@ -13569,10 +13435,6 @@
     "hof_year": null,
     "player_status": "retired",
     "achievements": [
-      {
-        "type": "百球",
-        "detail": "84"
-      },
       {
         "type": "金靴奖",
         "detail": "2010–11"
@@ -16183,10 +16045,6 @@
     "hof_year": null,
     "player_status": "retired",
     "achievements": [
-      {
-        "type": "百球",
-        "detail": "95"
-      },
       {
         "type": "金靴奖",
         "detail": "2002–03"
