@@ -184,7 +184,7 @@ export default function HallOfFame() {
               { value: stats.qualified,   label: t.qualified,           accent: '#00ff85' },
               { value: stats.nearMiss,    label: t.nearMiss,            accent: '#ff2882' },
               { value: stats.inducted,    label: t.hallOfFame,          accent: '#FFD700' },
-              { value: stats.activePL,    label: t.statusActivePL,      accent: '#38bdf8' },
+              { value: stats.activePL,    label: t.statusActivePL,      accent: '#07c160' },
               { value: stats.activeNotPL, label: t.statusActiveNotPL,   accent: '#f59e0b' },
             ].map(({ value, label, accent }) => (
               <div
@@ -203,8 +203,8 @@ export default function HallOfFame() {
             <span className="text-xs text-slate-500 mr-1">{t.legendTitle}:</span>
             {[
               { color: '#FFD700', label: t.legendHoF },
-              { color: '#ff2882', label: t.legendActive },
-              { color: '#f59e0b', label: t.legendActiveNotPL },
+              { color: '#07c160', label: t.legendActive },
+              { color: '#ff2882', label: t.legendActiveNotPL },
               { color: '#475569', label: t.legendRetired },
             ].map(({ color, label }) => (
               <span key={label} className="flex items-center gap-1.5 text-xs text-slate-400">

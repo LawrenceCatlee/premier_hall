@@ -1,4 +1,4 @@
-import { Users, Star, TrendingUp } from 'lucide-react';
+import { Building, Star, TrendingUp } from 'lucide-react';
 import { cn } from "@/lib/utils";
 import { useLanguage } from '../LanguageContext';
 import { translations, clubNameMap, nationalityFlag, nationalityZh } from '../translations';
@@ -89,8 +89,8 @@ export default function PlayerCard({ player, showGap = false }) {
   // Accent colour — 4-way status
   const STATUS_COLOR = {
     hall_of_fame:  '#FFD700',
-    active_pl:     '#ff2882',
-    active_not_pl: '#f59e0b',
+    active_pl:     '#07c160',
+    active_not_pl: '#ff2882',
     retired:       '#475569',
   };
   const accentColor = STATUS_COLOR[player.player_status] || '#475569';
@@ -144,7 +144,7 @@ export default function PlayerCard({ player, showGap = false }) {
         {/* Clubs */}
         {player.clubs && player.clubs.length > 0 && (
           <div className="flex items-start gap-1.5 text-xs text-slate-300">
-            <Users className="w-3.5 h-3.5 text-slate-500 shrink-0 mt-0.5" />
+            <Building className="w-3.5 h-3.5 text-slate-500 shrink-0 mt-0.5" />
             <span>
               {language === 'en'
                 ? player.clubs.map(c => clubNameMap[c] || c).join(' · ')

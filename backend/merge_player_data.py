@@ -888,9 +888,10 @@ def _parse_achievements(row) -> List[Dict[str, str]]:
     if clean_sheets >= 100:
         _add('百大零封', f'{int(clean_sheets)}')
     if titles >= 3:
-        # detail 使用完整赛季字符串，供前端格式化显示
+        # detail 格式：seasons§clubs  用§分隔，供前端按俱乐部分行显示
         seasons_raw = str(_v(row, 'ayers3ustitles_seasons', '') or '').strip()
-        _add('三冠王', seasons_raw)
+        clubs_raw = str(_v(row, 'ayers3ustitles_clubs', '') or '').strip()
+        _add('三冠王', f"{seasons_raw}§{clubs_raw}" if clubs_raw else seasons_raw)
     if golden_boot and str(golden_boot).strip():
         _add('金靴奖', str(golden_boot).strip())
     if golden_glove and str(golden_glove).strip():
@@ -969,7 +970,7 @@ CURRENT_PL_CLUBS_EN: Set[str] = {
     'Manchester United', 'Wolverhampton Wanderers', 'West Ham United', 'Leeds United',
     'Sunderland', 'Brighton & Hove Albion', 'Aston Villa', 'Bournemouth',
     'Crystal Palace', 'Burnley', 'Newcastle United', 'Nottingham Forest',
-    'Brentford', 'Fulham',
+    'Brentford', 'Fulham', 'Everton'
 }
 
 # 英超名人堂入选球员（官方公布，2021 年起）
