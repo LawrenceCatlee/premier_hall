@@ -123,6 +123,7 @@ def generate_simple_players_json():
         app_count = int(row['appearances']) if pd.notna(row.get('appearances')) else 0
 
         # Single-club appearances (from merged CSV multi columns)
+        # Capture 180+ for near-miss display; achievement requires >= 200
         single_club = None
         single_club_apps = None
         for i in (1, 2, 3):
@@ -131,10 +132,9 @@ def generate_simple_players_json():
             if pd.notna(row.get(t_col)) and pd.notna(row.get(a_col)):
                 t = str(row[t_col]).strip()
                 a = float(row[a_col])
-                if t and a >= 200:
-                    if single_club is None:
-                        single_club = t
-                        single_club_apps = a
+                if t and a >= 180 and single_club is None:
+                    single_club = t
+                    single_club_apps = a
 
         current_club = _clean(row.get('current_team', ''))
 
@@ -179,8 +179,8 @@ def generate_simple_players_json():
         if app_count >= 250:
             achievements.append({'type': '出场250次', 'detail': f'{app_count}场'})
 
-        # 单队200场
-        if single_club is not None:
+        # 单队200场（achievement only at >= 200; 180-199 stored for near-miss display）
+        if single_club is not None and single_club_apps >= 200:
             achievements.append({
                 'type': '单队200场',
                 'detail': f'{single_club}|{int(single_club_apps)}',
