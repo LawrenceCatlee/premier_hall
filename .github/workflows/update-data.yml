@@ -164,5 +164,6 @@ jobs:
               MSG="chore: auto-update players data after PL matches [skip ci]"
             fi
             git commit -m "$MSG"
+            git pull --rebase origin main
             git push
           fi
