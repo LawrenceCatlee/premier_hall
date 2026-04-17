@@ -130,36 +130,27 @@ def generate_simple_players_json():
                         single_club = t
                         single_club_apps = a
 
-        # Player status
-        # epl250_is_retired: PulseLive owner.active → False=currently in PL, True=left PL
-        # multi_is_retired:  Transfermarkt "Retired" text → no=still playing, yes=retired
+        # Player status logic:
+        # 1. multi_is_retired='yes' (Transfermarkt "Retired") → retired
+        # 2. epl250_is_retired='false' (PulseLive owner.active=True) → confirmed in PL
+        # 3. Otherwise: use current_club vs CURRENT_PL_CLUBS to determine PL/non-PL;
+        #    if no current_club info → retired (can't confirm still active)
         pli = pl_info.get(pid, {})
         epl250_ret = str(row.get('epl250_is_retired', '')).strip().lower()
         multi_ret   = str(row.get('multi_is_retired', '')).strip().lower()
         current_club = str(pli.get('current_club', '') or row.get('current_team', '') or '')
 
-        if epl250_ret == 'false':
-            # PulseLive confirms currently active in PL
+        if multi_ret == 'yes':
+            player_status = 'retired'
+        elif epl250_ret == 'false':
             player_status = 'active_pl'
-        elif epl250_ret in ('true', '1', 'yes'):
-            # Left PL per PulseLive — check if still playing elsewhere
-            if multi_ret == 'no':
+        else:
+            # Use current_club to determine if still in PL, playing elsewhere, or retired
+            if current_club in CURRENT_PL_CLUBS:
+                player_status = 'active_pl'
+            elif current_club and current_club != 'nan' and multi_ret == 'no':
                 player_status = 'active_not_pl'
             else:
-                player_status = 'retired'
-        else:
-            # Not in 250+ list (epl250=NaN) — use multi_is_retired + current_club
-            if multi_ret == 'yes':
-                player_status = 'retired'
-            elif multi_ret == 'no':
-                # Transfermarkt says still playing; check if current club is PL
-                if current_club in CURRENT_PL_CLUBS:
-                    player_status = 'active_pl'
-                else:
-                    player_status = 'active_not_pl'
-            else:
-                # Award-only (both NaN) — no scraper confirmation; default retired.
-                # fetch_active_status.py must be run manually to set accurate status.
                 player_status = 'retired'
 
         # Hall of Fame
