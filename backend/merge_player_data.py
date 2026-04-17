@@ -557,8 +557,8 @@ def save_merged_data(merged_df: pd.DataFrame, output_dir: str = "data",
     output_path = Path(output_dir)
     output_path.mkdir(exist_ok=True)
 
-    # 保存完整 CSV（multi_all_teams 仅供内部 JSON 处理，不写入 CSV）
-    csv_exclude = {'multi_all_teams'}
+    # 保存完整 CSV（以下列仅供内部处理，不写入 CSV）
+    csv_exclude = {'multi_all_teams', 'info_club', 'retired', 'profile_clubs'}
     csv_cols = [c for c in merged_df.columns if c not in csv_exclude]
     full_file = output_path / "premier_league_players_merged_final.csv"
     merged_df[csv_cols].to_csv(full_file, index=False, encoding='utf-8-sig')
@@ -960,6 +960,18 @@ def _single_club_apps(row) -> Optional[float]:
     return team1_apps if team1 and str(team1).strip() else None
 
 
+# ============================================================
+# 当赛季英超球队（English full names 匹配 current_team / current_club 字段）
+# 每赛季升降级后在这里更新即可
+# ============================================================
+CURRENT_PL_CLUBS_EN: Set[str] = {
+    'Manchester City', 'Liverpool', 'Arsenal', 'Chelsea', 'Tottenham Hotspur',
+    'Manchester United', 'Wolverhampton Wanderers', 'West Ham United', 'Leeds United',
+    'Sunderland', 'Brighton & Hove Albion', 'Aston Villa', 'Bournemouth',
+    'Crystal Palace', 'Burnley', 'Newcastle United', 'Nottingham Forest',
+    'Brentford', 'Fulham',
+}
+
 # 英超名人堂入选球员（官方公布，2021 年起）
 # 键为 Pulselive 标准英文姓名（小写），值为入选年份
 HALL_OF_FAME_MEMBERS: dict = {
@@ -1043,14 +1055,18 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         titles_val = _v(row, 'ayers3ustitles_titles')
         titles_val = float(titles_val) if titles_val else None
 
-        # 退役判断：优先使用 epl_250 的 is_retired（True/False 布尔，来自250.py）
-        # 次选 multi_is_retired（'yes'/'no' 字符串，来自200.py Transfermarkt）
-        _epl250_retired = _v(row, 'epl250_is_retired')
-        if _epl250_retired is not None and str(_epl250_retired).strip().lower() not in ('', 'nan'):
-            is_active = str(_epl250_retired).strip().lower() == 'false'
+        # 退役判断：优先使用 multi_is_retired（'yes'/'no'，来自200.py Transfermarkt）
+        # 次选 epl250_is_retired（True/False 布尔，来自250.py Pulselive）
+        _multi_retired = _v(row, 'multi_is_retired')
+        if _multi_retired is not None and str(_multi_retired).strip().lower() not in ('', 'nan'):
+            is_retired = str(_multi_retired).strip().lower() == 'yes'
         else:
-            _multi_retired = _v(row, 'multi_is_retired')
-            is_active = str(_multi_retired).strip().lower() == 'no' if _multi_retired is not None else False
+            _epl250_retired = _v(row, 'epl250_is_retired')
+            if _epl250_retired is not None and str(_epl250_retired).strip().lower() not in ('', 'nan'):
+                is_retired = str(_epl250_retired).strip().lower() == 'true'
+            else:
+                is_retired = False
+        is_active = not is_retired
 
         birth_date = dob_lookup.get(player_id, '')
 
@@ -1061,6 +1077,20 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         # 中文名来源：xlsx player_name_zh（ChatGPT 爬取），未找到则保留英文名
         _xlsx_zh = str(_v(row, 'player_name_zh', '') or '').strip()
         name_cn = _xlsx_zh if _xlsx_zh else name
+
+        current_club = str(_v(row, 'current_team', '') or '')
+        hof_year = HALL_OF_FAME_MEMBERS.get(name.lower())
+        is_hall_of_fame = hof_year is not None
+
+        # 四类球员状态（互斥，名人堂优先）
+        if is_hall_of_fame:
+            player_status = 'hall_of_fame'
+        elif is_retired:
+            player_status = 'retired'
+        elif current_club in CURRENT_PL_CLUBS_EN:
+            player_status = 'active_pl'
+        else:
+            player_status = 'active_not_pl'
 
         players.append({
             'id': player_id,
@@ -1075,11 +1105,12 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
             'clubs': _parse_clubs(row),
             'achievements': _parse_achievements(row),
             'is_active': is_active,
-            'hof_year': HALL_OF_FAME_MEMBERS.get(name.lower()),
-            'is_hall_of_fame': name.lower() in HALL_OF_FAME_MEMBERS,
+            'player_status': player_status,
+            'hof_year': hof_year,
+            'is_hall_of_fame': is_hall_of_fame,
             'nationality': str(_v(row, 'nationality', '') or ''),
             'position': str(_v(row, 'position', '') or ''),
-            'current_club': str(_v(row, 'current_team', '') or ''),
+            'current_club': current_club,
             'birth_date': birth_date,
             'age': calc_age(birth_date),
         })

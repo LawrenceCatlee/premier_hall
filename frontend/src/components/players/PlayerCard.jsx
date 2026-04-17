@@ -82,14 +82,18 @@ export default function PlayerCard({ player, showGap = false }) {
   const { language } = useLanguage();
   const t = translations[language];
 
-  const isHoF    = player.is_hall_of_fame;
-  const isActive = player.is_active;
   const pos      = (player.position || '').toUpperCase().charAt(0);
   const posLabel = POSITION_LABEL[pos] || pos;
   const posStyle = POSITION_COLOR[pos] || { bg: 'bg-slate-400/20', text: 'text-slate-300' };
 
-  // Accent colour
-  const accentColor = isHoF ? '#FFD700' : isActive ? '#ff2882' : '#475569';
+  // Accent colour — 4-way status
+  const STATUS_COLOR = {
+    hall_of_fame:  '#FFD700',
+    active_pl:     '#ff2882',
+    active_not_pl: '#f59e0b',
+    retired:       '#475569',
+  };
+  const accentColor = STATUS_COLOR[player.player_status] || '#475569';
 
   // Achievements: normalise old string[] to {type,detail}[]
   const achievements = (player.achievements || []).map(a =>

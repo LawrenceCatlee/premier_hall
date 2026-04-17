@@ -28,21 +28,6 @@ export default function HallOfFame() {
   const getAchievementTypes = (achievements) =>
     (achievements || []).map(a => (typeof a === 'string' ? a : a.type));
 
-  // Current PL clubs (2024-25 season). Update each season after promotion/relegation.
-  const CURRENT_PL_CLUBS = new Set([
-    'Arsenal', 'Aston Villa', 'AFC Bournemouth', 'Bournemouth',
-    'Brentford', 'Brighton & Hove Albion', 'Brighton',
-    'Chelsea', 'Crystal Palace', 'Everton', 'Fulham',
-    'Ipswich Town', 'Ipswich', 'Leicester City', 'Leicester',
-    'Liverpool', 'Manchester City', 'Man City',
-    'Manchester United', 'Man Utd',
-    'Newcastle United', 'Newcastle',
-    'Nottingham Forest', "Nott'm Forest",
-    'Southampton', 'Tottenham Hotspur', 'Spurs',
-    'West Ham United', 'West Ham',
-    'Wolverhampton Wanderers', 'Wolves',
-  ]);
-
   // Build gap_items for near-miss players — each item is a descriptive string
   const buildGapItems = (player, lang) => {
     const items = [];
@@ -51,8 +36,8 @@ export default function HallOfFame() {
     if (player.total_appearances >= 230 && player.total_appearances < 250) {
       const diff = 250 - player.total_appearances;
       items.push(zh
-        ? `距出场250次：已有${player.total_appearances}场，还差${diff}场`
-        : `250 Appearances: ${player.total_appearances} now, ${diff} to go`);
+        ? `距英超出场250次：已有${player.total_appearances}场，还差${diff}场`
+        : `250 PL Appearances: ${player.total_appearances} now, ${diff} to go`);
     }
     if (player.single_club_appearances != null &&
         player.single_club_appearances >= 180 &&
@@ -63,13 +48,13 @@ export default function HallOfFame() {
         ? `距单队200场（${club || '当前队'}）：已有${player.single_club_appearances}场，还差${diff}场`
         : `Single Club 200 (${club || '?'}): ${player.single_club_appearances} now, ${diff} to go`);
     }
-    if (player.goals != null && player.goals >= 80 && player.goals < 100) {
+    if (player.goals != null && player.goals > 80 && player.goals < 100) {
       const diff = 100 - player.goals;
       items.push(zh
         ? `距百球：已有${player.goals}球，还差${diff}球`
         : `100 Goals: ${player.goals} now, ${diff} to go`);
     }
-    if (player.clean_sheets != null && player.clean_sheets >= 80 && player.clean_sheets < 100) {
+    if (player.clean_sheets != null && player.clean_sheets > 80 && player.clean_sheets < 100) {
       const diff = 100 - player.clean_sheets;
       items.push(zh
         ? `距百大零封：已有${player.clean_sheets}次，还差${diff}次`
@@ -82,20 +67,19 @@ export default function HallOfFame() {
     return players.filter(p => p.achievements && p.achievements.length > 0);
   }, [players]);
 
+  // Near-miss: only active_pl players without achievements who are approaching a milestone
   const nearMissPlayers = useMemo(() => {
     return players
       .filter(player => {
         if (player.achievements && player.achievements.length > 0) return false;
-        // Only show near-miss for active players still in the current PL
-        if (!player.is_active) return false;
-        if (!CURRENT_PL_CLUBS.has(player.current_club)) return false;
+        if (player.player_status !== 'active_pl') return false;
         return (
           (player.total_appearances >= 230 && player.total_appearances < 250) ||
           (player.single_club_appearances != null &&
             player.single_club_appearances >= 180 &&
             player.single_club_appearances < 200) ||
-          (player.goals != null && player.goals >= 80 && player.goals < 100) ||
-          (player.clean_sheets != null && player.clean_sheets >= 80 && player.clean_sheets < 100)
+          (player.goals != null && player.goals > 80 && player.goals < 100) ||
+          (player.clean_sheets != null && player.clean_sheets > 80 && player.clean_sheets < 100)
         );
       })
       .map(player => ({
@@ -130,10 +114,8 @@ export default function HallOfFame() {
       filtered = filtered.filter(p => !p.achievements || p.achievements.length === 0);
     }
 
-    if (selectedPlayerStatus === 'active') {
-      filtered = filtered.filter(p => p.is_active);
-    } else if (selectedPlayerStatus === 'retired') {
-      filtered = filtered.filter(p => !p.is_active);
+    if (selectedPlayerStatus !== 'all') {
+      filtered = filtered.filter(p => p.player_status === selectedPlayerStatus);
     }
 
     if (selectedNationality !== 'all') {
@@ -145,12 +127,11 @@ export default function HallOfFame() {
     }
 
     if (selectedAchievement !== 'all') {
-      // Near-miss criteria mapped to each achievement type
       const nearMissCheck = {
         '出场250次':  p => p.total_appearances >= 230 && p.total_appearances < 250,
         '单队200场':  p => p.single_club_appearances != null && p.single_club_appearances >= 180 && p.single_club_appearances < 200,
-        '百球':       p => p.goals != null && p.goals >= 80 && p.goals < 100,
-        '百大零封':   p => p.clean_sheets != null && p.clean_sheets >= 80 && p.clean_sheets < 100,
+        '百球':       p => p.goals != null && p.goals > 80 && p.goals < 100,
+        '百大零封':   p => p.clean_sheets != null && p.clean_sheets > 80 && p.clean_sheets < 100,
       };
       filtered = filtered.filter(p => {
         if (getAchievementTypes(p.achievements).some(type => type.includes(selectedAchievement))) return true;
@@ -165,9 +146,9 @@ export default function HallOfFame() {
   const stats = useMemo(() => ({
     qualified: qualifiedPlayers.length,
     nearMiss: nearMissPlayers.length,
-    inducted: qualifiedPlayers.filter(p => p.is_hall_of_fame).length,
-    active: allPlayers.filter(p => p.is_active).length,
-    retired: allPlayers.filter(p => !p.is_active).length,
+    inducted: allPlayers.filter(p => p.player_status === 'hall_of_fame').length,
+    activePL: allPlayers.filter(p => p.player_status === 'active_pl').length,
+    activeNotPL: allPlayers.filter(p => p.player_status === 'active_not_pl').length,
   }), [qualifiedPlayers, nearMissPlayers, allPlayers]);
 
   const handleClearFilters = () => {
@@ -200,12 +181,12 @@ export default function HallOfFame() {
           {/* Stats */}
           <div className="grid grid-cols-2 md:grid-cols-5 gap-3 max-w-4xl mx-auto">
             {[
-              { value: stats.qualified, label: t.qualified, accent: '#00ff85' },
-              { value: stats.nearMiss, label: t.nearMiss, accent: '#ff2882' },
-              { value: stats.inducted, label: t.hallOfFame, accent: '#FFD700' },
-              { value: stats.active, label: t.active, accent: '#38bdf8' },
-              { value: stats.retired, label: t.retired, accent: '#94a3b8' },
-            ].map(({ value, label, accent, dark }) => (
+              { value: stats.qualified,   label: t.qualified,           accent: '#00ff85' },
+              { value: stats.nearMiss,    label: t.nearMiss,            accent: '#ff2882' },
+              { value: stats.inducted,    label: t.hallOfFame,          accent: '#FFD700' },
+              { value: stats.activePL,    label: t.statusActivePL,      accent: '#38bdf8' },
+              { value: stats.activeNotPL, label: t.statusActiveNotPL,   accent: '#f59e0b' },
+            ].map(({ value, label, accent }) => (
               <div
                 key={label}
                 className="rounded-xl p-4 text-center"
@@ -223,6 +204,7 @@ export default function HallOfFame() {
             {[
               { color: '#FFD700', label: t.legendHoF },
               { color: '#ff2882', label: t.legendActive },
+              { color: '#f59e0b', label: t.legendActiveNotPL },
               { color: '#475569', label: t.legendRetired },
             ].map(({ color, label }) => (
               <span key={label} className="flex items-center gap-1.5 text-xs text-slate-400">

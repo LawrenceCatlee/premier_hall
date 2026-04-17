@@ -138,8 +138,10 @@ export default function PlayerFilters({
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="all">{t.allPlayers}</SelectItem>
-              <SelectItem value="active">{t.active}</SelectItem>
-              <SelectItem value="retired">{t.retired}</SelectItem>
+              <SelectItem value="active_pl">{t.statusActivePL}</SelectItem>
+              <SelectItem value="active_not_pl">{t.statusActiveNotPL}</SelectItem>
+              <SelectItem value="retired">{t.statusRetired}</SelectItem>
+              <SelectItem value="hall_of_fame">{t.statusHoF}</SelectItem>
             </SelectContent>
           </Select>
         </div>
@@ -182,7 +184,7 @@ export default function PlayerFilters({
           )}
           {selectedPlayerStatus !== 'all' && (
             <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
-              {selectedPlayerStatus === 'active' ? t.active : t.retired}
+              {t[{active_pl:'statusActivePL',active_not_pl:'statusActiveNotPL',retired:'statusRetired',hall_of_fame:'statusHoF'}[selectedPlayerStatus]] || selectedPlayerStatus}
             </Badge>
           )}
           {selectedNationality !== 'all' && (
