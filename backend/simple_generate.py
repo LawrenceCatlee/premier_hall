@@ -3,7 +3,8 @@ import pandas as pd
 import json
 from pathlib import Path
 
-# Current and recent PL clubs (for active_pl vs active_not_pl classification)
+# 2024/25 Premier League clubs (used only to disambiguate active_pl vs active_not_pl
+# for players whose epl250/multi scrapers have NaN — do NOT expand this list loosely)
 CURRENT_PL_CLUBS = {
     'Arsenal', 'Aston Villa', 'Bournemouth', 'AFC Bournemouth',
     'Brentford', 'Brighton & Hove Albion', 'Chelsea', 'Crystal Palace',
@@ -11,9 +12,6 @@ CURRENT_PL_CLUBS = {
     'Liverpool', 'Manchester City', 'Manchester United',
     'Newcastle United', 'Nottingham Forest', 'Southampton',
     'Tottenham Hotspur', 'West Ham United', 'Wolverhampton Wanderers',
-    'Burnley', 'Leeds United', 'Sheffield United', 'Luton Town',
-    'West Bromwich Albion', 'Watford', 'Norwich City', 'Sunderland',
-    'Middlesbrough', 'Blackburn Rovers',
 }
 
 TEAM_XI_AWARD_MAP = {
@@ -122,23 +120,36 @@ def generate_simple_players_json():
                         single_club_apps = a
 
         # Player status
+        # epl250_is_retired: PulseLive owner.active → False=currently in PL, True=left PL
+        # multi_is_retired:  Transfermarkt "Retired" text → no=still playing, yes=retired
         pli = pl_info.get(pid, {})
-        is_retired = (
-            pli.get('retired', 0) == 1
-            or str(row.get('epl250_is_retired', '')).strip().lower() in ('true', '1', 'yes')
-            or str(row.get('multi_is_retired', '')).strip().lower() == 'yes'
-        )
+        epl250_ret = str(row.get('epl250_is_retired', '')).strip().lower()
+        multi_ret   = str(row.get('multi_is_retired', '')).strip().lower()
+        current_club = str(pli.get('current_club', '') or row.get('current_team', '') or '')
 
-        if is_retired:
-            player_status = 'retired'
-        else:
-            current_club = pli.get('current_club', '') or str(row.get('current_team', '') or '')
-            if current_club in CURRENT_PL_CLUBS:
-                player_status = 'active_pl'
-            elif current_club:
+        if epl250_ret == 'false':
+            # PulseLive confirms currently active in PL
+            player_status = 'active_pl'
+        elif epl250_ret in ('true', '1', 'yes'):
+            # Left PL per PulseLive — check if still playing elsewhere
+            if multi_ret == 'no':
                 player_status = 'active_not_pl'
             else:
-                player_status = 'active_pl'
+                player_status = 'retired'
+        else:
+            # Not in 250+ list (epl250=NaN) — use multi_is_retired + current_club
+            if multi_ret == 'yes':
+                player_status = 'retired'
+            elif multi_ret == 'no':
+                # Transfermarkt says still playing; check if current club is PL
+                if current_club in CURRENT_PL_CLUBS:
+                    player_status = 'active_pl'
+                else:
+                    player_status = 'active_not_pl'
+            else:
+                # Award-only (both NaN) — no scraper confirmation; default retired.
+                # fetch_active_status.py must be run manually to set accurate status.
+                player_status = 'retired'
 
         # Achievements
         achievements = []
