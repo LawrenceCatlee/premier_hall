@@ -51,6 +51,10 @@ function formatAchievement(type, detail, language) {
       }
       case '最佳阵容':
         return `入选英超${detail}最佳阵容`;
+      case '10年最佳阵容':
+        return '入选英超10周年最佳阵容';
+      case '20年最佳阵容':
+        return '入选英超20周年最佳阵容';
       default:
         return detail ? `${type}：${detail}` : type;
     }
@@ -97,6 +101,10 @@ function formatAchievement(type, detail, language) {
       }
       case '最佳阵容':
         return `PL ${detail} Team of the Year`;
+      case '10年最佳阵容':
+        return 'PL 10th Season Team XI';
+      case '20年最佳阵容':
+        return 'PL 20th Season Team XI';
       default:
         return detail ? `${type}: ${detail}` : type;
     }

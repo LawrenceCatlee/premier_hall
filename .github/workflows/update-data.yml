@@ -100,19 +100,8 @@ jobs:
         working-directory: backend
         run: python simple_generate.py
 
-      # ── Full pipeline: scrape → active status → merge → generate ────────────
-      - name: Build PulseLive player index
-        if: >
-          github.event_name == 'workflow_dispatch' ||
-          (github.event_name == 'schedule' && steps.gate.outputs.run == 'true')
-        working-directory: backend
-        run: |
-          python -c "
-          from pulselive_data import get_pulselive_player_index
-          df = get_pulselive_player_index()
-          print(f'PulseLive index: {len(df)} players')
-          "
-
+      # ── Full pipeline: scrape → merge → generate ────────────────────────────
+      # Note: PulseLive index + fetch_active_status are run manually (seasonal)
       - name: Scrape appearance data (250 appearances + single-club 200, in parallel)
         if: >
           github.event_name == 'workflow_dispatch' ||
@@ -123,13 +112,6 @@ jobs:
           python player_premier_team_200.py &
           wait
           echo "Scraping done"
-
-      - name: Update active PL player status
-        if: >
-          github.event_name == 'workflow_dispatch' ||
-          (github.event_name == 'schedule' && steps.gate.outputs.run == 'true')
-        working-directory: backend
-        run: python fetch_active_status.py --active-only
 
       - name: Merge data and generate JSON
         if: >
