@@ -5,12 +5,13 @@ from pathlib import Path
 
 # 2024/25 Premier League clubs (used only to disambiguate active_pl vs active_not_pl
 # for players whose epl250/multi scrapers have NaN — do NOT expand this list loosely)
+# 2025/26 赛季英超球队（升降级后同步更新，与 merge_player_data.py CURRENT_PL_CLUBS_EN 保持一致）
 CURRENT_PL_CLUBS = {
-    'Arsenal', 'Aston Villa', 'Bournemouth', 'AFC Bournemouth',
-    'Brentford', 'Brighton & Hove Albion', 'Chelsea', 'Crystal Palace',
-    'Everton', 'Fulham', 'Ipswich Town', 'Leicester City',
+    'Arsenal', 'Aston Villa', 'Bournemouth',
+    'Brentford', 'Brighton & Hove Albion', 'Burnley', 'Chelsea', 'Crystal Palace',
+    'Everton', 'Fulham', 'Leeds United',
     'Liverpool', 'Manchester City', 'Manchester United',
-    'Newcastle United', 'Nottingham Forest', 'Southampton',
+    'Newcastle United', 'Nottingham Forest', 'Sunderland',
     'Tottenham Hotspur', 'West Ham United', 'Wolverhampton Wanderers',
 }
 
@@ -130,11 +131,12 @@ def generate_simple_players_json():
                         single_club = t
                         single_club_apps = a
 
-        # Player status logic:
-        # 1. multi_is_retired='yes' (Transfermarkt "Retired") → retired
-        # 2. epl250_is_retired='false' (PulseLive owner.active=True) → confirmed in PL
-        # 3. Otherwise: use current_club vs CURRENT_PL_CLUBS to determine PL/non-PL;
-        #    if no current_club info → retired (can't confirm still active)
+        # Player status logic (priority order):
+        # 1. multi_is_retired='yes' → retired (Transfermarkt confirmed)
+        # 2. current_club in CURRENT_PL_CLUBS → active_pl (club check wins over epl250 flag)
+        # 3. current_club known but not in PL → active_not_pl
+        # 4. epl250_is_retired='false' (no club info, but PulseLive confirms active) → active_pl
+        # 5. Otherwise → retired
         pli = pl_info.get(pid, {})
         epl250_ret = str(row.get('epl250_is_retired', '')).strip().lower()
         multi_ret   = str(row.get('multi_is_retired', '')).strip().lower()
@@ -142,16 +144,14 @@ def generate_simple_players_json():
 
         if multi_ret == 'yes':
             player_status = 'retired'
+        elif current_club in CURRENT_PL_CLUBS:
+            player_status = 'active_pl'
+        elif current_club and current_club != 'nan' and multi_ret == 'no':
+            player_status = 'active_not_pl'
         elif epl250_ret == 'false':
             player_status = 'active_pl'
         else:
-            # Use current_club to determine if still in PL, playing elsewhere, or retired
-            if current_club in CURRENT_PL_CLUBS:
-                player_status = 'active_pl'
-            elif current_club and current_club != 'nan' and multi_ret == 'no':
-                player_status = 'active_not_pl'
-            else:
-                player_status = 'retired'
+            player_status = 'retired'
 
         # Hall of Fame
         hof_year = HALL_OF_FAME.get(name_en.lower())

@@ -643,7 +643,7 @@
     "current_club": "Ipswich Town",
     "birth_date": "1985-07-09",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -2221,7 +2221,7 @@
     "current_club": "Burnley",
     "birth_date": "1979-10-15",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -2453,7 +2453,7 @@
     "current_club": "Southampton",
     "birth_date": "1973-04-26",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": [
       {
         "type": "出场250次",
@@ -3083,7 +3083,7 @@
     "current_club": "Leicester City",
     "birth_date": "1987-01-11",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -3980,7 +3980,7 @@
     "current_club": "Leicester City",
     "birth_date": "1984-08-18",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": [
       {
         "type": "出场250次",
@@ -4493,7 +4493,7 @@
     "current_club": "Leicester City",
     "birth_date": "1969-04-22",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": [
       {
         "type": "出场250次",
@@ -4925,7 +4925,7 @@
     "current_club": "Leicester City",
     "birth_date": "1991-09-11",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -4979,7 +4979,7 @@
     "current_club": "Southampton",
     "birth_date": "1988-05-10",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": [
       {
         "type": "出场250次",
@@ -5062,7 +5062,7 @@
     "current_club": "Burnley",
     "birth_date": "1989-06-25",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -5659,7 +5659,7 @@
     "current_club": "Sunderland",
     "birth_date": "1981-07-31",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -6178,7 +6178,7 @@
     "current_club": "Sunderland",
     "birth_date": "1968-02-07",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -6669,7 +6669,7 @@
     "current_club": "Leeds United",
     "birth_date": "1979-06-29",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -7578,7 +7578,7 @@
     "current_club": "Sunderland",
     "birth_date": "1988-03-21",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -7688,7 +7688,7 @@
     "current_club": "Burnley",
     "birth_date": "1982-09-02",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -8150,7 +8150,7 @@
     "current_club": "Leicester City",
     "birth_date": "1980-06-13",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": [
       {
         "type": "出场250次",
@@ -8773,7 +8773,7 @@
     "current_club": "Leicester City",
     "birth_date": "1987-06-20",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": [
       {
         "type": "出场250次",
@@ -9945,7 +9945,7 @@
     "current_club": "Leeds United",
     "birth_date": "1981-01-15",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": []
   },
   {
@@ -10259,7 +10259,7 @@
     "current_club": "Southampton",
     "birth_date": "1991-09-24",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "单队200场",
@@ -11282,7 +11282,7 @@
     "current_club": "Leicester City",
     "birth_date": "1971-01-02",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": []
   },
   {
@@ -12656,7 +12656,7 @@
     "current_club": "Ipswich Town",
     "birth_date": "1975-11-30",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": []
   },
   {
@@ -12834,7 +12834,7 @@
     "current_club": "Burnley",
     "birth_date": "1989-10-30",
     "hof_year": null,
-    "player_status": "active_not_pl",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "单队200场",
@@ -12944,7 +12944,7 @@
     "current_club": "Sunderland",
     "birth_date": "1988-04-23",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": []
   },
   {
@@ -14255,7 +14255,7 @@
     "current_club": "Burnley",
     "birth_date": "1989-01-15",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": []
   },
   {
@@ -14470,7 +14470,7 @@
     "current_club": "Burnley",
     "birth_date": "1981-03-10",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": []
   },
   {
@@ -14764,7 +14764,7 @@
     "current_club": "Leeds United",
     "birth_date": "1997-10-30",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": []
   },
   {
@@ -15766,7 +15766,7 @@
     "current_club": "Leeds United",
     "birth_date": "1971-09-04",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": []
   },
   {
