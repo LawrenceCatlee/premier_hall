@@ -101,7 +101,8 @@ jobs:
         run: python simple_generate.py
 
       # ── Full pipeline: scrape → merge → generate ────────────────────────────
-      # Note: PulseLive index + fetch_active_status are run manually (seasonal)
+      # Note: scrape_player_status.py (全量退役状态) is run manually (seasonal):
+      #   cd backend && python scrape_player_status.py  → commit player_status_all.csv
       - name: Scrape appearance data (250 appearances + single-club 200, in parallel)
         if: >
           github.event_name == 'workflow_dispatch' ||
@@ -137,6 +138,7 @@ jobs:
           git add backend/data/premier_league_players_merged_final.csv
           git add backend/data/premier_league_players_merged_final.xlsx
           git add backend/data/pulselive_player_index_appearances.csv
+          git add backend/data/player_status_all.csv || true
           if git diff --cached --quiet; then
             echo "No changes — nothing to commit"
           else

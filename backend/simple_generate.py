@@ -67,19 +67,6 @@ def generate_simple_players_json():
         .groupby('player_id')['award'].apply(list).to_dict()
     )
 
-    # PulseLive index for current club / retired status
-    try:
-        pl_index = pd.read_csv('data/pulselive_player_index_appearances.csv')
-        pl_info = {
-            int(r['player_id']): {
-                'retired': int(r.get('retired', 0)),
-                'current_club': str(r.get('current_club', '') or ''),
-            }
-            for _, r in pl_index.iterrows()
-        }
-    except Exception:
-        pl_info = {}
-
     # Goals / clean-sheets lookup
     goals_lookup = {
         int(r['player_id']): int(r['Premier League total goals'])
@@ -131,22 +118,25 @@ def generate_simple_players_json():
                         single_club = t
                         single_club_apps = a
 
-        # Player status logic (priority order):
-        # 1. multi_is_retired='yes' → retired (Transfermarkt confirmed)
-        # 2. current_club in CURRENT_PL_CLUBS → active_pl (club check wins over epl250 flag)
-        # 3. current_club known but not in PL → active_not_pl
-        # 4. epl250_is_retired='false' (no club info, but PulseLive confirms active) → active_pl
-        # 5. Otherwise → retired
-        pli = pl_info.get(pid, {})
-        epl250_ret = str(row.get('epl250_is_retired', '')).strip().lower()
-        multi_ret   = str(row.get('multi_is_retired', '')).strip().lower()
-        current_club = str(pli.get('current_club', '') or row.get('current_team', '') or '')
+        # Player status (priority):
+        # 1. multi_is_retired='yes'           → retired
+        # 2. current_team in CURRENT_PL_CLUBS → active_pl
+        # 3. current_team set + multi='no'    → active_not_pl
+        # 4. epl250_is_retired='false'        → active_pl (PulseLive fallback, no club info)
+        # 5. Otherwise                        → retired
+        def _clean(val):
+            s = str(val).strip() if pd.notna(val) else ''
+            return '' if s == 'nan' else s
+
+        epl250_ret = _clean(row.get('epl250_is_retired', '')).lower()
+        multi_ret  = _clean(row.get('multi_is_retired', '')).lower()
+        current_club = _clean(row.get('current_team', ''))
 
         if multi_ret == 'yes':
             player_status = 'retired'
         elif current_club in CURRENT_PL_CLUBS:
             player_status = 'active_pl'
-        elif current_club and current_club != 'nan' and multi_ret == 'no':
+        elif current_club and multi_ret == 'no':
             player_status = 'active_not_pl'
         elif epl250_ret == 'false':
             player_status = 'active_pl'
@@ -219,7 +209,7 @@ def generate_simple_players_json():
             'single_club_name': single_club,
             'goals': goals_val,
             'clean_sheets': cs_val,
-            'current_club': '' if current_club in ('nan', '') else current_club,
+            'current_club': current_club,
             'birth_date': str(row['birth_date']) if pd.notna(row.get('birth_date')) else '',
             'hof_year': hof_year,
             'player_status': player_status,

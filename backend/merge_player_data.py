@@ -524,7 +524,6 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         'ayers3ustitles_titles',
         'ayers3ustitles_clubs',
         'ayers3ustitles_seasons',
-        'multi_all_teams',
         'multi_team1',
         'multi_team1_appearances',
         'multi_is_in_team1',
