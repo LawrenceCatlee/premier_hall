@@ -219,7 +219,7 @@ def generate_simple_players_json():
             'single_club_name': single_club,
             'goals': goals_val,
             'clean_sheets': cs_val,
-            'current_club': pli.get('current_club', '') or str(row.get('current_team', '') or ''),
+            'current_club': '' if current_club in ('nan', '') else current_club,
             'birth_date': str(row['birth_date']) if pd.notna(row.get('birth_date')) else '',
             'hof_year': hof_year,
             'player_status': player_status,
