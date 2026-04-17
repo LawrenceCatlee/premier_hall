@@ -111,7 +111,12 @@ def generate_simple_players_json():
             'clubs': clubs,
             'total_appearances': row['appearances'],
             'player_status': player_status,
-            'achievements': achievements
+            'achievements': achievements,
+            # Add missing fields that frontend expects
+            'goals': int(row['100goalsclub_Premier League total goals']) if pd.notna(row.get('100goalsclub_Premier League total goals')) else None,
+            'clean_sheets': int(row['100cleansheetsgk_Premier League total clean sheets']) if pd.notna(row.get('100cleansheetsgk_Premier League total clean sheets')) else None,
+            'single_club_appearances': None,  # Would need to calculate from multi_team data
+            'single_club_name': None  # Would need to determine from multi_team data
         }
         
         players.append(player)
