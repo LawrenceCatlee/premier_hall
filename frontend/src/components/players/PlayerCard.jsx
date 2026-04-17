@@ -22,24 +22,22 @@ function formatAchievement(type, detail, language) {
         return `英超零封 ${detail} 次`;
       case '三冠王': {
         const [seasonsStr, clubsStr] = (detail || '').split('§');
-        const seasons = (seasonsStr || '').split(',').map(s => s.trim()).filter(Boolean);
-        const clubParts = (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean);
-        const seasonsLine = seasons.length > 4
-          ? `赛季：${seasons[0]} 至 ${seasons[seasons.length - 1]}（共${seasons.length}次）`
-          : `赛季：${seasons.join('、')}`;
-        if (clubParts.length === 0) return [`英超冠军（${seasons.length}次）`, seasonsLine];
-        const clubLines = clubParts.map(c => {
-          const match = c.match(/^(.+?)\s*\((\d+)\)$/);
-          if (match) {
-            const zhName = clubEnToZh[match[1].trim()] || match[1].trim();
-            return `英超冠军 × ${zhName}（${match[2]}次）`;
-          }
-          const zhName = clubEnToZh[c] || c;
-          return seasons.length > 1
-            ? `英超冠军 × ${zhName}（${seasons.length}次）`
-            : `英超冠军 × ${zhName}`;
+        const seasons = (seasonsStr || '').split(',').map(s => s.trim().replace('–', '-')).filter(Boolean);
+        const clubParts = (clubsStr || '').trim()
+          ? (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean)
+          : [];
+        const parsed = clubParts.map(c => {
+          const m = c.match(/^(.+?)\s*\((\d+)\)$/);
+          return m ? { name: m[1].trim(), count: parseInt(m[2]) } : { name: c, count: seasons.length };
         });
-        return [...clubLines, seasonsLine];
+        if (parsed.length === 0) parsed.push({ name: '', count: seasons.length });
+        let idx = 0;
+        return parsed.map(({ name, count }) => {
+          const s = seasons.slice(idx, idx + count);
+          idx += count;
+          const zhName = name ? (clubEnToZh[name] || name) : '英超冠军';
+          return `${zhName}：${s.join('、')}`;
+        });
       }
       case '金靴奖':
         return `英超射手王：${joinDot(detail)}`;
@@ -72,20 +70,21 @@ function formatAchievement(type, detail, language) {
         return `${detail} PL Clean Sheets`;
       case '三冠王': {
         const [seasonsStr, clubsStr] = (detail || '').split('§');
-        const seasons = (seasonsStr || '').split(',').map(s => s.trim()).filter(Boolean);
-        const clubParts = (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean);
-        const seasonsLine = seasons.length > 4
-          ? `Seasons: ${seasons[0]} – ${seasons[seasons.length - 1]} (${seasons.length} titles)`
-          : `Seasons: ${seasons.join(', ')}`;
-        if (clubParts.length === 0) return [`PL Champion (${seasons.length}×)`, seasonsLine];
-        const clubLines = clubParts.map(c => {
-          const match = c.match(/^(.+?)\s*\((\d+)\)$/);
-          if (match) return `PL Champion × ${match[1].trim()} (${match[2]}×)`;
-          return seasons.length > 1
-            ? `PL Champion × ${c} (${seasons.length}×)`
-            : `PL Champion × ${c}`;
+        const seasons = (seasonsStr || '').split(',').map(s => s.trim().replace('–', '-')).filter(Boolean);
+        const clubParts = (clubsStr || '').trim()
+          ? (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean)
+          : [];
+        const parsed = clubParts.map(c => {
+          const m = c.match(/^(.+?)\s*\((\d+)\)$/);
+          return m ? { name: m[1].trim(), count: parseInt(m[2]) } : { name: c, count: seasons.length };
         });
-        return [...clubLines, seasonsLine];
+        if (parsed.length === 0) parsed.push({ name: 'PL Champion', count: seasons.length });
+        let idx = 0;
+        return parsed.map(({ name, count }) => {
+          const s = seasons.slice(idx, idx + count);
+          idx += count;
+          return `${name}: ${s.join(', ')}`;
+        });
       }
       case '金靴奖': {
         const y = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
