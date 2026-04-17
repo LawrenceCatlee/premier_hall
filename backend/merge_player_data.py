@@ -125,7 +125,7 @@ def merge_pl_files(base_df: pd.DataFrame, data_files: Dict[str, pd.DataFrame]) -
     
     # 合并所有pl开头的文件
     for file_name, df in data_files.items():
-        if not file_name.startswith('pl') or file_name == 'pulselive_base':
+        if not file_name.startswith('pl') or file_name in ('pulselive_base', 'player_status_all'):
             continue
         
         if 'player_id' in df.columns:
@@ -464,6 +464,8 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         'goldenbootwinners_Player', 'goldenbootwinners_Club',
         # multi_ columns that are redundant
         'multi_player_name', 'multi_total_appearances',
+        # stale columns that appear when player_status_all was wrongly processed by merge_pl_files
+        'ayerstatusall_is_retired', 'ayerstatusall_current_team',
     }
 
     # multi_ columns we want to keep (the rest are excluded above)
@@ -483,7 +485,8 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
             continue
         # 保留player_id和核心列（含 profile_clubs/ayerofseasonwinners_Season，防止被 base_col 去重逻辑误删）
         if col in ['player_id', 'player_name', 'appearances', 'profile_clubs',
-                   'ayerofseasonwinners_Season', 'epl250_is_retired', 'xlsx_clubs', 'player_name_zh']:
+                   'ayerofseasonwinners_Season', 'epl250_is_retired', 'xlsx_clubs', 'player_name_zh',
+                   'is_retired', 'current_team']:
             columns_to_keep.append(col)
             continue
 

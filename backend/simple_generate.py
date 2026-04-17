@@ -86,7 +86,18 @@ def generate_simple_players_json():
 
     def _clean(val):
         s = str(val).strip() if pd.notna(val) else ''
-        return '' if s == 'nan' else s
+        return '' if s in ('nan', '---', '-') else s
+
+    def _normalize_club(name):
+        """Strip common FC/AFC suffixes/prefixes so Transfermarkt names match CURRENT_PL_CLUBS."""
+        n = name.strip()
+        for suffix in (' FC', ' AFC', ' SC', ' SFC'):
+            if n.endswith(suffix):
+                return n[:-len(suffix)].strip()
+        for prefix in ('FC ', 'AFC '):
+            if n.startswith(prefix):
+                return n[len(prefix):].strip()
+        return n
 
     # player_status_all.csv 存在时 is_retired 列已合并进来，是唯一权威来源
     has_all_status = 'is_retired' in df.columns
@@ -127,13 +138,15 @@ def generate_simple_players_json():
 
         current_club = _clean(row.get('current_team', ''))
 
+        club_for_check = _normalize_club(current_club) if current_club else ''
+
         if has_all_status:
             # 全量退役状态（scrape_player_status.py 提供，最权威）
             # 优先级：is_retired → current_team vs PL clubs
             is_ret = _clean(row.get('is_retired', '')).lower()
             if is_ret == 'yes':
                 player_status = 'retired'
-            elif current_club in CURRENT_PL_CLUBS:
+            elif club_for_check in CURRENT_PL_CLUBS:
                 player_status = 'active_pl'
             elif current_club and is_ret == 'no':
                 player_status = 'active_not_pl'
@@ -145,7 +158,7 @@ def generate_simple_players_json():
             epl250_ret = _clean(row.get('epl250_is_retired', '')).lower()
             if multi_ret == 'yes':
                 player_status = 'retired'
-            elif current_club in CURRENT_PL_CLUBS:
+            elif club_for_check in CURRENT_PL_CLUBS:
                 player_status = 'active_pl'
             elif current_club and multi_ret == 'no':
                 player_status = 'active_not_pl'
