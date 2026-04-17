@@ -6,14 +6,12 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United；Newcastle",
-      "United；Aston",
-      "Villa；Manchester",
-      "City；Liverpool；Brighton",
-      "&",
-      "Hove",
-      "Albion"
+      "Leeds United",
+      "Newcastle United",
+      "Aston Villa",
+      "Manchester City",
+      "Liverpool",
+      "Brighton & Hove Albion"
     ],
     "total_appearances": 657,
     "player_status": "hall_of_fame",
@@ -35,11 +33,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Manchester",
-      "City；Everton；West",
-      "Bromwich",
-      "Albion"
+      "Aston Villa",
+      "Manchester City",
+      "Everton",
+      "West Bromwich Albion"
     ],
     "total_appearances": 653,
     "player_status": "retired",
@@ -57,8 +54,7 @@
     "nationality": "Wales",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 632,
     "player_status": "retired",
@@ -84,10 +80,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Chelsea；Manchester",
-      "City"
+      "West Ham United",
+      "Chelsea",
+      "Manchester City"
     ],
     "total_appearances": 609,
     "player_status": "retired",
@@ -117,11 +112,11 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Liverpool；Aston",
-      "Villa；West",
-      "Ham",
-      "United；Manchester",
-      "City；Portsmouth"
+      "Liverpool",
+      "Aston Villa",
+      "West Ham United",
+      "Manchester City",
+      "Portsmouth"
     ],
     "total_appearances": 572,
     "player_status": "retired",
@@ -143,10 +138,10 @@
     "nationality": "Wales",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United；Everton；Newcastle",
-      "United；Bolton",
-      "Wanderers"
+      "Leeds United",
+      "Everton",
+      "Newcastle United",
+      "Bolton Wanderers"
     ],
     "total_appearances": 535,
     "player_status": "hall_of_fame",
@@ -164,11 +159,11 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Leicester",
-      "City；Liverpool；Birmingham",
-      "City；Wigan",
-      "Athletic；Aston",
-      "Villa"
+      "Leicester City",
+      "Liverpool",
+      "Birmingham City",
+      "Wigan Athletic",
+      "Aston Villa"
     ],
     "total_appearances": 516,
     "player_status": "hall_of_fame",
@@ -190,8 +185,10 @@
     "nationality": "Australia",
     "position": "G",
     "clubs": [
-      "Middlesbrough；Fulham；Chelsea；Leicester",
-      "City"
+      "Middlesbrough",
+      "Fulham",
+      "Chelsea",
+      "Leicester City"
     ],
     "total_appearances": 514,
     "player_status": "retired",
@@ -231,8 +228,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United；Everton"
+      "Manchester United",
+      "Everton"
     ],
     "total_appearances": 505,
     "player_status": "retired",
@@ -276,13 +273,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Leeds",
-      "United；Manchester",
-      "United；Queens",
-      "Park",
-      "Rangers"
+      "West Ham United",
+      "Leeds United",
+      "Manchester United",
+      "Queens Park Rangers"
     ],
     "total_appearances": 504,
     "player_status": "retired",
@@ -304,9 +298,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Arsenal；Newcastle",
-      "United"
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Newcastle United"
     ],
     "total_appearances": 503,
     "player_status": "retired",
@@ -324,8 +318,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 499,
     "player_status": "retired",
@@ -351,10 +344,11 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Tottenham",
-      "Hotspur；Portsmouth；Sunderland；Bournemouth"
+      "West Ham United",
+      "Tottenham Hotspur",
+      "Portsmouth",
+      "Sunderland",
+      "Bournemouth"
     ],
     "total_appearances": 496,
     "player_status": "retired",
@@ -376,8 +370,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Chelsea；Aston",
-      "Villa"
+      "Chelsea",
+      "Aston Villa"
     ],
     "total_appearances": 492,
     "player_status": "retired",
@@ -399,8 +393,8 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Everton；Manchester",
-      "United"
+      "Everton",
+      "Manchester United"
     ],
     "total_appearances": 491,
     "player_status": "retired",
@@ -430,9 +424,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa；Manchester",
-      "United；Everton"
+      "Aston Villa",
+      "Manchester United",
+      "Everton"
     ],
     "total_appearances": 485,
     "player_status": "hall_of_fame",
@@ -450,11 +444,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Tottenham",
-      "Hotspur；Manchester",
-      "United"
+      "West Ham United",
+      "Tottenham Hotspur",
+      "Manchester United"
     ],
     "total_appearances": 481,
     "player_status": "retired",
@@ -476,9 +468,10 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United；Manchester",
-      "City；Portsmouth；Everton"
+      "Newcastle United",
+      "Manchester City",
+      "Portsmouth",
+      "Everton"
     ],
     "total_appearances": 469,
     "player_status": "hall_of_fame",
@@ -496,10 +489,13 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Aston",
-      "Villa；Southampton；Liverpool；Portsmouth；Tottenham",
-      "Hotspur；Stoke",
-      "City；Burnley"
+      "Aston Villa",
+      "Southampton",
+      "Liverpool",
+      "Portsmouth",
+      "Tottenham Hotspur",
+      "Stoke City",
+      "Burnley"
     ],
     "total_appearances": 468,
     "player_status": "retired",
@@ -521,7 +517,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Sunderland；Liverpool"
+      "Sunderland",
+      "Liverpool"
     ],
     "total_appearances": 460,
     "player_status": "hall_of_fame",
@@ -539,11 +536,10 @@
     "nationality": "Northern Ireland",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United；Aston",
-      "Villa；Fulham；Queens",
-      "Park",
-      "Rangers"
+      "Newcastle United",
+      "Aston Villa",
+      "Fulham",
+      "Queens Park Rangers"
     ],
     "total_appearances": 455,
     "player_status": "retired",
@@ -561,10 +557,10 @@
     "nationality": "United States",
     "position": "G",
     "clubs": [
-      "Liverpool；Blackburn",
-      "Rovers；Aston",
-      "Villa；Tottenham",
-      "Hotspur"
+      "Liverpool",
+      "Blackburn Rovers",
+      "Aston Villa",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 450,
     "player_status": "retired",
@@ -586,12 +582,11 @@
     "nationality": "Ireland",
     "position": "G",
     "clubs": [
-      "Blackburn",
-      "Rovers；Newcastle",
-      "United；Manchester",
-      "City；Aston",
-      "Villa；Stoke",
-      "City"
+      "Blackburn Rovers",
+      "Newcastle United",
+      "Manchester City",
+      "Aston Villa",
+      "Stoke City"
     ],
     "total_appearances": 450,
     "player_status": "retired",
@@ -613,8 +608,8 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；Sunderland"
+      "Manchester United",
+      "Sunderland"
     ],
     "total_appearances": 445,
     "player_status": "retired",
@@ -636,9 +631,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Southampton；Blackburn",
-      "Rovers；Bolton",
-      "Wanderers"
+      "Southampton",
+      "Blackburn Rovers",
+      "Bolton Wanderers"
     ],
     "total_appearances": 444,
     "player_status": "retired",
@@ -660,7 +655,8 @@
     "nationality": "Czech Republic",
     "position": "G",
     "clubs": [
-      "Chelsea；Arsenal"
+      "Chelsea",
+      "Arsenal"
     ],
     "total_appearances": 443,
     "player_status": "retired",
@@ -702,9 +698,8 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Blackburn",
-      "Rovers；Newcastle",
-      "United"
+      "Blackburn Rovers",
+      "Newcastle United"
     ],
     "total_appearances": 441,
     "player_status": "retired",
@@ -742,10 +737,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Aston",
-      "Villa；Manchester",
-      "City"
+      "Tottenham Hotspur",
+      "Aston Villa",
+      "Manchester City"
     ],
     "total_appearances": 440,
     "player_status": "hall_of_fame",
@@ -767,10 +761,8 @@
     "nationality": "Finland",
     "position": "G",
     "clubs": [
-      "Bolton",
-      "Wanderers；West",
-      "Ham",
-      "United"
+      "Bolton Wanderers",
+      "West Ham United"
     ],
     "total_appearances": 436,
     "player_status": "retired",
@@ -792,11 +784,10 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Everton；Manchester",
-      "City；Aston",
-      "Villa；Queens",
-      "Park",
-      "Rangers"
+      "Everton",
+      "Manchester City",
+      "Aston Villa",
+      "Queens Park Rangers"
     ],
     "total_appearances": 431,
     "player_status": "retired",
@@ -814,9 +805,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Crystal",
-      "Palace；Aston",
-      "Villa；Middlesbrough"
+      "Crystal Palace",
+      "Aston Villa",
+      "Middlesbrough"
     ],
     "total_appearances": 426,
     "player_status": "retired",
@@ -834,8 +825,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Wigan",
-      "Athletic；Everton"
+      "Wigan Athletic",
+      "Everton"
     ],
     "total_appearances": 420,
     "player_status": "retired",
@@ -853,11 +844,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Manchester",
-      "United；Portsmouth；West",
-      "Ham",
-      "United"
+      "Tottenham Hotspur",
+      "Manchester United",
+      "Portsmouth",
+      "West Ham United"
     ],
     "total_appearances": 418,
     "player_status": "retired",
@@ -887,10 +877,11 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Liverpool；Charlton",
-      "Athletic；Tottenham",
-      "Hotspur；Fulham；Blackburn",
-      "Rovers"
+      "Liverpool",
+      "Charlton Athletic",
+      "Tottenham Hotspur",
+      "Fulham",
+      "Blackburn Rovers"
     ],
     "total_appearances": 417,
     "player_status": "hall_of_fame",
@@ -908,9 +899,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United；Tottenham",
-      "Hotspur；Everton；Burnley"
+      "Leeds United",
+      "Tottenham Hotspur",
+      "Everton",
+      "Burnley"
     ],
     "total_appearances": 416,
     "player_status": "retired",
@@ -928,9 +920,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Southampton；West",
-      "Ham",
-      "United"
+      "Southampton",
+      "West Ham United"
     ],
     "total_appearances": 416,
     "player_status": "hall_of_fame",
@@ -948,8 +939,7 @@
     "nationality": "Spain",
     "position": "G",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 415,
     "player_status": "hall_of_fame",
@@ -979,9 +969,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 414,
     "player_status": "retired",
@@ -999,11 +987,13 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Newcastle",
-      "United；Manchester",
-      "United；Blackburn",
-      "Rovers；Fulham；Manchester",
-      "City；Portsmouth；Sunderland"
+      "Newcastle United",
+      "Manchester United",
+      "Blackburn Rovers",
+      "Fulham",
+      "Manchester City",
+      "Portsmouth",
+      "Sunderland"
     ],
     "total_appearances": 414,
     "player_status": "hall_of_fame",
@@ -1033,9 +1023,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United；Newcastle",
-      "United"
+      "Manchester United",
+      "Newcastle United"
     ],
     "total_appearances": 411,
     "player_status": "retired",
@@ -1057,10 +1046,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Middlesbrough；Aston",
-      "Villa；Liverpool；West",
-      "Ham",
-      "United"
+      "Middlesbrough",
+      "Aston Villa",
+      "Liverpool",
+      "West Ham United"
     ],
     "total_appearances": 408,
     "player_status": "retired",
@@ -1078,11 +1067,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Bolton",
-      "Wanderers；Newcastle",
-      "United；West",
-      "Ham",
-      "United"
+      "Bolton Wanderers",
+      "Newcastle United",
+      "West Ham United"
     ],
     "total_appearances": 401,
     "player_status": "retired",
@@ -1100,8 +1087,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 400,
     "player_status": "retired",
@@ -1123,8 +1109,8 @@
     "nationality": "United States",
     "position": "G",
     "clubs": [
-      "Manchester",
-      "United；Everton"
+      "Manchester United",
+      "Everton"
     ],
     "total_appearances": 399,
     "player_status": "retired",
@@ -1146,12 +1132,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United；West",
-      "Ham",
-      "United；Newcastle",
-      "United；Birmingham",
-      "City"
+      "Leeds United",
+      "West Ham United",
+      "Newcastle United",
+      "Birmingham City"
     ],
     "total_appearances": 397,
     "player_status": "retired",
@@ -1169,7 +1153,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Arsenal；Everton；Southampton"
+      "Arsenal",
+      "Everton",
+      "Southampton"
     ],
     "total_appearances": 397,
     "player_status": "retired",
@@ -1187,8 +1173,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Liverpool；Manchester",
-      "City；Chelsea；Arsenal"
+      "Liverpool",
+      "Manchester City",
+      "Chelsea",
+      "Arsenal"
     ],
     "total_appearances": 396,
     "player_status": "hall_of_fame",
@@ -1214,11 +1202,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United；Arsenal；Watford；Brighton",
-      "&",
-      "Hove",
-      "Albion"
+      "Manchester United",
+      "Arsenal",
+      "Watford",
+      "Brighton & Hove Albion"
     ],
     "total_appearances": 394,
     "player_status": "hall_of_fame",
@@ -1240,10 +1227,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa；Bolton",
-      "Wanderers；Chelsea；Crystal",
-      "Palace"
+      "Aston Villa",
+      "Bolton Wanderers",
+      "Chelsea",
+      "Crystal Palace"
     ],
     "total_appearances": 394,
     "player_status": "retired",
@@ -1261,9 +1248,10 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Blackburn",
-      "Rovers；Chelsea；Newcastle",
-      "United；Fulham"
+      "Blackburn Rovers",
+      "Chelsea",
+      "Newcastle United",
+      "Fulham"
     ],
     "total_appearances": 392,
     "player_status": "hall_of_fame",
@@ -1281,11 +1269,10 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Manchester",
-      "United；Watford；Birmingham",
-      "City；West",
-      "Bromwich",
-      "Albion"
+      "Manchester United",
+      "Watford",
+      "Birmingham City",
+      "West Bromwich Albion"
     ],
     "total_appearances": 390,
     "player_status": "retired",
@@ -1307,11 +1294,9 @@
     "nationality": "Northern Ireland",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；West",
-      "Bromwich",
-      "Albion；Leicester",
-      "City"
+      "Manchester United",
+      "West Bromwich Albion",
+      "Leicester City"
     ],
     "total_appearances": 386,
     "player_status": "hall_of_fame",
@@ -1333,7 +1318,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Arsenal；Chelsea"
+      "Arsenal",
+      "Chelsea"
     ],
     "total_appearances": 385,
     "player_status": "retired",
@@ -1355,10 +1341,10 @@
     "nationality": "Netherlands",
     "position": "M",
     "clubs": [
-      "Coventry",
-      "City；Aston",
-      "Villa；Middlesbrough；Hull",
-      "City"
+      "Coventry City",
+      "Aston Villa",
+      "Middlesbrough",
+      "Hull City"
     ],
     "total_appearances": 384,
     "player_status": "retired",
@@ -1376,10 +1362,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Liverpool；Leeds",
-      "United；Manchester",
-      "City；Blackburn",
-      "Rovers"
+      "Liverpool",
+      "Leeds United",
+      "Manchester City",
+      "Blackburn Rovers"
     ],
     "total_appearances": 379,
     "player_status": "retired",
@@ -1401,7 +1387,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Arsenal；Middlesbrough"
+      "Arsenal",
+      "Middlesbrough"
     ],
     "total_appearances": 379,
     "player_status": "retired",
@@ -1423,10 +1410,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Charlton",
-      "Athletic；Middlesbrough；Aston",
-      "Villa"
+      "Tottenham Hotspur",
+      "Charlton Athletic",
+      "Middlesbrough",
+      "Aston Villa"
     ],
     "total_appearances": 378,
     "player_status": "retired",
@@ -1444,10 +1431,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Chelsea；Liverpool；Aston",
-      "Villa"
+      "West Ham United",
+      "Chelsea",
+      "Liverpool",
+      "Aston Villa"
     ],
     "total_appearances": 378,
     "player_status": "retired",
@@ -1469,10 +1456,9 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Newcastle",
-      "United；Birmingham",
-      "City"
+      "Tottenham Hotspur",
+      "Newcastle United",
+      "Birmingham City"
     ],
     "total_appearances": 377,
     "player_status": "retired",
@@ -1490,10 +1476,9 @@
     "nationality": "Poland",
     "position": "G",
     "clubs": [
-      "Arsenal；Swansea",
-      "City；West",
-      "Ham",
-      "United"
+      "Arsenal",
+      "Swansea City",
+      "West Ham United"
     ],
     "total_appearances": 376,
     "player_status": "hall_of_fame",
@@ -1515,8 +1500,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Sheffield",
-      "United；Everton"
+      "Sheffield United",
+      "Everton"
     ],
     "total_appearances": 376,
     "player_status": "retired",
@@ -1534,11 +1519,11 @@
     "nationality": NaN,
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Manchester",
-      "United；Blackburn",
-      "Rovers；Birmingham",
-      "City；Sunderland"
+      "Aston Villa",
+      "Manchester United",
+      "Blackburn Rovers",
+      "Birmingham City",
+      "Sunderland"
     ],
     "total_appearances": 375,
     "player_status": "hall_of_fame",
@@ -1572,10 +1557,9 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Leeds",
-      "United；Tottenham",
-      "Hotspur；Blackburn",
-      "Rovers"
+      "Leeds United",
+      "Tottenham Hotspur",
+      "Blackburn Rovers"
     ],
     "total_appearances": 374,
     "player_status": "hall_of_fame",
@@ -1615,9 +1599,9 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Crystal",
-      "Palace；Leeds",
-      "United；Everton"
+      "Crystal Palace",
+      "Leeds United",
+      "Everton"
     ],
     "total_appearances": 372,
     "player_status": "retired",
@@ -1639,12 +1623,12 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Charlton",
-      "Athletic；Chelsea；Newcastle",
-      "United；West",
-      "Ham",
-      "United；Tottenham",
-      "Hotspur；Fulham"
+      "Charlton Athletic",
+      "Chelsea",
+      "Newcastle United",
+      "West Ham United",
+      "Tottenham Hotspur",
+      "Fulham"
     ],
     "total_appearances": 367,
     "player_status": "hall_of_fame",
@@ -1662,9 +1646,8 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Nottingham",
-      "Forest；Manchester",
-      "United"
+      "Nottingham Forest",
+      "Manchester United"
     ],
     "total_appearances": 366,
     "player_status": "retired",
@@ -1686,11 +1669,12 @@
     "nationality": "France",
     "position": "F",
     "clubs": [
-      "Arsenal；Liverpool；Manchester",
-      "City；Bolton",
-      "Wanderers；Chelsea；West",
-      "Bromwich",
-      "Albion"
+      "Arsenal",
+      "Liverpool",
+      "Manchester City",
+      "Bolton Wanderers",
+      "Chelsea",
+      "West Bromwich Albion"
     ],
     "total_appearances": 364,
     "player_status": "hall_of_fame",
@@ -1716,12 +1700,12 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Everton；West",
-      "Ham",
-      "United；Aston",
-      "Villa；Portsmouth；Wigan",
-      "Athletic；Sheffield",
-      "United"
+      "Everton",
+      "West Ham United",
+      "Aston Villa",
+      "Portsmouth",
+      "Wigan Athletic",
+      "Sheffield United"
     ],
     "total_appearances": 364,
     "player_status": "retired",
@@ -1739,11 +1723,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Wimbledon；Tottenham",
-      "Hotspur；Charlton",
-      "Athletic；West",
-      "Bromwich",
-      "Albion"
+      "Wimbledon",
+      "Tottenham Hotspur",
+      "Charlton Athletic",
+      "West Bromwich Albion"
     ],
     "total_appearances": 363,
     "player_status": "hall_of_fame",
@@ -1761,9 +1744,9 @@
     "nationality": "Denmark",
     "position": "G",
     "clubs": [
-      "Sunderland；Aston",
-      "Villa；Stoke",
-      "City"
+      "Sunderland",
+      "Aston Villa",
+      "Stoke City"
     ],
     "total_appearances": 363,
     "player_status": "hall_of_fame",
@@ -1785,8 +1768,7 @@
     "nationality": "France",
     "position": "G",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 361,
     "player_status": "hall_of_fame",
@@ -1808,12 +1790,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Queens",
-      "Park",
-      "Rangers；West",
-      "Ham",
-      "United；Manchester",
-      "City"
+      "Queens Park Rangers",
+      "West Ham United",
+      "Manchester City"
     ],
     "total_appearances": 361,
     "player_status": "hall_of_fame",
@@ -1831,9 +1810,10 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Derby",
-      "County；Southampton；Sunderland；Stoke",
-      "City"
+      "Derby County",
+      "Southampton",
+      "Sunderland",
+      "Stoke City"
     ],
     "total_appearances": 358,
     "player_status": "hall_of_fame",
@@ -1851,10 +1831,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Chelsea；Portsmouth；Liverpool；Stoke",
-      "City"
+      "West Ham United",
+      "Chelsea",
+      "Portsmouth",
+      "Liverpool",
+      "Stoke City"
     ],
     "total_appearances": 358,
     "player_status": "hall_of_fame",
@@ -1872,7 +1853,8 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Sunderland；Everton"
+      "Sunderland",
+      "Everton"
     ],
     "total_appearances": 356,
     "player_status": "hall_of_fame",
@@ -1894,8 +1876,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa；Middlesbrough"
+      "Aston Villa",
+      "Middlesbrough"
     ],
     "total_appearances": 355,
     "player_status": "hall_of_fame",
@@ -1931,8 +1913,9 @@
     "nationality": "Cote D’Ivoire",
     "position": "D",
     "clubs": [
-      "Arsenal；Manchester",
-      "City；Liverpool"
+      "Arsenal",
+      "Manchester City",
+      "Liverpool"
     ],
     "total_appearances": 352,
     "player_status": "retired",
@@ -1950,10 +1933,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Arsenal；West",
-      "Ham",
-      "United；Blackburn",
-      "Rovers"
+      "Arsenal",
+      "West Ham United",
+      "Blackburn Rovers"
     ],
     "total_appearances": 352,
     "player_status": "retired",
@@ -1971,15 +1953,12 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Queens",
-      "Park",
-      "Rangers；Newcastle",
-      "United；Tottenham",
-      "Hotspur；West",
-      "Ham",
-      "United；Leicester",
-      "City；Bolton",
-      "Wanderers"
+      "Queens Park Rangers",
+      "Newcastle United",
+      "Tottenham Hotspur",
+      "West Ham United",
+      "Leicester City",
+      "Bolton Wanderers"
     ],
     "total_appearances": 351,
     "player_status": "hall_of_fame",
@@ -2001,11 +1980,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United；Aston",
-      "Villa；Everton；West",
-      "Bromwich",
-      "Albion"
+      "Newcastle United",
+      "Aston Villa",
+      "Everton",
+      "West Bromwich Albion"
     ],
     "total_appearances": 351,
     "player_status": "hall_of_fame",
@@ -2023,7 +2001,8 @@
     "nationality": "Spain",
     "position": "M",
     "clubs": [
-      "Arsenal；Chelsea"
+      "Arsenal",
+      "Chelsea"
     ],
     "total_appearances": 350,
     "player_status": "retired",
@@ -2059,13 +2038,12 @@
     "nationality": "Ireland",
     "position": "F",
     "clubs": [
-      "Coventry",
-      "City；Leeds",
-      "United；Tottenham",
-      "Hotspur；Liverpool；West",
-      "Ham",
-      "United；Aston",
-      "Villa"
+      "Coventry City",
+      "Leeds United",
+      "Tottenham Hotspur",
+      "Liverpool",
+      "West Ham United",
+      "Aston Villa"
     ],
     "total_appearances": 349,
     "player_status": "retired",
@@ -2087,10 +2065,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Charlton",
-      "Athletic；West",
-      "Ham",
-      "United；Fulham；Liverpool"
+      "Charlton Athletic",
+      "West Ham United",
+      "Fulham",
+      "Liverpool"
     ],
     "total_appearances": 347,
     "player_status": "hall_of_fame",
@@ -2108,11 +2086,10 @@
     "nationality": "Wales",
     "position": "M",
     "clubs": [
-      "Leicester",
-      "City；Birmingham",
-      "City；Blackburn",
-      "Rovers；Derby",
-      "County"
+      "Leicester City",
+      "Birmingham City",
+      "Blackburn Rovers",
+      "Derby County"
     ],
     "total_appearances": 346,
     "player_status": "hall_of_fame",
@@ -2130,10 +2107,10 @@
     "nationality": "Ireland",
     "position": "F",
     "clubs": [
-      "Reading；West",
-      "Bromwich",
-      "Albion；Hull",
-      "City；Southampton"
+      "Reading",
+      "West Bromwich Albion",
+      "Hull City",
+      "Southampton"
     ],
     "total_appearances": 344,
     "player_status": "retired",
@@ -2151,8 +2128,8 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Arsenal；Manchester",
-      "City"
+      "Arsenal",
+      "Manchester City"
     ],
     "total_appearances": 344,
     "player_status": "retired",
@@ -2174,9 +2151,11 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Middlesbrough；Everton；Liverpool；Leeds",
-      "United"
+      "Tottenham Hotspur",
+      "Middlesbrough",
+      "Everton",
+      "Liverpool",
+      "Leeds United"
     ],
     "total_appearances": 342,
     "player_status": "hall_of_fame",
@@ -2194,8 +2173,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Leicester",
-      "City"
+      "Leicester City"
     ],
     "total_appearances": 342,
     "player_status": "hall_of_fame",
@@ -2225,11 +2203,9 @@
     "nationality": "Scotland",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United；West",
-      "Bromwich",
-      "Albion；Stoke",
-      "City"
+      "Manchester United",
+      "West Bromwich Albion",
+      "Stoke City"
     ],
     "total_appearances": 341,
     "player_status": "retired",
@@ -2251,11 +2227,11 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Norwich",
-      "City；Blackburn",
-      "Rovers；Tottenham",
-      "Hotspur；Portsmouth；Coventry",
-      "City"
+      "Norwich City",
+      "Blackburn Rovers",
+      "Tottenham Hotspur",
+      "Portsmouth",
+      "Coventry City"
     ],
     "total_appearances": 341,
     "player_status": "retired",
@@ -2273,11 +2249,10 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Manchester",
-      "City；Birmingham",
-      "City；West",
-      "Ham",
-      "United；Burnley"
+      "Manchester City",
+      "Birmingham City",
+      "West Ham United",
+      "Burnley"
     ],
     "total_appearances": 340,
     "player_status": "retired",
@@ -2315,8 +2290,9 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Fulham；Tottenham",
-      "Hotspur；Sunderland"
+      "Fulham",
+      "Tottenham Hotspur",
+      "Sunderland"
     ],
     "total_appearances": 336,
     "player_status": "hall_of_fame",
@@ -2334,8 +2310,9 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Wimbledon；Birmingham",
-      "City；Sunderland"
+      "Wimbledon",
+      "Birmingham City",
+      "Sunderland"
     ],
     "total_appearances": 335,
     "player_status": "hall_of_fame",
@@ -2353,7 +2330,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Burnley；Everton"
+      "Burnley",
+      "Everton"
     ],
     "total_appearances": 334,
     "player_status": "hall_of_fame",
@@ -2371,8 +2349,7 @@
     "nationality": "South Korea",
     "position": "F",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 333,
     "player_status": "hall_of_fame",
@@ -2398,7 +2375,8 @@
     "nationality": "Netherlands",
     "position": "D",
     "clubs": [
-      "Southampton；Liverpool"
+      "Southampton",
+      "Liverpool"
     ],
     "total_appearances": 333,
     "player_status": "hall_of_fame",
@@ -2420,10 +2398,11 @@
     "nationality": "Iceland",
     "position": "D",
     "clubs": [
-      "Crystal",
-      "Palace；Wimbledon；Ipswich",
-      "Town；Charlton",
-      "Athletic；Portsmouth"
+      "Crystal Palace",
+      "Wimbledon",
+      "Ipswich Town",
+      "Charlton Athletic",
+      "Portsmouth"
     ],
     "total_appearances": 332,
     "player_status": "hall_of_fame",
@@ -2441,9 +2420,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Blackburn",
-      "Rovers；Southampton；Everton；Stoke",
-      "City"
+      "Blackburn Rovers",
+      "Southampton",
+      "Everton",
+      "Stoke City"
     ],
     "total_appearances": 331,
     "player_status": "retired",
@@ -2483,8 +2463,7 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 328,
     "player_status": "retired",
@@ -2506,8 +2485,8 @@
     "nationality": "Scotland",
     "position": "D",
     "clubs": [
-      "Hull",
-      "City；Liverpool"
+      "Hull City",
+      "Liverpool"
     ],
     "total_appearances": 328,
     "player_status": "hall_of_fame",
@@ -2525,7 +2504,9 @@
     "nationality": "Brazil",
     "position": "F",
     "clubs": [
-      "Chelsea；Arsenal；Fulham"
+      "Chelsea",
+      "Arsenal",
+      "Fulham"
     ],
     "total_appearances": 327,
     "player_status": "hall_of_fame",
@@ -2543,8 +2524,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Chelsea；Blackburn",
-      "Rovers；Southampton"
+      "Chelsea",
+      "Blackburn Rovers",
+      "Southampton"
     ],
     "total_appearances": 327,
     "player_status": "hall_of_fame",
@@ -2562,10 +2544,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Liverpool；Newcastle",
-      "United；Manchester",
-      "United；Stoke",
-      "City"
+      "Liverpool",
+      "Newcastle United",
+      "Manchester United",
+      "Stoke City"
     ],
     "total_appearances": 326,
     "player_status": "retired",
@@ -2599,8 +2581,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Arsenal；Nottingham",
-      "Forest；Everton"
+      "Arsenal",
+      "Nottingham Forest",
+      "Everton"
     ],
     "total_appearances": 325,
     "player_status": "hall_of_fame",
@@ -2622,8 +2605,8 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Arsenal；Manchester",
-      "City"
+      "Arsenal",
+      "Manchester City"
     ],
     "total_appearances": 325,
     "player_status": "retired",
@@ -2645,8 +2628,7 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Leeds",
-      "United"
+      "Leeds United"
     ],
     "total_appearances": 325,
     "player_status": "retired",
@@ -2664,10 +2646,11 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Coventry",
-      "City；Everton；Sunderland；Wigan",
-      "Athletic；Hull",
-      "City"
+      "Coventry City",
+      "Everton",
+      "Sunderland",
+      "Wigan Athletic",
+      "Hull City"
     ],
     "total_appearances": 325,
     "player_status": "hall_of_fame",
@@ -2685,8 +2668,8 @@
     "nationality": "Scotland",
     "position": "M",
     "clubs": [
-      "Coventry",
-      "City；Liverpool"
+      "Coventry City",
+      "Liverpool"
     ],
     "total_appearances": 325,
     "player_status": "hall_of_fame",
@@ -2704,10 +2687,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Portsmouth；Bolton",
-      "Wanderers；West",
-      "Ham",
-      "United；Burnley"
+      "Portsmouth",
+      "Bolton Wanderers",
+      "West Ham United",
+      "Burnley"
     ],
     "total_appearances": 325,
     "player_status": "hall_of_fame",
@@ -2725,9 +2708,8 @@
     "nationality": "Ecuador",
     "position": "D",
     "clubs": [
-      "Wigan",
-      "Athletic；Manchester",
-      "United"
+      "Wigan Athletic",
+      "Manchester United"
     ],
     "total_appearances": 325,
     "player_status": "retired",
@@ -2745,7 +2727,8 @@
     "nationality": "Egypt",
     "position": "F",
     "clubs": [
-      "Chelsea；Liverpool"
+      "Chelsea",
+      "Liverpool"
     ],
     "total_appearances": 324,
     "player_status": "hall_of_fame",
@@ -2791,9 +2774,8 @@
     "nationality": "Scotland",
     "position": "M",
     "clubs": [
-      "Wigan",
-      "Athletic；Crystal",
-      "Palace"
+      "Wigan Athletic",
+      "Crystal Palace"
     ],
     "total_appearances": 323,
     "player_status": "retired",
@@ -2811,8 +2793,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Everton；Arsenal；Aston",
-      "Villa"
+      "Everton",
+      "Arsenal",
+      "Aston Villa"
     ],
     "total_appearances": 323,
     "player_status": "retired",
@@ -2834,8 +2817,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 322,
     "player_status": "retired",
@@ -2853,9 +2835,10 @@
     "nationality": "Germany",
     "position": "D",
     "clubs": [
-      "Chelsea；Middlesbrough；Stoke",
-      "City；Leicester",
-      "City"
+      "Chelsea",
+      "Middlesbrough",
+      "Stoke City",
+      "Leicester City"
     ],
     "total_appearances": 322,
     "player_status": "hall_of_fame",
@@ -2877,8 +2860,9 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Chelsea；Arsenal；Tottenham",
-      "Hotspur"
+      "Chelsea",
+      "Arsenal",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 321,
     "player_status": "hall_of_fame",
@@ -2896,7 +2880,8 @@
     "nationality": "Norway",
     "position": "D",
     "clubs": [
-      "Liverpool；Fulham"
+      "Liverpool",
+      "Fulham"
     ],
     "total_appearances": 321,
     "player_status": "retired",
@@ -2914,8 +2899,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 320,
     "player_status": "hall_of_fame",
@@ -2949,9 +2933,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Birmingham",
-      "City；Portsmouth"
+      "Tottenham Hotspur",
+      "Birmingham City",
+      "Portsmouth"
     ],
     "total_appearances": 319,
     "player_status": "retired",
@@ -2969,8 +2953,8 @@
     "nationality": "Scotland",
     "position": "D",
     "clubs": [
-      "Coventry",
-      "City；Southampton"
+      "Coventry City",
+      "Southampton"
     ],
     "total_appearances": 319,
     "player_status": "retired",
@@ -2988,9 +2972,9 @@
     "nationality": "Iceland",
     "position": "M",
     "clubs": [
-      "Swansea",
-      "City；Tottenham",
-      "Hotspur；Everton"
+      "Swansea City",
+      "Tottenham Hotspur",
+      "Everton"
     ],
     "total_appearances": 318,
     "player_status": "hall_of_fame",
@@ -3026,10 +3010,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Coventry",
-      "City；Sheffield",
-      "Wednesday；Blackburn",
-      "Rovers"
+      "Coventry City",
+      "Sheffield Wednesday",
+      "Blackburn Rovers"
     ],
     "total_appearances": 318,
     "player_status": "retired",
@@ -3047,7 +3030,9 @@
     "nationality": "Nigeria",
     "position": "F",
     "clubs": [
-      "Arsenal；Everton；Fulham"
+      "Arsenal",
+      "Everton",
+      "Fulham"
     ],
     "total_appearances": 317,
     "player_status": "hall_of_fame",
@@ -3065,9 +3050,8 @@
     "nationality": "Wales",
     "position": "D",
     "clubs": [
-      "Swansea",
-      "City；Tottenham",
-      "Hotspur"
+      "Swansea City",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 316,
     "player_status": "hall_of_fame",
@@ -3085,9 +3069,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；Stoke",
-      "City"
+      "Manchester United",
+      "Stoke City"
     ],
     "total_appearances": 316,
     "player_status": "retired",
@@ -3131,8 +3114,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Southampton；Chelsea；Fulham；Manchester",
-      "City；Sunderland"
+      "Southampton",
+      "Chelsea",
+      "Fulham",
+      "Manchester City",
+      "Sunderland"
     ],
     "total_appearances": 315,
     "player_status": "hall_of_fame",
@@ -3150,10 +3136,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City；Chelsea；Queens",
-      "Park",
-      "Rangers"
+      "Manchester City",
+      "Chelsea",
+      "Queens Park Rangers"
     ],
     "total_appearances": 315,
     "player_status": "hall_of_fame",
@@ -3171,8 +3156,8 @@
     "nationality": "Netherlands",
     "position": "G",
     "clubs": [
-      "Fulham；Manchester",
-      "United"
+      "Fulham",
+      "Manchester United"
     ],
     "total_appearances": 313,
     "player_status": "hall_of_fame",
@@ -3202,10 +3187,9 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Leicester",
-      "City；Bolton",
-      "Wanderers"
+      "Tottenham Hotspur",
+      "Leicester City",
+      "Bolton Wanderers"
     ],
     "total_appearances": 312,
     "player_status": "retired",
@@ -3223,11 +3207,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United；Coventry",
-      "City；Aston",
-      "Villa；Leicester",
-      "City"
+      "Manchester United",
+      "Coventry City",
+      "Aston Villa",
+      "Leicester City"
     ],
     "total_appearances": 312,
     "player_status": "hall_of_fame",
@@ -3253,9 +3236,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 312,
     "player_status": "hall_of_fame",
@@ -3273,9 +3254,8 @@
     "nationality": "Scotland",
     "position": "M",
     "clubs": [
-      "Middlesbrough；West",
-      "Bromwich",
-      "Albion"
+      "Middlesbrough",
+      "West Bromwich Albion"
     ],
     "total_appearances": 311,
     "player_status": "retired",
@@ -3293,9 +3273,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Leicester",
-      "City"
+      "Aston Villa",
+      "Leicester City"
     ],
     "total_appearances": 310,
     "player_status": "retired",
@@ -3313,9 +3292,9 @@
     "nationality": "Denmark",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Brentford；Manchester",
-      "United"
+      "Tottenham Hotspur",
+      "Brentford",
+      "Manchester United"
     ],
     "total_appearances": 310,
     "player_status": "hall_of_fame",
@@ -3333,10 +3312,9 @@
     "nationality": "Denmark",
     "position": "G",
     "clubs": [
-      "Manchester",
-      "United；Aston",
-      "Villa；Manchester",
-      "City"
+      "Manchester United",
+      "Aston Villa",
+      "Manchester City"
     ],
     "total_appearances": 310,
     "player_status": "retired",
@@ -3366,8 +3344,7 @@
     "nationality": "Spain",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 309,
     "player_status": "retired",
@@ -3389,8 +3366,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Portsmouth；Crystal",
-      "Palace"
+      "Portsmouth",
+      "Crystal Palace"
     ],
     "total_appearances": 309,
     "player_status": "hall_of_fame",
@@ -3408,8 +3385,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；Sunderland"
+      "Manchester United",
+      "Sunderland"
     ],
     "total_appearances": 308,
     "player_status": "retired",
@@ -3431,9 +3408,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Arsenal；West",
-      "Ham",
-      "United"
+      "Arsenal",
+      "West Ham United"
     ],
     "total_appearances": 308,
     "player_status": "hall_of_fame",
@@ -3451,8 +3427,8 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Arsenal；Manchester",
-      "City"
+      "Arsenal",
+      "Manchester City"
     ],
     "total_appearances": 307,
     "player_status": "retired",
@@ -3478,8 +3454,8 @@
     "nationality": "Northern Ireland",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Southampton"
+      "Aston Villa",
+      "Southampton"
     ],
     "total_appearances": 306,
     "player_status": "retired",
@@ -3497,9 +3473,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United；Liverpool；Middlesbrough；Wolverhampton",
-      "Wanderers"
+      "Manchester United",
+      "Liverpool",
+      "Middlesbrough",
+      "Wolverhampton Wanderers"
     ],
     "total_appearances": 306,
     "player_status": "hall_of_fame",
@@ -3517,11 +3494,10 @@
     "nationality": "Ghana",
     "position": "F",
     "clubs": [
-      "Aston",
-      "Villa；Swansea",
-      "City；Crystal",
-      "Palace；Leicester",
-      "City"
+      "Aston Villa",
+      "Swansea City",
+      "Crystal Palace",
+      "Leicester City"
     ],
     "total_appearances": 305,
     "player_status": "hall_of_fame",
@@ -3575,8 +3551,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 305,
     "player_status": "retired",
@@ -3594,8 +3569,7 @@
     "nationality": "Cote D’Ivoire",
     "position": "F",
     "clubs": [
-      "Crystal",
-      "Palace"
+      "Crystal Palace"
     ],
     "total_appearances": 305,
     "player_status": "hall_of_fame",
@@ -3631,12 +3605,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "West",
-      "Bromwich",
-      "Albion；Watford；West",
-      "Ham",
-      "United；Wolverhampton",
-      "Wanderers"
+      "West Bromwich Albion",
+      "Watford",
+      "West Ham United",
+      "Wolverhampton Wanderers"
     ],
     "total_appearances": 303,
     "player_status": "hall_of_fame",
@@ -3654,9 +3626,10 @@
     "nationality": "Scotland",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；Sunderland；Stoke",
-      "City；Burnley"
+      "Manchester United",
+      "Sunderland",
+      "Stoke City",
+      "Burnley"
     ],
     "total_appearances": 303,
     "player_status": "hall_of_fame",
@@ -3692,8 +3665,7 @@
     "nationality": "Peru",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 302,
     "player_status": "retired",
@@ -3711,10 +3683,8 @@
     "nationality": "Argentina",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Manchester",
-      "City"
+      "West Ham United",
+      "Manchester City"
     ],
     "total_appearances": 302,
     "player_status": "retired",
@@ -3732,8 +3702,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Blackburn",
-      "Rovers"
+      "Blackburn Rovers"
     ],
     "total_appearances": 301,
     "player_status": "retired",
@@ -3751,9 +3720,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Everton；Sunderland；Aston",
-      "Villa；Bolton",
-      "Wanderers"
+      "Everton",
+      "Sunderland",
+      "Aston Villa",
+      "Bolton Wanderers"
     ],
     "total_appearances": 301,
     "player_status": "hall_of_fame",
@@ -3771,8 +3741,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Chelsea"
+      "Aston Villa",
+      "Chelsea"
     ],
     "total_appearances": 299,
     "player_status": "hall_of_fame",
@@ -3790,8 +3760,7 @@
     "nationality": "Nigeria",
     "position": "F",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 298,
     "player_status": "retired",
@@ -3809,8 +3778,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Swansea",
-      "City"
+      "Swansea City"
     ],
     "total_appearances": 297,
     "player_status": "retired",
@@ -3828,8 +3796,8 @@
     "nationality": "Spain",
     "position": "G",
     "clubs": [
-      "Liverpool；Aston",
-      "Villa"
+      "Liverpool",
+      "Aston Villa"
     ],
     "total_appearances": 297,
     "player_status": "retired",
@@ -3863,8 +3831,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 297,
     "player_status": "hall_of_fame",
@@ -3886,8 +3853,7 @@
     "nationality": "Portugal",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 297,
     "player_status": "hall_of_fame",
@@ -3909,9 +3875,11 @@
     "nationality": "Wales",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United；Chelsea；Southampton；Everton；Blackburn",
-      "Rovers"
+      "Manchester United",
+      "Chelsea",
+      "Southampton",
+      "Everton",
+      "Blackburn Rovers"
     ],
     "total_appearances": 297,
     "player_status": "hall_of_fame",
@@ -3929,9 +3897,10 @@
     "nationality": "Portugal",
     "position": "M",
     "clubs": [
-      "Arsenal；Southampton；Fulham；West",
-      "Ham",
-      "United"
+      "Arsenal",
+      "Southampton",
+      "Fulham",
+      "West Ham United"
     ],
     "total_appearances": 295,
     "player_status": "hall_of_fame",
@@ -3949,10 +3918,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Brighton",
-      "&",
-      "Hove",
-      "Albion"
+      "Brighton & Hove Albion"
     ],
     "total_appearances": 295,
     "player_status": "hall_of_fame",
@@ -3988,9 +3954,9 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United；Tottenham",
-      "Hotspur；Watford"
+      "Newcastle United",
+      "Tottenham Hotspur",
+      "Watford"
     ],
     "total_appearances": 295,
     "player_status": "hall_of_fame",
@@ -4008,8 +3974,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Everton；Charlton",
-      "Athletic"
+      "Everton",
+      "Charlton Athletic"
     ],
     "total_appearances": 294,
     "player_status": "hall_of_fame",
@@ -4027,14 +3993,13 @@
     "nationality": "Wales",
     "position": "F",
     "clubs": [
-      "Coventry",
-      "City；Newcastle",
-      "United；Blackburn",
-      "Rovers；Liverpool；West",
-      "Ham",
-      "United；Manchester",
-      "City；Cardiff",
-      "City"
+      "Coventry City",
+      "Newcastle United",
+      "Blackburn Rovers",
+      "Liverpool",
+      "West Ham United",
+      "Manchester City",
+      "Cardiff City"
     ],
     "total_appearances": 293,
     "player_status": "hall_of_fame",
@@ -4070,11 +4035,9 @@
     "nationality": "Senegal",
     "position": "M",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Crystal",
-      "Palace；Nottingham",
-      "Forest"
+      "West Ham United",
+      "Crystal Palace",
+      "Nottingham Forest"
     ],
     "total_appearances": 291,
     "player_status": "hall_of_fame",
@@ -4092,13 +4055,12 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Queens",
-      "Park",
-      "Rangers；Newcastle",
-      "United；Crystal",
-      "Palace；Everton；Luton",
-      "Town"
+      "Tottenham Hotspur",
+      "Queens Park Rangers",
+      "Newcastle United",
+      "Crystal Palace",
+      "Everton",
+      "Luton Town"
     ],
     "total_appearances": 291,
     "player_status": "hall_of_fame",
@@ -4116,8 +4078,7 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Derby",
-      "County"
+      "Derby County"
     ],
     "total_appearances": 290,
     "player_status": "hall_of_fame",
@@ -4153,8 +4114,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；Southampton"
+      "Manchester United",
+      "Southampton"
     ],
     "total_appearances": 290,
     "player_status": "hall_of_fame",
@@ -4172,8 +4133,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Nottingham",
-      "Forest"
+      "Nottingham Forest"
     ],
     "total_appearances": 289,
     "player_status": "hall_of_fame",
@@ -4191,10 +4151,12 @@
     "nationality": "France",
     "position": "F",
     "clubs": [
-      "Newcastle",
-      "United；Fulham；Manchester",
-      "United；Everton；Tottenham",
-      "Hotspur；Sunderland"
+      "Newcastle United",
+      "Fulham",
+      "Manchester United",
+      "Everton",
+      "Tottenham Hotspur",
+      "Sunderland"
     ],
     "total_appearances": 289,
     "player_status": "hall_of_fame",
@@ -4216,10 +4178,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Crystal",
-      "Palace"
+      "West Ham United",
+      "Crystal Palace"
     ],
     "total_appearances": 289,
     "player_status": "hall_of_fame",
@@ -4237,8 +4197,8 @@
     "nationality": "Jamaica",
     "position": "D",
     "clubs": [
-      "Chelsea；Leicester",
-      "City"
+      "Chelsea",
+      "Leicester City"
     ],
     "total_appearances": 288,
     "player_status": "hall_of_fame",
@@ -4256,12 +4216,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Arsenal；Birmingham",
-      "City；West",
-      "Ham",
-      "United；Stoke",
-      "City；Leicester",
-      "City"
+      "Arsenal",
+      "Birmingham City",
+      "West Ham United",
+      "Stoke City",
+      "Leicester City"
     ],
     "total_appearances": 288,
     "player_status": "hall_of_fame",
@@ -4279,9 +4238,8 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Coventry",
-      "City；Aston",
-      "Villa"
+      "Coventry City",
+      "Aston Villa"
     ],
     "total_appearances": 288,
     "player_status": "retired",
@@ -4299,8 +4257,8 @@
     "nationality": "Belgium",
     "position": "M",
     "clubs": [
-      "Chelsea；Manchester",
-      "City"
+      "Chelsea",
+      "Manchester City"
     ],
     "total_appearances": 288,
     "player_status": "hall_of_fame",
@@ -4330,9 +4288,10 @@
     "nationality": "Netherlands",
     "position": "F",
     "clubs": [
-      "Leeds",
-      "United；Chelsea；Middlesbrough；Charlton",
-      "Athletic"
+      "Leeds United",
+      "Chelsea",
+      "Middlesbrough",
+      "Charlton Athletic"
     ],
     "total_appearances": 288,
     "player_status": "hall_of_fame",
@@ -4362,8 +4321,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Stoke",
-      "City"
+      "Stoke City"
     ],
     "total_appearances": 288,
     "player_status": "hall_of_fame",
@@ -4381,9 +4339,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 288,
     "player_status": "retired",
@@ -4401,11 +4357,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Everton；Manchester",
-      "City；West",
-      "Bromwich",
-      "Albion；Aston",
-      "Villa；Sunderland"
+      "Everton",
+      "Manchester City",
+      "West Bromwich Albion",
+      "Aston Villa",
+      "Sunderland"
     ],
     "total_appearances": 287,
     "player_status": "hall_of_fame",
@@ -4423,9 +4379,9 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Southampton；Blackburn",
-      "Rovers；Leicester",
-      "City"
+      "Southampton",
+      "Blackburn Rovers",
+      "Leicester City"
     ],
     "total_appearances": 286,
     "player_status": "hall_of_fame",
@@ -4447,8 +4403,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 286,
     "player_status": "hall_of_fame",
@@ -4466,8 +4421,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Burnley"
+      "Aston Villa",
+      "Burnley"
     ],
     "total_appearances": 286,
     "player_status": "hall_of_fame",
@@ -4503,9 +4458,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Hull",
-      "City；Tottenham",
-      "Hotspur"
+      "Hull City",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 286,
     "player_status": "retired",
@@ -4523,10 +4477,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United；Manchester",
-      "United；Newcastle",
-      "United"
+      "Leeds United",
+      "Manchester United",
+      "Newcastle United"
     ],
     "total_appearances": 285,
     "player_status": "hall_of_fame",
@@ -4544,7 +4497,8 @@
     "nationality": "Spain",
     "position": "M",
     "clubs": [
-      "Everton；Arsenal"
+      "Everton",
+      "Arsenal"
     ],
     "total_appearances": 284,
     "player_status": "hall_of_fame",
@@ -4580,9 +4534,8 @@
     "nationality": "Algeria",
     "position": "F",
     "clubs": [
-      "Leicester",
-      "City；Manchester",
-      "City"
+      "Leicester City",
+      "Manchester City"
     ],
     "total_appearances": 284,
     "player_status": "hall_of_fame",
@@ -4608,9 +4561,9 @@
     "nationality": "Netherlands",
     "position": "D",
     "clubs": [
-      "Chelsea；Birmingham",
-      "City；Wigan",
-      "Athletic"
+      "Chelsea",
+      "Birmingham City",
+      "Wigan Athletic"
     ],
     "total_appearances": 284,
     "player_status": "hall_of_fame",
@@ -4628,8 +4581,7 @@
     "nationality": "Denmark",
     "position": "G",
     "clubs": [
-      "Leicester",
-      "City"
+      "Leicester City"
     ],
     "total_appearances": 284,
     "player_status": "hall_of_fame",
@@ -4651,11 +4603,11 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Derby",
-      "County；Blackburn",
-      "Rovers；Coventry",
-      "City；Everton；Birmingham",
-      "City"
+      "Derby County",
+      "Blackburn Rovers",
+      "Coventry City",
+      "Everton",
+      "Birmingham City"
     ],
     "total_appearances": 282,
     "player_status": "hall_of_fame",
@@ -4673,9 +4625,10 @@
     "nationality": "Sweden",
     "position": "M",
     "clubs": [
-      "Arsenal；Birmingham",
-      "City；Sunderland；Hull",
-      "City"
+      "Arsenal",
+      "Birmingham City",
+      "Sunderland",
+      "Hull City"
     ],
     "total_appearances": 282,
     "player_status": "hall_of_fame",
@@ -4693,8 +4646,7 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 281,
     "player_status": "hall_of_fame",
@@ -4712,8 +4664,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Arsenal；Middlesbrough；Aston",
-      "Villa；Portsmouth"
+      "Arsenal",
+      "Middlesbrough",
+      "Aston Villa",
+      "Portsmouth"
     ],
     "total_appearances": 280,
     "player_status": "hall_of_fame",
@@ -4731,8 +4685,8 @@
     "nationality": "Netherlands",
     "position": "F",
     "clubs": [
-      "Arsenal；Manchester",
-      "United"
+      "Arsenal",
+      "Manchester United"
     ],
     "total_appearances": 280,
     "player_status": "retired",
@@ -4762,9 +4716,8 @@
     "nationality": "Ghana",
     "position": "M",
     "clubs": [
-      "Norwich",
-      "City；Crystal",
-      "Palace"
+      "Norwich City",
+      "Crystal Palace"
     ],
     "total_appearances": 280,
     "player_status": "hall_of_fame",
@@ -4782,8 +4735,7 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Leeds",
-      "United"
+      "Leeds United"
     ],
     "total_appearances": 280,
     "player_status": "hall_of_fame",
@@ -4801,9 +4753,9 @@
     "nationality": "Belgium",
     "position": "F",
     "clubs": [
-      "Aston",
-      "Villa；Liverpool；Crystal",
-      "Palace"
+      "Aston Villa",
+      "Liverpool",
+      "Crystal Palace"
     ],
     "total_appearances": 280,
     "player_status": "hall_of_fame",
@@ -4825,8 +4777,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 280,
     "player_status": "retired",
@@ -4844,7 +4795,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Everton；Burnley"
+      "Everton",
+      "Burnley"
     ],
     "total_appearances": 280,
     "player_status": "hall_of_fame",
@@ -4862,12 +4814,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United；Tottenham",
-      "Hotspur；Aston",
-      "Villa；Queens",
-      "Park",
-      "Rangers"
+      "Newcastle United",
+      "Tottenham Hotspur",
+      "Aston Villa",
+      "Queens Park Rangers"
     ],
     "total_appearances": 280,
     "player_status": "hall_of_fame",
@@ -4885,8 +4835,7 @@
     "nationality": "Australia",
     "position": "D",
     "clubs": [
-      "Blackburn",
-      "Rovers"
+      "Blackburn Rovers"
     ],
     "total_appearances": 279,
     "player_status": "retired",
@@ -4904,8 +4853,8 @@
     "nationality": "Spain",
     "position": "M",
     "clubs": [
-      "Chelsea；Manchester",
-      "United"
+      "Chelsea",
+      "Manchester United"
     ],
     "total_appearances": 278,
     "player_status": "hall_of_fame",
@@ -4941,10 +4890,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Liverpool；Swansea",
-      "City；Newcastle",
-      "United；Nottingham",
-      "Forest"
+      "Liverpool",
+      "Swansea City",
+      "Newcastle United",
+      "Nottingham Forest"
     ],
     "total_appearances": 278,
     "player_status": "hall_of_fame",
@@ -4962,10 +4911,8 @@
     "nationality": "Wales",
     "position": "D",
     "clubs": [
-      "Ipswich",
-      "Town；West",
-      "Ham",
-      "United"
+      "Ipswich Town",
+      "West Ham United"
     ],
     "total_appearances": 278,
     "player_status": "retired",
@@ -4983,10 +4930,10 @@
     "nationality": "Belgium",
     "position": "F",
     "clubs": [
-      "Chelsea；West",
-      "Bromwich",
-      "Albion；Everton；Manchester",
-      "United"
+      "Chelsea",
+      "West Bromwich Albion",
+      "Everton",
+      "Manchester United"
     ],
     "total_appearances": 278,
     "player_status": "hall_of_fame",
@@ -5008,8 +4955,7 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 278,
     "player_status": "retired",
@@ -5031,7 +4977,8 @@
     "nationality": "Mali",
     "position": "M",
     "clubs": [
-      "Watford；Everton"
+      "Watford",
+      "Everton"
     ],
     "total_appearances": 278,
     "player_status": "hall_of_fame",
@@ -5049,9 +4996,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Wimbledon；Newcastle",
-      "United；Derby",
-      "County"
+      "Wimbledon",
+      "Newcastle United",
+      "Derby County"
     ],
     "total_appearances": 277,
     "player_status": "hall_of_fame",
@@ -5069,8 +5016,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Sheffield",
-      "United；Burnley"
+      "Sheffield United",
+      "Burnley"
     ],
     "total_appearances": 277,
     "player_status": "hall_of_fame",
@@ -5088,8 +5035,7 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Stoke",
-      "City"
+      "Stoke City"
     ],
     "total_appearances": 276,
     "player_status": "retired",
@@ -5107,8 +5053,7 @@
     "nationality": "Brazil",
     "position": "G",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 276,
     "player_status": "hall_of_fame",
@@ -5146,8 +5091,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Blackburn",
-      "Rovers；Southampton"
+      "Blackburn Rovers",
+      "Southampton"
     ],
     "total_appearances": 276,
     "player_status": "hall_of_fame",
@@ -5165,10 +5110,10 @@
     "nationality": "Scotland",
     "position": "D",
     "clubs": [
-      "Liverpool；Leeds",
-      "United；Blackburn",
-      "Rovers；Stoke",
-      "City"
+      "Liverpool",
+      "Leeds United",
+      "Blackburn Rovers",
+      "Stoke City"
     ],
     "total_appearances": 276,
     "player_status": "hall_of_fame",
@@ -5186,8 +5131,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Crystal",
-      "Palace；Liverpool"
+      "Crystal Palace",
+      "Liverpool"
     ],
     "total_appearances": 276,
     "player_status": "hall_of_fame",
@@ -5205,11 +5150,12 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Ipswich",
-      "Town；Charlton",
-      "Athletic；Tottenham",
-      "Hotspur；Sunderland；Aston",
-      "Villa；Fulham"
+      "Ipswich Town",
+      "Charlton Athletic",
+      "Tottenham Hotspur",
+      "Sunderland",
+      "Aston Villa",
+      "Fulham"
     ],
     "total_appearances": 276,
     "player_status": "hall_of_fame",
@@ -5231,8 +5177,7 @@
     "nationality": "Argentina",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 275,
     "player_status": "retired",
@@ -5262,9 +5207,8 @@
     "nationality": "Norway",
     "position": "D",
     "clubs": [
-      "Blackburn",
-      "Rovers；Manchester",
-      "United"
+      "Blackburn Rovers",
+      "Manchester United"
     ],
     "total_appearances": 275,
     "player_status": "retired",
@@ -5304,8 +5248,7 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 275,
     "player_status": "retired",
@@ -5327,8 +5270,7 @@
     "nationality": "Australia",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United"
+      "Leeds United"
     ],
     "total_appearances": 274,
     "player_status": "retired",
@@ -5346,9 +5288,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Leicester",
-      "City；Charlton",
-      "Athletic"
+      "Leicester City",
+      "Charlton Athletic"
     ],
     "total_appearances": 274,
     "player_status": "retired",
@@ -5366,8 +5307,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 274,
     "player_status": "hall_of_fame",
@@ -5385,9 +5325,8 @@
     "nationality": "Serbia",
     "position": "D",
     "clubs": [
-      "West",
-      "Bromwich",
-      "Albion；Chelsea"
+      "West Bromwich Albion",
+      "Chelsea"
     ],
     "total_appearances": 274,
     "player_status": "retired",
@@ -5409,9 +5348,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Leicester",
-      "City；Blackburn",
-      "Rovers"
+      "Leicester City",
+      "Blackburn Rovers"
     ],
     "total_appearances": 273,
     "player_status": "retired",
@@ -5447,9 +5385,9 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Wigan",
-      "Athletic；Everton；Crystal",
-      "Palace"
+      "Wigan Athletic",
+      "Everton",
+      "Crystal Palace"
     ],
     "total_appearances": 272,
     "player_status": "hall_of_fame",
@@ -5467,8 +5405,7 @@
     "nationality": "New Zealand",
     "position": "F",
     "clubs": [
-      "Nottingham",
-      "Forest"
+      "Nottingham Forest"
     ],
     "total_appearances": 272,
     "player_status": "hall_of_fame",
@@ -5508,8 +5445,8 @@
     "nationality": "Brazil",
     "position": "F",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Everton"
+      "Tottenham Hotspur",
+      "Everton"
     ],
     "total_appearances": 270,
     "player_status": "hall_of_fame",
@@ -5549,9 +5486,8 @@
     "nationality": "Spain",
     "position": "F",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Fulham"
+      "West Ham United",
+      "Fulham"
     ],
     "total_appearances": 270,
     "player_status": "hall_of_fame",
@@ -5587,9 +5523,7 @@
     "nationality": "Northern Ireland",
     "position": "M",
     "clubs": [
-      "West",
-      "Bromwich",
-      "Albion"
+      "West Bromwich Albion"
     ],
     "total_appearances": 269,
     "player_status": "retired",
@@ -5625,9 +5559,7 @@
     "nationality": "Jamaica",
     "position": "F",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 268,
     "player_status": "hall_of_fame",
@@ -5645,8 +5577,8 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Leeds",
-      "United；Everton"
+      "Leeds United",
+      "Everton"
     ],
     "total_appearances": 268,
     "player_status": "hall_of_fame",
@@ -5682,8 +5614,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 268,
     "player_status": "retired",
@@ -5719,8 +5650,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Nottingham",
-      "Forest；Middlesbrough"
+      "Nottingham Forest",
+      "Middlesbrough"
     ],
     "total_appearances": 266,
     "player_status": "hall_of_fame",
@@ -5756,10 +5687,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United；Blackburn",
-      "Rovers；Newcastle",
-      "United"
+      "Leeds United",
+      "Blackburn Rovers",
+      "Newcastle United"
     ],
     "total_appearances": 266,
     "player_status": "hall_of_fame",
@@ -5777,8 +5707,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 265,
     "player_status": "retired",
@@ -5818,8 +5747,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Middlesbrough；Manchester",
-      "City；Sunderland"
+      "Middlesbrough",
+      "Manchester City",
+      "Sunderland"
     ],
     "total_appearances": 265,
     "player_status": "hall_of_fame",
@@ -5837,8 +5767,7 @@
     "nationality": "Belgium",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 265,
     "player_status": "retired",
@@ -5864,11 +5793,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；West",
-      "Bromwich",
-      "Albion；Sunderland；Fulham；Aston",
-      "Villa"
+      "Manchester United",
+      "West Bromwich Albion",
+      "Sunderland",
+      "Fulham",
+      "Aston Villa"
     ],
     "total_appearances": 265,
     "player_status": "hall_of_fame",
@@ -5886,8 +5815,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Leicester",
-      "City"
+      "Leicester City"
     ],
     "total_appearances": 265,
     "player_status": "hall_of_fame",
@@ -5905,9 +5833,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 265,
     "player_status": "hall_of_fame",
@@ -5929,8 +5855,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Sheffield",
-      "Wednesday"
+      "Sheffield Wednesday"
     ],
     "total_appearances": 264,
     "player_status": "retired",
@@ -5948,8 +5873,7 @@
     "nationality": "Brazil",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 264,
     "player_status": "retired",
@@ -5971,8 +5895,9 @@
     "nationality": "Jamaica",
     "position": "F",
     "clubs": [
-      "Wimbledon；Charlton",
-      "Athletic；Middlesbrough"
+      "Wimbledon",
+      "Charlton Athletic",
+      "Middlesbrough"
     ],
     "total_appearances": 264,
     "player_status": "hall_of_fame",
@@ -5990,7 +5915,8 @@
     "nationality": "Senegal",
     "position": "F",
     "clubs": [
-      "Southampton；Liverpool"
+      "Southampton",
+      "Liverpool"
     ],
     "total_appearances": 263,
     "player_status": "hall_of_fame",
@@ -6016,12 +5942,12 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Sunderland；Southampton；Aston",
-      "Villa；West",
-      "Bromwich",
-      "Albion；Birmingham",
-      "City；Crystal",
-      "Palace"
+      "Sunderland",
+      "Southampton",
+      "Aston Villa",
+      "West Bromwich Albion",
+      "Birmingham City",
+      "Crystal Palace"
     ],
     "total_appearances": 263,
     "player_status": "hall_of_fame",
@@ -6051,10 +5977,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Nottingham",
-      "Forest；Aston",
-      "Villa；Leicester",
-      "City；Portsmouth"
+      "Nottingham Forest",
+      "Aston Villa",
+      "Leicester City",
+      "Portsmouth"
     ],
     "total_appearances": 263,
     "player_status": "hall_of_fame",
@@ -6090,8 +6016,8 @@
     "nationality": "Wales",
     "position": "M",
     "clubs": [
-      "Cardiff",
-      "City；Arsenal"
+      "Cardiff City",
+      "Arsenal"
     ],
     "total_appearances": 262,
     "player_status": "retired",
@@ -6109,8 +6035,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 261,
     "player_status": "hall_of_fame",
@@ -6132,10 +6057,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Sheffield",
-      "Wednesday；Leeds",
-      "United；Coventry",
-      "City；Southampton"
+      "Sheffield Wednesday",
+      "Leeds United",
+      "Coventry City",
+      "Southampton"
     ],
     "total_appearances": 261,
     "player_status": "hall_of_fame",
@@ -6153,11 +6078,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Birmingham",
-      "City；Sunderland；West",
-      "Bromwich",
-      "Albion"
+      "Aston Villa",
+      "Birmingham City",
+      "Sunderland",
+      "West Bromwich Albion"
     ],
     "total_appearances": 260,
     "player_status": "hall_of_fame",
@@ -6175,8 +6099,7 @@
     "nationality": "Belgium",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 260,
     "player_status": "hall_of_fame",
@@ -6212,8 +6135,7 @@
     "nationality": "Norway",
     "position": "M",
     "clubs": [
-      "Blackburn",
-      "Rovers"
+      "Blackburn Rovers"
     ],
     "total_appearances": 259,
     "player_status": "retired",
@@ -6277,9 +6199,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Burnley；Southampton；West",
-      "Bromwich",
-      "Albion"
+      "Burnley",
+      "Southampton",
+      "West Bromwich Albion"
     ],
     "total_appearances": 258,
     "player_status": "hall_of_fame",
@@ -6297,11 +6219,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa；Birmingham",
-      "City；West",
-      "Bromwich",
-      "Albion"
+      "Aston Villa",
+      "Birmingham City",
+      "West Bromwich Albion"
     ],
     "total_appearances": 257,
     "player_status": "hall_of_fame",
@@ -6319,8 +6239,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Leeds",
-      "United"
+      "Leeds United"
     ],
     "total_appearances": 257,
     "player_status": "retired",
@@ -6360,8 +6279,7 @@
     "nationality": "Bosnia & Herzegovina",
     "position": "G",
     "clubs": [
-      "Leicester",
-      "City"
+      "Leicester City"
     ],
     "total_appearances": 256,
     "player_status": "hall_of_fame",
@@ -6379,7 +6297,8 @@
     "nationality": "France",
     "position": "F",
     "clubs": [
-      "Arsenal；Chelsea"
+      "Arsenal",
+      "Chelsea"
     ],
     "total_appearances": 255,
     "player_status": "hall_of_fame",
@@ -6419,8 +6338,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Everton；Manchester",
-      "City"
+      "Everton",
+      "Manchester City"
     ],
     "total_appearances": 255,
     "player_status": "hall_of_fame",
@@ -6442,11 +6361,11 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Norwich",
-      "City；Blackburn",
-      "Rovers；Chelsea；Birmingham",
-      "City；Aston",
-      "Villa"
+      "Norwich City",
+      "Blackburn Rovers",
+      "Chelsea",
+      "Birmingham City",
+      "Aston Villa"
     ],
     "total_appearances": 255,
     "player_status": "hall_of_fame",
@@ -6554,8 +6473,8 @@
     "nationality": "Denmark",
     "position": "M",
     "clubs": [
-      "Southampton；Tottenham",
-      "Hotspur"
+      "Southampton",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 254,
     "player_status": "hall_of_fame",
@@ -6591,7 +6510,8 @@
     "nationality": "Switzerland",
     "position": "M",
     "clubs": [
-      "Sunderland；Arsenal"
+      "Sunderland",
+      "Arsenal"
     ],
     "total_appearances": 253,
     "player_status": "hall_of_fame",
@@ -6609,9 +6529,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Crystal",
-      "Palace；Coventry",
-      "City"
+      "Crystal Palace",
+      "Coventry City"
     ],
     "total_appearances": 253,
     "player_status": "hall_of_fame",
@@ -6629,10 +6548,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United；Middlesbrough；West",
-      "Bromwich",
-      "Albion；Fulham"
+      "Manchester United",
+      "Middlesbrough",
+      "West Bromwich Albion",
+      "Fulham"
     ],
     "total_appearances": 252,
     "player_status": "hall_of_fame",
@@ -6668,10 +6587,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Brighton",
-      "&",
-      "Hove",
-      "Albion"
+      "Brighton & Hove Albion"
     ],
     "total_appearances": 252,
     "player_status": "hall_of_fame",
@@ -6689,8 +6605,7 @@
     "nationality": "Nigeria",
     "position": "F",
     "clubs": [
-      "Coventry",
-      "City"
+      "Coventry City"
     ],
     "total_appearances": 252,
     "player_status": "hall_of_fame",
@@ -6712,8 +6627,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 251,
     "player_status": "retired",
@@ -6731,8 +6645,8 @@
     "nationality": "Serbia",
     "position": "M",
     "clubs": [
-      "Chelsea；Manchester",
-      "United"
+      "Chelsea",
+      "Manchester United"
     ],
     "total_appearances": 251,
     "player_status": "hall_of_fame",
@@ -6768,8 +6682,7 @@
     "nationality": "Jamaica",
     "position": "M",
     "clubs": [
-      "Bolton",
-      "Wanderers"
+      "Bolton Wanderers"
     ],
     "total_appearances": 251,
     "player_status": "retired",
@@ -6787,8 +6700,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Blackburn",
-      "Rovers"
+      "Blackburn Rovers"
     ],
     "total_appearances": 251,
     "player_status": "retired",
@@ -6806,9 +6718,10 @@
     "nationality": "Ireland",
     "position": "F",
     "clubs": [
-      "Coventry",
-      "City；Arsenal；Manchester",
-      "City；Sunderland"
+      "Coventry City",
+      "Arsenal",
+      "Manchester City",
+      "Sunderland"
     ],
     "total_appearances": 250,
     "player_status": "hall_of_fame",
@@ -6826,8 +6739,8 @@
     "nationality": "Netherlands",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "City；Bournemouth"
+      "Manchester City",
+      "Bournemouth"
     ],
     "total_appearances": 249,
     "player_status": "active_pl",
@@ -6849,8 +6762,8 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa；Everton"
+      "Aston Villa",
+      "Everton"
     ],
     "total_appearances": 249,
     "player_status": "active_pl",
@@ -6868,8 +6781,8 @@
     "nationality": "Nigeria",
     "position": "M",
     "clubs": [
-      "Stoke",
-      "City；Chelsea"
+      "Stoke City",
+      "Chelsea"
     ],
     "total_appearances": 249,
     "player_status": "retired",
@@ -6887,10 +6800,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Newcastle",
-      "United；Liverpool；West",
-      "Ham",
-      "United"
+      "Newcastle United",
+      "Liverpool",
+      "West Ham United"
     ],
     "total_appearances": 248,
     "player_status": "active_pl",
@@ -6908,8 +6820,7 @@
     "nationality": "Turkiye",
     "position": "M",
     "clubs": [
-      "Leicester",
-      "City"
+      "Leicester City"
     ],
     "total_appearances": 248,
     "player_status": "retired",
@@ -6927,9 +6838,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Derby",
-      "County；Aston",
-      "Villa"
+      "Derby County",
+      "Aston Villa"
     ],
     "total_appearances": 247,
     "player_status": "retired",
@@ -6947,10 +6857,10 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Chelsea；Stoke",
-      "City；Everton；West",
-      "Ham",
-      "United"
+      "Chelsea",
+      "Stoke City",
+      "Everton",
+      "West Ham United"
     ],
     "total_appearances": 247,
     "player_status": "active_pl",
@@ -6986,9 +6896,10 @@
     "nationality": "Scotland",
     "position": "G",
     "clubs": [
-      "Wimbledon；Tottenham",
-      "Hotspur；Chelsea；Leeds",
-      "United"
+      "Wimbledon",
+      "Tottenham Hotspur",
+      "Chelsea",
+      "Leeds United"
     ],
     "total_appearances": 247,
     "player_status": "active_pl",
@@ -7006,8 +6917,7 @@
     "nationality": "Australia",
     "position": "M",
     "clubs": [
-      "Blackburn",
-      "Rovers"
+      "Blackburn Rovers"
     ],
     "total_appearances": 246,
     "player_status": "retired",
@@ -7051,7 +6961,8 @@
     "nationality": "Germany",
     "position": "G",
     "clubs": [
-      "Fulham；Arsenal"
+      "Fulham",
+      "Arsenal"
     ],
     "total_appearances": 245,
     "player_status": "active_pl",
@@ -7069,7 +6980,8 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Everton；Burnley"
+      "Everton",
+      "Burnley"
     ],
     "total_appearances": 245,
     "player_status": "active_pl",
@@ -7087,7 +6999,8 @@
     "nationality": "Belgium",
     "position": "G",
     "clubs": [
-      "Sunderland；Liverpool"
+      "Sunderland",
+      "Liverpool"
     ],
     "total_appearances": 245,
     "player_status": "active_pl",
@@ -7109,11 +7022,10 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City；Aston",
-      "Villa；Newcastle",
-      "United；Stoke",
-      "City"
+      "Manchester City",
+      "Aston Villa",
+      "Newcastle United",
+      "Stoke City"
     ],
     "total_appearances": 245,
     "player_status": "active_pl",
@@ -7167,8 +7079,7 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 243,
     "player_status": "active_pl",
@@ -7190,9 +7101,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Leeds",
-      "United；Coventry",
-      "City；Middlesbrough"
+      "Leeds United",
+      "Coventry City",
+      "Middlesbrough"
     ],
     "total_appearances": 243,
     "player_status": "active_pl",
@@ -7210,9 +7121,9 @@
     "nationality": "Switzerland",
     "position": "D",
     "clubs": [
-      "Blackburn",
-      "Rovers；Liverpool；Wigan",
-      "Athletic"
+      "Blackburn Rovers",
+      "Liverpool",
+      "Wigan Athletic"
     ],
     "total_appearances": 243,
     "player_status": "active_pl",
@@ -7230,8 +7141,7 @@
     "nationality": "Belgium",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 243,
     "player_status": "retired",
@@ -7285,8 +7195,7 @@
     "nationality": "Senegal",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United"
+      "Leeds United"
     ],
     "total_appearances": 242,
     "player_status": "active_pl",
@@ -7304,8 +7213,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Hull",
-      "City"
+      "Hull City"
     ],
     "total_appearances": 242,
     "player_status": "active_pl",
@@ -7341,9 +7249,8 @@
     "nationality": "Sweden",
     "position": "M",
     "clubs": [
-      "Arsenal；West",
-      "Ham",
-      "United"
+      "Arsenal",
+      "West Ham United"
     ],
     "total_appearances": 241,
     "player_status": "retired",
@@ -7365,8 +7272,7 @@
     "nationality": "Wales",
     "position": "D",
     "clubs": [
-      "Swansea",
-      "City"
+      "Swansea City"
     ],
     "total_appearances": 241,
     "player_status": "retired",
@@ -7384,10 +7290,7 @@
     "nationality": "Germany",
     "position": "M",
     "clubs": [
-      "Brighton",
-      "&",
-      "Hove",
-      "Albion"
+      "Brighton & Hove Albion"
     ],
     "total_appearances": 241,
     "player_status": "active_pl",
@@ -7405,10 +7308,10 @@
     "nationality": "Togo",
     "position": "F",
     "clubs": [
-      "Arsenal；Manchester",
-      "City；Tottenham",
-      "Hotspur；Crystal",
-      "Palace"
+      "Arsenal",
+      "Manchester City",
+      "Tottenham Hotspur",
+      "Crystal Palace"
     ],
     "total_appearances": 241,
     "player_status": "active_pl",
@@ -7448,8 +7351,8 @@
     "nationality": "Brazil",
     "position": "F",
     "clubs": [
-      "Arsenal；Manchester",
-      "City"
+      "Arsenal",
+      "Manchester City"
     ],
     "total_appearances": 241,
     "player_status": "active_pl",
@@ -7471,8 +7374,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Sheffield",
-      "United"
+      "Sheffield United"
     ],
     "total_appearances": 240,
     "player_status": "active_pl",
@@ -7490,8 +7392,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Blackburn",
-      "Rovers"
+      "Blackburn Rovers"
     ],
     "total_appearances": 240,
     "player_status": "retired",
@@ -7509,8 +7410,7 @@
     "nationality": "Trinidad & Tobago",
     "position": "D",
     "clubs": [
-      "Bolton",
-      "Wanderers"
+      "Bolton Wanderers"
     ],
     "total_appearances": 240,
     "player_status": "active_pl",
@@ -7528,9 +7428,9 @@
     "nationality": "Australia",
     "position": "F",
     "clubs": [
-      "Leeds",
-      "United；Middlesbrough；Newcastle",
-      "United"
+      "Leeds United",
+      "Middlesbrough",
+      "Newcastle United"
     ],
     "total_appearances": 240,
     "player_status": "active_pl",
@@ -7552,12 +7452,10 @@
     "nationality": "Senegal",
     "position": "M",
     "clubs": [
-      "Wigan",
-      "Athletic；West",
-      "Ham",
-      "United；Hull",
-      "City；Newcastle",
-      "United"
+      "Wigan Athletic",
+      "West Ham United",
+      "Hull City",
+      "Newcastle United"
     ],
     "total_appearances": 239,
     "player_status": "active_pl",
@@ -7593,10 +7491,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Chelsea；Blackburn",
-      "Rovers；West",
-      "Ham",
-      "United；Fulham"
+      "Chelsea",
+      "Blackburn Rovers",
+      "West Ham United",
+      "Fulham"
     ],
     "total_appearances": 238,
     "player_status": "active_pl",
@@ -7614,8 +7512,7 @@
     "nationality": "Belgium",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 238,
     "player_status": "active_pl",
@@ -7651,12 +7548,11 @@
     "nationality": "Northern Ireland",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United；Newcastle",
-      "United；Blackburn",
-      "Rovers；Leicester",
-      "City；Sheffield",
-      "United"
+      "Manchester United",
+      "Newcastle United",
+      "Blackburn Rovers",
+      "Leicester City",
+      "Sheffield United"
     ],
     "total_appearances": 238,
     "player_status": "active_pl",
@@ -7674,8 +7570,8 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Bournemouth；Leeds",
-      "United"
+      "Bournemouth",
+      "Leeds United"
     ],
     "total_appearances": 237,
     "player_status": "retired",
@@ -7693,9 +7589,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Southampton；Birmingham",
-      "City；Norwich",
-      "City"
+      "Southampton",
+      "Birmingham City",
+      "Norwich City"
     ],
     "total_appearances": 236,
     "player_status": "active_pl",
@@ -7713,8 +7609,7 @@
     "nationality": "Portugal",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 236,
     "player_status": "active_pl",
@@ -7788,8 +7683,7 @@
     "nationality": "Norway",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 235,
     "player_status": "retired",
@@ -7833,8 +7727,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Sheffield",
-      "Wednesday"
+      "Sheffield Wednesday"
     ],
     "total_appearances": 235,
     "player_status": "active_pl",
@@ -7852,7 +7745,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Arsenal；Liverpool"
+      "Arsenal",
+      "Liverpool"
     ],
     "total_appearances": 235,
     "player_status": "active_pl",
@@ -7870,10 +7764,8 @@
     "nationality": "Northern Ireland",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City；West",
-      "Ham",
-      "United"
+      "Manchester City",
+      "West Ham United"
     ],
     "total_appearances": 235,
     "player_status": "active_pl",
@@ -7891,8 +7783,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Huddersfield",
-      "Town"
+      "Huddersfield Town"
     ],
     "total_appearances": 234,
     "player_status": "active_pl",
@@ -7910,8 +7801,7 @@
     "nationality": "Turkiye",
     "position": "M",
     "clubs": [
-      "Blackburn",
-      "Rovers"
+      "Blackburn Rovers"
     ],
     "total_appearances": 233,
     "player_status": "retired",
@@ -7929,8 +7819,8 @@
     "nationality": "Ireland",
     "position": "F",
     "clubs": [
-      "Burnley；Stoke",
-      "City"
+      "Burnley",
+      "Stoke City"
     ],
     "total_appearances": 233,
     "player_status": "retired",
@@ -7948,9 +7838,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 232,
     "player_status": "active_pl",
@@ -7968,8 +7856,7 @@
     "nationality": "Sweden",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 232,
     "player_status": "retired",
@@ -7987,8 +7874,7 @@
     "nationality": "Belgium",
     "position": "D",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 232,
     "player_status": "retired",
@@ -8006,11 +7892,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Queens",
-      "Park",
-      "Rangers；Newcastle",
-      "United；Blackburn",
-      "Rovers"
+      "Queens Park Rangers",
+      "Newcastle United",
+      "Blackburn Rovers"
     ],
     "total_appearances": 231,
     "player_status": "active_pl",
@@ -8028,10 +7912,13 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Arsenal；Watford；Leeds",
-      "United；Birmingham",
-      "City；Portsmouth；Liverpool；Stoke",
-      "City"
+      "Arsenal",
+      "Watford",
+      "Leeds United",
+      "Birmingham City",
+      "Portsmouth",
+      "Liverpool",
+      "Stoke City"
     ],
     "total_appearances": 231,
     "player_status": "active_pl",
@@ -8049,8 +7936,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 231,
     "player_status": "active_pl",
@@ -8068,8 +7954,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa；Burnley"
+      "Aston Villa",
+      "Burnley"
     ],
     "total_appearances": 231,
     "player_status": "active_pl",
@@ -8087,8 +7973,9 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Coventry",
-      "City；Liverpool；Sunderland"
+      "Coventry City",
+      "Liverpool",
+      "Sunderland"
     ],
     "total_appearances": 231,
     "player_status": "active_pl",
@@ -8106,11 +7993,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United；Brighton",
-      "&",
-      "Hove",
-      "Albion"
+      "Newcastle United",
+      "Brighton & Hove Albion"
     ],
     "total_appearances": 230,
     "player_status": "active_pl",
@@ -8128,8 +8012,7 @@
     "nationality": "Cote D’Ivoire",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 230,
     "player_status": "retired",
@@ -8151,9 +8034,7 @@
     "nationality": "DR Congo",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 230,
     "player_status": "active_pl",
@@ -8171,9 +8052,10 @@
     "nationality": "Wales",
     "position": "M",
     "clubs": [
-      "Coventry",
-      "City；Sheffield",
-      "Wednesday；Everton；Fulham"
+      "Coventry City",
+      "Sheffield Wednesday",
+      "Everton",
+      "Fulham"
     ],
     "total_appearances": 229,
     "player_status": "active_pl",
@@ -8199,9 +8081,9 @@
     "nationality": "Bulgaria",
     "position": "F",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Manchester",
-      "United；Fulham"
+      "Tottenham Hotspur",
+      "Manchester United",
+      "Fulham"
     ],
     "total_appearances": 229,
     "player_status": "active_pl",
@@ -8223,8 +8105,9 @@
     "nationality": "Czech Republic",
     "position": "M",
     "clubs": [
-      "Liverpool；Portsmouth；Aston",
-      "Villa"
+      "Liverpool",
+      "Portsmouth",
+      "Aston Villa"
     ],
     "total_appearances": 229,
     "player_status": "active_pl",
@@ -8237,8 +8120,8 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Wimbledon；Bolton",
-      "Wanderers"
+      "Wimbledon",
+      "Bolton Wanderers"
     ],
     "total_appearances": 228,
     "player_status": "active_pl",
@@ -8264,8 +8147,7 @@
     "nationality": "Scotland",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 228,
     "player_status": "active_pl",
@@ -8291,8 +8173,8 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Leicester",
-      "City；Chelsea"
+      "Leicester City",
+      "Chelsea"
     ],
     "total_appearances": 227,
     "player_status": "active_pl",
@@ -8310,8 +8192,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 227,
     "player_status": "active_pl",
@@ -8337,10 +8218,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Queens",
-      "Park",
-      "Rangers；Newcastle",
-      "United"
+      "Queens Park Rangers",
+      "Newcastle United"
     ],
     "total_appearances": 225,
     "player_status": "retired",
@@ -8353,8 +8232,7 @@
     "nationality": "Netherlands",
     "position": "D",
     "clubs": [
-      "Derby",
-      "County"
+      "Derby County"
     ],
     "total_appearances": 225,
     "player_status": "active_pl",
@@ -8367,8 +8245,7 @@
     "nationality": "Portugal",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 224,
     "player_status": "active_pl",
@@ -8381,8 +8258,7 @@
     "nationality": "Scotland",
     "position": "M",
     "clubs": [
-      "Leicester",
-      "City"
+      "Leicester City"
     ],
     "total_appearances": 224,
     "player_status": "active_pl",
@@ -8395,9 +8271,8 @@
     "nationality": "Spain",
     "position": "F",
     "clubs": [
-      "Newcastle",
-      "United；Leicester",
-      "City"
+      "Newcastle United",
+      "Leicester City"
     ],
     "total_appearances": 223,
     "player_status": "active_pl",
@@ -8410,9 +8285,7 @@
     "nationality": "Czech Republic",
     "position": "M",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 223,
     "player_status": "active_pl",
@@ -8438,8 +8311,7 @@
     "nationality": "Argentina",
     "position": "G",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 223,
     "player_status": "active_pl",
@@ -8452,10 +8324,9 @@
     "nationality": "Montserrat",
     "position": "F",
     "clubs": [
-      "Norwich",
-      "City；Newcastle",
-      "United；Tottenham",
-      "Hotspur"
+      "Norwich City",
+      "Newcastle United",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 223,
     "player_status": "active_pl",
@@ -8481,8 +8352,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 222,
     "player_status": "active_pl",
@@ -8495,8 +8365,7 @@
     "nationality": "Netherlands",
     "position": "G",
     "clubs": [
-      "Luton",
-      "Town"
+      "Luton Town"
     ],
     "total_appearances": 222,
     "player_status": "active_pl",
@@ -8509,8 +8378,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 222,
     "player_status": "active_pl",
@@ -8523,10 +8391,9 @@
     "nationality": NaN,
     "position": "G",
     "clubs": [
-      "Newcastle",
-      "United；West",
-      "Ham",
-      "United；Portsmouth"
+      "Newcastle United",
+      "West Ham United",
+      "Portsmouth"
     ],
     "total_appearances": 221,
     "player_status": "active_pl",
@@ -8539,10 +8406,8 @@
     "nationality": "Austria",
     "position": "D",
     "clubs": [
-      "Wigan",
-      "Athletic；West",
-      "Bromwich",
-      "Albion"
+      "Wigan Athletic",
+      "West Bromwich Albion"
     ],
     "total_appearances": 221,
     "player_status": "active_pl",
@@ -8555,9 +8420,8 @@
     "nationality": "Barbados",
     "position": "D",
     "clubs": [
-      "Crystal",
-      "Palace；Wigan",
-      "Athletic"
+      "Crystal Palace",
+      "Wigan Athletic"
     ],
     "total_appearances": 221,
     "player_status": "active_pl",
@@ -8570,8 +8434,7 @@
     "nationality": "Germany",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 221,
     "player_status": "active_pl",
@@ -8589,10 +8452,11 @@
     "nationality": "Scotland",
     "position": "M",
     "clubs": [
-      "Liverpool；West",
-      "Ham",
-      "United；Coventry",
-      "City；Everton；Sunderland"
+      "Liverpool",
+      "West Ham United",
+      "Coventry City",
+      "Everton",
+      "Sunderland"
     ],
     "total_appearances": 220,
     "player_status": "active_pl",
@@ -8605,8 +8469,7 @@
     "nationality": "Nigeria",
     "position": "M",
     "clubs": [
-      "Luton",
-      "Town"
+      "Luton Town"
     ],
     "total_appearances": 220,
     "player_status": "active_pl",
@@ -8619,10 +8482,9 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Arsenal；Manchester",
-      "City；West",
-      "Ham",
-      "United"
+      "Arsenal",
+      "Manchester City",
+      "West Ham United"
     ],
     "total_appearances": 220,
     "player_status": "active_pl",
@@ -8635,8 +8497,7 @@
     "nationality": "Nigeria",
     "position": "M",
     "clubs": [
-      "Leicester",
-      "City"
+      "Leicester City"
     ],
     "total_appearances": 220,
     "player_status": "active_pl",
@@ -8662,10 +8523,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Everton；Leicester",
-      "City"
+      "West Ham United",
+      "Everton",
+      "Leicester City"
     ],
     "total_appearances": 220,
     "player_status": "active_pl",
@@ -8678,8 +8538,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 219,
     "player_status": "active_pl",
@@ -8701,8 +8560,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Everton；Sheffield",
-      "Wednesday"
+      "Everton",
+      "Sheffield Wednesday"
     ],
     "total_appearances": 219,
     "player_status": "active_pl",
@@ -8715,8 +8574,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Fulham；Manchester",
-      "United"
+      "Fulham",
+      "Manchester United"
     ],
     "total_appearances": 219,
     "player_status": "active_pl",
@@ -8729,11 +8588,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Charlton",
-      "Athletic；Leeds",
-      "United；Middlesbrough；Manchester",
-      "City；Derby",
-      "County"
+      "Charlton Athletic",
+      "Leeds United",
+      "Middlesbrough",
+      "Manchester City",
+      "Derby County"
     ],
     "total_appearances": 218,
     "player_status": "active_pl",
@@ -8746,11 +8605,11 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "City；Chelsea；Bolton",
-      "Wanderers；Liverpool；West",
-      "Bromwich",
-      "Albion"
+      "Manchester City",
+      "Chelsea",
+      "Bolton Wanderers",
+      "Liverpool",
+      "West Bromwich Albion"
     ],
     "total_appearances": 218,
     "player_status": "active_pl",
@@ -8763,11 +8622,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Sunderland；Queens",
-      "Park",
-      "Rangers"
+      "West Ham United",
+      "Sunderland",
+      "Queens Park Rangers"
     ],
     "total_appearances": 218,
     "player_status": "active_pl",
@@ -8793,8 +8650,7 @@
     "nationality": "Scotland",
     "position": "D",
     "clubs": [
-      "Blackburn",
-      "Rovers"
+      "Blackburn Rovers"
     ],
     "total_appearances": 218,
     "player_status": "retired",
@@ -8807,8 +8663,8 @@
     "nationality": "Netherlands",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United；Liverpool"
+      "Newcastle United",
+      "Liverpool"
     ],
     "total_appearances": 217,
     "player_status": "active_pl",
@@ -8821,10 +8677,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Wimbledon；Crystal",
-      "Palace；Tottenham",
-      "Hotspur；Bolton",
-      "Wanderers"
+      "Wimbledon",
+      "Crystal Palace",
+      "Tottenham Hotspur",
+      "Bolton Wanderers"
     ],
     "total_appearances": 216,
     "player_status": "active_pl",
@@ -8837,12 +8693,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Nottingham",
-      "Forest；Swindon",
-      "Town；West",
-      "Ham",
-      "United"
+      "Tottenham Hotspur",
+      "Nottingham Forest",
+      "Swindon Town",
+      "West Ham United"
     ],
     "total_appearances": 216,
     "player_status": "active_pl",
@@ -8855,13 +8709,13 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Crystal",
-      "Palace；Blackburn",
-      "Rovers；Ipswich",
-      "Town；Leicester",
-      "City；Everton；Charlton",
-      "Athletic；Wigan",
-      "Athletic"
+      "Crystal Palace",
+      "Blackburn Rovers",
+      "Ipswich Town",
+      "Leicester City",
+      "Everton",
+      "Charlton Athletic",
+      "Wigan Athletic"
     ],
     "total_appearances": 215,
     "player_status": "active_pl",
@@ -8874,9 +8728,10 @@
     "nationality": "Romania",
     "position": "D",
     "clubs": [
-      "Sheffield",
-      "Wednesday；Chelsea；Bradford",
-      "City；Southampton"
+      "Sheffield Wednesday",
+      "Chelsea",
+      "Bradford City",
+      "Southampton"
     ],
     "total_appearances": 215,
     "player_status": "active_pl",
@@ -8889,8 +8744,9 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Chelsea；Aston",
-      "Villa；Middlesbrough"
+      "Chelsea",
+      "Aston Villa",
+      "Middlesbrough"
     ],
     "total_appearances": 215,
     "player_status": "active_pl",
@@ -8903,8 +8759,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 215,
     "player_status": "active_pl",
@@ -8922,8 +8777,7 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Stoke",
-      "City"
+      "Stoke City"
     ],
     "total_appearances": 214,
     "player_status": "active_pl",
@@ -8936,9 +8790,8 @@
     "nationality": "Honduras",
     "position": "D",
     "clubs": [
-      "Wigan",
-      "Athletic；Hull",
-      "City"
+      "Wigan Athletic",
+      "Hull City"
     ],
     "total_appearances": 214,
     "player_status": "active_pl",
@@ -8951,9 +8804,9 @@
     "nationality": "Northern Ireland",
     "position": "M",
     "clubs": [
-      "Southampton；Sheffield",
-      "Wednesday；Ipswich",
-      "Town"
+      "Southampton",
+      "Sheffield Wednesday",
+      "Ipswich Town"
     ],
     "total_appearances": 214,
     "player_status": "active_pl",
@@ -8966,8 +8819,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Bolton",
-      "Wanderers"
+      "Bolton Wanderers"
     ],
     "total_appearances": 214,
     "player_status": "active_pl",
@@ -8980,7 +8832,8 @@
     "nationality": "South Africa",
     "position": "M",
     "clubs": [
-      "Sunderland；Everton"
+      "Sunderland",
+      "Everton"
     ],
     "total_appearances": 214,
     "player_status": "retired",
@@ -8993,9 +8846,10 @@
     "nationality": "Netherlands",
     "position": "D",
     "clubs": [
-      "Chelsea；Wigan",
-      "Athletic；Sunderland；Crystal",
-      "Palace"
+      "Chelsea",
+      "Wigan Athletic",
+      "Sunderland",
+      "Crystal Palace"
     ],
     "total_appearances": 213,
     "player_status": "active_pl",
@@ -9008,9 +8862,8 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Arsenal；West",
-      "Ham",
-      "United"
+      "Arsenal",
+      "West Ham United"
     ],
     "total_appearances": 213,
     "player_status": "retired",
@@ -9028,13 +8881,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；Blackburn",
-      "Rovers；Newcastle",
-      "United；Queens",
-      "Park",
-      "Rangers；Leicester",
-      "City"
+      "Manchester United",
+      "Blackburn Rovers",
+      "Newcastle United",
+      "Queens Park Rangers",
+      "Leicester City"
     ],
     "total_appearances": 213,
     "player_status": "active_pl",
@@ -9047,7 +8898,8 @@
     "nationality": "Brazil",
     "position": "D",
     "clubs": [
-      "Chelsea；Arsenal"
+      "Chelsea",
+      "Arsenal"
     ],
     "total_appearances": 213,
     "player_status": "active_pl",
@@ -9060,8 +8912,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Bradford",
-      "City"
+      "Bradford City"
     ],
     "total_appearances": 212,
     "player_status": "active_pl",
@@ -9074,7 +8925,8 @@
     "nationality": "Spain",
     "position": "F",
     "clubs": [
-      "Liverpool；Chelsea"
+      "Liverpool",
+      "Chelsea"
     ],
     "total_appearances": 212,
     "player_status": "active_pl",
@@ -9092,8 +8944,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Bolton",
-      "Wanderers；Everton；Sunderland"
+      "Bolton Wanderers",
+      "Everton",
+      "Sunderland"
     ],
     "total_appearances": 212,
     "player_status": "active_pl",
@@ -9106,9 +8959,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Sheffield",
-      "Wednesday；Newcastle",
-      "United"
+      "Sheffield Wednesday",
+      "Newcastle United"
     ],
     "total_appearances": 212,
     "player_status": "active_pl",
@@ -9121,11 +8973,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Nottingham",
-      "Forest；Sheffield",
-      "Wednesday；Charlton",
-      "Athletic；Ipswich",
-      "Town"
+      "Nottingham Forest",
+      "Sheffield Wednesday",
+      "Charlton Athletic",
+      "Ipswich Town"
     ],
     "total_appearances": 211,
     "player_status": "active_pl",
@@ -9138,8 +8989,7 @@
     "nationality": "Argentina",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 211,
     "player_status": "retired",
@@ -9165,8 +9015,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Crystal",
-      "Palace"
+      "Crystal Palace"
     ],
     "total_appearances": 211,
     "player_status": "active_pl",
@@ -9179,8 +9028,7 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Bolton",
-      "Wanderers"
+      "Bolton Wanderers"
     ],
     "total_appearances": 211,
     "player_status": "active_pl",
@@ -9206,8 +9054,7 @@
     "nationality": "Switzerland",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 211,
     "player_status": "active_pl",
@@ -9220,8 +9067,7 @@
     "nationality": "Serbia",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 211,
     "player_status": "retired",
@@ -9247,8 +9093,7 @@
     "nationality": "Brazil",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 210,
     "player_status": "active_pl",
@@ -9261,8 +9106,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Everton；Manchester",
-      "City"
+      "Everton",
+      "Manchester City"
     ],
     "total_appearances": 210,
     "player_status": "active_pl",
@@ -9280,10 +9125,11 @@
     "nationality": "Gibraltar",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United；Derby",
-      "County；Southampton；Sunderland；Stoke",
-      "City"
+      "Manchester United",
+      "Derby County",
+      "Southampton",
+      "Sunderland",
+      "Stoke City"
     ],
     "total_appearances": 209,
     "player_status": "active_pl",
@@ -9296,8 +9142,7 @@
     "nationality": "France",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 209,
     "player_status": "active_pl",
@@ -9310,8 +9155,7 @@
     "nationality": "Wales",
     "position": "D",
     "clubs": [
-      "Ipswich",
-      "Town"
+      "Ipswich Town"
     ],
     "total_appearances": 209,
     "player_status": "active_pl",
@@ -9350,8 +9194,7 @@
     "nationality": "Sweden",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 207,
     "player_status": "active_pl",
@@ -9364,9 +9207,8 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Coventry",
-      "City；Sheffield",
-      "Wednesday"
+      "Coventry City",
+      "Sheffield Wednesday"
     ],
     "total_appearances": 207,
     "player_status": "retired",
@@ -9379,9 +9221,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Coventry",
-      "City；Southampton"
+      "Aston Villa",
+      "Coventry City",
+      "Southampton"
     ],
     "total_appearances": 207,
     "player_status": "active_pl",
@@ -9394,8 +9236,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Birmingham",
-      "City"
+      "Birmingham City"
     ],
     "total_appearances": 207,
     "player_status": "active_pl",
@@ -9434,8 +9275,7 @@
     "nationality": "Australia",
     "position": "G",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 206,
     "player_status": "retired",
@@ -9453,8 +9293,7 @@
     "nationality": "Croatia",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 205,
     "player_status": "active_pl",
@@ -9467,12 +9306,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Aston",
-      "Villa；Bolton",
-      "Wanderers；Norwich",
-      "City"
+      "West Ham United",
+      "Aston Villa",
+      "Bolton Wanderers",
+      "Norwich City"
     ],
     "total_appearances": 205,
     "player_status": "active_pl",
@@ -9485,11 +9322,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Wolverhampton",
-      "Wanderers；West",
-      "Ham",
-      "United；Norwich",
-      "City"
+      "Wolverhampton Wanderers",
+      "West Ham United",
+      "Norwich City"
     ],
     "total_appearances": 205,
     "player_status": "active_pl",
@@ -9515,8 +9350,9 @@
     "nationality": "Wales",
     "position": "G",
     "clubs": [
-      "Nottingham",
-      "Forest；Middlesbrough；Fulham"
+      "Nottingham Forest",
+      "Middlesbrough",
+      "Fulham"
     ],
     "total_appearances": 204,
     "player_status": "active_pl",
@@ -9529,9 +9365,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa；Manchester",
-      "City；Everton"
+      "Aston Villa",
+      "Manchester City",
+      "Everton"
     ],
     "total_appearances": 204,
     "player_status": "active_pl",
@@ -9544,7 +9380,8 @@
     "nationality": "Jamaica",
     "position": "F",
     "clubs": [
-      "Wimbledon；Watford"
+      "Wimbledon",
+      "Watford"
     ],
     "total_appearances": 204,
     "player_status": "active_pl",
@@ -9557,9 +9394,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Blackburn",
-      "Rovers；Manchester",
-      "United"
+      "Blackburn Rovers",
+      "Manchester United"
     ],
     "total_appearances": 204,
     "player_status": "active_pl",
@@ -9572,9 +9408,10 @@
     "nationality": "Norway",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United；AFC",
-      "Bournemouth；Everton；Watford"
+      "Manchester United",
+      "AFC Bournemouth",
+      "Everton",
+      "Watford"
     ],
     "total_appearances": 204,
     "player_status": "active_pl",
@@ -9587,9 +9424,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 204,
     "player_status": "retired",
@@ -9602,8 +9437,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Huddersfield",
-      "Town"
+      "Huddersfield Town"
     ],
     "total_appearances": 204,
     "player_status": "active_pl",
@@ -9616,8 +9450,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Stoke",
-      "City"
+      "Stoke City"
     ],
     "total_appearances": 203,
     "player_status": "active_pl",
@@ -9630,8 +9463,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 203,
     "player_status": "active_pl",
@@ -9657,9 +9489,7 @@
     "nationality": "Northern Ireland",
     "position": "D",
     "clubs": [
-      "West",
-      "Bromwich",
-      "Albion"
+      "West Bromwich Albion"
     ],
     "total_appearances": 203,
     "player_status": "retired",
@@ -9672,9 +9502,8 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Ipswich",
-      "Town；Charlton",
-      "Athletic"
+      "Ipswich Town",
+      "Charlton Athletic"
     ],
     "total_appearances": 202,
     "player_status": "active_pl",
@@ -9687,12 +9516,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Nottingham",
-      "Forest；Newcastle",
-      "United；West",
-      "Ham",
-      "United；Manchester",
-      "City"
+      "Nottingham Forest",
+      "Newcastle United",
+      "West Ham United",
+      "Manchester City"
     ],
     "total_appearances": 202,
     "player_status": "active_pl",
@@ -9718,8 +9545,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Bolton",
-      "Wanderers"
+      "Bolton Wanderers"
     ],
     "total_appearances": 202,
     "player_status": "active_pl",
@@ -9732,9 +9558,8 @@
     "nationality": "Italy",
     "position": "D",
     "clubs": [
-      "Watford；West",
-      "Ham",
-      "United"
+      "Watford",
+      "West Ham United"
     ],
     "total_appearances": 201,
     "player_status": "active_pl",
@@ -9747,11 +9572,9 @@
     "nationality": "Argentina",
     "position": "F",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Manchester",
-      "United；Manchester",
-      "City"
+      "West Ham United",
+      "Manchester United",
+      "Manchester City"
     ],
     "total_appearances": 201,
     "player_status": "active_pl",
@@ -9777,8 +9600,9 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Middlesbrough；Fulham；Birmingham",
-      "City"
+      "Middlesbrough",
+      "Fulham",
+      "Birmingham City"
     ],
     "total_appearances": 201,
     "player_status": "active_pl",
@@ -9791,10 +9615,8 @@
     "nationality": "Sweden",
     "position": "D",
     "clubs": [
-      "Wigan",
-      "Athletic；West",
-      "Bromwich",
-      "Albion"
+      "Wigan Athletic",
+      "West Bromwich Albion"
     ],
     "total_appearances": 201,
     "player_status": "retired",
@@ -9807,9 +9629,10 @@
     "nationality": "United States",
     "position": "G",
     "clubs": [
-      "Leicester",
-      "City；Tottenham",
-      "Hotspur；Southampton；Fulham"
+      "Leicester City",
+      "Tottenham Hotspur",
+      "Southampton",
+      "Fulham"
     ],
     "total_appearances": 201,
     "player_status": "active_pl",
@@ -9822,12 +9645,11 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Newcastle",
-      "United；Coventry",
-      "City；Leeds",
-      "United；Manchester",
-      "City；Norwich",
-      "City"
+      "Newcastle United",
+      "Coventry City",
+      "Leeds United",
+      "Manchester City",
+      "Norwich City"
     ],
     "total_appearances": 201,
     "player_status": "active_pl",
@@ -9840,9 +9662,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Watford；Liverpool；Newcastle",
-      "United；Charlton",
-      "Athletic"
+      "Watford",
+      "Liverpool",
+      "Newcastle United",
+      "Charlton Athletic"
     ],
     "total_appearances": 201,
     "player_status": "active_pl",
@@ -9855,8 +9678,8 @@
     "nationality": "Belgium",
     "position": "D",
     "clubs": [
-      "Southampton；Tottenham",
-      "Hotspur"
+      "Southampton",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 200,
     "player_status": "active_pl",
@@ -9869,8 +9692,7 @@
     "nationality": "Jamaica",
     "position": "F",
     "clubs": [
-      "Birmingham",
-      "City"
+      "Birmingham City"
     ],
     "total_appearances": 200,
     "player_status": "active_pl",
@@ -9883,8 +9705,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Crystal",
-      "Palace"
+      "Crystal Palace"
     ],
     "total_appearances": 200,
     "player_status": "active_pl",
@@ -9897,8 +9718,9 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Southampton；Manchester",
-      "United；Everton"
+      "Southampton",
+      "Manchester United",
+      "Everton"
     ],
     "total_appearances": 200,
     "player_status": "active_pl",
@@ -9911,10 +9733,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Brighton",
-      "&",
-      "Hove",
-      "Albion"
+      "Brighton & Hove Albion"
     ],
     "total_appearances": 200,
     "player_status": "active_pl",
@@ -9927,8 +9746,7 @@
     "nationality": "Scotland",
     "position": "D",
     "clubs": [
-      "Leicester",
-      "City"
+      "Leicester City"
     ],
     "total_appearances": 199,
     "player_status": "retired",
@@ -9941,9 +9759,8 @@
     "nationality": "Argentina",
     "position": "D",
     "clubs": [
-      "Swansea",
-      "City；Newcastle",
-      "United"
+      "Swansea City",
+      "Newcastle United"
     ],
     "total_appearances": 199,
     "player_status": "active_pl",
@@ -9956,8 +9773,7 @@
     "nationality": "Wales",
     "position": "M",
     "clubs": [
-      "Swansea",
-      "City"
+      "Swansea City"
     ],
     "total_appearances": 199,
     "player_status": "active_pl",
@@ -9970,8 +9786,7 @@
     "nationality": "Mali",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 199,
     "player_status": "active_pl",
@@ -9984,8 +9799,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Charlton",
-      "Athletic"
+      "Charlton Athletic"
     ],
     "total_appearances": 198,
     "player_status": "active_pl",
@@ -9998,10 +9812,9 @@
     "nationality": "Scotland",
     "position": "F",
     "clubs": [
-      "Coventry",
-      "City；Blackburn",
-      "Rovers；Newcastle",
-      "United"
+      "Coventry City",
+      "Blackburn Rovers",
+      "Newcastle United"
     ],
     "total_appearances": 198,
     "player_status": "active_pl",
@@ -10040,9 +9853,9 @@
     "nationality": "Egypt",
     "position": "D",
     "clubs": [
-      "Sunderland；Hull",
-      "City；Aston",
-      "Villa"
+      "Sunderland",
+      "Hull City",
+      "Aston Villa"
     ],
     "total_appearances": 197,
     "player_status": "active_pl",
@@ -10081,11 +9894,9 @@
     "nationality": "New Zealand",
     "position": "D",
     "clubs": [
-      "Blackburn",
-      "Rovers；Tottenham",
-      "Hotspur；Queens",
-      "Park",
-      "Rangers"
+      "Blackburn Rovers",
+      "Tottenham Hotspur",
+      "Queens Park Rangers"
     ],
     "total_appearances": 197,
     "player_status": "active_pl",
@@ -10098,10 +9909,9 @@
     "nationality": "Sweden",
     "position": "D",
     "clubs": [
-      "Blackburn",
-      "Rovers；Norwich",
-      "City；Swansea",
-      "City"
+      "Blackburn Rovers",
+      "Norwich City",
+      "Swansea City"
     ],
     "total_appearances": 197,
     "player_status": "active_pl",
@@ -10114,8 +9924,7 @@
     "nationality": "South Africa",
     "position": "D",
     "clubs": [
-      "Leeds",
-      "United"
+      "Leeds United"
     ],
     "total_appearances": 197,
     "player_status": "retired",
@@ -10128,9 +9937,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Southampton；Leeds",
-      "United；Bolton",
-      "Wanderers"
+      "Southampton",
+      "Leeds United",
+      "Bolton Wanderers"
     ],
     "total_appearances": 197,
     "player_status": "active_pl",
@@ -10143,13 +9952,12 @@
     "nationality": "Northern Ireland",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City；West",
-      "Ham",
-      "United；Wimbledon；Coventry",
-      "City；Birmingham",
-      "City；Crystal",
-      "Palace"
+      "Manchester City",
+      "West Ham United",
+      "Wimbledon",
+      "Coventry City",
+      "Birmingham City",
+      "Crystal Palace"
     ],
     "total_appearances": 196,
     "player_status": "active_pl",
@@ -10175,9 +9983,8 @@
     "nationality": "Nigeria",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "City；Leicester",
-      "City"
+      "Manchester City",
+      "Leicester City"
     ],
     "total_appearances": 196,
     "player_status": "active_pl",
@@ -10190,9 +9997,9 @@
     "nationality": "Wales",
     "position": "F",
     "clubs": [
-      "Liverpool；Aston",
-      "Villa；Nottingham",
-      "Forest"
+      "Liverpool",
+      "Aston Villa",
+      "Nottingham Forest"
     ],
     "total_appearances": 196,
     "player_status": "active_pl",
@@ -10205,7 +10012,8 @@
     "nationality": "Italy",
     "position": "M",
     "clubs": [
-      "Chelsea；Arsenal"
+      "Chelsea",
+      "Arsenal"
     ],
     "total_appearances": 196,
     "player_status": "active_pl",
@@ -10218,7 +10026,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Arsenal；Sunderland"
+      "Arsenal",
+      "Sunderland"
     ],
     "total_appearances": 196,
     "player_status": "active_pl",
@@ -10231,11 +10040,9 @@
     "nationality": "Scotland",
     "position": "D",
     "clubs": [
-      "Derby",
-      "County；Blackburn",
-      "Rovers；West",
-      "Ham",
-      "United"
+      "Derby County",
+      "Blackburn Rovers",
+      "West Ham United"
     ],
     "total_appearances": 196,
     "player_status": "active_pl",
@@ -10248,9 +10055,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa；Everton；Sheffield",
-      "Wednesday"
+      "Aston Villa",
+      "Everton",
+      "Sheffield Wednesday"
     ],
     "total_appearances": 195,
     "player_status": "active_pl",
@@ -10276,10 +10083,10 @@
     "nationality": "France",
     "position": "F",
     "clubs": [
-      "Newcastle",
-      "United；Tottenham",
-      "Hotspur；Aston",
-      "Villa；Everton"
+      "Newcastle United",
+      "Tottenham Hotspur",
+      "Aston Villa",
+      "Everton"
     ],
     "total_appearances": 195,
     "player_status": "active_pl",
@@ -10292,9 +10099,10 @@
     "nationality": "Trinidad & Tobago",
     "position": "F",
     "clubs": [
-      "Southampton；Sunderland；Stoke",
-      "City；Cardiff",
-      "City"
+      "Southampton",
+      "Sunderland",
+      "Stoke City",
+      "Cardiff City"
     ],
     "total_appearances": 195,
     "player_status": "active_pl",
@@ -10307,10 +10115,9 @@
     "nationality": "Ireland",
     "position": "G",
     "clubs": [
-      "Charlton",
-      "Athletic；Portsmouth；West",
-      "Bromwich",
-      "Albion"
+      "Charlton Athletic",
+      "Portsmouth",
+      "West Bromwich Albion"
     ],
     "total_appearances": 195,
     "player_status": "active_pl",
@@ -10323,11 +10130,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Southampton；Tottenham",
-      "Hotspur；Liverpool；West",
-      "Ham",
-      "United；Crystal",
-      "Palace"
+      "Southampton",
+      "Tottenham Hotspur",
+      "Liverpool",
+      "West Ham United",
+      "Crystal Palace"
     ],
     "total_appearances": 195,
     "player_status": "active_pl",
@@ -10340,8 +10147,7 @@
     "nationality": "Spain",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 194,
     "player_status": "active_pl",
@@ -10359,8 +10165,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 194,
     "player_status": "retired",
@@ -10373,8 +10178,7 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 194,
     "player_status": "active_pl",
@@ -10387,7 +10191,8 @@
     "nationality": "Canada",
     "position": "F",
     "clubs": [
-      "Everton；Fulham"
+      "Everton",
+      "Fulham"
     ],
     "total_appearances": 194,
     "player_status": "active_pl",
@@ -10400,8 +10205,7 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Stoke",
-      "City"
+      "Stoke City"
     ],
     "total_appearances": 194,
     "player_status": "active_pl",
@@ -10440,10 +10244,11 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "City；Tottenham",
-      "Hotspur；Fulham；Wigan",
-      "Athletic；Portsmouth"
+      "Manchester City",
+      "Tottenham Hotspur",
+      "Fulham",
+      "Wigan Athletic",
+      "Portsmouth"
     ],
     "total_appearances": 194,
     "player_status": "active_pl",
@@ -10456,11 +10261,11 @@
     "nationality": "Israel",
     "position": "M",
     "clubs": [
-      "West",
-      "Ham",
-      "United；Liverpool；Chelsea；Arsenal；Queens",
-      "Park",
-      "Rangers"
+      "West Ham United",
+      "Liverpool",
+      "Chelsea",
+      "Arsenal",
+      "Queens Park Rangers"
     ],
     "total_appearances": 194,
     "player_status": "active_pl",
@@ -10473,8 +10278,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 194,
     "player_status": "active_pl",
@@ -10487,9 +10291,8 @@
     "nationality": "Northern Ireland",
     "position": "D",
     "clubs": [
-      "Sunderland；West",
-      "Ham",
-      "United"
+      "Sunderland",
+      "West Ham United"
     ],
     "total_appearances": 193,
     "player_status": "active_pl",
@@ -10502,11 +10305,10 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Newcastle",
-      "United；Manchester",
-      "City；Leicester",
-      "City；Bolton",
-      "Wanderers"
+      "Newcastle United",
+      "Manchester City",
+      "Leicester City",
+      "Bolton Wanderers"
     ],
     "total_appearances": 193,
     "player_status": "active_pl",
@@ -10519,8 +10321,8 @@
     "nationality": "Brazil",
     "position": "M",
     "clubs": [
-      "Liverpool；Aston",
-      "Villa"
+      "Liverpool",
+      "Aston Villa"
     ],
     "total_appearances": 193,
     "player_status": "active_pl",
@@ -10546,8 +10348,7 @@
     "nationality": "Brazil",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 192,
     "player_status": "active_pl",
@@ -10560,11 +10361,11 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Liverpool；West",
-      "Ham",
-      "United；Everton；Coventry",
-      "City；Birmingham",
-      "City"
+      "Liverpool",
+      "West Ham United",
+      "Everton",
+      "Coventry City",
+      "Birmingham City"
     ],
     "total_appearances": 192,
     "player_status": "active_pl",
@@ -10577,10 +10378,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Brighton",
-      "&",
-      "Hove",
-      "Albion"
+      "Brighton & Hove Albion"
     ],
     "total_appearances": 191,
     "player_status": "active_pl",
@@ -10593,8 +10391,7 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Coventry",
-      "City"
+      "Coventry City"
     ],
     "total_appearances": 191,
     "player_status": "retired",
@@ -10607,9 +10404,8 @@
     "nationality": "Cameroon",
     "position": "M",
     "clubs": [
-      "Arsenal；West",
-      "Ham",
-      "United"
+      "Arsenal",
+      "West Ham United"
     ],
     "total_appearances": 190,
     "player_status": "active_pl",
@@ -10622,8 +10418,8 @@
     "nationality": "Portugal",
     "position": "F",
     "clubs": [
-      "Wolverhampton",
-      "Wanderers；Liverpool"
+      "Wolverhampton Wanderers",
+      "Liverpool"
     ],
     "total_appearances": 190,
     "player_status": "active_pl",
@@ -10636,8 +10432,9 @@
     "nationality": "Serbia",
     "position": "D",
     "clubs": [
-      "Sheffield",
-      "Wednesday；Portsmouth；Fulham"
+      "Sheffield Wednesday",
+      "Portsmouth",
+      "Fulham"
     ],
     "total_appearances": 190,
     "player_status": "active_pl",
@@ -10650,11 +10447,9 @@
     "nationality": "Italy",
     "position": "F",
     "clubs": [
-      "Sheffield",
-      "Wednesday；West",
-      "Ham",
-      "United；Charlton",
-      "Athletic"
+      "Sheffield Wednesday",
+      "West Ham United",
+      "Charlton Athletic"
     ],
     "total_appearances": 190,
     "player_status": "active_pl",
@@ -10667,9 +10462,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Queens",
-      "Park",
-      "Rangers"
+      "Queens Park Rangers"
     ],
     "total_appearances": 190,
     "player_status": "active_pl",
@@ -10682,11 +10475,10 @@
     "nationality": "Scotland",
     "position": "D",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Swindon",
-      "Town；Aston",
-      "Villa；Nottingham",
-      "Forest"
+      "Tottenham Hotspur",
+      "Swindon Town",
+      "Aston Villa",
+      "Nottingham Forest"
     ],
     "total_appearances": 189,
     "player_status": "active_pl",
@@ -10699,8 +10491,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Wolverhampton",
-      "Wanderers"
+      "Wolverhampton Wanderers"
     ],
     "total_appearances": 189,
     "player_status": "active_pl",
@@ -10713,8 +10504,7 @@
     "nationality": "Ireland",
     "position": "D",
     "clubs": [
-      "Wolverhampton",
-      "Wanderers"
+      "Wolverhampton Wanderers"
     ],
     "total_appearances": 189,
     "player_status": "active_pl",
@@ -10727,8 +10517,9 @@
     "nationality": "Scotland",
     "position": "F",
     "clubs": [
-      "Burnley；Wolverhampton",
-      "Wanderers；Sunderland"
+      "Burnley",
+      "Wolverhampton Wanderers",
+      "Sunderland"
     ],
     "total_appearances": 189,
     "player_status": "active_pl",
@@ -10741,11 +10532,10 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Coventry",
-      "City；Liverpool；West",
-      "Bromwich",
-      "Albion；Wigan",
-      "Athletic"
+      "Coventry City",
+      "Liverpool",
+      "West Bromwich Albion",
+      "Wigan Athletic"
     ],
     "total_appearances": 189,
     "player_status": "active_pl",
@@ -10758,8 +10548,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Leeds",
-      "United"
+      "Leeds United"
     ],
     "total_appearances": 189,
     "player_status": "active_pl",
@@ -10772,10 +10561,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Chelsea；Queens",
-      "Park",
-      "Rangers；Tottenham",
-      "Hotspur"
+      "Chelsea",
+      "Queens Park Rangers",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 189,
     "player_status": "active_pl",
@@ -10788,10 +10576,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "City；Sunderland；Queens",
-      "Park",
-      "Rangers"
+      "Manchester City",
+      "Sunderland",
+      "Queens Park Rangers"
     ],
     "total_appearances": 188,
     "player_status": "active_pl",
@@ -10804,9 +10591,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Everton；Newcastle",
-      "United；AFC",
-      "Bournemouth"
+      "Everton",
+      "Newcastle United",
+      "AFC Bournemouth"
     ],
     "total_appearances": 188,
     "player_status": "active_pl",
@@ -10832,9 +10619,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Birmingham",
-      "City；Crystal",
-      "Palace；Everton；Fulham"
+      "Birmingham City",
+      "Crystal Palace",
+      "Everton",
+      "Fulham"
     ],
     "total_appearances": 187,
     "player_status": "active_pl",
@@ -10847,9 +10635,9 @@
     "nationality": "South Korea",
     "position": "M",
     "clubs": [
-      "Swansea",
-      "City；Sunderland；Newcastle",
-      "United"
+      "Swansea City",
+      "Sunderland",
+      "Newcastle United"
     ],
     "total_appearances": 187,
     "player_status": "active_pl",
@@ -10888,8 +10676,8 @@
     "nationality": "Uruguay",
     "position": "M",
     "clubs": [
-      "Chelsea；Tottenham",
-      "Hotspur"
+      "Chelsea",
+      "Tottenham Hotspur"
     ],
     "total_appearances": 187,
     "player_status": "active_pl",
@@ -10902,10 +10690,10 @@
     "nationality": "Wales",
     "position": "G",
     "clubs": [
-      "Wolverhampton",
-      "Wanderers；Crystal",
-      "Palace；Burnley；Nottingham",
-      "Forest"
+      "Wolverhampton Wanderers",
+      "Crystal Palace",
+      "Burnley",
+      "Nottingham Forest"
     ],
     "total_appearances": 187,
     "player_status": "active_pl",
@@ -10918,8 +10706,7 @@
     "nationality": "Paraguay",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United"
+      "Newcastle United"
     ],
     "total_appearances": 186,
     "player_status": "active_pl",
@@ -10945,8 +10732,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Nottingham",
-      "Forest"
+      "Nottingham Forest"
     ],
     "total_appearances": 186,
     "player_status": "active_pl",
@@ -10959,9 +10745,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "West",
-      "Ham",
-      "United"
+      "West Ham United"
     ],
     "total_appearances": 186,
     "player_status": "active_pl",
@@ -10974,9 +10758,10 @@
     "nationality": "Norway",
     "position": "M",
     "clubs": [
-      "Wimbledon；Liverpool；Tottenham",
-      "Hotspur；Aston",
-      "Villa"
+      "Wimbledon",
+      "Liverpool",
+      "Tottenham Hotspur",
+      "Aston Villa"
     ],
     "total_appearances": 186,
     "player_status": "active_pl",
@@ -10989,8 +10774,7 @@
     "nationality": "Colombia",
     "position": "M",
     "clubs": [
-      "Crystal",
-      "Palace"
+      "Crystal Palace"
     ],
     "total_appearances": 186,
     "player_status": "active_pl",
@@ -11003,9 +10787,8 @@
     "nationality": "Northern Ireland",
     "position": "D",
     "clubs": [
-      "Sheffield",
-      "Wednesday；Bradford",
-      "City"
+      "Sheffield Wednesday",
+      "Bradford City"
     ],
     "total_appearances": 186,
     "player_status": "active_pl",
@@ -11018,7 +10801,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Southampton；Middlesbrough"
+      "Southampton",
+      "Middlesbrough"
     ],
     "total_appearances": 185,
     "player_status": "active_pl",
@@ -11031,8 +10815,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 185,
     "player_status": "active_pl",
@@ -11045,8 +10828,7 @@
     "nationality": "Bulgaria",
     "position": "M",
     "clubs": [
-      "Aston",
-      "Villa"
+      "Aston Villa"
     ],
     "total_appearances": 185,
     "player_status": "retired",
@@ -11059,8 +10841,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Newcastle",
-      "United；Sunderland；Fulham"
+      "Newcastle United",
+      "Sunderland",
+      "Fulham"
     ],
     "total_appearances": 185,
     "player_status": "active_pl",
@@ -11073,9 +10856,9 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Everton；Newcastle",
-      "United；Bolton",
-      "Wanderers"
+      "Everton",
+      "Newcastle United",
+      "Bolton Wanderers"
     ],
     "total_appearances": 185,
     "player_status": "active_pl",
@@ -11088,10 +10871,9 @@
     "nationality": "Norway",
     "position": "D",
     "clubs": [
-      "Oldham",
-      "Athletic；Leeds",
-      "United；Bradford",
-      "City"
+      "Oldham Athletic",
+      "Leeds United",
+      "Bradford City"
     ],
     "total_appearances": 184,
     "player_status": "active_pl",
@@ -11117,7 +10899,8 @@
     "nationality": "Wales",
     "position": "M",
     "clubs": [
-      "Wimbledon；Chelsea"
+      "Wimbledon",
+      "Chelsea"
     ],
     "total_appearances": 184,
     "player_status": "active_pl",
@@ -11156,8 +10939,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 184,
     "player_status": "active_pl",
@@ -11183,10 +10965,8 @@
     "nationality": "Austria",
     "position": "F",
     "clubs": [
-      "Stoke",
-      "City；West",
-      "Ham",
-      "United"
+      "Stoke City",
+      "West Ham United"
     ],
     "total_appearances": 184,
     "player_status": "active_pl",
@@ -11212,7 +10992,8 @@
     "nationality": "Northern Ireland",
     "position": "D",
     "clubs": [
-      "Blackpool；Watford"
+      "Blackpool",
+      "Watford"
     ],
     "total_appearances": 183,
     "player_status": "active_pl",
@@ -11225,10 +11006,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Nottingham",
-      "Forest；Leicester",
-      "City；Aston",
-      "Villa；Southampton"
+      "Nottingham Forest",
+      "Leicester City",
+      "Aston Villa",
+      "Southampton"
     ],
     "total_appearances": 183,
     "player_status": "active_pl",
@@ -11241,8 +11022,7 @@
     "nationality": "Serbia",
     "position": "M",
     "clubs": [
-      "Crystal",
-      "Palace"
+      "Crystal Palace"
     ],
     "total_appearances": 183,
     "player_status": "active_pl",
@@ -11255,11 +11035,9 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United；West",
-      "Ham",
-      "United；Nottingham",
-      "Forest"
+      "Manchester United",
+      "West Ham United",
+      "Nottingham Forest"
     ],
     "total_appearances": 182,
     "player_status": "active_pl",
@@ -11285,8 +11063,7 @@
     "nationality": "Ireland",
     "position": "M",
     "clubs": [
-      "Bolton",
-      "Wanderers"
+      "Bolton Wanderers"
     ],
     "total_appearances": 181,
     "player_status": "active_pl",
@@ -11299,8 +11076,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Everton；Blackburn",
-      "Rovers"
+      "Everton",
+      "Blackburn Rovers"
     ],
     "total_appearances": 181,
     "player_status": "active_pl",
@@ -11313,9 +11090,8 @@
     "nationality": "Jamaica",
     "position": "M",
     "clubs": [
-      "Derby",
-      "County；Birmingham",
-      "City"
+      "Derby County",
+      "Birmingham City"
     ],
     "total_appearances": 181,
     "player_status": "active_pl",
@@ -11341,8 +11117,8 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Leeds",
-      "United；Everton"
+      "Leeds United",
+      "Everton"
     ],
     "total_appearances": 181,
     "player_status": "active_pl",
@@ -11355,10 +11131,9 @@
     "nationality": "Norway",
     "position": "D",
     "clubs": [
-      "Nottingham",
-      "Forest；Leeds",
-      "United；Manchester",
-      "City"
+      "Nottingham Forest",
+      "Leeds United",
+      "Manchester City"
     ],
     "total_appearances": 181,
     "player_status": "active_pl",
@@ -11371,9 +11146,8 @@
     "nationality": "Scotland",
     "position": "M",
     "clubs": [
-      "AFC",
-      "Bournemouth；Newcastle",
-      "United"
+      "AFC Bournemouth",
+      "Newcastle United"
     ],
     "total_appearances": 181,
     "player_status": "active_pl",
@@ -11386,8 +11160,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Cardiff",
-      "City"
+      "Cardiff City"
     ],
     "total_appearances": 181,
     "player_status": "active_pl",
@@ -11400,8 +11173,8 @@
     "nationality": "France",
     "position": "M",
     "clubs": [
-      "Tottenham",
-      "Hotspur；Watford"
+      "Tottenham Hotspur",
+      "Watford"
     ],
     "total_appearances": 180,
     "player_status": "active_pl",
@@ -11414,9 +11187,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Queens",
-      "Park",
-      "Rangers"
+      "Queens Park Rangers"
     ],
     "total_appearances": 180,
     "player_status": "active_pl",
@@ -11429,9 +11200,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Arsenal；West",
-      "Bromwich",
-      "Albion"
+      "Arsenal",
+      "West Bromwich Albion"
     ],
     "total_appearances": 180,
     "player_status": "active_pl",
@@ -11444,8 +11214,7 @@
     "nationality": "Northern Ireland",
     "position": "G",
     "clubs": [
-      "Leeds",
-      "United"
+      "Leeds United"
     ],
     "total_appearances": 180,
     "player_status": "active_pl",
@@ -11458,7 +11227,10 @@
     "nationality": "Netherlands",
     "position": "M",
     "clubs": [
-      "Chelsea；Middlesbrough；Liverpool；Sunderland"
+      "Chelsea",
+      "Middlesbrough",
+      "Liverpool",
+      "Sunderland"
     ],
     "total_appearances": 180,
     "player_status": "active_pl",
@@ -11471,8 +11243,7 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 175,
     "player_status": "active_pl",
@@ -11490,8 +11261,7 @@
     "nationality": "Portugal",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 169,
     "player_status": "active_pl",
@@ -11513,8 +11283,7 @@
     "nationality": "Wales",
     "position": "F",
     "clubs": [
-      "Tottenham",
-      "Hotspur"
+      "Tottenham Hotspur"
     ],
     "total_appearances": 166,
     "player_status": "active_pl",
@@ -11532,7 +11301,8 @@
     "nationality": "Spain",
     "position": "G",
     "clubs": [
-      "Brentford；Arsenal"
+      "Brentford",
+      "Arsenal"
     ],
     "total_appearances": 164,
     "player_status": "active_pl",
@@ -11554,8 +11324,7 @@
     "nationality": "Scotland",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 162,
     "player_status": "active_pl",
@@ -11586,8 +11355,7 @@
     "nationality": "France",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 156,
     "player_status": "active_pl",
@@ -11605,8 +11373,7 @@
     "nationality": "South Korea",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 154,
     "player_status": "active_pl",
@@ -11624,8 +11391,7 @@
     "nationality": "Norway",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 151,
     "player_status": "active_pl",
@@ -11643,8 +11409,7 @@
     "nationality": "Ukraine",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 150,
     "player_status": "active_pl",
@@ -11662,8 +11427,7 @@
     "nationality": "Netherlands",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 150,
     "player_status": "active_pl",
@@ -11689,9 +11453,8 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Birmingham",
-      "City；Manchester",
-      "United"
+      "Birmingham City",
+      "Manchester United"
     ],
     "total_appearances": 148,
     "player_status": "active_pl",
@@ -11709,8 +11472,7 @@
     "nationality": "Portugal",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 147,
     "player_status": "active_pl",
@@ -11728,7 +11490,8 @@
     "nationality": "Gabon",
     "position": "F",
     "clubs": [
-      "Arsenal；Chelsea"
+      "Arsenal",
+      "Chelsea"
     ],
     "total_appearances": 143,
     "player_status": "active_pl",
@@ -11800,8 +11563,7 @@
     "nationality": "Norway",
     "position": "F",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 127,
     "player_status": "active_pl",
@@ -11867,8 +11629,7 @@
     "nationality": "Spain",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 121,
     "player_status": "active_pl",
@@ -11908,8 +11669,7 @@
     "nationality": "Brazil",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 109,
     "player_status": "active_pl",
@@ -11927,8 +11687,7 @@
     "nationality": "Brazil",
     "position": "M",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 105,
     "player_status": "active_pl",
@@ -11946,8 +11705,7 @@
     "nationality": "Portugal",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 98,
     "player_status": "active_pl",
@@ -11965,9 +11723,8 @@
     "nationality": "Belgium",
     "position": "G",
     "clubs": [
-      "Newcastle",
-      "United；Nottingham",
-      "Forest"
+      "Newcastle United",
+      "Nottingham Forest"
     ],
     "total_appearances": 79,
     "player_status": "active_pl",
@@ -11985,8 +11742,7 @@
     "nationality": "Netherlands",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "United"
+      "Manchester United"
     ],
     "total_appearances": 79,
     "player_status": "active_pl",
@@ -12004,9 +11760,8 @@
     "nationality": "Poland",
     "position": "G",
     "clubs": [
-      "Birmingham",
-      "City；Manchester",
-      "United"
+      "Birmingham City",
+      "Manchester United"
     ],
     "total_appearances": 63,
     "player_status": "active_pl",
@@ -12024,8 +11779,7 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Manchester",
-      "City"
+      "Manchester City"
     ],
     "total_appearances": 50,
     "player_status": "active_pl",

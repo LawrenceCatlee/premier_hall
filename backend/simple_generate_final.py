@@ -33,7 +33,7 @@ def generate_simple_players_json():
         # Parse clubs - fix: split by Chinese semicolon
         clubs = []
         if pd.notna(row['xlsx_clubs']):
-            clubs = [club.strip() for club in str(row['xlsx_clubs']).split(' ') if club.strip()]
+            clubs = [club.strip() for club in str(row['xlsx_clubs']).split(';') if club.strip()]
         
         # Determine player status
         if row['multi_is_retired'] == 'yes':
