@@ -148,10 +148,10 @@ export default function HallOfFame() {
   const stats = useMemo(() => ({
     qualified: qualifiedPlayers.length,
     nearMiss: nearMissPlayers.length,
-    inducted: players.filter(p => p.player_status === 'hall_of_fame').length,
-    activePL: players.filter(p => p.player_status === 'active_pl').length,
-    activeNotPL: players.filter(p => p.player_status === 'active_not_pl').length,
-  }), [qualifiedPlayers, nearMissPlayers, players]);
+    inducted: allPlayers.filter(p => p.player_status === 'hall_of_fame').length,
+    activePL: allPlayers.filter(p => p.player_status === 'active_pl').length,
+    activeNotPL: allPlayers.filter(p => p.player_status === 'active_not_pl').length,
+  }), [qualifiedPlayers, nearMissPlayers, allPlayers]);
 
   const handleClearFilters = () => {
     setSelectedClub('all');

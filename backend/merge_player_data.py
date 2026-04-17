@@ -83,6 +83,17 @@ def load_all_data_files(data_dir: str = "data") -> Dict[str, pd.DataFrame]:
         except Exception as e:
             print(f"加载 epl_250_clubs 失败: {e}")
 
+    # 加载 scrape_player_status.py 输出的全量退役状态（覆盖 multi_is_retired / current_team）
+    status_file = data_path / "player_status_all.csv"
+    if status_file.exists():
+        try:
+            df = pd.read_csv(status_file, usecols=["player_id", "is_retired", "current_team"])
+            df["player_id"] = pd.to_numeric(df["player_id"], errors="coerce").dropna().astype(int)
+            data_files["player_status_all"] = df
+            print(f"加载 player_status_all: {len(df)} 行数据")
+        except Exception as e:
+            print(f"加载 player_status_all 失败: {e}")
+
     return data_files
 
 def standardize_player_names(df: pd.DataFrame, name_column: str) -> pd.DataFrame:
@@ -409,6 +420,21 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         merged_df = pd.merge(merged_df, clubs_df, on="player_id", how="left")
         print(f"合并 profile_clubs 后: {len(merged_df)} 行")
 
+    # 第六步B：合并 scrape_player_status.py 全量退役状态（覆盖 multi_is_retired / current_team）
+    if "player_status_all" in data_files:
+        ps_df = data_files["player_status_all"].copy()
+        ps_df["player_id"] = ps_df["player_id"].astype(int)
+        # 用新状态覆盖 multi_is_retired 和 current_team
+        for col in ("multi_is_retired", "current_team"):
+            if col in merged_df.columns:
+                merged_df = merged_df.drop(columns=[col])
+        merged_df = pd.merge(
+            merged_df,
+            ps_df.rename(columns={"is_retired": "multi_is_retired"}),
+            on="player_id", how="left",
+        )
+        print(f"合并 player_status_all 后: {len(merged_df)} 行")
+
     # 第七步A：合并 ChatGPT xlsx 历史俱乐部（优先于 Transfermarkt multi_all_teams）
     if "xlsx_history_clubs" in data_files:
         hc_df = data_files["xlsx_history_clubs"].copy()
@@ -446,7 +472,6 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
 
     # multi_ columns we want to keep (the rest are excluded above)
     multi_keep = {
-        'multi_all_teams',  # all PL clubs (used by _parse_clubs for clubs column)
         'multi_team1', 'multi_team1_appearances', 'multi_is_in_team1',
         'multi_team2', 'multi_team2_appearances', 'multi_is_in_team2',
         'multi_team3', 'multi_team3_appearances', 'multi_is_in_team3',
@@ -460,8 +485,8 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
     for col in merged_df.columns:
         if col in columns_to_remove:
             continue
-        # 保留player_id和核心列（含 profile_clubs/multi_all_teams/ayerofseasonwinners_Season，防止被 base_col 去重逻辑误删）
-        if col in ['player_id', 'player_name', 'appearances', 'profile_clubs', 'multi_all_teams',
+        # 保留player_id和核心列（含 profile_clubs/ayerofseasonwinners_Season，防止被 base_col 去重逻辑误删）
+        if col in ['player_id', 'player_name', 'appearances', 'profile_clubs',
                    'ayerofseasonwinners_Season', 'epl250_is_retired', 'xlsx_clubs', 'player_name_zh']:
             columns_to_keep.append(col)
             continue
@@ -557,17 +582,20 @@ def save_merged_data(merged_df: pd.DataFrame, output_dir: str = "data",
     output_path = Path(output_dir)
     output_path.mkdir(exist_ok=True)
 
-    # 保存完整 CSV（以下列仅供内部处理，不写入 CSV）
-    csv_exclude = {'multi_all_teams', 'info_club', 'retired', 'profile_clubs'}
-    csv_cols = [c for c in merged_df.columns if c not in csv_exclude]
+    # 内部处理列（不写入任何输出）
+    output_exclude = {'multi_all_teams', 'info_club', 'retired', 'profile_clubs'}
+
+    # 保存完整 CSV
+    csv_cols = [c for c in merged_df.columns if c not in output_exclude]
     full_file = output_path / "premier_league_players_merged_final.csv"
     merged_df[csv_cols].to_csv(full_file, index=False, encoding='utf-8-sig')
     print(f"完整数据已保存到: {full_file}")
 
-    # 保存 Excel
+    # 保存 Excel（同样排除内部列）
     try:
         excel_file = output_path / "premier_league_players_merged_final.xlsx"
-        merged_df.to_excel(excel_file, index=False, engine='openpyxl')
+        excel_cols = [c for c in merged_df.columns if c not in output_exclude]
+        merged_df[excel_cols].to_excel(excel_file, index=False, engine='openpyxl')
         print(f"Excel数据已保存到: {excel_file}")
     except ImportError:
         print("提示: 安装openpyxl可以导出Excel文件: pip install openpyxl")
