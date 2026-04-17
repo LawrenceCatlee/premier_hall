@@ -24,8 +24,8 @@ def load_all_data_files(data_dir: str = "data") -> Dict[str, pd.DataFrame]:
         except Exception as e:
             print(f"加载 pulselive_base 失败: {e}")
     
-    # 加载所有pl开头的文件
-    pl_files = list(data_path.glob("pl*.csv"))
+    # 加载所有pl_开头的文件（注意下划线，避免匹配 player_status_all.csv）
+    pl_files = list(data_path.glob("pl_*.csv"))
     for file_path in pl_files:
         file_name = file_path.stem
         try:
@@ -125,7 +125,7 @@ def merge_pl_files(base_df: pd.DataFrame, data_files: Dict[str, pd.DataFrame]) -
     
     # 合并所有pl开头的文件
     for file_name, df in data_files.items():
-        if not file_name.startswith('pl') or file_name in ('pulselive_base', 'player_status_all'):
+        if not file_name.startswith('pl_') or file_name == 'pulselive_base':
             continue
         
         if 'player_id' in df.columns:
