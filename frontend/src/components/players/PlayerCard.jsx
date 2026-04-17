@@ -14,7 +14,7 @@ function formatAchievement(type, detail, language) {
         return `英超出场 ${detail.replace('场', '')} 场`;
       case '单队200场': {
         const [team, apps] = (detail || '').split('|');
-        return `为${team}出场 ${apps} 场英超`;
+        return `为${clubEnToZh[team] || team}出场 ${apps} 场英超`;
       }
       case '百球':
         return `英超进球 ${detail} 球`;
