@@ -112,6 +112,8 @@ export default function HallOfFame() {
       filtered = filtered.filter(p => p.achievements && p.achievements.length > 0);
     } else if (selectedStatus === 'near_miss') {
       filtered = filtered.filter(p => !p.achievements || p.achievements.length === 0);
+    } else if (selectedStatus === 'hall_of_fame') {
+      filtered = filtered.filter(p => p.player_status === 'hall_of_fame');
     }
 
     if (selectedPlayerStatus !== 'all') {

@@ -123,6 +123,7 @@ export default function PlayerFilters({
               <SelectItem value="all">{t.allStatus}</SelectItem>
               <SelectItem value="qualified">{t.qualified}</SelectItem>
               <SelectItem value="near_miss">{t.nearMiss}</SelectItem>
+              <SelectItem value="hall_of_fame">{t.inducted}</SelectItem>
             </SelectContent>
           </Select>
         </div>
@@ -179,7 +180,7 @@ export default function PlayerFilters({
           )}
           {selectedStatus !== 'all' && (
             <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
-              {selectedStatus === 'qualified' ? t.qualified : t.nearMiss}
+              {{ qualified: t.qualified, near_miss: t.nearMiss, hall_of_fame: t.inducted }[selectedStatus] || selectedStatus}
             </Badge>
           )}
           {selectedPlayerStatus !== 'all' && (

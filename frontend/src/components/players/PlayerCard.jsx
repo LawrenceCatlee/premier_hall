@@ -11,6 +11,14 @@ const POSITION_COLOR = {
   F:  { bg: 'bg-rose-400/20',    text: 'text-rose-300'   },
 };
 
+// English full club name → Chinese (for PL title winners only)
+const TITLE_CLUB_ZH = {
+  'Arsenal': '阿森纳', 'Blackburn Rovers': '布莱克本', 'Chelsea': '切尔西',
+  'Leicester City': '莱斯特城', 'Liverpool': '利物浦',
+  'Manchester City': '曼城', 'Manchester United': '曼联',
+};
+
+// Returns string | string[] — callers must handle both
 function formatAchievement(type, detail, language) {
   const joinDot = (str) =>
     (str || '').split(',').map(s => s.trim()).filter(Boolean).join('、');
@@ -18,21 +26,35 @@ function formatAchievement(type, detail, language) {
   if (language === 'zh') {
     switch (type) {
       case '出场250次':
-        return `在英超出场了${detail.replace('场', '')}场`;
+        return `英超出场 ${detail.replace('场', '')} 场`;
       case '单队200场': {
         const [team, apps] = (detail || '').split('|');
-        return `为${team}出场${apps}场英超比赛`;
+        return `为${team}出场 ${apps} 场英超`;
       }
       case '百球':
-        return `英超共打入${detail}球`;
+        return `英超进球 ${detail} 球`;
       case '百大零封':
-        return `英超共零封${detail}次`;
-      case '三冠王':
-        return `英超冠军：${joinDot(detail)}`;
+        return `英超零封 ${detail} 次`;
+      case '三冠王': {
+        const [seasonsStr, clubsStr] = (detail || '').split('§');
+        const seasons = (seasonsStr || '').split(',').map(s => s.trim()).filter(Boolean);
+        const clubParts = (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean);
+        const seasonsLine = `赛季：${seasons.join('、')}`;
+        if (clubParts.length === 0) return [`英超冠军`, seasonsLine];
+        const clubLines = clubParts.map(c => {
+          const match = c.match(/^(.+?)\s*\((\d+)\)$/);
+          if (match) {
+            const zhName = TITLE_CLUB_ZH[match[1].trim()] || match[1].trim();
+            return `英超冠军 × ${zhName}（${match[2]}次）`;
+          }
+          return `英超冠军 × ${TITLE_CLUB_ZH[c] || c}`;
+        });
+        return [...clubLines, seasonsLine];
+      }
       case '金靴奖':
         return `英超射手王：${joinDot(detail)}`;
       case '金手套奖':
-        return `英超最佳门将奖：${joinDot(detail)}`;
+        return `英超最佳门将：${joinDot(detail)}`;
       case '年度最佳': {
         const y = joinDot(detail);
         return y ? `英超年度最佳：${y}` : '英超年度最佳';
@@ -55,8 +77,17 @@ function formatAchievement(type, detail, language) {
       case '百大零封':
         return `${detail} PL Clean Sheets`;
       case '三冠王': {
-        const s = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
-        return `PL Champion: ${s}`;
+        const [seasonsStr, clubsStr] = (detail || '').split('§');
+        const seasons = (seasonsStr || '').split(',').map(s => s.trim()).filter(Boolean);
+        const clubParts = (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean);
+        const seasonsLine = `Seasons: ${seasons.join(', ')}`;
+        if (clubParts.length === 0) return [`PL Champion`, seasonsLine];
+        const clubLines = clubParts.map(c => {
+          const match = c.match(/^(.+?)\s*\((\d+)\)$/);
+          if (match) return `PL Champion × ${match[1].trim()} (${match[2]}×)`;
+          return `PL Champion × ${c}`;
+        });
+        return [...clubLines, seasonsLine];
       }
       case '金靴奖': {
         const y = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
@@ -158,11 +189,16 @@ export default function PlayerCard({ player, showGap = false }) {
           <div className="flex items-start gap-1.5">
             <Star className="w-3.5 h-3.5 text-[#FFD700]/70 shrink-0 mt-0.5" />
             <ul className="space-y-0.5 flex-1">
-              {achievements.map((a, i) => (
-                <li key={i} className="text-xs text-slate-200 leading-relaxed">
-                  {formatAchievement(a.type, a.detail, language)}
-                </li>
-              ))}
+              {achievements.flatMap((a, i) => {
+                const result = formatAchievement(a.type, a.detail, language);
+                const lines = Array.isArray(result) ? result : [result];
+                return lines.map((line, j) => (
+                  <li key={`${i}-${j}`} className="text-xs text-slate-200 leading-relaxed flex gap-1 items-baseline">
+                    <span className="text-[#FFD700]/50 shrink-0 select-none">·</span>
+                    <span>{line}</span>
+                  </li>
+                ));
+              })}
             </ul>
           </div>
         )}
@@ -170,11 +206,12 @@ export default function PlayerCard({ player, showGap = false }) {
         {/* Near-miss gaps */}
         {showGap && gapItems.length > 0 && (
           <div className="mt-auto pt-2 border-t border-white/10 flex items-start gap-1.5">
-            <TrendingUp className="w-3.5 h-3.5 text-[#ff2882] shrink-0 mt-0.5" />
+            <TrendingUp className="w-3.5 h-3.5 text-[#07c160] shrink-0 mt-0.5" />
             <ul className="space-y-0.5 flex-1">
               {gapItems.map((item, i) => (
-                <li key={i} className="text-xs text-[#ff2882]/90 leading-relaxed">
-                  {item}
+                <li key={i} className="text-xs text-[#07c160]/90 leading-relaxed flex gap-1 items-baseline">
+                  <span className="shrink-0 select-none">·</span>
+                  <span>{item}</span>
                 </li>
               ))}
             </ul>
