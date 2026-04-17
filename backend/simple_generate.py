@@ -84,6 +84,13 @@ def generate_simple_players_json():
         for _, r in titles_df.iterrows()
     }
 
+    def _clean(val):
+        s = str(val).strip() if pd.notna(val) else ''
+        return '' if s == 'nan' else s
+
+    # player_status_all.csv 存在时 is_retired 列已合并进来，是唯一权威来源
+    has_all_status = 'is_retired' in df.columns
+
     players = []
 
     for _, row in df.iterrows():
@@ -118,30 +125,34 @@ def generate_simple_players_json():
                         single_club = t
                         single_club_apps = a
 
-        # Player status (priority):
-        # 1. multi_is_retired='yes'           → retired
-        # 2. current_team in CURRENT_PL_CLUBS → active_pl
-        # 3. current_team set + multi='no'    → active_not_pl
-        # 4. epl250_is_retired='false'        → active_pl (PulseLive fallback, no club info)
-        # 5. Otherwise                        → retired
-        def _clean(val):
-            s = str(val).strip() if pd.notna(val) else ''
-            return '' if s == 'nan' else s
-
-        epl250_ret = _clean(row.get('epl250_is_retired', '')).lower()
-        multi_ret  = _clean(row.get('multi_is_retired', '')).lower()
         current_club = _clean(row.get('current_team', ''))
 
-        if multi_ret == 'yes':
-            player_status = 'retired'
-        elif current_club in CURRENT_PL_CLUBS:
-            player_status = 'active_pl'
-        elif current_club and multi_ret == 'no':
-            player_status = 'active_not_pl'
-        elif epl250_ret == 'false':
-            player_status = 'active_pl'
+        if has_all_status:
+            # 全量退役状态（scrape_player_status.py 提供，最权威）
+            # 优先级：is_retired → current_team vs PL clubs
+            is_ret = _clean(row.get('is_retired', '')).lower()
+            if is_ret == 'yes':
+                player_status = 'retired'
+            elif current_club in CURRENT_PL_CLUBS:
+                player_status = 'active_pl'
+            elif current_club and is_ret == 'no':
+                player_status = 'active_not_pl'
+            else:
+                player_status = 'retired'
         else:
-            player_status = 'retired'
+            # 兜底：使用 multi_is_retired + epl250_is_retired（无全量状态时）
+            multi_ret  = _clean(row.get('multi_is_retired', '')).lower()
+            epl250_ret = _clean(row.get('epl250_is_retired', '')).lower()
+            if multi_ret == 'yes':
+                player_status = 'retired'
+            elif current_club in CURRENT_PL_CLUBS:
+                player_status = 'active_pl'
+            elif current_club and multi_ret == 'no':
+                player_status = 'active_not_pl'
+            elif epl250_ret == 'false':
+                player_status = 'active_pl'
+            else:
+                player_status = 'retired'
 
         # Hall of Fame
         hof_year = HALL_OF_FAME.get(name_en.lower())

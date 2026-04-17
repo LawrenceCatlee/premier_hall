@@ -420,19 +420,15 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         merged_df = pd.merge(merged_df, clubs_df, on="player_id", how="left")
         print(f"合并 profile_clubs 后: {len(merged_df)} 行")
 
-    # 第六步B：合并 scrape_player_status.py 全量退役状态（覆盖 multi_is_retired / current_team）
+    # 第六步B：合并 scrape_player_status.py 全量退役状态
+    # 存在时作为唯一权威来源，is_retired / current_team 取代全部旧状态列
     if "player_status_all" in data_files:
         ps_df = data_files["player_status_all"].copy()
         ps_df["player_id"] = ps_df["player_id"].astype(int)
-        # 用新状态覆盖 multi_is_retired 和 current_team
-        for col in ("multi_is_retired", "current_team"):
+        for col in ("multi_is_retired", "current_team", "is_retired"):
             if col in merged_df.columns:
                 merged_df = merged_df.drop(columns=[col])
-        merged_df = pd.merge(
-            merged_df,
-            ps_df.rename(columns={"is_retired": "multi_is_retired"}),
-            on="player_id", how="left",
-        )
+        merged_df = pd.merge(merged_df, ps_df, on="player_id", how="left")
         print(f"合并 player_status_all 后: {len(merged_df)} 行")
 
     # 第七步A：合并 ChatGPT xlsx 历史俱乐部（优先于 Transfermarkt multi_all_teams）
@@ -583,6 +579,9 @@ def save_merged_data(merged_df: pd.DataFrame, output_dir: str = "data",
 
     # 内部处理列（不写入任何输出）
     output_exclude = {'multi_all_teams', 'info_club', 'retired', 'profile_clubs'}
+    # player_status_all.csv 存在时，旧状态列已无意义
+    if 'is_retired' in merged_df.columns:
+        output_exclude |= {'multi_is_retired', 'epl250_is_retired'}
 
     # 保存完整 CSV
     csv_cols = [c for c in merged_df.columns if c not in output_exclude]
