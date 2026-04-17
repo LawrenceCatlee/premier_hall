@@ -14,6 +14,17 @@ CURRENT_PL_CLUBS = {
     'Tottenham Hotspur', 'West Ham United', 'Wolverhampton Wanderers',
 }
 
+HALL_OF_FAME = {
+    'alan shearer':     2021, 'thierry henry':   2021, 'eric cantona':    2021,
+    'roy keane':        2021, 'frank lampard':   2021, 'dennis bergkamp': 2021,
+    'steven gerrard':   2021, 'david beckham':   2021,
+    'sergio agüero':    2022, 'didier drogba':   2022, 'vincent kompany': 2022,
+    'peter schmeichel': 2022, 'paul scholes':    2022, 'ian wright':      2022,
+    'tony adams':       2023, 'petr cech':       2023, 'rio ferdinand':   2023,
+    'ashley cole':      2024, 'andrew cole':     2024, 'john terry':      2024,
+    'gary neville':     2025, 'eden hazard':     2025,
+}
+
 TEAM_XI_AWARD_MAP = {
     'Premier League 10 Seasons Awards': '10年最佳阵容',
     'Premier League 20 Seasons Awards': '20年最佳阵容',
@@ -151,6 +162,11 @@ def generate_simple_players_json():
                 # fetch_active_status.py must be run manually to set accurate status.
                 player_status = 'retired'
 
+        # Hall of Fame
+        hof_year = HALL_OF_FAME.get(name_en.lower())
+        if hof_year:
+            player_status = 'hall_of_fame'
+
         # Achievements
         achievements = []
 
@@ -214,7 +230,7 @@ def generate_simple_players_json():
             'clean_sheets': cs_val,
             'current_club': pli.get('current_club', '') or str(row.get('current_team', '') or ''),
             'birth_date': str(row['birth_date']) if pd.notna(row.get('birth_date')) else '',
-            'hof_year': None,
+            'hof_year': hof_year,
             'player_status': player_status,
             'achievements': achievements,
         })
