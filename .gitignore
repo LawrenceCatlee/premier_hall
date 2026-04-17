@@ -21,15 +21,25 @@ backend/*.pyo
 *.pyo
 __pycache__/
 
-# Large / intermediate data files (keep only players.json which is the final output)
-backend/data/*.csv
-backend/data/*.xlsx
+# Large / intermediate data files
 backend/data/*.log
 backend/data/last_run.json
 backend/data/pulselive_player_id_auto_aliases.json
+backend/data/pulselive_player_id_*.csv
+backend/data/pulselive_player_dob.csv
+backend/data/pulselive_player_retired.csv
 
-# Keep automation config and the generated JSON
+# Keep: static award data (rarely changes)
+!backend/data/pl_*.csv
+# Keep: Chinese names + config
+!backend/data/player_chinese_names.json
 !backend/data/automation_config.json
+# Keep: dynamic data updated by scraping pipeline (needed by GitHub Actions)
+!backend/data/epl_players_appearances_230plus.csv
+!backend/data/premier_league_players_multi_team.csv
+!backend/data/premier_league_players_merged_final.csv
+!backend/data/premier_league_players_merged_final.xlsx
+!backend/data/pulselive_player_index_appearances.csv
 
 # ── OS ────────────────────────────────────────────────────────────────
 .DS_Store

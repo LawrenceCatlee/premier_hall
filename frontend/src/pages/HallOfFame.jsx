@@ -165,40 +165,45 @@ export default function HallOfFame() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#1a0020] via-[#2d0036] to-[#1a0020]">
       {/* Hero */}
-      <div className="relative overflow-hidden py-14 px-6">
+      <div className="relative overflow-hidden py-8 sm:py-14 px-4 sm:px-6">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_#4a0e4e_0%,_transparent_70%)] pointer-events-none" />
         <div className="relative max-w-7xl mx-auto">
-          <div className="absolute top-0 right-0">
+          <div className="flex justify-end mb-3">
             <LanguageToggle />
           </div>
 
-          <div className="flex items-center justify-center gap-3 mb-2">
-            <Trophy className="w-10 h-10 text-[#FFD700]" />
-            <h1 className="text-5xl font-extrabold tracking-tight text-white">
+          <div className="flex items-center justify-center gap-2 sm:gap-3 mb-2 px-2">
+            <Trophy className="w-6 h-6 sm:w-10 sm:h-10 text-[#FFD700] shrink-0" />
+            <h1 className="text-xl sm:text-4xl font-extrabold tracking-tight text-white text-center leading-snug">
               {t.title}
             </h1>
           </div>
-          <p className="text-center text-base text-slate-300 mb-10">{t.subtitle}</p>
+          <p className="text-center text-sm sm:text-base text-slate-300 mb-8 sm:mb-10 px-2">{t.subtitle}</p>
 
           {/* Stats */}
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-3 max-w-4xl mx-auto">
-            {[
+          {(() => {
+            const items = [
               { value: stats.qualified,   label: t.qualified,           accent: '#00ff85' },
               { value: stats.nearMiss,    label: t.nearMiss,            accent: '#ff2882' },
               { value: stats.inducted,    label: t.hallOfFame,          accent: '#FFD700' },
               { value: stats.activePL,    label: t.statusActivePL,      accent: '#07c160' },
               { value: stats.activeNotPL, label: t.statusActiveNotPL,   accent: '#f59e0b' },
-            ].map(({ value, label, accent }) => (
-              <div
-                key={label}
-                className="rounded-xl p-4 text-center"
-                style={{ background: `${accent}18`, border: `1px solid ${accent}55` }}
-              >
-                <p className="text-3xl font-bold mb-0.5" style={{ color: accent }}>{value}</p>
-                <p className="text-xs text-slate-300">{label}</p>
+            ];
+            return (
+              <div className="grid grid-cols-2 md:grid-cols-5 gap-3 max-w-4xl mx-auto">
+                {items.map(({ value, label, accent }, idx) => (
+                  <div
+                    key={label}
+                    className={`rounded-xl p-3 sm:p-4 text-center${idx === items.length - 1 && items.length % 2 !== 0 ? ' col-span-2 md:col-span-1' : ''}`}
+                    style={{ background: `${accent}18`, border: `1px solid ${accent}55` }}
+                  >
+                    <p className="text-2xl sm:text-3xl font-bold mb-0.5" style={{ color: accent }}>{value}</p>
+                    <p className="text-xs text-slate-300">{label}</p>
+                  </div>
+                ))}
               </div>
-            ))}
-          </div>
+            );
+          })()}
 
           {/* Color legend */}
           <div className="mt-6 flex items-center justify-center gap-5 flex-wrap">
@@ -233,7 +238,7 @@ export default function HallOfFame() {
       </div>
 
       {/* Main content */}
-      <div className="max-w-7xl mx-auto px-6 pb-12">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 pb-12">
         <PlayerFilters
           selectedClub={selectedClub}
           selectedAchievement={selectedAchievement}

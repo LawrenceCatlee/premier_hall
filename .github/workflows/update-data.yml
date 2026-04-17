@@ -1,22 +1,28 @@
 name: Update Players Data
 
 on:
-  # Excel file changes
+  # Manual: user ran scraping locally, committed Excel → just regenerate JSON
   push:
     paths:
       - 'backend/data/premier_league_players_merged_final.xlsx'
-  
-  # Manual trigger
+
+  # Manual trigger from GitHub UI → full pipeline
   workflow_dispatch:
+
+  # Scheduled: daily at 23:45 UTC (after all PL matches end)
+  schedule:
+    - cron: '45 23 * * *'
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 40
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 20
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,24 +31,136 @@ jobs:
           cache: 'pip'
           cache-dependency-path: backend/requirements.txt
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: pip install -r backend/requirements.txt
 
-      # Convert Excel to JSON
-      - name: Generate players.json from Excel
+      # ── Scheduled: decide whether to run ────────────────────────────────────
+      - name: Gate check (scheduled only)
+        id: gate
+        if: github.event_name == 'schedule'
+        run: |
+          python3 - <<'PYEOF'
+          import subprocess, requests
+          from datetime import datetime, timezone
+
+          # Skip if players.json was already committed today (manual update happened)
+          result = subprocess.run(
+              ['git', 'log', '--since=midnight', '--format=%H', '--',
+               'frontend/public/data/players.json'],
+              capture_output=True, text=True
+          )
+          if result.stdout.strip():
+              print("players.json already updated today — skipping")
+              open('/tmp/skip', 'w').write('1')
+              exit(0)
+
+          # Skip if no PL matches completed in the last 24 hours
+          r = requests.get(
+              'https://footballapi.pulselive.com/football/competitions/1/compseasons'
+              '?page=0&pageSize=1&sort=desc',
+              headers={
+                  'Origin': 'https://www.premierleague.com',
+                  'Referer': 'https://www.premierleague.com/',
+                  'User-Agent': 'Mozilla/5.0',
+              },
+              timeout=15,
+          )
+          season_id = int(r.json()['content'][0]['id'])
+
+          r = requests.get(
+              f'https://footballapi.pulselive.com/football/fixtures'
+              f'?compSeasons={season_id}&page=0&pageSize=100&sort=desc&statuses=C',
+              headers={
+                  'Origin': 'https://www.premierleague.com',
+                  'Referer': 'https://www.premierleague.com/',
+                  'User-Agent': 'Mozilla/5.0',
+              },
+              timeout=15,
+          )
+          matches = r.json().get('content', [])
+          now_ms = datetime.now(timezone.utc).timestamp() * 1000
+          cutoff_ms = now_ms - 24 * 3600 * 1000
+          recent = [m for m in matches
+                    if float(m.get('kickoff', {}).get('millis', 0)) > cutoff_ms]
+
+          if not recent:
+              print("No PL matches in the last 24h — skipping")
+              open('/tmp/skip', 'w').write('1')
+          else:
+              print(f"{len(recent)} match(es) completed in last 24h — proceeding")
+          PYEOF
+
+          echo "run=$( [ -f /tmp/skip ] && echo false || echo true )" >> $GITHUB_OUTPUT
+
+      # ── Excel push: user already ran scraping locally, just regenerate JSON ──
+      - name: Generate JSON from merged data (push trigger)
+        if: github.event_name == 'push'
+        working-directory: backend
+        run: python simple_generate.py
+
+      # ── Full pipeline: scrape → active status → merge → generate ────────────
+      - name: Build PulseLive player index
+        if: >
+          github.event_name == 'workflow_dispatch' ||
+          (github.event_name == 'schedule' && steps.gate.outputs.run == 'true')
         working-directory: backend
         run: |
+          python -c "
+          from pulselive_data import get_pulselive_player_index
+          df = get_pulselive_player_index()
+          print(f'PulseLive index: {len(df)} players')
+          "
+
+      - name: Scrape appearance data (250 appearances + single-club 200, in parallel)
+        if: >
+          github.event_name == 'workflow_dispatch' ||
+          (github.event_name == 'schedule' && steps.gate.outputs.run == 'true')
+        working-directory: backend
+        run: |
+          python player_premier_250.py &
+          python player_premier_team_200.py &
+          wait
+          echo "Scraping done"
+
+      - name: Update active PL player status
+        if: >
+          github.event_name == 'workflow_dispatch' ||
+          (github.event_name == 'schedule' && steps.gate.outputs.run == 'true')
+        working-directory: backend
+        run: python fetch_active_status.py --active-only
+
+      - name: Merge data and generate JSON
+        if: >
+          github.event_name == 'workflow_dispatch' ||
+          (github.event_name == 'schedule' && steps.gate.outputs.run == 'true')
+        working-directory: backend
+        run: |
+          python merge_player_data.py
           python simple_generate.py
 
-      # Commit if changed
+      # ── Commit results ───────────────────────────────────────────────────────
       - name: Commit & push if changed
+        if: >
+          github.event_name == 'push' ||
+          github.event_name == 'workflow_dispatch' ||
+          (github.event_name == 'schedule' && steps.gate.outputs.run == 'true')
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add frontend/public/data/players.json
+          git add backend/data/epl_players_appearances_230plus.csv
+          git add backend/data/premier_league_players_multi_team.csv
+          git add backend/data/premier_league_players_merged_final.csv
+          git add backend/data/premier_league_players_merged_final.xlsx
+          git add backend/data/pulselive_player_index_appearances.csv
           if git diff --cached --quiet; then
-            echo "players.json unchanged - nothing to commit"
+            echo "No changes — nothing to commit"
           else
-            git commit -m "chore: update players.json from Excel file [skip ci]"
+            if [ "${{ github.event_name }}" = "push" ]; then
+              MSG="chore: update players.json from Excel [skip ci]"
+            else
+              MSG="chore: auto-update players data after PL matches [skip ci]"
+            fi
+            git commit -m "$MSG"
             git push
           fi

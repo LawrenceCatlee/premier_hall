@@ -91,6 +91,60 @@ export const clubNameMap = {
   '其他': 'Other',
 };
 
+// Maps English full club name → Chinese
+export const clubEnToZh = {
+  'Arsenal': '阿森纳',
+  'Aston Villa': '阿斯顿维拉',
+  'Birmingham City': '伯明翰城',
+  'Blackburn Rovers': '布莱克本流浪者',
+  'Blackpool': '布莱克浦',
+  'Bolton Wanderers': '博尔顿流浪者',
+  'AFC Bournemouth': '伯恩茅斯',
+  'Bournemouth': '伯恩茅斯',
+  'Bradford City': '布拉德福德城',
+  'Brentford': '布伦特福德',
+  'Brighton & Hove Albion': '布莱顿',
+  'Burnley': '伯恩利',
+  'Cardiff City': '卡迪夫城',
+  'Charlton Athletic': '查尔顿竞技',
+  'Chelsea': '切尔西',
+  'Coventry City': '考文垂城',
+  'Crystal Palace': '水晶宫',
+  'Derby County': '德比郡',
+  'Everton': '埃弗顿',
+  'Fulham': '富勒姆',
+  'Hull City': '赫尔城',
+  'Ipswich Town': '伊普斯威奇镇',
+  'Leeds United': '利兹联',
+  'Leicester City': '莱斯特城',
+  'Liverpool': '利物浦',
+  'Luton Town': '卢顿镇',
+  'Manchester City': '曼城',
+  'Manchester United': '曼联',
+  'Middlesbrough': '米德尔斯堡',
+  'Newcastle United': '纽卡斯尔联',
+  'Norwich City': '诺里奇城',
+  'Nottingham Forest': '诺丁汉森林',
+  'Oldham Athletic': '奥尔德姆竞技',
+  'Portsmouth': '朴茨茅斯',
+  'Queens Park Rangers': '女王公园巡游者',
+  'Reading': '雷丁',
+  'Sheffield United': '谢菲尔德联',
+  'Sheffield Wednesday': '谢菲尔德星期三',
+  'Southampton': '南安普顿',
+  'Stoke City': '斯托克城',
+  'Sunderland': '桑德兰',
+  'Swansea City': '斯旺西城',
+  'Swindon Town': '斯温顿镇',
+  'Tottenham Hotspur': '热刺',
+  'Watford': '沃特福德',
+  'West Bromwich Albion': '西布罗姆维奇',
+  'West Ham United': '西汉姆联',
+  'Wigan Athletic': '威根竞技',
+  'Wimbledon': '温布尔顿',
+  'Wolverhampton Wanderers': '狼队',
+};
+
 // Maps Chinese achievement type strings to English
 export const achievementMap = {
   '出场250次': '250+ Appearances',
@@ -108,7 +162,7 @@ export const achievementMap = {
 
 export const translations = {
   zh: {
-    title: 'Premier Hall',
+    title: '总有人值得被你铭记',
     subtitle: '展示自英超开办以来符合名人堂入选资格的球员',
     qualified: '已达标',
     nearMiss: '接近达标',
@@ -170,7 +224,7 @@ export const translations = {
     }
   },
   en: {
-    title: 'Premier Hall',
+    title: 'Always someone worth remembering',
     subtitle: 'Legendary players who meet the Hall of Fame criteria since the Premier League began',
     qualified: 'Qualified',
     nearMiss: 'Near Miss',

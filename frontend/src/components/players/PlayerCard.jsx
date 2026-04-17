@@ -1,22 +1,7 @@
 import { Building, Star, TrendingUp } from 'lucide-react';
 import { cn } from "@/lib/utils";
 import { useLanguage } from '../LanguageContext';
-import { translations, clubNameMap, nationalityFlag, nationalityZh } from '../translations';
-
-const POSITION_LABEL = { G: 'GK', D: 'DEF', M: 'MID', F: 'FWD' };
-const POSITION_COLOR = {
-  G:  { bg: 'bg-amber-400/20',   text: 'text-amber-300'  },
-  D:  { bg: 'bg-sky-400/20',     text: 'text-sky-300'    },
-  M:  { bg: 'bg-emerald-400/20', text: 'text-emerald-300'},
-  F:  { bg: 'bg-rose-400/20',    text: 'text-rose-300'   },
-};
-
-// English full club name → Chinese (for PL title winners only)
-const TITLE_CLUB_ZH = {
-  'Arsenal': '阿森纳', 'Blackburn Rovers': '布莱克本', 'Chelsea': '切尔西',
-  'Leicester City': '莱斯特城', 'Liverpool': '利物浦',
-  'Manchester City': '曼城', 'Manchester United': '曼联',
-};
+import { clubNameMap, clubEnToZh, nationalityFlag, nationalityZh } from '../translations';
 
 // Returns string | string[] — callers must handle both
 function formatAchievement(type, detail, language) {
@@ -39,15 +24,20 @@ function formatAchievement(type, detail, language) {
         const [seasonsStr, clubsStr] = (detail || '').split('§');
         const seasons = (seasonsStr || '').split(',').map(s => s.trim()).filter(Boolean);
         const clubParts = (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean);
-        const seasonsLine = `赛季：${seasons.join('、')}`;
-        if (clubParts.length === 0) return [`英超冠军`, seasonsLine];
+        const seasonsLine = seasons.length > 4
+          ? `赛季：${seasons[0]} 至 ${seasons[seasons.length - 1]}（共${seasons.length}次）`
+          : `赛季：${seasons.join('、')}`;
+        if (clubParts.length === 0) return [`英超冠军（${seasons.length}次）`, seasonsLine];
         const clubLines = clubParts.map(c => {
           const match = c.match(/^(.+?)\s*\((\d+)\)$/);
           if (match) {
-            const zhName = TITLE_CLUB_ZH[match[1].trim()] || match[1].trim();
+            const zhName = clubEnToZh[match[1].trim()] || match[1].trim();
             return `英超冠军 × ${zhName}（${match[2]}次）`;
           }
-          return `英超冠军 × ${TITLE_CLUB_ZH[c] || c}`;
+          const zhName = clubEnToZh[c] || c;
+          return seasons.length > 1
+            ? `英超冠军 × ${zhName}（${seasons.length}次）`
+            : `英超冠军 × ${zhName}`;
         });
         return [...clubLines, seasonsLine];
       }
@@ -80,12 +70,16 @@ function formatAchievement(type, detail, language) {
         const [seasonsStr, clubsStr] = (detail || '').split('§');
         const seasons = (seasonsStr || '').split(',').map(s => s.trim()).filter(Boolean);
         const clubParts = (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean);
-        const seasonsLine = `Seasons: ${seasons.join(', ')}`;
-        if (clubParts.length === 0) return [`PL Champion`, seasonsLine];
+        const seasonsLine = seasons.length > 4
+          ? `Seasons: ${seasons[0]} – ${seasons[seasons.length - 1]} (${seasons.length} titles)`
+          : `Seasons: ${seasons.join(', ')}`;
+        if (clubParts.length === 0) return [`PL Champion (${seasons.length}×)`, seasonsLine];
         const clubLines = clubParts.map(c => {
           const match = c.match(/^(.+?)\s*\((\d+)\)$/);
           if (match) return `PL Champion × ${match[1].trim()} (${match[2]}×)`;
-          return `PL Champion × ${c}`;
+          return seasons.length > 1
+            ? `PL Champion × ${c} (${seasons.length}×)`
+            : `PL Champion × ${c}`;
         });
         return [...clubLines, seasonsLine];
       }
@@ -111,11 +105,6 @@ function formatAchievement(type, detail, language) {
 
 export default function PlayerCard({ player, showGap = false }) {
   const { language } = useLanguage();
-  const t = translations[language];
-
-  const pos      = (player.position || '').toUpperCase().charAt(0);
-  const posLabel = POSITION_LABEL[pos] || pos;
-  const posStyle = POSITION_COLOR[pos] || { bg: 'bg-slate-400/20', text: 'text-slate-300' };
 
   // Accent colour — 4-way status
   const STATUS_COLOR = {
@@ -176,10 +165,10 @@ export default function PlayerCard({ player, showGap = false }) {
         {player.clubs && player.clubs.length > 0 && (
           <div className="flex items-start gap-1.5 text-xs text-slate-300">
             <Building className="w-3.5 h-3.5 text-slate-500 shrink-0 mt-0.5" />
-            <span>
+            <span className="leading-relaxed">
               {language === 'en'
-                ? player.clubs.map(c => clubNameMap[c] || c).join(' · ')
-                : player.clubs.join(' · ')}
+                ? player.clubs.flatMap(c => c.split(';').map(s => s.trim())).filter(Boolean).map(c => clubNameMap[c] || c).join(' · ')
+                : player.clubs.flatMap(c => c.split(';').map(s => s.trim())).filter(Boolean).map(c => clubEnToZh[c] || c).join(' · ')}
             </span>
           </div>
         )}
