@@ -1087,8 +1087,10 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         titles_val = _v(row, 'ayers3ustitles_titles')
         titles_val = float(titles_val) if titles_val else None
 
-        # 退役判断：优先使用 multi_is_retired（'yes'/'no'，来自200.py Transfermarkt）
-        # 次选 epl250_is_retired（True/False 布尔，来自250.py Pulselive）
+        # 退役判断优先级：
+        # 1. multi_is_retired（'yes'/'no'，来自200.py Transfermarkt）
+        # 2. epl250_is_retired（True/False 布尔，来自250.py Pulselive）
+        # 3. is_retired（'yes'/'no'，来自 player_status_all.csv，当前队伍最全）
         _multi_retired = _v(row, 'multi_is_retired')
         if _multi_retired is not None and str(_multi_retired).strip().lower() not in ('', 'nan'):
             is_retired = str(_multi_retired).strip().lower() == 'yes'
@@ -1097,7 +1099,11 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
             if _epl250_retired is not None and str(_epl250_retired).strip().lower() not in ('', 'nan'):
                 is_retired = str(_epl250_retired).strip().lower() == 'true'
             else:
-                is_retired = False
+                _status_retired = _v(row, 'is_retired')
+                if _status_retired is not None and str(_status_retired).strip().lower() not in ('', 'nan'):
+                    is_retired = str(_status_retired).strip().lower() == 'yes'
+                else:
+                    is_retired = False
         is_active = not is_retired
 
         birth_date = dob_lookup.get(player_id, '')
@@ -1110,7 +1116,11 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         _xlsx_zh = str(_v(row, 'player_name_zh', '') or '').strip()
         name_cn = _xlsx_zh if _xlsx_zh else name
 
-        current_club = str(_v(row, 'current_team', '') or '')
+        # 规范化 current_team（去除 "FC"/"AFC" 等后缀/前缀，匹配 CURRENT_PL_CLUBS_EN）
+        _raw_club = str(_v(row, 'current_team', '') or '').strip()
+        current_club = re.sub(r'\s+FC$', '', _raw_club).strip()
+        current_club = re.sub(r'^AFC\s+', '', current_club).strip()
+
         hof_year = HALL_OF_FAME_MEMBERS.get(name.lower())
         is_hall_of_fame = hof_year is not None
 
