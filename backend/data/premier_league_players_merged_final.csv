@@ -4,7 +4,7 @@
 335,Ryan Giggs,632,Wales,M,1973-11-29,,,,,,Premier League 10 Seasons Awards,108.0,,13.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,632.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,瑞恩·吉格斯
 800,Frank Lampard,609,England,M,1978-06-20,,,,2004,Chelsea,,177.0,,3.0,Chelsea,"2004–05, 2005–06, 2009–10",Chelsea,429.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United;Chelsea;Manchester City,弗兰克·兰帕德
 252,David James,572,England,G,1970-08-01,,,172.0,,,,,,,,,Liverpool,214.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool;Aston Villa;West Ham United;Manchester City;Portsmouth,大卫·詹姆斯
-239,Gary Speed,535,Wales,M,1969-09-08,,,,,,,,,,,,Newcastle United,213.0,no,,0.0,no,,0.0,no,,,no,---,Leeds United;Everton;Newcastle United;Bolton Wanderers,加里·斯皮德
+239,Gary Speed,535,Wales,M,1969-09-08,,,,,,,,,,,,Newcastle United,213.0,no,,0.0,no,,0.0,no,,,yes,,Leeds United;Everton;Newcastle United;Bolton Wanderers,加里·斯皮德
 908,Emile Heskey,516,England,F,1978-01-11,,,,,,,110.0,,,,,,,,,,,,,,,,yes,,Leicester City;Liverpool;Birmingham City;Wigan Athletic;Aston Villa,埃米尔·赫斯基
 1218,Mark Schwarzer,514,Australia,G,1972-10-06,,,153.0,,,,,,,,,Middlesbrough,332.0,no,,0.0,no,,0.0,no,,,yes,,Middlesbrough;Fulham;Chelsea;Leicester City,马克·施瓦泽
 915,Jamie Carragher,508,England,D,1978-01-28,,,,,,,,,,,,Liverpool,508.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,杰米·卡拉格
@@ -77,7 +77,7 @@
 1391,Rory Delap,358,Ireland,M,1976-07-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Derby County;Southampton;Sunderland;Stoke City,罗里·德拉普
 2148,Glen Johnson,358,England,D,1984-08-23,,,,,,,,,,,,,,,,,,,,,,,yes,,West Ham United;Chelsea;Portsmouth;Liverpool;Stoke City,格伦·约翰逊
 4640,Jordan Pickford,356,England,G,1994-03-07,,,98.0,,,,,,,,,Everton,325.0,no,,0.0,no,,0.0,no,,,no,Everton FC,Sunderland;Everton,乔丹·皮克福德
-35,Ugo Ehiogu,355,England,D,1972-11-03,,,,,,,,,,,,Aston Villa,229.0,no,,0.0,no,,0.0,no,,,no,---,Aston Villa;Middlesbrough,乌戈·埃希奥古
+35,Ugo Ehiogu,355,England,D,1972-11-03,,,,,,,,,,,,Aston Villa,229.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa;Middlesbrough,乌戈·埃希奥古
 1887,Leon Osman,352,England,M,1981-05-17,,,,,,,,,,,,Everton,352.0,no,,0.0,no,,0.0,no,,,yes,,Everton,利昂·奥斯曼
 2002,Kolo Touré,352,Cote D’Ivoire,D,1981-03-19,,,,,,,,,,,,Arsenal,225.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Manchester City;Liverpool,科洛·图雷
 11,Nigel Winterburn,352,England,D,1963-12-11,,,,,,,,,,,,Arsenal,270.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;West Ham United;Blackburn Rovers,奈杰尔·温特伯恩
@@ -339,7 +339,7 @@
 19680,Gabriel Jesus,241,Brazil,F,1997-04-03,,,,,,,,,4.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22",,,,,,,,,,,,no,Arsenal FC,Arsenal;Manchester City,加布里埃尔·热苏斯
 8245,Danny Ings,240,England,F,1992-07-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Sheffield United,丹尼·英斯
 79,Stuart Ripley,240,England,M,1967-11-20,,,,,,,,,,,,Blackburn Rovers,187.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,斯图尔特·里普利
-1505,Jlloyd Samuel,240,Trinidad & Tobago,D,1981-03-29,,,,,,,,,,,,,,,,,,,,,,,no,---,Bolton Wanderers,J罗伊德·塞缪尔
+1505,Jlloyd Samuel,240,Trinidad & Tobago,D,1981-03-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Bolton Wanderers,J罗伊德·塞缪尔
 1909,Mark Viduka,240,Australia,F,1975-10-09,,,,,,,92.0,,,,,,,,,,,,,,,,yes,,Leeds United;Middlesbrough;Newcastle United,马克·维杜卡
 3982,Mohamed Diamé,239,Senegal,M,1987-06-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Wigan Athletic;West Ham United;Hull City;Newcastle United,穆罕默德·迪亚梅
 4286,Oriol Romeu,239,Spain,M,1991-09-24,,,,,,,,,,,,Southampton,217.0,no,,0.0,no,,0.0,no,,,no,Southampton FC,Southampton,奥里奥尔·罗梅乌
@@ -433,7 +433,7 @@
 3420,Fernando Torres,212,Spain,F,1984-03-20,,,,,,,85.0,,,,,,,,,,,,,,,,yes,,Liverpool;Chelsea,费尔南多·托雷斯
 1017,Alan Stubbs,212,England,D,1971-10-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Bolton Wanderers;Everton;Sunderland,阿兰·斯塔布斯
 9662,Jacob Murphy,212,England,M,1995-02-24,,,,,,,,,,,,Newcastle United,212.0,yes,,0.0,no,,0.0,no,,,no,Newcastle United,Sheffield Wednesday;Newcastle United,雅各布·墨菲
-509,Chris Bart-Williams,211,England,M,1974-06-16,,,,,,,,,,,,,,,,,,,,,,,no,---,Nottingham Forest;Sheffield Wednesday;Charlton Athletic;Ipswich Town,克里斯·巴特-威廉斯
+509,Chris Bart-Williams,211,England,M,1974-06-16,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest;Sheffield Wednesday;Charlton Athletic;Ipswich Town,克里斯·巴特-威廉斯
 3680,Fabricio Coloccini,211,Argentina,D,1982-01-22,,,,,,,,,,,,Newcastle United,211.0,no,,0.0,no,,0.0,no,,,yes,,Newcastle United,法布里西奥·科洛奇尼
 1866,Eidur Gudjohnsen,211,Iceland,F,1978-09-15,,,,,,,,,,,,Chelsea,186.0,no,,0.0,no,,0.0,no,,,yes,,Chelsea,埃杜尔·古德约翰森
 8589,Will Hughes,211,England,M,1995-04-17,,,,,,,,,,,,,,,,,,,,,,,no,Crystal Palace,Crystal Palace,威尔·休斯

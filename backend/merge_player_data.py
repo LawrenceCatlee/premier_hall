@@ -425,6 +425,10 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
     if "player_status_all" in data_files:
         ps_df = data_files["player_status_all"].copy()
         ps_df["player_id"] = ps_df["player_id"].astype(int)
+        # current_team=--- 视为退役且无当前球队
+        mask = ps_df["current_team"].astype(str).str.strip() == '---'
+        ps_df.loc[mask, "is_retired"] = "yes"
+        ps_df.loc[mask, "current_team"] = ""
         for col in ("current_team", "is_retired"):
             if col in merged_df.columns:
                 merged_df = merged_df.drop(columns=[col])
@@ -1096,15 +1100,17 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         _xlsx_zh = str(_v(row, 'player_name_zh', '') or '').strip()
         name_cn = _xlsx_zh if _xlsx_zh else name
 
-        # 规范化 current_team（去除 "FC"/"AFC" 等后缀/前缀，匹配 CURRENT_PL_CLUBS_EN）
+        # 规范化 current_team（去除 "FC"/"AFC" 等后缀/前缀，匹配 CURRENT_PL_CLUBS_EN；--- 视为空）
         _raw_club = str(_v(row, 'current_team', '') or '').strip()
+        if _raw_club == '---':
+            _raw_club = ''
         current_club = re.sub(r'\s+FC$', '', _raw_club).strip()
         current_club = re.sub(r'^AFC\s+', '', current_club).strip()
 
         hof_year = HALL_OF_FAME_MEMBERS.get(name.lower())
         is_hall_of_fame = hof_year is not None
 
-        # 四类球员状态（互斥，名人堂优先）
+        # 四类球员状态（互斥）：is_retired 优先于 current_team 判断
         if is_hall_of_fame:
             player_status = 'hall_of_fame'
         elif is_retired:
