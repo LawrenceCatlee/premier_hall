@@ -76,14 +76,14 @@ def load_all_data_files(data_dir: str = "data") -> Dict[str, pd.DataFrame]:
     clubs_250_file = data_path / "epl_players_appearances_230plus.csv"
     if clubs_250_file.exists():
         try:
-            df = pd.read_csv(clubs_250_file, usecols=lambda c: c in ("player_id", "clubs", "is_retired"))
-            df = df.rename(columns={"clubs": "profile_clubs", "is_retired": "epl250_is_retired"})
+            df = pd.read_csv(clubs_250_file, usecols=lambda c: c in ("player_id", "clubs"))
+            df = df.rename(columns={"clubs": "profile_clubs"})
             data_files["epl_250_clubs"] = df
             print(f"加载 epl_250_clubs: {len(df)} 行数据")
         except Exception as e:
             print(f"加载 epl_250_clubs 失败: {e}")
 
-    # 加载 scrape_player_status.py 输出的全量退役状态（覆盖 multi_is_retired / current_team）
+    # 加载 scrape_player_status.py 输出的全量退役状态（is_retired / current_team 唯一权威来源）
     status_file = data_path / "player_status_all.csv"
     if status_file.exists():
         try:
@@ -425,7 +425,7 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
     if "player_status_all" in data_files:
         ps_df = data_files["player_status_all"].copy()
         ps_df["player_id"] = ps_df["player_id"].astype(int)
-        for col in ("multi_is_retired", "current_team", "is_retired"):
+        for col in ("current_team", "is_retired"):
             if col in merged_df.columns:
                 merged_df = merged_df.drop(columns=[col])
         merged_df = pd.merge(merged_df, ps_df, on="player_id", how="left")
@@ -473,7 +473,6 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         'multi_team1', 'multi_team1_appearances', 'multi_is_in_team1',
         'multi_team2', 'multi_team2_appearances', 'multi_is_in_team2',
         'multi_team3', 'multi_team3_appearances', 'multi_is_in_team3',
-        'multi_is_retired',
     }
 
     # 移除不需要的列
@@ -485,7 +484,7 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
             continue
         # 保留player_id和核心列（含 profile_clubs/ayerofseasonwinners_Season，防止被 base_col 去重逻辑误删）
         if col in ['player_id', 'player_name', 'appearances', 'profile_clubs',
-                   'ayerofseasonwinners_Season', 'epl250_is_retired', 'xlsx_clubs', 'player_name_zh',
+                   'ayerofseasonwinners_Season', 'xlsx_clubs', 'player_name_zh',
                    'is_retired', 'current_team']:
             columns_to_keep.append(col)
             continue
@@ -532,7 +531,6 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         'multi_team3',
         'multi_team3_appearances',
         'multi_is_in_team3',
-        'multi_is_retired',
         'golden_boot_season',
         'golden_boot_goals',
     ]
@@ -582,9 +580,6 @@ def save_merged_data(merged_df: pd.DataFrame, output_dir: str = "data",
 
     # 内部处理列（不写入任何输出）
     output_exclude = {'multi_all_teams', 'info_club', 'retired', 'profile_clubs'}
-    # player_status_all.csv 存在时，旧状态列已无意义
-    if 'is_retired' in merged_df.columns:
-        output_exclude |= {'multi_is_retired', 'epl250_is_retired'}
 
     # 保存完整 CSV
     csv_cols = [c for c in merged_df.columns if c not in output_exclude]
@@ -1087,23 +1082,8 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         titles_val = _v(row, 'ayers3ustitles_titles')
         titles_val = float(titles_val) if titles_val else None
 
-        # 退役判断优先级：
-        # 1. multi_is_retired（'yes'/'no'，来自200.py Transfermarkt）
-        # 2. epl250_is_retired（True/False 布尔，来自250.py Pulselive）
-        # 3. is_retired（'yes'/'no'，来自 player_status_all.csv，当前队伍最全）
-        _multi_retired = _v(row, 'multi_is_retired')
-        if _multi_retired is not None and str(_multi_retired).strip().lower() not in ('', 'nan'):
-            is_retired = str(_multi_retired).strip().lower() == 'yes'
-        else:
-            _epl250_retired = _v(row, 'epl250_is_retired')
-            if _epl250_retired is not None and str(_epl250_retired).strip().lower() not in ('', 'nan'):
-                is_retired = str(_epl250_retired).strip().lower() == 'true'
-            else:
-                _status_retired = _v(row, 'is_retired')
-                if _status_retired is not None and str(_status_retired).strip().lower() not in ('', 'nan'):
-                    is_retired = str(_status_retired).strip().lower() == 'yes'
-                else:
-                    is_retired = False
+        _status_retired = _v(row, 'is_retired')
+        is_retired = str(_status_retired).strip().lower() == 'yes' if _status_retired is not None and str(_status_retired).strip().lower() not in ('', 'nan') else False
         is_active = not is_retired
 
         birth_date = dob_lookup.get(player_id, '')
