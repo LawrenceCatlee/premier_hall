@@ -125,7 +125,7 @@ export default function HallOfFame() {
     }
 
     if (selectedClub !== 'all') {
-      filtered = filtered.filter(p => p.clubs?.some(c => c.includes(selectedClub)));
+      filtered = filtered.filter(p => p.clubs?.includes(selectedClub));
     }
 
     if (selectedAchievement !== 'all') {
