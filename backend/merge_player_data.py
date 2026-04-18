@@ -937,10 +937,12 @@ def _parse_achievements(row) -> List[Dict[str, str]]:
 def _parse_clubs(row) -> List[str]:
     clubs = []
 
-    # 1. ChatGPT xlsx 历史俱乐部（最高优先级，全角分号分隔，已确认为英超球队）
+    # 1. ChatGPT xlsx 历史俱乐部（最高优先级，支持半角和全角分号分隔）
     xlsx_clubs = _v(row, 'xlsx_clubs', '')
     if xlsx_clubs and str(xlsx_clubs).strip():
-        for raw in str(xlsx_clubs).split('\uff1b'):  # ；全角分号
+        # 统一将全角分号替换为半角，再 split
+        normalized = str(xlsx_clubs).replace('\uff1b', ';')
+        for raw in normalized.split(';'):
             raw = raw.strip()
             if not raw:
                 continue
