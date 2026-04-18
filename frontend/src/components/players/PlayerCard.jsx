@@ -22,7 +22,7 @@ function formatAchievement(type, detail, language) {
         return `英超零封 ${detail} 次`;
       case '三冠王': {
         const [seasonsStr, clubsStr] = (detail || '').split('§');
-        const seasons = (seasonsStr || '').split(',').map(s => s.trim().replace('–', '-')).filter(Boolean);
+        const seasons = (seasonsStr || '').split(',').map(s => s.trim().replace(/[–-]/g, '\u2011')).filter(Boolean);
         const clubParts = (clubsStr || '').trim()
           ? (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean)
           : [];
@@ -71,7 +71,7 @@ function formatAchievement(type, detail, language) {
         return `${detail} PL Clean Sheets`;
       case '三冠王': {
         const [seasonsStr, clubsStr] = (detail || '').split('§');
-        const seasons = (seasonsStr || '').split(',').map(s => s.trim().replace('–', '-')).filter(Boolean);
+        const seasons = (seasonsStr || '').split(',').map(s => s.trim().replace(/[–-]/g, '\u2011')).filter(Boolean);
         const clubParts = (clubsStr || '').trim()
           ? (clubsStr || '').split(',').map(s => s.trim()).filter(Boolean)
           : [];
@@ -196,7 +196,7 @@ export default function PlayerCard({ player, showGap = false }) {
                       <span>{result.header}</span>
                     </li>,
                     ...result.sublines.map((line, j) => (
-                      <li key={`${i}-${j}`} className="text-xs text-slate-300 leading-relaxed pl-4">
+                      <li key={`${i}-${j}`} className="text-xs text-slate-300 leading-relaxed pl-[1.1rem]">
                         {line}
                       </li>
                     )),
