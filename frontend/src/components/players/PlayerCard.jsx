@@ -32,12 +32,13 @@ function formatAchievement(type, detail, language) {
         });
         if (parsed.length === 0) parsed.push({ name: '', count: seasons.length });
         let idx = 0;
-        return parsed.map(({ name, count }) => {
+        const sublines = parsed.map(({ name, count }) => {
           const s = seasons.slice(idx, idx + count);
           idx += count;
           const zhName = name ? (clubEnToZh[name] || name) : '英超冠军';
           return `${zhName}：${s.join('、')}`;
         });
+        return { header: '英超冠军：', sublines };
       }
       case '金靴奖':
         return `英超射手王：${joinDot(detail)}`;
@@ -80,11 +81,12 @@ function formatAchievement(type, detail, language) {
         });
         if (parsed.length === 0) parsed.push({ name: 'PL Champion', count: seasons.length });
         let idx = 0;
-        return parsed.map(({ name, count }) => {
+        const sublines = parsed.map(({ name, count }) => {
           const s = seasons.slice(idx, idx + count);
           idx += count;
           return `${name}: ${s.join(', ')}`;
         });
+        return { header: 'PL Champion:', sublines };
       }
       case '金靴奖': {
         const y = (detail || '').split(',').map(s => s.trim()).filter(Boolean).join(', ');
@@ -187,6 +189,19 @@ export default function PlayerCard({ player, showGap = false }) {
             <ul className="space-y-0.5 flex-1">
               {achievements.flatMap((a, i) => {
                 const result = formatAchievement(a.type, a.detail, language);
+                if (result && typeof result === 'object' && !Array.isArray(result) && result.header) {
+                  return [
+                    <li key={`${i}-h`} className="text-xs text-slate-200 leading-relaxed flex gap-1 items-baseline">
+                      <span className="text-[#FFD700]/50 shrink-0 select-none">·</span>
+                      <span>{result.header}</span>
+                    </li>,
+                    ...result.sublines.map((line, j) => (
+                      <li key={`${i}-${j}`} className="text-xs text-slate-300 leading-relaxed pl-4">
+                        {line}
+                      </li>
+                    )),
+                  ];
+                }
                 const lines = Array.isArray(result) ? result : [result];
                 return lines.map((line, j) => (
                   <li key={`${i}-${j}`} className="text-xs text-slate-200 leading-relaxed flex gap-1 items-baseline">
