@@ -96,6 +96,12 @@ export default function HallOfFame() {
     return Array.from(set).sort();
   }, [allPlayers]);
 
+  // Sorted unique club list from actual data
+  const clubs = useMemo(() => {
+    const set = new Set(allPlayers.flatMap(p => p.clubs || []));
+    return Array.from(set).sort();
+  }, [allPlayers]);
+
   const filteredPlayers = useMemo(() => {
     let filtered = allPlayers;
 
@@ -250,6 +256,7 @@ export default function HallOfFame() {
           onAchievementChange={setSelectedAchievement}
           onStatusChange={setSelectedStatus}
           onPlayerStatusChange={setSelectedPlayerStatus}
+          clubs={clubs}
           onNationalityChange={setSelectedNationality}
           onClear={handleClearFilters}
         />

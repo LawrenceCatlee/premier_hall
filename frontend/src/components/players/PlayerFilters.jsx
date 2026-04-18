@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { X, Filter } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { useLanguage } from '../LanguageContext';
-import { translations, nationalityFlag, nationalityZh } from '../translations';
+import { translations, nationalityFlag, nationalityZh, clubNameMap } from '../translations';
 
 const getAchievementTypes = (t) => [
   { value: 'all', label: t.achievements.all },
@@ -18,19 +18,6 @@ const getAchievementTypes = (t) => [
   { value: '最佳阵容', label: t.achievements.teamOfYear },
 ];
 
-const getClubs = (t) => [
-  { value: 'all', label: t.clubs.all },
-  { value: '曼联', label: t.clubs.manUtd },
-  { value: '阿森纳', label: t.clubs.arsenal },
-  { value: '切尔西', label: t.clubs.chelsea },
-  { value: '利物浦', label: t.clubs.liverpool },
-  { value: '曼城', label: t.clubs.manCity },
-  { value: '热刺', label: t.clubs.tottenham },
-  { value: '埃弗顿', label: t.clubs.everton },
-  { value: '纽卡斯尔', label: t.clubs.newcastle },
-  { value: '阿斯顿维拉', label: t.clubs.astonVilla },
-  { value: '其他', label: t.clubs.other },
-];
 
 export default function PlayerFilters({
   selectedClub,
@@ -39,6 +26,7 @@ export default function PlayerFilters({
   selectedPlayerStatus,
   selectedNationality,
   nationalities = [],
+  clubs = [],
   onClubChange,
   onAchievementChange,
   onStatusChange,
@@ -49,7 +37,13 @@ export default function PlayerFilters({
   const { language } = useLanguage();
   const t = translations[language];
   const ACHIEVEMENT_TYPES = getAchievementTypes(t);
-  const CLUBS = getClubs(t);
+  const CLUB_OPTIONS = [
+    { value: 'all', label: t.allClubs },
+    ...clubs.map(c => ({
+      value: c,
+      label: language === 'zh' ? c : (clubNameMap[c] || c),
+    })),
+  ];
 
   const hasFilters =
     selectedClub !== 'all' ||
@@ -86,7 +80,7 @@ export default function PlayerFilters({
               <SelectValue placeholder={t.club} />
             </SelectTrigger>
             <SelectContent>
-              {CLUBS.map(club => (
+              {CLUB_OPTIONS.map(club => (
                 <SelectItem key={club.value} value={club.value}>{club.label}</SelectItem>
               ))}
             </SelectContent>
@@ -170,7 +164,7 @@ export default function PlayerFilters({
           <span className="text-xs text-slate-400">{t.currentFilters}</span>
           {selectedClub !== 'all' && (
             <Badge variant="secondary" className="bg-white/10 text-slate-200 border-white/20">
-              {CLUBS.find(c => c.value === selectedClub)?.label}
+              {CLUB_OPTIONS.find(c => c.value === selectedClub)?.label}
             </Badge>
           )}
           {selectedAchievement !== 'all' && (
