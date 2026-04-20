@@ -2620,7 +2620,7 @@
       "Everton"
     ],
     "total_appearances": 356,
-    "single_club_appearances": 325.0,
+    "single_club_appearances": 326.0,
     "single_club_name": "Everton",
     "goals": null,
     "clean_sheets": 98,
@@ -2635,7 +2635,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Everton|325"
+        "detail": "Everton|326"
       }
     ]
   },
@@ -3343,7 +3343,7 @@
       "Liverpool"
     ],
     "total_appearances": 333,
-    "single_club_appearances": 266.0,
+    "single_club_appearances": 267.0,
     "single_club_name": "Liverpool",
     "goals": null,
     "clean_sheets": null,
@@ -3358,7 +3358,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Liverpool|266"
+        "detail": "Liverpool|267"
       },
       {
         "type": "年度最佳",
@@ -3504,7 +3504,7 @@
       "Liverpool"
     ],
     "total_appearances": 328,
-    "single_club_appearances": 271.0,
+    "single_club_appearances": 272.0,
     "single_club_name": "Liverpool",
     "goals": null,
     "clean_sheets": null,
@@ -3519,7 +3519,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Liverpool|271"
+        "detail": "Liverpool|272"
       }
     ]
   },
@@ -3835,7 +3835,7 @@
       "Liverpool"
     ],
     "total_appearances": 324,
-    "single_club_appearances": 311.0,
+    "single_club_appearances": 312.0,
     "single_club_name": "Liverpool",
     "goals": 192,
     "clean_sheets": null,
@@ -3850,7 +3850,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Liverpool|311"
+        "detail": "Liverpool|312"
       },
       {
         "type": "百球",
@@ -5357,7 +5357,7 @@
       "Manchester City"
     ],
     "total_appearances": 297,
-    "single_club_appearances": 297.0,
+    "single_club_appearances": 298.0,
     "single_club_name": "Manchester City",
     "goals": null,
     "clean_sheets": null,
@@ -5372,7 +5372,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Manchester City|297"
+        "detail": "Manchester City|298"
       },
       {
         "type": "三冠王",
@@ -5789,7 +5789,7 @@
       "Southampton"
     ],
     "total_appearances": 290,
-    "single_club_appearances": 230.0,
+    "single_club_appearances": 231.0,
     "single_club_name": "Manchester United",
     "goals": null,
     "clean_sheets": null,
@@ -5804,7 +5804,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Manchester United|230"
+        "detail": "Manchester United|231"
       }
     ]
   },
@@ -6576,7 +6576,7 @@
       "Burnley"
     ],
     "total_appearances": 280,
-    "single_club_appearances": 223.0,
+    "single_club_appearances": 224.0,
     "single_club_name": "Everton",
     "goals": null,
     "clean_sheets": null,
@@ -6591,7 +6591,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Everton|223"
+        "detail": "Everton|224"
       }
     ]
   },
@@ -9188,7 +9188,7 @@
       "Everton"
     ],
     "total_appearances": 252,
-    "single_club_appearances": 217.0,
+    "single_club_appearances": 218.0,
     "single_club_name": "Everton",
     "goals": null,
     "clean_sheets": null,
@@ -9203,7 +9203,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Everton|217"
+        "detail": "Everton|218"
       }
     ]
   },
@@ -10073,7 +10073,7 @@
       "Brighton & Hove Albion"
     ],
     "total_appearances": 241,
-    "single_club_appearances": 241.0,
+    "single_club_appearances": 242.0,
     "single_club_name": "Brighton & Hove Albion",
     "goals": null,
     "clean_sheets": null,
@@ -10084,7 +10084,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Brighton & Hove Albion|241"
+        "detail": "Brighton & Hove Albion|242"
       }
     ]
   },
@@ -11087,7 +11087,7 @@
       "Aston Villa"
     ],
     "total_appearances": 228,
-    "single_club_appearances": 228.0,
+    "single_club_appearances": 229.0,
     "single_club_name": "Aston Villa",
     "goals": null,
     "clean_sheets": null,
@@ -11098,7 +11098,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Aston Villa|228"
+        "detail": "Aston Villa|229"
       }
     ]
   },
@@ -11163,7 +11163,7 @@
       "Aston Villa"
     ],
     "total_appearances": 227,
-    "single_club_appearances": 227.0,
+    "single_club_appearances": 228.0,
     "single_club_name": "Aston Villa",
     "goals": null,
     "clean_sheets": null,
@@ -11174,7 +11174,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Aston Villa|227"
+        "detail": "Aston Villa|228"
       }
     ]
   },
@@ -11254,7 +11254,7 @@
       "Manchester United"
     ],
     "total_appearances": 224,
-    "single_club_appearances": 224.0,
+    "single_club_appearances": 225.0,
     "single_club_name": "Manchester United",
     "goals": null,
     "clean_sheets": null,
@@ -11265,7 +11265,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Manchester United|224"
+        "detail": "Manchester United|225"
       }
     ]
   },
@@ -11321,7 +11321,7 @@
       "Aston Villa"
     ],
     "total_appearances": 223,
-    "single_club_appearances": 208.0,
+    "single_club_appearances": 209.0,
     "single_club_name": "Aston Villa",
     "goals": null,
     "clean_sheets": null,
@@ -11332,7 +11332,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Aston Villa|208"
+        "detail": "Aston Villa|209"
       }
     ]
   },
@@ -11728,7 +11728,7 @@
       "Manchester City"
     ],
     "total_appearances": 219,
-    "single_club_appearances": 219.0,
+    "single_club_appearances": 220.0,
     "single_club_name": "Manchester City",
     "goals": null,
     "clean_sheets": null,
@@ -11739,7 +11739,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Manchester City|219"
+        "detail": "Manchester City|220"
       },
       {
         "type": "年度最佳",
@@ -12056,7 +12056,7 @@
       "Aston Villa"
     ],
     "total_appearances": 215,
-    "single_club_appearances": 215.0,
+    "single_club_appearances": 216.0,
     "single_club_name": "Aston Villa",
     "goals": 84,
     "clean_sheets": null,
@@ -12067,7 +12067,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Aston Villa|215"
+        "detail": "Aston Villa|216"
       }
     ]
   },
@@ -12280,7 +12280,7 @@
       "Newcastle United"
     ],
     "total_appearances": 212,
-    "single_club_appearances": 212.0,
+    "single_club_appearances": 213.0,
     "single_club_name": "Newcastle United",
     "goals": null,
     "clean_sheets": null,
@@ -12291,7 +12291,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Newcastle United|212"
+        "detail": "Newcastle United|213"
       }
     ]
   },
@@ -14272,7 +14272,7 @@
       "Manchester City"
     ],
     "total_appearances": 194,
-    "single_club_appearances": 194.0,
+    "single_club_appearances": 195.0,
     "single_club_name": "Manchester City",
     "goals": null,
     "clean_sheets": null,
@@ -14935,7 +14935,7 @@
       "Arsenal"
     ],
     "total_appearances": 187,
-    "single_club_appearances": 187.0,
+    "single_club_appearances": 188.0,
     "single_club_name": "Arsenal",
     "goals": null,
     "clean_sheets": null,
@@ -15016,7 +15016,7 @@
       "Arsenal"
     ],
     "total_appearances": 186,
-    "single_club_appearances": 186.0,
+    "single_club_appearances": 187.0,
     "single_club_name": "Arsenal",
     "goals": null,
     "clean_sheets": null,
