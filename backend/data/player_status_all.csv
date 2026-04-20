@@ -1,4 +1,4 @@
-﻿player_id,is_retired,current_team
+player_id,is_retired,current_team
 1,yes,
 2,yes,
 3,yes,
@@ -31,7 +31,7 @@
 32,yes,
 33,yes,
 34,yes,
-35,yes,
+35,no,---
 36,yes,
 37,yes,
 38,yes,
@@ -214,7 +214,7 @@
 236,yes,
 237,yes,
 238,yes,
-239,yes,
+239,no,---
 240,yes,
 241,yes,
 242,yes,
@@ -410,11 +410,11 @@
 447,yes,
 448,yes,
 450,yes,
-451,yes,
+451,no,---
 452,yes,
 453,yes,
 454,yes,
-455,yes,
+455,no,---
 456,yes,
 458,yes,
 459,yes,
@@ -463,7 +463,7 @@
 506,yes,
 507,yes,
 508,yes,
-509,yes,
+509,no,---
 510,yes,
 511,yes,
 512,yes,
@@ -503,7 +503,7 @@
 548,yes,
 549,yes,
 550,yes,
-551,yes,
+551,no,---
 552,yes,
 553,yes,
 554,yes,
@@ -1312,7 +1312,7 @@
 1502,yes,
 1503,yes,
 1504,yes,
-1505,yes,
+1505,no,---
 1510,yes,
 1511,yes,
 1513,yes,
@@ -1852,7 +1852,7 @@
 2167,yes,
 2168,yes,
 2169,yes,
-2171,yes,
+2171,no,---
 2172,yes,
 2173,yes,
 2175,yes,
@@ -2181,7 +2181,7 @@
 2705,yes,
 2707,yes,
 2709,yes,
-2711,yes,
+2711,no,---
 2714,yes,
 2715,yes,
 2716,yes,
@@ -3582,7 +3582,7 @@
 5721,yes,
 5748,yes,
 5754,yes,
-5758,yes,
+5758,no,Aston Villa
 5762,yes,
 5771,yes,
 5772,yes,
@@ -3662,7 +3662,7 @@
 7486,yes,
 7488,yes,
 7490,yes,
-7500,yes,
+7500,no,---
 7548,no,
 7564,yes,
 7568,yes,
@@ -3758,7 +3758,7 @@
 9154,no,Wycombe Wanderers
 9163,yes,
 9167,no,
-9169,yes,
+9169,no,---
 9198,yes,
 9199,yes,
 9246,no,Al-Ahli SFC
@@ -4253,7 +4253,7 @@
 19771,yes,
 19778,yes,
 19814,yes,
-19831,yes,
+19831,no,Burnley FC
 19851,yes,
 19858,yes,
 19859,yes,
