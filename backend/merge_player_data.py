@@ -1,5 +1,6 @@
 import datetime
 import json
+from pickle import TRUE
 import pandas as pd
 import os
 from pathlib import Path
@@ -76,8 +77,8 @@ def load_all_data_files(data_dir: str = "data") -> Dict[str, pd.DataFrame]:
     clubs_250_file = data_path / "epl_players_appearances_230plus.csv"
     if clubs_250_file.exists():
         try:
-            df = pd.read_csv(clubs_250_file, usecols=lambda c: c in ("player_id", "clubs"))
-            df = df.rename(columns={"clubs": "profile_clubs"})
+            df = pd.read_csv(clubs_250_file, usecols=lambda c: c in ("player_id", "clubs", "total_appearances"))
+            df = df.rename(columns={"clubs": "profile_clubs", "total_appearances": "epl_total_appearances"})
             data_files["epl_250_clubs"] = df
             print(f"加载 epl_250_clubs: {len(df)} 行数据")
         except Exception as e:
@@ -487,7 +488,7 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         if col in columns_to_remove:
             continue
         # 保留player_id和核心列（含 profile_clubs/ayerofseasonwinners_Season，防止被 base_col 去重逻辑误删）
-        if col in ['player_id', 'player_name', 'appearances', 'profile_clubs',
+        if col in ['player_id', 'player_name', 'appearances', 'epl_total_appearances', 'profile_clubs',
                    'ayerofseasonwinners_Season', 'xlsx_clubs', 'player_name_zh',
                    'is_retired', 'current_team']:
             columns_to_keep.append(col)
@@ -537,17 +538,22 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         'multi_is_in_team3',
         'golden_boot_season',
         'golden_boot_goals',
+        'epl_total_appearances'
     ]
 
     existing_check_cols = [col for col in check_cols if col in merged_df.columns]
 
-    if 'appearances' in merged_df.columns and existing_check_cols:
-        appearances_num = pd.to_numeric(merged_df['appearances'], errors='coerce')
+    # 优先使用 epl_total_appearances，其次使用 appearances
+    # appearances_col = 'epl_total_appearances' if 'epl_total_appearances' in merged_df.columns else 'appearances'
+    appearances_col = TRUE
+    
+    if appearances_col and existing_check_cols:
+        # appearances_num = pd.to_numeric(merged_df[appearances_col], errors='coerce')
 
         # 把空字符串、纯空格也视为缺失值
         check_block = merged_df[existing_check_cols].replace(r'^\s*$', pd.NA, regex=True)
 
-        delete_mask = appearances_num.lt(180) & check_block.isna().all(axis=1)
+        delete_mask = check_block.isna().all(axis=1)
 
         print(f"删除前: {len(merged_df)} 行")
         print(f"满足条件待删除: {delete_mask.sum()} 行")
@@ -556,9 +562,10 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
 
         print(f"删除后: {len(merged_df)} 行")
     
-    # 按出场数排序
-    if 'appearances' in merged_df.columns:
-        merged_df = merged_df.sort_values('appearances', ascending=False)
+    # 按出场数排序（优先使用 epl_total_appearances）
+    appearances_col = 'epl_total_appearances' if 'epl_total_appearances' in merged_df.columns else 'appearances'
+    if appearances_col in merged_df.columns:
+        merged_df = merged_df.sort_values(appearances_col, ascending=False)
     
     print(f"最终数据集: {len(merged_df)} 行, {len(merged_df.columns)} 列")
     
@@ -887,7 +894,8 @@ def _parse_achievements(row) -> List[Dict[str, str]]:
             achievements.append({'type': typ, 'detail': detail})
             seen.add(typ)
 
-    apps = float(_v(row, 'appearances', 0) or 0)
+    # 优先使用 epl_total_appearances，其次使用 appearances
+    apps = float(_v(row, 'epl_total_appearances', 0) or _v(row, 'appearances', 0) or 0)
     clean_sheets = float(_v(row, '100cleansheetsgk_Premier League total clean sheets', 0) or 0)
     goals = float(_v(row, '100goalsclub_Premier League total goals', 0) or 0)
     titles = float(_v(row, 'ayers3ustitles_titles', 0) or 0)
@@ -1074,7 +1082,8 @@ def export_players_json(merged_df: pd.DataFrame, output_path: Path, dob_df: Opti
         if not name:
             continue
 
-        total_apps = _v(row, 'appearances')
+        # 优先使用 epl_total_appearances，其次使用 appearances
+        total_apps = _v(row, 'epl_total_appearances') or _v(row, 'appearances')
         total_apps = float(total_apps) if total_apps else None
 
         clean_sheets_val = _v(row, '100cleansheetsgk_Premier League total clean sheets')
@@ -1155,7 +1164,7 @@ def create_frontend_dataset(merged_df: pd.DataFrame) -> pd.DataFrame:
     """
     # 选择前端需要的核心字段
     core_columns = [
-        'player_id', 'player_name', 'appearances'
+        'player_id', 'player_name', 'epl_total_appearances', 'appearances'
     ]
     
     # 确保列存在
@@ -1163,16 +1172,17 @@ def create_frontend_dataset(merged_df: pd.DataFrame) -> pd.DataFrame:
     frontend_df = merged_df[available_columns].copy()
     
     # 添加一些有用的衍生字段
-    if 'appearances' in frontend_df.columns:
+    appearances_col = 'epl_total_appearances' if 'epl_total_appearances' in frontend_df.columns else 'appearances'
+    if appearances_col in frontend_df.columns:
         frontend_df['appearances_category'] = pd.cut(
-            frontend_df['appearances'],
+            frontend_df[appearances_col],
             bins=[0, 200, 300, 400, 500, float('inf')],
             labels=['200-299', '300-399', '400-499', '500-599', '600+'],
             right=False
         )
     
     # 按出场数排序
-    frontend_df = frontend_df.sort_values('appearances', ascending=False)
+    frontend_df = frontend_df.sort_values(appearances_col, ascending=False)
     
     return frontend_df
 
@@ -1229,8 +1239,9 @@ def main():
     # 显示统计信息
     print(f"\n最终数据集统计:")
     print(f"总球员数: {len(merged_df)}")
-    if 'appearances' in merged_df.columns:
-        print(f"出场数范围: {merged_df['appearances'].min()} - {merged_df['appearances'].max()}")
+    appearances_col = 'epl_total_appearances' if 'epl_total_appearances' in merged_df.columns else 'appearances'
+    if appearances_col in merged_df.columns:
+        print(f"出场数范围: {merged_df[appearances_col].min()} - {merged_df[appearances_col].max()}")
     
     print(f"\n数据列: {len(merged_df.columns)}")
     print("主要列名:")

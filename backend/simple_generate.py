@@ -35,6 +35,9 @@ TEAM_XI_AWARD_MAP = {
 def generate_simple_players_json():
     df = pd.read_csv('data/premier_league_players_merged_final.csv')
 
+    # Load appearances data for accurate total_appearances
+    appearances_df = pd.read_csv('data/epl_players_appearances_230plus.csv')
+
     # Load award CSVs
     goals_df = pd.read_csv('data/pl_100_goals_club.csv')
     clean_sheets_df = pd.read_csv('data/pl_100_clean_sheets_gk.csv')
@@ -119,8 +122,17 @@ def generate_simple_players_json():
         if pd.notna(row.get('xlsx_clubs')):
             clubs = [c.strip() for c in str(row['xlsx_clubs']).split(';') if c.strip()]
 
-        # Total appearances
-        app_count = int(row['appearances']) if pd.notna(row.get('appearances')) else 0
+        # Total appearances - 从 epl_players_appearances_230plus.csv 精确匹配
+        player_id = row['player_id']
+        app_match = appearances_df[appearances_df['player_id'] == player_id]
+        if not app_match.empty:
+            app_count = int(app_match.iloc[0]['total_appearances'])
+        elif pd.notna(row.get('epl_total_appearances')):
+            app_count = int(row['epl_total_appearances'])
+        elif pd.notna(row.get('appearances')):
+            app_count = int(row['appearances'])
+        else:
+            app_count = 0
 
         # Single-club appearances (from merged CSV multi columns)
         # Capture 180+ for near-miss display; achievement requires >= 200

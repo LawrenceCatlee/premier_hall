@@ -1,623 +1,462 @@
-﻿player_id,player_name,appearances,nationality,position,birth_date,goldenbootwinners_Season,goldenbootwinners_Goals,goldenglovewinners_Clean sheets,100goalsclub_Premier League total goals,100cleansheetsgk_Premier League total clean sheets,team10y20yawardxi_award,yearofseasonwinners,ayerofseasonwinners_Club,ayers3ustitles_titles,ayers3ustitles_clubs,ayers3ustitles_seasons,multi_team1,multi_team1_appearances,multi_is_in_team1,multi_team2,multi_team2_appearances,multi_is_in_team2,multi_team3,multi_team3_appearances,multi_is_in_team3,golden_boot_season,golden_boot_goals,is_retired,current_team,xlsx_clubs,player_name_zh
-2100,James Milner,657,England,M,1986-01-04,,,,,,,,,3.0,"Manchester City (2), Liverpool (1)","2011–12, 2013–14, 2019–20",Liverpool,230.0,no,,0.0,no,,0.0,no,,,no,Brighton & Hove Albion,Leeds United;Newcastle United;Aston Villa;Manchester City;Liverpool;Brighton & Hove Albion,詹姆斯·米尔纳
-1308,Gareth Barry,653,England,M,1981-02-23,,,,,,,,,,,,Aston Villa,365.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa;Manchester City;Everton;West Bromwich Albion,加雷斯·巴里
-335,Ryan Giggs,632,Wales,M,1973-11-29,,,,108.0,,Premier League 10 Seasons Awards,,,13.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,632.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,瑞恩·吉格斯
-800,Frank Lampard,609,England,M,1978-06-20,,,,177.0,,,2004,Chelsea,3.0,Chelsea,"2004–05, 2005–06, 2009–10",Chelsea,429.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United;Chelsea;Manchester City,弗兰克·兰帕德
-252,David James,572,England,G,1970-08-01,,,,,172.0,,,,,,,Liverpool,214.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool;Aston Villa;West Ham United;Manchester City;Portsmouth,大卫·詹姆斯
-239,Gary Speed,535,Wales,M,1969-09-08,,,,,,,,,,,,Newcastle United,213.0,no,,0.0,no,,0.0,no,,,yes,,Leeds United;Everton;Newcastle United;Bolton Wanderers,加里·斯皮德
-908,Emile Heskey,516,England,F,1978-01-11,,,,110.0,,,,,,,,,,,,,,,,,,,yes,,Leicester City;Liverpool;Birmingham City;Wigan Athletic;Aston Villa,埃米尔·赫斯基
-1218,Mark Schwarzer,514,Australia,G,1972-10-06,,,,,153.0,,,,,,,Middlesbrough,332.0,no,,0.0,no,,0.0,no,,,yes,,Middlesbrough;Fulham;Chelsea;Leicester City,马克·施瓦泽
-915,Jamie Carragher,508,England,D,1978-01-28,,,,,,,,,,,,Liverpool,508.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,杰米·卡拉格
-921,Phil Neville,505,England,M,1977-01-21,,,,,,,,,6.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03",Manchester United,262.0,no,Everton,242.0,no,,0.0,no,,,yes,,Manchester United;Everton,菲尔·内维尔
-1111,Rio Ferdinand,504,England,D,1978-11-07,,,,,,Premier League 20 Seasons Awards,,,6.0,Manchester United,"2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,312.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United;Leeds United;Manchester United;Queens Park Rangers,里奥·费迪南德
-1575,Steven Gerrard,504,England,M,1980-05-30,,,,121.0,,Premier League 20 Seasons Awards,,,,,,Liverpool,504.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,史蒂文·杰拉德
-557,Sol Campbell,503,England,D,1974-09-18,,,,,,,,,,,,Tottenham Hotspur,255.0,no,,0.0,no,,0.0,no,,,yes,,Tottenham Hotspur;Arsenal;Newcastle United,索尔·坎贝尔
-336,Paul Scholes,499,England,M,1974-11-16,,,,107.0,,Premier League 10 Seasons Awards,,,11.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,499.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,保罗·斯科尔斯
-1526,Jermain Defoe,496,England,F,1982-10-07,,,,163.0,,,,,,,,Tottenham Hotspur,276.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United;Tottenham Hotspur;Portsmouth;Sunderland;Bournemouth,杰梅因·迪福
-1353,John Terry,492,England,D,1980-12-07,,,,,,,,,5.0,Chelsea,"2004–05, 2005–06, 2009–10, 2014–15, 2016–17",Chelsea,492.0,no,,0.0,no,,0.0,no,,,yes,,Chelsea;Aston Villa,约翰·特里
-2064,Wayne Rooney,491,England,F,1985-10-24,,,,208.0,,,2009,Manchester United,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,393.0,no,,0.0,no,,0.0,no,,,yes,,Everton;Manchester United,韦恩·鲁尼
-3062,Ashley Young,485,England,D,1985-07-09,,,,,,,,,,,,Aston Villa,210.0,no,,0.0,no,,0.0,no,,,no,Ipswich Town,Aston Villa;Manchester United;Everton,阿什利·扬
-1634,Michael Carrick,481,England,M,1981-07-28,,,,,,,,,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,316.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United;Tottenham Hotspur;Manchester United,迈克尔·卡里克
-2125,Sylvain Distin,469,France,D,1977-12-16,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Manchester City;Portsmouth;Everton,西尔万·迪斯丁
-1629,Peter Crouch,468,England,F,1981-01-30,,,,106.0,,,,,,,,Stoke City,202.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa;Southampton;Liverpool;Portsmouth;Tottenham Hotspur;Stoke City;Burnley,彼得·克劳奇
-3712,Jordan Henderson,460,England,M,1990-06-17,,,,,,,,,,,,Liverpool,360.0,no,,0.0,no,,0.0,no,,,no,Brentford FC,Sunderland;Liverpool,乔丹·亨德森
-1230,Aaron Hughes,455,Northern Ireland,D,1979-11-08,,,,,,,,,,,,Newcastle United,205.0,no,Fulham,196.0,no,,0.0,no,,,yes,,Newcastle United;Aston Villa;Fulham;Queens Park Rangers,阿隆·休斯
-1420,Brad Friedel,450,United States,G,1971-05-18,,,,,132.0,,,,,,,Blackburn Rovers,261.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool;Blackburn Rovers;Aston Villa;Tottenham Hotspur,布拉德·弗里德尔
-851,Shay Given,450,Ireland,G,1976-04-20,,,,,116.0,,,,,,,Newcastle United,354.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers;Newcastle United;Manchester City;Aston Villa;Stoke City,谢伊·吉文
-1717,John O'Shea,445,Ireland,D,1981-04-30,,,,,,,,,5.0,Manchester United,"2002–03, 2006–07, 2007–08, 2008–09, 2010–11",Manchester United,257.0,no,Sunderland,189.0,no,,0.0,no,,,yes,,Manchester United;Sunderland,约翰·奥谢
-1249,Kevin Davies,444,England,F,1977-03-26,,,,87.0,,,,,,,,Bolton Wanderers,316.0,no,,0.0,no,,0.0,no,,,yes,,Southampton;Blackburn Rovers;Bolton Wanderers,凯文·戴维斯
-2651,Petr Cech,443,Czech Republic,G,1982-05-20,,,"16.0, 17.0",,207.0,,,,4.0,Chelsea,"2004–05, 2005–06, 2009–10, 2014–15",Chelsea,333.0,no,,0.0,no,,0.0,no,,,yes,,Chelsea;Arsenal,彼得·切赫
-89,Alan Shearer,441,England,F,1970-08-13,"1994, 1995, 1996","25.0, 31.0, 34.0",,260.0,,Premier League 10 Seasons Awards,1994,Blackburn Rovers,,,,Newcastle United,303.0,no,,0.0,no,,0.0,no,"1994, 1995, 1996","34.0, 31.0, 25.0",yes,,Blackburn Rovers;Newcastle United,阿兰·希勒
-3955,Kyle Walker,440,England,D,1990-05-28,,,,,,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,212.0,no,Tottenham Hotspur,183.0,no,,0.0,no,,,no,Burnley FC,Tottenham Hotspur;Aston Villa;Manchester City,凯尔·沃克
-1342,Jussi Jääskeläinen,436,Finland,G,1975-04-19,,,,,110.0,,,,,,,Bolton Wanderers,379.0,no,,0.0,no,,0.0,no,,,yes,,Bolton Wanderers;West Ham United,尤西·亚斯凯莱宁
-1184,Richard Dunne,431,Ireland,D,1979-09-21,,,,,,,,,,,,Manchester City,253.0,no,,0.0,no,,0.0,no,,,yes,,Everton;Manchester City;Aston Villa;Queens Park Rangers,理查德·邓恩
-153,Gareth Southgate,426,England,D,1970-09-03,,,,,,,,,,,,Aston Villa,191.0,no,,0.0,no,,0.0,no,,,yes,,Crystal Palace;Aston Villa;Middlesbrough,加雷斯·索斯盖特
-3030,Leighton Baines,420,England,D,1984-12-11,,,,,,,,,,,,Everton,348.0,no,,0.0,no,,0.0,no,,,yes,,Wigan Athletic;Everton,莱顿·贝恩斯
-576,Teddy Sheringham,418,England,F,1966-04-02,1992,22.0,,146.0,,,,,3.0,Manchester United,"1998–99, 1999–2000, 2000–01",Tottenham Hotspur,236.0,no,,0.0,no,,0.0,no,1992,22.0,yes,,Tottenham Hotspur;Manchester United;Portsmouth;West Ham United,泰迪·谢林汉姆
-1423,Danny Murphy,417,England,M,1977-03-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Liverpool;Charlton Athletic;Tottenham Hotspur;Fulham;Blackburn Rovers,丹尼·墨菲
-2270,Aaron Lennon,416,England,M,1987-04-16,,,,,,,,,,,,Tottenham Hotspur,266.0,no,,0.0,no,,0.0,no,,,yes,,Leeds United;Tottenham Hotspur;Everton;Burnley,阿隆·列侬
-4617,James Ward-Prowse,416,England,M,1994-11-01,,,,,,,,,,,,Southampton,343.0,no,,0.0,no,,0.0,no,,,no,Burnley FC,Southampton;West Ham United,詹姆斯·沃德-普劳斯
-4330,David de Gea,415,Spain,G,1990-11-07,,,"17.0, 18.0",,148.0,,,,,,,Manchester United,415.0,no,,0.0,no,,0.0,no,,,no,ACF Fiorentina,Manchester United,大卫·德赫亚
-725,Andrew Cole,414,England,F,1971-10-15,1993,34.0,,187.0,,,,,5.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01",,,,,,,,,,1993,34.0,yes,,Newcastle United;Manchester United;Blackburn Rovers;Fulham;Manchester City;Portsmouth;Sunderland,安德鲁·科尔
-3014,Mark Noble,414,England,M,1987-05-08,,,,,,,,,,,,West Ham United,414.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United,马克·诺布尔
-332,Nicky Butt,411,England,M,1975-01-21,,,,,,,,,6.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03",Manchester United,270.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United;Newcastle United,尼基·巴特
-2122,Stewart Downing,408,England,M,1984-07-22,,,,,,,,,,,,Middlesbrough,211.0,no,,0.0,no,,0.0,no,,,yes,,Middlesbrough;Aston Villa;Liverpool;West Ham United,斯图尔特·唐宁
-2040,Kevin Nolan,401,England,M,1982-06-24,,,,,,,,,,,,Bolton Wanderers,261.0,no,,0.0,no,,0.0,no,,,yes,,Bolton Wanderers;Newcastle United;West Ham United,凯文·诺兰
-321,Gary Neville,400,England,D,1975-02-18,,,,,,Premier League 10 Seasons Awards,,,8.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07, 2008–09",Manchester United,399.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,加里·内维尔
-2516,Tim Howard,399,United States,G,1979-03-06,,,,,133.0,,,,,,,Everton,354.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United;Everton,蒂姆·霍华德
-1190,Lee Bowyer,397,England,M,1977-01-03,,,,,,,,,,,,Leeds United,203.0,no,,0.0,no,,0.0,no,,,yes,,Leeds United;West Ham United;Newcastle United;Birmingham City,李·博耶
-2839,Theo Walcott,397,England,F,1989-03-16,,,,,,,,,,,,Arsenal,270.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Everton;Southampton,西奥·沃尔科特
-4316,Raheem Sterling,396,England,F,1994-12-08,,,,123.0,,,,,4.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22",Manchester City,225.0,no,,0.0,no,,0.0,no,,,no,Feyenoord Rotterdam,Liverpool;Manchester City;Chelsea;Arsenal,拉希姆·斯特林
-2620,Gary Cahill,394,England,D,1985-12-19,,,,,,,,,,,,Chelsea,191.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa;Bolton Wanderers;Chelsea;Crystal Palace,加里·卡希尔
-3452,Danny Welbeck,394,England,F,1990-11-26,,,,89.0,,,,,,,,,,,,,,,,,,,no,Brighton & Hove Albion,Manchester United;Arsenal;Watford;Brighton & Hove Albion,丹尼·维尔贝克
-1004,Damien Duff,392,Ireland,M,1979-03-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Blackburn Rovers;Chelsea;Newcastle United;Fulham,达米安·达夫
-2932,Ben Foster,390,England,G,1983-04-03,,,,,94.0,,,,,,,West Bromwich Albion,209.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United;Watford;Birmingham City;West Bromwich Albion,本·福斯特
-3156,Jonny Evans,386,Northern Ireland,D,1988-01-03,,,,,,,,,3.0,Manchester United,"2008–09, 2010–11, 2012–13",,,,,,,,,,,,yes,,Manchester United;West Bromwich Albion;Leicester City,乔尼·埃文斯
-1494,Ashley Cole,385,England,D,1980-12-20,,,,,,Premier League 20 Seasons Awards,,,3.0,"Arsenal (2), Chelsea (1)","2001–02, 2003–04, 2009–10",Chelsea,228.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Chelsea,阿什利·科尔
-1361,George Boateng,384,Netherlands,M,1975-09-05,,,,,,,,,,,,Middlesbrough,181.0,no,,0.0,no,,0.0,no,,,yes,,Coventry City;Aston Villa;Middlesbrough;Hull City,乔治·博阿滕
-277,Robbie Fowler,379,England,F,1975-04-09,,,,163.0,,,,,,,,Liverpool,266.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool;Leeds United;Manchester City;Blackburn Rovers,罗比·福勒
-19,Ray Parlour,379,England,M,1973-03-07,,,,,,,,,3.0,Arsenal,"1997–98, 2001–02, 2003–04",Arsenal,333.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Middlesbrough,雷·帕洛尔
-1632,Joe Cole,378,England,M,1981-11-08,,,,,,,,,3.0,Chelsea,"2004–05, 2005–06, 2009–10",Chelsea,184.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United;Chelsea;Liverpool;Aston Villa,乔·科尔
-1464,Luke Young,378,England,D,1979-07-19,,,,,,,,,,,,Charlton Athletic,187.0,no,,0.0,no,,0.0,no,,,yes,,Tottenham Hotspur;Charlton Athletic;Middlesbrough;Aston Villa,卢克·扬
-776,Stephen Carr,377,Ireland,D,1976-08-29,,,,,,,,,,,,Tottenham Hotspur,226.0,no,,0.0,no,,0.0,no,,,yes,,Tottenham Hotspur;Newcastle United;Birmingham City,斯蒂芬·卡尔
-3309,Lukasz Fabianski,376,Poland,G,1985-04-18,,,,,97.0,,,,,,,West Ham United,195.0,yes,,0.0,no,,0.0,no,,,no,West Ham United,Arsenal;Swansea City;West Ham United,卢卡什·法比安斯基
-3222,Phil Jagielka,376,England,D,1982-08-17,,,,,,,,,,,,Everton,322.0,no,,0.0,no,,0.0,no,,,yes,,Sheffield United;Everton,菲尔·贾吉尔卡
-59,Dwight Yorke,375,,M,1971-11-03,1998,18.0,,123.0,,,1998,Manchester United,3.0,Manchester United,"1998–99, 1999–2000, 2000–01",,,,,,,,,,1998,18.0,yes,,Aston Villa;Manchester United;Blackburn Rovers;Birmingham City;Sunderland,德怀特·约克
-1404,Paul Robinson,374,England,G,1979-10-15,,,,,88.0,,,,,,,,,,,,,,,,,,yes,,Leeds United;Tottenham Hotspur;Blackburn Rovers,保罗·罗宾逊
-3600,Séamus Coleman,372,Ireland,D,1988-10-11,,,,,,,,,,,,Everton,372.0,no,,0.0,no,,0.0,no,,,no,Everton FC,Everton,谢默斯·科尔曼
-146,Nigel Martyn,372,England,G,1966-08-11,,,,,141.0,,,,,,,Leeds United,207.0,no,,0.0,no,,0.0,no,,,yes,,Crystal Palace;Leeds United;Everton,奈杰尔·马丁
-1518,Scott Parker,367,England,M,1980-10-13,,,,,,,,,,,,,,,,,,,,,,,yes,,Charlton Athletic;Chelsea;Newcastle United;West Ham United;Tottenham Hotspur;Fulham,斯科特·帕克
-407,Roy Keane,366,Ireland,M,1971-08-10,,,,,,Premier League 20 Seasons Awards,,,7.0,Manchester United,"1993–94, 1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03",Manchester United,326.0,no,,0.0,no,,0.0,no,,,yes,,Nottingham Forest;Manchester United,罗伊·基恩
-1135,Nicolas Anelka,364,France,F,1979-03-14,2008,19.0,,125.0,,,,,,,,,,,,,,,,,2008,19.0,yes,,Arsenal;Liverpool;Manchester City;Bolton Wanderers;Chelsea;West Bromwich Albion,尼古拉·阿内尔卡
-181,David Unsworth,364,England,D,1973-10-16,,,,,,,,,,,,Everton,302.0,no,,0.0,no,,0.0,no,,,yes,,Everton;West Ham United;Aston Villa;Portsmouth;Wigan Athletic;Sheffield United,大卫·昂斯沃思
-587,Chris Perry,363,England,D,1973-04-26,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Tottenham Hotspur;Charlton Athletic;West Bromwich Albion,克里斯·佩里
-1751,Thomas Sørensen,363,Denmark,G,1976-06-12,,,,,112.0,,,,,,,,,,,,,,,,,,yes,,Sunderland;Aston Villa;Stoke City,托马斯·索伦森
-4664,Hugo Lloris,361,France,G,1986-12-26,,,,,128.0,,,,,,,Tottenham Hotspur,361.0,no,,0.0,no,,0.0,no,,,no,Los Angeles FC,Tottenham Hotspur,雨果·洛里斯
-741,Trevor Sinclair,361,England,M,1973-03-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Queens Park Rangers;West Ham United;Manchester City,特雷弗·辛克莱尔
-1391,Rory Delap,358,Ireland,M,1976-07-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Derby County;Southampton;Sunderland;Stoke City,罗里·德拉普
-2148,Glen Johnson,358,England,D,1984-08-23,,,,,,,,,,,,,,,,,,,,,,,yes,,West Ham United;Chelsea;Portsmouth;Liverpool;Stoke City,格伦·约翰逊
-4640,Jordan Pickford,356,England,G,1994-03-07,,,,,98.0,,,,,,,Everton,326.0,no,,0.0,no,,0.0,no,,,no,Everton FC,Sunderland;Everton,乔丹·皮克福德
-35,Ugo Ehiogu,355,England,D,1972-11-03,,,,,,,,,,,,Aston Villa,229.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa;Middlesbrough,乌戈·埃希奥古
-1887,Leon Osman,352,England,M,1981-05-17,,,,,,,,,,,,Everton,352.0,no,,0.0,no,,0.0,no,,,yes,,Everton,利昂·奥斯曼
-2002,Kolo Touré,352,Cote D’Ivoire,D,1981-03-19,,,,,,,,,,,,Arsenal,225.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Manchester City;Liverpool,科洛·图雷
-11,Nigel Winterburn,352,England,D,1963-12-11,,,,,,,,,,,,Arsenal,270.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;West Ham United;Blackburn Rovers,奈杰尔·温特伯恩
-462,Les Ferdinand,351,England,F,1966-12-08,,,,149.0,,,,,,,,,,,,,,,,,,,yes,,Queens Park Rangers;Newcastle United;Tottenham Hotspur;West Ham United;Leicester City;Bolton Wanderers,莱斯·费迪南德
-720,Steve Watson,351,England,D,1974-04-01,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Aston Villa;Everton;West Bromwich Albion,史蒂夫·沃森
-2417,Cesc Fàbregas,350,Spain,M,1987-05-04,,,,,,,,,,,,Arsenal,212.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Chelsea,塞斯克·法布雷加斯
-4496,César Azpilicueta,349,Spain,D,1989-08-28,,,,,,,,,,,,Chelsea,349.0,no,,0.0,no,,0.0,no,,,no,Sevilla FC,Chelsea,塞萨尔·阿斯皮利奎塔
-1692,Robbie Keane,349,Ireland,F,1980-07-08,,,,126.0,,,,,,,,Tottenham Hotspur,238.0,no,,0.0,no,,0.0,no,,,yes,,Coventry City;Leeds United;Tottenham Hotspur;Liverpool;West Ham United;Aston Villa,罗比·基恩
-1515,Paul Konchesky,347,England,D,1981-05-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Charlton Athletic;West Ham United;Fulham;Liverpool,保罗·孔切斯基
-706,Robbie Savage,346,Wales,M,1974-10-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Leicester City;Birmingham City;Blackburn Rovers;Derby County,罗比·萨维奇
-3206,Shane Long,344,Ireland,F,1987-01-22,,,,,,,,,,,,Southampton,198.0,no,,0.0,no,,0.0,no,,,yes,,Reading;West Bromwich Albion;Hull City;Southampton,谢恩·朗
-1,David Seaman,344,England,G,1963-09-19,,,,,145.0,,,,,,,Arsenal,325.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Manchester City,大卫·希曼
-569,Nick Barmby,342,England,M,1974-02-11,,,,,,,,,,,,,,,,,,,,,,,yes,,Tottenham Hotspur;Middlesbrough;Everton;Liverpool;Leeds United,尼克·巴姆比
-8979,Jamie Vardy,342,England,F,1987-01-11,2019,23.0,,145.0,,,2015,Leicester City,,,,Leicester City,342.0,no,,0.0,no,,0.0,no,2019,23.0,no,US Cremonese,Leicester City,杰米·瓦尔迪
-1943,Darren Fletcher,341,Scotland,M,1984-02-01,,,,,,,,,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,223.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United;West Bromwich Albion;Stoke City,达伦·弗莱彻
-78,Tim Sherwood,341,England,M,1969-02-06,,,,,,,,,,,,Blackburn Rovers,235.0,no,,0.0,no,,0.0,no,,,yes,,Norwich City;Blackburn Rovers;Tottenham Hotspur;Portsmouth;Coventry City,蒂姆·舍伍德
-3143,Joe Hart,340,England,G,1987-04-19,,,"14.0, 17.0, 18.0",,127.0,,,,,,,Manchester City,266.0,no,,0.0,no,,0.0,no,,,yes,,Manchester City;Birmingham City;West Ham United;Burnley,乔·哈特
-2078,Steed Malbranque,336,France,M,1980-01-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Fulham;Tottenham Hotspur;Sunderland,斯蒂德·马尔布兰克
-972,Kenny Cunningham,335,Ireland,D,1971-06-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Birmingham City;Sunderland,肯尼·康宁汉
-8143,James Tarkowski,334,England,D,1992-11-19,,,,,,,,,,,,Burnley,194.0,no,,0.0,no,,0.0,no,,,no,Everton FC,Burnley;Everton,詹姆斯·塔科夫斯基
-4999,Son Heung-Min,333,South Korea,F,1992-07-08,2021,23.0,,127.0,,,,,,,,Tottenham Hotspur,333.0,no,,0.0,no,,0.0,no,2021,23.0,no,Los Angeles FC,Tottenham Hotspur,孙兴慜
-5140,Virgil van Dijk,333,Netherlands,D,1991-07-08,,,,,,,2018,Liverpool,,,,Liverpool,267.0,no,,0.0,no,,0.0,no,,,no,Liverpool FC,Southampton;Liverpool,维吉尔·范迪克
-1371,Hermann Hreidarsson,332,Iceland,D,1974-07-11,,,,,,,,,,,,,,,,,,,,,,,yes,,Crystal Palace;Wimbledon;Ipswich Town;Charlton Athletic;Portsmouth,赫尔曼·赫雷达尔松
-1005,James Beattie,331,England,F,1978-02-27,,,,90.0,,,,,,,,Southampton,202.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers;Southampton;Everton;Stoke City,詹姆斯·比蒂
-528,Jason Dodd,329,England,D,1970-11-02,,,,,,,,,,,,Southampton,329.0,no,,0.0,no,,0.0,no,,,yes,,Southampton,贾森·多德
-315,Denis Irwin,328,Ireland,D,1965-10-31,,,,,,Premier League 10 Seasons Awards,,,7.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97, 1998–99, 1999–2000, 2000–01",Manchester United,296.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,丹尼斯·埃尔文
-10458,Andy Robertson,328,Scotland,D,1994-03-11,,,,,,,,,,,,Liverpool,272.0,no,,0.0,no,,0.0,no,,,no,Liverpool FC,Hull City;Liverpool,安迪·罗伯逊
-4748,Willian,327,Brazil,F,1988-08-09,,,,,,,,,,,,Chelsea,234.0,no,,0.0,no,,0.0,no,,,no,Grêmio Foot-Ball Porto Alegrense,Chelsea;Arsenal;Fulham,威廉
-70,Graeme Le Saux,327,England,D,1968-10-17,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Blackburn Rovers;Southampton,格雷姆·勒索
-1208,Michael Owen,326,England,F,1979-12-14,"1997, 1998",18.0,,150.0,,,1997,Liverpool,,,,Liverpool,216.0,no,,0.0,no,,0.0,no,"1997, 1998","18.0, 18.0",yes,,Liverpool;Newcastle United;Manchester United;Stoke City,迈克尔·欧文
-25,Kevin Campbell,325,England,F,1970-02-04,,,,83.0,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Nottingham Forest;Everton,凯文·坎贝尔
-2413,Gaël Clichy,325,France,D,1985-07-26,,,,,,,,,3.0,"Arsenal (1), Manchester City (2)","2003–04, 2011–12, 2013–14",Arsenal,187.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Manchester City,加埃尔·克里希
-694,Gary Kelly,325,Ireland,D,1974-07-09,,,,,,,,,,,,Leeds United,325.0,no,,0.0,no,,0.0,no,,,yes,,Leeds United,加里·凯利
-1757,Kevin Kilbane,325,Ireland,M,1977-02-01,,,,,,,,,,,,,,,,,,,,,,,yes,,Coventry City;Everton;Sunderland;Wigan Athletic;Hull City,凯文·基尔班
-238,Gary McAllister,325,Scotland,M,1964-12-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Coventry City;Liverpool,加里·麦卡利斯特
-2542,Matthew Taylor,325,England,M,1981-11-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Portsmouth;Bolton Wanderers;West Ham United;Burnley,马修·泰勒
-3285,Antonio Valencia,325,Ecuador,D,1985-08-04,,,,,,,,,,,,Manchester United,241.0,no,,0.0,no,,0.0,no,,,yes,,Wigan Athletic;Manchester United,安东尼奥·瓦伦西亚
-5178,Mohamed Salah,324,Egypt,F,1992-06-15,"2017, 2018, 2021, 2024","22.0, 23.0, 29.0, 32.0",,192.0,,,"2017, 2024",Liverpool,,,,Liverpool,312.0,no,,0.0,no,,0.0,no,"2017, 2018, 2021, 2024","32.0, 22.0, 23.0, 29.0",no,Liverpool FC,Chelsea;Liverpool,穆罕默德·萨拉赫
-14,Martin Keown,323,England,D,1966-07-24,,,,,,,,,3.0,Arsenal,"1997–98, 2001–02, 2003–04",Arsenal,310.0,no,,0.0,no,,0.0,no,,,yes,,Everton;Arsenal;Aston Villa,马丁·基翁
-4224,James McArthur,323,Scotland,M,1987-10-07,,,,,,,,,,,,Crystal Palace,240.0,no,,0.0,no,,0.0,no,,,yes,,Wigan Athletic;Crystal Palace,詹姆斯·麦克阿瑟
-2622,Gabriel Agbonlahor,322,England,F,1986-10-13,,,,,,,,,,,,Aston Villa,322.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa,加布里埃尔·阿邦拉霍
-2053,Robert Huth,322,Germany,D,1984-08-18,,,,,,,,,3.0,"Chelsea (2), Leicester City (1)","2004–05, 2005–06, 2015–16",,,,,,,,,,,,yes,,Chelsea;Middlesbrough;Stoke City;Leicester City,罗伯特·胡特
-2054,William Gallas,321,France,D,1977-08-17,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Arsenal;Tottenham Hotspur,威廉·加拉
-2110,John Arne Riise,321,Norway,D,1980-09-24,,,,,,,,,,,,Liverpool,234.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool;Fulham,约翰·阿尔内·里瑟
-3960,Harry Kane,320,England,F,1993-07-28,"2015, 2016, 2020","23.0, 25.0, 29.0",,213.0,,,,,,,,Tottenham Hotspur,317.0,no,,0.0,no,,0.0,no,"2015, 2016, 2020","25.0, 29.0, 23.0",no,Bayern Munich,Tottenham Hotspur,哈里·凯恩
-566,Darren Anderton,319,England,M,1972-03-03,,,,,,,,,,,,Tottenham Hotspur,297.0,no,,0.0,no,,0.0,no,,,yes,,Tottenham Hotspur;Birmingham City;Portsmouth,达伦·安德顿
-1033,Paul Telfer,319,Scotland,D,1971-10-21,,,,,,,,,,,,Coventry City,191.0,no,,0.0,no,,0.0,no,,,yes,,Coventry City;Southampton,保罗·特尔弗
-125,Peter Atherton,318,England,D,1970-04-06,,,,,,,,,,,,Sheffield Wednesday,214.0,no,,0.0,no,,0.0,no,,,yes,,Coventry City;Sheffield Wednesday;Blackburn Rovers,彼得·阿瑟顿
-1710,Sami Hyypiä,318,Finland,D,1973-10-07,,,,,,,,,,,,Liverpool,318.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,萨米·海皮亚
-4421,Gylfi Sigurdsson,318,Iceland,M,1989-09-08,,,,,,,,,,,,,,,,,,,,,,,no,Víkingur Reykjavík,Swansea City;Tottenham Hotspur;Everton,吉尔菲·西于尔兹松
-4717,Alex Iwobi,317,Nigeria,F,1996-05-03,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Everton;Fulham,亚历克斯·伊沃比
-4408,Ben Davies,316,Wales,D,1993-04-24,,,,,,,,,,,,Tottenham Hotspur,245.0,yes,,0.0,no,,0.0,no,,,no,Tottenham Hotspur,Swansea City;Tottenham Hotspur,本·戴维斯
-3158,Ryan Shawcross,316,England,D,1987-10-04,,,,,,,,,,,,Stoke City,317.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United;Stoke City,瑞恩·肖克罗斯
-991,Dennis Bergkamp,315,Netherlands,F,1969-05-10,,,,87.0,,,,,3.0,Arsenal,"1997–98, 2001–02, 2003–04",Arsenal,315.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal,丹尼斯·博格坎普
-1458,Wayne Bridge,315,England,D,1980-08-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Chelsea;Fulham;Manchester City;Sunderland,韦恩·布里奇
-1934,Shaun Wright-Phillips,315,England,M,1981-10-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester City;Chelsea;Queens Park Rangers,肖恩·赖特-菲利普斯
-2070,Edwin van der Sar,313,Netherlands,G,1970-10-29,,,21.0,,136.0,,,,4.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11",,,,,,,,,,,,yes,,Fulham;Manchester United,埃德温·范德萨
-8897,Aaron Cresswell,312,England,D,1989-12-15,,,,,,,,,,,,West Ham United,312.0,no,,0.0,no,,0.0,no,,,no,Stoke City,West Ham United,阿隆·克雷斯韦尔
-338,Dion Dublin,312,England,F,1969-04-22,1997,18.0,,111.0,,,,,,,,,,,,,,,,,1997,18.0,yes,,Manchester United;Coventry City;Aston Villa;Leicester City,迪翁·都柏林
-544,Ian Walker,312,England,G,1971-10-31,,,,,,,,,,,,Tottenham Hotspur,240.0,no,,0.0,no,,0.0,no,,,yes,,Tottenham Hotspur;Leicester City;Bolton Wanderers,伊恩·沃克
-2529,James Morrison,311,Scotland,M,1986-05-25,,,,,,,,,,,,West Bromwich Albion,244.0,no,,0.0,no,,0.0,no,,,yes,,Middlesbrough;West Bromwich Albion,詹姆斯·莫里森
-3564,Marc Albrighton,310,England,M,1989-11-18,,,,,,,,,,,,Leicester City,224.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa;Leicester City,马克·奥尔布赖顿
-4845,Christian Eriksen,310,Denmark,M,1992-02-14,,,,,,,,,,,,Tottenham Hotspur,226.0,no,,0.0,no,,0.0,no,,,no,VfL Wolfsburg,Tottenham Hotspur;Brentford;Manchester United,克里斯蒂安·埃里克森
-307,Peter Schmeichel,310,Denmark,G,1963-11-18,,,,,129.0,Premier League 10 Seasons Awards,1995,Manchester United,5.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97, 1998–99",Manchester United,252.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United;Aston Villa;Manchester City,彼得·舒梅切尔
-4145,David Silva,309,Spain,M,1986-01-08,,,,,,,,,4.0,Manchester City,"2011–12, 2013–14, 2017–18, 2018–19",Manchester City,309.0,no,,0.0,no,,0.0,no,,,yes,,Manchester City,大卫·席尔瓦
-3929,Joel Ward,309,England,D,1989-10-29,,,,,,,,,,,,Crystal Palace,306.0,no,,0.0,no,,0.0,no,,,no,Swansea City,Portsmouth;Crystal Palace,乔尔·沃德
-1211,Wes Brown,308,England,D,1979-10-13,,,,,,,,,5.0,Manchester United,"1998–99, 2000–01, 2002–03, 2006–07, 2007–08",Manchester United,232.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United;Sunderland,韦斯·布朗
-15202,Declan Rice,308,England,M,1999-01-14,,,,,,,,,,,,West Ham United,204.0,no,,0.0,no,,0.0,no,,,no,Arsenal FC,Arsenal;West Ham United,德克兰·赖斯
-1132,Patrick Vieira,307,France,M,1976-06-23,,,,,,Premier League 10 Seasons Awards,2000,Arsenal,3.0,Arsenal,"1997–98, 2001–02, 2003–04",Arsenal,279.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;Manchester City,帕特里克·维埃拉
-2423,Steven Davis,306,Northern Ireland,M,1985-01-01,,,,,,,,,,,,Southampton,193.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa;Southampton,史蒂文·戴维斯
-326,Paul Ince,306,England,M,1967-10-21,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United;Liverpool;Middlesbrough;Wolverhampton Wanderers,保罗·因斯
-5595,Jordan Ayew,305,Ghana,F,1991-09-11,,,,,,,,,,,,Crystal Palace,195.0,no,,0.0,no,,0.0,no,,,no,Leicester City,Aston Villa;Swansea City;Crystal Palace;Leicester City,乔丹·阿尤
-13,Lee Dixon,305,England,D,1964-03-17,,,,,,,,,,,,Arsenal,305.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal,李·迪克森
-4618,Adam Lallana,305,England,M,1988-05-10,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton,亚当·拉拉纳
-72,Alan Wright,305,England,D,1971-09-28,,,,,,,,,,,,Aston Villa,260.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa,阿兰·赖特
-4539,Wilfried Zaha,305,Cote D’Ivoire,F,1992-11-10,,,,,,,,,,,,Crystal Palace,291.0,no,,0.0,no,,0.0,no,,,no,Charlotte FC,Crystal Palace,威尔弗里德·扎哈
-2889,Jack Cork,304,England,D,1989-06-25,,,,,,,,,,,,,,,,,,,,,,,no,Burnley FC U21,Burnley,杰克·科克
-2517,Phil Bardsley,303,Scotland,D,1985-06-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United;Sunderland;Stoke City;Burnley,菲尔·巴兹利
-1775,Simon Davies,303,Wales,M,1979-10-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Fulham,西蒙·戴维斯
-4198,Craig Dawson,303,England,D,1990-05-06,,,,,,,,,,,,,,,,,,,,,,,no,,West Bromwich Albion;Watford;West Ham United;Wolverhampton Wanderers,克雷格·道森
-1597,Nolberto Solano,302,Peru,M,1974-12-12,,,,,,,,,,,,Newcastle United,230.0,no,,0.0,no,,0.0,no,,,yes,,Newcastle United,诺尔伯托·索拉诺
-3654,Pablo Zabaleta,302,Argentina,D,1985-01-16,,,,,,,,,,,,Manchester City,230.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United;Manchester City,巴勃罗·萨巴莱塔
-300,Garry Flitcroft,301,England,M,1972-11-06,,,,,,,,,,,,Blackburn Rovers,186.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,加里·弗利特克罗夫特
-1042,Gavin McCann,301,England,M,1978-01-10,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Sunderland;Aston Villa;Bolton Wanderers,加文·麦卡恩
-4115,Ross Barkley,299,England,M,1993-12-05,,,,,,,,,,,,,,,,,,,,,,,no,Aston Villa,Aston Villa;Chelsea,罗斯·巴克利
-1962,Shola Ameobi,298,Nigeria,F,1981-10-12,,,,,,,,,,,,Newcastle United,295.0,no,,0.0,no,,0.0,no,,,yes,,Newcastle United,朔拉·阿梅奥比
-339,Mark Hughes,297,Wales,F,1963-11-01,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United;Chelsea;Southampton;Everton;Blackburn Rovers,马克·休斯
-5067,Bernardo Silva,297,Portugal,M,1994-08-10,,,,,,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,298.0,yes,,0.0,no,,0.0,no,,,no,Manchester City,Manchester City,贝尔纳多·席尔瓦
-13565,Marcus Rashford,297,England,F,1997-10-31,,,,89.0,,,,,,,,Manchester United,287.0,no,,0.0,no,,0.0,no,,,no,FC Barcelona,Manchester United,马库斯·拉什福德
-2911,Pepe Reina,297,Spain,G,1982-08-31,,,"18.0, 19.0, 20.0",,136.0,,,,,,,Liverpool,285.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool;Aston Villa,佩佩·雷纳
-2681,Wayne Routledge,297,England,M,1985-01-07,,,,,,,,,,,,Swansea City,198.0,no,,0.0,no,,0.0,no,,,yes,,Swansea City,韦恩·劳特利奇
-1306,Luís Boa Morte,295,Portugal,M,1977-08-04,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Southampton;Fulham;West Ham United,路易斯·博阿莫特
-8163,Lewis Dunk,295,England,D,1991-11-21,,,,,,,,,,,,Brighton & Hove Albion,295.0,yes,,0.0,no,,0.0,no,,,no,Brighton & Hove Albion,Brighton & Hove Albion,路易斯·邓克
-262,Jamie Redknapp,295,England,M,1973-06-25,,,,,,,,,,,,Liverpool,231.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,杰米·雷德克纳普
-4549,Moussa Sissoko,295,France,M,1989-08-16,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Tottenham Hotspur;Watford,穆萨·西索科
-111,Graham Stuart,294,England,M,1970-10-24,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Charlton Athletic,格雷厄姆·斯图尔特
-1869,Craig Bellamy,293,Wales,F,1979-07-13,,,,,,,,,,,,,,,,,,,,,,,yes,,Coventry City;Newcastle United;Blackburn Rovers;Liverpool;West Ham United;Manchester City;Cardiff City,克雷格·贝拉米
-1890,Titus Bramble,292,England,D,1981-07-31,,,,,,,,,,,,,,,,,,,,,,,yes,,Sunderland,泰图斯·布兰布尔
-5861,Cheikhou Kouyaté,291,Senegal,M,1989-12-21,,,,,,,,,,,,,,,,,,,,,,,no,,West Ham United;Crystal Palace;Nottingham Forest,谢库·库亚特
-3724,Andros Townsend,291,England,M,1991-07-16,,,,,,,,,,,,,,,,,,,,,,,no,Kanchanaburi Power FC,Tottenham Hotspur;Queens Park Rangers;Newcastle United;Crystal Palace;Everton;Luton Town,安德罗斯·汤森
-524,Jeff Kenna,290,Ireland,D,1970-08-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Derby County,杰夫·肯纳
-1246,Claus Lundekvam,290,Norway,D,1973-02-22,,,,,,,,,,,,Southampton,290.0,no,,0.0,no,,0.0,no,,,yes,,Southampton,克劳斯·伦德克瓦姆
-4608,Luke Shaw,290,England,D,1995-07-12,,,,,,,,,,,,Manchester United,231.0,yes,,0.0,no,,0.0,no,,,no,Manchester United,Manchester United;Southampton,卢克·肖
-453,Andy Impey,289,England,M,1971-09-30,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest,安迪·因佩
-1598,Louis Saha,289,France,F,1978-08-08,,,,84.0,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Fulham;Manchester United;Everton;Tottenham Hotspur;Sunderland,路易斯·萨哈
-3517,James Tomkins,289,England,D,1989-03-29,,,,,,,,,,,,,,,,,,,,,,,yes,,West Ham United;Crystal Palace,詹姆斯·汤姆金斯
-2058,Carlton Cole,288,England,F,1983-10-12,,,,,,,,,,,,West Ham United,216.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United,卡尔顿·科尔
-4288,Kevin De Bruyne,288,Belgium,M,1991-06-28,,,,,,,"2019, 2021",Manchester City,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,285.0,no,,0.0,no,,0.0,no,,,no,SSC Napoli,Chelsea;Manchester City,凯文·德布劳内
-1772,Matthew Etherington,288,England,M,1981-08-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Stoke City,马修·埃瑟林顿
-1413,Jimmy Floyd Hasselbaink,288,Netherlands,F,1972-03-27,"1998, 2000","18.0, 23.0",,127.0,,,,,,,,,,,,,,,,,"1998, 2000","18.0, 23.0",yes,,Leeds United;Chelsea;Middlesbrough;Charlton Athletic,吉米·弗洛伊德·哈塞尔巴因克
-103,Frank Sinclair,288,Jamaica,D,1971-12-03,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Leicester City,弗兰克·辛克莱尔
-41,Steve Staunton,288,Ireland,D,1969-01-19,,,,,,,,,,,,Aston Villa,244.0,no,,0.0,no,,0.0,no,,,yes,,Coventry City;Aston Villa,史蒂夫·斯汤顿
-1131,Matt Upson,288,England,D,1979-04-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Birmingham City;West Ham United;Stoke City;Leicester City,马特·厄普森
-2574,Joleon Lescott,287,England,D,1982-08-16,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Manchester City;West Bromwich Albion;Aston Villa;Sunderland,乔莱昂·莱斯科特
-2805,Michael Dawson,286,England,D,1983-11-18,,,,,,,,,,,,Tottenham Hotspur,236.0,no,,0.0,no,,0.0,no,,,yes,,Hull City;Tottenham Hotspur,迈克尔·道森
-488,Brian Deane,286,England,F,1968-02-07,,,,,,,,,,,,,,,,,,,,,,,yes,,Sunderland,布赖恩·迪恩
-519,Tim Flowers,286,England,G,1967-02-03,,,,,88.0,,,,,,,,,,,,,,,,,,yes,,Southampton;Blackburn Rovers;Leicester City,蒂姆·弗劳尔斯
-9566,Harry Maguire,286,England,D,1993-03-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United,哈里·马奎尔
-4489,Ashley Westwood,286,England,M,1990-04-01,,,,,,,,,,,,,,,,,,,,,,,no,Charlotte FC,Aston Villa;Burnley,阿什利·韦斯特伍德
-1412,Alan Smith,285,England,M,1980-10-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Leeds United;Manchester United;Newcastle United,阿兰·史密斯
-2704,Mikel Arteta,284,Spain,M,1982-03-26,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Arsenal,米克尔·阿尔特塔
-2075,Zat Knight,284,England,D,1980-05-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Reading,扎特·奈特
-8983,Riyad Mahrez,284,Algeria,F,1991-02-21,,,,82.0,,,,,5.0,"Leicester City (1), Manchester City (4)","2015–16, 2018–19, 2020–21, 2021–22, 2022–23",,,,,,,,,,,,no,Al-Ahli SFC,Leicester City;Manchester City,里亚德·马赫雷斯
-1677,Mario Melchiot,284,Netherlands,D,1976-11-04,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Birmingham City;Wigan Athletic,马里奥·梅尔基奥特
-2508,Kasper Schmeichel,284,Denmark,G,1986-11-05,,,,,83.0,,,,,,,Leicester City,276.0,no,,0.0,no,,0.0,no,,,no,Celtic FC,Leicester City,卡斯帕·舒梅切尔
-1175,Lee Carsley,282,Ireland,M,1974-02-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Derby County;Blackburn Rovers;Coventry City;Everton;Birmingham City,李·卡斯利
-2613,Sebastian Larsson,282,Sweden,M,1985-06-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Birmingham City;Sunderland;Hull City,塞巴斯蒂安·拉尔森
-2755,Charles N'Zogbia,281,France,M,1986-05-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa,查尔斯·恩佐比亚
-4492,Christian Benteke,280,Belgium,F,1990-12-03,,,,86.0,,,,,,,,,,,,,,,,,,,no,Al-Wahda FC,Aston Villa;Liverpool;Crystal Palace,克里斯蒂安·本特克
-2127,Jermaine Jenas,280,England,M,1983-02-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Tottenham Hotspur;Aston Villa;Queens Park Rangers,杰梅因·耶纳斯
-4333,Michael Keane,280,England,D,1993-01-11,,,,,,,,,,,,Everton,224.0,no,,0.0,no,,0.0,no,,,no,Everton FC,Everton;Burnley,迈克尔·基恩
-721,Robert Lee,280,England,M,1966-02-01,,,,,,,,,,,,Newcastle United,267.0,no,,0.0,no,,0.0,no,,,yes,,Newcastle United,罗伯特·李
-23,Paul Merson,280,England,M,1968-03-20,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Middlesbrough;Aston Villa;Portsmouth,保罗·默森
-1664,Andy O'Brien,280,Ireland,D,1979-06-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Leeds United,安迪·奥布赖恩
-8980,Jeffrey Schlupp,280,Ghana,M,1992-12-23,,,,,,,,,,,,Crystal Palace,220.0,no,,0.0,no,,0.0,no,,,no,Norwich City,Norwich City;Crystal Palace,杰弗里·施鲁普
-2616,Robin van Persie,280,Netherlands,F,1983-08-06,"2011, 2012","26.0, 30.0",,144.0,,,,,,,,Arsenal,194.0,no,,0.0,no,,0.0,no,"2011, 2012","30.0, 26.0",yes,,Arsenal;Manchester United,罗宾·范佩西
-2018,Lucas Neill,279,Australia,D,1978-03-09,,,,,,,,,,,,Blackburn Rovers,188.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,卢卡斯·尼尔
-3010,James Collins,278,Wales,D,1983-08-23,,,,,,,,,,,,West Ham United,188.0,no,,0.0,no,,0.0,no,,,yes,,Ipswich Town;West Ham United,詹姆斯·柯林斯
-13823,Abdoulaye Doucouré,278,Mali,M,1993-01-01,,,,,,,,,,,,,,,,,,,,,,,no,NEOM SC,Watford;Everton,阿卜杜拉耶·杜库雷
-2934,Patrice Evra,278,France,D,1981-05-15,,,,,,,,,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,273.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,帕特里斯·埃弗拉
-4290,Romelu Lukaku,278,Belgium,F,1993-05-13,,,,121.0,,,,,,,,,,,,,,,,,,,yes,,Chelsea;West Bromwich Albion;Everton;Manchester United,罗梅卢·卢卡库
-4287,Juan Mata,278,Spain,M,1988-04-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Manchester United,胡安·马塔
-4135,Jonjo Shelvey,278,England,M,1992-02-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Liverpool;Swansea City;Newcastle United;Nottingham Forest,琼乔·谢尔维
-107,Dennis Wise,278,England,M,1966-12-16,,,,,,,,,,,,Chelsea,261.0,no,,0.0,no,,0.0,no,,,yes,,Chelsea,丹尼斯·怀斯
-590,Warren Barton,277,England,D,1969-03-19,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Newcastle United;Derby County,沃伦·巴顿
-3909,Ben Mee,277,England,D,1989-09-21,,,,,,,,,,,,Burnley,217.0,no,,0.0,no,,0.0,no,,,no,Sheffield United,Sheffield United;Burnley,本·米
-2098,Darren Bent,276,England,F,1984-02-06,,,,106.0,,,,,,,,,,,,,,,,,,,yes,,Ipswich Town;Charlton Athletic;Tottenham Hotspur;Sunderland;Aston Villa;Fulham,达伦·本特
-4604,Nathaniel Clyne,276,England,D,1991-04-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Crystal Palace;Liverpool,内森尼尔·克莱因
-259,Dominic Matteo,276,Scotland,D,1974-04-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Liverpool;Leeds United;Blackburn Rovers;Stoke City,多米尼克·马特奥
-3811,Nathan Redmond,276,England,M,1994-03-06,,,,,,,,,,,,Southampton,195.0,no,,0.0,no,,0.0,no,,,no,Blackburn Rovers,Blackburn Rovers;Southampton,内森·雷德蒙德
-12707,Ederson,276,Brazil,G,1993-08-17,,,"16.0, 19.0, 20.0",,127.0,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,276.0,no,,0.0,no,,0.0,no,,,no,Fenerbahce,Manchester City,埃德森
-2299,Glenn Whelan,276,Ireland,M,1984-01-13,,,,,,,,,,,,Stoke City,276.0,no,,0.0,no,,0.0,no,,,yes,,Stoke City,格伦·惠兰
-4328,Sergio Agüero,275,Argentina,F,1988-06-02,2014,26.0,,184.0,,,,,5.0,Manchester City,"2011–12, 2013–14, 2017–18, 2018–19, 2020–21",Manchester City,275.0,no,,0.0,no,,0.0,no,2014,26.0,yes,,Manchester City,塞尔吉奥·阿圭罗
-74,Henning Berg,275,Norway,D,1969-09-01,,,,,,,,,3.0,"Blackburn Rovers (1), Manchester United (2)","1994–95, 1998–99, 1999–2000",Blackburn Rovers,209.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers;Manchester United,亨宁·博格
-271,Steve McManaman,275,England,M,1972-02-11,,,,,,,,,,,,Liverpool,240.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,史蒂夫·麦克马纳曼
-1719,Mikaël Silvestre,275,France,D,1977-08-09,,,,,,,,,4.0,Manchester United,"1999–2000, 2000–01, 2002–03, 2006–07",Manchester United,249.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,米凯尔·西尔维斯特
-4112,Eric Dier,274,England,D,1994-01-15,,,,,,,,,,,,Tottenham Hotspur,274.0,no,,0.0,no,,0.0,no,,,no,AS Monaco,Tottenham Hotspur,埃里克·戴尔
-3360,Branislav Ivanovic,274,Serbia,D,1984-02-22,,,,,,,,,3.0,Chelsea,"2009–10, 2014–15, 2016–17",Chelsea,261.0,no,,0.0,no,,0.0,no,,,yes,,West Bromwich Albion;Chelsea,布拉尼斯拉夫·伊万诺维奇
-1049,Harry Kewell,274,Australia,M,1978-09-22,,,,,,,,,,,,Leeds United,181.0,no,,0.0,no,,0.0,no,,,yes,,Leeds United,哈里·科威尔
-1168,Chris Powell,274,England,D,1969-09-08,,,,,,,,,,,,Charlton Athletic,187.0,no,,0.0,no,,0.0,no,,,yes,,Leicester City;Charlton Athletic,克里斯·鲍威尔
-1502,Kanu,273,Nigeria,F,1976-08-01,,,,,,,,,,,,,,,,,,,,,,,yes,,Portsmouth,卡努
-80,Jason Wilcox,273,England,M,1971-07-15,,,,,,,,,,,,Blackburn Rovers,192.0,no,,0.0,no,,0.0,no,,,yes,,Leicester City;Blackburn Rovers,贾森·威尔考克斯
-3979,James McCarthy,272,Ireland,M,1990-11-12,,,,,,,,,,,,,,,,,,,,,,,yes,,Wigan Athletic;Everton;Crystal Palace,詹姆斯·麦卡锡
-3756,Chris Wood,272,New Zealand,F,1991-12-07,,,,91.0,,,,,,,,,,,,,,,,,,,no,Nottingham Forest,Nottingham Forest,克里斯·伍德
-2949,Lee Cattermole,271,England,M,1988-03-21,,,,,,,,,,,,,,,,,,,,,,,yes,,Sunderland,李·卡特莫尔
-24630,Richarlison,270,Brazil,F,1997-05-10,,,,,,,,,,,,,,,,,,,,,,,yes,,Tottenham Hotspur;Everton,理查利森
-533,Matthew Le Tissier,270,England,M,1968-10-14,,,,101.0,,,,,,,,Southampton,270.0,no,,0.0,no,,0.0,no,,,yes,,Southampton,马修·勒蒂西耶
-4979,Adama Traoré,270,Spain,F,1996-01-25,,,,,,,,,,,,,,,,,,,,,,,no,West Ham United,West Ham United;Fulham,阿达马·特拉奥雷
-2303,Joey Barton,269,England,M,1982-09-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Burnley,乔伊·巴顿
-3744,Chris Brunt,269,Northern Ireland,M,1984-12-14,,,,,,,,,,,,West Bromwich Albion,269.0,no,,0.0,no,,0.0,no,,,yes,,West Bromwich Albion,克里斯·布伦特
-877,Duncan Ferguson,269,Scotland,F,1971-12-27,,,,,,,,,,,,Everton,239.0,no,,0.0,no,,0.0,no,,,yes,,Everton,邓肯·弗格森
-9595,Michail Antonio,268,Jamaica,F,1990-03-28,,,,,,,,,,,,West Ham United,268.0,no,,0.0,no,,0.0,no,,,no,Al-Sailiya SC,West Ham United,米凯尔·安东尼奥
-9576,Dominic Calvert-Lewin,268,England,F,1997-03-16,,,,,,,,,,,,Everton,239.0,no,,0.0,no,,0.0,no,,,no,Leeds United,Leeds United;Everton,多米尼克·卡尔弗特-卢因
-1595,Dietmar Hamann,268,Germany,M,1973-08-27,,,,,,,,,,,,Liverpool,191.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,迪特马尔·哈曼
-1627,Ledley King,268,England,D,1980-10-12,,,,,,,,,,,,Tottenham Hotspur,268.0,no,,0.0,no,,0.0,no,,,yes,,Tottenham Hotspur,勒德利·金
-3311,Bacary Sagna,267,France,D,1983-02-14,,,,,,,,,,,,Arsenal,213.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal,巴卡里·萨尼亚
-243,David Batty,266,England,M,1968-12-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Leeds United;Blackburn Rovers;Newcastle United,大卫·巴蒂
-937,Colin Cooper,266,England,D,1967-02-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest;Middlesbrough,科林·库珀
-2758,Robert Green,266,England,G,1980-01-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea,罗伯特·格林
-331,David Beckham,265,England,M,1975-05-02,,,,,,Premier League 10 Seasons Awards,,,6.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03",Manchester United,265.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,大卫·贝克汉姆
-1881,Tony Hibbert,265,England,D,1981-02-20,,,,,,,,,,,,Everton,265.0,no,,0.0,no,,0.0,no,,,yes,,Everton,托尼·希伯特
-2274,Adam Johnson,265,England,M,1987-07-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Middlesbrough;Manchester City;Sunderland,亚当·约翰逊
-3653,Vincent Kompany,265,Belgium,D,1986-04-10,,,,,,,2011,Manchester City,4.0,Manchester City,"2011–12, 2013–14, 2017–18, 2018–19",Manchester City,265.0,no,,0.0,no,,0.0,no,,,yes,,Manchester City,文森特·孔帕尼
-1982,Kieran Richardson,265,England,D,1984-10-21,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United;West Bromwich Albion;Sunderland;Fulham;Aston Villa,基兰·理查德森
-1309,Darius Vassell,265,England,F,1980-06-13,,,,,,,,,,,,,,,,,,,,,,,yes,,Leicester City,达里乌斯·瓦塞尔
-8454,Callum Wilson,265,England,F,1992-02-27,,,,93.0,,,,,,,,,,,,,,,,,,,no,West Ham United,West Ham United,卡勒姆·威尔逊
-1118,Jason Euell,264,Jamaica,F,1977-02-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Charlton Athletic;Middlesbrough,贾森·尤尔
-4804,Fernandinho,264,Brazil,M,1985-05-04,,,,,,,,,5.0,Manchester City,"2013–14, 2017–18, 2018–19, 2020–21, 2021–22",Manchester City,264.0,no,,0.0,no,,0.0,no,,,yes,,Manchester City,费尔南迪尼奥
-750,Des Walker,264,England,D,1965-11-26,,,,,,,,,,,,Sheffield Wednesday,264.0,no,,0.0,no,,0.0,no,,,yes,,Sheffield Wednesday,德斯·沃克
-6519,Sadio Mané,263,Senegal,F,1992-04-10,2018,22.0,,111.0,,,,,,,,Liverpool,196.0,no,,0.0,no,,0.0,no,2018,22.0,no,Al-Nassr FC,Southampton;Liverpool,萨迪奥·马内
-1768,Kevin Phillips,263,England,F,1973-07-25,1999,30.0,,92.0,,,1999,Sunderland,,,,,,,,,,,,,1999,30.0,yes,,Sunderland;Southampton;Aston Villa;West Bromwich Albion;Birmingham City;Crystal Palace,凯文·菲利普斯
-406,Steve Stone,263,England,M,1971-08-20,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest;Aston Villa;Leicester City;Portsmouth,史蒂夫·斯通
-2886,Ryan Bertrand,262,England,D,1989-08-05,,,,,,,,,,,,Southampton,214.0,no,,0.0,no,,0.0,no,,,yes,,Southampton,瑞恩·伯特兰
-3548,Aaron Ramsey,262,Wales,M,1990-12-26,,,,,,,,,,,,Arsenal,262.0,no,,0.0,no,,0.0,no,,,yes,,Cardiff City;Arsenal,阿隆·拉姆塞
-320,Gary Pallister,261,England,D,1965-06-30,,,,,,,,,4.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97",,,,,,,,,,,,yes,,Manchester United,加里·帕利斯特
-497,Carlton Palmer,261,England,D,1965-12-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Sheffield Wednesday;Leeds United;Coventry City;Southampton,卡尔顿·帕尔默
-3604,Marouane Fellaini,260,Belgium,M,1987-11-22,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United,马鲁万·费莱尼
-2847,Craig Gardner,260,England,M,1986-11-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa;Birmingham City;Sunderland;West Bromwich Albion,克雷格·加德纳
-14732,Trent Alexander-Arnold,259,England,D,1998-10-07,,,,,,,,,,,,Liverpool,259.0,no,,0.0,no,,0.0,no,,,no,Real Madrid,Liverpool,特伦特·亚历山大-阿诺德
-2636,Morten Pedersen,259,Norway,M,1981-09-08,,,,,,,,,,,,Blackburn Rovers,259.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,莫滕·佩德森
-1659,Thierry Henry,258,France,F,1977-08-17,"2001, 2003, 2004, 2005","24.0, 25.0, 27.0, 30.0",,175.0,,Premier League 20 Seasons Awards,"2003, 2005",Arsenal,,,,Arsenal,258.0,no,,0.0,no,,0.0,no,"2001, 2003, 2004, 2005","24.0, 30.0, 25.0, 27.0",yes,,Arsenal,蒂埃里·亨利
-3851,Jay Rodriguez,258,England,F,1989-07-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Burnley;Southampton;West Bromwich Albion,杰伊·罗德里格斯
-2013,Liam Ridgewell,257,England,D,1984-07-21,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa;Birmingham City;West Bromwich Albion,利亚姆·里奇韦尔
-228,David Wetherall,257,England,D,1971-03-14,,,,,,,,,,,,Leeds United,201.0,no,,0.0,no,,0.0,no,,,yes,,Leeds United,大卫·韦瑟雷尔
-13511,Roberto Firmino,256,Brazil,F,1991-10-02,,,,82.0,,,,,,,,Liverpool,256.0,no,,0.0,no,,0.0,no,,,no,Al-Sadd SC,Liverpool,罗伯托·菲尔米诺
-2537,Asmir Begovic,256,Bosnia & Herzegovina,G,1987-06-20,,,,,,,,,,,,,,,,,,,,,,,no,Leicester City,Leicester City,阿斯米尔·贝戈维奇
-3,Tony Adams,255,England,D,1966-10-10,,,,,,Premier League 10 Seasons Awards,,,,,,Arsenal,255.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal,托尼·亚当斯
-4481,Olivier Giroud,255,France,F,1986-09-30,,,,90.0,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Chelsea,奥利维耶·吉鲁
-4030,Laurent Koscielny,255,France,D,1985-09-10,,,,,,,,,,,,Arsenal,255.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal,洛朗·科斯切尔尼
-4505,John Stones,255,England,D,1994-05-28,,,,,,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",,,,,,,,,,,,no,Manchester City,Everton;Manchester City,约翰·斯通斯
-390,Chris Sutton,255,England,F,1973-03-10,1997,18.0,,83.0,,,,,,,,,,,,,,,,,1997,18.0,yes,,Norwich City;Blackburn Rovers;Chelsea;Birmingham City;Aston Villa,克里斯·萨顿
-20559,Alisson Becker,254,Brazil,G,1992-10-02,,,"20.0, 21.0",,106.0,,,,,,,Liverpool,254.0,no,,0.0,no,,0.0,no,,,no,Liverpool FC,Liverpool,阿利松·贝克尔
-2662,Didier Drogba,254,Cote D’Ivoire,F,1978-03-11,"2006, 2009","20.0, 29.0",,104.0,,,,,4.0,Chelsea,"2004–05, 2005–06, 2009–10, 2014–15",Chelsea,254.0,no,,0.0,no,,0.0,no,"2006, 2009","20.0, 29.0",yes,,Chelsea,迪迪埃·德罗巴
-5272,Pierre-Emile Højbjerg,254,Denmark,M,1995-08-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Tottenham Hotspur,皮埃尔-埃米尔·霍伊别尔
-154,Richard Shaw,253,England,D,1968-09-11,,,,,,,,,,,,,,,,,,,,,,,yes,,Crystal Palace;Coventry City,理查德·肖
-3512,Adam Smith,253,England,D,1991-04-29,,,,,,,,,,,,Bournemouth,252.0,no,,0.0,no,,0.0,no,,,no,AFC Bournemouth,Bournemouth,亚当·史密斯
-12136,Granit Xhaka,253,Switzerland,M,1992-09-27,,,,,,,,,,,,Arsenal,225.0,no,,0.0,no,,0.0,no,,,no,Sunderland AFC,Sunderland;Arsenal,格拉尼特·扎卡
-2553,Yakubu,252,Nigeria,F,1982-11-22,,,,95.0,,,,,,,,,,,,,,,,,,,yes,,Coventry City,雅库布
-1429,Jonathan Greening,252,England,M,1979-01-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United;Middlesbrough;West Bromwich Albion;Fulham,乔纳森·格里宁
-12582,Idrissa Gueye,252,Senegal,M,1989-09-26,,,,,,,,,,,,Everton,218.0,no,,0.0,no,,0.0,no,,,no,Everton FC,Everton,伊德里萨·盖耶
-2603,Bobby Zamora,252,England,F,1981-01-16,,,,,,,,,,,,,,,,,,,,,,,yes,,Brighton & Hove Albion,鲍比·扎莫拉
-1337,David Dunn,251,England,M,1979-12-27,,,,,,,,,,,,Blackburn Rovers,204.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,大卫·邓恩
-2041,Ricardo Gardner,251,Jamaica,M,1978-09-25,,,,,,,,,,,,Bolton Wanderers,251.0,no,,0.0,no,,0.0,no,,,yes,,Bolton Wanderers,里卡多·加德纳
-848,Lee Hendrie,251,England,M,1977-05-18,,,,,,,,,,,,Aston Villa,251.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa,李·亨德利
-3861,Nemanja Matic,251,Serbia,M,1988-08-01,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Manchester United,内马尼亚·马蒂奇
-958,Matt Oakley,251,England,M,1977-08-17,,,,,,,,,,,,Southampton,232.0,no,,0.0,no,,0.0,no,,,yes,,Southampton,马特·奥克利
-304,Niall Quinn,250,Ireland,F,1966-10-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Coventry City;Arsenal;Manchester City;Sunderland,尼尔·奎因
-4499,Nathan Aké,249,Netherlands,D,1995-02-18,,,,,,,,,4.0,Manchester City,"2020–21, 2021–22, 2022–23, 2023–24",,,,,,,,,,,,no,Manchester City,Manchester City;Bournemouth,内森·阿克
-5758,Lucas Digne,249,France,D,1993-07-20,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa;Everton,卢卡斯·迪涅
-3102,John Obi Mikel,249,Nigeria,M,1987-04-22,,,,,,,,,,,,Chelsea,249.0,no,,0.0,no,,0.0,no,,,yes,,Stoke City;Chelsea,约翰·奥比·米克尔
-3175,Andy Carroll,248,England,F,1989-01-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Liverpool;West Ham United,安迪·卡罗尔
-670,Muzzy Izzet,248,Turkiye,M,1974-10-31,,,,,,,,,,,,Leicester City,222.0,no,,0.0,no,,0.0,no,,,yes,,Leicester City,穆齐·伊泽特
-3137,Lucas Leiva,247,Brazil,M,1987-01-09,,,,,,,,,,,,Liverpool,247.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,卢卡斯·莱瓦
-583,Neil Sullivan,247,Scotland,G,1970-02-24,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Tottenham Hotspur;Chelsea;Leeds United,尼尔·沙利文
-847,Ian Taylor,247,England,M,1968-06-04,,,,,,,,,,,,Aston Villa,234.0,no,,0.0,no,,0.0,no,,,yes,,Derby County;Aston Villa,伊恩·泰勒
-5175,Kurt Zouma,247,France,D,1994-10-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Stoke City;Everton;West Ham United,库尔特·祖马
-2434,Brett Emerton,246,Australia,M,1979-02-22,,,,,,,,,,,,Blackburn Rovers,247.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,布雷特·埃默顿
-4503,Eden Hazard,245,Belgium,F,1991-01-07,,,,85.0,,,2014,Chelsea,,,,Chelsea,245.0,no,,0.0,no,,0.0,no,,,yes,,Chelsea,埃登·阿扎尔
-2928,Stephen Ireland,245,Ireland,M,1986-08-22,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester City;Aston Villa;Newcastle United;Stoke City,斯蒂芬·爱尔兰
-4985,Bernd Leno,245,Germany,G,1992-03-04,,,,,,,,,,,,,,,,,,,,,,,no,Fulham FC,Fulham;Arsenal,伯恩德·莱诺
-24797,Dwight McNeil,245,England,F,1999-11-22,,,,,,,,,,,,,,,,,,,,,,,no,Everton FC,Everton;Burnley,德怀特·麦克尼尔
-4179,Simon Mignolet,245,Belgium,G,1988-03-06,,,,,81.0,,,,,,,,,,,,,,,,,,no,Club Brugge KV,Sunderland;Liverpool,西蒙·米尼奥莱
-598,Robbie Earle,244,Jamaica,M,1965-01-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon,罗比·厄尔
-1565,Jonathan Woodgate,244,England,D,1980-01-22,,,,,,,,,,,,,,,,,,,,,,,yes,,Middlesbrough,乔纳森·伍德盖特
-523,Francis Benali,243,England,D,1968-12-30,,,,,,,,,,,,Southampton,243.0,no,,0.0,no,,0.0,no,,,yes,,Southampton,弗朗西斯·贝纳利
-4123,Mousa Dembélé,243,Belgium,M,1987-07-16,,,,,,,,,,,,Tottenham Hotspur,181.0,no,,0.0,no,,0.0,no,,,yes,,Tottenham Hotspur,穆萨·登贝莱
-1335,Stéphane Henchoz,243,Switzerland,D,1974-09-07,,,,,,,,,,,,,,,,,,,,,,,yes,,Blackburn Rovers;Liverpool;Wigan Athletic,斯特凡·亨乔兹
-10079,Nick Pope,243,England,G,1992-04-19,,,,,82.0,,,,,,,,,,,,,,,,,,no,Newcastle United,Newcastle United;Burnley,尼克·波普
-245,Noel Whelan,243,England,F,1974-12-30,,,,,,,,,,,,,,,,,,,,,,,yes,,Leeds United;Coventry City;Middlesbrough,诺尔·惠兰
-3448,Tom Cleverley,242,England,M,1989-08-12,,,,,,,,,,,,,,,,,,,,,,,yes,,Watford,汤姆·克莱弗利
-2289,El Hadji Diouf,242,Senegal,M,1981-01-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Leeds United,埃尔哈吉·迪乌夫
-2991,Tom Huddlestone,242,England,M,1986-12-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Hull City,汤姆·赫德尔斯通
-3404,Martin Skrtel,242,Slovakia,D,1984-12-15,,,,,,,,,,,,Liverpool,242.0,no,,0.0,no,,0.0,no,,,no,TJ SPP Velke Bierovce-Opatovce,Liverpool,马丁·斯科特尔
-2845,Emmanuel Adebayor,241,Togo,F,1984-02-26,,,,97.0,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Manchester City;Tottenham Hotspur;Crystal Palace,埃马纽埃尔·阿德巴约
-3807,Scott Dann,241,England,D,1987-02-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Reading,斯科特·丹恩
-19680,Gabriel Jesus,241,Brazil,F,1997-04-03,,,,,,,,,4.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22",,,,,,,,,,,,no,Arsenal FC,Arsenal;Manchester City,加布里埃尔·热苏斯
-22542,Pascal Groß,241,Germany,M,1991-06-15,,,,,,,,,,,,Brighton & Hove Albion,242.0,yes,,0.0,no,,0.0,no,,,no,Brighton & Hove Albion,Brighton & Hove Albion,帕斯卡尔·格罗斯
-1497,Freddie Ljungberg,241,Sweden,M,1977-04-16,,,,,,,2001,Arsenal,,,,Arsenal,216.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;West Ham United,弗雷迪·永贝里
-4403,Ashley Williams,241,Wales,D,1984-08-23,,,,,,,,,,,,Swansea City,181.0,no,,0.0,no,,0.0,no,,,yes,,Swansea City,阿什利·威廉姆斯
-8245,Danny Ings,240,England,F,1992-07-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Sheffield United,丹尼·英斯
-79,Stuart Ripley,240,England,M,1967-11-20,,,,,,,,,,,,Blackburn Rovers,187.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,斯图尔特·里普利
-1505,Jlloyd Samuel,240,Trinidad & Tobago,D,1981-03-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Bolton Wanderers,J罗伊德·塞缪尔
-1909,Mark Viduka,240,Australia,F,1975-10-09,,,,92.0,,,,,,,,,,,,,,,,,,,yes,,Leeds United;Middlesbrough;Newcastle United,马克·维杜卡
-3982,Mohamed Diamé,239,Senegal,M,1987-06-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Wigan Athletic;West Ham United;Hull City;Newcastle United,穆罕默德·迪亚梅
-4286,Oriol Romeu,239,Spain,M,1991-09-24,,,,,,,,,,,,Southampton,217.0,no,,0.0,no,,0.0,no,,,no,Southampton FC,Southampton,奥里奥尔·罗梅乌
-329,Keith Gillespie,238,Northern Ireland,M,1975-02-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United;Newcastle United;Blackburn Rovers;Leicester City;Sheffield United,基思·吉莱斯皮
-3394,Brede Hangeland,238,Norway,D,1981-06-20,,,,,,,,,,,,Fulham,217.0,no,,0.0,no,,0.0,no,,,yes,,Fulham,布雷德·汉格兰
-96,Ian Pearce,238,England,D,1974-05-07,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Blackburn Rovers;West Ham United;Fulham,伊恩·皮尔斯
-5865,Youri Tielemans,238,Belgium,M,1997-05-07,,,,,,,,,,,,,,,,,,,,,,,no,Aston Villa,Aston Villa;Leicester City,尤里·蒂勒曼斯
-1045,Ian Harte,237,Ireland,D,1977-08-31,,,,,,,,,,,,Leeds United,213.0,no,,0.0,no,,0.0,no,,,yes,,Bournemouth;Leeds United,伊恩·哈特
-755,Simon Charlton,236,England,D,1971-10-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Birmingham City;Norwich City,西蒙·查尔顿
-2522,Cristiano Ronaldo,236,Portugal,F,1985-02-05,2007,31.0,,103.0,,Premier League 20 Seasons Awards,"2006, 2007",Manchester United,3.0,Manchester United,"2006–07, 2007–08, 2008–09",Manchester United,236.0,no,,0.0,no,,0.0,no,2007,31.0,no,Al-Nassr FC,Manchester United,克里斯蒂亚诺·罗纳尔多
-2072,Steve Finnan,236,Ireland,D,1976-04-20,,,,,,,,,,,,,,,,,,,,,,,yes,,Portsmouth,史蒂夫·芬南
-1253,Michael Gray,235,England,D,1974-08-03,,,,,,,,,,,,,,,,,,,,,,,yes,,Sheffield Wednesday,迈克尔·格雷
-293,Steve Lomas,235,Northern Ireland,M,1974-01-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester City;West Ham United,史蒂夫·洛马斯
-4252,Alex Oxlade-Chamberlain,235,England,M,1993-08-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Liverpool,亚历克斯·张伯伦
-1217,Ole Gunnar Solskjaer,235,Norway,F,1973-02-26,,,,91.0,,,,,6.0,Manchester United,"1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07",Manchester United,235.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,奥勒·居纳尔·索尔斯克亚
-20486,Leandro Trossard,235,Belgium,F,1994-12-04,,,,,,,,,,,,,,,,,,,,,,,no,Arsenal FC,Arsenal;Brighton & Hove Albion,利安德罗·特罗萨德
-1558,David Weir,235,Scotland,D,1970-05-10,,,,,,,,,,,,Everton,235.0,no,,0.0,no,,0.0,no,,,yes,,Everton,大卫·威尔
-2980,Dean Whitehead,234,England,M,1982-01-12,,,,,,,,,,,,,,,,,,,,,,,yes,,Huddersfield Town,迪恩·怀特黑德
-2024,Tugay,233,Turkiye,M,1970-08-24,,,,,,,,,,,,Blackburn Rovers,233.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,图盖
-2047,Jonathan Walters,233,Ireland,F,1983-09-20,,,,,,,,,,,,Stoke City,226.0,no,,0.0,no,,0.0,no,,,yes,,Burnley;Stoke City,乔纳森·沃尔特斯
-8868,Jarrod Bowen,232,England,F,1996-12-20,,,,,,,,,,,,West Ham United,225.0,yes,,0.0,no,,0.0,no,,,no,West Ham United,West Ham United,贾罗德·鲍文
-2012,Olof Mellberg,232,Sweden,D,1977-09-03,,,,,,,,,,,,Aston Villa,232.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa,奥洛夫·梅尔伯格
-4666,Jan Vertonghen,232,Belgium,D,1987-04-24,,,,,,,,,,,,Tottenham Hotspur,232.0,no,,0.0,no,,0.0,no,,,yes,,Tottenham Hotspur,扬·维尔通亨
-128,Phil Babb,231,Ireland,D,1970-11-30,,,,,,,,,,,,,,,,,,,,,,,yes,,Coventry City;Liverpool;Sunderland,菲尔·巴布
-14716,Harvey Barnes,231,England,M,1997-12-09,,,,,,,,,,,,,,,,,,,,,,,no,Newcastle United,Newcastle United;Leicester City,哈维·巴恩斯
-4487,Matthew Lowton,231,England,D,1989-06-09,,,,,,,,,,,,,,,,,,,,,,,no,Precision FC,Aston Villa;Burnley,马修·洛顿
-448,Darren Peacock,231,England,D,1968-02-03,,,,,,,,,,,,,,,,,,,,,,,yes,,Queens Park Rangers;Newcastle United;Blackburn Rovers,达伦·皮考克
-1495,Jermaine Pennant,231,England,M,1983-01-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Watford;Leeds United;Birmingham City;Portsmouth;Liverpool;Stoke City,杰梅因·彭南特
-8707,Dan Burn,230,England,D,1992-05-09,,,,,,,,,,,,,,,,,,,,,,,no,Newcastle United,Newcastle United;Brighton & Hove Albion,丹·伯恩
-4148,Yaya Touré,230,Cote D’Ivoire,M,1983-05-13,,,,,,,,,3.0,Manchester City,"2011–12, 2013–14, 2017–18",Manchester City,230.0,no,,0.0,no,,0.0,no,,,yes,,Manchester City,亚亚·图雷
-14164,Aaron Wan-Bissaka,230,DR Congo,D,1997-11-26,,,,,,,,,,,,,,,,,,,,,,,yes,,West Ham United,阿隆·万-比萨卡
-3247,Dimitar Berbatov,229,Bulgaria,F,1981-01-30,2010,20.0,,94.0,,,,,,,,,,,,,,,,,2010,20.0,yes,,Tottenham Hotspur;Manchester United;Fulham,迪米塔尔·贝尔巴托夫
-1205,Patrik Berger,229,Czech Republic,M,1973-11-10,,,,,,,,,,,,,,,,,,,,,,,yes,,Liverpool;Portsmouth;Aston Villa,帕特里克·贝尔格
-1096,Mark Pembridge,229,Wales,M,1970-11-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Coventry City;Sheffield Wednesday;Everton;Fulham,马克·佩姆布里奇
-1151,Gianfranco Zola,229,Italy,F,1966-07-05,,,,,,,,,,,,Chelsea,229.0,no,,0.0,no,,0.0,no,,,yes,,Chelsea,詹弗兰科·佐拉
-603,Dean Holdsworth,228,England,F,1968-11-08,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Bolton Wanderers,迪恩·霍尔德斯沃思
-11071,Raúl Jiménez,228,Mexico,F,1991-05-05,,,,,,,,,,,,,,,,,,,,,,,no,Fulham FC,Fulham,劳尔·希门尼斯
-51423,John McGinn,228,Scotland,M,1994-10-18,,,,,,,,,,,,Aston Villa,229.0,yes,,0.0,no,,0.0,no,,,no,Aston Villa,Aston Villa,约翰·麦金
-2239,Joseph Yobo,228,Nigeria,D,1980-09-06,,,,,,,,,,,,Everton,220.0,no,,0.0,no,,0.0,no,,,yes,,Everton,约瑟夫·约博
-13492,N'Golo Kanté,227,France,M,1991-03-29,,,,,,,2016,Chelsea,,,,Chelsea,190.0,no,,0.0,no,,0.0,no,,,no,Fenerbahce,Leicester City;Chelsea,恩戈洛·坎特
-13274,Ezri Konsa,227,England,D,1997-10-23,,,,,,,,,,,,Aston Villa,228.0,yes,,0.0,no,,0.0,no,,,no,Aston Villa,Aston Villa,埃兹里·孔萨
-2705,Tim Cahill,226,Australia,F,1979-12-06,,,,,,,,,,,,Everton,226.0,no,,0.0,no,,0.0,no,,,yes,,Everton,蒂姆·卡希尔
-1740,Kieron Dyer,225,England,M,1978-12-29,,,,,,,,,,,,Newcastle United,190.0,no,,0.0,no,,0.0,no,,,yes,,Queens Park Rangers;Newcastle United,基伦·戴尔
-4821,Erik Pieters,225,Netherlands,D,1988-08-07,,,,,,,,,,,,,,,,,,,,,,,no,,Derby County,埃里克·皮特斯
-23396,Bruno Fernandes,224,Portugal,M,1994-09-08,,,,,,,,,,,,Manchester United,225.0,yes,,0.0,no,,0.0,no,,,no,Manchester United,Manchester United,布鲁诺·费尔南德斯
-401,Scot Gemmill,224,Scotland,M,1971-01-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Leicester City,斯科特·加梅尔
-388,Ruel Fox,223,Montserrat,F,1968-01-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Norwich City;Newcastle United;Tottenham Hotspur,鲁尔·福克斯
-4245,Emiliano Martínez,223,Argentina,G,1992-09-02,,,,,,,,,,,,Aston Villa,209.0,yes,,0.0,no,,0.0,no,,,no,Aston Villa,Aston Villa,埃米利亚诺·马丁内斯
-10487,Ayoze Pérez,223,Spain,F,1993-07-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Leicester City,阿约泽·佩雷斯
-25183,Tomás Soucek,223,Czech Republic,M,1995-02-27,,,,,,,,,,,,West Ham United,223.0,yes,,0.0,no,,0.0,no,,,no,West Ham United,West Ham United,托马什·绍切克
-174,Dave Watson,223,England,D,1961-11-20,,,,,,,,,,,,Everton,223.0,no,,0.0,no,,0.0,no,,,yes,,Everton,戴夫·沃森
-3169,Tim Krul,222,Netherlands,G,1988-04-03,,,,,,,,,,,,,,,,,,,,,,,yes,,Luton Town,蒂姆·克鲁尔
-8456,James Maddison,222,England,M,1996-11-23,,,,,,,,,,,,,,,,,,,,,,,no,Tottenham Hotspur,Tottenham Hotspur,詹姆斯·麦迪逊
-49481,Bukayo Saka,222,England,F,2001-09-05,,,,,,,,,,,,Arsenal,222.0,no,,0.0,no,,0.0,no,,,no,Arsenal FC,Arsenal,布卡约·萨卡
-3905,Kieran Trippier,222,England,D,1990-09-19,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United,基兰·特里皮尔
-2669,Emmerson Boyce,221,Barbados,D,1979-09-24,,,,,,,,,,,,,,,,,,,,,,,yes,,Crystal Palace;Wigan Athletic,埃默森·博伊斯
-5101,Ilkay Gündogan,221,Germany,M,1990-10-24,,,,,,,,,5.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23",Manchester City,221.0,no,,0.0,no,,0.0,no,,,no,Galatasaray,Manchester City,伊尔凯·京多安
-1080,Shaka Hislop,221,,G,1969-02-22,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;West Ham United;Portsmouth,沙卡·希斯洛普
-3029,Paul Scharner,221,Austria,D,1980-03-11,,,,,,,,,,,,,,,,,,,,,,,yes,,Wigan Athletic;West Bromwich Albion,保罗·沙纳
-193,Tony Cottee,220,England,F,1965-07-11,,,,,,,,,,,,,,,,,,,,,,,yes,,West Ham United;Everton;Leicester City,托尼·科蒂
-272,Don Hutchison,220,Scotland,M,1971-05-09,,,,,,,,,,,,,,,,,,,,,,,yes,,Liverpool;West Ham United;Coventry City;Everton;Sunderland,唐·哈奇森
-3983,Victor Moses,220,Nigeria,M,1990-12-12,,,,,,,,,,,,,,,,,,,,,,,yes,,Luton Town,维克托·摩西
-3546,Samir Nasri,220,France,M,1987-06-26,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Manchester City;West Ham United,萨米尔·纳斯里
-20479,Wilfred Ndidi,220,Nigeria,M,1996-12-16,,,,,,,,,,,,Leicester City,220.0,no,,0.0,no,,0.0,no,,,no,Besiktas JK,Leicester City,威尔弗雷德·恩迪迪
-2385,Jason Roberts,220,Grenada,F,1978-01-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Reading,贾森·罗伯茨
-14805,Phil Foden,219,England,M,2000-05-28,,,,,,,2023,Manchester City,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,220.0,yes,,0.0,no,,0.0,no,,,no,Manchester City,Manchester City,菲尔·福登
-179,Andy Hinchcliffe,219,England,D,1969-02-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Sheffield Wednesday,安迪·欣奇克利夫
-3613,Chris Smalling,219,England,D,1989-11-22,,,,,,,,,,,,,,,,,,,,,,,yes,,Fulham;Manchester United,克里斯·斯莫林
-3121,Clint Dempsey,218,United States,F,1983-03-09,,,,,,,,,,,,Fulham,189.0,no,,0.0,no,,0.0,no,,,yes,,Fulham,克林特·登普西
-2393,Anton Ferdinand,218,England,D,1985-02-18,,,,,,,,,,,,,,,,,,,,,,,yes,,West Ham United;Sunderland;Queens Park Rangers,安东·费迪南德
-75,Colin Hendry,218,Scotland,D,1965-12-07,,,,,,,,,,,,Blackburn Rovers,203.0,no,,0.0,no,,0.0,no,,,yes,,Blackburn Rovers,科林·亨德里
-929,Danny Mills,218,England,D,1977-05-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Charlton Athletic;Leeds United;Middlesbrough;Manchester City;Derby County,丹尼·米尔斯
-3154,Daniel Sturridge,218,England,F,1989-09-01,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester City;Chelsea;Bolton Wanderers;Liverpool;West Bromwich Albion,丹尼尔·斯图里奇
-7114,Georginio Wijnaldum,217,Netherlands,M,1990-11-11,,,,,,,,,,,,,,,,,,,,,,,no,Al-Ettifaq FC,Newcastle United;Liverpool,乔尔吉尼奥·维纳尔杜姆
-167,Chris Armstrong,216,England,F,1971-06-19,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Crystal Palace;Tottenham Hotspur;Bolton Wanderers,克里斯·阿姆斯特朗
-768,John Moncur,216,England,M,1966-09-22,,,,,,,,,,,,,,,,,,,,,,,yes,,Tottenham Hotspur;Nottingham Forest;Swindon Town;West Ham United,约翰·蒙克尔
-1382,Marcus Bent,215,England,F,1978-05-19,,,,,,,,,,,,,,,,,,,,,,,yes,,Crystal Palace;Blackburn Rovers;Ipswich Town;Leicester City;Everton;Charlton Athletic;Wigan Athletic,马库斯·本特
-954,Dan Petrescu,215,Romania,D,1967-12-22,,,,,,,,,,,,,,,,,,,,,,,yes,,Sheffield Wednesday;Chelsea;Bradford City;Southampton,丹·佩特雷斯库
-112,Andy Townsend,215,Ireland,M,1963-07-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Aston Villa;Middlesbrough,安迪·汤森
-8658,Ollie Watkins,215,England,F,1995-12-30,,,,84.0,,,,,,,,Aston Villa,216.0,yes,,0.0,no,,0.0,no,,,no,Aston Villa,Aston Villa,奥利·沃特金斯
-3562,Ciaran Clark,214,Ireland,D,1989-09-26,,,,,,,,,,,,,,,,,,,,,,,yes,,Stoke City,奇兰·克拉克
-3524,Maynor Figueroa,214,Honduras,D,1983-05-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Wigan Athletic;Hull City,迈诺尔·菲格罗亚
-757,Jim Magilton,214,Northern Ireland,M,1969-05-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Sheffield Wednesday;Ipswich Town,吉姆·马吉尔顿
-2550,Gary O'Neil,214,England,M,1983-05-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Bolton Wanderers,加里·奥尼尔
-3388,Steven Pienaar,214,South Africa,M,1982-03-17,,,,,,,,,,,,Everton,189.0,no,,0.0,no,,0.0,no,,,yes,,Sunderland;Everton,史蒂文·皮纳尔
-4100,David Luiz,213,Brazil,D,1987-04-22,,,,,,,,,,,,,,,,,,,,,,,no,Pafos FC,Chelsea;Arsenal,大卫·路易斯
-3157,Danny Simpson,213,England,D,1987-01-04,,,,,,,,,,,,,,,,,,,,,,,no,FC Stretford Paddock,Manchester United;Blackburn Rovers;Newcastle United;Queens Park Rangers;Leicester City,丹尼·辛普森
-3362,Patrick van Aanholt,213,Netherlands,D,1990-08-29,,,,,,,,,,,,,,,,,,,,,,,no,Sparta Rotterdam,Chelsea;Wigan Athletic;Sunderland;Crystal Palace,帕特里克·范安霍尔特
-29,Ian Wright,213,England,F,1963-11-03,,,,113.0,,,,,,,,Arsenal,191.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal;West Ham United,伊恩·赖特
-9662,Jacob Murphy,212,England,M,1995-02-24,,,,,,,,,,,,Newcastle United,213.0,yes,,0.0,no,,0.0,no,,,no,Newcastle United,Sheffield Wednesday;Newcastle United,雅各布·墨菲
-1017,Alan Stubbs,212,England,D,1971-10-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Bolton Wanderers;Everton;Sunderland,阿兰·斯塔布斯
-3420,Fernando Torres,212,Spain,F,1984-03-20,,,,85.0,,,,,,,,,,,,,,,,,,,yes,,Liverpool;Chelsea,费尔南多·托雷斯
-2279,Stephen Warnock,212,England,D,1981-12-12,,,,,,,,,,,,,,,,,,,,,,,yes,,Bradford City,斯蒂芬·沃诺克
-509,Chris Bart-Williams,211,England,M,1974-06-16,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest;Sheffield Wednesday;Charlton Athletic;Ipswich Town,克里斯·巴特-威廉斯
-3680,Fabricio Coloccini,211,Argentina,D,1982-01-22,,,,,,,,,,,,Newcastle United,211.0,no,,0.0,no,,0.0,no,,,yes,,Newcastle United,法布里西奥·科洛奇尼
-1866,Eidur Gudjohnsen,211,Iceland,F,1978-09-15,,,,,,,,,,,,Chelsea,186.0,no,,0.0,no,,0.0,no,,,yes,,Chelsea,埃杜尔·古德约翰森
-8589,Will Hughes,211,England,M,1995-04-17,,,,,,,,,,,,,,,,,,,,,,,no,Crystal Palace,Crystal Palace,威尔·休斯
-2530,Cameron Jerome,211,England,F,1986-08-14,,,,,,,,,,,,,,,,,,,,,,,no,FC Newsome,Bolton Wanderers,卡梅伦·杰罗姆
-1455,Paul Jones,211,Wales,G,1967-04-18,,,,,,,,,,,,Southampton,191.0,no,,0.0,no,,0.0,no,,,yes,,Southampton,保罗·琼斯
-5220,Fabian Schär,211,Switzerland,D,1991-12-20,,,,,,,,,,,,Newcastle United,211.0,yes,,0.0,no,,0.0,no,,,no,Newcastle United,Newcastle United,法比安·舍尔
-2935,Nemanja Vidic,211,Serbia,D,1981-10-21,,,,,,Premier League 20 Seasons Awards,"2008, 2010",Manchester United,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,211.0,no,,0.0,no,,0.0,no,,,yes,,Manchester United,内马尼亚·维迪奇
-20607,Joelinton,210,Brazil,M,1996-08-14,,,,,,,,,,,,Newcastle United,210.0,yes,,0.0,no,,0.0,no,,,no,Newcastle United,Newcastle United,乔林顿
-4260,Jack Grealish,210,England,M,1995-09-10,,,,,,,,,3.0,Manchester City,"2021–22, 2022–23, 2023–24",,,,,,,,,,,,yes,,Everton;Manchester City,杰克·格雷利什
-1426,Danny Higginbotham,209,Gibraltar,D,1978-12-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United;Derby County;Southampton;Sunderland;Stoke City,丹尼·希金博瑟姆
-11272,Anthony Martial,209,France,F,1995-12-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United,安东尼·马夏尔
-1282,Ben Thatcher,209,Wales,D,1975-11-30,,,,,,,,,,,,,,,,,,,,,,,yes,,Ipswich Town,本·撒切尔
-3135,Dirk Kuijt,208,Netherlands,M,1980-07-22,,,,,,,,,,,,Liverpool,208.0,no,,0.0,no,,0.0,no,,,yes,,Liverpool,迪尔克·库伊特
-172,Neville Southall,208,Wales,G,1958-09-16,,,,,,,,,,,,Everton,207.0,no,,0.0,no,,0.0,no,,,yes,,Everton,内维尔·索萨尔
-4081,Charlie Adam,207,Scotland,M,1985-12-10,,,,,,,,,,,,,,,,,,,,,,,yes,,Reading,查理·亚当
-5066,Victor Lindelöf,207,Sweden,D,1994-07-17,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa,维克托·林德洛夫
-495,Kevin Pressman,207,England,G,1967-11-06,,,,,,,,,,,,Sheffield Wednesday,207.0,no,,0.0,no,,0.0,no,,,yes,,Coventry City;Sheffield Wednesday,凯文·普雷斯曼
-43,Kevin Richardson,207,England,M,1962-12-04,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa;Coventry City;Southampton,凯文·理查森
-1780,Paul Robinson,207,England,D,1978-12-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Birmingham City,保罗·罗宾逊
-8246,Ashley Barnes,206,England,F,1989-10-30,,,,,,,,,,,,Burnley,206.0,no,,0.0,no,,0.0,no,,,no,Burnley FC,Burnley,阿什利·巴恩斯
-32,Mark Bosnich,206,Australia,G,1972-01-13,,,,,81.0,,,,,,,Aston Villa,180.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa,马克·博斯尼奇
-4000,Matthew Jarvis,205,England,M,1986-05-22,,,,,,,,,,,,,,,,,,,,,,,yes,,Wolverhampton Wanderers;West Ham United;Norwich City,马修·贾维斯
-12520,Mateo Kovacic,205,Croatia,M,1994-05-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester City,马特奥·科瓦契奇
-3015,Nigel Reo-Coker,205,England,M,1984-05-14,,,,,,,,,,,,,,,,,,,,,,,yes,,West Ham United;Aston Villa;Bolton Wanderers;Norwich City,奈杰尔·里奥-科克
-2905,Victor Anichebe,204,Nigeria,F,1988-04-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Sunderland,维克托·阿尼切比
-394,Mark Crossley,204,Wales,G,1969-06-16,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest;Middlesbrough;Fulham,马克·克罗斯利
-3799,Fabian Delph,204,England,M,1989-11-21,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa;Manchester City;Everton,法比安·德尔夫
-809,Marcus Gayle,204,Jamaica,F,1970-09-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Watford,马库斯·盖尔
-3820,Phil Jones,204,England,D,1992-02-21,,,,,,,,,,,,,,,,,,,,,,,yes,,Blackburn Rovers;Manchester United,菲尔·琼斯
-3926,Joshua King,204,Norway,F,1992-01-15,,,,,,,,,,,,,,,,,,,,,,,no,Al-Khaleej FC,Manchester United;AFC Bournemouth;Everton;Watford,约书亚·金
-785,Steve Potts,204,England,D,1967-05-07,,,,,,,,,,,,West Ham United,202.0,no,,0.0,no,,0.0,no,,,yes,,West Ham United,史蒂夫·波茨
-4084,Jason Puncheon,204,England,M,1986-06-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Huddersfield Town,贾森·潘尚
-4437,Gareth McAuley,203,Northern Ireland,D,1979-12-05,,,,,,,,,,,,West Bromwich Albion,203.0,no,,0.0,no,,0.0,no,,,yes,,West Bromwich Albion,加雷斯·麦考利
-363,Robbie Mustoe,203,England,M,1968-08-28,,,,,,,,,,,,Middlesbrough,197.0,no,,0.0,no,,0.0,no,,,yes,,Middlesbrough,罗比·马斯托
-2925,Micah Richards,203,England,D,1988-06-24,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa,米卡·理查兹
-1030,Paul Williams,203,England,D,1971-03-26,,,,,,,,,,,,,,,,,,,,,,,yes,,Stoke City,保罗·威廉斯
-2080,Sean Davis,202,England,M,1979-09-20,,,,,,,,,,,,,,,,,,,,,,,yes,,Bolton Wanderers,肖恩·戴维斯
-1898,Matt Holland,202,Ireland,M,1974-04-11,,,,,,,,,,,,,,,,,,,,,,,yes,,Ipswich Town;Charlton Athletic,马特·霍兰德
-395,Stuart Pearce,202,England,D,1962-04-24,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest;Newcastle United;West Ham United;Manchester City,斯图亚特·皮尔斯
-3507,Danny Rose,202,England,D,1990-07-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Watford,丹尼·罗斯
-269,John Barnes,201,England,M,1963-11-07,,,,,,,,,,,,,,,,,,,,,,,yes,,Watford;Liverpool;Newcastle United;Charlton Athletic,约翰·巴恩斯
-1082,Darren Huckerby,201,England,F,1976-04-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Coventry City;Leeds United;Manchester City;Norwich City,达伦·哈克比
-1193,Kasey Keller,201,United States,G,1969-11-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Leicester City;Tottenham Hotspur;Southampton;Fulham,凯西·凯勒
-5514,Angelo Ogbonna,201,Italy,D,1988-05-23,,,,,,,,,,,,West Ham United,201.0,no,,0.0,no,,0.0,no,,,no,,Watford;West Ham United,安杰洛·奥邦纳
-3734,Jonas Olsson,201,Sweden,D,1983-03-10,,,,,,,,,,,,West Bromwich Albion,201.0,no,,0.0,no,,0.0,no,,,yes,,Wigan Athletic;West Bromwich Albion,乔纳斯·奥尔松
-2120,Franck Queudrue,201,France,D,1978-08-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Middlesbrough;Fulham;Birmingham City,弗兰克·奎德鲁
-3281,Carlos Tevez,201,Argentina,F,1984-02-05,2010,20.0,,84.0,,,,,3.0,"Manchester United (2), Manchester City (1)","2007–08, 2008–09, 2011–12",,,,,,,,,,2010,20.0,yes,,West Ham United;Manchester United;Manchester City,卡洛斯·特维斯
-4916,Toby Alderweireld,200,Belgium,D,1989-03-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Tottenham Hotspur,托比·阿尔德韦雷尔德
-7946,Demarai Gray,200,Jamaica,F,1996-06-28,,,,,,,,,,,,,,,,,,,,,,,no,Birmingham City,Birmingham City,德马雷·格雷
-24334,Tyrick Mitchell,200,England,D,1999-09-01,,,,,,,,,,,,Crystal Palace,200.0,yes,,0.0,no,,0.0,no,,,no,Crystal Palace,Crystal Palace,泰里克·米切尔
-4615,Morgan Schneiderlin,200,France,M,1989-11-08,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Manchester United;Everton,摩根·施奈德林
-2007,Steve Sidwell,200,England,M,1982-12-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Brighton & Hove Albion,史蒂夫·西德维尔
-4413,Joe Allen,199,Wales,M,1990-03-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Swansea City,乔·阿伦
-50245,Yves Bissouma,199,Mali,M,1996-08-30,,,,,,,,,,,,,,,,,,,,,,,no,Tottenham Hotspur,Tottenham Hotspur,伊夫·比苏马
-1196,Matt Elliott,199,Scotland,D,1968-11-01,,,,,,,,,,,,Leicester City,199.0,no,,0.0,no,,0.0,no,,,yes,,Leicester City,马特·埃利奥特
-5672,Federico Fernández,199,Argentina,D,1989-02-21,,,,,,,,,,,,,,,,,,,,,,,yes,,Swansea City;Newcastle United,费德里科·费尔南德斯
-4136,Conor Coady,198,England,D,1993-02-25,,,,,,,,,,,,,,,,,,,,,,,no,Charlton Athletic,Charlton Athletic,康纳·科迪
-87,Kevin Gallacher,198,Scotland,F,1966-11-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Coventry City;Blackburn Rovers;Newcastle United,凯文·加拉赫
-522,Kenneth Monkou,198,Netherlands,D,1964-11-29,,,,,,,,,,,,Southampton,198.0,no,,0.0,no,,0.0,no,,,yes,,Southampton,肯尼思·蒙库
-1835,Robert Pirès,198,France,M,1973-10-29,,,,,,,,,,,,Arsenal,189.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal,罗伯特·皮雷
-4183,Ahmed El Mohamady,197,Egypt,D,1987-09-09,,,,,,,,,,,,,,,,,,,,,,,yes,,Sunderland;Hull City;Aston Villa,艾哈迈德·埃尔·穆罕默迪
-3508,Younes Kaboul,197,France,D,1986-01-04,,,,,,,,,,,,,,,,,,,,,,,yes,,Watford,尤尼斯·卡布尔
-63633,Alexis Mac Allister,197,Argentina,M,1998-12-24,,,,,,,,,,,,,,,,,,,,,,,no,Liverpool FC,Liverpool,亚历克西斯·麦克阿利斯特
-2634,Ryan Nelsen,197,New Zealand,D,1977-10-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Blackburn Rovers;Tottenham Hotspur;Queens Park Rangers,瑞恩·尼尔森
-2867,Martin Olsson,197,Sweden,D,1988-05-17,,,,,,,,,,,,,,,,,,,,,,,yes,,Blackburn Rovers;Norwich City;Swansea City,马丁·奥尔松
-886,Lucas Radebe,197,South Africa,D,1969-04-12,,,,,,,,,,,,Leeds United,197.0,no,,0.0,no,,0.0,no,,,yes,,Leeds United,卢卡斯·拉德贝
-248,Rod Wallace,197,England,F,1969-10-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Leeds United;Bolton Wanderers,罗德·华莱士
-9,Steve Bould,196,England,D,1962-11-16,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;Sunderland,史蒂夫·博尔德
-1163,Christian Dailly,196,Scotland,D,1973-10-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Derby County;Blackburn Rovers;West Ham United,克里斯蒂安·戴利
-5682,Jorginho,196,Italy,M,1991-12-20,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Arsenal,若日尼奥
-967,Michael Hughes,196,Northern Ireland,M,1971-08-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester City;West Ham United;Wimbledon;Coventry City;Birmingham City;Crystal Palace,迈克尔·休斯
-13554,Kelechi Iheanacho,196,Nigeria,F,1996-10-03,,,,,,,,,,,,,,,,,,,,,,,no,Celtic FC,Manchester City;Leicester City,凯莱奇·伊希纳乔
-3244,Jake Livermore,196,England,M,1989-11-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Watford,杰克·利弗莫尔
-60,Dean Saunders,196,Wales,F,1964-06-21,,,,,,,,,,,,,,,,,,,,,,,yes,,Liverpool;Aston Villa;Nottingham Forest,迪恩·桑德斯
-38,Earl Barrett,195,England,D,1967-04-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Aston Villa;Everton;Sheffield Wednesday,厄尔·巴雷特
-3719,Heurelho Gomes,195,Brazil,G,1981-02-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Watford,乌雷尔霍·戈麦斯
-1083,David Ginola,195,France,F,1967-01-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Tottenham Hotspur;Aston Villa;Everton,大卫·吉诺拉
-2796,Kenwyne Jones,195,Trinidad & Tobago,F,1984-10-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Sunderland;Stoke City;Cardiff City,肯维恩·琼斯
-1848,Dean Kiely,195,Ireland,G,1970-10-10,,,,,,,,,,,,,,,,,,,,,,,yes,,Charlton Athletic;Portsmouth;West Bromwich Albion,迪恩·基利
-558,Neil Ruddock,195,England,D,1968-05-09,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Tottenham Hotspur;Liverpool;West Ham United;Crystal Palace,尼尔·拉德克
-9167,Dele Alli,194,England,M,1996-04-11,,,,,,,,,,,,Tottenham Hotspur,181.0,no,,0.0,no,,0.0,no,,,no,,Tottenham Hotspur,德勒·阿里
-26151,Joachim Andersen,194,Denmark,D,1996-05-31,,,,,,,,,,,,,,,,,,,,,,,no,Fulham FC,Fulham,乔阿希姆·安德森
-3013,Yossi Benayoun,194,Israel,M,1980-05-05,,,,,,,,,,,,,,,,,,,,,,,yes,,West Ham United;Liverpool;Chelsea;Arsenal;Queens Park Rangers,约西·贝纳永
-918,Michael Brown,194,England,M,1977-01-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester City;Tottenham Hotspur;Fulham;Wigan Athletic;Portsmouth,迈克尔·布朗
-6451,Martin Dúbravka,194,Slovakia,G,1989-01-15,,,,,,,,,,,,,,,,,,,,,,,no,Burnley FC,Burnley,马丁·杜布拉夫卡
-16286,Rodri,194,Spain,M,1996-06-22,,,,,,,,,4.0,Manchester City,"2020–21, 2021–22, 2022–23, 2023–24",Manchester City,195.0,yes,,0.0,no,,0.0,no,,,no,Manchester City,Manchester City,罗德里
-3821,Steven Nzonzi,194,France,M,1988-12-15,,,,,,,,,,,,,,,,,,,,,,,no,Stoke City,Stoke City,史蒂文·恩宗齐
-2066,Tomasz Radzinski,194,Canada,F,1973-12-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Fulham,托马什·拉津斯基
-13703,Aaron Ramsdale,194,England,G,1998-05-14,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United,阿隆·拉姆斯代尔
-2323,Steven Taylor,194,England,D,1986-01-23,,,,,,,,,,,,Newcastle United,194.0,no,,0.0,no,,0.0,no,,,yes,,Newcastle United,史蒂文·泰勒
-4525,Philippe Coutinho,193,Brazil,M,1992-06-12,,,,,,,,,,,,,,,,,,,,,,,yes,,Liverpool;Aston Villa,菲利佩·库蒂尼奥
-714,Steve Howey,193,England,D,1971-10-26,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Manchester City;Leicester City;Bolton Wanderers,史蒂夫·豪伊
-1756,George McCartney,193,Northern Ireland,D,1981-04-29,,,,,,,,,,,,,,,,,,,,,,,yes,,Sunderland;West Ham United,乔治·麦卡特尼
-256,David Burrows,192,England,D,1968-10-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Liverpool;West Ham United;Everton;Coventry City;Birmingham City,大卫·伯罗斯
-2435,Steven Reid,192,Ireland,D,1981-03-10,,,,,,,,,,,,,,,,,,,,,,,yes,,Burnley,史蒂文·里德
-24626,Douglas Luiz,192,Brazil,M,1998-05-09,,,,,,,,,,,,Aston Villa,184.0,yes,,0.0,no,,0.0,no,,,no,Aston Villa,Aston Villa,道格拉斯·路易斯
-8171,Solly March,191,England,M,1994-07-20,,,,,,,,,,,,Brighton & Hove Albion,191.0,yes,,0.0,no,,0.0,no,,,no,Brighton & Hove Albion,Brighton & Hove Albion,索利·马奇
-122,Steve Ogrizovic,191,England,G,1957-09-12,,,,,,,,,,,,Coventry City,191.0,no,,0.0,no,,0.0,no,,,yes,,Coventry City,史蒂夫·奥格里佐维奇
-3713,Jack Colback,190,England,M,1989-10-24,,,,,,,,,,,,,,,,,,,,,,,yes,,Queens Park Rangers,杰克·科尔巴克
-1451,Paolo Di Canio,190,Italy,F,1968-07-09,,,,,,,,,,,,,,,,,,,,,,,yes,,Sheffield Wednesday;West Ham United;Charlton Athletic,保罗·迪卡尼奥
-2837,Alexandre Song,190,Cameroon,M,1987-09-09,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;West Ham United,亚历山大·宋
-1095,Dejan Stefanovic,190,Serbia,D,1974-10-28,,,,,,,,,,,,,,,,,,,,,,,yes,,Sheffield Wednesday;Portsmouth;Fulham,德扬·斯特凡诺维奇
-19758,Diogo Jota,190,Portugal,F,1996-12-04,,,,,,,,,,,,,,,,,,,,,,,yes,,Wolverhampton Wanderers;Liverpool,迪奥戈·若塔
-775,Colin Calderwood,189,Scotland,D,1965-01-20,,,,,,,,,,,,,,,,,,,,,,,yes,,Tottenham Hotspur;Swindon Town;Aston Villa;Nottingham Forest,科林·卡尔德伍德
-1754,Jody Craddock,189,England,D,1975-07-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Wolverhampton Wanderers,乔迪·克拉多克
-4229,Matt Doherty,189,Ireland,D,1992-01-16,,,,,,,,,,,,,,,,,,,,,,,no,Wolverhampton Wanderers,Wolverhampton Wanderers,马特·多赫蒂
-3850,Steven Fletcher,189,Scotland,F,1987-03-26,,,,,,,,,,,,,,,,,,,,,,,yes,,Burnley;Wolverhampton Wanderers;Sunderland,史蒂文·弗莱彻
-1359,Chris Kirkland,189,England,G,1981-05-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Coventry City;Liverpool;West Bromwich Albion;Wigan Athletic,克里斯·柯克兰
-14897,Sean Longstaff,189,England,M,1997-10-30,,,,,,,,,,,,,,,,,,,,,,,no,Leeds United,Leeds United,肖恩·朗斯塔夫
-452,Clive Wilson,189,England,D,1961-11-13,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Queens Park Rangers;Tottenham Hotspur,克莱夫·威尔逊
-10766,Lewis Cook,188,England,M,1997-02-03,,,,,,,,,,,,Bournemouth,188.0,no,,0.0,no,,0.0,no,,,no,AFC Bournemouth,Bournemouth,刘易斯·库克
-3390,Dan Gosling,188,England,M,1990-02-01,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Newcastle United;AFC Bournemouth,丹·戈斯林
-2728,Nedum Onuoha,188,England,D,1986-11-12,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester City;Sunderland;Queens Park Rangers,内杜姆·奥努奥哈
-2569,Wayne Hennessey,187,Wales,G,1987-01-24,,,,,,,,,,,,,,,,,,,,,,,yes,,Wolverhampton Wanderers;Crystal Palace;Burnley;Nottingham Forest,韦恩·亨尼西
-2695,Andrew Johnson,187,England,F,1981-02-10,,,,,,,,,,,,,,,,,,,,,,,yes,,Birmingham City;Crystal Palace;Everton;Fulham,安德鲁·约翰逊
-4656,Ki Sung-Yueng,187,South Korea,M,1989-01-24,,,,,,,,,,,,,,,,,,,,,,,yes,,Swansea City;Sunderland;Newcastle United,奇诚庸
-66104,Gabriel Martinelli,187,Brazil,F,2001-06-18,,,,,,,,,,,,Arsenal,188.0,no,,0.0,no,,0.0,no,,,no,Arsenal FC,Arsenal,加布里埃尔·马丁内利
-4472,Nacho Monreal,187,Spain,D,1986-02-26,,,,,,,,,,,,Arsenal,187.0,no,,0.0,no,,0.0,no,,,yes,,Arsenal,纳乔·蒙雷亚尔
-1355,Gustavo Poyet,187,Uruguay,M,1967-11-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Tottenham Hotspur,古斯塔沃·波耶特
-54312,Miguel Almirón,186,Paraguay,M,1994-02-10,,,,,,,,,,,,Newcastle United,186.0,no,,0.0,no,,0.0,no,,,no,Atlanta United FC,Newcastle United,米格尔·阿尔米隆
-50234,Gabriel Magalhães,186,Brazil,D,1997-12-19,,,,,,,,,,,,Arsenal,187.0,no,,0.0,no,,0.0,no,,,no,Arsenal FC,Arsenal,加布里埃尔·马加利亚埃斯
-15259,Morgan Gibbs-White,186,England,M,2000-01-27,,,,,,,,,,,,,,,,,,,,,,,no,Nottingham Forest,Nottingham Forest,摩根·吉布斯-怀特
-13522,Maximilian Kilman,186,England,D,1997-05-23,,,,,,,,,,,,,,,,,,,,,,,no,West Ham United,West Ham United,马克西米利安·基尔曼
-973,Oyvind Leonhardsen,186,Norway,M,1970-08-17,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Liverpool;Tottenham Hotspur;Aston Villa,欧文德·利昂哈德森
-37776,Jefferson Lerma,186,Colombia,M,1994-10-25,,,,,,,,,,,,,,,,,,,,,,,no,Crystal Palace,Crystal Palace,杰斐逊·勒尔马
-953,Ian Nolan,186,Northern Ireland,D,1970-07-09,,,,,,,,,,,,,,,,,,,,,,,yes,,Sheffield Wednesday;Bradford City,伊恩·诺兰
-194,Peter Beardsley,185,England,F,1961-01-18,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Newcastle United;Bolton Wanderers,彼得·比尔兹利
-723,Lee Clark,185,England,M,1972-10-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Newcastle United;Sunderland;Fulham,李·克拉克
-530,Neil Maddison,185,England,M,1969-10-02,,,,,,,,,,,,,,,,,,,,,,,yes,,Southampton;Middlesbrough,尼尔·马迪森
-8900,Tyrone Mings,185,England,D,1993-03-13,,,,,,,,,,,,,,,,,,,,,,,no,Aston Villa,Aston Villa,泰隆·明斯
-3063,Stiliyan Petrov,185,Bulgaria,M,1979-07-05,,,,,,,,,,,,Aston Villa,185.0,no,,0.0,no,,0.0,no,,,yes,,Aston Villa,斯蒂利扬·彼得罗夫
-4823,Marko Arnautovic,184,Austria,F,1989-04-19,,,,,,,,,,,,,,,,,,,,,,,no,Red Star Belgrade,Stoke City;West Ham United,马尔科·阿瑙托维奇
-19589,Jan Bednarek,184,Poland,D,1996-04-12,,,,,,,,,,,,Southampton,181.0,no,,0.0,no,,0.0,no,,,no,FC Porto,Southampton,扬·贝德纳雷克
-2009,David Bentley,184,England,M,1984-08-27,,,,,,,,,,,,,,,,,,,,,,,yes,,Tottenham Hotspur,大卫·本特利
-1831,Lauren,184,Cameroon,D,1977-01-19,,,,,,,,,,,,,,,,,,,,,,,yes,,Portsmouth,劳伦
-423,Gunnar Halle,184,Norway,D,1965-08-11,,,,,,,,,,,,,,,,,,,,,,,yes,,Oldham Athletic;Leeds United;Bradford City,冈纳·哈勒
-599,Vinnie Jones,184,Wales,M,1965-01-05,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon;Chelsea,维尼·琼斯
-4714,Mesut Özil,184,Germany,M,1988-10-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal,梅苏特·厄齐尔
-3934,Matt Ritchie,184,Scotland,M,1989-09-10,,,,,,,,,,,,,,,,,,,,,,,no,Reading FC,Reading,马特·里奇
-4474,Héctor Bellerín,183,Spain,D,1995-03-19,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal,赫克托·贝莱林
-3160,Craig Cathcart,183,Northern Ireland,D,1989-02-06,,,,,,,,,,,,,,,,,,,,,,,yes,,Blackpool;Watford,克雷格·卡斯卡特
-903,Mark Draper,183,England,M,1970-11-11,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest;Leicester City;Aston Villa;Southampton,马克·德雷珀
-5859,Luka Milivojevic,183,Serbia,M,1991-04-07,,,,,,,,,,,,Crystal Palace,183.0,no,,0.0,no,,0.0,no,,,no,Al-Nasr SC (UAE),Crystal Palace,卢卡·米利沃耶维奇
-4337,Jesse Lingard,182,England,M,1992-12-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Manchester United;West Ham United;Nottingham Forest,杰西·林加德
-3547,Jack Wilshere,182,England,M,1992-01-01,,,,,,,,,,,,,,,,,,,,,,,yes,,Bournemouth,杰克·威尔希尔
-4620,Calum Chambers,181,England,D,1995-01-20,,,,,,,,,,,,,,,,,,,,,,,yes,,Cardiff City,卡勒姆·钱伯斯
-8052,Ryan Fraser,181,Scotland,M,1994-02-24,,,,,,,,,,,,,,,,,,,,,,,no,Western Sydney Wanderers,AFC Bournemouth;Newcastle United,瑞安·弗雷泽
-938,Alf Inge Haaland,181,Norway,D,1972-11-23,,,,,,,,,,,,,,,,,,,,,,,yes,,Nottingham Forest;Leeds United;Manchester City,阿尔夫·英格·哈兰德
-33135,Jack Harrison,181,England,F,1996-11-20,,,,,,,,,,,,,,,,,,,,,,,no,ACF Fiorentina,Leeds United;Everton,杰克·哈里森
-807,Alan Kimble,181,England,D,1966-06-08,,,,,,,,,,,,,,,,,,,,,,,yes,,Wimbledon,阿兰·金布尔
-1177,Darryl Powell,181,Jamaica,M,1971-01-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Derby County;Birmingham City,达里尔·鲍威尔
-1037,Craig Short,181,England,D,1968-06-25,,,,,,,,,,,,,,,,,,,,,,,yes,,Everton;Blackburn Rovers,克雷格·肖特
-3471,Marc Wilson,181,Ireland,M,1987-08-17,,,,,,,,,,,,,,,,,,,,,,,yes,,Bolton Wanderers,马克·威尔逊
-4843,Étienne Capoue,180,France,M,1988-07-11,,,,,,,,,,,,,,,,,,,,,,,yes,,Tottenham Hotspur;Watford,埃蒂安·卡普埃
-8045,Steve Cook,180,England,D,1991-04-19,,,,,,,,,,,,,,,,,,,,,,,no,Queens Park Rangers,Queens Park Rangers,史蒂夫·库克
-3046,Kieran Gibbs,180,England,D,1989-09-26,,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal;West Bromwich Albion,基兰·吉布斯
-1242,Maik Taylor,180,Northern Ireland,G,1971-09-04,,,,,,,,,,,,,,,,,,,,,,,yes,,Leeds United,马伊克·泰勒
-2056,Boudewijn Zenden,180,Netherlands,M,1976-08-15,,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea;Middlesbrough;Liverpool;Sunderland,博乌德温·岑登
-328,Lee Sharpe,175,England,M,1971-05-27,,,,,,,,,3.0,Manchester United,"1992–93, 1993–94, 1995–96",,,,,,,,,,,,yes,,Manchester United,李·夏普
-16431,Rúben Dias,169,Portugal,D,1997-05-14,,,,,,,2020,Manchester City,4.0,Manchester City,"2020–21, 2021–22, 2022–23, 2023–24",,,,,,,,,,,,no,Manchester City,Manchester City,鲁本·迪亚斯
-3513,Gareth Bale,166,Wales,F,1989-07-16,,,,,,,2012,Tottenham Hotspur,,,,,,,,,,,,,,,yes,,Tottenham Hotspur,加雷斯·贝尔
-7975,David Raya,164,Spain,G,1995-09-15,,,"13.0, 16.0",,,,,,,,,,,,,,,,,,,,no,Arsenal FC,Brentford;Arsenal,大卫·拉亚
-337,Brian McClair,162,Scotland,F,1963-12-08,,,,,,,,,4.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97",,,,,,,,,,,,yes,,Manchester United,布莱恩·麦克莱尔
-1533,Marcel Desailly,158,France,D,1968-09-07,,,,,,Premier League 10 Seasons Awards,,,,,,,,,,,,,,,,,yes,,Chelsea,马塞尔·德塞利
-342,Eric Cantona,156,France,F,1966-05-24,,,,,,Premier League 10 Seasons Awards,,,4.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97",,,,,,,,,,,,yes,,Manchester United,埃里克·坎通纳
-2940,Park Ji-Sung,154,South Korea,M,1981-02-25,,,,,,,,,4.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11",,,,,,,,,,,,yes,,Manchester United,朴智星
-1210,Ronny Johnsen,151,Norway,D,1969-06-10,,,,,,,,,3.0,Manchester United,"1996–97, 1998–99, 2000–01",,,,,,,,,,,,yes,,Manchester United,罗尼·约翰森
-2117,Ruud van Nistelrooij,150,Netherlands,F,1976-07-01,2002,25.0,,95.0,,,2002,Manchester United,,,,,,,,,,,,,2002,25.0,yes,,Manchester United,鲁德·范尼斯特鲁伊
-19620,Oleksandr Zinchenko,150,Ukraine,D,1996-12-15,,,,,,,,,4.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22",,,,,,,,,,,,yes,,Manchester City,奥列克桑德尔·津琴科
-319,Steve Bruce,148,England,D,1960-12-31,,,,,,,,,3.0,Manchester United,"1992–93, 1993–94, 1995–96",,,,,,,,,,,,yes,,Birmingham City;Manchester United,史蒂夫·布鲁斯
-3447,Nani,147,Portugal,F,1986-11-17,,,,,,,,,4.0,Manchester United,"2007–08, 2008–09, 2010–11, 2012–13",,,,,,,,,,,,yes,,Manchester United,纳尼
-5110,Pierre-Emerick Aubameyang,143,Gabon,F,1989-06-18,2018,22.0,,,,,,,,,,,,,,,,,,,2018,22.0,yes,,Arsenal;Chelsea,皮埃尔-埃默里克·奥巴梅扬
-2654,Paulo Ferreira,141,Portugal,D,1979-01-18,,,,,,,,,3.0,Chelsea,"2004–05, 2005–06, 2009–10",,,,,,,,,,,,yes,,Chelsea,保罗·费雷拉
-2653,Ricardo Carvalho,135,Portugal,D,1978-05-18,,,,,,,,,3.0,Chelsea,"2004–05, 2005–06, 2009–10",,,,,,,,,,,,yes,,Chelsea,里卡多·卡瓦略
-3543,Wojciech Szczesny,132,Poland,G,1990-04-18,,,16.0,,,,,,,,,,,,,,,,,,,,yes,,Arsenal,沃伊切赫·什琴斯尼
-65970,Erling Haaland,127,Norway,F,2000-07-21,"2022, 2023",27.0,,107.0,,,2022,Manchester City,,,,,,,,,,,,,2022,27.0,yes,,Manchester City,埃尔林·哈兰德
-4911,Thibaut Courtois,126,Belgium,G,1992-05-11,,,16.0,,,,,,,,,,,,,,,,,,,,yes,,Chelsea,蒂博·库尔图瓦
-1072,Juninho Paulista,125,Brazil,M,1973-02-22,,,,,,,1996,Middlesbrough,,,,,,,,,,,,,,,yes,,Middlesbrough,儒尼尼奥·保利斯塔
-11044,Aymeric Laporte,121,Spain,D,1994-05-27,,,,,,,,,5.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23",,,,,,,,,,,,yes,,Manchester City,艾梅里克·拉波尔特
-4138,Luis Suárez,110,Uruguay,F,1987-01-24,2013,31.0,,,,,2013,Liverpool,,,,,,,,,,,,,2013,31.0,yes,,Liverpool,路易斯·苏亚雷斯
-3664,Rafael,109,Brazil,D,1990-07-09,,,,,,,,,3.0,Manchester United,"2008–09, 2010–11, 2012–13",,,,,,,,,,,,yes,,Manchester United,拉斐尔
-3446,Anderson,105,Brazil,M,1988-04-13,,,,,,,,,4.0,Manchester United,"2007–08, 2008–09, 2010–11, 2012–13",,,,,,,,,,,,yes,,Manchester United,安德森
-5051,João Cancelo,98,Portugal,D,1994-05-27,,,,,,,,,3.0,Manchester City,"2020–21, 2021–22, 2022–23",,,,,,,,,,,,yes,,Manchester City,若昂·坎塞洛
-16723,Matz Sels,79,Belgium,G,1992-02-26,,,13.0,,,,,,,,,,,,,,,,,,,,no,Nottingham Forest,Newcastle United;Nottingham Forest,马茨·塞尔斯
-1580,Jaap Stam,79,Netherlands,D,1972-07-17,,,,,,,,,3.0,Manchester United,"1998–99, 1999–2000, 2000–01",,,,,,,,,,,,yes,,Manchester United,雅普·斯塔姆
-2818,Tomasz Kuszczak,63,Poland,G,1982-03-20,,,,,,,,,3.0,Manchester United,"2006–07, 2007–08, 2010–11",,,,,,,,,,,,yes,,Birmingham City;Manchester United,托马什·库什恰克
-5575,Benjamin Mendy,50,France,D,1994-07-17,,,,,,,,,3.0,Manchester City,"2017–18, 2018–19, 2020–21",,,,,,,,,,,,yes,,Manchester City,本杰明·门迪
+﻿player_id,player_name,nationality,position,birth_date,goldenglovewinners_Season,goldenglovewinners_Clean sheets,100cleansheetsgk_Premier League total clean sheets,yearofseasonwinners,ayerofseasonwinners_Club,team10y20yawardxi_award,100goalsclub_Premier League total goals,goldenbootwinners_Goals,ayers3ustitles_titles,ayers3ustitles_clubs,ayers3ustitles_seasons,multi_team1,multi_team1_appearances,multi_is_in_team1,multi_team2,multi_team2_appearances,multi_is_in_team2,multi_team3,multi_team3_appearances,multi_is_in_team3,golden_boot_season,golden_boot_goals,epl_total_appearances,is_retired,current_team,xlsx_clubs,player_name_zh
+2100,James Milner,England,M,1986/1/4,,,,,,,,,3.0,"Manchester City (2), Liverpool (1)","2011–12, 2013–14, 2019–20",Liverpool,230.0,no,,0.0,no,,0.0,no,,,657.0,no,Brighton & Hove Albion,Leeds United;Newcastle United;Aston Villa;Manchester City;Liverpool;Brighton & Hove Albion,詹姆斯·米尔纳
+1308,Gareth Barry,England,M,1981/2/23,,,,,,,,,,,,Aston Villa,365.0,no,,0.0,no,,0.0,no,,,653.0,yes,,Aston Villa;Manchester City;Everton;West Bromwich Albion,加雷斯·巴里
+335,Ryan Giggs,Wales,M,1973/11/29,,,,,,Premier League 10 Seasons Awards,108.0,,13.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,632.0,no,,0.0,no,,0.0,no,,,632.0,yes,,Manchester United,瑞恩·吉格斯
+800,Frank Lampard,England,M,1978/6/20,,,,2004,Chelsea,,177.0,,3.0,Chelsea,"2004–05, 2005–06, 2009–10",Chelsea,429.0,no,,0.0,no,,0.0,no,,,609.0,yes,,West Ham United;Chelsea;Manchester City,弗兰克·兰帕德
+252,David James,England,G,1970/8/1,,,172.0,,,,,,,,,Liverpool,214.0,no,,0.0,no,,0.0,no,,,572.0,yes,,Liverpool;Aston Villa;West Ham United;Manchester City;Portsmouth,大卫·詹姆斯
+239,Gary Speed,Wales,M,1969/9/8,,,,,,,,,,,,Newcastle United,213.0,no,,0.0,no,,0.0,no,,,535.0,yes,,Leeds United;Everton;Newcastle United;Bolton Wanderers,加里·斯皮德
+908,Emile Heskey,England,F,1978/1/11,,,,,,,110.0,,,,,,,,,,,,,,,,516.0,yes,,Leicester City;Liverpool;Birmingham City;Wigan Athletic;Aston Villa,埃米尔·赫斯基
+1218,Mark Schwarzer,Australia,G,1972/10/6,,,153.0,,,,,,,,,Middlesbrough,332.0,no,,0.0,no,,0.0,no,,,514.0,yes,,Middlesbrough;Fulham;Chelsea;Leicester City,马克·施瓦泽
+915,Jamie Carragher,England,D,1978/1/28,,,,,,,,,,,,Liverpool,508.0,no,,0.0,no,,0.0,no,,,508.0,yes,,Liverpool,杰米·卡拉格
+921,Phil Neville,England,M,1977/1/21,,,,,,,,,6.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03",Manchester United,262.0,no,Everton,242.0,no,,0.0,no,,,505.0,yes,,Manchester United;Everton,菲尔·内维尔
+1111,Rio Ferdinand,England,D,1978/11/7,,,,,,Premier League 20 Seasons Awards,,,6.0,Manchester United,"2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,312.0,no,,0.0,no,,0.0,no,,,504.0,yes,,West Ham United;Leeds United;Manchester United;Queens Park Rangers,里奥·费迪南德
+1575,Steven Gerrard,England,M,1980/5/30,,,,,,Premier League 20 Seasons Awards,121.0,,,,,Liverpool,504.0,no,,0.0,no,,0.0,no,,,504.0,yes,,Liverpool,史蒂文·杰拉德
+557,Sol Campbell,England,D,1974/9/18,,,,,,,,,,,,Tottenham Hotspur,255.0,no,,0.0,no,,0.0,no,,,503.0,yes,,Tottenham Hotspur;Arsenal;Newcastle United,索尔·坎贝尔
+336,Paul Scholes,England,M,1974/11/16,,,,,,Premier League 10 Seasons Awards,107.0,,11.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,499.0,no,,0.0,no,,0.0,no,,,499.0,yes,,Manchester United,保罗·斯科尔斯
+1526,Jermain Defoe,England,F,1982/10/7,,,,,,,163.0,,,,,Tottenham Hotspur,276.0,no,,0.0,no,,0.0,no,,,496.0,yes,,West Ham United;Tottenham Hotspur;Portsmouth;Sunderland;Bournemouth,杰梅因·迪福
+1353,John Terry,England,D,1980/12/7,,,,,,,,,5.0,Chelsea,"2004–05, 2005–06, 2009–10, 2014–15, 2016–17",Chelsea,492.0,no,,0.0,no,,0.0,no,,,492.0,yes,,Chelsea;Aston Villa,约翰·特里
+2064,Wayne Rooney,England,F,1985/10/24,,,,2009,Manchester United,,208.0,,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,393.0,no,,0.0,no,,0.0,no,,,491.0,yes,,Everton;Manchester United,韦恩·鲁尼
+3062,Ashley Young,England,D,1985/7/9,,,,,,,,,,,,Aston Villa,210.0,no,,0.0,no,,0.0,no,,,485.0,no,Ipswich Town,Aston Villa;Manchester United;Everton,阿什利·扬
+1634,Michael Carrick,England,M,1981/7/28,,,,,,,,,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,316.0,no,,0.0,no,,0.0,no,,,481.0,yes,,West Ham United;Tottenham Hotspur;Manchester United,迈克尔·卡里克
+2125,Sylvain Distin,France,D,1977/12/16,,,,,,,,,,,,,,,,,,,,,,,469.0,yes,,Newcastle United;Manchester City;Portsmouth;Everton,西尔万·迪斯丁
+1629,Peter Crouch,England,F,1981/1/30,,,,,,,106.0,,,,,Stoke City,202.0,no,,0.0,no,,0.0,no,,,468.0,yes,,Aston Villa;Southampton;Liverpool;Portsmouth;Tottenham Hotspur;Stoke City;Burnley,彼得·克劳奇
+3712,Jordan Henderson,England,M,1990/6/17,,,,,,,,,,,,Liverpool,360.0,no,,0.0,no,,0.0,no,,,460.0,no,Brentford FC,Sunderland;Liverpool,乔丹·亨德森
+1230,Aaron Hughes,Northern Ireland,D,1979/11/8,,,,,,,,,,,,Newcastle United,205.0,no,Fulham,196.0,no,,0.0,no,,,455.0,yes,,Newcastle United;Aston Villa;Fulham;Queens Park Rangers,阿隆·休斯
+851,Shay Given,Ireland,G,1976/4/20,,,116.0,,,,,,,,,Newcastle United,354.0,no,,0.0,no,,0.0,no,,,450.0,yes,,Blackburn Rovers;Newcastle United;Manchester City;Aston Villa;Stoke City,谢伊·吉文
+1420,Brad Friedel,United States,G,1971/5/18,,,132.0,,,,,,,,,Blackburn Rovers,261.0,no,,0.0,no,,0.0,no,,,450.0,yes,,Liverpool;Blackburn Rovers;Aston Villa;Tottenham Hotspur,布拉德·弗里德尔
+1717,John O'Shea,Ireland,D,1981/4/30,,,,,,,,,5.0,Manchester United,"2002–03, 2006–07, 2007–08, 2008–09, 2010–11",Manchester United,257.0,no,Sunderland,189.0,no,,0.0,no,,,445.0,yes,,Manchester United;Sunderland,约翰·奥谢
+1249,Kevin Davies,England,F,1977/3/26,,,,,,,87.0,,,,,Bolton Wanderers,316.0,no,,0.0,no,,0.0,no,,,444.0,yes,,Southampton;Blackburn Rovers;Bolton Wanderers,凯文·戴维斯
+2651,Petr Cech,Czech Republic,G,1982/5/20,"2004, 2009, 2013, 2015","16.0, 17.0",207.0,,,,,,4.0,Chelsea,"2004–05, 2005–06, 2009–10, 2014–15",Chelsea,333.0,no,,0.0,no,,0.0,no,,,443.0,yes,,Chelsea;Arsenal,彼得·切赫
+89,Alan Shearer,England,F,1970/8/13,,,,1994,Blackburn Rovers,Premier League 10 Seasons Awards,260.0,"25.0, 31.0, 34.0",,,,Newcastle United,303.0,no,,0.0,no,,0.0,no,"1994, 1995, 1996","34.0, 31.0, 25.0",441.0,yes,,Blackburn Rovers;Newcastle United,阿兰·希勒
+3955,Kyle Walker,England,D,1990/5/28,,,,,,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,212.0,no,Tottenham Hotspur,183.0,no,,0.0,no,,,441.0,no,Burnley FC,Tottenham Hotspur;Aston Villa;Manchester City,凯尔·沃克
+1342,Jussi Jääskeläinen,Finland,G,1975/4/19,,,110.0,,,,,,,,,Bolton Wanderers,379.0,no,,0.0,no,,0.0,no,,,436.0,yes,,Bolton Wanderers;West Ham United,尤西·亚斯凯莱宁
+1184,Richard Dunne,Ireland,D,1979/9/21,,,,,,,,,,,,Manchester City,253.0,no,,0.0,no,,0.0,no,,,431.0,yes,,Everton;Manchester City;Aston Villa;Queens Park Rangers,理查德·邓恩
+153,Gareth Southgate,England,D,1970/9/3,,,,,,,,,,,,Aston Villa,191.0,no,,0.0,no,,0.0,no,,,426.0,yes,,Crystal Palace;Aston Villa;Middlesbrough,加雷斯·索斯盖特
+3030,Leighton Baines,England,D,1984/12/11,,,,,,,,,,,,Everton,348.0,no,,0.0,no,,0.0,no,,,420.0,yes,,Wigan Athletic;Everton,莱顿·贝恩斯
+576,Teddy Sheringham,England,F,1966/4/2,,,,,,,146.0,22.0,3.0,Manchester United,"1998–99, 1999–2000, 2000–01",Tottenham Hotspur,236.0,no,,0.0,no,,0.0,no,1992,22.0,418.0,yes,,Tottenham Hotspur;Manchester United;Portsmouth;West Ham United,泰迪·谢林汉姆
+4617,James Ward-Prowse,England,M,1994/11/1,,,,,,,,,,,,Southampton,343.0,no,,0.0,no,,0.0,no,,,417.0,no,Burnley FC,Southampton;West Ham United,詹姆斯·沃德-普劳斯
+1423,Danny Murphy,England,M,1977/3/18,,,,,,,,,,,,,,,,,,,,,,,417.0,yes,,Liverpool;Charlton Athletic;Tottenham Hotspur;Fulham;Blackburn Rovers,丹尼·墨菲
+2270,Aaron Lennon,England,M,1987/4/16,,,,,,,,,,,,Tottenham Hotspur,266.0,no,,0.0,no,,0.0,no,,,416.0,yes,,Leeds United;Tottenham Hotspur;Everton;Burnley,阿隆·列侬
+4330,David de Gea,Spain,G,1990/11/7,"2017, 2022","17.0, 18.0",148.0,,,,,,,,,Manchester United,415.0,no,,0.0,no,,0.0,no,,,415.0,no,ACF Fiorentina,Manchester United,大卫·德赫亚
+725,Andrew Cole,England,F,1971/10/15,,,,,,,187.0,34.0,5.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01",,,,,,,,,,1993,34.0,414.0,yes,,Newcastle United;Manchester United;Blackburn Rovers;Fulham;Manchester City;Portsmouth;Sunderland,安德鲁·科尔
+3014,Mark Noble,England,M,1987/5/8,,,,,,,,,,,,West Ham United,414.0,no,,0.0,no,,0.0,no,,,414.0,yes,,West Ham United,马克·诺布尔
+332,Nicky Butt,England,M,1975/1/21,,,,,,,,,6.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03",Manchester United,270.0,no,,0.0,no,,0.0,no,,,411.0,yes,,Manchester United;Newcastle United,尼基·巴特
+2122,Stewart Downing,England,M,1984/7/22,,,,,,,,,,,,Middlesbrough,211.0,no,,0.0,no,,0.0,no,,,408.0,yes,,Middlesbrough;Aston Villa;Liverpool;West Ham United,斯图尔特·唐宁
+2040,Kevin Nolan,England,M,1982/6/24,,,,,,,,,,,,Bolton Wanderers,261.0,no,,0.0,no,,0.0,no,,,401.0,yes,,Bolton Wanderers;Newcastle United;West Ham United,凯文·诺兰
+321,Gary Neville,England,D,1975/2/18,,,,,,Premier League 10 Seasons Awards,,,8.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07, 2008–09",Manchester United,399.0,no,,0.0,no,,0.0,no,,,400.0,yes,,Manchester United,加里·内维尔
+2516,Tim Howard,United States,G,1979/3/6,,,133.0,,,,,,,,,Everton,354.0,no,,0.0,no,,0.0,no,,,399.0,yes,,Manchester United;Everton,蒂姆·霍华德
+2839,Theo Walcott,England,F,1989/3/16,,,,,,,,,,,,Arsenal,270.0,no,,0.0,no,,0.0,no,,,397.0,yes,,Arsenal;Everton;Southampton,西奥·沃尔科特
+1190,Lee Bowyer,England,M,1977/1/3,,,,,,,,,,,,Leeds United,203.0,no,,0.0,no,,0.0,no,,,397.0,yes,,Leeds United;West Ham United;Newcastle United;Birmingham City,李·博耶
+4316,Raheem Sterling,England,F,1994/12/8,,,,,,,123.0,,4.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22",Manchester City,225.0,no,,0.0,no,,0.0,no,,,396.0,no,Feyenoord Rotterdam,Liverpool;Manchester City;Chelsea;Arsenal,拉希姆·斯特林
+3452,Danny Welbeck,England,F,1990/11/26,,,,,,,89.0,,,,,,,,,,,,,,,,395.0,no,Brighton & Hove Albion,Manchester United;Arsenal;Watford;Brighton & Hove Albion,丹尼·维尔贝克
+2620,Gary Cahill,England,D,1985/12/19,,,,,,,,,,,,Chelsea,191.0,no,,0.0,no,,0.0,no,,,394.0,yes,,Aston Villa;Bolton Wanderers;Chelsea;Crystal Palace,加里·卡希尔
+1004,Damien Duff,Ireland,M,1979/3/2,,,,,,,,,,,,,,,,,,,,,,,392.0,yes,,Blackburn Rovers;Chelsea;Newcastle United;Fulham,达米安·达夫
+2932,Ben Foster,England,G,1983/4/3,,,94.0,,,,,,,,,West Bromwich Albion,209.0,no,,0.0,no,,0.0,no,,,390.0,yes,,Manchester United;Watford;Birmingham City;West Bromwich Albion,本·福斯特
+3156,Jonny Evans,Northern Ireland,D,1988/1/3,,,,,,,,,3.0,Manchester United,"2008–09, 2010–11, 2012–13",,,,,,,,,,,,386.0,yes,,Manchester United;West Bromwich Albion;Leicester City,乔尼·埃文斯
+1494,Ashley Cole,England,D,1980/12/20,,,,,,Premier League 20 Seasons Awards,,,3.0,"Arsenal (2), Chelsea (1)","2001–02, 2003–04, 2009–10",Chelsea,228.0,no,,0.0,no,,0.0,no,,,385.0,yes,,Arsenal;Chelsea,阿什利·科尔
+1361,George Boateng,Netherlands,M,1975/9/5,,,,,,,,,,,,Middlesbrough,181.0,no,,0.0,no,,0.0,no,,,384.0,yes,,Coventry City;Aston Villa;Middlesbrough;Hull City,乔治·博阿滕
+277,Robbie Fowler,England,F,1975/4/9,,,,,,,163.0,,,,,Liverpool,266.0,no,,0.0,no,,0.0,no,,,379.0,yes,,Liverpool;Leeds United;Manchester City;Blackburn Rovers,罗比·福勒
+19,Ray Parlour,England,M,1973/3/7,,,,,,,,,3.0,Arsenal,"1997–98, 2001–02, 2003–04",Arsenal,333.0,no,,0.0,no,,0.0,no,,,379.0,yes,,Arsenal;Middlesbrough,雷·帕洛尔
+1464,Luke Young,England,D,1979/7/19,,,,,,,,,,,,Charlton Athletic,187.0,no,,0.0,no,,0.0,no,,,378.0,yes,,Tottenham Hotspur;Charlton Athletic;Middlesbrough;Aston Villa,卢克·扬
+1632,Joe Cole,England,M,1981/11/8,,,,,,,,,3.0,Chelsea,"2004–05, 2005–06, 2009–10",Chelsea,184.0,no,,0.0,no,,0.0,no,,,378.0,yes,,West Ham United;Chelsea;Liverpool;Aston Villa,乔·科尔
+776,Stephen Carr,Ireland,D,1976/8/29,,,,,,,,,,,,Tottenham Hotspur,226.0,no,,0.0,no,,0.0,no,,,377.0,yes,,Tottenham Hotspur;Newcastle United;Birmingham City,斯蒂芬·卡尔
+3309,Lukasz Fabianski,Poland,G,1985/4/18,,,97.0,,,,,,,,,West Ham United,195.0,yes,,0.0,no,,0.0,no,,,376.0,no,West Ham United,Arsenal;Swansea City;West Ham United,卢卡什·法比安斯基
+3222,Phil Jagielka,England,D,1982/8/17,,,,,,,,,,,,Everton,322.0,no,,0.0,no,,0.0,no,,,376.0,yes,,Sheffield United;Everton,菲尔·贾吉尔卡
+59,Dwight Yorke,,M,1971/11/3,,,,1998,Manchester United,,123.0,18.0,3.0,Manchester United,"1998–99, 1999–2000, 2000–01",,,,,,,,,,1998,18.0,375.0,yes,,Aston Villa;Manchester United;Blackburn Rovers;Birmingham City;Sunderland,德怀特·约克
+1404,Paul Robinson,England,G,1979/10/15,,,88.0,,,,,,,,,,,,,,,,,,,,374.0,yes,,Leeds United;Tottenham Hotspur;Blackburn Rovers,保罗·罗宾逊
+3600,Séamus Coleman,Ireland,D,1988/10/11,,,,,,,,,,,,Everton,372.0,no,,0.0,no,,0.0,no,,,372.0,no,Everton FC,Everton,谢默斯·科尔曼
+146,Nigel Martyn,England,G,1966/8/11,,,141.0,,,,,,,,,Leeds United,207.0,no,,0.0,no,,0.0,no,,,372.0,yes,,Crystal Palace;Leeds United;Everton,奈杰尔·马丁
+1518,Scott Parker,England,M,1980/10/13,,,,,,,,,,,,,,,,,,,,,,,367.0,yes,,Charlton Athletic;Chelsea;Newcastle United;West Ham United;Tottenham Hotspur;Fulham,斯科特·帕克
+407,Roy Keane,Ireland,M,1971/8/10,,,,,,Premier League 20 Seasons Awards,,,7.0,Manchester United,"1993–94, 1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03",Manchester United,326.0,no,,0.0,no,,0.0,no,,,366.0,yes,,Nottingham Forest;Manchester United,罗伊·基恩
+181,David Unsworth,England,D,1973/10/16,,,,,,,,,,,,Everton,302.0,no,,0.0,no,,0.0,no,,,364.0,yes,,Everton;West Ham United;Aston Villa;Portsmouth;Wigan Athletic;Sheffield United,大卫·昂斯沃思
+1135,Nicolas Anelka,France,F,1979/3/14,,,,,,,125.0,19.0,,,,,,,,,,,,,2008,19.0,364.0,yes,,Arsenal;Liverpool;Manchester City;Bolton Wanderers;Chelsea;West Bromwich Albion,尼古拉·阿内尔卡
+1751,Thomas Sørensen,Denmark,G,1976/6/12,,,112.0,,,,,,,,,,,,,,,,,,,,363.0,yes,,Sunderland;Aston Villa;Stoke City,托马斯·索伦森
+587,Chris Perry,England,D,1973/4/26,,,,,,,,,,,,,,,,,,,,,,,363.0,yes,,Wimbledon;Tottenham Hotspur;Charlton Athletic;West Bromwich Albion,克里斯·佩里
+4664,Hugo Lloris,France,G,1986/12/26,,,128.0,,,,,,,,,Tottenham Hotspur,361.0,no,,0.0,no,,0.0,no,,,361.0,no,Los Angeles FC,Tottenham Hotspur,雨果·洛里斯
+741,Trevor Sinclair,England,M,1973/3/2,,,,,,,,,,,,,,,,,,,,,,,361.0,yes,,Queens Park Rangers;West Ham United;Manchester City,特雷弗·辛克莱尔
+1391,Rory Delap,Ireland,M,1976/7/6,,,,,,,,,,,,,,,,,,,,,,,358.0,yes,,Derby County;Southampton;Sunderland;Stoke City,罗里·德拉普
+2148,Glen Johnson,England,D,1984/8/23,,,,,,,,,,,,,,,,,,,,,,,358.0,yes,,West Ham United;Chelsea;Portsmouth;Liverpool;Stoke City,格伦·约翰逊
+4640,Jordan Pickford,England,G,1994/3/7,,,98.0,,,,,,,,,Everton,326.0,no,,0.0,no,,0.0,no,,,357.0,no,Everton FC,Sunderland;Everton,乔丹·皮克福德
+35,Ugo Ehiogu,England,D,1972/11/3,,,,,,,,,,,,Aston Villa,229.0,no,,0.0,no,,0.0,no,,,355.0,yes,,Aston Villa;Middlesbrough,乌戈·埃希奥古
+2002,Kolo Touré,Cote D’Ivoire,D,1981/3/19,,,,,,,,,,,,Arsenal,225.0,no,,0.0,no,,0.0,no,,,352.0,yes,,Arsenal;Manchester City;Liverpool,科洛·图雷
+11,Nigel Winterburn,England,D,1963/12/11,,,,,,,,,,,,Arsenal,270.0,no,,0.0,no,,0.0,no,,,352.0,yes,,Arsenal;West Ham United;Blackburn Rovers,奈杰尔·温特伯恩
+1887,Leon Osman,England,M,1981/5/17,,,,,,,,,,,,Everton,352.0,no,,0.0,no,,0.0,no,,,352.0,yes,,Everton,利昂·奥斯曼
+462,Les Ferdinand,England,F,1966/12/8,,,,,,,149.0,,,,,,,,,,,,,,,,351.0,yes,,Queens Park Rangers;Newcastle United;Tottenham Hotspur;West Ham United;Leicester City;Bolton Wanderers,莱斯·费迪南德
+720,Steve Watson,England,D,1974/4/1,,,,,,,,,,,,,,,,,,,,,,,351.0,yes,,Newcastle United;Aston Villa;Everton;West Bromwich Albion,史蒂夫·沃森
+2417,Cesc Fàbregas,Spain,M,1987/5/4,,,,,,,,,,,,Arsenal,212.0,no,,0.0,no,,0.0,no,,,350.0,yes,,Arsenal;Chelsea,塞斯克·法布雷加斯
+4496,César Azpilicueta,Spain,D,1989/8/28,,,,,,,,,,,,Chelsea,349.0,no,,0.0,no,,0.0,no,,,349.0,no,Sevilla FC,Chelsea,塞萨尔·阿斯皮利奎塔
+1692,Robbie Keane,Ireland,F,1980/7/8,,,,,,,126.0,,,,,Tottenham Hotspur,238.0,no,,0.0,no,,0.0,no,,,349.0,yes,,Coventry City;Leeds United;Tottenham Hotspur;Liverpool;West Ham United;Aston Villa,罗比·基恩
+1515,Paul Konchesky,England,D,1981/5/15,,,,,,,,,,,,,,,,,,,,,,,347.0,yes,,Charlton Athletic;West Ham United;Fulham;Liverpool,保罗·孔切斯基
+706,Robbie Savage,Wales,M,1974/10/18,,,,,,,,,,,,,,,,,,,,,,,346.0,yes,,Leicester City;Birmingham City;Blackburn Rovers;Derby County,罗比·萨维奇
+3206,Shane Long,Ireland,F,1987/1/22,,,,,,,,,,,,Southampton,198.0,no,,0.0,no,,0.0,no,,,344.0,yes,,Reading;West Bromwich Albion;Hull City;Southampton,谢恩·朗
+1,David Seaman,England,G,1963/9/19,,,145.0,,,,,,,,,Arsenal,325.0,no,,0.0,no,,0.0,no,,,344.0,yes,,Arsenal;Manchester City,大卫·希曼
+569,Nick Barmby,England,M,1974/2/11,,,,,,,,,,,,,,,,,,,,,,,342.0,yes,,Tottenham Hotspur;Middlesbrough;Everton;Liverpool;Leeds United,尼克·巴姆比
+8979,Jamie Vardy,England,F,1987/1/11,,,,2015,Leicester City,,145.0,23.0,,,,Leicester City,342.0,no,,0.0,no,,0.0,no,2019,23.0,342.0,no,US Cremonese,Leicester City,杰米·瓦尔迪
+78,Tim Sherwood,England,M,1969/2/6,,,,,,,,,,,,Blackburn Rovers,235.0,no,,0.0,no,,0.0,no,,,341.0,yes,,Norwich City;Blackburn Rovers;Tottenham Hotspur;Portsmouth;Coventry City,蒂姆·舍伍德
+1943,Darren Fletcher,Scotland,M,1984/2/1,,,,,,,,,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,223.0,no,,0.0,no,,0.0,no,,,341.0,yes,,Manchester United;West Bromwich Albion;Stoke City,达伦·弗莱彻
+3143,Joe Hart,England,G,1987/4/19,"2010, 2011, 2012, 2014","14.0, 17.0, 18.0",127.0,,,,,,,,,Manchester City,266.0,no,,0.0,no,,0.0,no,,,340.0,yes,,Manchester City;Birmingham City;West Ham United;Burnley,乔·哈特
+2078,Steed Malbranque,France,M,1980/1/6,,,,,,,,,,,,,,,,,,,,,,,336.0,yes,,Fulham;Tottenham Hotspur;Sunderland,斯蒂德·马尔布兰克
+972,Kenny Cunningham,Ireland,D,1971/6/28,,,,,,,,,,,,,,,,,,,,,,,335.0,yes,,Wimbledon;Birmingham City;Sunderland,肯尼·康宁汉
+8143,James Tarkowski,England,D,1992/11/19,,,,,,,,,,,,Burnley,194.0,no,,0.0,no,,0.0,no,,,335.0,no,Everton FC,Burnley;Everton,詹姆斯·塔科夫斯基
+5140,Virgil van Dijk,Netherlands,D,1991/7/8,,,,2018,Liverpool,,,,,,,Liverpool,267.0,no,,0.0,no,,0.0,no,,,334.0,no,Liverpool FC,Southampton;Liverpool,维吉尔·范迪克
+4999,Son Heung-Min,South Korea,F,1992/7/8,,,,,,,127.0,23.0,,,,Tottenham Hotspur,333.0,no,,0.0,no,,0.0,no,2021,23.0,333.0,no,Los Angeles FC,Tottenham Hotspur,孙兴慜
+1371,Hermann Hreidarsson,Iceland,D,1974/7/11,,,,,,,,,,,,,,,,,,,,,,,332.0,yes,,Crystal Palace;Wimbledon;Ipswich Town;Charlton Athletic;Portsmouth,赫尔曼·赫雷达尔松
+1005,James Beattie,England,F,1978/2/27,,,,,,,90.0,,,,,Southampton,202.0,no,,0.0,no,,0.0,no,,,331.0,yes,,Blackburn Rovers;Southampton;Everton;Stoke City,詹姆斯·比蒂
+528,Jason Dodd,England,D,1970/11/2,,,,,,,,,,,,Southampton,329.0,no,,0.0,no,,0.0,no,,,329.0,yes,,Southampton,贾森·多德
+10458,Andy Robertson,Scotland,D,1994/3/11,,,,,,,,,,,,Liverpool,272.0,no,,0.0,no,,0.0,no,,,329.0,no,Liverpool FC,Hull City;Liverpool,安迪·罗伯逊
+315,Denis Irwin,Ireland,D,1965/10/31,,,,,,Premier League 10 Seasons Awards,,,7.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97, 1998–99, 1999–2000, 2000–01",Manchester United,296.0,no,,0.0,no,,0.0,no,,,328.0,yes,,Manchester United,丹尼斯·埃尔文
+70,Graeme Le Saux,England,D,1968/10/17,,,,,,,,,,,,,,,,,,,,,,,327.0,yes,,Chelsea;Blackburn Rovers;Southampton,格雷姆·勒索
+4748,Willian,Brazil,F,1988/8/9,,,,,,,,,,,,Chelsea,234.0,no,,0.0,no,,0.0,no,,,327.0,no,Grêmio Foot-Ball Porto Alegrense,Chelsea;Arsenal;Fulham,威廉
+1208,Michael Owen,England,F,1979/12/14,,,,1997,Liverpool,,150.0,18.0,,,,Liverpool,216.0,no,,0.0,no,,0.0,no,"1997, 1998","18.0, 18.0",326.0,yes,,Liverpool;Newcastle United;Manchester United;Stoke City,迈克尔·欧文
+25,Kevin Campbell,England,F,1970/2/4,,,,,,,83.0,,,,,,,,,,,,,,,,325.0,yes,,Arsenal;Nottingham Forest;Everton,凯文·坎贝尔
+2413,Gaël Clichy,France,D,1985/7/26,,,,,,,,,3.0,"Arsenal (1), Manchester City (2)","2003–04, 2011–12, 2013–14",Arsenal,187.0,no,,0.0,no,,0.0,no,,,325.0,yes,,Arsenal;Manchester City,加埃尔·克里希
+694,Gary Kelly,Ireland,D,1974/7/9,,,,,,,,,,,,Leeds United,325.0,no,,0.0,no,,0.0,no,,,325.0,yes,,Leeds United,加里·凯利
+1757,Kevin Kilbane,Ireland,M,1977/2/1,,,,,,,,,,,,,,,,,,,,,,,325.0,yes,,Coventry City;Everton;Sunderland;Wigan Athletic;Hull City,凯文·基尔班
+238,Gary McAllister,Scotland,M,1964/12/25,,,,,,,,,,,,,,,,,,,,,,,325.0,yes,,Coventry City;Liverpool,加里·麦卡利斯特
+2542,Matthew Taylor,England,M,1981/11/27,,,,,,,,,,,,,,,,,,,,,,,325.0,yes,,Portsmouth;Bolton Wanderers;West Ham United;Burnley,马修·泰勒
+3285,Antonio Valencia,Ecuador,D,1985/8/4,,,,,,,,,,,,Manchester United,241.0,no,,0.0,no,,0.0,no,,,325.0,yes,,Wigan Athletic;Manchester United,安东尼奥·瓦伦西亚
+5178,Mohamed Salah,Egypt,F,1992/6/15,,,,"2017, 2024",Liverpool,,192.0,"22.0, 23.0, 29.0, 32.0",,,,Liverpool,312.0,no,,0.0,no,,0.0,no,"2017, 2018, 2021, 2024","32.0, 22.0, 23.0, 29.0",325.0,no,Liverpool FC,Chelsea;Liverpool,穆罕默德·萨拉赫
+4224,James McArthur,Scotland,M,1987/10/7,,,,,,,,,,,,Crystal Palace,240.0,no,,0.0,no,,0.0,no,,,323.0,yes,,Wigan Athletic;Crystal Palace,詹姆斯·麦克阿瑟
+14,Martin Keown,England,D,1966/7/24,,,,,,,,,3.0,Arsenal,"1997–98, 2001–02, 2003–04",Arsenal,310.0,no,,0.0,no,,0.0,no,,,323.0,yes,,Everton;Arsenal;Aston Villa,马丁·基翁
+2622,Gabriel Agbonlahor,England,F,1986/10/13,,,,,,,,,,,,Aston Villa,322.0,no,,0.0,no,,0.0,no,,,322.0,yes,,Aston Villa,加布里埃尔·阿邦拉霍
+2053,Robert Huth,Germany,D,1984/8/18,,,,,,,,,3.0,"Chelsea (2), Leicester City (1)","2004–05, 2005–06, 2015–16",,,,,,,,,,,,322.0,yes,,Chelsea;Middlesbrough;Stoke City;Leicester City,罗伯特·胡特
+2054,William Gallas,France,D,1977/8/17,,,,,,,,,,,,,,,,,,,,,,,321.0,yes,,Chelsea;Arsenal;Tottenham Hotspur,威廉·加拉
+2110,John Arne Riise,Norway,D,1980/9/24,,,,,,,,,,,,Liverpool,234.0,no,,0.0,no,,0.0,no,,,321.0,yes,,Liverpool;Fulham,约翰·阿尔内·里瑟
+3960,Harry Kane,England,F,1993/7/28,,,,,,,213.0,"23.0, 25.0, 29.0",,,,Tottenham Hotspur,317.0,no,,0.0,no,,0.0,no,"2015, 2016, 2020","25.0, 29.0, 23.0",320.0,no,Bayern Munich,Tottenham Hotspur,哈里·凯恩
+566,Darren Anderton,England,M,1972/3/3,,,,,,,,,,,,Tottenham Hotspur,297.0,no,,0.0,no,,0.0,no,,,319.0,yes,,Tottenham Hotspur;Birmingham City;Portsmouth,达伦·安德顿
+1033,Paul Telfer,Scotland,D,1971/10/21,,,,,,,,,,,,Coventry City,191.0,no,,0.0,no,,0.0,no,,,319.0,yes,,Coventry City;Southampton,保罗·特尔弗
+4421,Gylfi Sigurdsson,Iceland,M,1989/9/8,,,,,,,,,,,,,,,,,,,,,,,318.0,no,Víkingur Reykjavík,Swansea City;Tottenham Hotspur;Everton,吉尔菲·西于尔兹松
+4717,Alex Iwobi,Nigeria,F,1996/5/3,,,,,,,,,,,,,,,,,,,,,,,318.0,yes,,Arsenal;Everton;Fulham,亚历克斯·伊沃比
+1710,Sami Hyypiä,Finland,D,1973/10/7,,,,,,,,,,,,Liverpool,318.0,no,,0.0,no,,0.0,no,,,318.0,yes,,Liverpool,萨米·海皮亚
+125,Peter Atherton,England,D,1970/4/6,,,,,,,,,,,,Sheffield Wednesday,214.0,no,,0.0,no,,0.0,no,,,318.0,yes,,Coventry City;Sheffield Wednesday;Blackburn Rovers,彼得·阿瑟顿
+4408,Ben Davies,Wales,D,1993/4/24,,,,,,,,,,,,Tottenham Hotspur,245.0,yes,,0.0,no,,0.0,no,,,316.0,no,Tottenham Hotspur,Swansea City;Tottenham Hotspur,本·戴维斯
+3158,Ryan Shawcross,England,D,1987/10/4,,,,,,,,,,,,Stoke City,317.0,no,,0.0,no,,0.0,no,,,316.0,yes,,Manchester United;Stoke City,瑞恩·肖克罗斯
+991,Dennis Bergkamp,Netherlands,F,1969/5/10,,,,,,,87.0,,3.0,Arsenal,"1997–98, 2001–02, 2003–04",Arsenal,315.0,no,,0.0,no,,0.0,no,,,315.0,yes,,Arsenal,丹尼斯·博格坎普
+1458,Wayne Bridge,England,D,1980/8/5,,,,,,,,,,,,,,,,,,,,,,,315.0,yes,,Southampton;Chelsea;Fulham;Manchester City;Sunderland,韦恩·布里奇
+1934,Shaun Wright-Phillips,England,M,1981/10/25,,,,,,,,,,,,,,,,,,,,,,,315.0,yes,,Manchester City;Chelsea;Queens Park Rangers,肖恩·赖特-菲利普斯
+2070,Edwin van der Sar,Netherlands,G,1970/10/29,2008,21.0,136.0,,,,,,4.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11",,,,,,,,,,,,313.0,yes,,Fulham;Manchester United,埃德温·范德萨
+8897,Aaron Cresswell,England,D,1989/12/15,,,,,,,,,,,,West Ham United,312.0,no,,0.0,no,,0.0,no,,,312.0,no,Stoke City,West Ham United,阿隆·克雷斯韦尔
+338,Dion Dublin,England,F,1969/4/22,,,,,,,111.0,18.0,,,,,,,,,,,,,1997,18.0,312.0,yes,,Manchester United;Coventry City;Aston Villa;Leicester City,迪翁·都柏林
+544,Ian Walker,England,G,1971/10/31,,,,,,,,,,,,Tottenham Hotspur,240.0,no,,0.0,no,,0.0,no,,,312.0,yes,,Tottenham Hotspur;Leicester City;Bolton Wanderers,伊恩·沃克
+2529,James Morrison,Scotland,M,1986/5/25,,,,,,,,,,,,West Bromwich Albion,244.0,no,,0.0,no,,0.0,no,,,311.0,yes,,Middlesbrough;West Bromwich Albion,詹姆斯·莫里森
+307,Peter Schmeichel,Denmark,G,1963/11/18,,,129.0,1995,Manchester United,Premier League 10 Seasons Awards,,,5.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97, 1998–99",Manchester United,252.0,no,,0.0,no,,0.0,no,,,310.0,yes,,Manchester United;Aston Villa;Manchester City,彼得·舒梅切尔
+4845,Christian Eriksen,Denmark,M,1992/2/14,,,,,,,,,,,,Tottenham Hotspur,226.0,no,,0.0,no,,0.0,no,,,310.0,no,VfL Wolfsburg,Tottenham Hotspur;Brentford;Manchester United,克里斯蒂安·埃里克森
+3564,Marc Albrighton,England,M,1989/11/18,,,,,,,,,,,,Leicester City,224.0,no,,0.0,no,,0.0,no,,,310.0,yes,,Aston Villa;Leicester City,马克·奥尔布赖顿
+4145,David Silva,Spain,M,1986/1/8,,,,,,,,,4.0,Manchester City,"2011–12, 2013–14, 2017–18, 2018–19",Manchester City,309.0,no,,0.0,no,,0.0,no,,,309.0,yes,,Manchester City,大卫·席尔瓦
+3929,Joel Ward,England,D,1989/10/29,,,,,,,,,,,,Crystal Palace,306.0,no,,0.0,no,,0.0,no,,,309.0,no,Swansea City,Portsmouth;Crystal Palace,乔尔·沃德
+15202,Declan Rice,England,M,1999/1/14,,,,,,,,,,,,West Ham United,204.0,no,,0.0,no,,0.0,no,,,309.0,no,Arsenal FC,Arsenal;West Ham United,德克兰·赖斯
+1211,Wes Brown,England,D,1979/10/13,,,,,,,,,5.0,Manchester United,"1998–99, 2000–01, 2002–03, 2006–07, 2007–08",Manchester United,232.0,no,,0.0,no,,0.0,no,,,308.0,yes,,Manchester United;Sunderland,韦斯·布朗
+1132,Patrick Vieira,France,M,1976/6/23,,,,2000,Arsenal,Premier League 10 Seasons Awards,,,3.0,Arsenal,"1997–98, 2001–02, 2003–04",Arsenal,279.0,no,,0.0,no,,0.0,no,,,307.0,yes,,Arsenal;Manchester City,帕特里克·维埃拉
+2423,Steven Davis,Northern Ireland,M,1985/1/1,,,,,,,,,,,,Southampton,193.0,no,,0.0,no,,0.0,no,,,306.0,yes,,Aston Villa;Southampton,史蒂文·戴维斯
+326,Paul Ince,England,M,1967/10/21,,,,,,,,,,,,,,,,,,,,,,,306.0,yes,,Manchester United;Liverpool;Middlesbrough;Wolverhampton Wanderers,保罗·因斯
+4539,Wilfried Zaha,Cote D’Ivoire,F,1992/11/10,,,,,,,,,,,,Crystal Palace,291.0,no,,0.0,no,,0.0,no,,,305.0,no,Charlotte FC,Crystal Palace,威尔弗里德·扎哈
+72,Alan Wright,England,D,1971/9/28,,,,,,,,,,,,Aston Villa,260.0,no,,0.0,no,,0.0,no,,,305.0,yes,,Aston Villa,阿兰·赖特
+4618,Adam Lallana,England,M,1988/5/10,,,,,,,,,,,,,,,,,,,,,,,305.0,yes,,Southampton,亚当·拉拉纳
+13,Lee Dixon,England,D,1964/3/17,,,,,,,,,,,,Arsenal,305.0,no,,0.0,no,,0.0,no,,,305.0,yes,,Arsenal,李·迪克森
+5595,Jordan Ayew,Ghana,F,1991/9/11,,,,,,,,,,,,Crystal Palace,195.0,no,,0.0,no,,0.0,no,,,305.0,no,Leicester City,Aston Villa;Swansea City;Crystal Palace;Leicester City,乔丹·阿尤
+2889,Jack Cork,England,D,1989/6/25,,,,,,,,,,,,,,,,,,,,,,,304.0,no,Burnley FC U21,Burnley,杰克·科克
+2517,Phil Bardsley,Scotland,D,1985/6/28,,,,,,,,,,,,,,,,,,,,,,,303.0,yes,,Manchester United;Sunderland;Stoke City;Burnley,菲尔·巴兹利
+1775,Simon Davies,Wales,M,1979/10/23,,,,,,,,,,,,,,,,,,,,,,,303.0,yes,,Fulham,西蒙·戴维斯
+4198,Craig Dawson,England,D,1990/5/6,,,,,,,,,,,,,,,,,,,,,,,303.0,no,,West Bromwich Albion;Watford;West Ham United;Wolverhampton Wanderers,克雷格·道森
+1597,Nolberto Solano,Peru,M,1974/12/12,,,,,,,,,,,,Newcastle United,230.0,no,,0.0,no,,0.0,no,,,302.0,yes,,Newcastle United,诺尔伯托·索拉诺
+3654,Pablo Zabaleta,Argentina,D,1985/1/16,,,,,,,,,,,,Manchester City,230.0,no,,0.0,no,,0.0,no,,,302.0,yes,,West Ham United;Manchester City,巴勃罗·萨巴莱塔
+300,Garry Flitcroft,England,M,1972/11/6,,,,,,,,,,,,Blackburn Rovers,186.0,no,,0.0,no,,0.0,no,,,301.0,yes,,Blackburn Rovers,加里·弗利特克罗夫特
+1042,Gavin McCann,England,M,1978/1/10,,,,,,,,,,,,,,,,,,,,,,,301.0,yes,,Everton;Sunderland;Aston Villa;Bolton Wanderers,加文·麦卡恩
+4115,Ross Barkley,England,M,1993/12/5,,,,,,,,,,,,,,,,,,,,,,,300.0,no,Aston Villa,Aston Villa;Chelsea,罗斯·巴克利
+1962,Shola Ameobi,Nigeria,F,1981/10/12,,,,,,,,,,,,Newcastle United,295.0,no,,0.0,no,,0.0,no,,,298.0,yes,,Newcastle United,朔拉·阿梅奥比
+5067,Bernardo Silva,Portugal,M,1994/8/10,,,,,,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,298.0,yes,,0.0,no,,0.0,no,,,298.0,no,Manchester City,Manchester City,贝尔纳多·席尔瓦
+339,Mark Hughes,Wales,F,1963/11/1,,,,,,,,,,,,,,,,,,,,,,,297.0,yes,,Manchester United;Chelsea;Southampton;Everton;Blackburn Rovers,马克·休斯
+13565,Marcus Rashford,England,F,1997/10/31,,,,,,,89.0,,,,,Manchester United,287.0,no,,0.0,no,,0.0,no,,,297.0,no,FC Barcelona,Manchester United,马库斯·拉什福德
+2911,Pepe Reina,Spain,G,1982/8/31,"2005, 2006, 2007","18.0, 19.0, 20.0",136.0,,,,,,,,,Liverpool,285.0,no,,0.0,no,,0.0,no,,,297.0,yes,,Liverpool;Aston Villa,佩佩·雷纳
+2681,Wayne Routledge,England,M,1985/1/7,,,,,,,,,,,,Swansea City,198.0,no,,0.0,no,,0.0,no,,,297.0,yes,,Swansea City,韦恩·劳特利奇
+1306,Luís Boa Morte,Portugal,M,1977/8/4,,,,,,,,,,,,,,,,,,,,,,,295.0,yes,,Arsenal;Southampton;Fulham;West Ham United,路易斯·博阿莫特
+8163,Lewis Dunk,England,D,1991/11/21,,,,,,,,,,,,Brighton & Hove Albion,295.0,yes,,0.0,no,,0.0,no,,,295.0,no,Brighton & Hove Albion,Brighton & Hove Albion,路易斯·邓克
+262,Jamie Redknapp,England,M,1973/6/25,,,,,,,,,,,,Liverpool,231.0,no,,0.0,no,,0.0,no,,,295.0,yes,,Liverpool,杰米·雷德克纳普
+4549,Moussa Sissoko,France,M,1989/8/16,,,,,,,,,,,,,,,,,,,,,,,295.0,yes,,Newcastle United;Tottenham Hotspur;Watford,穆萨·西索科
+111,Graham Stuart,England,M,1970/10/24,,,,,,,,,,,,,,,,,,,,,,,294.0,yes,,Everton;Charlton Athletic,格雷厄姆·斯图尔特
+1869,Craig Bellamy,Wales,F,1979/7/13,,,,,,,,,,,,,,,,,,,,,,,293.0,yes,,Coventry City;Newcastle United;Blackburn Rovers;Liverpool;West Ham United;Manchester City;Cardiff City,克雷格·贝拉米
+1890,Titus Bramble,England,D,1981/7/31,,,,,,,,,,,,,,,,,,,,,,,292.0,yes,,Sunderland,泰图斯·布兰布尔
+5861,Cheikhou Kouyaté,Senegal,M,1989/12/21,,,,,,,,,,,,,,,,,,,,,,,291.0,no,,West Ham United;Crystal Palace;Nottingham Forest,谢库·库亚特
+3724,Andros Townsend,England,M,1991/7/16,,,,,,,,,,,,,,,,,,,,,,,291.0,no,Kanchanaburi Power FC,Tottenham Hotspur;Queens Park Rangers;Newcastle United;Crystal Palace;Everton;Luton Town,安德罗斯·汤森
+4608,Luke Shaw,England,D,1995/7/12,,,,,,,,,,,,Manchester United,231.0,yes,,0.0,no,,0.0,no,,,291.0,no,Manchester United,Manchester United;Southampton,卢克·肖
+524,Jeff Kenna,Ireland,D,1970/8/27,,,,,,,,,,,,,,,,,,,,,,,290.0,yes,,Derby County,杰夫·肯纳
+1246,Claus Lundekvam,Norway,D,1973/2/22,,,,,,,,,,,,Southampton,290.0,no,,0.0,no,,0.0,no,,,290.0,yes,,Southampton,克劳斯·伦德克瓦姆
+453,Andy Impey,England,M,1971/9/30,,,,,,,,,,,,,,,,,,,,,,,289.0,yes,,Nottingham Forest,安迪·因佩
+1598,Louis Saha,France,F,1978/8/8,,,,,,,84.0,,,,,,,,,,,,,,,,289.0,yes,,Newcastle United;Fulham;Manchester United;Everton;Tottenham Hotspur;Sunderland,路易斯·萨哈
+3517,James Tomkins,England,D,1989/3/29,,,,,,,,,,,,,,,,,,,,,,,289.0,yes,,West Ham United;Crystal Palace,詹姆斯·汤姆金斯
+103,Frank Sinclair,Jamaica,D,1971/12/3,,,,,,,,,,,,,,,,,,,,,,,288.0,yes,,Chelsea;Leicester City,弗兰克·辛克莱尔
+1131,Matt Upson,England,D,1979/4/18,,,,,,,,,,,,,,,,,,,,,,,288.0,yes,,Arsenal;Birmingham City;West Ham United;Stoke City;Leicester City,马特·厄普森
+41,Steve Staunton,Ireland,D,1969/1/19,,,,,,,,,,,,Aston Villa,244.0,no,,0.0,no,,0.0,no,,,288.0,yes,,Coventry City;Aston Villa,史蒂夫·斯汤顿
+4288,Kevin De Bruyne,Belgium,M,1991/6/28,,,,"2019, 2021",Manchester City,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,285.0,no,,0.0,no,,0.0,no,,,288.0,no,SSC Napoli,Chelsea;Manchester City,凯文·德布劳内
+1413,Jimmy Floyd Hasselbaink,Netherlands,F,1972/3/27,,,,,,,127.0,"18.0, 23.0",,,,,,,,,,,,,"1998, 2000","18.0, 23.0",288.0,yes,,Leeds United;Chelsea;Middlesbrough;Charlton Athletic,吉米·弗洛伊德·哈塞尔巴因克
+2058,Carlton Cole,England,F,1983/10/12,,,,,,,,,,,,West Ham United,216.0,no,,0.0,no,,0.0,no,,,288.0,yes,,West Ham United,卡尔顿·科尔
+1772,Matthew Etherington,England,M,1981/8/14,,,,,,,,,,,,,,,,,,,,,,,288.0,yes,,Stoke City,马修·埃瑟林顿
+2574,Joleon Lescott,England,D,1982/8/16,,,,,,,,,,,,,,,,,,,,,,,287.0,yes,,Everton;Manchester City;West Bromwich Albion;Aston Villa;Sunderland,乔莱昂·莱斯科特
+9566,Harry Maguire,England,D,1993/3/5,,,,,,,,,,,,,,,,,,,,,,,286.0,yes,,Manchester United,哈里·马奎尔
+4489,Ashley Westwood,England,M,1990/4/1,,,,,,,,,,,,,,,,,,,,,,,286.0,no,Charlotte FC,Aston Villa;Burnley,阿什利·韦斯特伍德
+2805,Michael Dawson,England,D,1983/11/18,,,,,,,,,,,,Tottenham Hotspur,236.0,no,,0.0,no,,0.0,no,,,286.0,yes,,Hull City;Tottenham Hotspur,迈克尔·道森
+519,Tim Flowers,England,G,1967/2/3,,,88.0,,,,,,,,,,,,,,,,,,,,286.0,yes,,Southampton;Blackburn Rovers;Leicester City,蒂姆·弗劳尔斯
+488,Brian Deane,England,F,1968/2/7,,,,,,,,,,,,,,,,,,,,,,,286.0,yes,,Sunderland,布赖恩·迪恩
+1412,Alan Smith,England,M,1980/10/28,,,,,,,,,,,,,,,,,,,,,,,285.0,yes,,Leeds United;Manchester United;Newcastle United,阿兰·史密斯
+2704,Mikel Arteta,Spain,M,1982/3/26,,,,,,,,,,,,,,,,,,,,,,,284.0,yes,,Everton;Arsenal,米克尔·阿尔特塔
+2075,Zat Knight,England,D,1980/5/2,,,,,,,,,,,,,,,,,,,,,,,284.0,yes,,Reading,扎特·奈特
+1677,Mario Melchiot,Netherlands,D,1976/11/4,,,,,,,,,,,,,,,,,,,,,,,284.0,yes,,Chelsea;Birmingham City;Wigan Athletic,马里奥·梅尔基奥特
+2508,Kasper Schmeichel,Denmark,G,1986/11/5,,,83.0,,,,,,,,,Leicester City,276.0,no,,0.0,no,,0.0,no,,,284.0,no,Celtic FC,Leicester City,卡斯帕·舒梅切尔
+8983,Riyad Mahrez,Algeria,F,1991/2/21,,,,,,,82.0,,5.0,"Leicester City (1), Manchester City (4)","2015–16, 2018–19, 2020–21, 2021–22, 2022–23",,,,,,,,,,,,284.0,no,Al-Ahli SFC,Leicester City;Manchester City,里亚德·马赫雷斯
+1175,Lee Carsley,Ireland,M,1974/2/28,,,,,,,,,,,,,,,,,,,,,,,282.0,yes,,Derby County;Blackburn Rovers;Coventry City;Everton;Birmingham City,李·卡斯利
+2613,Sebastian Larsson,Sweden,M,1985/6/6,,,,,,,,,,,,,,,,,,,,,,,282.0,yes,,Arsenal;Birmingham City;Sunderland;Hull City,塞巴斯蒂安·拉尔森
+2755,Charles N'Zogbia,France,M,1986/5/28,,,,,,,,,,,,,,,,,,,,,,,281.0,yes,,Aston Villa,查尔斯·恩佐比亚
+4333,Michael Keane,England,D,1993/1/11,,,,,,,,,,,,Everton,224.0,no,,0.0,no,,0.0,no,,,281.0,no,Everton FC,Everton;Burnley,迈克尔·基恩
+23,Paul Merson,England,M,1968/3/20,,,,,,,,,,,,,,,,,,,,,,,280.0,yes,,Arsenal;Middlesbrough;Aston Villa;Portsmouth,保罗·默森
+2616,Robin van Persie,Netherlands,F,1983/8/6,,,,,,,144.0,"26.0, 30.0",,,,Arsenal,194.0,no,,0.0,no,,0.0,no,"2011, 2012","30.0, 26.0",280.0,yes,,Arsenal;Manchester United,罗宾·范佩西
+8980,Jeffrey Schlupp,Ghana,M,1992/12/23,,,,,,,,,,,,Crystal Palace,220.0,no,,0.0,no,,0.0,no,,,280.0,no,Norwich City,Norwich City;Crystal Palace,杰弗里·施鲁普
+1664,Andy O'Brien,Ireland,D,1979/6/29,,,,,,,,,,,,,,,,,,,,,,,280.0,yes,,Leeds United,安迪·奥布赖恩
+721,Robert Lee,England,M,1966/2/1,,,,,,,,,,,,Newcastle United,267.0,no,,0.0,no,,0.0,no,,,280.0,yes,,Newcastle United,罗伯特·李
+4492,Christian Benteke,Belgium,F,1990/12/3,,,,,,,86.0,,,,,,,,,,,,,,,,280.0,no,Al-Wahda FC,Aston Villa;Liverpool;Crystal Palace,克里斯蒂安·本特克
+2127,Jermaine Jenas,England,M,1983/2/18,,,,,,,,,,,,,,,,,,,,,,,280.0,yes,,Newcastle United;Tottenham Hotspur;Aston Villa;Queens Park Rangers,杰梅因·耶纳斯
+2018,Lucas Neill,Australia,D,1978/3/9,,,,,,,,,,,,Blackburn Rovers,188.0,no,,0.0,no,,0.0,no,,,279.0,yes,,Blackburn Rovers,卢卡斯·尼尔
+4290,Romelu Lukaku,Belgium,F,1993/5/13,,,,,,,121.0,,,,,,,,,,,,,,,,278.0,yes,,Chelsea;West Bromwich Albion;Everton;Manchester United,罗梅卢·卢卡库
+4135,Jonjo Shelvey,England,M,1992/2/27,,,,,,,,,,,,,,,,,,,,,,,278.0,yes,,Liverpool;Swansea City;Newcastle United;Nottingham Forest,琼乔·谢尔维
+4287,Juan Mata,Spain,M,1988/4/28,,,,,,,,,,,,,,,,,,,,,,,278.0,yes,,Chelsea;Manchester United,胡安·马塔
+107,Dennis Wise,England,M,1966/12/16,,,,,,,,,,,,Chelsea,261.0,no,,0.0,no,,0.0,no,,,278.0,yes,,Chelsea,丹尼斯·怀斯
+2934,Patrice Evra,France,D,1981/5/15,,,,,,,,,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,273.0,no,,0.0,no,,0.0,no,,,278.0,yes,,Manchester United,帕特里斯·埃弗拉
+13823,Abdoulaye Doucouré,Mali,M,1993/1/1,,,,,,,,,,,,,,,,,,,,,,,278.0,no,NEOM SC,Watford;Everton,阿卜杜拉耶·杜库雷
+3010,James Collins,Wales,D,1983/8/23,,,,,,,,,,,,West Ham United,188.0,no,,0.0,no,,0.0,no,,,278.0,yes,,Ipswich Town;West Ham United,詹姆斯·柯林斯
+590,Warren Barton,England,D,1969/3/19,,,,,,,,,,,,,,,,,,,,,,,277.0,yes,,Wimbledon;Newcastle United;Derby County,沃伦·巴顿
+3909,Ben Mee,England,D,1989/9/21,,,,,,,,,,,,Burnley,217.0,no,,0.0,no,,0.0,no,,,277.0,no,Sheffield United,Sheffield United;Burnley,本·米
+2098,Darren Bent,England,F,1984/2/6,,,,,,,106.0,,,,,,,,,,,,,,,,276.0,yes,,Ipswich Town;Charlton Athletic;Tottenham Hotspur;Sunderland;Aston Villa;Fulham,达伦·本特
+4604,Nathaniel Clyne,England,D,1991/4/5,,,,,,,,,,,,,,,,,,,,,,,276.0,yes,,Crystal Palace;Liverpool,内森尼尔·克莱因
+259,Dominic Matteo,Scotland,D,1974/4/28,,,,,,,,,,,,,,,,,,,,,,,276.0,yes,,Liverpool;Leeds United;Blackburn Rovers;Stoke City,多米尼克·马特奥
+3811,Nathan Redmond,England,M,1994/3/6,,,,,,,,,,,,Southampton,195.0,no,,0.0,no,,0.0,no,,,276.0,no,Blackburn Rovers,Blackburn Rovers;Southampton,内森·雷德蒙德
+12707,Ederson,Brazil,G,1993/8/17,"2019, 2020, 2021","16.0, 19.0, 20.0",127.0,,,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,276.0,no,,0.0,no,,0.0,no,,,276.0,no,Fenerbahce,Manchester City,埃德森
+2299,Glenn Whelan,Ireland,M,1984/1/13,,,,,,,,,,,,Stoke City,276.0,no,,0.0,no,,0.0,no,,,276.0,yes,,Stoke City,格伦·惠兰
+271,Steve McManaman,England,M,1972/2/11,,,,,,,,,,,,Liverpool,240.0,no,,0.0,no,,0.0,no,,,275.0,yes,,Liverpool,史蒂夫·麦克马纳曼
+1719,Mikaël Silvestre,France,D,1977/8/9,,,,,,,,,4.0,Manchester United,"1999–2000, 2000–01, 2002–03, 2006–07",Manchester United,249.0,no,,0.0,no,,0.0,no,,,275.0,yes,,Manchester United,米凯尔·西尔维斯特
+74,Henning Berg,Norway,D,1969/9/1,,,,,,,,,3.0,"Blackburn Rovers (1), Manchester United (2)","1994–95, 1998–99, 1999–2000",Blackburn Rovers,209.0,no,,0.0,no,,0.0,no,,,275.0,yes,,Blackburn Rovers;Manchester United,亨宁·博格
+4328,Sergio Agüero,Argentina,F,1988/6/2,,,,,,,184.0,26.0,5.0,Manchester City,"2011–12, 2013–14, 2017–18, 2018–19, 2020–21",Manchester City,275.0,no,,0.0,no,,0.0,no,2014,26.0,275.0,yes,,Manchester City,塞尔吉奥·阿圭罗
+4112,Eric Dier,England,D,1994/1/15,,,,,,,,,,,,Tottenham Hotspur,274.0,no,,0.0,no,,0.0,no,,,274.0,no,AS Monaco,Tottenham Hotspur,埃里克·戴尔
+3360,Branislav Ivanovic,Serbia,D,1984/2/22,,,,,,,,,3.0,Chelsea,"2009–10, 2014–15, 2016–17",Chelsea,261.0,no,,0.0,no,,0.0,no,,,274.0,yes,,West Bromwich Albion;Chelsea,布拉尼斯拉夫·伊万诺维奇
+1049,Harry Kewell,Australia,M,1978/9/22,,,,,,,,,,,,Leeds United,181.0,no,,0.0,no,,0.0,no,,,274.0,yes,,Leeds United,哈里·科威尔
+1168,Chris Powell,England,D,1969/9/8,,,,,,,,,,,,Charlton Athletic,187.0,no,,0.0,no,,0.0,no,,,274.0,yes,,Leicester City;Charlton Athletic,克里斯·鲍威尔
+1502,Kanu,Nigeria,F,1976/8/1,,,,,,,,,,,,,,,,,,,,,,,273.0,yes,,Portsmouth,卡努
+80,Jason Wilcox,England,M,1971/7/15,,,,,,,,,,,,Blackburn Rovers,192.0,no,,0.0,no,,0.0,no,,,273.0,yes,,Leicester City;Blackburn Rovers,贾森·威尔考克斯
+3756,Chris Wood,New Zealand,F,1991/12/7,,,,,,,91.0,,,,,,,,,,,,,,,,273.0,no,Nottingham Forest,Nottingham Forest,克里斯·伍德
+3979,James McCarthy,Ireland,M,1990/11/12,,,,,,,,,,,,,,,,,,,,,,,272.0,yes,,Wigan Athletic;Everton;Crystal Palace,詹姆斯·麦卡锡
+2949,Lee Cattermole,England,M,1988/3/21,,,,,,,,,,,,,,,,,,,,,,,271.0,yes,,Sunderland,李·卡特莫尔
+4979,Adama Traoré,Spain,F,1996/1/25,,,,,,,,,,,,,,,,,,,,,,,270.0,no,West Ham United,West Ham United;Fulham,阿达马·特拉奥雷
+24630,Richarlison,Brazil,F,1997/5/10,,,,,,,,,,,,,,,,,,,,,,,270.0,yes,,Tottenham Hotspur;Everton,理查利森
+533,Matthew Le Tissier,England,M,1968/10/14,,,,,,,101.0,,,,,Southampton,270.0,no,,0.0,no,,0.0,no,,,270.0,yes,,Southampton,马修·勒蒂西耶
+2303,Joey Barton,England,M,1982/9/2,,,,,,,,,,,,,,,,,,,,,,,269.0,yes,,Burnley,乔伊·巴顿
+3744,Chris Brunt,Northern Ireland,M,1984/12/14,,,,,,,,,,,,West Bromwich Albion,269.0,no,,0.0,no,,0.0,no,,,269.0,yes,,West Bromwich Albion,克里斯·布伦特
+877,Duncan Ferguson,Scotland,F,1971/12/27,,,,,,,,,,,,Everton,239.0,no,,0.0,no,,0.0,no,,,269.0,yes,,Everton,邓肯·弗格森
+9576,Dominic Calvert-Lewin,England,F,1997/3/16,,,,,,,,,,,,Everton,239.0,no,,0.0,no,,0.0,no,,,269.0,no,Leeds United,Leeds United;Everton,多米尼克·卡尔弗特-卢因
+9595,Michail Antonio,Jamaica,F,1990/3/28,,,,,,,,,,,,West Ham United,268.0,no,,0.0,no,,0.0,no,,,268.0,no,Al-Sailiya SC,West Ham United,米凯尔·安东尼奥
+1595,Dietmar Hamann,Germany,M,1973/8/27,,,,,,,,,,,,Liverpool,191.0,no,,0.0,no,,0.0,no,,,268.0,yes,,Liverpool,迪特马尔·哈曼
+1627,Ledley King,England,D,1980/10/12,,,,,,,,,,,,Tottenham Hotspur,268.0,no,,0.0,no,,0.0,no,,,268.0,yes,,Tottenham Hotspur,勒德利·金
+3311,Bacary Sagna,France,D,1983/2/14,,,,,,,,,,,,Arsenal,213.0,no,,0.0,no,,0.0,no,,,267.0,yes,,Arsenal,巴卡里·萨尼亚
+2758,Robert Green,England,G,1980/1/18,,,,,,,,,,,,,,,,,,,,,,,266.0,yes,,Chelsea,罗伯特·格林
+937,Colin Cooper,England,D,1967/2/28,,,,,,,,,,,,,,,,,,,,,,,266.0,yes,,Nottingham Forest;Middlesbrough,科林·库珀
+243,David Batty,England,M,1968/12/2,,,,,,,,,,,,,,,,,,,,,,,266.0,yes,,Leeds United;Blackburn Rovers;Newcastle United,大卫·巴蒂
+1881,Tony Hibbert,England,D,1981/2/20,,,,,,,,,,,,Everton,265.0,no,,0.0,no,,0.0,no,,,265.0,yes,,Everton,托尼·希伯特
+2274,Adam Johnson,England,M,1987/7/14,,,,,,,,,,,,,,,,,,,,,,,265.0,yes,,Middlesbrough;Manchester City;Sunderland,亚当·约翰逊
+3653,Vincent Kompany,Belgium,D,1986/4/10,,,,2011,Manchester City,,,,4.0,Manchester City,"2011–12, 2013–14, 2017–18, 2018–19",Manchester City,265.0,no,,0.0,no,,0.0,no,,,265.0,yes,,Manchester City,文森特·孔帕尼
+1982,Kieran Richardson,England,D,1984/10/21,,,,,,,,,,,,,,,,,,,,,,,265.0,yes,,Manchester United;West Bromwich Albion;Sunderland;Fulham;Aston Villa,基兰·理查德森
+1309,Darius Vassell,England,F,1980/6/13,,,,,,,,,,,,,,,,,,,,,,,265.0,yes,,Leicester City,达里乌斯·瓦塞尔
+8454,Callum Wilson,England,F,1992/2/27,,,,,,,93.0,,,,,,,,,,,,,,,,265.0,no,West Ham United,West Ham United,卡勒姆·威尔逊
+331,David Beckham,England,M,1975/5/2,,,,,,Premier League 10 Seasons Awards,,,6.0,Manchester United,"1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03",Manchester United,265.0,no,,0.0,no,,0.0,no,,,265.0,yes,,Manchester United,大卫·贝克汉姆
+1118,Jason Euell,Jamaica,F,1977/2/6,,,,,,,,,,,,,,,,,,,,,,,264.0,yes,,Wimbledon;Charlton Athletic;Middlesbrough,贾森·尤尔
+4804,Fernandinho,Brazil,M,1985/5/4,,,,,,,,,5.0,Manchester City,"2013–14, 2017–18, 2018–19, 2020–21, 2021–22",Manchester City,264.0,no,,0.0,no,,0.0,no,,,264.0,yes,,Manchester City,费尔南迪尼奥
+750,Des Walker,England,D,1965/11/26,,,,,,,,,,,,Sheffield Wednesday,264.0,no,,0.0,no,,0.0,no,,,264.0,yes,,Sheffield Wednesday,德斯·沃克
+406,Steve Stone,England,M,1971/8/20,,,,,,,,,,,,,,,,,,,,,,,263.0,yes,,Nottingham Forest;Aston Villa;Leicester City;Portsmouth,史蒂夫·斯通
+6519,Sadio Mané,Senegal,F,1992/4/10,,,,,,,111.0,22.0,,,,Liverpool,196.0,no,,0.0,no,,0.0,no,2018,22.0,263.0,no,Al-Nassr FC,Southampton;Liverpool,萨迪奥·马内
+1768,Kevin Phillips,England,F,1973/7/25,,,,1999,Sunderland,,92.0,30.0,,,,,,,,,,,,,1999,30.0,263.0,yes,,Sunderland;Southampton;Aston Villa;West Bromwich Albion;Birmingham City;Crystal Palace,凯文·菲利普斯
+2886,Ryan Bertrand,England,D,1989/8/5,,,,,,,,,,,,Southampton,214.0,no,,0.0,no,,0.0,no,,,262.0,yes,,Southampton,瑞恩·伯特兰
+3548,Aaron Ramsey,Wales,M,1990/12/26,,,,,,,,,,,,Arsenal,262.0,no,,0.0,no,,0.0,no,,,262.0,yes,,Cardiff City;Arsenal,阿隆·拉姆塞
+320,Gary Pallister,England,D,1965/6/30,,,,,,,,,4.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97",,,,,,,,,,,,261.0,yes,,Manchester United,加里·帕利斯特
+497,Carlton Palmer,England,D,1965/12/5,,,,,,,,,,,,,,,,,,,,,,,261.0,yes,,Sheffield Wednesday;Leeds United;Coventry City;Southampton,卡尔顿·帕尔默
+3604,Marouane Fellaini,Belgium,M,1987/11/22,,,,,,,,,,,,,,,,,,,,,,,260.0,yes,,Manchester United,马鲁万·费莱尼
+2847,Craig Gardner,England,M,1986/11/25,,,,,,,,,,,,,,,,,,,,,,,260.0,yes,,Aston Villa;Birmingham City;Sunderland;West Bromwich Albion,克雷格·加德纳
+14732,Trent Alexander-Arnold,England,D,1998/10/7,,,,,,,,,,,,Liverpool,259.0,no,,0.0,no,,0.0,no,,,259.0,no,Real Madrid,Liverpool,特伦特·亚历山大-阿诺德
+2636,Morten Pedersen,Norway,M,1981/9/8,,,,,,,,,,,,Blackburn Rovers,259.0,no,,0.0,no,,0.0,no,,,259.0,yes,,Blackburn Rovers,莫滕·佩德森
+3851,Jay Rodriguez,England,F,1989/7/29,,,,,,,,,,,,,,,,,,,,,,,258.0,yes,,Burnley;Southampton;West Bromwich Albion,杰伊·罗德里格斯
+1659,Thierry Henry,France,F,1977/8/17,,,,"2003, 2005",Arsenal,Premier League 20 Seasons Awards,175.0,"24.0, 25.0, 27.0, 30.0",,,,Arsenal,258.0,no,,0.0,no,,0.0,no,"2001, 2003, 2004, 2005","24.0, 30.0, 25.0, 27.0",258.0,yes,,Arsenal,蒂埃里·亨利
+228,David Wetherall,England,D,1971/3/14,,,,,,,,,,,,Leeds United,201.0,no,,0.0,no,,0.0,no,,,257.0,yes,,Leeds United,大卫·韦瑟雷尔
+2013,Liam Ridgewell,England,D,1984/7/21,,,,,,,,,,,,,,,,,,,,,,,257.0,yes,,Aston Villa;Birmingham City;West Bromwich Albion,利亚姆·里奇韦尔
+13511,Roberto Firmino,Brazil,F,1991/10/2,,,,,,,82.0,,,,,Liverpool,256.0,no,,0.0,no,,0.0,no,,,256.0,no,Al-Sadd SC,Liverpool,罗伯托·菲尔米诺
+2537,Asmir Begovic,Bosnia & Herzegovina,G,1987/6/20,,,,,,,,,,,,,,,,,,,,,,,256.0,no,Leicester City,Leicester City,阿斯米尔·贝戈维奇
+3,Tony Adams,England,D,1966/10/10,,,,,,Premier League 10 Seasons Awards,,,,,,Arsenal,255.0,no,,0.0,no,,0.0,no,,,255.0,yes,,Arsenal,托尼·亚当斯
+4481,Olivier Giroud,France,F,1986/9/30,,,,,,,90.0,,,,,,,,,,,,,,,,255.0,yes,,Arsenal;Chelsea,奥利维耶·吉鲁
+4030,Laurent Koscielny,France,D,1985/9/10,,,,,,,,,,,,Arsenal,255.0,no,,0.0,no,,0.0,no,,,255.0,yes,,Arsenal,洛朗·科斯切尔尼
+4505,John Stones,England,D,1994/5/28,,,,,,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",,,,,,,,,,,,255.0,no,Manchester City,Everton;Manchester City,约翰·斯通斯
+390,Chris Sutton,England,F,1973/3/10,,,,,,,83.0,18.0,,,,,,,,,,,,,1997,18.0,255.0,yes,,Norwich City;Blackburn Rovers;Chelsea;Birmingham City;Aston Villa,克里斯·萨顿
+20559,Alisson Becker,Brazil,G,1992/10/2,"2018, 2021","20.0, 21.0",106.0,,,,,,,,,Liverpool,254.0,no,,0.0,no,,0.0,no,,,254.0,no,Liverpool FC,Liverpool,阿利松·贝克尔
+2662,Didier Drogba,Cote D’Ivoire,F,1978/3/11,,,,,,,104.0,"20.0, 29.0",4.0,Chelsea,"2004–05, 2005–06, 2009–10, 2014–15",Chelsea,254.0,no,,0.0,no,,0.0,no,"2006, 2009","20.0, 29.0",254.0,yes,,Chelsea,迪迪埃·德罗巴
+12136,Granit Xhaka,Switzerland,M,1992/9/27,,,,,,,,,,,,Arsenal,225.0,no,,0.0,no,,0.0,no,,,254.0,no,Sunderland AFC,Sunderland;Arsenal,格拉尼特·扎卡
+5272,Pierre-Emile Højbjerg,Denmark,M,1995/8/5,,,,,,,,,,,,,,,,,,,,,,,254.0,yes,,Southampton;Tottenham Hotspur,皮埃尔-埃米尔·霍伊别尔
+154,Richard Shaw,England,D,1968/9/11,,,,,,,,,,,,,,,,,,,,,,,253.0,yes,,Crystal Palace;Coventry City,理查德·肖
+3512,Adam Smith,England,D,1991/4/29,,,,,,,,,,,,Bournemouth,252.0,no,,0.0,no,,0.0,no,,,253.0,no,AFC Bournemouth,Bournemouth,亚当·史密斯
+12582,Idrissa Gueye,Senegal,M,1989/9/26,,,,,,,,,,,,Everton,218.0,no,,0.0,no,,0.0,no,,,253.0,no,Everton FC,Everton,伊德里萨·盖耶
+2553,Yakubu,Nigeria,F,1982/11/22,,,,,,,95.0,,,,,,,,,,,,,,,,252.0,yes,,Coventry City,雅库布
+1429,Jonathan Greening,England,M,1979/1/2,,,,,,,,,,,,,,,,,,,,,,,252.0,yes,,Manchester United;Middlesbrough;West Bromwich Albion;Fulham,乔纳森·格里宁
+2603,Bobby Zamora,England,F,1981/1/16,,,,,,,,,,,,,,,,,,,,,,,252.0,yes,,Brighton & Hove Albion,鲍比·扎莫拉
+3861,Nemanja Matic,Serbia,M,1988/8/1,,,,,,,,,,,,,,,,,,,,,,,251.0,yes,,Chelsea;Manchester United,内马尼亚·马蒂奇
+958,Matt Oakley,England,M,1977/8/17,,,,,,,,,,,,Southampton,232.0,no,,0.0,no,,0.0,no,,,251.0,yes,,Southampton,马特·奥克利
+848,Lee Hendrie,England,M,1977/5/18,,,,,,,,,,,,Aston Villa,251.0,no,,0.0,no,,0.0,no,,,251.0,yes,,Aston Villa,李·亨德利
+2041,Ricardo Gardner,Jamaica,M,1978/9/25,,,,,,,,,,,,Bolton Wanderers,251.0,no,,0.0,no,,0.0,no,,,251.0,yes,,Bolton Wanderers,里卡多·加德纳
+1337,David Dunn,England,M,1979/12/27,,,,,,,,,,,,Blackburn Rovers,204.0,no,,0.0,no,,0.0,no,,,251.0,yes,,Blackburn Rovers,大卫·邓恩
+304,Niall Quinn,Ireland,F,1966/10/6,,,,,,,,,,,,,,,,,,,,,,,250.0,yes,,Coventry City;Arsenal;Manchester City;Sunderland,尼尔·奎因
+4499,Nathan Aké,Netherlands,D,1995/2/18,,,,,,,,,4.0,Manchester City,"2020–21, 2021–22, 2022–23, 2023–24",,,,,,,,,,,,250.0,no,Manchester City,Manchester City;Bournemouth,内森·阿克
+5758,Lucas Digne,France,D,1993/7/20,,,,,,,,,,,,,,,,,,,,,,,250.0,yes,,Aston Villa;Everton,卢卡斯·迪涅
+3102,John Obi Mikel,Nigeria,M,1987/4/22,,,,,,,,,,,,Chelsea,249.0,no,,0.0,no,,0.0,no,,,249.0,yes,,Stoke City;Chelsea,约翰·奥比·米克尔
+3175,Andy Carroll,England,F,1989/1/6,,,,,,,,,,,,,,,,,,,,,,,248.0,yes,,Newcastle United;Liverpool;West Ham United,安迪·卡罗尔
+670,Muzzy Izzet,Turkiye,M,1974/10/31,,,,,,,,,,,,Leicester City,222.0,no,,0.0,no,,0.0,no,,,248.0,yes,,Leicester City,穆齐·伊泽特
+5175,Kurt Zouma,France,D,1994/10/27,,,,,,,,,,,,,,,,,,,,,,,247.0,yes,,Chelsea;Stoke City;Everton;West Ham United,库尔特·祖马
+847,Ian Taylor,England,M,1968/6/4,,,,,,,,,,,,Aston Villa,234.0,no,,0.0,no,,0.0,no,,,247.0,yes,,Derby County;Aston Villa,伊恩·泰勒
+583,Neil Sullivan,Scotland,G,1970/2/24,,,,,,,,,,,,,,,,,,,,,,,247.0,yes,,Wimbledon;Tottenham Hotspur;Chelsea;Leeds United,尼尔·沙利文
+3137,Lucas Leiva,Brazil,M,1987/1/9,,,,,,,,,,,,Liverpool,247.0,no,,0.0,no,,0.0,no,,,247.0,yes,,Liverpool,卢卡斯·莱瓦
+2434,Brett Emerton,Australia,M,1979/2/22,,,,,,,,,,,,Blackburn Rovers,247.0,no,,0.0,no,,0.0,no,,,246.0,yes,,Blackburn Rovers,布雷特·埃默顿
+4985,Bernd Leno,Germany,G,1992/3/4,,,,,,,,,,,,,,,,,,,,,,,246.0,no,Fulham FC,Fulham;Arsenal,伯恩德·莱诺
+24797,Dwight McNeil,England,F,1999/11/22,,,,,,,,,,,,,,,,,,,,,,,246.0,no,Everton FC,Everton;Burnley,德怀特·麦克尼尔
+4503,Eden Hazard,Belgium,F,1991/1/7,,,,2014,Chelsea,,85.0,,,,,Chelsea,245.0,no,,0.0,no,,0.0,no,,,245.0,yes,,Chelsea,埃登·阿扎尔
+2928,Stephen Ireland,Ireland,M,1986/8/22,,,,,,,,,,,,,,,,,,,,,,,245.0,yes,,Manchester City;Aston Villa;Newcastle United;Stoke City,斯蒂芬·爱尔兰
+4179,Simon Mignolet,Belgium,G,1988/3/6,,,81.0,,,,,,,,,,,,,,,,,,,,245.0,no,Club Brugge KV,Sunderland;Liverpool,西蒙·米尼奥莱
+598,Robbie Earle,Jamaica,M,1965/1/27,,,,,,,,,,,,,,,,,,,,,,,244.0,yes,,Wimbledon,罗比·厄尔
+1565,Jonathan Woodgate,England,D,1980/1/22,,,,,,,,,,,,,,,,,,,,,,,244.0,yes,,Middlesbrough,乔纳森·伍德盖特
+245,Noel Whelan,England,F,1974/12/30,,,,,,,,,,,,,,,,,,,,,,,243.0,yes,,Leeds United;Coventry City;Middlesbrough,诺尔·惠兰
+1335,Stéphane Henchoz,Switzerland,D,1974/9/7,,,,,,,,,,,,,,,,,,,,,,,243.0,yes,,Blackburn Rovers;Liverpool;Wigan Athletic,斯特凡·亨乔兹
+10079,Nick Pope,England,G,1992/4/19,,,82.0,,,,,,,,,,,,,,,,,,,,243.0,no,Newcastle United,Newcastle United;Burnley,尼克·波普
+4123,Mousa Dembélé,Belgium,M,1987/7/16,,,,,,,,,,,,Tottenham Hotspur,181.0,no,,0.0,no,,0.0,no,,,243.0,yes,,Tottenham Hotspur,穆萨·登贝莱
+523,Francis Benali,England,D,1968/12/30,,,,,,,,,,,,Southampton,243.0,no,,0.0,no,,0.0,no,,,243.0,yes,,Southampton,弗朗西斯·贝纳利
+3448,Tom Cleverley,England,M,1989/8/12,,,,,,,,,,,,,,,,,,,,,,,242.0,yes,,Watford,汤姆·克莱弗利
+2289,El Hadji Diouf,Senegal,M,1981/1/15,,,,,,,,,,,,,,,,,,,,,,,242.0,yes,,Leeds United,埃尔哈吉·迪乌夫
+2991,Tom Huddlestone,England,M,1986/12/28,,,,,,,,,,,,,,,,,,,,,,,242.0,yes,,Hull City,汤姆·赫德尔斯通
+3404,Martin Skrtel,Slovakia,D,1984/12/15,,,,,,,,,,,,Liverpool,242.0,no,,0.0,no,,0.0,no,,,242.0,no,TJ SPP Velke Bierovce-Opatovce,Liverpool,马丁·斯科特尔
+22542,Pascal Groß,Germany,M,1991/6/15,,,,,,,,,,,,Brighton & Hove Albion,242.0,yes,,0.0,no,,0.0,no,,,242.0,no,Brighton & Hove Albion,Brighton & Hove Albion,帕斯卡尔·格罗斯
+2845,Emmanuel Adebayor,Togo,F,1984/2/26,,,,,,,97.0,,,,,,,,,,,,,,,,241.0,yes,,Arsenal;Manchester City;Tottenham Hotspur;Crystal Palace,埃马纽埃尔·阿德巴约
+3807,Scott Dann,England,D,1987/2/14,,,,,,,,,,,,,,,,,,,,,,,241.0,yes,,Reading,斯科特·丹恩
+19680,Gabriel Jesus,Brazil,F,1997/4/3,,,,,,,,,4.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22",,,,,,,,,,,,241.0,no,Arsenal FC,Arsenal;Manchester City,加布里埃尔·热苏斯
+1497,Freddie Ljungberg,Sweden,M,1977/4/16,,,,2001,Arsenal,,,,,,,Arsenal,216.0,no,,0.0,no,,0.0,no,,,241.0,yes,,Arsenal;West Ham United,弗雷迪·永贝里
+4403,Ashley Williams,Wales,D,1984/8/23,,,,,,,,,,,,Swansea City,181.0,no,,0.0,no,,0.0,no,,,241.0,yes,,Swansea City,阿什利·威廉姆斯
+1505,Jlloyd Samuel,Trinidad & Tobago,D,1981/3/29,,,,,,,,,,,,,,,,,,,,,,,240.0,yes,,Bolton Wanderers,J罗伊德·塞缪尔
+1909,Mark Viduka,Australia,F,1975/10/9,,,,,,,92.0,,,,,,,,,,,,,,,,240.0,yes,,Leeds United;Middlesbrough;Newcastle United,马克·维杜卡
+8245,Danny Ings,England,F,1992/7/23,,,,,,,,,,,,,,,,,,,,,,,240.0,yes,,Sheffield United,丹尼·英斯
+79,Stuart Ripley,England,M,1967/11/20,,,,,,,,,,,,Blackburn Rovers,187.0,no,,0.0,no,,0.0,no,,,240.0,yes,,Blackburn Rovers,斯图尔特·里普利
+3982,Mohamed Diamé,Senegal,M,1987/6/14,,,,,,,,,,,,,,,,,,,,,,,239.0,yes,,Wigan Athletic;West Ham United;Hull City;Newcastle United,穆罕默德·迪亚梅
+4286,Oriol Romeu,Spain,M,1991/9/24,,,,,,,,,,,,Southampton,217.0,no,,0.0,no,,0.0,no,,,239.0,no,Southampton FC,Southampton,奥里奥尔·罗梅乌
+5865,Youri Tielemans,Belgium,M,1997/5/7,,,,,,,,,,,,,,,,,,,,,,,239.0,no,Aston Villa,Aston Villa;Leicester City,尤里·蒂勒曼斯
+329,Keith Gillespie,Northern Ireland,M,1975/2/18,,,,,,,,,,,,,,,,,,,,,,,238.0,yes,,Manchester United;Newcastle United;Blackburn Rovers;Leicester City;Sheffield United,基思·吉莱斯皮
+3394,Brede Hangeland,Norway,D,1981/6/20,,,,,,,,,,,,Fulham,217.0,no,,0.0,no,,0.0,no,,,238.0,yes,,Fulham,布雷德·汉格兰
+96,Ian Pearce,England,D,1974/5/7,,,,,,,,,,,,,,,,,,,,,,,238.0,yes,,Chelsea;Blackburn Rovers;West Ham United;Fulham,伊恩·皮尔斯
+1045,Ian Harte,Ireland,D,1977/8/31,,,,,,,,,,,,Leeds United,213.0,no,,0.0,no,,0.0,no,,,237.0,yes,,Bournemouth;Leeds United,伊恩·哈特
+2072,Steve Finnan,Ireland,D,1976/4/20,,,,,,,,,,,,,,,,,,,,,,,236.0,yes,,Portsmouth,史蒂夫·芬南
+20486,Leandro Trossard,Belgium,F,1994/12/4,,,,,,,,,,,,,,,,,,,,,,,236.0,no,Arsenal FC,Arsenal;Brighton & Hove Albion,利安德罗·特罗萨德
+755,Simon Charlton,England,D,1971/10/25,,,,,,,,,,,,,,,,,,,,,,,236.0,yes,,Southampton;Birmingham City;Norwich City,西蒙·查尔顿
+2522,Cristiano Ronaldo,Portugal,F,1985/2/5,,,,"2006, 2007",Manchester United,Premier League 20 Seasons Awards,103.0,31.0,3.0,Manchester United,"2006–07, 2007–08, 2008–09",Manchester United,236.0,no,,0.0,no,,0.0,no,2007,31.0,236.0,no,Al-Nassr FC,Manchester United,克里斯蒂亚诺·罗纳尔多
+1253,Michael Gray,England,D,1974/8/3,,,,,,,,,,,,,,,,,,,,,,,235.0,yes,,Sheffield Wednesday,迈克尔·格雷
+4252,Alex Oxlade-Chamberlain,England,M,1993/8/15,,,,,,,,,,,,,,,,,,,,,,,235.0,yes,,Arsenal;Liverpool,亚历克斯·张伯伦
+1217,Ole Gunnar Solskjaer,Norway,F,1973/2/26,,,,,,,91.0,,6.0,Manchester United,"1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07",Manchester United,235.0,no,,0.0,no,,0.0,no,,,235.0,yes,,Manchester United,奥勒·居纳尔·索尔斯克亚
+1558,David Weir,Scotland,D,1970/5/10,,,,,,,,,,,,Everton,235.0,no,,0.0,no,,0.0,no,,,235.0,yes,,Everton,大卫·威尔
+293,Steve Lomas,Northern Ireland,M,1974/1/18,,,,,,,,,,,,,,,,,,,,,,,235.0,yes,,Manchester City;West Ham United,史蒂夫·洛马斯
+2980,Dean Whitehead,England,M,1982/1/12,,,,,,,,,,,,,,,,,,,,,,,234.0,yes,,Huddersfield Town,迪恩·怀特黑德
+2024,Tugay,Turkiye,M,1970/8/24,,,,,,,,,,,,Blackburn Rovers,233.0,no,,0.0,no,,0.0,no,,,233.0,yes,,Blackburn Rovers,图盖
+2047,Jonathan Walters,Ireland,F,1983/9/20,,,,,,,,,,,,Stoke City,226.0,no,,0.0,no,,0.0,no,,,233.0,yes,,Burnley;Stoke City,乔纳森·沃尔特斯
+4666,Jan Vertonghen,Belgium,D,1987/4/24,,,,,,,,,,,,Tottenham Hotspur,232.0,no,,0.0,no,,0.0,no,,,232.0,yes,,Tottenham Hotspur,扬·维尔通亨
+14716,Harvey Barnes,England,M,1997/12/9,,,,,,,,,,,,,,,,,,,,,,,232.0,no,Newcastle United,Newcastle United;Leicester City,哈维·巴恩斯
+2012,Olof Mellberg,Sweden,D,1977/9/3,,,,,,,,,,,,Aston Villa,232.0,no,,0.0,no,,0.0,no,,,232.0,yes,,Aston Villa,奥洛夫·梅尔伯格
+8868,Jarrod Bowen,England,F,1996/12/20,,,,,,,,,,,,West Ham United,225.0,yes,,0.0,no,,0.0,no,,,232.0,no,West Ham United,West Ham United,贾罗德·鲍文
+128,Phil Babb,Ireland,D,1970/11/30,,,,,,,,,,,,,,,,,,,,,,,231.0,yes,,Coventry City;Liverpool;Sunderland,菲尔·巴布
+4487,Matthew Lowton,England,D,1989/6/9,,,,,,,,,,,,,,,,,,,,,,,231.0,no,Precision FC,Aston Villa;Burnley,马修·洛顿
+448,Darren Peacock,England,D,1968/2/3,,,,,,,,,,,,,,,,,,,,,,,231.0,yes,,Queens Park Rangers;Newcastle United;Blackburn Rovers,达伦·皮考克
+1495,Jermaine Pennant,England,M,1983/1/15,,,,,,,,,,,,,,,,,,,,,,,231.0,yes,,Arsenal;Watford;Leeds United;Birmingham City;Portsmouth;Liverpool;Stoke City,杰梅因·彭南特
+8707,Dan Burn,England,D,1992/5/9,,,,,,,,,,,,,,,,,,,,,,,231.0,no,Newcastle United,Newcastle United;Brighton & Hove Albion,丹·伯恩
+4148,Yaya Touré,Cote D’Ivoire,M,1983/5/13,,,,,,,,,3.0,Manchester City,"2011–12, 2013–14, 2017–18",Manchester City,230.0,no,,0.0,no,,0.0,no,,,230.0,yes,,Manchester City,亚亚·图雷
+14164,Aaron Wan-Bissaka,DR Congo,D,1997/11/26,,,,,,,,,,,,,,,,,,,,,,,230.0,yes,,West Ham United,阿隆·万-比萨卡
+3247,Dimitar Berbatov,Bulgaria,F,1981/1/30,,,,,,,94.0,20.0,,,,,,,,,,,,,2010,20.0,,yes,,Tottenham Hotspur;Manchester United;Fulham,迪米塔尔·贝尔巴托夫
+1151,Gianfranco Zola,Italy,F,1966/7/5,,,,,,,,,,,,Chelsea,229.0,no,,0.0,no,,0.0,no,,,,yes,,Chelsea,詹弗兰科·佐拉
+51423,John McGinn,Scotland,M,1994/10/18,,,,,,,,,,,,Aston Villa,229.0,yes,,0.0,no,,0.0,no,,,,no,Aston Villa,Aston Villa,约翰·麦金
+2239,Joseph Yobo,Nigeria,D,1980/9/6,,,,,,,,,,,,Everton,220.0,no,,0.0,no,,0.0,no,,,,yes,,Everton,约瑟夫·约博
+13492,N'Golo Kanté,France,M,1991/3/29,,,,2016,Chelsea,,,,,,,Chelsea,190.0,no,,0.0,no,,0.0,no,,,,no,Fenerbahce,Leicester City;Chelsea,恩戈洛·坎特
+13274,Ezri Konsa,England,D,1997/10/23,,,,,,,,,,,,Aston Villa,228.0,yes,,0.0,no,,0.0,no,,,,no,Aston Villa,Aston Villa,埃兹里·孔萨
+2705,Tim Cahill,Australia,F,1979/12/6,,,,,,,,,,,,Everton,226.0,no,,0.0,no,,0.0,no,,,,yes,,Everton,蒂姆·卡希尔
+1740,Kieron Dyer,England,M,1978/12/29,,,,,,,,,,,,Newcastle United,190.0,no,,0.0,no,,0.0,no,,,,yes,,Queens Park Rangers;Newcastle United,基伦·戴尔
+23396,Bruno Fernandes,Portugal,M,1994/9/8,,,,,,,,,,,,Manchester United,225.0,yes,,0.0,no,,0.0,no,,,,no,Manchester United,Manchester United,布鲁诺·费尔南德斯
+4245,Emiliano Martínez,Argentina,G,1992/9/2,,,,,,,,,,,,Aston Villa,209.0,yes,,0.0,no,,0.0,no,,,,no,Aston Villa,Aston Villa,埃米利亚诺·马丁内斯
+25183,Tomás Soucek,Czech Republic,M,1995/2/27,,,,,,,,,,,,West Ham United,223.0,yes,,0.0,no,,0.0,no,,,,no,West Ham United,West Ham United,托马什·绍切克
+174,Dave Watson,England,D,1961/11/20,,,,,,,,,,,,Everton,223.0,no,,0.0,no,,0.0,no,,,,yes,,Everton,戴夫·沃森
+49481,Bukayo Saka,England,F,2001/9/5,,,,,,,,,,,,Arsenal,222.0,no,,0.0,no,,0.0,no,,,,no,Arsenal FC,Arsenal,布卡约·萨卡
+5101,Ilkay Gündogan,Germany,M,1990/10/24,,,,,,,,,5.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23",Manchester City,221.0,no,,0.0,no,,0.0,no,,,,no,Galatasaray,Manchester City,伊尔凯·京多安
+20479,Wilfred Ndidi,Nigeria,M,1996/12/16,,,,,,,,,,,,Leicester City,220.0,no,,0.0,no,,0.0,no,,,,no,Besiktas JK,Leicester City,威尔弗雷德·恩迪迪
+14805,Phil Foden,England,M,2000/5/28,,,,2023,Manchester City,,,,6.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24",Manchester City,220.0,yes,,0.0,no,,0.0,no,,,,no,Manchester City,Manchester City,菲尔·福登
+3121,Clint Dempsey,United States,F,1983/3/9,,,,,,,,,,,,Fulham,189.0,no,,0.0,no,,0.0,no,,,,yes,,Fulham,克林特·登普西
+75,Colin Hendry,Scotland,D,1965/12/7,,,,,,,,,,,,Blackburn Rovers,203.0,no,,0.0,no,,0.0,no,,,,yes,,Blackburn Rovers,科林·亨德里
+8658,Ollie Watkins,England,F,1995/12/30,,,,,,,84.0,,,,,Aston Villa,216.0,yes,,0.0,no,,0.0,no,,,,no,Aston Villa,Aston Villa,奥利·沃特金斯
+3388,Steven Pienaar,South Africa,M,1982/3/17,,,,,,,,,,,,Everton,189.0,no,,0.0,no,,0.0,no,,,,yes,,Sunderland;Everton,史蒂文·皮纳尔
+29,Ian Wright,England,F,1963/11/3,,,,,,,113.0,,,,,Arsenal,191.0,no,,0.0,no,,0.0,no,,,,yes,,Arsenal;West Ham United,伊恩·赖特
+9662,Jacob Murphy,England,M,1995/2/24,,,,,,,,,,,,Newcastle United,213.0,yes,,0.0,no,,0.0,no,,,,no,Newcastle United,Sheffield Wednesday;Newcastle United,雅各布·墨菲
+3420,Fernando Torres,Spain,F,1984/3/20,,,,,,,85.0,,,,,,,,,,,,,,,,,yes,,Liverpool;Chelsea,费尔南多·托雷斯
+3680,Fabricio Coloccini,Argentina,D,1982/1/22,,,,,,,,,,,,Newcastle United,211.0,no,,0.0,no,,0.0,no,,,,yes,,Newcastle United,法布里西奥·科洛奇尼
+1866,Eidur Gudjohnsen,Iceland,F,1978/9/15,,,,,,,,,,,,Chelsea,186.0,no,,0.0,no,,0.0,no,,,,yes,,Chelsea,埃杜尔·古德约翰森
+1455,Paul Jones,Wales,G,1967/4/18,,,,,,,,,,,,Southampton,191.0,no,,0.0,no,,0.0,no,,,,yes,,Southampton,保罗·琼斯
+5220,Fabian Schär,Switzerland,D,1991/12/20,,,,,,,,,,,,Newcastle United,211.0,yes,,0.0,no,,0.0,no,,,,no,Newcastle United,Newcastle United,法比安·舍尔
+2935,Nemanja Vidic,Serbia,D,1981/10/21,,,,"2008, 2010",Manchester United,Premier League 20 Seasons Awards,,,5.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11, 2012–13",Manchester United,211.0,no,,0.0,no,,0.0,no,,,,yes,,Manchester United,内马尼亚·维迪奇
+20607,Joelinton,Brazil,M,1996/8/14,,,,,,,,,,,,Newcastle United,210.0,yes,,0.0,no,,0.0,no,,,,no,Newcastle United,Newcastle United,乔林顿
+4260,Jack Grealish,England,M,1995/9/10,,,,,,,,,3.0,Manchester City,"2021–22, 2022–23, 2023–24",,,,,,,,,,,,,yes,,Everton;Manchester City,杰克·格雷利什
+3135,Dirk Kuijt,Netherlands,M,1980/7/22,,,,,,,,,,,,Liverpool,208.0,no,,0.0,no,,0.0,no,,,,yes,,Liverpool,迪尔克·库伊特
+172,Neville Southall,Wales,G,1958/9/16,,,,,,,,,,,,Everton,207.0,no,,0.0,no,,0.0,no,,,,yes,,Everton,内维尔·索萨尔
+495,Kevin Pressman,England,G,1967/11/6,,,,,,,,,,,,Sheffield Wednesday,207.0,no,,0.0,no,,0.0,no,,,,yes,,Coventry City;Sheffield Wednesday,凯文·普雷斯曼
+8246,Ashley Barnes,England,F,1989/10/30,,,,,,,,,,,,Burnley,206.0,no,,0.0,no,,0.0,no,,,,no,Burnley FC,Burnley,阿什利·巴恩斯
+32,Mark Bosnich,Australia,G,1972/1/13,,,81.0,,,,,,,,,Aston Villa,180.0,no,,0.0,no,,0.0,no,,,,yes,,Aston Villa,马克·博斯尼奇
+785,Steve Potts,England,D,1967/5/7,,,,,,,,,,,,West Ham United,202.0,no,,0.0,no,,0.0,no,,,,yes,,West Ham United,史蒂夫·波茨
+4437,Gareth McAuley,Northern Ireland,D,1979/12/5,,,,,,,,,,,,West Bromwich Albion,203.0,no,,0.0,no,,0.0,no,,,,yes,,West Bromwich Albion,加雷斯·麦考利
+363,Robbie Mustoe,England,M,1968/8/28,,,,,,,,,,,,Middlesbrough,197.0,no,,0.0,no,,0.0,no,,,,yes,,Middlesbrough,罗比·马斯托
+5514,Angelo Ogbonna,Italy,D,1988/5/23,,,,,,,,,,,,West Ham United,201.0,no,,0.0,no,,0.0,no,,,,no,,Watford;West Ham United,安杰洛·奥邦纳
+3734,Jonas Olsson,Sweden,D,1983/3/10,,,,,,,,,,,,West Bromwich Albion,201.0,no,,0.0,no,,0.0,no,,,,yes,,Wigan Athletic;West Bromwich Albion,乔纳斯·奥尔松
+3281,Carlos Tevez,Argentina,F,1984/2/5,,,,,,,84.0,20.0,3.0,"Manchester United (2), Manchester City (1)","2007–08, 2008–09, 2011–12",,,,,,,,,,2010,20.0,,yes,,West Ham United;Manchester United;Manchester City,卡洛斯·特维斯
+24334,Tyrick Mitchell,England,D,1999/9/1,,,,,,,,,,,,Crystal Palace,200.0,yes,,0.0,no,,0.0,no,,,,no,Crystal Palace,Crystal Palace,泰里克·米切尔
+1196,Matt Elliott,Scotland,D,1968/11/1,,,,,,,,,,,,Leicester City,199.0,no,,0.0,no,,0.0,no,,,,yes,,Leicester City,马特·埃利奥特
+522,Kenneth Monkou,Netherlands,D,1964/11/29,,,,,,,,,,,,Southampton,198.0,no,,0.0,no,,0.0,no,,,,yes,,Southampton,肯尼思·蒙库
+1835,Robert Pirès,France,M,1973/10/29,,,,,,,,,,,,Arsenal,189.0,no,,0.0,no,,0.0,no,,,,yes,,Arsenal,罗伯特·皮雷
+886,Lucas Radebe,South Africa,D,1969/4/12,,,,,,,,,,,,Leeds United,197.0,no,,0.0,no,,0.0,no,,,,yes,,Leeds United,卢卡斯·拉德贝
+9167,Dele Alli,England,M,1996/4/11,,,,,,,,,,,,Tottenham Hotspur,181.0,no,,0.0,no,,0.0,no,,,,no,,Tottenham Hotspur,德勒·阿里
+16286,Rodri,Spain,M,1996/6/22,,,,,,,,,4.0,Manchester City,"2020–21, 2021–22, 2022–23, 2023–24",Manchester City,195.0,yes,,0.0,no,,0.0,no,,,,no,Manchester City,Manchester City,罗德里
+2323,Steven Taylor,England,D,1986/1/23,,,,,,,,,,,,Newcastle United,194.0,no,,0.0,no,,0.0,no,,,,yes,,Newcastle United,史蒂文·泰勒
+24626,Douglas Luiz,Brazil,M,1998/5/9,,,,,,,,,,,,Aston Villa,184.0,yes,,0.0,no,,0.0,no,,,,no,Aston Villa,Aston Villa,道格拉斯·路易斯
+8171,Solly March,England,M,1994/7/20,,,,,,,,,,,,Brighton & Hove Albion,191.0,yes,,0.0,no,,0.0,no,,,,no,Brighton & Hove Albion,Brighton & Hove Albion,索利·马奇
+122,Steve Ogrizovic,England,G,1957/9/12,,,,,,,,,,,,Coventry City,191.0,no,,0.0,no,,0.0,no,,,,yes,,Coventry City,史蒂夫·奥格里佐维奇
+10766,Lewis Cook,England,M,1997/2/3,,,,,,,,,,,,Bournemouth,188.0,no,,0.0,no,,0.0,no,,,,no,AFC Bournemouth,Bournemouth,刘易斯·库克
+66104,Gabriel Martinelli,Brazil,F,2001/6/18,,,,,,,,,,,,Arsenal,188.0,no,,0.0,no,,0.0,no,,,,no,Arsenal FC,Arsenal,加布里埃尔·马丁内利
+4472,Nacho Monreal,Spain,D,1986/2/26,,,,,,,,,,,,Arsenal,187.0,no,,0.0,no,,0.0,no,,,,yes,,Arsenal,纳乔·蒙雷亚尔
+54312,Miguel Almirón,Paraguay,M,1994/2/10,,,,,,,,,,,,Newcastle United,186.0,no,,0.0,no,,0.0,no,,,,no,Atlanta United FC,Newcastle United,米格尔·阿尔米隆
+50234,Gabriel Magalhães,Brazil,D,1997/12/19,,,,,,,,,,,,Arsenal,187.0,no,,0.0,no,,0.0,no,,,,no,Arsenal FC,Arsenal,加布里埃尔·马加利亚埃斯
+3063,Stiliyan Petrov,Bulgaria,M,1979/7/5,,,,,,,,,,,,Aston Villa,185.0,no,,0.0,no,,0.0,no,,,,yes,,Aston Villa,斯蒂利扬·彼得罗夫
+19589,Jan Bednarek,Poland,D,1996/4/12,,,,,,,,,,,,Southampton,181.0,no,,0.0,no,,0.0,no,,,,no,FC Porto,Southampton,扬·贝德纳雷克
+5859,Luka Milivojevic,Serbia,M,1991/4/7,,,,,,,,,,,,Crystal Palace,183.0,no,,0.0,no,,0.0,no,,,,no,Al-Nasr SC (UAE),Crystal Palace,卢卡·米利沃耶维奇
+328,Lee Sharpe,England,M,1971/5/27,,,,,,,,,3.0,Manchester United,"1992–93, 1993–94, 1995–96",,,,,,,,,,,,,yes,,Manchester United,李·夏普
+16431,Rúben Dias,Portugal,D,1997/5/14,,,,2020,Manchester City,,,,4.0,Manchester City,"2020–21, 2021–22, 2022–23, 2023–24",,,,,,,,,,,,,no,Manchester City,Manchester City,鲁本·迪亚斯
+3513,Gareth Bale,Wales,F,1989/7/16,,,,2012,Tottenham Hotspur,,,,,,,,,,,,,,,,,,,yes,,Tottenham Hotspur,加雷斯·贝尔
+7975,David Raya,Spain,G,1995/9/15,"2023, 2024","13.0, 16.0",,,,,,,,,,,,,,,,,,,,,,no,Arsenal FC,Brentford;Arsenal,大卫·拉亚
+337,Brian McClair,Scotland,F,1963/12/8,,,,,,,,,4.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97",,,,,,,,,,,,,yes,,Manchester United,布莱恩·麦克莱尔
+1533,Marcel Desailly,France,D,1968/9/7,,,,,,Premier League 10 Seasons Awards,,,,,,,,,,,,,,,,,,yes,,Chelsea,马塞尔·德塞利
+342,Eric Cantona,France,F,1966/5/24,,,,,,Premier League 10 Seasons Awards,,,4.0,Manchester United,"1992–93, 1993–94, 1995–96, 1996–97",,,,,,,,,,,,,yes,,Manchester United,埃里克·坎通纳
+2940,Park Ji-Sung,South Korea,M,1981/2/25,,,,,,,,,4.0,Manchester United,"2006–07, 2007–08, 2008–09, 2010–11",,,,,,,,,,,,,yes,,Manchester United,朴智星
+1210,Ronny Johnsen,Norway,D,1969/6/10,,,,,,,,,3.0,Manchester United,"1996–97, 1998–99, 2000–01",,,,,,,,,,,,,yes,,Manchester United,罗尼·约翰森
+2117,Ruud van Nistelrooij,Netherlands,F,1976/7/1,,,,2002,Manchester United,,95.0,25.0,,,,,,,,,,,,,2002,25.0,,yes,,Manchester United,鲁德·范尼斯特鲁伊
+19620,Oleksandr Zinchenko,Ukraine,D,1996/12/15,,,,,,,,,4.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22",,,,,,,,,,,,,yes,,Manchester City,奥列克桑德尔·津琴科
+319,Steve Bruce,England,D,1960/12/31,,,,,,,,,3.0,Manchester United,"1992–93, 1993–94, 1995–96",,,,,,,,,,,,,yes,,Birmingham City;Manchester United,史蒂夫·布鲁斯
+3447,Nani,Portugal,F,1986/11/17,,,,,,,,,4.0,Manchester United,"2007–08, 2008–09, 2010–11, 2012–13",,,,,,,,,,,,,yes,,Manchester United,纳尼
+5110,Pierre-Emerick Aubameyang,Gabon,F,1989/6/18,,,,,,,,22.0,,,,,,,,,,,,,2018,22.0,,yes,,Arsenal;Chelsea,皮埃尔-埃默里克·奥巴梅扬
+2654,Paulo Ferreira,Portugal,D,1979/1/18,,,,,,,,,3.0,Chelsea,"2004–05, 2005–06, 2009–10",,,,,,,,,,,,,yes,,Chelsea,保罗·费雷拉
+2653,Ricardo Carvalho,Portugal,D,1978/5/18,,,,,,,,,3.0,Chelsea,"2004–05, 2005–06, 2009–10",,,,,,,,,,,,,yes,,Chelsea,里卡多·卡瓦略
+3543,Wojciech Szczesny,Poland,G,1990/4/18,2013,16.0,,,,,,,,,,,,,,,,,,,,,,yes,,Arsenal,沃伊切赫·什琴斯尼
+65970,Erling Haaland,Norway,F,2000/7/21,,,,2022,Manchester City,,107.0,27.0,,,,,,,,,,,,,2022,27.0,,yes,,Manchester City,埃尔林·哈兰德
+4911,Thibaut Courtois,Belgium,G,1992/5/11,2016,16.0,,,,,,,,,,,,,,,,,,,,,,yes,,Chelsea,蒂博·库尔图瓦
+1072,Juninho Paulista,Brazil,M,1973/2/22,,,,1996,Middlesbrough,,,,,,,,,,,,,,,,,,,yes,,Middlesbrough,儒尼尼奥·保利斯塔
+11044,Aymeric Laporte,Spain,D,1994/5/27,,,,,,,,,5.0,Manchester City,"2017–18, 2018–19, 2020–21, 2021–22, 2022–23",,,,,,,,,,,,,yes,,Manchester City,艾梅里克·拉波尔特
+4138,Luis Suárez,Uruguay,F,1987/1/24,,,,2013,Liverpool,,,31.0,,,,,,,,,,,,,2013,31.0,,yes,,Liverpool,路易斯·苏亚雷斯
+3664,Rafael,Brazil,D,1990/7/9,,,,,,,,,3.0,Manchester United,"2008–09, 2010–11, 2012–13",,,,,,,,,,,,,yes,,Manchester United,拉斐尔
+3446,Anderson,Brazil,M,1988/4/13,,,,,,,,,4.0,Manchester United,"2007–08, 2008–09, 2010–11, 2012–13",,,,,,,,,,,,,yes,,Manchester United,安德森
+5051,João Cancelo,Portugal,D,1994/5/27,,,,,,,,,3.0,Manchester City,"2020–21, 2021–22, 2022–23",,,,,,,,,,,,,yes,,Manchester City,若昂·坎塞洛
+16723,Matz Sels,Belgium,G,1992/2/26,2024,13.0,,,,,,,,,,,,,,,,,,,,,,no,Nottingham Forest,Newcastle United;Nottingham Forest,马茨·塞尔斯
+1580,Jaap Stam,Netherlands,D,1972/7/17,,,,,,,,,3.0,Manchester United,"1998–99, 1999–2000, 2000–01",,,,,,,,,,,,,yes,,Manchester United,雅普·斯塔姆
+2818,Tomasz Kuszczak,Poland,G,1982/3/20,,,,,,,,,3.0,Manchester United,"2006–07, 2007–08, 2010–11",,,,,,,,,,,,,yes,,Birmingham City;Manchester United,托马什·库什恰克
+5575,Benjamin Mendy,France,D,1994/7/17,,,,,,,,,3.0,Manchester City,"2017–18, 2018–19, 2020–21",,,,,,,,,,,,,yes,,Manchester City,本杰明·门迪

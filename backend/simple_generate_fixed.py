@@ -13,8 +13,8 @@ def generate_simple_players_json():
     with open('data/player_chinese_names.json', 'r', encoding='utf-8') as f:
         chinese_names = json.load(f)
     
-    # Load achievements data
-    appearances = pd.read_csv('data/epl_players_appearances_230plus.csv')
+    # Load appearances data for accurate total_appearances
+    appearances_df = pd.read_csv('data/epl_players_appearances_230plus.csv')
     goals = pd.read_csv('data/pl_100_goals_club.csv')
     clean_sheets = pd.read_csv('data/pl_100_clean_sheets_gk.csv')
     golden_boots = pd.read_csv('data/pl_golden_boot_winners.csv')
@@ -35,10 +35,17 @@ def generate_simple_players_json():
         if pd.notna(row['xlsx_clubs']):
             clubs = [club.strip() for club in str(row['xlsx_clubs']).split(' ') if club.strip()]
         
-        # Determine player status
+        # Determine player status - 从 epl_players_appearances_230plus.csv 精确匹配
+        player_id = row['player_id']
+        app_match = appearances_df[appearances_df['player_id'] == player_id]
+        if not app_match.empty:
+            appearances_count = int(app_match.iloc[0]['total_appearances'])
+        else:
+            appearances_count = row.get('epl_total_appearances') or row.get('appearances') or 0
+        
         if row['multi_is_retired'] == 'yes':
             player_status = 'retired'
-        elif row['appearances'] >= 250:
+        elif appearances_count >= 250:
             player_status = 'hall_of_fame'
         else:
             player_status = 'active_pl'
@@ -47,12 +54,13 @@ def generate_simple_players_json():
         achievements = []
         
         # 250+ appearances
-        if player_id in appearances['player_id'].values:
-            app_row = appearances[appearances['player_id'] == player_id].iloc[0]
-            achievements.append({
-                'type': '250+ Appearances',
-                'detail': f"{app_row['total_appearances']} apps"
-            })
+        if not app_match.empty:
+            app_row = app_match.iloc[0]
+            if app_row['total_appearances'] >= 250:
+                achievements.append({
+                    'type': '250+ Appearances',
+                    'detail': f"{app_row['total_appearances']} apps"
+                })
         
         # 100+ goals
         if player_id in goals['player_id'].values:
@@ -109,7 +117,7 @@ def generate_simple_players_json():
             'nationality': row['nationality'],
             'position': row.get('position', ''),
             'clubs': clubs,
-            'total_appearances': row['appearances'],
+            'total_appearances': appearances_count,
             'player_status': player_status,
             'achievements': achievements
         }
