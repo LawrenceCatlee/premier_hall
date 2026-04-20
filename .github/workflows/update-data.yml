@@ -148,6 +148,8 @@ jobs:
               MSG="chore: auto-update players data after PL matches [skip ci]"
             fi
             git commit -m "$MSG"
-            git pull --rebase origin main
-            git push
+            # Use pull with merge instead of rebase to avoid conflicts with uncommitted changes
+            git pull origin main || true
+            # If pull failed due to conflicts, try to push directly (our commit should be fast-forward)
+            git push || (git pull --rebase origin main && git push)
           fi
