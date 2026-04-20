@@ -231,7 +231,6 @@ def _build_player_index_from_appearances(session: requests.Session) -> pd.DataFr
                 rows.append({
                     "player_id": pid,
                     "player_name": name,
-                    "appearances": _as_int(entry.get("value", 0)),
                     "nationality": nationality,
                     "position": position,
                     "current_team": current_team,
@@ -260,12 +259,11 @@ def _build_player_index_from_appearances(session: requests.Session) -> pd.DataFr
     if not rows:
         print("WARNING: No data fetched — returning empty DataFrame")
         return pd.DataFrame(columns=[
-            "player_id", "player_name", "appearances", "nationality", "position",
+            "player_id", "player_name", "nationality", "position",
             "current_team", "info_club", "current_club", "birth_date", "retired",
         ])
 
     df = pd.DataFrame(rows).drop_duplicates(subset=["player_id"])
-    df["appearances"] = pd.to_numeric(df["appearances"], errors="coerce")
     df["retired"] = pd.to_numeric(df["retired"], errors="coerce").fillna(1).astype(int)
     df.to_csv(PLAYER_INDEX_CACHE, index=False, encoding="utf-8-sig")
     print(f"Saved {len(df)} players to {PLAYER_INDEX_CACHE}")
@@ -287,7 +285,7 @@ def _load_or_build_player_index(session: requests.Session) -> pd.DataFrame:
     """Load existing player index or build new one."""
     if PLAYER_INDEX_CACHE.exists():
         df = pd.read_csv(PLAYER_INDEX_CACHE)
-        required = {"player_id", "player_name", "appearances", "retired"}
+        required = {"player_id", "player_name", "retired"}
         if required.issubset(df.columns):
             print(f"Loaded {len(df)} players from cache")
             return df
@@ -470,7 +468,7 @@ if __name__ == "__main__":
     matches = search_player_by_name(test_name)
     if matches is not None:
         print(f"\nFound {len(matches)} players matching '{test_name}':")
-        show_cols = [c for c in ["player_id", "player_name", "appearances", "current_club", "retired"] if c in matches.columns]
+        show_cols = [c for c in ["player_id", "player_name", "current_club", "retired"] if c in matches.columns]
         print(matches[show_cols].head().to_string(index=False))
 
     # Test get by ID
