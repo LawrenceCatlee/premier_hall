@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { X, Filter } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { useLanguage } from '../LanguageContext';
-import { translations, nationalityFlag, nationalityZh, clubNameMap } from '../translations';
+import { translations, nationalityFlag, nationalityZh, clubNameMap, clubEnToZh } from '../translations';
 
 const getAchievementTypes = (t) => [
   { value: 'all', label: t.achievements.all },
@@ -41,7 +41,7 @@ export default function PlayerFilters({
     { value: 'all', label: t.allClubs },
     ...clubs.map(c => ({
       value: c,
-      label: language === 'zh' ? c : (clubNameMap[c] || c),
+      label: language === 'zh' ? (clubEnToZh[c] || c) : (clubNameMap[c] || c),
     })),
   ];
 
