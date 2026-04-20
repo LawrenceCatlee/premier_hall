@@ -9447,10 +9447,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Aston Villa",
     "birth_date": "1993/7/20",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
