@@ -18,7 +18,7 @@ Usage:
     python scrape_player_status.py
 """
 
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 from player_name_normalizer import clean_player_name
 from player_name_mapper import standardize_player_name
@@ -27,15 +27,6 @@ import pandas as pd
 import time
 from pathlib import Path
 
-HEADERS = {
-    'User-Agent': (
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-        'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36'
-    ),
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.5',
-    'Connection': 'keep-alive',
-}
 
 OUT_PATH = Path('data/player_status_all.csv')
 DELAY_SECS = 2
@@ -61,15 +52,17 @@ def _build_name_lookup() -> dict:
     return lookup
 
 
-def _scrape_club(team_name: str, url: str) -> list:
+def _scrape_club(team_name: str, url: str, scraper=None) -> list:
     """
     Scrape a Transfermarkt club history page. Returns list of dicts:
       {player_name, is_retired, current_team}
     for every player row found (no appearance filter).
     """
     print(f'  {team_name} ...', flush=True)
+    if scraper is None:
+        scraper = cloudscraper.create_scraper()
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=30)
+        resp = scraper.get(url, timeout=30)
         resp.raise_for_status()
     except Exception as e:
         print(f'    ERROR: {e}')
@@ -143,12 +136,13 @@ def main() -> None:
     # Priority: first non-retired result wins; if only retired found, mark retired
     status_map: dict = {}       # pid → entry once confirmed active
     retired_map: dict = {}      # pid → entry when only retired found so far
+    scraper = cloudscraper.create_scraper()
 
     for _, trow in teams_df.iterrows():
         team_name = str(trow['team_name'])
         url = str(trow['url'])
 
-        players = _scrape_club(team_name, url)
+        players = _scrape_club(team_name, url, scraper)
 
         for p in players:
             tm_name = p['player_name_tm']

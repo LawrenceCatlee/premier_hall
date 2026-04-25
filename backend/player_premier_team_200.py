@@ -1,4 +1,4 @@
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 from player_name_normalizer import (
     normalize_player_name,
@@ -12,42 +12,26 @@ import re
 import time
 import os
 
-def scrape_team_players(team_name, url):
+def scrape_team_players(team_name, url, scraper=None):
     """
     爬取单个球队的出场数>=180的球员信息，包含player_id匹配
     """
     print(f"\n正在爬取 {team_name} 的数据...")
-    
-    # 获取Pulselive球员索引用于player_id匹配
-    print("加载Pulselive球员索引...")
-    pl_players_df = get_pulselive_player_index().copy()
 
-    # 只保留 Pulselive 中 appearances >= 180 的球员
-    if 'appearances' not in pl_players_df.columns:
-        raise KeyError("Pulselive 索引中没有 appearances 列，无法按 appearances>=180 过滤")
+    if scraper is None:
+        scraper = cloudscraper.create_scraper()
 
-    pl_players_df['appearances'] = pd.to_numeric(pl_players_df['appearances'], errors='coerce')
-    pl_players_df = pl_players_df[pl_players_df['appearances'] >= 180].copy()
-
-    print(f"Pulselive 过滤后剩余 {len(pl_players_df)} 名球员")
+    # 获取Pulselive球员索引，用于 name → player_id 匹配（全量，不按出场数过滤）
+    pl_players_df = get_pulselive_player_index()
+    print(f"Pulselive 索引加载完毕：{len(pl_players_df)} 名球员")
 
     pl_name_to_id = dict(zip(
         pl_players_df['player_name'].str.lower().str.strip(),
         pl_players_df['player_id']
     ))
     
-    # 设置请求头，模拟浏览器访问
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
-        'Accept-Encoding': 'gzip, deflate',
-        'Connection': 'keep-alive',
-    }
-    
     try:
-        # 发送请求
-        response = requests.get(url, headers=headers, timeout=30)
+        response = scraper.get(url, timeout=30)
         response.raise_for_status()
         
         # 解析HTML
@@ -185,11 +169,8 @@ def scrape_team_players(team_name, url):
         
         return players_data
             
-    except requests.exceptions.RequestException as e:
-        print(f"请求 {team_name} 出错: {e}")
-        return []
     except Exception as e:
-        print(f"解析 {team_name} 出错: {e}")
+        print(f"爬取 {team_name} 出错: {e}")
         return []
 
 def scrape_all_premier_league_teams():
@@ -211,13 +192,14 @@ def scrape_all_premier_league_teams():
         return None
     
     all_players_data = []
-    
+    scraper = cloudscraper.create_scraper()
+
     for index, row in teams_df.iterrows():
         team_name = row['team_name']
         url = row['url']
-        
+
         # 爬取该球队的球员数据
-        players_data = scrape_team_players(team_name, url)
+        players_data = scrape_team_players(team_name, url, scraper)
         all_players_data.extend(players_data)
         
         # 添加延迟避免请求过于频繁
