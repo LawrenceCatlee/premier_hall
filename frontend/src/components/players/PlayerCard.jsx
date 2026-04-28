@@ -3,6 +3,17 @@ import { cn } from "@/lib/utils";
 import { useLanguage } from '../LanguageContext';
 import { clubNameMap, clubEnToZh, nationalityFlag, nationalityZh } from '../translations';
 
+function normalizeClub(name) {
+  let n = (name || '').trim();
+  for (const suffix of [' FC', ' AFC', ' SC', ' SFC']) {
+    if (n.endsWith(suffix)) return n.slice(0, -suffix.length).trim();
+  }
+  for (const prefix of ['FC ', 'AFC ']) {
+    if (n.startsWith(prefix)) return n.slice(prefix.length).trim();
+  }
+  return n;
+}
+
 // Returns string | string[] — callers must handle both
 function formatAchievement(type, detail, language) {
   const joinDot = (str) =>
@@ -175,9 +186,19 @@ export default function PlayerCard({ player, showGap = false }) {
           <div className="flex items-start gap-1.5 text-xs text-slate-300">
             <Building className="w-3.5 h-3.5 text-slate-500 shrink-0 mt-0.5" />
             <span className="leading-relaxed">
-              {language === 'en'
-                ? player.clubs.flatMap(c => c.split(';').map(s => s.trim())).filter(Boolean).map(c => clubNameMap[c] || c).join(' · ')
-                : player.clubs.flatMap(c => c.split(';').map(s => s.trim())).filter(Boolean).map(c => clubEnToZh[c] || c).join(' · ')}
+              {player.clubs
+                .flatMap(c => c.split(';').map(s => s.trim()))
+                .filter(Boolean)
+                .map((c, i, arr) => {
+                  const displayName = language === 'en' ? (clubNameMap[c] || c) : (clubEnToZh[c] || c);
+                  const isCurrent = player.current_club && normalizeClub(c) === normalizeClub(player.current_club);
+                  return (
+                    <span key={i}>
+                      <span style={isCurrent ? { color: '#4ade80' } : undefined}>{displayName}</span>
+                      {i < arr.length - 1 && ' · '}
+                    </span>
+                  );
+                })}
             </span>
           </div>
         )}

@@ -8,7 +8,7 @@ echo "=== 英超名人堂 — 启动 ==="
 echo ""
 echo ">> 生成 players.json ..."
 cd "$ROOT/backend"
-python3 export_json_quick.py
+python3 simple_generate.py
 
 # 2. 安装前端依赖（首次或依赖变化时）
 echo ""
