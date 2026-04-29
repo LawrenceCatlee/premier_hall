@@ -810,6 +810,8 @@ HALL_OF_FAME_MEMBERS: dict = {
     'peter schmeichel':2022,
     'paul scholes':    2022,
     'ian wright':      2022,
+    'wayne rooney':    2022,
+    'patrick vieira':  2022,
     # 2023 届（教练 Ferguson/Wenger 不在球员表中）
     'tony adams':      2023,
     'petr cech':       2023,
