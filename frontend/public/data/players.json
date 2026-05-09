@@ -12387,10 +12387,12 @@
   {
     "id": 13344,
     "name_en": "Matty Cash",
-    "name_cn": "Matty Cash",
+    "name_cn": "马蒂·卡什",
     "nationality": "Poland",
     "position": "D",
-    "clubs": [],
+    "clubs": [
+      "Aston Villa"
+    ],
     "total_appearances": 0,
     "single_club_appearances": 180.0,
     "single_club_name": "Aston Villa",
