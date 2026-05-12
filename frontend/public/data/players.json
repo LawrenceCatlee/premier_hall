@@ -7487,6 +7487,32 @@
     ]
   },
   {
+    "id": 24630,
+    "name_en": "Richarlison",
+    "name_cn": "理查利森",
+    "nationality": "Brazil",
+    "position": "F",
+    "clubs": [
+      "Tottenham Hotspur",
+      "Everton"
+    ],
+    "total_appearances": 273,
+    "single_club_appearances": null,
+    "single_club_name": null,
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "Tottenham Hotspur",
+    "birth_date": "1997/5/10",
+    "hof_year": null,
+    "player_status": "active_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "273场"
+      }
+    ]
+  },
+  {
     "id": 1502,
     "name_en": "Kanu",
     "name_cn": "卡努",
@@ -7538,6 +7564,36 @@
     ]
   },
   {
+    "id": 9576,
+    "name_en": "Dominic Calvert-Lewin",
+    "name_cn": "多米尼克·卡尔弗特-卢因",
+    "nationality": "England",
+    "position": "F",
+    "clubs": [
+      "Leeds United",
+      "Everton"
+    ],
+    "total_appearances": 272,
+    "single_club_appearances": 239.0,
+    "single_club_name": "Everton",
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "Leeds United",
+    "birth_date": "1997/3/16",
+    "hof_year": null,
+    "player_status": "active_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "272场"
+      },
+      {
+        "type": "单队200场",
+        "detail": "Everton|239"
+      }
+    ]
+  },
+  {
     "id": 3979,
     "name_en": "James McCarthy",
     "name_cn": "詹姆斯·麦卡锡",
@@ -7561,62 +7617,6 @@
       {
         "type": "出场250次",
         "detail": "272场"
-      }
-    ]
-  },
-  {
-    "id": 24630,
-    "name_en": "Richarlison",
-    "name_cn": "理查利森",
-    "nationality": "Brazil",
-    "position": "F",
-    "clubs": [
-      "Tottenham Hotspur",
-      "Everton"
-    ],
-    "total_appearances": 272,
-    "single_club_appearances": null,
-    "single_club_name": null,
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "Tottenham Hotspur",
-    "birth_date": "1997/5/10",
-    "hof_year": null,
-    "player_status": "active_pl",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "272场"
-      }
-    ]
-  },
-  {
-    "id": 9576,
-    "name_en": "Dominic Calvert-Lewin",
-    "name_cn": "多米尼克·卡尔弗特-卢因",
-    "nationality": "England",
-    "position": "F",
-    "clubs": [
-      "Leeds United",
-      "Everton"
-    ],
-    "total_appearances": 271,
-    "single_club_appearances": 239.0,
-    "single_club_name": "Everton",
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "Leeds United",
-    "birth_date": "1997/3/16",
-    "hof_year": null,
-    "player_status": "active_pl",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "271场"
-      },
-      {
-        "type": "单队200场",
-        "detail": "Everton|239"
       }
     ]
   },
