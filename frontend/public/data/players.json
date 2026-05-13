@@ -599,8 +599,8 @@
     "clean_sheets": null,
     "current_club": "",
     "birth_date": "1985/10/24",
-    "hof_year": null,
-    "player_status": "retired",
+    "hof_year": 2022,
+    "player_status": "hall_of_fame",
     "achievements": [
       {
         "type": "出场250次",
@@ -4829,8 +4829,8 @@
     "clean_sheets": null,
     "current_club": "",
     "birth_date": "1976/6/23",
-    "hof_year": null,
-    "player_status": "retired",
+    "hof_year": 2022,
+    "player_status": "hall_of_fame",
     "achievements": [
       {
         "type": "出场250次",

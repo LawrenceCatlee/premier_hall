@@ -21,6 +21,7 @@ HALL_OF_FAME = {
     'steven gerrard':   2021, 'david beckham':   2021,
     'sergio agüero':    2022, 'didier drogba':   2022, 'vincent kompany': 2022,
     'peter schmeichel': 2022, 'paul scholes':    2022, 'ian wright':      2022,
+    'wayne rooney':     2022, 'patrick vieira':  2022,
     'tony adams':       2023, 'petr cech':       2023, 'rio ferdinand':   2023,
     'ashley cole':      2024, 'andrew cole':     2024, 'john terry':      2024,
     'gary neville':     2025, 'eden hazard':     2025,
