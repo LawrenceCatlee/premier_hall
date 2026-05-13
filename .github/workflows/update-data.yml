@@ -123,6 +123,26 @@ jobs:
           python merge_player_data.py
           python simple_generate.py
 
+      # ── Generate JSON from Excel push (also needs report) ───────────────────
+      # Note: push trigger runs simple_generate.py earlier; run report here too
+      - name: Send update report (scheduled / dispatch)
+        if: >
+          github.event_name == 'workflow_dispatch' ||
+          (github.event_name == 'schedule' && steps.gate.outputs.run == 'true')
+        working-directory: backend
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python generate_report.py
+
+      - name: Send update report (push trigger)
+        if: github.event_name == 'push'
+        working-directory: backend
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python generate_report.py
+
       # ── Commit results ───────────────────────────────────────────────────────
       - name: Commit & push if changed
         if: >
