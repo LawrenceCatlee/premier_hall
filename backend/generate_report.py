@@ -26,11 +26,6 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 PLAYERS_JSON = REPO_ROOT / "frontend" / "public" / "data" / "players.json"
 GIT_PATH = "frontend/public/data/players.json"   # 相对 repo 根目录
 
-# ─── 接近达标阈值 ─────────────────────────────────────────────────────────────
-NEAR_TOTAL_APPS   = (220, 249)   # 接近 250 场
-NEAR_SINGLE_APPS  = (170, 199)   # 接近单队 200 场
-NEAR_GOALS        = (80,   99)   # 接近百球
-NEAR_CS           = (80,   99)   # 接近百大零封
 
 
 # ─── 工具函数 ─────────────────────────────────────────────────────────────────
@@ -81,35 +76,41 @@ def _status_zh(status: str) -> str:
 
 
 def _near_miss_lines(players: list[dict]) -> list[str]:
-    """列出接近各里程碑的球员（尚未达标）。"""
+    """接近达标的英超现役球员，逻辑与前端 nearMissPlayers 完全一致：
+    - 无任何 achievement（有任何达标记录则排除）
+    - player_status == 'active_pl'
+    - 阈值：总出场 [230,250)、单队 [180,200)、进球 (80,100)、零封 (80,100)
+    """
     lines: list[str] = []
-    ach_types_all = {p["id"]: _ach_types(p) for p in players}
 
     for p in players:
-        pid = p["id"]
-        name = _fmt_name(p)
-        achieved = ach_types_all[pid]
-        items: list[str] = []
+        if p.get("achievements"):
+            continue
+        if p.get("player_status") != "active_pl":
+            continue
 
-        apps = p.get("total_appearances") or 0
-        if "出场250次" not in achieved and NEAR_TOTAL_APPS[0] <= apps <= NEAR_TOTAL_APPS[1]:
-            items.append(f"总出场 {int(apps)} 场（距250场还差 {250 - int(apps)} 场）")
-
+        apps    = p.get("total_appearances") or 0
         sc_apps = p.get("single_club_appearances") or 0
         sc_name = p.get("single_club_name") or ""
-        if "单队200场" not in achieved and NEAR_SINGLE_APPS[0] <= sc_apps <= NEAR_SINGLE_APPS[1]:
+        goals   = p.get("goals") or 0
+        cs      = p.get("clean_sheets") or 0
+
+        items: list[str] = []
+
+        if 230 <= apps < 250:
+            items.append(f"总出场 {int(apps)} 场（距250场还差 {250 - int(apps)} 场）")
+
+        if sc_apps and 180 <= sc_apps < 200:
             items.append(f"单队（{sc_name}）{int(sc_apps)} 场（差 {200 - int(sc_apps)} 场）")
 
-        goals = p.get("goals") or 0
-        if "百球" not in achieved and NEAR_GOALS[0] <= goals <= NEAR_GOALS[1]:
+        if goals and 80 < goals < 100:
             items.append(f"进球 {int(goals)} 个（差 {100 - int(goals)} 个）")
 
-        cs = p.get("clean_sheets") or 0
-        if "百大零封" not in achieved and NEAR_CS[0] <= cs <= NEAR_CS[1]:
+        if cs and 80 < cs < 100:
             items.append(f"零封 {int(cs)} 次（差 {100 - int(cs)} 次）")
 
         if items:
-            lines.append(f"  • {name}：{' / '.join(items)}")
+            lines.append(f"  • {_fmt_name(p)}：{' / '.join(items)}")
 
     return lines
 
