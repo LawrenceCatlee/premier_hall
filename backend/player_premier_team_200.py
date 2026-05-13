@@ -21,13 +21,29 @@ def scrape_team_players(team_name, url, scraper=None):
     if scraper is None:
         scraper = cloudscraper.create_scraper()
 
-    # 获取Pulselive球员索引，用于 name → player_id 匹配（全量，不按出场数过滤）
+    # 获取Pulselive球员索引，过滤掉英超出场不足180场的球员再建查询表
+    # 避免重名球员（如同名新秀）污染 player_id 匹配
     pl_players_df = get_pulselive_player_index()
     print(f"Pulselive 索引加载完毕：{len(pl_players_df)} 名球员")
 
+    try:
+        apps_df = pd.read_csv(
+            os.path.join(os.path.dirname(__file__), 'data', 'epl_players_appearances_230plus.csv'),
+            usecols=['player_id', 'total_appearances'],
+            encoding='utf-8-sig',
+        )
+        qualified_ids = set(
+            apps_df.loc[apps_df['total_appearances'] >= 180, 'player_id'].astype(int)
+        )
+        filtered_df = pl_players_df[pl_players_df['player_id'].isin(qualified_ids)]
+        print(f"过滤后保留 {len(filtered_df)} 名球员（出场数>=180）")
+    except Exception as e:
+        print(f"[警告] 加载出场数过滤表失败，使用全量索引：{e}")
+        filtered_df = pl_players_df
+
     pl_name_to_id = dict(zip(
-        pl_players_df['player_name'].str.lower().str.strip(),
-        pl_players_df['player_id']
+        filtered_df['player_name'].str.lower().str.strip(),
+        filtered_df['player_id']
     ))
     
     try:
