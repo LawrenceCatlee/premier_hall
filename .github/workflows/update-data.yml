@@ -9,9 +9,9 @@ on:
   # Manual trigger from GitHub UI → full pipeline
   workflow_dispatch:
 
-  # Scheduled: daily at 23:45 UTC (after all PL matches end)
+  # Fallback: weekly Sunday 23:45 UTC（主触发由 dispatch_trigger.py 外部 cron 负责）
   schedule:
-    - cron: '45 23 * * *'
+    - cron: '45 23 * * 0'
 
 jobs:
   update:
