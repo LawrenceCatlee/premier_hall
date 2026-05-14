@@ -14,6 +14,15 @@ function normalizeClub(name) {
   return n;
 }
 
+// 2025/26 赛季英超球队，与 backend/simple_generate.py CURRENT_PL_CLUBS 保持一致
+const CURRENT_PL_CLUBS = new Set([
+  'Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton & Hove Albion',
+  'Burnley', 'Chelsea', 'Crystal Palace', 'Everton', 'Fulham', 'Leeds United',
+  'Liverpool', 'Manchester City', 'Manchester United', 'Newcastle United',
+  'Nottingham Forest', 'Sunderland', 'Tottenham Hotspur', 'West Ham United',
+  'Wolverhampton Wanderers',
+]);
+
 // Returns string | string[] — callers must handle both
 function formatAchievement(type, detail, language) {
   const joinDot = (str) =>
@@ -191,7 +200,9 @@ export default function PlayerCard({ player, showGap = false }) {
                 .filter(Boolean)
                 .map((c, i, arr) => {
                   const displayName = language === 'en' ? (clubNameMap[c] || c) : (clubEnToZh[c] || c);
-                  const isCurrent = player.current_club && normalizeClub(c) === normalizeClub(player.current_club);
+                  const isCurrent = player.current_club &&
+                    CURRENT_PL_CLUBS.has(normalizeClub(player.current_club)) &&
+                    normalizeClub(c) === normalizeClub(player.current_club);
                   return (
                     <span key={i}>
                       <span style={isCurrent ? { color: '#4ade80' } : undefined}>{displayName}</span>
