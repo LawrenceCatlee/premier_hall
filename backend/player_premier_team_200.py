@@ -21,30 +21,35 @@ def scrape_team_players(team_name, url, scraper=None):
     if scraper is None:
         scraper = cloudscraper.create_scraper()
 
-    # 获取Pulselive球员索引，过滤掉英超出场不足180场的球员再建查询表
-    # 避免重名球员（如同名新秀）污染 player_id 匹配
+    # 获取Pulselive球员索引，用两步法构建 name→id 查询表：
+    # 1. 先用全量索引建表（保证所有球员都能被匹配，含 180-229 场的单队球员）
+    # 2. 再用 230+ 出场球员覆盖同名条目（重名时让资历更深的球员优先）
+    # 这样既解决了 Aaron Ramsey 式重名污染，又不会踢掉总出场 180-229 的球员
     pl_players_df = get_pulselive_player_index()
     print(f"Pulselive 索引加载完毕：{len(pl_players_df)} 名球员")
 
+    # 第一步：全量建表
+    pl_name_to_id = dict(zip(
+        pl_players_df['player_name'].str.lower().str.strip(),
+        pl_players_df['player_id']
+    ))
+
+    # 第二步：230+ 出场球员覆盖同名条目
     try:
         apps_df = pd.read_csv(
             os.path.join(os.path.dirname(__file__), 'data', 'epl_players_appearances_230plus.csv'),
             usecols=['player_id', 'total_appearances'],
             encoding='utf-8-sig',
         )
-        qualified_ids = set(
-            apps_df.loc[apps_df['total_appearances'] >= 180, 'player_id'].astype(int)
-        )
-        filtered_df = pl_players_df[pl_players_df['player_id'].isin(qualified_ids)]
-        print(f"过滤后保留 {len(filtered_df)} 名球员（出场数>=180）")
+        qualified_ids = set(apps_df['player_id'].astype(int))
+        qualified_df = pl_players_df[pl_players_df['player_id'].isin(qualified_ids)]
+        pl_name_to_id.update(dict(zip(
+            qualified_df['player_name'].str.lower().str.strip(),
+            qualified_df['player_id']
+        )))
+        print(f"230+ 出场球员（{len(qualified_df)} 名）已覆盖同名条目")
     except Exception as e:
-        print(f"[警告] 加载出场数过滤表失败，使用全量索引：{e}")
-        filtered_df = pl_players_df
-
-    pl_name_to_id = dict(zip(
-        filtered_df['player_name'].str.lower().str.strip(),
-        filtered_df['player_id']
-    ))
+        print(f"[警告] 加载出场数覆盖表失败：{e}")
     
     try:
         response = scraper.get(url, timeout=30)
