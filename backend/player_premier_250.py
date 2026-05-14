@@ -286,6 +286,21 @@ def main() -> None:
         rows,
         columns=["player_id", "player name", "clubs", "total_appearances", "is_retired"],
     )
+
+    # 保护：新抓取结果比缓存少超过 10% 时拒绝覆盖，避免 Cloudflare/API 截断破坏数据
+    if OUT_PATH.exists():
+        try:
+            cached_count = sum(1 for _ in open(OUT_PATH, encoding="utf-8-sig")) - 1  # 减表头
+            if len(df) < cached_count * 0.9:
+                print(
+                    f"[ABORT] 新数据 {len(df)} 行 < 缓存 {cached_count} 行的 90%，"
+                    f"疑似抓取不完整，保留旧文件。",
+                    flush=True,
+                )
+                return
+        except Exception:
+            pass
+
     df.to_csv(OUT_PATH, index=False, encoding="utf-8-sig")
     print(f"Saved: {OUT_PATH} (rows={len(df)})", flush=True)
 
