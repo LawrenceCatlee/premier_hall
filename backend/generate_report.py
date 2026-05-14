@@ -219,7 +219,67 @@ def build_report(old: list[dict] | None, new: list[dict]) -> str:
     else:
         sections.append("⚡ *接近达标里程碑的球员*：无")
 
-    return "\n\n".join(sections)
+    summary = "\n\n".join(sections)
+
+    # 新达标球员详情卡（每人一条单独消息）
+    cards = [_player_card(p, achs) for p, achs in new_achievements]
+
+    return summary, cards
+
+
+# ─── 球员详情卡 ───────────────────────────────────────────────────────────────
+
+_ACH_EMOJI = {
+    "出场250次": "🎯",
+    "单队200场": "🏠",
+    "百球":      "⚽",
+    "百大零封":  "🧤",
+    "三冠王":    "👑",
+    "金靴奖":    "🥇",
+    "金手套奖":  "🥇",
+    "年度最佳":  "🌟",
+    "最佳阵容":  "📋",
+    "10年最佳阵容": "📋",
+    "20年最佳阵容": "📋",
+}
+
+
+def _player_card(p: dict, new_achs: list[str]) -> str:
+    name = _fmt_name(p)
+    nationality = p.get("nationality") or "—"
+    current = p.get("current_club") or "—"
+    status = _status_zh(p.get("player_status", ""))
+
+    # 所有效力过的英超俱乐部
+    clubs = p.get("clubs") or []
+    clubs_str = "、".join(clubs) if clubs else "—"
+
+    # 全部成就（含本次新达标）
+    all_achs = p.get("achievements") or []
+    ach_lines = []
+    for a in all_achs:
+        t = a.get("type", "")
+        d = a.get("detail", "")
+        emoji = _ACH_EMOJI.get(t, "🏅")
+        ach_lines.append(f"  {emoji} {t}：{d}" if d else f"  {emoji} {t}")
+
+    new_tag = "、".join(new_achs)
+
+    lines = [
+        f"🏆 *新达标：{new_tag}*",
+        f"",
+        f"👤 *{name}*",
+        f"🌍 国籍：{nationality}",
+        f"📌 当前状态：{status}",
+        f"🏟 现效力俱乐部：{current}",
+        f"",
+        f"🏴󠁧󠁢󠁥󠁮󠁧󠁿 *效力过的英超俱乐部*",
+        f"  {clubs_str}",
+        f"",
+        f"🎖 *全部成就*",
+    ] + ach_lines
+
+    return "\n".join(lines)
 
 
 # ─── Telegram 发送 ────────────────────────────────────────────────────────────
@@ -278,16 +338,23 @@ def main() -> None:
     new_players = _load_new_players()
 
     print("生成报告…")
-    report = build_report(old_players, new_players)
+    summary, cards = build_report(old_players, new_players)
 
     print("\n" + "=" * 60)
-    print(report)
+    print(summary)
+    if cards:
+        print("\n── 新达标球员详情卡 ──")
+        for card in cards:
+            print(card)
+            print()
     print("=" * 60 + "\n")
 
     if dry_run:
         print("（dry-run 模式，不发送 Telegram）")
     else:
-        send_telegram(report)
+        send_telegram(summary)
+        for card in cards:
+            send_telegram(card)
 
 
 if __name__ == "__main__":
