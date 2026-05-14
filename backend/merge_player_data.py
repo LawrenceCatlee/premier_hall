@@ -538,6 +538,8 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         'multi_is_in_team3',
         'golden_boot_season',
         'golden_boot_goals',
+        'epl_total_appearances',
+        'xlsx_clubs',
     ]
 
     existing_check_cols = [col for col in check_cols if col in merged_df.columns]
