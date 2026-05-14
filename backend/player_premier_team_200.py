@@ -21,20 +21,28 @@ def scrape_team_players(team_name, url, scraper=None):
     if scraper is None:
         scraper = cloudscraper.create_scraper()
 
-    # 获取Pulselive球员索引，用两步法构建 name→id 查询表：
-    # 1. 先用全量索引建表（保证所有球员都能被匹配，含 180-229 场的单队球员）
-    # 2. 再用 230+ 出场球员覆盖同名条目（重名时让资历更深的球员优先）
-    # 这样既解决了 Aaron Ramsey 式重名污染，又不会踢掉总出场 180-229 的球员
+    # 获取Pulselive球员索引，构建两级查询结构消除重名污染：
+    # - pl_name_to_candidates: name → [(player_id, pl_appearances), ...]
+    #   优先级1：Transfermarkt 出场数 == Pulselive 出场数 → 精确匹配
+    # - pl_name_to_id: name → player_id
+    #   优先级2：230+ 出场球员覆盖兜底，保证有重名时取资历更深的球员
     pl_players_df = get_pulselive_player_index()
     print(f"Pulselive 索引加载完毕：{len(pl_players_df)} 名球员")
 
-    # 第一步：全量建表
+    has_appearances_col = 'appearances' in pl_players_df.columns
+
+    # 候选列表：保留同名的全部记录，附带 Pulselive 出场数
+    pl_name_to_candidates: dict = {}
+    for _, row in pl_players_df.iterrows():
+        key = str(row['player_name']).lower().strip()
+        apps = int(row['appearances']) if has_appearances_col and pd.notna(row.get('appearances')) else 0
+        pl_name_to_candidates.setdefault(key, []).append((int(row['player_id']), apps))
+
+    # 兜底字典：全量建表，230+ 出场球员覆盖同名条目
     pl_name_to_id = dict(zip(
         pl_players_df['player_name'].str.lower().str.strip(),
         pl_players_df['player_id']
     ))
-
-    # 第二步：230+ 出场球员覆盖同名条目
     try:
         apps_df = pd.read_csv(
             os.path.join(os.path.dirname(__file__), 'data', 'epl_players_appearances_230plus.csv'),
@@ -47,7 +55,7 @@ def scrape_team_players(team_name, url, scraper=None):
             qualified_df['player_name'].str.lower().str.strip(),
             qualified_df['player_id']
         )))
-        print(f"230+ 出场球员（{len(qualified_df)} 名）已覆盖同名条目")
+        print(f"兜底字典：230+ 出场球员（{len(qualified_df)} 名）已覆盖同名条目")
     except Exception as e:
         print(f"[警告] 加载出场数覆盖表失败：{e}")
     
@@ -106,20 +114,36 @@ def scrape_team_players(team_name, url, scraper=None):
                 
                 # 应用姓名标准化映射
                 standardized_name = standardize_player_name(player_name)
-                
-                # 匹配player_id
+
+                # 提前提取本队出场数（用于精确匹配消除重名）
+                team_appearances = 0
+                for i in range(player_cell_index + 1, len(cells)):
+                    ct = cells[i].get_text(strip=True)
+                    if ct.isdigit() and int(ct) >= 50:
+                        team_appearances = int(ct)
+                        break
+
+                # 匹配 player_id：三档优先级
+                # 1. 出场数精确匹配（Transfermarkt 本队出场 == Pulselive 出场）
+                # 2. 兜底字典（全量，230+ 球员已覆盖同名条目）
                 player_id = None
                 name_variants = [
                     standardized_name.lower(),
                     player_name.lower(),
                     clean_player_name(player_name).lower()
                 ]
-                
                 for variant in name_variants:
+                    candidates = pl_name_to_candidates.get(variant, [])
+                    if len(candidates) > 1 and team_appearances > 0:
+                        # 重名：优先选 Pulselive 出场数与本队出场数一致的
+                        exact = [pid for pid, apps in candidates if apps == team_appearances]
+                        if exact:
+                            player_id = exact[0]
+                            break
                     if variant in pl_name_to_id:
                         player_id = pl_name_to_id[variant]
                         break
-                
+
                 # 判断是否退役并获取当前效力球队
                 is_retired = False
                 current_team = None
@@ -157,17 +181,8 @@ def scrape_team_players(team_name, url, scraper=None):
                                     current_team = cell_text.strip()
                                     break
                 
-                # 提取出场数
-                appearances = 0
-                
-                # 从球员单元格之后开始查找出场数
-                for i in range(player_cell_index + 1, len(cells)):
-                    cell_text = cells[i].get_text(strip=True)
-                    # 寻找出场数（通常是较大的数字）
-                    if cell_text.isdigit() and int(cell_text) >= 50:
-                        appearances = int(cell_text)
-                        break
-                
+                appearances = team_appearances  # 已在 ID 匹配前提取
+
                 # 只保存出场数>=180的球员（捕获所有在英超有一定出场的球队）
                 if appearances >= 180:
                     player_info = {

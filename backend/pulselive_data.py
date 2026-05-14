@@ -206,6 +206,9 @@ def _build_player_index_from_appearances(session: requests.Session) -> pd.DataFr
                 name = owner.get("name", {}).get("display", "")
                 if not pid or not name:
                     continue
+                appearances = _as_int(
+                    entry.get("value") or entry.get("statValue") or entry.get("stat", {}).get("value")
+                ) or 0
 
                 nationality = (
                     owner.get("nationalTeam", {}).get("country", "")
@@ -231,6 +234,7 @@ def _build_player_index_from_appearances(session: requests.Session) -> pd.DataFr
                 rows.append({
                     "player_id": pid,
                     "player_name": name,
+                    "appearances": appearances,
                     "nationality": nationality,
                     "position": position,
                     "current_team": current_team,
@@ -259,7 +263,7 @@ def _build_player_index_from_appearances(session: requests.Session) -> pd.DataFr
     if not rows:
         print("WARNING: No data fetched — returning empty DataFrame")
         return pd.DataFrame(columns=[
-            "player_id", "player_name", "nationality", "position",
+            "player_id", "player_name", "appearances", "nationality", "position",
             "current_team", "info_club", "current_club", "birth_date", "retired",
         ])
 
