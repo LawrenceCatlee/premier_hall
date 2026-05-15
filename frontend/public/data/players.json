@@ -555,8 +555,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Chelsea",
-      "Aston Villa"
+      "Chelsea"
     ],
     "total_appearances": 492,
     "single_club_appearances": 492.0,
@@ -4220,10 +4219,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Fulham FC",
     "birth_date": "1996/5/3",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -5548,10 +5547,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Panathinaikos",
     "birth_date": "1989/8/16",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -6443,7 +6442,9 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Reading"
+      "Fulham",
+      "Aston Villa",
+      "Bolton Wanderers"
     ],
     "total_appearances": 284,
     "single_club_appearances": null,
@@ -6751,7 +6752,8 @@
     "nationality": "Australia",
     "position": "D",
     "clubs": [
-      "Blackburn Rovers"
+      "Blackburn Rovers",
+      "West Ham United"
     ],
     "total_appearances": 279,
     "single_club_appearances": 188.0,
@@ -6840,10 +6842,10 @@
     "single_club_name": null,
     "goals": 121,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Napoli",
     "birth_date": "1993/5/13",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -6862,7 +6864,7 @@
     "nationality": "Wales",
     "position": "D",
     "clubs": [
-      "Ipswich Town",
+      "Aston Villa",
       "West Ham United"
     ],
     "total_appearances": 278,
@@ -6977,7 +6979,9 @@
     "position": "D",
     "clubs": [
       "Crystal Palace",
-      "Liverpool"
+      "Liverpool",
+      "Southampton",
+      "Bournemouth"
     ],
     "total_appearances": 277,
     "single_club_appearances": null,
@@ -7029,7 +7033,7 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Sheffield United",
+      "Brentford",
       "Burnley"
     ],
     "total_appearances": 277,
@@ -7652,8 +7656,11 @@
     "nationality": "Spain",
     "position": "F",
     "clubs": [
-      "West Ham United",
-      "Fulham"
+      "Aston Villa",
+      "Middlesbrough",
+      "Wolverhampton Wanderers",
+      "Fulham",
+      "West Ham United"
     ],
     "total_appearances": 271,
     "single_club_appearances": null,
@@ -7902,7 +7909,8 @@
     "nationality": "France",
     "position": "D",
     "clubs": [
-      "Arsenal"
+      "Arsenal",
+      "Manchester City"
     ],
     "total_appearances": 267,
     "single_club_appearances": 213.0,
@@ -7958,7 +7966,9 @@
     "nationality": "England",
     "position": "G",
     "clubs": [
-      "Chelsea"
+      "Norwich City",
+      "West Ham United",
+      "Queens Park Rangers"
     ],
     "total_appearances": 266,
     "single_club_appearances": null,
@@ -8618,10 +8628,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Wrexham",
     "birth_date": "1989/7/29",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -8859,10 +8869,10 @@
     "single_club_name": null,
     "goals": 90,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Lille",
     "birth_date": "1986/9/30",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -9025,10 +9035,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Marseille",
     "birth_date": "1995/8/5",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -9217,7 +9227,10 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Brighton & Hove Albion"
+      "Tottenham Hotspur",
+      "West Ham United",
+      "Fulham",
+      "Queens Park Rangers"
     ],
     "total_appearances": 252,
     "single_club_appearances": null,
@@ -9422,10 +9435,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Sassuolo",
     "birth_date": "1988/8/1",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "出场250次",
@@ -9524,10 +9537,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Dagenham & Redbridge",
     "birth_date": "1989/1/6",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": []
   },
   {
@@ -9973,6 +9986,10 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
+      "Wigan Athletic",
+      "Manchester United",
+      "Aston Villa",
+      "Everton",
       "Watford"
     ],
     "total_appearances": 242,
@@ -10198,17 +10215,21 @@
     "nationality": "England",
     "position": "F",
     "clubs": [
-      "Sheffield United"
+      "Burnley",
+      "Liverpool",
+      "Southampton",
+      "Aston Villa",
+      "West Ham United"
     ],
     "total_appearances": 240,
     "single_club_appearances": null,
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Sheffield United",
     "birth_date": "1992/7/23",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": []
   },
   {
@@ -10697,6 +10718,8 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
+      "Sunderland",
+      "Stoke City",
       "Huddersfield Town"
     ],
     "total_appearances": 234,
@@ -10801,10 +10824,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "West Ham United",
     "birth_date": "1997/11/26",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": []
   },
   {
@@ -11706,18 +11729,19 @@
     "nationality": "England",
     "position": "M",
     "clubs": [
-      "Everton",
-      "Manchester City"
+      "Aston Villa",
+      "Manchester City",
+      "Everton"
     ],
     "total_appearances": 0,
     "single_club_appearances": null,
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Everton FC",
     "birth_date": "1995/9/10",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "三冠王",
@@ -12705,7 +12729,6 @@
     "nationality": "England",
     "position": "D",
     "clubs": [
-      "Birmingham City",
       "Manchester United"
     ],
     "total_appearances": 0,
@@ -12764,10 +12787,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Marseille",
     "birth_date": "1989/6/18",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "金靴奖",
@@ -12839,10 +12862,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "FC Barcelona",
     "birth_date": "1990/4/18",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "金手套奖",
@@ -12897,10 +12920,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Real Madrid",
     "birth_date": "1992/5/11",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "金手套奖",
@@ -12947,10 +12970,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Athletic Bilbao",
     "birth_date": "1994/5/27",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "三冠王",
@@ -12972,10 +12995,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "Inter Miami CF",
     "birth_date": "1987/1/24",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "金靴奖",
@@ -13051,10 +13074,10 @@
     "single_club_name": null,
     "goals": null,
     "clean_sheets": null,
-    "current_club": "",
+    "current_club": "FC Barcelona",
     "birth_date": "1994/5/27",
     "hof_year": null,
-    "player_status": "retired",
+    "player_status": "active_not_pl",
     "achievements": [
       {
         "type": "三冠王",
@@ -13120,7 +13143,7 @@
     "nationality": "Poland",
     "position": "G",
     "clubs": [
-      "Birmingham City",
+      "West Bromwich Albion",
       "Manchester United"
     ],
     "total_appearances": 0,
