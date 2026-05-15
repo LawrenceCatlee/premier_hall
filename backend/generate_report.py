@@ -221,10 +221,13 @@ def build_report(old: list[dict] | None, new: list[dict]) -> str:
 
     summary = "\n\n".join(sections)
 
-    # 新达标球员详情卡（每人一条单独消息）
-    cards = [_player_card(p, achs) for p, achs in new_achievements]
+    # 新加入总表的球员详情卡
+    new_player_cards = [_player_card(p, [], new_entry=True) for p in new_players]
 
-    return summary, cards
+    # 新达标里程碑球员详情卡
+    milestone_cards = [_player_card(p, achs) for p, achs in new_achievements]
+
+    return summary, new_player_cards + milestone_cards
 
 
 # ─── 球员详情卡 ───────────────────────────────────────────────────────────────
@@ -244,17 +247,15 @@ _ACH_EMOJI = {
 }
 
 
-def _player_card(p: dict, new_achs: list[str]) -> str:
+def _player_card(p: dict, new_achs: list[str], new_entry: bool = False) -> str:
     name = _fmt_name(p)
     nationality = p.get("nationality") or "—"
     current = p.get("current_club") or "—"
     status = _status_zh(p.get("player_status", ""))
 
-    # 所有效力过的英超俱乐部
     clubs = p.get("clubs") or []
     clubs_str = "、".join(clubs) if clubs else "—"
 
-    # 全部成就（含本次新达标）
     all_achs = p.get("achievements") or []
     ach_lines = []
     for a in all_achs:
@@ -263,10 +264,13 @@ def _player_card(p: dict, new_achs: list[str]) -> str:
         emoji = _ACH_EMOJI.get(t, "🏅")
         ach_lines.append(f"  {emoji} {t}：{d}" if d else f"  {emoji} {t}")
 
-    new_tag = "、".join(new_achs)
+    if new_entry:
+        header = "🆕 *新加入总表*"
+    else:
+        header = f"🏆 *新达标：{'、'.join(new_achs)}*"
 
     lines = [
-        f"🏆 *新达标：{new_tag}*",
+        header,
         f"",
         f"👤 *{name}*",
         f"🌍 国籍：{nationality}",
@@ -277,7 +281,7 @@ def _player_card(p: dict, new_achs: list[str]) -> str:
         f"  {clubs_str}",
         f"",
         f"🎖 *全部成就*",
-    ] + ach_lines
+    ] + (ach_lines if ach_lines else ["  （暂无）"])
 
     return "\n".join(lines)
 
