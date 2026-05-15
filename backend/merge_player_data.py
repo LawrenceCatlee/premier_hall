@@ -1,6 +1,5 @@
 import datetime
 import json
-from pickle import TRUE
 import pandas as pd
 import os
 from pathlib import Path
@@ -539,16 +538,11 @@ def create_final_merged_dataset(data_files: Dict[str, pd.DataFrame]) -> pd.DataF
         'golden_boot_season',
         'golden_boot_goals',
         'epl_total_appearances',
-        'xlsx_clubs',
     ]
 
     existing_check_cols = [col for col in check_cols if col in merged_df.columns]
 
-    # 优先使用 epl_total_appearances，其次使用 appearances
-    # appearances_col = 'epl_total_appearances' if 'epl_total_appearances' in merged_df.columns else 'appearances'
-    appearances_col = TRUE
-    
-    if appearances_col and existing_check_cols:
+    if existing_check_cols:
         # appearances_num = pd.to_numeric(merged_df[appearances_col], errors='coerce')
 
         # 把空字符串、纯空格也视为缺失值
