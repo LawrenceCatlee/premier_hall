@@ -3,12 +3,10 @@ from __future__ import annotations
 import json
 import re
 import time
-import unicodedata
 from collections import defaultdict
 from dataclasses import dataclass
-from difflib import SequenceMatcher
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 import pandas as pd
 import requests
@@ -52,14 +50,6 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; pl-scraper/1.3; +https://example.com)"}
 
-# Pulselive (Premier League site backend used by premierleague.com)
-PL_BASE = "https://footballapi.pulselive.com"
-
-# Cache: an index built from the all-time Premier League appearances ranking endpoint
-PLAYER_INDEX_CACHE = DATA_DIR / "pulselive_player_index_appearances.csv"
-PLAYER_INDEX_PAGE_SIZE = 200
-PLAYER_INDEX_SLEEP = 0.08
-
 # Reports / outputs
 UNMATCHED_REPORT = DATA_DIR / "pulselive_player_id_unmatched_report.csv"
 AUTO_ALIAS_JSON = DATA_DIR / "pulselive_player_id_auto_aliases.json"
@@ -67,7 +57,7 @@ AUTO_ALIAS_CSV = DATA_DIR / "pulselive_player_id_auto_aliases.csv"
 STILL_MISSING_CSV = DATA_DIR / "pulselive_player_id_still_missing.csv"
 
 
-# ---------- common helpers ----------
+# ---------- helpers ----------
 
 def fetch_html(url: str) -> str:
     r = requests.get(url, headers=UA, timeout=30)
@@ -96,50 +86,6 @@ def pick_table_by_required_cols(tables: List[pd.DataFrame], required_cols: List[
     raise RuntimeError(f"Cannot find table with required columns: {required_cols}")
 
 
-# ---------- pulselive: build appearances index (player_id + display name) ----------
-
-def _make_pl_session() -> requests.Session:
-    s = requests.Session()
-    # These headers usually prevent 403 (Pulselive is used by premierleague.com frontend)
-    s.headers.update(
-        {
-            "Origin": "https://www.premierleague.com",
-            "Referer": "https://www.premierleague.com/",
-            "Accept": "application/json, text/plain, */*",
-            "User-Agent": (
-                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
-            ),
-        }
-    )
-    return s
-
-
-def _pl_get_json(
-    session: requests.Session,
-    path: str,
-    params: Optional[dict] = None,
-    retries: int = 6,
-    timeout: int = 25,
-) -> Dict[str, Any]:
-    url = f"{PL_BASE}{path}"
-    last_err: Optional[Exception] = None
-
-    for i in range(retries):
-        try:
-            resp = session.get(url, params=params, timeout=timeout)
-            if resp.status_code == 429:
-                time.sleep(1.2 * (i + 1))
-                continue
-            resp.raise_for_status()
-            return resp.json()
-        except Exception as e:
-            last_err = e
-            time.sleep(0.8 * (i + 1))
-
-    raise RuntimeError(f"GET {url} failed after {retries} retries: {last_err}") from last_err
-
-
 def _as_int(x: Any) -> Optional[int]:
     try:
         if x is None:
@@ -155,84 +101,6 @@ def _as_int(x: Any) -> Optional[int]:
     except Exception:
         return None
 
-
-def _extract_owner_name(owner: Any) -> str:
-    if isinstance(owner, dict):
-        n = owner.get("name")
-        if isinstance(n, str):
-            return n.strip()
-        if isinstance(n, dict):
-            disp = n.get("display")
-            if disp:
-                return str(disp).strip()
-            first = str(n.get("first") or "").strip()
-            last = str(n.get("last") or "").strip()
-            return (first + " " + last).strip() or "Unknown"
-    return "Unknown"
-
-
-def _extract_owner_id(owner: Any) -> Optional[int]:
-    if isinstance(owner, dict):
-        return _as_int(owner.get("id") or owner.get("playerId"))
-    return None
-
-
-def _build_player_index_from_appearances(session: requests.Session) -> pd.DataFrame:
-    """
-    Build an index of (player_id, player_name, appearances) by paging:
-      /football/stats/ranked/players/appearances?comps=1&page=...&pageSize=...
-
-    NOTE: This is exactly what pulselive_player_index_appearances.csv represents:
-    an "all-time PL appearances ranking" list, not an exhaustive roster per season.
-    """
-    rows: List[Dict[str, Any]] = []
-    page = 0
-
-    while True:
-        params = {
-            "page": page,
-            "pageSize": PLAYER_INDEX_PAGE_SIZE,
-            "comps": "1",  # Premier League competition id
-            "compCodeForActivePlayer": "EN_PR",
-            "altIds": "true",
-        }
-        js = _pl_get_json(session, "/football/stats/ranked/players/appearances", params=params)
-
-        content = None
-        if isinstance(js.get("stats"), dict):
-            content = js["stats"].get("content")
-        if content is None:
-            content = js.get("content")
-        if not isinstance(content, list) or not content:
-            break
-
-        for it in content:
-            owner = it.get("owner") or {}
-            pid = _extract_owner_id(owner)
-            name = _extract_owner_name(owner)
-            apps = _as_int(it.get("value") or it.get("statValue") or it.get("total") or it.get("appearances"))
-            if pid is None or not name or name == "Unknown":
-                continue
-            rows.append({"player_id": pid, "player_name": name, "appearances": apps})
-
-        page += 1
-        time.sleep(PLAYER_INDEX_SLEEP)
-
-    df = pd.DataFrame(rows).drop_duplicates(subset=["player_id"])
-    df["appearances"] = pd.to_numeric(df["appearances"], errors="coerce")
-    df.to_csv(PLAYER_INDEX_CACHE, index=False, encoding="utf-8-sig")
-    return df
-
-
-def _load_or_build_player_index(session: requests.Session) -> pd.DataFrame:
-    if PLAYER_INDEX_CACHE.exists():
-        df = pd.read_csv(PLAYER_INDEX_CACHE)
-        if {"player_id", "player_name", "appearances"}.issubset(df.columns):
-            return df
-    return _build_player_index_from_appearances(session)
-
-
-# ---------- pulselive: build appearances index (player_id + display name) ----------
 
 @dataclass(frozen=True)
 class PlayerIndexItem:
@@ -966,13 +834,16 @@ def main() -> None:
     resolver = PlayerIdResolver()
     outputs: List[Path] = []
 
-    # team_10y_20y is static — only scrape once if CSV is missing
+    # team_10y_20y is static — seed the file manually if missing
     team_10y_file = DATA_DIR / "pl_team_10y_20y_award_xi.csv"
     if team_10y_file.exists():
         print(f"[INFO] {team_10y_file} already exists, skipping scrape.")
         outputs.append(team_10y_file)
     else:
-        outputs.append(scrape_team_10_and_20_awards(resolver)); time.sleep(1)
+        raise FileNotFoundError(
+            f"{team_10y_file} not found — this file must be seeded manually "
+            "(columns: player_id, position, player, award)."
+        )
 
     outputs.append(scrape_golden_boot(resolver)); time.sleep(1)
     outputs.append(scrape_golden_glove(resolver)); time.sleep(1)

@@ -344,10 +344,10 @@ player_id,player_name,is_retired,current_team
 4198,Craig Dawson,no,
 4224,James McArthur,yes,
 4245,Emiliano Martínez,no,Aston Villa
-4252,Alex Oxlade-Chamberlain,yes,
+4252,Alex Oxlade-Chamberlain,no,Celtic FC
 4260,Jack Grealish,no,Everton FC
 4286,Oriol Romeu,no,Southampton FC
-4287,Juan Mata,yes,
+4287,Juan Mata,no,Melbourne Victory
 4288,Kevin De Bruyne,no,SSC Napoli
 4290,Romelu Lukaku,no,Napoli
 4316,Raheem Sterling,no,Feyenoord Rotterdam
@@ -369,7 +369,7 @@ player_id,player_name,is_retired,current_team
 4505,John Stones,no,Manchester City
 4539,Wilfried Zaha,no,Charlotte FC
 4549,Moussa Sissoko,no,Panathinaikos
-4604,Nathaniel Clyne,yes,
+4604,Nathaniel Clyne,no,Crystal Palace
 4608,Luke Shaw,no,Manchester United
 4617,James Ward-Prowse,no,Burnley FC
 4618,Adam Lallana,yes,
@@ -389,12 +389,12 @@ player_id,player_name,is_retired,current_team
 5101,Ilkay Gündogan,no,Galatasaray
 5110,Pierre-Emerick Aubameyang,no,Marseille
 5140,Virgil van Dijk,no,Liverpool FC
-5175,Kurt Zouma,yes,
+5175,Kurt Zouma,no,Al Wasl SC
 5178,Mohamed Salah,no,Liverpool FC
 5220,Fabian Schär,no,Newcastle United
 5272,Pierre-Emile Højbjerg,no,Marseille
 5514,Angelo Ogbonna,no,
-5575,Benjamin Mendy,yes,
+5575,Benjamin Mendy,no,Pogoń Szczecin
 5595,Jordan Ayew,no,Leicester City
 5758,Lucas Digne,no,Aston Villa
 5859,Luka Milivojevic,no,Al-Nasr SC (UAE)
