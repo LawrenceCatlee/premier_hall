@@ -49,9 +49,9 @@
 4145,David Silva,David Silva,Manchester City,309,Manchester City,309,no,,0,no,,0,no,yes
 3929,Joel Ward,Joel Ward,Crystal Palace,306,Crystal Palace,306,no,,0,no,,0,no,no
 13,Lee Dixon,Lee Dixon,Arsenal,305,Arsenal,305,no,,0,no,,0,no,yes
+5067,Bernardo Silva,Bernardo Silva,Manchester City,303,Manchester City,303,yes,,0,no,,0,no,no
 89,Alan Shearer,Alan Shearer,Newcastle United,303,Newcastle United,303,no,,0,no,,0,no,yes
 181,David Unsworth,David Unsworth,Everton,302,Everton,302,no,,0,no,,0,no,yes
-5067,Bernardo Silva,Bernardo Silva,Manchester City,302,Manchester City,302,yes,,0,no,,0,no,no
 8163,Lewis Dunk,Lewis Dunk,Brighton & Hove Albion,298,Brighton & Hove Albion,298,yes,,0,no,,0,no,no
 566,Darren Anderton,Darren Anderton,Tottenham Hotspur,297,Tottenham Hotspur,297,no,,0,no,,0,no,yes
 315,Denis Irwin,Denis Irwin,Manchester United,296,Manchester United,296,no,,0,no,,0,no,yes
@@ -101,8 +101,8 @@
 4030,Laurent Koscielny,Laurent Koscielny,Arsenal,255,Arsenal,255,no,,0,no,,0,no,yes
 557,Sol Campbell,Sol Campbell,Tottenham Hotspur,255,Tottenham Hotspur,255,no,,0,no,,0,no,yes
 20559,Alisson,alisson becker,Liverpool,254,Liverpool,254,no,,0,no,,0,no,no
+3512,Adam Smith,Adam Smith,Bournemouth,254,Bournemouth,254,no,,0,no,,0,no,no
 2662,Didier Drogba,Didier Drogba,Chelsea,254,Chelsea,254,no,,0,no,,0,no,yes
-3512,Adam Smith,Adam Smith,Bournemouth,253,Bournemouth,253,no,,0,no,,0,no,no
 1184,Richard Dunne,Richard Dunne,Manchester City,253,Manchester City,253,no,,0,no,,0,no,yes
 307,Peter Schmeichel,Peter Schmeichel,Manchester United,252,Manchester United,252,no,,0,no,,0,no,yes
 848,Lee Hendrie,Lee Hendrie,Aston Villa,251,Aston Villa,251,no,,0,no,,0,no,yes
@@ -156,14 +156,14 @@
 25183,Tomáš Souček,tomás soucek,West Ham United,228,West Ham United,228,yes,,0,no,,0,no,no
 2047,Jonathan Walters,Jonathan Walters,Stoke City,226,Stoke City,226,no,,0,no,,0,no,yes
 2705,Tim Cahill,Tim Cahill,Everton,226,Everton,226,no,,0,no,,0,no,yes
-776,Stephen Carr,Stephen Carr,Tottenham Hotspur,226,Tottenham Hotspur,226,no,,0,no,,0,no,yes
+49481,Bukayo Saka,Bukayo Saka,Arsenal,226,Arsenal,226,no,,0,no,,0,no,no
 4845,Christian Eriksen,Christian Eriksen,Tottenham Hotspur,226,Tottenham Hotspur,226,no,,0,no,,0,no,no
-2002,Kolo Touré,Kolo Touré,Arsenal,225,Arsenal,225,no,,0,no,,0,no,yes
+776,Stephen Carr,Stephen Carr,Tottenham Hotspur,226,Tottenham Hotspur,226,no,,0,no,,0,no,yes
 12136,Granit Xhaka,Granit Xhaka,Arsenal,225,Arsenal,225,no,,0,no,,0,no,no
 4316,Raheem Sterling,Raheem Sterling,Manchester City,225,Manchester City,225,no,,0,no,,0,no,no
-49481,Bukayo Saka,Bukayo Saka,Arsenal,225,Arsenal,225,no,,0,no,,0,no,no
+2002,Kolo Touré,Kolo Touré,Arsenal,225,Arsenal,225,no,,0,no,,0,no,yes
+14805,Phil Foden,Phil Foden,Manchester City,224,Manchester City,224,yes,,0,no,,0,no,no
 3564,Marc Albrighton,Marc Albrighton,Leicester City,224,Leicester City,224,no,,0,no,,0,no,yes
-14805,Phil Foden,Phil Foden,Manchester City,223,Manchester City,223,yes,,0,no,,0,no,no
 174,Dave Watson,Dave Watson,Everton,223,Everton,223,no,,0,no,,0,no,yes
 1943,Darren Fletcher,Darren Fletcher,Manchester United,223,Manchester United,223,no,,0,no,,0,no,yes
 670,Muzzy Izzet,Muzzy Izzet,Leicester City,222,Leicester City,222,no,,0,no,,0,no,yes
@@ -220,8 +220,8 @@
 363,Robbie Mustoe,Robbie Mustoe,Middlesbrough,197,Middlesbrough,197,no,,0,no,,0,no,yes
 886,Lucas Radebe,Lucas Radebe,Leeds United,197,Leeds United,197,no,,0,no,,0,no,yes
 6519,Sadio Mané,Sadio Mané,Liverpool,196,Liverpool,196,no,,0,no,,0,no,no
+16286,Rodri,Rodri,Manchester City,196,Manchester City,196,yes,,0,no,,0,no,no
 3309,Lukasz Fabianski,Lukasz Fabianski,West Ham United,195,West Ham United,195,yes,,0,no,,0,no,no
-16286,Rodri,Rodri,Manchester City,195,Manchester City,195,yes,,0,no,,0,no,no
 3811,Nathan Redmond,Nathan Redmond,Southampton,195,Southampton,195,no,,0,no,,0,no,no
 5595,Jordan Ayew,Jordan Ayew,Crystal Palace,195,Crystal Palace,195,no,,0,no,,0,no,no
 2616,Robin van Persie,Robin van Persie,Arsenal,194,Arsenal,194,no,,0,no,,0,no,yes
@@ -235,18 +235,18 @@
 1595,Dietmar Hamann,Dietmar Hamann,Liverpool,191,Liverpool,191,no,,0,no,,0,no,yes
 153,Gareth Southgate,Gareth Southgate,Aston Villa,191,Aston Villa,191,no,,0,no,,0,no,yes
 122,Steve Ogrizovic,Steve Ogrizovic,Coventry City,191,Coventry City,191,no,,0,no,,0,no,yes
-1455,Paul Jones,Paul Jones,Southampton,191,Southampton,191,no,,0,no,,0,no,yes
 29,Ian Wright,Ian Wright,Arsenal,191,Arsenal,191,no,,0,no,,0,no,yes
-50234,Gabriel,gabriel magalhães,Arsenal,190,Arsenal,190,no,,0,no,,0,no,no
+1455,Paul Jones,Paul Jones,Southampton,191,Southampton,191,no,,0,no,,0,no,yes
+50234,Gabriel,gabriel magalhães,Arsenal,191,Arsenal,191,no,,0,no,,0,no,no
 1740,Kieron Dyer,Kieron Dyer,Newcastle United,190,Newcastle United,190,no,,0,no,,0,no,yes
 13492,N'Golo Kanté,N'Golo Kanté,Chelsea,190,Chelsea,190,no,,0,no,,0,no,no
-3388,Steven Pienaar,Steven Pienaar,Everton,189,Everton,189,no,,0,no,,0,no,yes
-66104,Gabriel Martinelli,Gabriel Martinelli,Arsenal,189,Arsenal,189,no,,0,no,,0,no,no
+66104,Gabriel Martinelli,Gabriel Martinelli,Arsenal,190,Arsenal,190,no,,0,no,,0,no,no
 1835,Robert Pirès,Robert Pirès,Arsenal,189,Arsenal,189,no,,0,no,,0,no,yes
+3388,Steven Pienaar,Steven Pienaar,Everton,189,Everton,189,no,,0,no,,0,no,yes
 3121,Clint Dempsey,Clint Dempsey,Fulham,189,Fulham,189,no,,0,no,,0,no,yes
-3010,James Collins,James Collins,West Ham United,188,West Ham United,188,no,,0,no,,0,no,yes
+10766,Lewis Cook,Lewis Cook,Bournemouth,189,Bournemouth,189,no,,0,no,,0,no,no
 2018,Lucas Neill,Lucas Neill,Blackburn Rovers,188,Blackburn Rovers,188,no,,0,no,,0,no,yes
-10766,Lewis Cook,Lewis Cook,Bournemouth,188,Bournemouth,188,no,,0,no,,0,no,no
+3010,James Collins,James Collins,West Ham United,188,West Ham United,188,no,,0,no,,0,no,yes
 1464,Luke Young,Luke Young,Charlton Athletic,187,Charlton Athletic,187,no,,0,no,,0,no,yes
 1168,Chris Powell,Chris Powell,Charlton Athletic,187,Charlton Athletic,187,no,,0,no,,0,no,yes
 2413,Gaël Clichy,Gaël Clichy,Arsenal,187,Arsenal,187,no,,0,no,,0,no,yes

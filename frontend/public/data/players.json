@@ -896,6 +896,42 @@
     ]
   },
   {
+    "id": 3955,
+    "name_en": "Kyle Walker",
+    "name_cn": "凯尔·沃克",
+    "nationality": "England",
+    "position": "D",
+    "clubs": [
+      "Tottenham Hotspur",
+      "Aston Villa",
+      "Manchester City",
+      "Burnley"
+    ],
+    "total_appearances": 445,
+    "single_club_appearances": 212.0,
+    "single_club_name": "Manchester City",
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "Burnley FC",
+    "birth_date": "1990/5/28",
+    "hof_year": null,
+    "player_status": "active_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "445场"
+      },
+      {
+        "type": "单队200场",
+        "detail": "Manchester City|212"
+      },
+      {
+        "type": "三冠王",
+        "detail": "2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24§Manchester City"
+      }
+    ]
+  },
+  {
     "id": 1717,
     "name_en": "John O'Shea",
     "name_cn": "约翰·奥谢",
@@ -926,42 +962,6 @@
       {
         "type": "三冠王",
         "detail": "2002–03, 2006–07, 2007–08, 2008–09, 2010–11§Manchester United"
-      }
-    ]
-  },
-  {
-    "id": 3955,
-    "name_en": "Kyle Walker",
-    "name_cn": "凯尔·沃克",
-    "nationality": "England",
-    "position": "D",
-    "clubs": [
-      "Tottenham Hotspur",
-      "Aston Villa",
-      "Manchester City",
-      "Burnley"
-    ],
-    "total_appearances": 444,
-    "single_club_appearances": 212.0,
-    "single_club_name": "Manchester City",
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "Burnley FC",
-    "birth_date": "1990/5/28",
-    "hof_year": null,
-    "player_status": "active_pl",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "444场"
-      },
-      {
-        "type": "单队200场",
-        "detail": "Manchester City|212"
-      },
-      {
-        "type": "三冠王",
-        "detail": "2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24§Manchester City"
       }
     ]
   },
@@ -1193,7 +1193,7 @@
       "Nottingham Forest",
       "Burnley"
     ],
-    "total_appearances": 420,
+    "total_appearances": 421,
     "single_club_appearances": 343.0,
     "single_club_name": "Southampton",
     "goals": null,
@@ -1205,7 +1205,7 @@
     "achievements": [
       {
         "type": "出场250次",
-        "detail": "420场"
+        "detail": "421场"
       },
       {
         "type": "单队200场",
@@ -4457,31 +4457,32 @@
     ]
   },
   {
-    "id": 8897,
-    "name_en": "Aaron Cresswell",
-    "name_cn": "阿隆·克雷斯韦尔",
+    "id": 15202,
+    "name_en": "Declan Rice",
+    "name_cn": "德克兰·赖斯",
     "nationality": "England",
-    "position": "D",
+    "position": "M",
     "clubs": [
+      "Arsenal",
       "West Ham United"
     ],
-    "total_appearances": 312,
-    "single_club_appearances": 312.0,
+    "total_appearances": 313,
+    "single_club_appearances": 204.0,
     "single_club_name": "West Ham United",
     "goals": null,
     "clean_sheets": null,
-    "current_club": "Stoke City",
-    "birth_date": "1989/12/15",
+    "current_club": "Arsenal FC",
+    "birth_date": "1999/1/14",
     "hof_year": null,
-    "player_status": "active_not_pl",
+    "player_status": "active_pl",
     "achievements": [
       {
         "type": "出场250次",
-        "detail": "312场"
+        "detail": "313场"
       },
       {
         "type": "单队200场",
-        "detail": "West Ham United|312"
+        "detail": "West Ham United|204"
       }
     ]
   },
@@ -4522,6 +4523,35 @@
     ]
   },
   {
+    "id": 8897,
+    "name_en": "Aaron Cresswell",
+    "name_cn": "阿隆·克雷斯韦尔",
+    "nationality": "England",
+    "position": "D",
+    "clubs": [
+      "West Ham United"
+    ],
+    "total_appearances": 312,
+    "single_club_appearances": 312.0,
+    "single_club_name": "West Ham United",
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "Stoke City",
+    "birth_date": "1989/12/15",
+    "hof_year": null,
+    "player_status": "active_not_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "312场"
+      },
+      {
+        "type": "单队200场",
+        "detail": "West Ham United|312"
+      }
+    ]
+  },
+  {
     "id": 544,
     "name_en": "Ian Walker",
     "name_cn": "伊恩·沃克",
@@ -4549,36 +4579,6 @@
       {
         "type": "单队200场",
         "detail": "Tottenham Hotspur|240"
-      }
-    ]
-  },
-  {
-    "id": 15202,
-    "name_en": "Declan Rice",
-    "name_cn": "德克兰·赖斯",
-    "nationality": "England",
-    "position": "M",
-    "clubs": [
-      "Arsenal",
-      "West Ham United"
-    ],
-    "total_appearances": 312,
-    "single_club_appearances": 204.0,
-    "single_club_name": "West Ham United",
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "Arsenal FC",
-    "birth_date": "1999/1/14",
-    "hof_year": null,
-    "player_status": "active_pl",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "312场"
-      },
-      {
-        "type": "单队200场",
-        "detail": "West Ham United|204"
       }
     ]
   },
@@ -5175,6 +5175,39 @@
     ]
   },
   {
+    "id": 5067,
+    "name_en": "Bernardo Silva",
+    "name_cn": "贝尔纳多·席尔瓦",
+    "nationality": "Portugal",
+    "position": "M",
+    "clubs": [
+      "Manchester City"
+    ],
+    "total_appearances": 303,
+    "single_club_appearances": 303.0,
+    "single_club_name": "Manchester City",
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "Manchester City",
+    "birth_date": "1994/8/10",
+    "hof_year": null,
+    "player_status": "active_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "303场"
+      },
+      {
+        "type": "单队200场",
+        "detail": "Manchester City|303"
+      },
+      {
+        "type": "三冠王",
+        "detail": "2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24§Manchester City"
+      }
+    ]
+  },
+  {
     "id": 4198,
     "name_en": "Craig Dawson",
     "name_cn": "克雷格·道森",
@@ -5199,37 +5232,6 @@
       {
         "type": "出场250次",
         "detail": "303场"
-      }
-    ]
-  },
-  {
-    "id": 1597,
-    "name_en": "Nolberto Solano",
-    "name_cn": "诺尔伯托·索拉诺",
-    "nationality": "Peru",
-    "position": "M",
-    "clubs": [
-      "Newcastle United",
-      "Aston Villa",
-      "West Ham United"
-    ],
-    "total_appearances": 302,
-    "single_club_appearances": 230.0,
-    "single_club_name": "Newcastle United",
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "",
-    "birth_date": "1974/12/12",
-    "hof_year": null,
-    "player_status": "retired",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "302场"
-      },
-      {
-        "type": "单队200场",
-        "detail": "Newcastle United|230"
       }
     ]
   },
@@ -5264,23 +5266,25 @@
     ]
   },
   {
-    "id": 5067,
-    "name_en": "Bernardo Silva",
-    "name_cn": "贝尔纳多·席尔瓦",
-    "nationality": "Portugal",
+    "id": 1597,
+    "name_en": "Nolberto Solano",
+    "name_cn": "诺尔伯托·索拉诺",
+    "nationality": "Peru",
     "position": "M",
     "clubs": [
-      "Manchester City"
+      "Newcastle United",
+      "Aston Villa",
+      "West Ham United"
     ],
     "total_appearances": 302,
-    "single_club_appearances": 302.0,
-    "single_club_name": "Manchester City",
+    "single_club_appearances": 230.0,
+    "single_club_name": "Newcastle United",
     "goals": null,
     "clean_sheets": null,
-    "current_club": "Manchester City",
-    "birth_date": "1994/8/10",
+    "current_club": "",
+    "birth_date": "1974/12/12",
     "hof_year": null,
-    "player_status": "active_pl",
+    "player_status": "retired",
     "achievements": [
       {
         "type": "出场250次",
@@ -5288,11 +5292,7 @@
       },
       {
         "type": "单队200场",
-        "detail": "Manchester City|302"
-      },
-      {
-        "type": "三冠王",
-        "detail": "2017–18, 2018–19, 2020–21, 2021–22, 2022–23, 2023–24§Manchester City"
+        "detail": "Newcastle United|230"
       }
     ]
   },
@@ -7534,6 +7534,33 @@
     ]
   },
   {
+    "id": 24630,
+    "name_en": "Richarlison",
+    "name_cn": "理查利森",
+    "nationality": "Brazil",
+    "position": "F",
+    "clubs": [
+      "Tottenham Hotspur",
+      "Everton",
+      "Watford"
+    ],
+    "total_appearances": 274,
+    "single_club_appearances": null,
+    "single_club_name": null,
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "Tottenham Hotspur",
+    "birth_date": "1997/5/10",
+    "hof_year": null,
+    "player_status": "active_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "274场"
+      }
+    ]
+  },
+  {
     "id": 1168,
     "name_en": "Chris Powell",
     "name_cn": "克里斯·鲍威尔",
@@ -7556,33 +7583,6 @@
       {
         "type": "出场250次",
         "detail": "274场"
-      }
-    ]
-  },
-  {
-    "id": 24630,
-    "name_en": "Richarlison",
-    "name_cn": "理查利森",
-    "nationality": "Brazil",
-    "position": "F",
-    "clubs": [
-      "Tottenham Hotspur",
-      "Everton",
-      "Watford"
-    ],
-    "total_appearances": 273,
-    "single_club_appearances": null,
-    "single_club_name": null,
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "Tottenham Hotspur",
-    "birth_date": "1997/5/10",
-    "hof_year": null,
-    "player_status": "active_pl",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "273场"
       }
     ]
   },
@@ -9036,6 +9036,36 @@
     ]
   },
   {
+    "id": 3512,
+    "name_en": "Adam Smith",
+    "name_cn": "亚当·史密斯",
+    "nationality": "England",
+    "position": "D",
+    "clubs": [
+      "Bournemouth",
+      "Tottenham Hotspur"
+    ],
+    "total_appearances": 255,
+    "single_club_appearances": 254.0,
+    "single_club_name": "Bournemouth",
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "AFC Bournemouth",
+    "birth_date": "1991/4/29",
+    "hof_year": null,
+    "player_status": "active_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "255场"
+      },
+      {
+        "type": "单队200场",
+        "detail": "Bournemouth|254"
+      }
+    ]
+  },
+  {
     "id": 3,
     "name_en": "Tony Adams",
     "name_cn": "托尼·亚当斯",
@@ -9069,6 +9099,69 @@
       {
         "type": "20年最佳阵容",
         "detail": ""
+      }
+    ]
+  },
+  {
+    "id": 20559,
+    "name_en": "Alisson Becker",
+    "name_cn": "阿利松·贝克尔",
+    "nationality": "Brazil",
+    "position": "G",
+    "clubs": [
+      "Liverpool"
+    ],
+    "total_appearances": 254,
+    "single_club_appearances": 254.0,
+    "single_club_name": "Liverpool",
+    "goals": null,
+    "clean_sheets": 106,
+    "current_club": "Liverpool FC",
+    "birth_date": "1992/10/2",
+    "hof_year": null,
+    "player_status": "active_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "254场"
+      },
+      {
+        "type": "单队200场",
+        "detail": "Liverpool|254"
+      },
+      {
+        "type": "百大零封",
+        "detail": "106"
+      },
+      {
+        "type": "金手套奖",
+        "detail": "2018–19, 2021–22"
+      }
+    ]
+  },
+  {
+    "id": 5272,
+    "name_en": "Pierre-Emile Højbjerg",
+    "name_cn": "皮埃尔-埃米尔·霍伊别尔",
+    "nationality": "Denmark",
+    "position": "M",
+    "clubs": [
+      "Southampton",
+      "Tottenham Hotspur"
+    ],
+    "total_appearances": 254,
+    "single_club_appearances": null,
+    "single_club_name": null,
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "Marseille",
+    "birth_date": "1995/8/5",
+    "hof_year": null,
+    "player_status": "active_not_pl",
+    "achievements": [
+      {
+        "type": "出场250次",
+        "detail": "254场"
       }
     ]
   },
@@ -9110,99 +9203,6 @@
       {
         "type": "三冠王",
         "detail": "2004–05, 2005–06, 2009–10, 2014–15§Chelsea"
-      }
-    ]
-  },
-  {
-    "id": 5272,
-    "name_en": "Pierre-Emile Højbjerg",
-    "name_cn": "皮埃尔-埃米尔·霍伊别尔",
-    "nationality": "Denmark",
-    "position": "M",
-    "clubs": [
-      "Southampton",
-      "Tottenham Hotspur"
-    ],
-    "total_appearances": 254,
-    "single_club_appearances": null,
-    "single_club_name": null,
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "Marseille",
-    "birth_date": "1995/8/5",
-    "hof_year": null,
-    "player_status": "active_not_pl",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "254场"
-      }
-    ]
-  },
-  {
-    "id": 3512,
-    "name_en": "Adam Smith",
-    "name_cn": "亚当·史密斯",
-    "nationality": "England",
-    "position": "D",
-    "clubs": [
-      "Bournemouth",
-      "Tottenham Hotspur"
-    ],
-    "total_appearances": 254,
-    "single_club_appearances": 253.0,
-    "single_club_name": "Bournemouth",
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "AFC Bournemouth",
-    "birth_date": "1991/4/29",
-    "hof_year": null,
-    "player_status": "active_pl",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "254场"
-      },
-      {
-        "type": "单队200场",
-        "detail": "Bournemouth|253"
-      }
-    ]
-  },
-  {
-    "id": 20559,
-    "name_en": "Alisson Becker",
-    "name_cn": "阿利松·贝克尔",
-    "nationality": "Brazil",
-    "position": "G",
-    "clubs": [
-      "Liverpool"
-    ],
-    "total_appearances": 254,
-    "single_club_appearances": 254.0,
-    "single_club_name": "Liverpool",
-    "goals": null,
-    "clean_sheets": 106,
-    "current_club": "Liverpool FC",
-    "birth_date": "1992/10/2",
-    "hof_year": null,
-    "player_status": "active_pl",
-    "achievements": [
-      {
-        "type": "出场250次",
-        "detail": "254场"
-      },
-      {
-        "type": "单队200场",
-        "detail": "Liverpool|254"
-      },
-      {
-        "type": "百大零封",
-        "detail": "106"
-      },
-      {
-        "type": "金手套奖",
-        "detail": "2018–19, 2021–22"
       }
     ]
   },
@@ -10417,6 +10417,27 @@
     ]
   },
   {
+    "id": 20486,
+    "name_en": "Leandro Trossard",
+    "name_cn": "利安德罗·特罗萨德",
+    "nationality": "Belgium",
+    "position": "F",
+    "clubs": [
+      "Arsenal",
+      "Brighton & Hove Albion"
+    ],
+    "total_appearances": 239,
+    "single_club_appearances": null,
+    "single_club_name": null,
+    "goals": null,
+    "clean_sheets": null,
+    "current_club": "Arsenal FC",
+    "birth_date": "1994/12/4",
+    "hof_year": null,
+    "player_status": "active_pl",
+    "achievements": []
+  },
+  {
     "id": 3982,
     "name_en": "Mohamed Diamé",
     "name_cn": "穆罕默德·迪亚梅",
@@ -10464,31 +10485,6 @@
     "achievements": []
   },
   {
-    "id": 3394,
-    "name_en": "Brede Hangeland",
-    "name_cn": "布雷德·汉格兰",
-    "nationality": "Norway",
-    "position": "D",
-    "clubs": [
-      "Fulham"
-    ],
-    "total_appearances": 238,
-    "single_club_appearances": 217.0,
-    "single_club_name": "Fulham",
-    "goals": null,
-    "clean_sheets": null,
-    "current_club": "",
-    "birth_date": "1981/6/20",
-    "hof_year": null,
-    "player_status": "retired",
-    "achievements": [
-      {
-        "type": "单队200场",
-        "detail": "Fulham|217"
-      }
-    ]
-  },
-  {
     "id": 96,
     "name_en": "Ian Pearce",
     "name_cn": "伊恩·皮尔斯",
@@ -10512,25 +10508,29 @@
     "achievements": []
   },
   {
-    "id": 20486,
-    "name_en": "Leandro Trossard",
-    "name_cn": "利安德罗·特罗萨德",
-    "nationality": "Belgium",
-    "position": "F",
+    "id": 3394,
+    "name_en": "Brede Hangeland",
+    "name_cn": "布雷德·汉格兰",
+    "nationality": "Norway",
+    "position": "D",
     "clubs": [
-      "Arsenal",
-      "Brighton & Hove Albion"
+      "Fulham"
     ],
     "total_appearances": 238,
-    "single_club_appearances": null,
-    "single_club_name": null,
+    "single_club_appearances": 217.0,
+    "single_club_name": "Fulham",
     "goals": null,
     "clean_sheets": null,
-    "current_club": "Arsenal FC",
-    "birth_date": "1994/12/4",
+    "current_club": "",
+    "birth_date": "1981/6/20",
     "hof_year": null,
-    "player_status": "active_pl",
-    "achievements": []
+    "player_status": "retired",
+    "achievements": [
+      {
+        "type": "单队200场",
+        "detail": "Fulham|217"
+      }
+    ]
   },
   {
     "id": 8868,
@@ -11430,7 +11430,7 @@
       "Arsenal"
     ],
     "total_appearances": 0,
-    "single_club_appearances": 225.0,
+    "single_club_appearances": 226.0,
     "single_club_name": "Arsenal",
     "goals": null,
     "clean_sheets": null,
@@ -11441,7 +11441,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Arsenal|225"
+        "detail": "Arsenal|226"
       }
     ]
   },
@@ -11509,7 +11509,7 @@
       "Manchester City"
     ],
     "total_appearances": 0,
-    "single_club_appearances": 223.0,
+    "single_club_appearances": 224.0,
     "single_club_name": "Manchester City",
     "goals": null,
     "clean_sheets": null,
@@ -11520,7 +11520,7 @@
     "achievements": [
       {
         "type": "单队200场",
-        "detail": "Manchester City|223"
+        "detail": "Manchester City|224"
       },
       {
         "type": "年度最佳",
@@ -12281,7 +12281,7 @@
       "Manchester City"
     ],
     "total_appearances": 0,
-    "single_club_appearances": 195.0,
+    "single_club_appearances": 196.0,
     "single_club_name": "Manchester City",
     "goals": null,
     "clean_sheets": null,
@@ -12386,7 +12386,7 @@
       "Bournemouth"
     ],
     "total_appearances": 0,
-    "single_club_appearances": 188.0,
+    "single_club_appearances": 189.0,
     "single_club_name": "Bournemouth",
     "goals": null,
     "clean_sheets": null,
@@ -12406,7 +12406,7 @@
       "Arsenal"
     ],
     "total_appearances": 0,
-    "single_club_appearances": 189.0,
+    "single_club_appearances": 190.0,
     "single_club_name": "Arsenal",
     "goals": null,
     "clean_sheets": null,
@@ -12466,7 +12466,7 @@
       "Arsenal"
     ],
     "total_appearances": 0,
-    "single_club_appearances": 190.0,
+    "single_club_appearances": 191.0,
     "single_club_name": "Arsenal",
     "goals": null,
     "clean_sheets": null,
@@ -12657,7 +12657,7 @@
     "achievements": [
       {
         "type": "金手套奖",
-        "detail": "2023–24, 2024–25"
+        "detail": "2023–24, 2024–25, 2025–26"
       }
     ]
   },
