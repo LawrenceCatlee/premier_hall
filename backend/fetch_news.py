@@ -394,9 +394,18 @@ def main() -> None:
     # 始终更新前端 news.json（展示最新全量结果）
     save_news_json(all_items)
 
+    # 通知 GitHub Actions 是否有新内容（供下游步骤判断）
+    gh_output = os.environ.get("GITHUB_OUTPUT", "")
     if not new_items:
         print("没有新内容，跳过 Telegram 推送")
+        if gh_output:
+            with open(gh_output, "a") as f:
+                f.write("has_new=false\n")
         return
+
+    if gh_output:
+        with open(gh_output, "a") as f:
+            f.write("has_new=true\n")
 
     report = build_report(new_items, hours)
     print("\n" + "=" * 60)

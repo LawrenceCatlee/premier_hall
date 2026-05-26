@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: '0 * * * *'
 
-  # 手动触发（可指定小时数）
+  # 手动触发
   workflow_dispatch:
     inputs:
       hours:
@@ -13,16 +13,16 @@ on:
         required: false
         default: '2'
       dry_run:
-        description: '是否 dry-run（不发送 Telegram）'
+        description: '是否 dry-run（不发送 Telegram / 不调用 GPT）'
         required: false
         default: 'false'
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
-      contents: write   # 需要写入 news.json
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -38,11 +38,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r backend/requirements.txt
 
+      # ── Step 1: 抓取新闻，输出 has_new flag ─────────────────────────────────
       - name: Fetch and send news
+        id: fetch
         working-directory: backend
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           HOURS="${{ github.event.inputs.hours || '2' }}"
           DRY_RUN="${{ github.event.inputs.dry_run || 'false' }}"
@@ -52,6 +54,23 @@ jobs:
           fi
           python fetch_news.py ${ARGS}
 
+      # ── Step 2: 有新内容才生成选题建议 ──────────────────────────────────────
+      - name: Generate content ideas
+        if: steps.fetch.outputs.has_new == 'true'
+        working-directory: backend
+        env:
+          OPENAI_API_KEY:     ${{ secrets.OPENAI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          DRY_RUN="${{ github.event.inputs.dry_run || 'false' }}"
+          ARGS=""
+          if [ "${DRY_RUN}" = "true" ]; then
+            ARGS="--dry-run"
+          fi
+          python content_ideas.py ${ARGS}
+
+      # ── Step 3: 提交更新的文件 ───────────────────────────────────────────────
       - name: Commit updated files
         run: |
           git config user.name  "github-actions[bot]"
