@@ -1,432 +1,124 @@
 {
-  "updated_at": "2026-05-26T16:50:17.835782+00:00",
+  "updated_at": "2026-05-26T19:24:42.655057+00:00",
   "items": [
     {
-      "title": "Man City ahead of Man Utd in race for Anderson",
-      "url": "https://www.bbc.com/sport/football/articles/cj0ppgdlll7o?at_medium=RSS&at_campaign=rss",
+      "title": "Fury announces warm-up fight on August 1 in Dublin",
+      "url": "https://www.skysports.com/boxing/news/12040/13548290/tyson-fury-british-heavyweight-announces-august-1-fight-in-dublin-for-warm-up-before-anthony-joshua-clash-in-november",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-26T19:40:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Dublin",
+        "Fury",
+        "announces",
+        "warm",
+        "fight",
+        "August"
+      ],
+      "summary": "Tyson Fury has announced that his next fight will take place on Saturday August 1 in Dublin."
+    },
+    {
+      "title": "Foden a 'victim' of football's packed schedule",
+      "url": "https://www.bbc.com/sport/football/articles/c1l223ymrrvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-05-26T15:20:17+00:00",
+      "published": "2026-05-26T19:11:20+00:00",
       "score": 31.0,
-      "keywords": [
-        "Man City",
-        "Man Utd",
-        "Anderson",
-        "City",
-        "ahead",
-        "race"
-      ],
-      "summary": "There is a growing expectation Elliot Anderson will leave the City Ground this summer."
-    },
-    {
-      "title": "Premier League 2025-26 season review: our predictions v reality",
-      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-05-26T15:56:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brentford",
-        "Chelsea",
-        "Liverpool",
-        "Mikel",
-        "Mikel Arteta",
-        "Arteta"
-      ],
-      "summary": "We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear What we predicted: Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andr"
-    },
-    {
-      "title": "Gauff, Sabalenka and Osaka power through at French Open",
-      "url": "https://www.skysports.com/tennis/news/12040/13548111/french-open-coco-gauff-aryna-sabalenka-and-naomi-osaka-power-into-second-round-at-roland-garros",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-05-26T16:14:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Townsend",
-        "Taylor",
-        "Gauff",
-        "Sabalenka",
-        "Osaka",
-        "power"
-      ],
-      "summary": "Reigning French Open champion Coco &#8204;Gauff recovered from a slow start to power &#8204;past fellow American Taylor Townsend 6-4 &#8203;6-0 as her title defence began in style."
-    },
-    {
-      "title": "Man City's Maresca deal expected in coming days as talks continue",
-      "url": "https://www.skysports.com/football/news/12040/13548252/enzo-maresca-to-man-city-talks-continue-over-hiring-former-chelsea-boss-as-pep-guardiolas-replacement",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-05-26T16:50:00+00:00",
-      "score": 25.0,
       "keywords": [
         "Manchester City",
-        "Man City",
-        "City",
-        "Maresca",
-        "deal",
-        "expected"
+        "Phil Foden",
+        "Foden",
+        "victim",
+        "football",
+        "packed"
       ],
-      "summary": "Manchester City&#160;are continuing talks with&#160;Enzo Maresca&#160;this week about succeeding&#160;Pep Guardiola."
+      "summary": "Manchester City midfielder Phil Foden is a \"victim\" of football's packed fixture schedule after being left out of England's World Cup squad, says the chief executive of the PFA."
     },
     {
-      "title": "The big VAR debrief - did it deny Bournemouth Champions League spot?",
-      "url": "https://www.bbc.com/sport/football/articles/c4g090pjr7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "title": "England’s Mitchell a doubt for Nations Championship due to hamstring injury",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13548279/nations-championship-englands-alex-mitchell-could-be-in-doubt-for-summer-tournament-after-suffering-hamstring-injury",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-05-26T15:34:27+00:00",
-      "score": 25.0,
+      "published": "2026-05-26T18:27:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Bournemouth",
-        "debrief",
-        "deny",
-        "Champions",
-        "League",
-        "spot"
+        "Mitchell",
+        "England",
+        "doubt",
+        "Nations",
+        "Championship",
+        "hamstring"
       ],
-      "summary": "BBC Sport assesses how VAR interventions may have impacted games at key moments and how some teams might appreciate the system more than others."
+      "summary": "Alex Mitchell has emerged as a doubt for the Nations Championship in July after sustaining a pulled hamstring during England&#8217;s training camp last week."
     },
     {
-      "title": "Southampton pay tribute as Udoh dies aged 21",
-      "url": "https://www.bbc.com/sport/football/articles/cdjpp0jgjnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-26T16:14:39+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "tribute",
-        "Udoh",
-        "dies",
-        "aged"
-      ],
-      "summary": "Southampton FC and Royal Antwerp announce the death of former academy player Victor Udoh at the age of 21."
-    },
-    {
-      "title": "Partey in preliminary Ghana squad for World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/cp9ppezl4v1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-26T14:52:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Partey",
-        "preliminary",
-        "Ghana",
-        "squad",
-        "World"
-      ],
-      "summary": "Former Arsenal midfielder Thomas Partey has been named in Ghana's preliminary squad for the World Cup."
-    },
-    {
-      "title": "Crystal Palace and Oliver Glasner head to Leipzig with fairytale ending in sight",
-      "url": "https://www.theguardian.com/football/2026/may/26/crystal-palace-oliver-glasner-leipzig-fairytale-ending-conference-league-rayo-vallecano-final",
+      "title": "Bundesliga 2025-26 awards: our players, goal, coach and head loss of the season",
+      "url": "https://www.theguardian.com/football/2026/may/26/bundesliga-2025-26-awards-our-players-goal-coach-and-head-loss-of-the-season",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-05-26T14:55:51+00:00",
+      "published": "2026-05-26T18:00:05+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "Bundesliga",
+        "awards",
+        "players",
+        "goal",
+        "coach"
+      ],
+      "summary": "Who was the best player, and why is it not Harry Kane? Which loanee is already a superstar? And who bottled it? A hearty pat on the back to Hoffenheim, the unexpected and unfancied top-four gatecrashers who ultimately couldn’t quite hold on. This season has been all about Bayern, though, and not jus"
+    },
+    {
+      "title": "PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout",
+      "url": "https://www.theguardian.com/football/2026/may/26/pfa-calls-out-crazy-calendar-as-responsible-for-cole-palmer-and-phil-foden-burnout",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-05-26T17:41:56+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Phil Foden",
+        "Palmer",
+        "Foden",
+        "calls",
+        "crazy",
+        "calendar"
+      ],
+      "summary": "‘Not the version of Phil Foden we saw two years ago’ Chief executive says game being damaged by demands Phil Foden and Cole Palmer missed out on this summer’s World Cup because they have been overworked, according to the chief executive of the Professional Footballers’ Association. Maheta Molango wa"
+    },
+    {
+      "title": "Crystal Palace latest: Wharton and Richards face late fitness tests before final",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-26T17:45:00+00:00",
       "score": 25.0,
       "keywords": [
         "Crystal Palace",
         "Crystal",
         "Palace",
-        "Oliver",
-        "Glasner",
-        "head"
+        "latest",
+        "Wharton",
+        "Richards"
       ],
-      "summary": "In game No 60 of an unrelenting season the manager can sign off in style if he adds the Conference League trophy to last year’s FA Cup Oliver Glasner couldn’t resist the temptation. As he addressed the crowd after his last match at Selhurst Park on Sunday, the Austrian who will go down as Crystal Pa"
+      "summary": ""
     },
     {
-      "title": "Shaw signs Man City deal amid Chelsea links",
-      "url": "https://www.espn.com/soccer/story/_/id/48874090/khadija-bunny-shaw-signs-new-man-city-contract-amid-chelsea-speculation",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:28+00:00",
-      "score": 23.0,
-      "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "Man City",
-        "Shaw",
-        "signs",
-        "City"
-      ],
-      "summary": "Khadija 'Bunny' Shaw has signed a four year contract extension at Manchester City, the WSL champions have confirmed."
-    },
-    {
-      "title": "Go Nitro! Puma unveils Premier League's new 2026-2...",
-      "url": "https://www.espn.com/soccer/story/_/id/48880223/puma-unveils-premier-league-new-2026-27-match-ball-stellar-nitro-ultimate",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T16:49:20+00:00",
-      "score": 23.0,
-      "keywords": [
-        "Nitro",
-        "Puma",
-        "unveils",
-        "Premier",
-        "League"
-      ],
-      "summary": "The 2025-26 Premier League season ended a matter of days ago, but Puma just couldn't wait to show us the official match ball for the 2026-27 campaign."
-    },
-    {
-      "title": "United's Fernandes responds to Keane criticism",
-      "url": "https://www.espn.com/soccer/story/_/id/48873907/man-united-captain-bruno-fernandes-responds-roy-keane-put-words-my-mouth",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:28+00:00",
-      "score": 21.0,
-      "keywords": [
-        "Manchester United",
-        "Roy Keane",
-        "Fernandes",
-        "Bruno Fernandes",
-        "Keane",
-        "United"
-      ],
-      "summary": "Manchester United captain Bruno Fernandes has accused Roy Keane of telling a \"lie\" about his pursuit of the Premier League assists record."
-    },
-    {
-      "title": "Sources: Parker in West Ham mix if Nuno exits",
-      "url": "https://www.espn.com/soccer/story/_/id/48879635/scott-parker-mix-west-ham-job-nuno-future-doubt-sources",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:28+00:00",
-      "score": 21.0,
-      "keywords": [
-        "West Ham",
-        "Scott Parker",
-        "Parker",
-        "Sources",
-        "West",
-        "Nuno"
-      ],
-      "summary": "Nuno Espirito Santo's West Ham future is in doubt, with Scott Parker and Gary O'Neil in the mix to replace him if he does leave following their relegation to the Championship, sources have told ESPN."
-    },
-    {
-      "title": "Transfer rumors, news: Man United make early move ...",
-      "url": "https://www.espn.com/soccer/story/_/id/48879166/transfer-rumors-news-man-united-make-early-move-keep-bruno-fernandes",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T16:54:49+00:00",
-      "score": 21.0,
-      "keywords": [
-        "Tottenham",
-        "Man United",
-        "Fernandes",
-        "Bruno Fernandes",
-        "Transfer",
-        "rumors"
-      ],
-      "summary": "Man United want to keep midfielder Bruno Fernandes. Plus, Tottenham Hotspur chase multiple players. Transfer Talk has the latest."
-    },
-    {
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/m002xhz8?at_medium=RSS&at_campaign=rss",
+      "title": "Have Rangers just signed Scotland's World Cup number nine?",
+      "url": "https://www.bbc.com/sport/football/articles/c809948rmzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-05-26T15:17:00+00:00",
+      "published": "2026-05-26T18:03:08+00:00",
       "score": 20.0,
       "keywords": [
-        "Football",
-        "Daily"
-      ],
-      "summary": "Hull City assistant Dean Holden joins Aaron Paul, Jobi McAnuff & Bromley's Andy Woodman."
-    },
-    {
-      "title": "‘I had loser stamped on my head’: how Porto’s Francesco Farioli bounced back",
-      "url": "https://www.theguardian.com/football/2026/may/26/francesco-farioli-porto-champions",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-05-26T16:00:02+00:00",
-      "score": 20.0,
-      "keywords": [
-        "loser",
-        "stamped",
-        "head",
-        "Porto",
-        "Francesco",
-        "Farioli"
-      ],
-      "summary": "Italian’s reputation was bruised at Ajax but he has turned Porto back into title winners and is one of Europe’s most sought-after coaches again After Francesco Farioli surrendered a nine-point lead in his final five matches at Ajax, he felt the word “loser” had been stamped across his forehead. Club"
-    },
-    {
-      "title": "Palmeiras boss fined $15k for middle finger 'joke'...",
-      "url": "https://www.espn.com/soccer/story/_/id/48879906/palmeiras-coach-abel-ferreira-fined-middle-finger-gesture-own-player",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:28+00:00",
-      "score": 16.0,
-      "keywords": [
-        "Ferreira",
-        "Palmeiras",
-        "boss",
-        "fined",
-        "middle",
-        "finger"
-      ],
-      "summary": "Palmeiras coach Abel Ferreira has been fined $15,000 by CONMEBOL for showing his middle finger to one of his own players during a Copa Libertadores game."
-    },
-    {
-      "title": "Michael Jordan leads tributes as Pep says farewell...",
-      "url": "https://www.espn.com/soccer/story/_/id/48879154/michael-jordan-leads-tributes-pep-guardiola-man-city-boss-bids-farewell",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:28+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Manchester City",
-        "Michael",
-        "Jordan",
-        "leads",
-        "tributes",
-        "farewell"
-      ],
-      "summary": "Basketball legend Michael Jordan headlined the cast of stars that paid tribute to Pep Guardiola's achievements at Manchester City in his farewell party."
-    },
-    {
-      "title": "Madrid candidate: I have 2 'stars' lined up to sig...",
-      "url": "https://www.espn.com/soccer/story/_/id/48879953/real-madrid-presidential-candidate-two-international-stars-sign-elected",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:28+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Madrid",
-        "candidate",
-        "stars",
-        "lined"
-      ],
-      "summary": "Real Madrid presidential candidate Enrique Riquelme has claimed he has \"two international stars\" -- without naming them -- who he'll sign to strengthen the team if he's elected to replace Florentino Pérez."
-    },
-    {
-      "title": "Arsenal Keep or Dump: Find Ødegaard replacement? M...",
-      "url": "https://www.espn.com/soccer/story/_/id/48876175/arsenal-keep-dump-martin-odegaard-viktor-gyokeres-kai-havertz-gab-marcotti-mark-ogden",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T16:49:44+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Arsenal",
-        "Keep",
-        "Dump",
-        "Find",
-        "replacement"
-      ],
-      "summary": "Arsenal have some big decisions ahead that will affect their finances and their squad. Gab Marcotti and Mark Ogden break it down."
-    },
-    {
-      "title": "Tottenham stay in Premier League, but big rebuild ...",
-      "url": "https://www.espn.com/soccer/story/_/id/48869319/tottenham-premier-league-harry-kane-bayern-munich-history-como-champions-league-musings",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T16:49:44+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Tottenham",
-        "stay",
-        "Premier",
-        "League",
-        "rebuild"
-      ],
-      "summary": "Tottenham will remain in the Premier League for another season, but they'll need to nail a big summer rebuild."
-    },
-    {
-      "title": "Ian Darke's Premier League best XI, most disappoin...",
-      "url": "https://www.espn.com/soccer/story/_/id/48872024/ian-darke-premier-league-best-xi-most-disappointing-team-season",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T16:49:20+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Darke",
-        "Premier",
-        "League",
-        "best",
-        "most",
-        "disappoin"
-      ],
-      "summary": "The Premier League season delivered plenty of memorable moments, but who were the best players of the campaign?"
-    },
-    {
-      "title": "Ranked: Which World Cup favorite teams are most likely to implode this summer?",
-      "url": "https://www.espn.com/soccer/story/_/id/48875206/ranked-world-cup-2026-favorites-most-likely-crash-out",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T14:56:01+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Ranked",
+        "Rangers",
+        "signed",
+        "Scotland",
         "World",
-        "favorite",
-        "teams",
-        "most",
-        "likely"
+        "number",
+        "nine"
       ],
-      "summary": "At every World Cup, a front-runner collapses and exits the tournament early. Which team will it be in 2026?"
-    },
-    {
-      "title": "Yamal in Spain World Cup squad, no Madrid players",
-      "url": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:27+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Yamal",
-        "Spain",
-        "World",
-        "squad",
-        "Madrid",
-        "players"
-      ],
-      "summary": "Spain coach Luis de la Fuente named a 26-man World Cup squad which features Lamine Yamal but is without any Real Madrid players."
-    },
-    {
-      "title": "🤕 World Cup injuries tracker: Who will miss out?",
-      "url": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:28+00:00",
-      "score": 10.0,
-      "keywords": [
-        "World",
-        "injuries",
-        "tracker",
-        "miss"
-      ],
-      "summary": "Which key players might not be participating in this summer's tournament? Here's the latest on injuries impacting World Cup teams."
-    },
-    {
-      "title": "Donovan, Twellman, Pepi: Who are the USMNT's bigge...",
-      "url": "https://www.espn.com/soccer/story/_/id/48838514/from-donovan-harkes-usmnt-most-stunning-world-cup-snubs",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:53+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Donovan",
-        "Twellman",
-        "Pepi",
-        "USMNT",
-        "bigge"
-      ],
-      "summary": "Some World Cup roster selections can be surprising, but who are some United States players who were shockingly left out in the past?"
-    },
-    {
-      "title": "USMNT 2026 World Cup big board 7.0: Who will make ...",
-      "url": "https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-26T15:03:53+00:00",
-      "score": 10.0,
-      "keywords": [
-        "USMNT",
-        "World",
-        "board",
-        "make"
-      ],
-      "summary": "Mauricio Pochettino will announce his USMNT World Cup squad Tuesday. Who will be on it?"
+      "summary": "Will Lawrence Shankland's transfer from Heart of Midlothian to Rangers coincide with him becoming Scotland's main striker at the World Cup?"
     }
   ]
 }
