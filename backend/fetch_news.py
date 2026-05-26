@@ -26,6 +26,7 @@ import requests
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PLAYERS_JSON = REPO_ROOT / "frontend" / "public" / "data" / "players.json"
+NEWS_JSON    = REPO_ROOT / "frontend" / "public" / "data" / "news.json"
 
 # ── RSS 数据源（name, url, tier） ──────────────────────────────────────────────
 # tier 3 = 顶级转会/独家消息源, tier 2 = 主流体育媒体, tier 1 = 综合体育
@@ -327,6 +328,29 @@ def build_report(items: list[NewsItem], hours: int) -> str:
     return "\n".join(lines)
 
 
+# ── 保存 JSON 供前端消费 ──────────────────────────────────────────────────────
+
+def save_news_json(items: list[NewsItem]) -> None:
+    payload = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "items": [
+            {
+                "title":     item.title,
+                "url":       item.url,
+                "source":    item.source,
+                "tier":      item.tier,
+                "published": item.published.isoformat() if item.published else None,
+                "score":     round(item.score, 1),
+                "keywords":  item.keywords,
+                "summary":   item.summary,
+            }
+            for item in items[:30]  # 前端最多展示30条
+        ],
+    }
+    NEWS_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"已保存 {len(payload['items'])} 条新闻到 {NEWS_JSON}")
+
+
 # ── 入口 ─────────────────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -348,6 +372,8 @@ def main() -> None:
     print("\n" + "=" * 60)
     print(report)
     print("=" * 60 + "\n")
+
+    save_news_json(items)
 
     if dry_run:
         print("（dry-run 模式，不发送 Telegram）")

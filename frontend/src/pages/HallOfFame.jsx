@@ -5,6 +5,7 @@ import { Trophy, Search } from 'lucide-react';
 import PlayerCard from '../components/players/PlayerCard';
 import PlayerFilters from '../components/players/PlayerFilters';
 import LanguageToggle from '../components/LanguageToggle';
+import NewsPanel from '../components/NewsPanel';
 import { useLanguage } from '../components/LanguageContext';
 import { translations } from '../components/translations';
 
@@ -245,6 +246,7 @@ export default function HallOfFame() {
 
       {/* Main content */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 pb-12">
+        <NewsPanel language={language} />
         <PlayerFilters
           selectedClub={selectedClub}
           selectedAchievement={selectedAchievement}
