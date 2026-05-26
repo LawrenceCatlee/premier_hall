@@ -1,11 +1,9 @@
 name: Fetch Sports News
 
 on:
-  # 每天三次：北京时间 08:00 / 14:00 / 21:00（UTC 00:00 / 06:00 / 13:00）
+  # 每小时整点触发
   schedule:
-    - cron: '0 0 * * *'    # 北京时间 08:00
-    - cron: '0 6 * * *'    # 北京时间 14:00
-    - cron: '0 13 * * *'   # 北京时间 21:00
+    - cron: '0 * * * *'
 
   # 手动触发（可指定小时数）
   workflow_dispatch:
@@ -13,7 +11,7 @@ on:
       hours:
         description: '抓取过去多少小时内的新闻'
         required: false
-        default: '8'
+        default: '2'
       dry_run:
         description: '是否 dry-run（不发送 Telegram）'
         required: false
@@ -46,7 +44,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          HOURS="${{ github.event.inputs.hours || '8' }}"
+          HOURS="${{ github.event.inputs.hours || '2' }}"
           DRY_RUN="${{ github.event.inputs.dry_run || 'false' }}"
           ARGS="--hours=${HOURS}"
           if [ "${DRY_RUN}" = "true" ]; then
@@ -54,15 +52,15 @@ jobs:
           fi
           python fetch_news.py ${ARGS}
 
-      - name: Commit news.json
+      - name: Commit updated files
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add frontend/public/data/news.json
+          git add frontend/public/data/news.json backend/data/news_sent_guids.json
           if git diff --cached --quiet; then
-            echo "news.json 无变化，跳过提交"
+            echo "无变化，跳过提交"
           else
-            git commit -m "chore: auto-update news.json [skip ci]"
+            git commit -m "chore: auto-update news [skip ci]"
             git pull --rebase origin main || true
             git push
           fi

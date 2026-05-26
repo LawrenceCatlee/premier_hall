@@ -24,9 +24,11 @@ from typing import NamedTuple
 import feedparser
 import requests
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT    = Path(__file__).resolve().parent.parent
 PLAYERS_JSON = REPO_ROOT / "frontend" / "public" / "data" / "players.json"
 NEWS_JSON    = REPO_ROOT / "frontend" / "public" / "data" / "news.json"
+SENT_GUIDS   = REPO_ROOT / "backend" / "data" / "news_sent_guids.json"
+MAX_GUIDS    = 1000  # 最多保留多少条已发送记录
 
 # ── RSS 数据源（name, url, tier） ──────────────────────────────────────────────
 # tier 3 = 顶级转会/独家消息源, tier 2 = 主流体育媒体, tier 1 = 综合体育
@@ -328,6 +330,22 @@ def build_report(items: list[NewsItem], hours: int) -> str:
     return "\n".join(lines)
 
 
+# ── 已发送 URL 去重 ───────────────────────────────────────────────────────────
+
+def _load_sent_guids() -> set[str]:
+    try:
+        return set(json.loads(SENT_GUIDS.read_text(encoding="utf-8")))
+    except Exception:
+        return set()
+
+
+def _save_sent_guids(guids: set[str], new_urls: list[str]) -> None:
+    updated = list(guids) + [u for u in new_urls if u not in guids]
+    if len(updated) > MAX_GUIDS:
+        updated = updated[-MAX_GUIDS:]
+    SENT_GUIDS.write_text(json.dumps(updated, ensure_ascii=False), encoding="utf-8")
+
+
 # ── 保存 JSON 供前端消费 ──────────────────────────────────────────────────────
 
 def save_news_json(items: list[NewsItem]) -> None:
@@ -365,21 +383,33 @@ def main() -> None:
     print(f"已加载 {len(player_names)} 个球员名（含姓氏）")
 
     print(f"抓取过去 {hours}h 内的新闻…")
-    items = fetch_all(hours, player_names)
-    print(f"过滤后共 {len(items)} 条新闻")
+    all_items = fetch_all(hours, player_names)
+    print(f"过滤后共 {len(all_items)} 条新闻")
 
-    report = build_report(items, hours)
+    # 去重：找出本次未发送过的新条目
+    sent_guids = _load_sent_guids()
+    new_items = [it for it in all_items if it.url not in sent_guids]
+    print(f"其中新条目：{len(new_items)} 条")
+
+    # 始终更新前端 news.json（展示最新全量结果）
+    save_news_json(all_items)
+
+    if not new_items:
+        print("没有新内容，跳过 Telegram 推送")
+        return
+
+    report = build_report(new_items, hours)
     print("\n" + "=" * 60)
     print(report)
     print("=" * 60 + "\n")
-
-    save_news_json(items)
 
     if dry_run:
         print("（dry-run 模式，不发送 Telegram）")
     else:
         _send_telegram(report)
         print("已发送 Telegram 消息")
+
+    _save_sent_guids(sent_guids, [it.url for it in new_items])
 
 
 if __name__ == "__main__":
