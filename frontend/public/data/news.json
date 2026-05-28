@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-05-28T21:13:43.765253+00:00",
+  "updated_at": "2026-05-28T23:24:49.369681+00:00",
   "items": [
     {
-      "title": "Spurs closing in on Senesi move and hopeful of Robertson deal",
-      "url": "https://www.skysports.com/football/news/12040/13547838/tottenham-transfers-news-spurs-edging-close-to-signing-marcos-senesi-and-hopeful-of-move-for-andy-robertson",
+      "title": "Littler crowned Premier League champion after dramatic win over Humphries",
+      "url": "https://www.skysports.com/darts/news/12040/13548717/premier-league-darts-luke-littler-crowned-champion-after-dramatic-11-10-victory-over-luke-humphries-in-final",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-05-28T21:00:00+00:00",
+      "published": "2026-05-28T22:07:00+00:00",
       "score": 31.0,
       "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Robertson",
-        "closing",
-        "Senesi",
-        "move"
+        "matic",
+        "Littler",
+        "crowned",
+        "Premier",
+        "League",
+        "champion"
       ],
-      "summary": "Marcos Senesi is edging closer to a move to Tottenham after positive talks this week."
+      "summary": "Luke Littler came through a last-leg 11-10 thriller against Luke Humphries to be crowned Premier League champion at The O2 in London."
     },
     {
       "title": "Republic of Ireland edge past Qatar in friendly as both sides end with 10",
@@ -26,8 +26,8 @@
       "published": "2026-05-28T22:00:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Ireland",
         "Collins",
+        "Ireland",
         "Republic",
         "edge",
         "past",
@@ -36,27 +36,78 @@
       "summary": "Captain Nathan Collins headed the Republic of Ireland to a 1-0 friendly victory over World Cup-bound Qatar as both sides were reduced to 10 men."
     },
     {
-      "title": "Price reels in Big Fish MID-LEG then gets telling off by ref!",
-      "url": "https://www.skysports.com/watch/video/13548869/premier-league-darts-finals-night-gerwyn-price-reels-in-big-fish-mid-leg-then-gets-telling-off-by-referee",
+      "title": "McGrath expects Israel fixtures controversy to 'heat up'",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz9n103zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-28T22:34:28+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "McGrath",
+        "expects",
+        "Israel",
+        "fixtures",
+        "controversy"
+      ],
+      "summary": "Republic of Ireland midfielder Jamie McGrath says he expects the controversy surrounding his side's upcoming Israel fixtures to \"heat up\" after Thursday's friendly win over Qatar is disrupted."
+    },
+    {
+      "title": "Littler breaks down after Premier League win: 'I picked myself up after tough times'",
+      "url": "https://www.skysports.com/darts/news/12040/13548910/luke-littler-breaks-down-in-tears-after-epic-premier-league-triumph-i-picked-myself-up-after-tough-times",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-05-28T20:18:00+00:00",
+      "published": "2026-05-28T23:29:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Price",
-        "reels",
-        "Fish",
-        "gets",
-        "telling"
+        "Littler",
+        "breaks",
+        "down",
+        "Premier",
+        "League",
+        "picked"
       ],
-      "summary": "Gerwyn Price reels in Big Fish mid-leg and then gets a telling off by referee Huw Ware in the Premier League Darts semi-final."
+      "summary": "Luke Littler broke down in tears and opened up on the toll the Premier League campaign has taken on him as he was crowned champion after an 11-10 victory over Luke Humphries at The O2 in London."
+    },
+    {
+      "title": "Konate set to leave Liverpool on free transfer",
+      "url": "https://www.skysports.com/football/news/12040/13548896/liverpool-transfer-news-ibrahima-konate",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-28T21:57:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Konate",
+        "leave",
+        "free",
+        "transfer"
+      ],
+      "summary": "Ibrahima Konate is set to leave Liverpool after five years at Anfield."
+    },
+    {
+      "title": "Papers: Barcelona weighing up approach for Arsenal defender",
+      "url": "https://www.skysports.com/football/news/12040/13548854/arsenal-transfer-news-barcelona-weigh-up-approach-for-defender-piero-hincapie-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-28T22:58:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Papers",
+        "Barcelona",
+        "weighing",
+        "approach",
+        "defender"
+      ],
+      "summary": "The top stories and transfer rumours from Friday's newspapers..."
     },
     {
       "title": "Barca weigh up move for Hincapie - Friday's gossip",
       "url": "https://www.bbc.com/sport/football/articles/cglp3r7nk84o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-05-28T20:28:37+00:00",
+      "published": "2026-05-28T22:04:36+00:00",
       "score": 25.0,
       "keywords": [
         "Liverpool",
@@ -69,62 +120,95 @@
       "summary": "Barcelona weigh up move for Piero Hincapie, Ruben Dias instructs agents to explore move away from Manchester City, Liverpool pushing for quick agreement with Yan Diomande, plus more."
     },
     {
-      "title": "Arsenal chief: Keeping Arteta is 'utmost priority'...",
-      "url": "https://www.espn.com/soccer/story/_/id/48901784/arsenal-mikel-arteta-manager-josh-kroenke-contract",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T19:21:12+00:00",
-      "score": 21.0,
+      "title": "Kai Havertz: ‘Just to watch the Champions League final is very special, to play in it is unreal’",
+      "url": "https://www.theguardian.com/football/2026/may/28/kai-havertz-champions-league-final-special-arsenal-psg-2026-budapest",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-05-28T21:30:32+00:00",
+      "score": 25.0,
       "keywords": [
         "Arsenal",
-        "Mikel Arteta",
-        "Arteta",
-        "Mikel",
-        "chief",
-        "Keeping"
+        "Chelsea",
+        "Manchester City",
+        "Havertz",
+        "watch",
+        "Champions"
       ],
-      "summary": "Arsenal co-owner Josh Kroenke has said tying Mikel Arteta down to a new contract is an \"utmost priority\" ahead of the club's Champions League final against Paris Saint-Germain."
+      "summary": "Arsenal striker scored the winner in the final five years ago and is determined to make up for being ‘in a bad place’ when injured this season When Kai Havertz thinks back to the 2021 Champions League final, he can’t help smiling. Chelsea’s surprise victory over Manchester City in Porto still feels "
+    },
+    {
+      "title": "Ibrahima Konaté poised to leave Liverpool after failing to agree new contract",
+      "url": "https://www.theguardian.com/football/2026/may/28/ibrahima-konate-set-to-leave-liverpool-after-failing-to-agree-new-contract",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-05-28T22:21:53+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Ibrahima",
+        "poised",
+        "leave",
+        "failing",
+        "agree"
+      ],
+      "summary": "Defender will depart Anfield on a free transfer France international linked with Paris Saint-Germain Ibrahima Konaté looks set to leave Liverpool after failing to agree a contract extension. The 27-year-old’s representatives have been in extensive talks with the club about extending his five-year st"
+    },
+    {
+      "title": "Premier League can claim clean sweep of European t...",
+      "url": "https://www.espn.com/soccer/story/_/id/48898174/can-arsenal-win-champions-league-final-give-premier-league-clean-sweep-european-trophies-europa-league-conference-league-aston-villa-crystal-palace",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-28T23:58:44+00:00",
+      "score": 23.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Crystal Palace",
+        "Premier",
+        "League",
+        "claim"
+      ],
+      "summary": "First Aston Villa, now Crystal Palace, then Arsenal? The Premier League is one game away from joining an exclusive European club."
     },
     {
       "title": "Sources: Spurs closing in on Liverpool's Robertson...",
       "url": "https://www.espn.com/soccer/story/_/id/48900541/tottenham-advancing-andy-robertson-deal",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T19:21:12+00:00",
+      "published": "2026-05-28T23:58:35+00:00",
       "score": 21.0,
       "keywords": [
         "Liverpool",
         "Tottenham",
         "Spurs",
-        "Robertson",
         "Andy Robertson",
+        "Robertson",
         "Sources"
       ],
       "summary": "Tottenham are moving closer to a deal to sign Andy Robertson on a free transfer, sources have told ESPN."
     },
     {
-      "title": "USA boss Pochettino holds initial talks with AC Milan",
-      "url": "https://www.bbc.com/sport/football/articles/c794gn7n955o?at_medium=RSS&at_campaign=rss",
+      "title": "Messi to represent Argentina at sixth World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/cr5p96l270ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-05-28T19:37:40+00:00",
+      "published": "2026-05-28T23:08:11+00:00",
       "score": 20.0,
       "keywords": [
-        "boss",
-        "Pochettino",
-        "holds",
-        "initial",
-        "talks",
-        "Milan"
+        "Messi",
+        "represent",
+        "Argentina",
+        "sixth",
+        "World"
       ],
-      "summary": "Mauricio Pochettino has held initial talks with AC Milan to become their next manager following the sacking of Massimiliano Allegri."
+      "summary": "Lionel Messi will play in a sixth World Cup as he captains holders Argentina at the 2026 tournament."
     },
     {
       "title": "🎵 'Waka Waka'? 'Dai Dai'? World Cup song ranks",
       "url": "https://www.espn.com/soccer/story/_/id/48882873/ranking-10-official-fifa-world-cup-songs-shakira-ricky-martin",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T19:21:12+00:00",
+      "published": "2026-05-28T23:58:35+00:00",
       "score": 18.0,
       "keywords": [
         "Waka",
@@ -139,7 +223,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/48900253/neymar-calf-injury-three-weeks-miss-world-cup-opener",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T19:21:12+00:00",
+      "published": "2026-05-28T23:58:35+00:00",
       "score": 16.0,
       "keywords": [
         "Rodri",
@@ -152,11 +236,28 @@
       "summary": "Neymar could be sidelined for up to three weeks with a muscle strain in his right calf, Brazil national team doctor Rodrigo Lasmar said on Thursday."
     },
     {
+      "title": "Eagles soar to historic Conference League win",
+      "url": "https://www.espn.com/soccer/story/_/id/48894308/crystal-palace-1-0-rayo-vallecano-eagles-soar-historic-conference-league-win",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-28T23:58:44+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Crystal Palace",
+        "Eagles",
+        "soar",
+        "historic",
+        "Conference",
+        "League"
+      ],
+      "summary": "Talking points from Leipzig, where Crystal Palace beat Rayo Vallecano to win the Conference League."
+    },
+    {
       "title": "Sources: Éderson close to joining Man United",
       "url": "https://www.espn.com/soccer/story/_/id/48898380/ederson-close-joining-man-united-35m-move-atalanta-sources",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T19:21:12+00:00",
+      "published": "2026-05-28T23:58:35+00:00",
       "score": 15.0,
       "keywords": [
         "Manchester United",
@@ -173,7 +274,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/48898128/anthony-gordon-arrives-barcelona-ahead-70m-switch-newcastle",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T19:21:12+00:00",
+      "published": "2026-05-28T23:58:35+00:00",
       "score": 15.0,
       "keywords": [
         "Newcastle",
@@ -186,11 +287,60 @@
       "summary": "Anthony Gordon has arrived in Barcelona to complete a €70 million ($81m) move to the Spanish champions from Newcastle United."
     },
     {
+      "title": "Champions League final: Everything you need to kno...",
+      "url": "https://www.espn.com/soccer/story/_/id/48891938/2025-26-champions-league-final-arsenal-paris-saint-germain-preview-predictions-analysis-key-players",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-28T23:58:39+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Arsenal",
+        "Champions",
+        "League",
+        "final",
+        "Everything",
+        "need"
+      ],
+      "summary": "Here are the biggest storylines, keys to victory, players to watch and more for Saturday's showpiece between Arsenal and Paris Saint-Germain."
+    },
+    {
+      "title": "3 tactical keys: PSG's bizarre kick off, Arsenal's...",
+      "url": "https://www.espn.com/soccer/story/_/id/48889090/tactical-keys-champions-league-final-psgs-bizarre-kickoff-arsenal-striker-choice",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-28T23:58:39+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Arsenal",
+        "tactical",
+        "keys",
+        "bizarre",
+        "kick"
+      ],
+      "summary": "PSG will boot the ball straight out of play, while Arsenal's choice of starting striker will be important."
+    },
+    {
+      "title": "Messi to lead Argentina at record 6th World Cup",
+      "url": "https://www.espn.com/soccer/story/_/id/48904313/lionel-messi-argentina-2026-world-cup-squad",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-28T23:58:35+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Messi",
+        "lead",
+        "Argentina",
+        "record",
+        "World"
+      ],
+      "summary": "Lionel Messi will lead defending champion Argentina at a record sixth World Cup this summer in North America."
+    },
+    {
       "title": "Sources: USMNT coach Poch met Milan over job",
       "url": "https://www.espn.com/soccer/story/_/id/48901406/usa-coach-mauricio-pochettino-ac-milan-talks-world-cup-job",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T19:21:12+00:00",
+      "published": "2026-05-28T23:58:35+00:00",
       "score": 10.0,
       "keywords": [
         "Sources",
@@ -206,7 +356,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/48898915/barcelona-julian-alvarez-hopeful-signing-believe-striker-wants-join-sources",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T19:21:12+00:00",
+      "published": "2026-05-28T23:58:35+00:00",
       "score": 10.0,
       "keywords": [
         "Sources",
@@ -215,6 +365,22 @@
         "signing"
       ],
       "summary": "Barcelona will turn their attention to Atlético Madrid's Julián Álvarez after agreeing a deal to sign Anthony Gordon, various sources have told ESPN."
+    },
+    {
+      "title": "Poch: 'Special' Pulisic will end goal drought at W...",
+      "url": "https://www.espn.com/soccer/story/_/id/48904115/mauricio-pochettino-christian-pulisic-2026-world-cup-usa",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-28T23:58:35+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Poch",
+        "Special",
+        "Pulisic",
+        "goal",
+        "drought"
+      ],
+      "summary": "USMNT coach Mauricio Pochettino called USMNT attacker Christian Pulisic \"a special player,\" and says he's confident that the player will end his goal drought at the World Cup."
     }
   ]
 }
