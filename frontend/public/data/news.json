@@ -1,54 +1,119 @@
 {
-  "updated_at": "2026-05-28T05:15:35.645507+00:00",
+  "updated_at": "2026-05-28T10:21:08.243701+00:00",
   "items": [
     {
-      "title": "Humphries 'playing best darts of career' with PL title defence in sights",
-      "url": "https://www.skysports.com/darts/news/12040/13548139/luke-humphries-premier-league-title-defence-in-his-sights-as-he-claims-to-be-playing-best-darts-of-career",
+      "title": "Arteta's big Champions League final selection dilemmas",
+      "url": "https://www.skysports.com/football/news/12040/13548482/champions-league-final-who-does-mikel-arteta-pick-in-his-arsenal-starting-xi-to-face-psg-in-budapest",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-05-28T06:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Humphries",
-        "playing",
-        "best",
-        "darts",
-        "career",
-        "title"
-      ],
-      "summary": "Luke Humphries believes he is heading into Finals Night playing the \"best darts of his career\" as he looks to defend his crown as Premier League champion."
-    },
-    {
-      "title": "If Premier League transfer trend continues, who co...",
-      "url": "https://www.espn.com/soccer/story/_/id/48785161/if-premier-league-transfer-trend-continues-move",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T04:48:34+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Premier",
-        "League",
-        "transfer",
-        "trend",
-        "continues"
-      ],
-      "summary": "The summer of 2025 saw a huge increase in transfers between Premier League clubs. Here are some players who could move for big money but will stay in England."
-    },
-    {
-      "title": "Arsenal Keep or Dump: Find Ødegaard replacement? M...",
-      "url": "https://www.espn.com/soccer/story/_/id/48876175/arsenal-keep-dump-martin-odegaard-viktor-gyokeres-kai-havertz-gab-marcotti-mark-ogden",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T04:48:34+00:00",
-      "score": 15.0,
+      "published": "2026-05-28T10:00:00+00:00",
+      "score": 31.0,
       "keywords": [
         "Arsenal",
-        "Keep",
-        "Dump",
-        "Find",
-        "replacement"
+        "Arteta",
+        "Mikel",
+        "Mikel Arteta",
+        "Champions",
+        "League"
       ],
-      "summary": "Champions Arsenal have some big decisions ahead that will affect their finances and their squad."
+      "summary": "It's Arsenal's biggest game in two decades - and Mikel Arteta has some decisions to make."
+    },
+    {
+      "title": "Palace wait on Iraola with Lampard among plan Bs",
+      "url": "https://www.bbc.com/sport/football/articles/crlpw74l138o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-28T08:32:03+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Crystal Palace",
+        "Frank Lampard",
+        "Lampard",
+        "Palace",
+        "wait",
+        "Iraola"
+      ],
+      "summary": "Crystal Palace are waiting on an answer from Andoni Iraola but Coventry boss Frank Lampard could be a plan B for the Conference League winners."
+    },
+    {
+      "title": "Gordon set to have Barcelona medical after Newcastle agree deal",
+      "url": "https://www.skysports.com/football/news/12040/13548532/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-28T09:20:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Gordon",
+        "Barcelona",
+        "medical",
+        "agree",
+        "deal"
+      ],
+      "summary": "Anthony Gordon will undergo a medical at Barcelona on Thursday after the club agreed a fee with Newcastle to sign the winger."
+    },
+    {
+      "title": "The 7,000 minutes difference - why PSG could have edge over Arsenal",
+      "url": "https://www.bbc.com/sport/football/articles/c99l2kpmgdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-28T09:14:01+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "minutes",
+        "difference",
+        "edge"
+      ],
+      "summary": "Why Paris St-Germain will be going into Saturday's Champions League final against Arsenal with one advantage."
+    },
+    {
+      "title": "New York mayor wears Arsenal kurta during Eid prayers",
+      "url": "https://www.bbc.com/sport/football/articles/clyp850zzzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-28T10:11:54+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "York",
+        "mayor",
+        "wears",
+        "kurta",
+        "during"
+      ],
+      "summary": "The mayor of New York City Zohran Mamdani takes his Arsenal super-fandom up a notch by attending Eid al-Adha prayers in the Bronx wearing an Arsenal-themed tunic."
+    },
+    {
+      "title": "What are 'mentality monsters'?",
+      "url": "https://www.bbc.com/sport/football/articles/c3v22wwdvd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-28T09:40:24+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "mentality",
+        "monsters"
+      ],
+      "summary": "Our Ask Me Anything team looks into the phrase 'mentality monsters' and why it has recently been associated with Arsenal."
+    },
+    {
+      "title": "Budapest is perfect for the Champions League final – but tournament remains a closed shop",
+      "url": "https://www.theguardian.com/football/2026/may/28/a-champions-league-final-in-budapest-marks-a-return-and-begs-a-bigger-question",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-05-28T09:00:01+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Budapest",
+        "perfect",
+        "Champions",
+        "League",
+        "final",
+        "tournament"
+      ],
+      "summary": "Hungary’s rich footballing heritage is unlikely to make an impact on Europe’s premier club competition as clubs from small countries stand no chance Before the Champions League final, I want to spare a thought for one of the eliminated semi-finalists. Diego Simeone impresses me. For 15 years, he has"
     }
   ]
 }
