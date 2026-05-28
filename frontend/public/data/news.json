@@ -1,235 +1,54 @@
 {
-  "updated_at": "2026-05-28T00:06:36.767167+00:00",
+  "updated_at": "2026-05-28T05:15:35.645507+00:00",
   "items": [
     {
-      "title": "Papers: Man Utd concede defeat to Man City in race for Anderson",
-      "url": "https://www.skysports.com/football/news/12040/13548522/x-paper-talk",
+      "title": "Humphries 'playing best darts of career' with PL title defence in sights",
+      "url": "https://www.skysports.com/darts/news/12040/13548139/luke-humphries-premier-league-title-defence-in-his-sights-as-he-claims-to-be-playing-best-darts-of-career",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-05-27T22:50:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Man City",
-        "Man Utd",
-        "Anderson",
-        "Papers",
-        "concede",
-        "defeat"
-      ],
-      "summary": "The top stories and transfer rumours from Thursday's newspapers..."
-    },
-    {
-      "title": "South Korea World Cup 2026 team guide",
-      "url": "https://www.theguardian.com/football/2026/may/28/south-korea-world-cup-2026-team-guide-soccer",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-05-27T23:01:47+00:00",
-      "score": 26.0,
-      "keywords": [
-        "cooper",
-        "South",
-        "Korea",
-        "World",
-        "team",
-        "guide"
-      ],
-      "summary": "Doubts over formation and form of key players means hopes of advancing to knockout stages are not high This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running p"
-    },
-    {
-      "title": "U-turns, tension & trophies - inside 12 glorious months of Glasner",
-      "url": "https://www.bbc.com/sport/football/articles/c4g5ydnpkqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-27T23:02:03+00:00",
+      "published": "2026-05-28T06:00:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Crystal Palace",
-        "turns",
-        "tension",
-        "trophies",
-        "inside",
-        "glorious"
+        "Humphries",
+        "playing",
+        "best",
+        "darts",
+        "career",
+        "title"
       ],
-      "summary": "Crystal Palace's Conference League victory comes at the end of a remarkable 12-month period of success under departing boss Oliver Glasner."
+      "summary": "Luke Humphries believes he is heading into Finals Night playing the \"best darts of his career\" as he looks to defend his crown as Premier League champion."
     },
     {
-      "title": "Tuchel's biggest mistake? Wharton shines after England omission",
-      "url": "https://www.bbc.com/sport/football/articles/cx213ezxpz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-27T23:29:20+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Tuchel",
-        "biggest",
-        "mistake",
-        "Wharton",
-        "shines"
-      ],
-      "summary": "Adam Wharton starred as Crystal Palace won a European trophy but the midfielder will not feature at this summer's World Cup."
-    },
-    {
-      "title": "Sources: Barça, Newcastle agree $81M Gordon fee",
-      "url": "https://www.espn.com/soccer/story/_/id/48891558/barcelona-submit-offer-newcastle-anthony-gordon",
+      "title": "If Premier League transfer trend continues, who co...",
+      "url": "https://www.espn.com/soccer/story/_/id/48785161/if-premier-league-transfer-trend-continues-move",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T00:40:34+00:00",
-      "score": 23.0,
-      "keywords": [
-        "Newcastle",
-        "Sources",
-        "agree",
-        "Gordon"
-      ],
-      "summary": "Spanish champions Barcelona have agreed a €70 million ($81.4m) fee with Newcastle United to sign England forward Anthony Gordon, sources have confirmed to ESPN."
-    },
-    {
-      "title": "Transfer rumors, news: Juventus to move for Salah ...",
-      "url": "https://www.espn.com/soccer/story/_/id/48888679/transfer-rumors-news-juventus-move-salah-liverpool-exit",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-27T23:03:48+00:00",
-      "score": 21.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Tottenham",
-        "Salah",
-        "Transfer",
-        "rumors"
-      ],
-      "summary": "Manchester United and Tottenham Hotspur are reportedly interested in signing Brighton & Hove Albion's Carlos Baleba. Transfer Talk has the latest."
-    },
-    {
-      "title": "Neymar misses first Brazil camp after further test...",
-      "url": "https://www.espn.com/soccer/story/_/id/48894901/neymar-misses-first-brazil-training-camp-further-tests",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T00:40:34+00:00",
-      "score": 18.0,
-      "keywords": [
-        "Neymar",
-        "misses",
-        "first",
-        "Brazil",
-        "camp",
-        "further"
-      ],
-      "summary": "Neymar missed the first World Cup training session for Brazil on Wednesday to undergo \"further medical evaluations\" on his bruised right calf, the Brazilian Football Confederation (CBF) announced."
-    },
-    {
-      "title": "🎵 'Waka Waka'? 'Dai Dai'? World Cup song ranks",
-      "url": "https://www.espn.com/soccer/story/_/id/48882873/ranking-10-official-fifa-world-cup-songs-shakira-ricky-martin",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T00:40:34+00:00",
-      "score": 18.0,
-      "keywords": [
-        "Waka",
-        "World",
-        "song",
-        "ranks"
-      ],
-      "summary": "\"Dai Dai\" is the latest installment of FIFA's hit-or-miss catalog of official World Cup songs. Here's where all 10 rank, from worst to best."
-    },
-    {
-      "title": "Glasner: Palace now in UEL 'where they should be'",
-      "url": "https://www.espn.com/soccer/story/_/id/48895081/glasner-palace-europa-league-where-be",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T00:40:34+00:00",
+      "published": "2026-05-28T04:48:34+00:00",
       "score": 15.0,
       "keywords": [
-        "Crystal Palace",
-        "Glasner",
-        "Palace"
+        "Premier",
+        "League",
+        "transfer",
+        "trend",
+        "continues"
       ],
-      "summary": "Oliver Glasner said he is leaving Crystal Palace \"where they should be\" after winning the Conference League in his final game as manager."
+      "summary": "The summer of 2025 saw a huge increase in transfers between Premier League clubs. Here are some players who could move for big money but will stay in England."
     },
     {
-      "title": "USMNT's Richards on bench for Conf. League final",
-      "url": "https://www.espn.com/soccer/story/_/id/48892457/usa-chris-richards-conference-league-final-crystal-palace",
+      "title": "Arsenal Keep or Dump: Find Ødegaard replacement? M...",
+      "url": "https://www.espn.com/soccer/story/_/id/48876175/arsenal-keep-dump-martin-odegaard-viktor-gyokeres-kai-havertz-gab-marcotti-mark-ogden",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-28T00:40:34+00:00",
+      "published": "2026-05-28T04:48:34+00:00",
       "score": 15.0,
       "keywords": [
-        "Crystal Palace",
-        "USMNT",
-        "Richards",
-        "bench",
-        "Conf",
-        "League"
+        "Arsenal",
+        "Keep",
+        "Dump",
+        "Find",
+        "replacement"
       ],
-      "summary": "USMNT defender Chris Richards was an unused substitute as Crystal Palace won the UEFA Conference League final against Rayo Vallecano on Wednesday."
-    },
-    {
-      "title": "Frimpong left out of Netherlands World Cup squad",
-      "url": "https://www.espn.com/soccer/story/_/id/48890354/netherlands-confirm-world-cup-2026-squad-jeremie-frimpong-crysencio-summerville-picked",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T00:40:33+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Liverpool",
-        "Frimpong",
-        "left",
-        "Netherlands",
-        "World",
-        "squad"
-      ],
-      "summary": "Liverpool's Jeremie Frimpong has been left out of the Netherlands squad for the 2026 World Cup, while top scorer Memphis Depay recovered from injury just in time."
-    },
-    {
-      "title": "FIFA subpoenaed over World Cup ticket practices",
-      "url": "https://www.espn.com/soccer/story/_/id/48885837/new-jersey-new-york-subpoena-20926-fifa-world-cup-tickets",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T00:40:34+00:00",
-      "score": 10.0,
-      "keywords": [
-        "FIFA",
-        "subpoenaed",
-        "World",
-        "ticket",
-        "practices"
-      ],
-      "summary": "New York and New Jersey have subpoenaed FIFA as part of an investigation into its ticketing prices for the 2026 World Cup, citing soaring ticket prices and reports that fans were misled about seat locations."
-    },
-    {
-      "title": "MLS-worst Union fire coach Carnell, SD amid slump",
-      "url": "https://www.espn.com/soccer/story/_/id/48893836/mls-worst-philadelphia-union-fire-coach-bradley-carnell",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T00:40:34+00:00",
-      "score": 10.0,
-      "keywords": [
-        "worst",
-        "Union",
-        "fire",
-        "coach",
-        "Carnell",
-        "amid"
-      ],
-      "summary": "The last-place Philadelphia Union fired coach Bradley Carnell on Wednesday as part of a front-office overhaul that included naming Jon Scheer as sporting director."
-    },
-    {
-      "title": "Real Madrid president candidate: I'll sign Spain s...",
-      "url": "https://www.espn.com/soccer/story/_/id/48890258/real-madrid-candidate-sign-spain-international-become-president",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-28T00:40:33+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Real",
-        "Madrid",
-        "president",
-        "candidate",
-        "sign",
-        "Spain"
-      ],
-      "summary": "Enrique Riquelme has guaranteed he will sign a player that will feature for Spain at the World Cup if he becomes president of Real Madrid."
+      "summary": "Champions Arsenal have some big decisions ahead that will affect their finances and their squad."
     }
   ]
 }
