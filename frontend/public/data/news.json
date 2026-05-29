@@ -1,96 +1,297 @@
 {
-  "updated_at": "2026-05-29T12:24:22.811811+00:00",
+  "updated_at": "2026-05-29T16:51:13.334911+00:00",
   "items": [
     {
-      "title": "Champions League final buildup, Neymar injury concern, transfer news, and more: football – live",
+      "title": "Unmissable! Why Thunder-Spurs decider is the biggest game of the NBA season",
+      "url": "https://www.skysports.com/nba/news/12040/13549081/oklahoma-city-thunder-vs-san-antonio-spurs-game-7-why-victor-wembanyama-and-shai-gilgeous-alexander-clash-is-unmissable",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-29T15:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Spurs",
+        "Antonio",
+        "Unmissable",
+        "Thunder",
+        "decider",
+        "biggest"
+      ],
+      "summary": "The most anticipated matchup of the 2026 NBA playoffs is going the distance after the San Antonio Spurs beat the Oklahoma City Thunder on Thursday night to level the Western Conference Finals at 3-3."
+    },
+    {
+      "title": "How Ferguson twice moved to sign Rooney from Everton",
+      "url": "https://www.bbc.com/sport/football/articles/cn0pnkzl9d2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-29T16:32:25+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Manchester United",
+        "Wayne Rooney",
+        "Ferguson",
+        "Rooney",
+        "twice"
+      ],
+      "summary": "Everton boss David Moyes reveals on the latest episode of the Wayne Rooney Show the inside story on Wayne Rooney's move to Manchester United - with Sir Alex Ferguson twice making moves to sign the then teenage striker."
+    },
+    {
+      "title": "‘He was alive – you saw it in his eyes’: inside the years that shaped Mikel Arteta",
+      "url": "https://www.theguardian.com/football/2026/may/29/mikel-arteta-arsenal-basque-country-barcelona-champions-league-final",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-05-29T16:00:54+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel",
+        "Mikel Arteta",
+        "Arteta",
+        "alive",
+        "eyes"
+      ],
+      "summary": "In the runup to the Champions League final, the Arsenal manager’s first footballing steps in the Basque Country and Barcelona are recalled by those who shared them The way Santi Cazorla tells it, rolling about laughing, Mikel Arteta may just be the worst person you could ever wish to watch a match w"
+    },
+    {
+      "title": "Mourinho signs three-year deal to return as Real boss",
+      "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-29T15:19:37+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Mourinho",
+        "signs",
+        "year",
+        "deal",
+        "return",
+        "Real"
+      ],
+      "summary": "Jose Mourinho signs a three-year deal to become Real Madrid head coach for a second time."
+    },
+    {
+      "title": "New Zealand warm up for England Test series by thrashing Ireland",
+      "url": "https://www.skysports.com/cricket/news/12040/13549099/new-zealand-prepare-for-england-test-series-with-innings-thrashing-of-ireland-at-stormont",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-29T16:15:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "Zealand",
+        "warm",
+        "England",
+        "Test",
+        "series"
+      ],
+      "summary": "New Zealand warmed up for their three-Test series against England with a crushing innings-and-79-run victory over Ireland in a four-day game at Stormont."
+    },
+    {
+      "title": "'An exciting young talent' - Meet NI's new recruit",
+      "url": "https://www.bbc.com/sport/football/articles/ckgp3zp1jm8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-29T15:23:24+00:00",
+      "score": 26.0,
+      "keywords": [
+        "young",
+        "Ireland",
+        "exciting",
+        "talent",
+        "Meet",
+        "recruit"
+      ],
+      "summary": "Northern Ireland manager Michael McArdle says that teenager Emily Cassap is an \"exciting young talent\" as she is called into the senior squad for the first time."
+    },
+    {
+      "title": "Arteta speaks to media before Champions League final, transfer news and more: football – live",
       "url": "https://www.theguardian.com/football/live/2026/may/29/champions-league-final-buildup-world-cup-latest-transfer-news-and-more-football-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-05-29T12:14:30+00:00",
-      "score": 31.0,
+      "published": "2026-05-29T16:45:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Arsenal",
-        "Dublin",
         "Ireland",
-        "Champions",
-        "League",
-        "final"
+        "Dublin",
+        "Arteta",
+        "speaks",
+        "media",
+        "Champions"
       ],
-      "summary": "⚽ News and previews before big weekend of football ⚽ Arsenal owners promise to strengthen | Mail Dom The aforementioned Qatar played Ireland last night in Dublin, and lost 1-0. The game was played against the backdrop of mounting controversy over Ireland’s forthcoming Nations League fixtures against"
+      "summary": "⚽ News and previews before big weekend of football ⚽ Football Daily on Saturday’s final | Mail Dom The aforementioned Qatar played Ireland last night in Dublin, and lost 1-0. The game was played against the backdrop of mounting controversy over Ireland’s forthcoming Nations League fixtures against I"
     },
     {
-      "title": "‘Everything just clicked right there’: the moment that made Bukayo Saka",
-      "url": "https://www.theguardian.com/football/2026/may/29/moment-that-made-bukayo-saka-arsenal-england",
+      "title": "Brazil World Cup 2026 team guide",
+      "url": "https://www.theguardian.com/football/2026/may/29/brazil-world-cup-2026-team-guide",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-05-29T11:00:49+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Bukayo Saka",
-        "young",
-        "Ljungberg",
-        "Freddie Ljungberg",
-        "Everything"
-      ],
-      "summary": "Arsenal’s former head of coaching recalls the words from Freddie Ljungberg that shaped the young winger’s career Jan van Loon remembers the moment well. As Arsenal’s head of coaching he was guiding Freddie Ljungberg’s first steps in management with the under-15s when Bukayo Saka joined the squad. Sa"
-    },
-    {
-      "title": "Montreal fancied to land French Derby for O'Brien",
-      "url": "https://www.skysports.com/racing/news/12040/13549020/prix-du-jockey-club-montreal-fancied-to-land-french-derby-for-aidan-obrien",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-05-29T11:35:00+00:00",
+      "published": "2026-05-29T15:00:55+00:00",
       "score": 26.0,
       "keywords": [
-        "O'Brien",
-        "Montreal",
-        "fancied",
-        "land",
-        "French",
-        "Derby"
+        "cooper",
+        "Brazil",
+        "World",
+        "team",
+        "guide"
       ],
-      "summary": "On the latest episode of Weekend Winners, the panel reconvene to preview the French Derby from Chantilly."
+      "summary": "Unimpressive in qualification, fans will be hoping Carlo Ancelotti can get the best out of Vinícius Júnior, as he did at Real Madrid This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries who qualified"
     },
     {
-      "title": "FPL Podcast from BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0np05lq?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-29T10:58:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Bruce",
-        "Sutton",
-        "Chris Sutton",
-        "Podcast",
-        "Sport"
-      ],
-      "summary": "Alistair Bruce-Ball, Chris Sutton and Statman Dave return with the season finale."
-    },
-    {
-      "title": "'We're just humans' - how Littler's tears revealed impact of untold struggle",
-      "url": "https://www.skysports.com/darts/news/12040/13548922/premier-league-darts-luke-littler-not-a-robot-as-teary-winners-interview-highlights-untold-emotions-faced-by-world-no-1",
+      "title": "Sooryavanshi, 15, becomes second-fastest player to hit 1,000 IPL runs",
+      "url": "https://www.skysports.com/cricket/news/12040/13549101/vaibhav-sooryavanshi-teenage-wonderkid-becomes-second-fastest-player-to-reach-1000-ipl-runs-but-falls-short-of-century",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-05-29T12:00:00+00:00",
+      "published": "2026-05-29T15:54:00+00:00",
       "score": 25.0,
       "keywords": [
-        "humans",
-        "Littler",
-        "tears",
-        "revealed",
-        "impact",
-        "untold"
+        "Sooryavanshi",
+        "becomes",
+        "second",
+        "fastest",
+        "player",
+        "runs"
       ],
-      "summary": "Luke Littler&#8217;s teary on-stage interview after Premier League Darts glory provided a public reminder of the untold struggles sports&#8217; biggest stars often face away from their arenas."
+      "summary": "Vaibhav Sooryavanshi became the joint-second fastest player to reach 1,000 runs in the Indian Premier League on Friday, as he smashed his way to a sensational 96 off 47 deliveries during Rajasthan Royals' qualifying match against Gujarat Titans.&#160;"
+    },
+    {
+      "title": "Champions League final still not free to air despite pressure",
+      "url": "https://www.bbc.com/sport/football/articles/c98rnme5ly7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-29T15:03:48+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Champions",
+        "League",
+        "final",
+        "still",
+        "free"
+      ],
+      "summary": "Fans will need a subscription to watch the Champions League final between Arsenal and PSG after TNT Sports decides against making the match free to air."
+    },
+    {
+      "title": "Real Madrid named football's most valuable club",
+      "url": "https://www.bbc.com/sport/football/articles/c362dzkl0w2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-29T15:01:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Real",
+        "Madrid",
+        "named",
+        "football",
+        "most"
+      ],
+      "summary": "Real Madrid are named as the most valuable club in world football, with Barcelona overtaking Manchester United to go second."
+    },
+    {
+      "title": "PSG’s motivation greater than Arsenal’s desire for first title, says Luis Enrique",
+      "url": "https://www.theguardian.com/football/2026/may/29/champions-league-psg-motivation-greater-than-arsenal-luis-enrique",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-05-29T16:09:11+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "motivation",
+        "greater",
+        "desire",
+        "first",
+        "title"
+      ],
+      "summary": "Luis Enrique: ‘Retaining it is source of inspiration for us’ Expects to name same outfield 10 as in 2025 final Luis Enrique has insisted Paris Saint-Germain’s motivation to retain their Champions League title is greater than Arsenal’s quest to be crowned European champions for the first time. PSG de"
+    },
+    {
+      "title": "Champions League final, French Open and Women’s FA Cup final – follow with us",
+      "url": "https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-05-29T16:10:24+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Champions",
+        "League",
+        "final",
+        "French",
+        "Open",
+        "Women"
+      ],
+      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading..."
+    },
+    {
+      "title": "Clarke to lead 'evolution' instead of 'revolution' after signing new deal",
+      "url": "https://www.skysports.com/football/news/12040/13548898/steve-clarke-scotland-head-coach-will-lead-natural-evolution-over-revolution-after-signing-new-contract",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-29T15:49:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Clarke",
+        "lead",
+        "evolution",
+        "instead",
+        "revolution",
+        "signing"
+      ],
+      "summary": "Scotland head coach Steve Clarke has vowed to lead \"evolution\" instead of \"revolution\" after signing a new four-year contract extension until the World Cup in 2030."
+    },
+    {
+      "title": "Coventry latest: Thomas and Torp sign new contracts",
+      "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-05-29T17:26:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Coventry",
+        "latest",
+        "Thomas",
+        "Torp",
+        "sign",
+        "contracts"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Bristol City appoint Lincoln boss Skubala",
+      "url": "https://www.bbc.com/sport/football/articles/c5yrv03l7wxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-29T16:18:17+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Bristol",
+        "City",
+        "appoint",
+        "Lincoln",
+        "boss",
+        "Skubala"
+      ],
+      "summary": "Bristol City appoint Lincoln boss Michael Skubala as their new manager on a three-year deal."
+    },
+    {
+      "title": "What is Mourinho's managerial record?",
+      "url": "https://www.bbc.com/sport/articles/cdxpyv28rj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-29T15:55:09+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Mourinho",
+        "managerial",
+        "record"
+      ],
+      "summary": "Our Ask Me Anything team look at the managerial record of new Real Madrid manager Jose Mourinho."
     },
     {
       "title": "Volpato makes Italy to Australia switch before World Cup",
       "url": "https://www.bbc.com/sport/football/articles/cq8p9e0xgdpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-05-29T11:05:56+00:00",
+      "published": "2026-05-29T15:59:45+00:00",
       "score": 20.0,
       "keywords": [
         "Volpato",
@@ -103,21 +304,38 @@
       "summary": "Former Italy under-21 international Cristian Volpato switches allegiance to Australia days before the Socceroos announce their squad for the 2026 Fifa World Cup."
     },
     {
-      "title": "Bristol City edging towards Skubala appointment",
-      "url": "https://www.bbc.com/sport/football/articles/c5yrv03l7wxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "title": "Dick Advocaat returns to Scotland with Curaçao before historic World Cup appearance",
+      "url": "https://www.theguardian.com/football/2026/may/29/dick-advocaat-curacao-scotland-world-cup",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-05-29T11:50:21+00:00",
+      "published": "2026-05-29T16:30:40+00:00",
       "score": 20.0,
       "keywords": [
-        "Bristol",
-        "City",
-        "edging",
-        "towards",
-        "Skubala",
-        "appointment"
+        "Dick",
+        "Advocaat",
+        "returns",
+        "Scotland",
+        "historic",
+        "World"
       ],
-      "summary": "Bristol City are close to appointing Lincoln boss Michael Skubala as their new manager."
+      "summary": "Manager recalls Rangers tenure fondly before friendly Steve Clarke: Scotland should be qualifing regularly A smile flashed across the face of Dick Advocaat as he was reminded that, 27 years earlier to the day, he had watched his Rangers team complete a domestic treble at Hampden Park. “I was quite s"
+    },
+    {
+      "title": "Socceroos enter last chance saloon with Mexico friendly to shape World Cup dreams | Jack Snape",
+      "url": "https://www.theguardian.com/football/2026/may/30/socceroos-mexico-world-cup-friendly-football",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-05-29T15:00:53+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Socceroos",
+        "enter",
+        "last",
+        "chance",
+        "saloon",
+        "Mexico"
+      ],
+      "summary": "Coach Tony Popovic will take a final look at players on the selection fringe with Australia’s 26-man squad to be named after the warm-up game The World Cup might have snuck up on many Australians, but the reality of the men’s football showpiece will leap out on Sunday, take hold of the nation and no"
     }
   ]
 }
