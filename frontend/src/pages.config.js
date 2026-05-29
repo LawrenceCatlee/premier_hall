@@ -48,10 +48,12 @@
  * The mainPage value must match a key in the PAGES object exactly.
  */
 import HallOfFame from './pages/HallOfFame';
+import News from './pages/News';
 import __Layout from './Layout.jsx';
 
 export const PAGES = {
     "HallOfFame": HallOfFame,
+    "News": News,
 }
 
 export const pagesConfig = {

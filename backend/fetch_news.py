@@ -27,8 +27,10 @@ import requests
 REPO_ROOT    = Path(__file__).resolve().parent.parent
 PLAYERS_JSON = REPO_ROOT / "frontend" / "public" / "data" / "players.json"
 NEWS_JSON    = REPO_ROOT / "frontend" / "public" / "data" / "news.json"
+ARCHIVE_JSON = REPO_ROOT / "frontend" / "public" / "data" / "news_archive.json"
 SENT_GUIDS   = REPO_ROOT / "backend" / "data" / "news_sent_guids.json"
-MAX_GUIDS    = 1000  # 最多保留多少条已发送记录
+MAX_GUIDS    = 1000
+MAX_ARCHIVE  = 2000  # 最多保留多少条历史新闻
 
 # ── RSS 数据源（name, url, tier） ──────────────────────────────────────────────
 # tier 3 = 顶级转会/独家消息源, tier 2 = 主流体育媒体, tier 1 = 综合体育
@@ -346,23 +348,113 @@ def _save_sent_guids(guids: set[str], new_urls: list[str]) -> None:
     SENT_GUIDS.write_text(json.dumps(updated, ensure_ascii=False), encoding="utf-8")
 
 
+# ── OpenAI 批量翻译 ───────────────────────────────────────────────────────────
+
+def translate_items(items: list[NewsItem]) -> dict[str, dict]:
+    """批量翻译标题 + 生成中文摘要，返回 {url: {title_cn, summary_cn}}。"""
+    api_key = os.environ.get("OPENAI_API_KEY", "")
+    if not api_key or not items:
+        return {}
+
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=api_key)
+    except ImportError:
+        print("openai 未安装，跳过翻译", file=sys.stderr)
+        return {}
+
+    # 构造批量请求，压缩 token 用量
+    entries = "\n".join(
+        f'{i+1}. URL:{item.url}\nEN_TITLE:{item.title}\nEN_SUMMARY:{item.summary[:200]}'
+        for i, item in enumerate(items)
+    )
+    prompt = (
+        "请将以下英文体育新闻翻译并摘要，用 JSON 数组返回，"
+        "每项包含字段 url、title_cn（中文标题，15字以内，吸引眼球）、"
+        "summary_cn（中文摘要，2句话以内，突出核心信息）。只返回 JSON，不要其他内容。\n\n"
+        + entries
+    )
+
+    try:
+        resp = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+            max_tokens=len(items) * 120,
+            response_format={"type": "json_object"},
+        )
+        raw = resp.choices[0].message.content or "{}"
+        data = json.loads(raw)
+        # 兼容 {"items": [...]} 或直接 [...]
+        arr = data if isinstance(data, list) else data.get("items", list(data.values())[0] if data else [])
+        return {entry["url"]: entry for entry in arr if "url" in entry}
+    except Exception as e:
+        print(f"翻译失败: {e}", file=sys.stderr)
+        return {}
+
+
+# ── 归档历史新闻 ──────────────────────────────────────────────────────────────
+
+def update_archive(new_items: list[NewsItem], translations: dict[str, dict]) -> None:
+    """将新条目追加到 news_archive.json，最多保留 MAX_ARCHIVE 条。"""
+    try:
+        existing = json.loads(ARCHIVE_JSON.read_text(encoding="utf-8")).get("items", [])
+    except Exception:
+        existing = []
+
+    existing_urls = {item["url"] for item in existing}
+    fetched_at = datetime.now(timezone.utc).isoformat()
+
+    to_add = []
+    for item in new_items:
+        if item.url in existing_urls:
+            continue
+        tr = translations.get(item.url, {})
+        to_add.append({
+            "title":      item.title,
+            "title_cn":   tr.get("title_cn", ""),
+            "url":        item.url,
+            "source":     item.source,
+            "tier":       item.tier,
+            "published":  item.published.isoformat() if item.published else None,
+            "score":      round(item.score, 1),
+            "keywords":   item.keywords,
+            "summary":    item.summary,
+            "summary_cn": tr.get("summary_cn", ""),
+            "fetched_at": fetched_at,
+        })
+
+    merged = to_add + existing  # 新的在前
+    if len(merged) > MAX_ARCHIVE:
+        merged = merged[:MAX_ARCHIVE]
+
+    ARCHIVE_JSON.write_text(
+        json.dumps({"items": merged}, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"归档已更新：新增 {len(to_add)} 条，共 {len(merged)} 条")
+
+
 # ── 保存 JSON 供前端消费 ──────────────────────────────────────────────────────
 
-def save_news_json(items: list[NewsItem]) -> None:
+def save_news_json(items: list[NewsItem], translations: dict[str, dict] | None = None) -> None:
+    tr = translations or {}
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "items": [
             {
-                "title":     item.title,
-                "url":       item.url,
-                "source":    item.source,
-                "tier":      item.tier,
-                "published": item.published.isoformat() if item.published else None,
-                "score":     round(item.score, 1),
-                "keywords":  item.keywords,
-                "summary":   item.summary,
+                "title":      item.title,
+                "title_cn":   tr.get(item.url, {}).get("title_cn", ""),
+                "url":        item.url,
+                "source":     item.source,
+                "tier":       item.tier,
+                "published":  item.published.isoformat() if item.published else None,
+                "score":      round(item.score, 1),
+                "keywords":   item.keywords,
+                "summary":    item.summary,
+                "summary_cn": tr.get(item.url, {}).get("summary_cn", ""),
             }
-            for item in items[:30]  # 前端最多展示30条
+            for item in items[:30]
         ],
     }
     NEWS_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -391,17 +483,21 @@ def main() -> None:
     new_items = [it for it in all_items if it.url not in sent_guids]
     print(f"其中新条目：{len(new_items)} 条")
 
-    # 始终更新前端 news.json（展示最新全量结果）
-    save_news_json(all_items)
-
-    # 通知 GitHub Actions 是否有新内容（供下游步骤判断）
     gh_output = os.environ.get("GITHUB_OUTPUT", "")
+
     if not new_items:
-        print("没有新内容，跳过 Telegram 推送")
+        save_news_json(all_items)
+        print("没有新内容，跳过翻译和 Telegram 推送")
         if gh_output:
             with open(gh_output, "a") as f:
                 f.write("has_new=false\n")
         return
+
+    # 有新内容：翻译 → 归档 → 更新 news.json → 发 Telegram
+    print("调用 GPT-4o-mini 批量翻译新条目…")
+    translations = translate_items(new_items)
+    update_archive(new_items, translations)
+    save_news_json(all_items, translations)
 
     if gh_output:
         with open(gh_output, "a") as f:

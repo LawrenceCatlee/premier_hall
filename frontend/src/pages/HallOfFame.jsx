@@ -4,8 +4,6 @@ import { fetchPlayers } from "@/api/playersApi";
 import { Trophy, Search } from 'lucide-react';
 import PlayerCard from '../components/players/PlayerCard';
 import PlayerFilters from '../components/players/PlayerFilters';
-import LanguageToggle from '../components/LanguageToggle';
-import NewsPanel from '../components/NewsPanel';
 import { useLanguage } from '../components/LanguageContext';
 import { translations } from '../components/translations';
 
@@ -175,10 +173,6 @@ export default function HallOfFame() {
       <div className="relative overflow-hidden py-8 sm:py-14 px-4 sm:px-6">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_#4a0e4e_0%,_transparent_70%)] pointer-events-none" />
         <div className="relative max-w-7xl mx-auto">
-          <div className="flex justify-end mb-3">
-            <LanguageToggle />
-          </div>
-
           <div className="flex items-center justify-center gap-2 sm:gap-3 mb-2 px-2">
             <Trophy className="w-6 h-6 sm:w-10 sm:h-10 text-[#FFD700] shrink-0" />
             <h1 className="text-xl sm:text-4xl font-extrabold tracking-tight text-white text-center leading-snug">
@@ -246,7 +240,6 @@ export default function HallOfFame() {
 
       {/* Main content */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 pb-12">
-        <NewsPanel language={language} />
         <PlayerFilters
           selectedClub={selectedClub}
           selectedAchievement={selectedAchievement}
