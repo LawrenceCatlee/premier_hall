@@ -42,6 +42,7 @@ SOURCES = [
     ("The Guardian",   "https://www.theguardian.com/football/rss",                     2),
     ("ESPN FC",        "https://www.espn.com/espn/rss/soccer/news",                    1),
     ("Goal.com",       "https://www.goal.com/feeds/en/news",                           1),
+    ("The Sun",        "https://www.thesun.co.uk/sport/football/feed/",                2),
 ]
 
 # ── 英超球队关键词 ──────────────────────────────────────────────────────────────

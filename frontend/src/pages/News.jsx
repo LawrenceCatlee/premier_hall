@@ -6,7 +6,7 @@ import { Newspaper, ExternalLink, Clock, Search } from 'lucide-react';
 
 const TIER_DOT   = { 3: '#ef4444', 2: '#eab308', 1: '#94a3b8' };
 const TIER_LABEL = { 3: '独家快讯', 2: '英超媒体', 1: '综合体育' };
-const SOURCES    = ['全部', 'BBC Sport', 'Sky Sports', 'The Guardian', 'ESPN FC', 'Goal.com', 'Transfermarkt', '罗马诺'];
+const SOURCES    = ['全部', 'BBC Sport', 'Sky Sports', 'The Guardian', 'The Sun', 'ESPN FC', 'Goal.com', 'Transfermarkt', '罗马诺'];
 
 function timeAgo(isoStr, lang) {
   if (!isoStr) return '';
