@@ -485,19 +485,21 @@ def main() -> None:
 
     gh_output = os.environ.get("GITHUB_OUTPUT", "")
 
+    # 无论是否有新内容，都把本次抓到的条目归档（update_archive 内部去重）
+    if new_items:
+        print("调用 GPT-4o-mini 批量翻译新条目…")
+        translations = translate_items(new_items)
+    else:
+        translations = {}
+    update_archive(all_items, translations)
+    save_news_json(all_items, translations)
+
     if not new_items:
-        save_news_json(all_items)
-        print("没有新内容，跳过翻译和 Telegram 推送")
+        print("没有新内容，跳过 Telegram 推送")
         if gh_output:
             with open(gh_output, "a") as f:
                 f.write("has_new=false\n")
         return
-
-    # 有新内容：翻译 → 归档 → 更新 news.json → 发 Telegram
-    print("调用 GPT-4o-mini 批量翻译新条目…")
-    translations = translate_items(new_items)
-    update_archive(new_items, translations)
-    save_news_json(all_items, translations)
 
     if gh_output:
         with open(gh_output, "a") as f:
