@@ -1,39 +1,149 @@
 {
-  "updated_at": "2026-05-29T23:25:25.490568+00:00",
+  "updated_at": "2026-05-30T04:08:43.951083+00:00",
   "items": [
     {
-      "title": "Scotland World Cup 2026 team guide",
-      "url": "https://www.theguardian.com/football/2026/may/30/scotland-world-cup-2026-team-guide",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-05-29T23:01:02+00:00",
-      "score": 26.0,
+      "title": "Barcelona sign Gordon from Newcastle for $82M",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48904926/barcelona-anthony-gordon-newcastle-united-transfer",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T04:47:03+00:00",
+      "score": 23.0,
       "keywords": [
-        "cooper",
-        "matic",
-        "Scotland",
-        "World",
-        "team",
-        "guide"
+        "Newcastle",
+        "Barcelona",
+        "sign",
+        "Gordon"
       ],
-      "summary": "After dramatic qualification, an experienced squad could progress beyond the group stage if they beat Haiti in their opening game This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries who qualified. t"
+      "summary": "Barcelona have announced the signing of England forward Anthony Gordon from Newcastle United on a five-year contract.",
+      "summary_cn": ""
     },
     {
-      "title": "Papers: Man Utd have £250m to spend - but Leao to turn down summer PL move",
-      "url": "https://www.skysports.com/football/news/12040/13549123/x-paper-talk",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-05-29T23:17:00+00:00",
-      "score": 25.0,
+      "title": "Dembélé declares himself fit for UCL final",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48910353/ousmane-dembele-declares-fit-champions-league-final-psg-arsenal",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T04:47:03+00:00",
+      "score": 21.0,
       "keywords": [
-        "Man Utd",
-        "Papers",
-        "spend",
-        "Leao",
-        "turn",
-        "down"
+        "Arsenal",
+        "Dembélé",
+        "declares",
+        "himself",
+        "final"
       ],
-      "summary": "The top stories and transfer rumours from Saturday's newspapers..."
+      "summary": "Ousmane Dembélé has declared himself fit for Paris Saint-Germain's Champions League final Arsenal on Saturday and said that winning last year's Ballon d'Or cannot compare to winning major honours with the Ligue 1 champions.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Injured Davies headlines Canada's WCup roster",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48914937/alphonso-davies-named-canada-world-cup-squad-injury-concerns",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T04:47:02+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Davies",
+        "Injured",
+        "headlines",
+        "Canada",
+        "WCup",
+        "roster"
+      ],
+      "summary": "Canada captain and Bayern Munich star Alphonso Davies was named to Jesse Marsch's final 26-man World Cup squad despite carrying a hamstring injury that could sideline him for the tournament opener.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sources: Chelsea want $161M for Enzo Fernández",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48909150/chelsea-want-120m-enzo-fernandez-amid-potential-exit-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T04:47:03+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Chelsea",
+        "Sources",
+        "want",
+        "Enzo"
+      ],
+      "summary": "Chelsea are expected to demand a fee in the region of £120 million ($161m) if Enzo Fernández tries to force his way out of the club this summer, sources have told ESPN.",
+      "summary_cn": ""
+    },
+    {
+      "title": "NWSL top scorer Banda injured late in Pride's win",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48916646/orlando-pride-barbra-banda-scores-twice-suffers-late-injury-win-bay-fc",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T04:47:03+00:00",
+      "score": 10.0,
+      "keywords": [
+        "NWSL",
+        "scorer",
+        "Banda",
+        "injured",
+        "late",
+        "Pride"
+      ],
+      "summary": "Orlando Pride forward Barbra Banda extended her NWSL Golden Boot lead with a two-goal performance before suffering an unspecified late injury in Friday's 3-1 win over Bay FC.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'Matured' Reyna tired of talking WC controversy",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48911140/usa-gio-reyna-mature-controversy-world-cup-2022-2026",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T04:47:03+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Matured",
+        "Reyna",
+        "tired",
+        "talking",
+        "controversy"
+      ],
+      "summary": "USMNT midfielder Gio Reyna said that he's matured since the last World Cup, and feels the experience that the squad has from the 2022 World Cup will help with the \"little details.\"",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mexico prez gives away her ticket to WC opener",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48912175/mexico-president-sheinbaum-2026-world-cup-opening-game-ticket",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T04:47:02+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Mexico",
+        "prez",
+        "gives",
+        "away",
+        "ticket",
+        "opener"
+      ],
+      "summary": "Mexico President Claudia Sheinbaum delivered a promise on Friday by giving away her ticket to the World Cup opening match.",
+      "summary_cn": ""
+    },
+    {
+      "title": "👀 World Cup kit ranking: All 105 jerseys on show",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T04:47:03+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "ranking",
+        "jerseys",
+        "show"
+      ],
+      "summary": "The 2026 World Cup will be the first with 48 teams, bringing a total of more than 100 kits! Here they all are, ranked from worst to first.",
+      "summary_cn": ""
     }
   ]
 }
