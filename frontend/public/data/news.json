@@ -1,23 +1,42 @@
 {
-  "updated_at": "2026-05-30T10:08:17.259847+00:00",
+  "updated_at": "2026-05-30T12:09:22.051719+00:00",
   "items": [
     {
-      "title": "Arteta inspiration as Ramsey eyes management future",
+      "title": "Next Liverpool manager: Premier League boss huge favourite to replace Arne Slot with Enrique and Gerrard also in mix",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cg5pp9zggnmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/39261145/next-liverpool-manager-luis-enrique-steven-gerrard/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-05-30T08:11:11+00:00",
+      "published": "2026-05-30T12:07:24+00:00",
       "score": 31.0,
       "keywords": [
-        "Arsenal",
-        "Mikel",
-        "Ramsey",
-        "Aaron Ramsey",
-        "Mikel Arteta",
-        "Arteta"
+        "Liverpool",
+        "Gerrard",
+        "Next",
+        "manager",
+        "Premier",
+        "League"
       ],
-      "summary": "Aaron Ramsey describes Mikel Arteta as an inspiration as he aims to follow his former Arsenal team-mate's success.",
+      "summary": "ARNE SLOT has been sacked as Liverpool manager and the race is on to find his replacement. However, jumping to the top of the list of favourites to take over the hotseat at Anfield is a Premier League boss who has had a remarkable season with his club. Andoni Iraola is the bookies' favourite, accord",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘I wanted the ground to swallow me up’ – Little Mix star FAINTED after Jurgen Klopp’s request at Liverpool party",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39260426/perrie-edwards-jurgen-klopp-liverpool-party/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-05-30T10:18:38+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Oxlade-Chamberlain",
+        "Alex Oxlade-Chamberlain",
+        "wanted",
+        "ground",
+        "swallow"
+      ],
+      "summary": "LITTLE Mix star Perrie Edwards has recounted how she fainted at a Liverpool club party. Perrie, 32, who is engaged to former Reds star Alex Oxlade-Chamberlain, revealed the embarrassing moment happened when Reds boss Jurgen Klopp asked her if she wanted to sing. The flustered singer said on Hits Rad",
       "summary_cn": ""
     },
     {
@@ -29,8 +48,8 @@
       "published": "2026-05-30T10:36:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Sterling",
         "Raheem Sterling",
+        "Sterling",
         "arrested",
         "suspicion",
         "drug",
@@ -40,136 +59,265 @@
       "summary_cn": ""
     },
     {
-      "title": "Whelan is new head coach at Livingston",
+      "title": "O'Dwyer, 16, added to Republic of Ireland squad as training player",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c775g7pv5veo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c62ekrlzye4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-05-30T09:18:28+00:00",
+      "published": "2026-05-30T10:35:18+00:00",
       "score": 26.0,
       "keywords": [
-        "Glenn Whelan",
-        "Whelan",
         "Ireland",
-        "head",
-        "coach",
-        "Livingston"
+        "Dwyer",
+        "added",
+        "Republic",
+        "squad",
+        "training"
       ],
-      "summary": "Former Republic of Ireland international Glenn Whelan is appointed head coach at Livingston.",
+      "summary": "Shamrock Rovers teenager Josh O'Dwyer is included in the Republic of Ireland squad for their friendly against World Cup co-hosts Canada in Montreal.",
       "summary_cn": ""
     },
     {
-      "title": "Champions League final buildup, World Cup news, transfers and more – matchday live",
+      "title": "Liverpool sack head coach Slot",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-30T11:30:16+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "sack",
+        "head",
+        "coach",
+        "Slot"
+      ],
+      "summary": "Liverpool sack head coach Arne Slot after two seasons in charge.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Slot sacking completes a remarkable fall from grace",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-30T11:55:53+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Slot",
+        "sacking",
+        "completes",
+        "remarkable",
+        "fall",
+        "grace"
+      ],
+      "summary": "'Slot's is one of the most remarkable falls from grace in Premier League history' says chief football writer Phil McNulty.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Budapest police investigating fan brawl before Champions League final",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-30T10:36:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Budapest",
+        "police",
+        "investigating",
+        "brawl",
+        "Champions"
+      ],
+      "summary": "Police in Budapest have made arrests and are studying CCTV footage to identify supporters fighting before Saturday's Champions League final between Arsenal and Paris St-Germain.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arne Slot sacked by Liverpool, plus Champions League final buildup – matchday live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-05-30T09:44:18+00:00",
+      "published": "2026-05-30T11:54:22+00:00",
       "score": 25.0,
       "keywords": [
         "Arsenal",
-        "Champions",
-        "League",
-        "final",
-        "buildup",
-        "World"
+        "Liverpool",
+        "Arne",
+        "Slot",
+        "sacked",
+        "plus"
       ],
-      "summary": "⚽ All the latest pre-match news for PSG v Arsenal ⚽ Arsenal fans’ race to Budapest | Mail us here Barney Ronay has done us a favour by reading a book on Gianni Infantino so we don’t have to. Funnily enough, I was killing time watching some World Cup preview programmes on a recent plane journey in wh",
+      "summary": "⚽ Iraola among frontrunners to replace Slot at Anfield ⚽ Arsenal fans’ race to Budapest | Mail Luke Barney Ronay has done us a favour by reading a book on Gianni Infantino so we don’t have to. Funnily enough, I was killing time watching some World Cup preview programmes on a recent plane journey in ",
       "summary_cn": ""
     },
     {
-      "title": "Man City star reveals the real reason behind Pep Guardiola’s Etihad exit after trophy-laden decade",
+      "title": "Scotland v Curaçao: World Cup warm-up match – live",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260387/man-city-tijjani-reijnders-pep-guardiola-etihad-exit/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/football/live/2026/may/30/scotland-v-curacao-world-cup-warm-up-match-live",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-05-30T09:46:26+00:00",
+      "published": "2026-05-30T11:51:41+00:00",
       "score": 25.0,
       "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "star",
-        "reveals",
-        "real"
+        "Aston Villa",
+        "Scotland",
+        "World",
+        "warm",
+        "match",
+        "live"
       ],
-      "summary": "MANCHESTER CITY star Tijjani Reijnders has revealed the real reason behind the exit of legendary manager Pep Guardiola. Reijnders, who was regularly on City's bench at the business end of the season, hinted that the Spaniard doesn't have the same energy he once had. Ahead of the World Cup, Netherlan",
+      "summary": "⚽ Latest updates from 1pm (BST) kick-off at Hampden Park ⚽ Scotland: World Cup 2026 team guide | Mail Scott Curaçao are not without star names themselves. Their captain Leandro Bacuna spent a decade in England, splitting his time between Aston Villa, Reading, Cardiff and Watford; his brother Juninho",
       "summary_cn": ""
     },
     {
-      "title": "Moment footie fans clash & fight with flares in Budapest brawl ahead of Arsenal & PSG Champs League final",
+      "title": "Liverpool’s classy statement in full after bombshell Arne Slot sacking as club insist ‘his legacy is intact’",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39259673/footie-fans-clash-flares-budapest-arsenal-psg-champs-league/",
+      "url": "https://www.thesun.co.uk/sport/39261076/liverpool-statement-arne-slot-sacked-andoni-iraola/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-05-30T09:09:15+00:00",
+      "published": "2026-05-30T11:41:05+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "classy",
+        "statement",
+        "full",
+        "bombshell",
+        "Arne"
+      ],
+      "summary": "LIVERPOOL have released a classy statement after the sacking of head-coach Arne Slot. Despite winning the Premier League just 12 months ago, the Dutchman has been shown the door after two seasons in charge, with the club insisting his legacy is still \"intact\". Liverpool's statement said: \"Having joi",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool SACK Arne Slot with Andoni Iraola set to replace him after Dutchman’s woeful Premier League title defence",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39260947/liverpool-sack-arne-slot-andoni-iraola/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-05-30T11:14:47+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brentford",
+        "Liverpool",
+        "Bournemouth",
+        "SACK",
+        "Arne",
+        "Slot"
+      ],
+      "summary": "LIVERPOOL have ruthlessly sacked Arne Slot after a woeful Premier League title defence. And outgoing Bournemouth chief Andoni Iraola is set to become his successor, according to reports. The Merseyside giants only sealed Champions League qualification with a 1-1 draw against Brentford on the final d",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal stadium is transformed with new features added to 60,000-capacity ground for Champions League final viewing",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39260761/arsenal-stadium-transformed-champions-league-final/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-05-30T11:09:53+00:00",
       "score": 25.0,
       "keywords": [
         "Arsenal",
-        "Moment",
-        "footie",
+        "stadium",
+        "transformed",
+        "features",
+        "added",
+        "capacity"
+      ],
+      "summary": "THE Emirates Stadium is getting ready to play host to the Champions League final. On Saturday, Arsenal face PSG in the showpiece for Europe's greatest club competition. But, not every fan can make it to the Puskas Arena in Budapest. Many will be watching the game at the Emirates Stadium. And, as rev",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal fans paint north London red as they flood streets and queue for pubs ahead of Champions League final against PSG",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39260397/arsenal-fans-paint-north-london-red-champions-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-05-30T10:41:33+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
         "fans",
-        "clash",
-        "fight"
+        "paint",
+        "north",
+        "London",
+        "flood"
       ],
-      "summary": "THIS is the moment a huge street brawl breaks out on the streets of Budapest ahead of the hotly contested Champions League final. Footage shows rival football fans clashing with flares as punches and kicks are thrown just hours before Arsenal and Paris Saint-Germain are set to do battle on the pitch",
+      "summary": "ARSENAL fans have flooded the streets of North London ahead of the Champions League Final. Crowds of red shirts were seen gathering at pubs across Islington from 8am this morning ahead of today's showdown with Paris Saint-Germain. Those who didn't make it to Hungary will be flocking to the Emirates ",
       "summary_cn": ""
     },
     {
-      "title": "Football icon’s glamorous great-granddaughter gets emotional in Champions League final stadium named after him",
+      "title": "Chipper Kevin Keegan, 75, jokes ‘I’m still alive’ as he makes 1st public appearance since shock cancer diagnosis",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260067/ferenc-puskas-great-granddaughter-champions-league-final/",
+      "url": "https://www.thesun.co.uk/sport/39260352/kevin-keegan-jokes-still-alive-cancer-appearance/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-05-30T09:04:24+00:00",
+      "published": "2026-05-30T10:35:37+00:00",
       "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Chipper",
+        "Kevin",
+        "Keegan",
+        "jokes",
+        "still"
+      ],
+      "summary": "FOOTBALL legend Kevin Keegan cracks a joke about still being alive as he makes his first public appearance after his cancer diagnosis. The former England star and Newcastle United manager popped up on social media ahead of his appearance at the Tyne Theatre tomorrow in conversation with Peter Graves",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arne Slot exits Liverpool one year after Premier L...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48918413/arne-slot-leaves-liverpool-immediate-effect",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:55:52+00:00",
+      "score": 23.0,
+      "keywords": [
+        "Liverpool",
+        "Arne",
+        "Slot",
+        "exits",
+        "year",
+        "Premier"
+      ],
+      "summary": "Liverpool have confirmed head coach Arne Slot will leave the club with immediate effect.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Barcelona sign Gordon from Newcastle for $82M",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48904926/barcelona-anthony-gordon-newcastle-united-transfer",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:04:04+00:00",
+      "score": 23.0,
+      "keywords": [
+        "Newcastle",
+        "Barcelona",
+        "sign",
+        "Gordon"
+      ],
+      "summary": "Barcelona have announced the signing of England forward Anthony Gordon from Newcastle United on a five-year contract.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Dembélé declares himself fit for UCL final",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48910353/ousmane-dembele-declares-fit-champions-league-final-psg-arsenal",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:04:04+00:00",
+      "score": 21.0,
       "keywords": [
         "Arsenal",
-        "Football",
-        "icon",
-        "glamorous",
-        "great",
-        "granddaughter"
+        "Dembélé",
+        "declares",
+        "himself",
+        "final"
       ],
-      "summary": "THE stunning great-granddaughter of a football icon was overcome with emotion as she posed for snaps in a stadium named after him. The Puskas Arena will play host to the Champions League final between Arsenal and PSG on Saturday evening. And before the game, stunning model Ane Puskas visited the imp",
-      "summary_cn": ""
-    },
-    {
-      "title": "Should the Champions League final kick-off at 5pm? VOTE NOW",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260114/champions-league-final-kick-off-eary-vote/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T09:02:36+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Champions",
-        "League",
-        "final",
-        "kick",
-        "VOTE"
-      ],
-      "summary": "ARSENAL take on Paris Saint-Germain in what is shaping up to be a thrilling Champions League final but should the match have an early kick-off? The big match gets underway at the Puskas Arena in Budapest, Hungary at the unusual time of 5pm. Traditionally, the Champions League final has got going at ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Dame Judi Dench intervenes as Tottenham’s plans to transform abandoned golf course into new training ground hit rocks",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39259836/dame-judi-dench-tottenham-training-ground/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T08:11:17+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Dame",
-        "Judi",
-        "Dench",
-        "intervenes"
-      ],
-      "summary": "TOTTENHAM's plans to build an academy training complex for their women's team faces a formidable opponent in the shape of the elected leader of Enfield Council and Dame Judi Dench. Last year, the council voted to approve Spurs' proposal to turn an abandoned golf course in Whitewebbs Park into a comp",
+      "summary": "Ousmane Dembélé has declared himself fit for Paris Saint-Germain's Champions League final Arsenal on Saturday and said that winning last year's Ballon d'Or cannot compare to winning major honours with the Ligue 1 champions.",
       "summary_cn": ""
     },
     {
@@ -178,7 +326,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/48917673/transfer-rumors-news-liverpool-curtis-jones-inter-milan-target",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-30T10:24:30+00:00",
+      "published": "2026-05-30T11:58:29+00:00",
       "score": 21.0,
       "keywords": [
         "Liverpool",
@@ -192,41 +340,112 @@
       "summary_cn": ""
     },
     {
-      "title": "What is Scotland's most iconic goal? This time - McLean v Gemmill",
+      "title": "What is Scotland's most iconic goal? The final - Gemmill v McTominay",
       "title_cn": "",
       "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-05-30T08:08:51+00:00",
+      "published": "2026-05-30T11:53:07+00:00",
       "score": 20.0,
       "keywords": [
         "Scotland",
         "most",
         "iconic",
         "goal",
-        "time",
-        "McLean"
+        "final",
+        "Gemmill"
       ],
       "summary": "Vote to find out what goal will be crowned Scotland's greatest.",
       "summary_cn": ""
     },
     {
-      "title": "Copy of Champions League final: Everything you need to kno...",
+      "title": "All you need to know about World Sevens football",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/articles/clyp08n5599o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-05-30T11:25:11+00:00",
+      "score": 20.0,
+      "keywords": [
+        "need",
+        "know",
+        "World",
+        "Sevens",
+        "football"
+      ],
+      "summary": "Our Ask Me Anything team explains how World Sevens Football works, which teams are involved, and how you can follow it.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Injured Davies headlines Canada's WCup roster",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48914937/alphonso-davies-named-canada-world-cup-squad-injury-concerns",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:04:04+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Davies",
+        "Injured",
+        "headlines",
+        "Canada",
+        "WCup",
+        "roster"
+      ],
+      "summary": "Canada captain and Bayern Munich star Alphonso Davies was named to Jesse Marsch's final 26-man World Cup squad despite carrying a hamstring injury that could sideline him for the tournament opener.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sources: Chelsea want $161M for Enzo Fernández",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48909150/chelsea-want-120m-enzo-fernandez-amid-potential-exit-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:04:04+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Chelsea",
+        "Sources",
+        "want",
+        "Enzo"
+      ],
+      "summary": "Chelsea are expected to demand a fee in the region of £120 million ($161m) if Enzo Fernández tries to force his way out of the club this summer, sources have told ESPN.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Champions League final: Everything you need to kno...",
       "title_cn": "",
       "url": "https://www.espn.com/soccer/story/_/id/48891938/2025-26-champions-league-final-arsenal-paris-saint-germain-preview-predictions-analysis-key-players",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-30T10:26:25+00:00",
+      "published": "2026-05-30T12:55:12+00:00",
       "score": 15.0,
       "keywords": [
         "Arsenal",
-        "Copy",
         "Champions",
         "League",
         "final",
-        "Everything"
+        "Everything",
+        "need"
       ],
       "summary": "Here are the biggest storylines, keys to victory, players to watch and more for Saturday's showpiece between Arsenal and Paris Saint-Germain.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Expect surprises, not just PSG attack vs. Arsenal ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48901256/uefa-champions-league-final-psg-arsenal-gab-marcotti-mikel-arteta-luis-enrique",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:26:08+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Arsenal",
+        "Expect",
+        "surprises",
+        "attack"
+      ],
+      "summary": "Everyone expects Saturday's Champions League final to be a battle between PSG's all-world attack and Arsenal's unbreakable defense, but both managers have plenty of tricks up their sleeve to change the game entirely.",
       "summary_cn": ""
     },
     {
@@ -235,7 +454,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/48889090/tactical-keys-champions-league-final-psgs-bizarre-kickoff-arsenal-striker-choice",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-30T10:26:25+00:00",
+      "published": "2026-05-30T12:26:08+00:00",
       "score": 15.0,
       "keywords": [
         "Arsenal",
@@ -249,38 +468,94 @@
       "summary_cn": ""
     },
     {
-      "title": "Why is the USMNT playing meaningless friendlies ri...",
+      "title": "NWSL top scorer Banda injured late in Pride's win",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48905910/goal-usmnt-pre-world-cup-friendlies",
+      "url": "https://www.espn.com/soccer/story/_/id/48916646/orlando-pride-barbra-banda-scores-twice-suffers-late-injury-win-bay-fc",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-30T10:25:50+00:00",
+      "published": "2026-05-30T12:04:04+00:00",
       "score": 10.0,
       "keywords": [
-        "USMNT",
-        "playing",
-        "meaningless",
-        "friendlies"
+        "NWSL",
+        "scorer",
+        "Banda",
+        "injured",
+        "late",
+        "Pride"
       ],
-      "summary": "Before the USMNT starts the World Cup, the Americans will play two friendlies: Why add meaningless games to their busy summer?",
+      "summary": "Orlando Pride forward Barbra Banda extended her NWSL Golden Boot lead with a two-goal performance before suffering an unspecified late injury in Friday's 3-1 win over Bay FC.",
       "summary_cn": ""
     },
     {
-      "title": "How the World Cup's 'least-known' player became a ...",
+      "title": "'Matured' Reyna tired of talking WC controversy",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48901215/how-2026-world-cup-least-known-player-became-viral-sensation",
+      "url": "https://www.espn.com/soccer/story/_/id/48911140/usa-gio-reyna-mature-controversy-world-cup-2022-2026",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-05-30T10:28:36+00:00",
+      "published": "2026-05-30T12:04:04+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Matured",
+        "Reyna",
+        "tired",
+        "talking",
+        "controversy"
+      ],
+      "summary": "USMNT midfielder Gio Reyna said that he's matured since the last World Cup, and feels the experience that the squad has from the 2022 World Cup will help with the \"little details.\"",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mexico prez gives away her ticket to WC opener",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48912175/mexico-president-sheinbaum-2026-world-cup-opening-game-ticket",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:04:04+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Mexico",
+        "prez",
+        "gives",
+        "away",
+        "ticket",
+        "opener"
+      ],
+      "summary": "Mexico President Claudia Sheinbaum delivered a promise on Friday by giving away her ticket to the World Cup opening match.",
+      "summary_cn": ""
+    },
+    {
+      "title": "👀 World Cup kit ranking: All 105 jerseys on show",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:04:05+00:00",
       "score": 10.0,
       "keywords": [
         "World",
-        "least",
-        "known",
-        "player",
-        "became"
+        "ranking",
+        "jerseys",
+        "show"
       ],
-      "summary": "The FIFA World Cup's least-known played was New Zealand defender Tim Payne. That was until an Argentine social media personality sought to change that.",
+      "summary": "The 2026 World Cup will be the first with 48 teams, bringing a total of more than 100 kits! Here they all are, ranked from worst to first.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Champions League finals often disappoint, but PSG ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48896974/uefa-needs-save-champions-league-boring-finals",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-05-30T12:55:12+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Champions",
+        "League",
+        "finals",
+        "often",
+        "disappoint"
+      ],
+      "summary": "When was the last time both teams actually scored in a Champions League final? Too long ago.",
       "summary_cn": ""
     }
   ]
