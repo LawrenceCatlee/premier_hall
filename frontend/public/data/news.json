@@ -1,108 +1,562 @@
 {
-  "updated_at": "2026-06-02T05:56:32.291411+00:00",
+  "updated_at": "2026-06-02T10:52:01.141597+00:00",
   "items": [
     {
-      "title": "Serena Williams returns - why now, and what next?",
+      "title": "Gyan: Ghana's success will depend on Semenyo at the World Cup",
       "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549864/serena-williams-returns-to-tennis-everything-you-need-to-know-as-23-time-grand-slam-winner-enters-doubles-tournament-at-queens",
+      "url": "https://www.skysports.com/football/news/12040/13547847/asamoah-gyan-ghana-legend-on-antoine-semenyo-influence-and-facing-england-at-the-2026-world-cup",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-02T06:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Williams",
-        "Serena",
-        "returns",
-        "next"
-      ],
-      "summary": "Serena Williams is doing the unthinkable and returning to professional tennis at the age of 44 after almost four years away from the sport.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Billam-Smith – how to win a boxing staredown",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13546900/chris-billam-smith-on-how-to-win-a-boxing-staredown-i-get-adrenalin-from-them-i-really-stare-i-look-into-the-soul",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T06:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Smith",
-        "Billam",
-        "boxing",
-        "staredown"
-      ],
-      "summary": "How do you win a boxing staredown? Two fighters going head to head to glower at one another is an essential feature of the build-up to a fight in the modern sport.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Humble, powerful, ready - Semenyo returns to where World Cup rise began",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cddp82r2lrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-02T05:31:14+00:00",
-      "score": 25.0,
+      "published": "2026-06-02T10:00:00+00:00",
+      "score": 31.0,
       "keywords": [
         "Manchester City",
-        "Humble",
-        "powerful",
-        "ready",
-        "Semenyo",
-        "returns"
+        "matic",
+        "Gyan",
+        "Ghana",
+        "success",
+        "depend"
       ],
-      "summary": "Before heading to the World Cup with Ghana, a friendly against Wales brings Manchester City's Antoine Semenyo back to Newport where he first caught the eye.",
+      "summary": "It has been a successful and at times dramatic season for Antoine Semenyo. That will not let up this summer either with the Manchester City forward expected to be a key player Ghana at the World Cup.",
       "summary_cn": ""
     },
     {
-      "title": "How Cornish miners brought football to Mexico",
+      "title": "Eckert given Saints' owner's backing as head coach apologises for Spygate scandal",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.skysports.com/football/news/12040/13550009/spygate-latest-tonda-eckert-given-southampton-owners-backing-as-head-coach-apologises-for-scandal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-02T09:28:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Southampton",
+        "given",
+        "Eckert",
+        "Saints",
+        "owner",
+        "backing"
+      ],
+      "summary": "Tonda Eckert has taken full responsibility \"for everything that happened\" in the Spygate scandal, apologising to players, staff and supporters - but he will remain as Southampton head coach after recieving back from chairman Dragon Solak.",
+      "summary_cn": ""
+    },
+    {
+      "title": "England legend Flintoff unveiled as Sydney Thunder's new head coach",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13550035/andrew-flintoff-england-legend-unveiled-as-sydney-thunders-head-coach-ahead-of-new-big-bash-league-bbl-season",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-02T10:00:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "England",
+        "legend",
+        "Flintoff",
+        "unveiled",
+        "Sydney",
+        "Thunder"
+      ],
+      "summary": "Legendary England all-rounder Andrew Flintoff has been announced as Sydney Thunder's new BBL coach.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Which UK-based players are heading to the 2026 World Cup?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13545532/world-cup-2026-which-premier-league-efl-and-scottish-premiership-players-are-heading-to-this-summers-tournament",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-02T10:00:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "based",
+        "players",
+        "heading",
+        "World"
+      ],
+      "summary": "With the squads now confirmed and locked in, more than 200 players from the UK are heading to the 2026 World Cup.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool begin talks with Iraola",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13549363/andoni-iraola-liverpool-begin-talks-with-former-bournemouth-head-coach-to-replace-arne-slot",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-02T10:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bournemouth",
+        "begin",
+        "talks",
+        "Iraola"
+      ],
+      "summary": "Liverpool and Andoni Iraola have begun talks about the former Bournemouth head coach succeeding Arne Slot.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Juventus interested in signing either Martinez or Vicario",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13550038/juventus-transfer-news-aston-villas-emi-martinez-and-tottenhams-guglielmo-vicario-emerge-as-goalkeeper-targets-for-italian-giants",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-02T09:44:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Juventus",
+        "interested",
+        "signing",
+        "either"
+      ],
+      "summary": "Juventus are interested in signing either Emi Martinez from Aston Villa or Tottenham's Guglielmo Vicario, according to Sky in Italy.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Everton revive interest in Boro midfielder Hackney",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13550025/everton-revive-interest-in-middlesbrough-midfielder-hayden-hackney",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-02T09:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "revive",
+        "interest",
+        "Boro",
+        "midfielder",
+        "Hackney"
+      ],
+      "summary": "Everton have revived their long-term interest in Middlesbrough's Hayden Hackney.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Southampton owner will not sack Eckert over Spygate",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cq6pn58pmn4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-02T05:28:25+00:00",
+      "published": "2026-06-02T09:13:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "owner",
+        "sack",
+        "Eckert",
+        "Spygate"
+      ],
+      "summary": "Southampton owner Dragan Solak tells BBC Sport he will not sack Tonda Eckert, despite the \"mistake\" the head coach made when authorising a spying campaign against rival Championship clubs.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool in advanced talks with Iraola",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-02T09:31:53+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "advanced",
+        "talks",
+        "Iraola"
+      ],
+      "summary": "Liverpool are in advanced talks with Andoni Iraola as they look to appoint a new head coach following the sacking of Arne Slot.",
+      "summary_cn": ""
+    },
+    {
+      "title": "David Squires on … Arsenal staying positive after penalty pain against PSG",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/02/david-squires-arsenal-positive-after-penalty-pain-psg",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-02T10:19:04+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "David",
+        "Squires",
+        "staying",
+        "positive",
+        "penalty"
+      ],
+      "summary": "Our cartoonist on the Champions League final, some joy in Europe for English teams and Arne Slot’s sacking Buy a cartoon | David’s favourite works of 2025 And his latest book, Chaos in the Box: get it now Continue reading...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool open talks with Andoni Iraola over becoming head coach",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-02T09:00:46+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "open",
+        "talks",
+        "Andoni",
+        "Iraola",
+        "becoming"
+      ],
+      "summary": "Spaniard is clear front-runner to replace Arne Slot Liverpool want to make hire before World Cup starts Liverpool have opened formal talks with Andoni Iraola over succeeding Arne Slot as the club’s head coach. Iraola is the clear frontrunner for the Anfield vacancy with his style of play fitting Liv",
+      "summary_cn": ""
+    },
+    {
+      "title": "Southampton owner will not sack apologetic Eckert despite role in Spygate scandal",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/southampton-owner-will-not-sack-tonda-eckert-spygate-scandal",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-02T09:35:12+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "owner",
+        "sack",
+        "apologetic",
+        "Eckert",
+        "despite"
+      ],
+      "summary": "Saints head coach issues apology in club video message Dragan Solak wants to ‘close the chapter and look ahead’ Tonda Eckert has apologised for orchestrating the Spygate scandal that culminated in Southampton being kicked out of the Championship playoff final . Southampton, who observed training ses",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Says a lot’ – Chelsea drop huge hint over £169million stars’ futures as they’re left out of new kit launch",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39283285/chelsea-drop-hint-fernandez-cucurella-future-kit-launch/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T10:07:56+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "drop",
+        "huge",
+        "hint",
+        "stars",
+        "futures"
+      ],
+      "summary": "CHELSEA fans believe the club dropped a big hint over the futures of two first team stars during the launch of their new home kit. Enzo Fernandez and Marc Cucurella were both left out of the promotional advert and images for the launch. CHELSEA 2026/27 KIT Their absence comes amid rumours of an exit",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham’s option to sign Joao Palhinha EXPIRES but club still exploring permanent transfer after heroics vs Everton",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39283377/tottenham-option-joao-palhinha-bayern-munich/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T10:06:42+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Tottenham",
+        "Spurs",
+        "option",
+        "sign",
+        "Joao"
+      ],
+      "summary": "TOTTENHAM are still exploring a move to re-sign Joao Palhinha - even though the option they had to buy the Portugal loanee expired on Monday. Spurs had until June 1 to trigger an option to turn the midfielder's loan permanent for just shy of £26million but opted against&nbsp;it. Reports on the conti",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool ‘AGREE’ deal to appoint outgoing Bournemouth boss Andoni Iraola as new manager after sacking Arne Slot",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39283362/liverpool-andoni-iraola-manager-deal-slot/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T09:17:16+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bournemouth",
+        "AGREE",
+        "deal",
+        "appoint",
+        "outgoing"
+      ],
+      "summary": "LIVERPOOL have agreed a deal to appoint Andoni Iraola as their new manager, according to reports. Iraola, 43, is set to succeed axed former boss Arne Slot after settling on personal terms with the Reds. Slot was sacked on Saturday despite leading Liverpool to just their second league title of the Pr",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea legend Oscar was clinically dead for over TWO MINUTES before hearing son say ‘dad, you need to come back’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39282771/oscar-dead-cardiac-arrest-chelsea/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T09:10:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "legend",
+        "Oscar",
+        "clinically",
+        "dead",
+        "MINUTES"
+      ],
+      "summary": "OSCAR has revealed that he was clinically dead for over two minutes before hearing his son's voice telling him to \"come back\". The former Chelsea star, 34, suffered a cardiac arrest during Sao Paulo training last November. He made a full recovery but retired in April after being diagnosed with vasov",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd to break with tradition as they release FOURTH kit for 2026-27 in nod to iconic strip from over 100 years ago",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39281779/man-utd-release-fourth-kit-2026-27-iconic-strip/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T08:53:07+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "break",
+        "tradition",
+        "release",
+        "FOURTH"
+      ],
+      "summary": "MANCHESTER UNITED are set to release a special fourth kit to celebrate a significant anniversary next season. The 2026-27 campaign will mark 125 years since the Red Devils adopted their iconic red, white and black colour combination. The change occurred in in 1902 - when the team rebranded from Newt",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fernandes: 'I wanted to have won more' at Man U",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48937702/bruno-fernandes-wanted-won-more-man-united",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-02T11:18:47+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Manchester United",
+        "Michael Carrick",
+        "Fernandes",
+        "Bruno Fernandes",
+        "Carrick",
+        "wanted"
+      ],
+      "summary": "Bruno Fernandes has said that he had expected to win more trophies during his time so far at Manchester United, but expressed optimism about the club's future under Michael Carrick.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sabalenka calls for more women's matches in French Open night sessions",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13550007/aryna-sabalenka-world-no-1-hopes-for-more-womens-matches-in-french-open-night-session-after-beating-naomi-osaka",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-02T09:30:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Cornish",
-        "miners",
-        "brought",
-        "football",
-        "Mexico"
+        "Sabalenka",
+        "calls",
+        "women",
+        "matches",
+        "French",
+        "Open"
       ],
-      "summary": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
+      "summary": "Aryna Sabalenka hopes French Open organisers have been persuaded to put more women&#8217;s matches on in the night session after her high-class performance against Naomi Osaka on Monday.",
       "summary_cn": ""
     },
     {
-      "title": "World Cup 2026: How to follow on the BBC",
+      "title": "England arrive in Florida for pre-World Cup camp",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cx2181zx13po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-02T05:33:11+00:00",
+      "published": "2026-06-02T10:26:25+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "arrive",
+        "Florida",
+        "World",
+        "camp"
+      ],
+      "summary": "England players and head coach Thomas Tuchel arrive at their pre-World Cup camp in West Palm Beach, Florida to start their tournament preparations.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Gilmour admits struggle as World Cup dream taken away",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cgqpwj0n49qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-02T08:54:40+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Gilmour",
+        "admits",
+        "struggle",
+        "World",
+        "dream",
+        "taken"
+      ],
+      "summary": "Billy Gilmour admits \"it's been a tough one to get my head around\" after the Napoli midfielder was forced to drop out of Scotland's World Cup squad through injury.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Inside £432m ‘Boston’ stadium with 22-storey lighthouse where England and Scotland games were threatened by £6m row",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/38412734/boston-gillette-stadium-world-cup-england-scotland/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T10:42:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Inside",
+        "Boston",
+        "stadium",
+        "storey",
+        "lighthouse",
+        "England"
+      ],
+      "summary": "THE Gillette Stadium in Boston will stage both England and Scotland matches at the World Cup. Scotland face Haiti in their first World Cup match for 28 years in Boston. That clash is overnight on Saturday June 13 - technically a 2am kick-off in the UK on the Sunday morning.&nbsp; They then return to",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mexico vs South Africa – World Cup 2026: Date and time as blockbuster tournament begins with repeat of 2010 opener",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/38611557/mexico-south-africa-world-cup-2026-date-time-team-news/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T10:36:54+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Mexico",
+        "South",
+        "Africa",
+        "World",
+        "Date",
+        "time"
+      ],
+      "summary": "THE 2026 World Cup is edging ever closer with Mexico taking on South Africa in the opening match of the tournament. The co-hosts raise the curtain on the biggest spectacle in sport as the 104-game extravaganza begins in Mexico City. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS Coincidentally, the rev",
+      "summary_cn": ""
+    },
+    {
+      "title": "Every team that has qualified for World Cup 2026 – full list of 48 nations and groups in USA, Canada and Mexico",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/38693503/every-team-qualified-world-cup-2026-full-list-groups/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T10:35:52+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Every",
+        "team",
+        "qualified",
+        "World",
+        "full",
+        "list"
+      ],
+      "summary": "THE World Cup is just around the corner in Canada, USA and Mexico. Excitement is building with the tournament expanded to include 48 nations for the first time. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS Things get underway on June 11 as Mexico take on South Africa in Mexico City and 104 matches...",
+      "summary_cn": ""
+    },
+    {
+      "title": "When is the World Cup 2026: Key dates for this summer’s footballing extravaganza",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/37499402/when-is-world-cup-2026-taking-place/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T10:32:25+00:00",
       "score": 20.0,
       "keywords": [
         "World",
-        "follow"
+        "dates",
+        "summer",
+        "footballing",
+        "extravaganza"
       ],
-      "summary": "The biggest World Cup in history starts on 11 June and there are more ways to follow it on the BBC than ever before.",
+      "summary": "THE World Cup is almost upon us! A new look tournament will see 48 teams travel to USA, Canada and Mexico be split into 12 groups. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS Those groups will then be marked Group A-L, with Mexico in Group A, Canada in Group B and USA in...",
       "summary_cn": ""
     },
     {
-      "title": "Tuchel tackles questions from team of under-11s",
+      "title": "World Cup 2026 tickets: Where can I buy them, how much do they cost and how does the ballot work?",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/videos/c707pjg3wk8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/36218693/world-cup-2026-tickets-how-to-buy/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-02T05:33:00+00:00",
+      "published": "2026-06-02T10:29:48+00:00",
       "score": 20.0,
       "keywords": [
-        "Tuchel",
-        "tackles",
-        "questions",
-        "team",
-        "under"
+        "World",
+        "tickets",
+        "them",
+        "much",
+        "cost",
+        "ballot"
       ],
-      "summary": "England head coach Thomas Tuchel fields questions from under-11 players before his team head to the World Cup.",
+      "summary": "TICKETS for the FIFA World Cup 2026 are on sale now - and SunSport can point you in the right direction for where to purchase them! Spanning the United States, Canada and Mexico, here's what you need to know to ensure you don't miss your chance to experience the beautiful game's biggest internationa",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup 2026 full match schedule: When will England and Scotland play and UK kick-off times for every game",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/37552231/world-cup-2026-full-match-schedule-england-kick-off-times/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T10:27:42+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "full",
+        "match",
+        "schedule",
+        "England",
+        "Scotland"
+      ],
+      "summary": "THE World Cup is just a couple of months away and excitement is building. England will play Croatia, Ghana and Panama in the group stages, while Scotland face Brazil, Morocco and Haiti. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS With the tournament expanded to include 48 nations for the first ever ",
+      "summary_cn": ""
+    },
+    {
+      "title": "England squad numbers ‘LEAKED’ in huge hint over Thomas Tuchel’s starting XI for World Cup 2026",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39283367/england-squad-numbers-leaked-thomas-tuchel-starting-xi/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-02T09:17:50+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "squad",
+        "numbers",
+        "LEAKED",
+        "huge",
+        "hint"
+      ],
+      "summary": "ENGLAND's squad numbers for the World Cup have seemingly been leaked ahead of the tournament's big kick-off. England commence their campaign at the tournament against Croatia on June 17th. But there will be no surprises between now and then in the squad number department it seems, after a document c",
+      "summary_cn": ""
+    },
+    {
+      "title": "✅ All 2026 World Cup squads announced so far",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48757621/2026-world-cup-squad-lists-players-announced-all-48-teams",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-02T11:18:47+00:00",
+      "score": 18.0,
+      "keywords": [
+        "World",
+        "squads",
+        "announced"
+      ],
+      "summary": "Here's every World Cup squad list that has been announced ahead of the June 1 deadline.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Davies joins Canada but unclear when he'll play",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48944438/alphonso-davies-joins-canada-world-cup-prep-unclear-play",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-02T11:18:47+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Davies",
+        "joins",
+        "Canada",
+        "unclear",
+        "play"
+      ],
+      "summary": "Alphonso Davies has joined the Canadian national team as it prepares for the World Cup, although he's not quite ready to play.",
       "summary_cn": ""
     }
   ]
