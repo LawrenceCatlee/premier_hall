@@ -1,4 +1,568 @@
 {
-  "updated_at": "2026-06-04T04:55:19.218996+00:00",
-  "items": []
+  "updated_at": "2026-06-04T08:56:24.514911+00:00",
+  "items": [
+    {
+      "title": "Former Seahawks quarterback Wilson announces NFL retirement",
+      "title_cn": "",
+      "url": "https://www.skysports.com/nfl/news/12040/13550638/russell-wilson-announces-nfl-retirement-as-former-seattle-seahawks-quarterback-takes-up-tv-role",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T07:25:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Wilson",
+        "Former",
+        "Seahawks",
+        "quarterback",
+        "announces",
+        "retirement"
+      ],
+      "summary": "Ten-time Pro Bowl quarterback Russell Wilson confirmed that he's retiring from the NFL to move into broadcasting by taking up an analyst role with CBS Sports in America.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City threaten legal action over Real presidential candidate's Haaland pledge",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13550652/erling-haaland-man-city-threaten-legal-action-over-real-madrid-presidential-candidates-pledge-to-sign-striker",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T09:25:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man City",
+        "Erling Haaland",
+        "Haaland",
+        "City",
+        "threaten",
+        "legal"
+      ],
+      "summary": "Man City are considering taking legal action after a Real Madrid presedential candidate said he would sign Erling Haaland, if elected.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City's bid for Anderson rejected by Forest",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13550651/elliot-anderson-transfer-news-manchester-citys-bid-for-midfielder-rejected-by-nottingham-forest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T08:06:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Anderson",
+        "City"
+      ],
+      "summary": "Manchester City have seen an initial offer for Elliot Anderson knocked back by Nottingham Forest.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City consider legal action over Real candidate's promise to sign Haaland",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-04T08:27:35+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Erling Haaland",
+        "Haaland",
+        "City",
+        "consider"
+      ],
+      "summary": "After a candidate in Real Madrid's presidential election unveils an Erling Haaland shirt on live TV, Manchester City dismiss the suggestion their striker will move to Spain.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Two goals in 41 games - what next for Delap at Chelsea?",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c87q2jel22vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-04T07:52:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Delap",
+        "goals",
+        "games",
+        "next"
+      ],
+      "summary": "A year after striker Liam Delap joined Chelsea, he struggled to prove himself during an underwhelming and injury-hit season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Manchester City threaten to sue Real Madrid presidential hopeful over Haaland",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/manchester-city-threaten-to-sue-real-madrid-presidential-candidate-erling-haaland-elliot-anderson",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-04T08:14:45+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Forest",
+        "Erling Haaland",
+        "Haaland",
+        "Anderson"
+      ],
+      "summary": "Enrique Riquelme held Madrid shirt with Haaland’s name City bid rejected for Nottingham Forest’s Elliot Anderson Manchester City are considering legal action against Enrique Riquelme after the Real Madrid presidential candidate held up a Madrid shirt with Erling Haaland’s name on the back during a T",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sir Alex Ferguson, 84, spotted for first time since health scare as Man Utd legend smiles for photo at restaurant",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39303273/sir-alex-ferguson-spotted-after-health-scare-man-utd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T07:26:07+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester United",
+        "Man Utd",
+        "Ferguson",
+        "matic",
+        "Alex"
+      ],
+      "summary": "SIR ALEX FERGUSON has been spotted for the first time since his health scare. The legendary Manchester United manager had not been seen since falling ill before the club's dramatic win over Liverpool in May. Ferguson, 84, was taken to hospital in an ambulance prior to kick-off at Old Trafford. He th",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City threaten legal action after Real Madrid presidential candidate claims Erling Haaland transfer is sealed",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39303512/man-city-threaten-legal-action-erling-haaland-transfer-madrid/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T07:18:25+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Erling Haaland",
+        "Haaland",
+        "City",
+        "threaten"
+      ],
+      "summary": "MANCHESTER CITY have threatened legal action after a Real Madrid presidential hopeful claimed he could bring Erling Haaland to the club. Spanish businessman Enrique Riquelme is running against Florentino Perez in the club's presidential elections on Sunday. And as part of his campaign, he claimed on",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea star Cole Palmer drowns sorrows with Love Island beauties on lads’ holiday after shock England World Cup snub",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39303244/cole-palmer-world-cup-ibiza-love-island/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T07:07:03+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Palmer",
+        "star",
+        "Cole",
+        "drowns",
+        "sorrows"
+      ],
+      "summary": "COLE PALMER drowned his sorrows with a bevvy of Love Island beauties during a lad's trip after his shock snub from England's World Cup squad. The Chelsea ace, who has been with his influencer girlfriend Olivia Holder for almost a year, was spotted partying with pals at Ocean Beach in Ibiza on Wednes",
+      "summary_cn": ""
+    },
+    {
+      "title": "England in the heat, Brazil, Messi and Ronaldo - World Cup latest",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13550654/wc-round-up-england-in-the-heat-brazil-messi-and-ronaldo-latest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T08:14:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "England",
+        "heat",
+        "Brazil",
+        "Messi",
+        "World"
+      ],
+      "summary": "Sky Sports brings you the latest from the World Cup with just one week to go!",
+      "summary_cn": ""
+    },
+    {
+      "title": "Antonio Rüdiger: ‘Refugees have no other choice – it’s important they be listened to’",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/antonio-rudiger-refugees-have-no-other-choice-its-important-they-be-listened-to",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-04T07:00:29+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Antonio",
+        "Refugees",
+        "other",
+        "choice",
+        "important",
+        "listened"
+      ],
+      "summary": "Drawing on his own family’s experience, the Real Madrid and Germany defender is advocating for refugees and challenging stereotypes As a child, Antonio Rüdiger would look out of his bedroom window to see whether anyone was playing on the field it overlooked. It was not a big pitch, but it had two go",
+      "summary_cn": ""
+    },
+    {
+      "title": "La Liga 2025-26 awards: the best players, team … and smelliest shirt of the season",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/la-liga-2025-26-awards-best-players-team-sid-lowe",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-04T07:00:29+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Luis Suárez",
+        "Suárez",
+        "Liga",
+        "awards",
+        "best",
+        "players"
+      ],
+      "summary": "It was another season to remember for Lamine Yamal and Barcelona, along with Getafe, Rayo and one naughty fan Lamine Yamal wore the crown and flew the flag. With the last kick of the opening game of 2025-26, Barcelona’s new No 10 – the teenager handed the shirt Ladislao Kubala, Luis Suárez, Diego Ma",
+      "summary_cn": ""
+    },
+    {
+      "title": "Egypt World Cup 2026 team guide",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/egypt-world-cup-2026-team-guide",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-04T07:00:29+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Mohamed Salah",
+        "cooper",
+        "Salah",
+        "Egypt",
+        "World",
+        "team"
+      ],
+      "summary": "A first win at a World Cup is the floor-level target for a team that still relies heavily on the ability of Mohamed Salah This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries who qualified. theguardi",
+      "summary_cn": ""
+    },
+    {
+      "title": "Harry Kane set for REDUCED role for England at World Cup as Thomas Tuchel makes huge call despite historic season",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39303691/harry-kane-england-world-cup-thomas-tuchel/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T08:17:02+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "Harry",
+        "Kane",
+        "REDUCED",
+        "role",
+        "England"
+      ],
+      "summary": "HARRY KANE is reportedly set to have a REDUCED role in England's World Cup campaign. The captain is the top scorer in the history of the Three Lions with 78 goals in his 112 caps. Kane, 32, is one of three strikers picked by boss Thomas Tuchel for the tournament that spans Canada, Mexico and...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea legend Tambling dies aged 84",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13550670/bobby-tambling-chelsea-scoring-legend-dies-aged-84",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T09:21:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "legend",
+        "Tambling",
+        "dies",
+        "aged"
+      ],
+      "summary": "Chelsea legend Bobby Tambling has died at the age of 84.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea legend Tambling dies aged 84",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c8r876y1n0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-04T07:47:04+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "legend",
+        "Tambling",
+        "dies",
+        "aged"
+      ],
+      "summary": "Chelsea's former record goalscorer Bobby Tambling - who netted 202 goals for the club - dies at the age of 84.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Anger at Katie McCabe’s move to Chelsea is forgivable – crossing line into abuse is not | Suzanne Wrack",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/katie-mccabe-chelsea-arsenal-wsl-transfer-move-controversy-abuse",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-04T07:00:29+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Anger",
+        "Katie",
+        "McCabe",
+        "move",
+        "forgivable"
+      ],
+      "summary": "While small pool of talent and elite clubs in women’s game makes switches between rivals inevitable, this move is contentious. But some reaction has gone too far The red neon lights flicker in the dark for a moment, then the room is blue, and there is Katie McCabe, a grin on her face and a Chelsea s",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham fail in Jan Paul van Hecke transfer bid with Chelsea and Liverpool also in hunt for £70m-rated Brighton star",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39303467/tottenham-transfer-bid-jan-paul-van-hecke-brighton/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T07:17:14+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Chelsea",
+        "Liverpool",
+        "Tottenham",
+        "Spurs",
+        "fail"
+      ],
+      "summary": "TOTTENHAM have launched a bid for Brighton star Jan Paul van Hecke. The offer for the Netherlands star, 25, is understood to have been below the Seagulls’ valuation, but talks over a possible switch remain ongoing, according to The Telegraph. Spurs’ pursuit of Van Hecke looks to be a big hint that t",
+      "summary_cn": ""
+    },
+    {
+      "title": "Riquelme: Madrid will sign Haaland if I win electi...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48959541/enrique-riquelme-erling-haaland-real-madrid-manchester-city-transfer",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T08:49:41+00:00",
+      "score": 24.0,
+      "keywords": [
+        "Rodri",
+        "Erling Haaland",
+        "Haaland",
+        "Riquelme",
+        "Madrid",
+        "sign"
+      ],
+      "summary": "Real Madrid's rival presidential candidates made their boldest moves yet on Wednesday, as Enrique Riquelme promised to sign Erling Haaland and Rodri if he's elected, and rival Florentino Perez confirmed José Mourinho as his chosen coach.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sources: Forest reject City's Anderson offer",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48962858/man-city-first-bid-elliot-anderson-rejected-nottingham-forest-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T08:49:41+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Forest",
+        "Anderson",
+        "Sources",
+        "reject"
+      ],
+      "summary": "Manchester City have had their opening bid for Elliot Anderson rejected by Nottingham Forest, sources have told ESPN.",
+      "summary_cn": ""
+    },
+    {
+      "title": "City warn Madrid with legal action over Haaland",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48963240/manchester-city-threaten-legal-action-real-madrid-erling-haaland-comments-enrique-riquelme-election",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T08:49:41+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Manchester City",
+        "Erling Haaland",
+        "Haaland",
+        "City",
+        "warn",
+        "Madrid"
+      ],
+      "summary": "Manchester City have threatened legal action after Real Madrid presidential candidate Enrique Riquelme promised to sign Erling Haaland if he's elected.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Podcast: What is it actually like to play at a World Cup?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0npzl2f?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-04T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Podcast",
+        "actually",
+        "like",
+        "play",
+        "World"
+      ],
+      "summary": "We ask what the experience of playing at a World Cup is as Scotland are set to return.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fifa bans fans from taking reusable water bottles into World Cup stadiums after U-turn",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/fifa-bans-reusable-water-bottles-world-cup-stadiums",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-04T07:21:08+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fifa",
+        "bans",
+        "fans",
+        "taking",
+        "reusable",
+        "water"
+      ],
+      "summary": "Move prevents ‘risk and injury to players and attendees’ Fans concerned about heat and access to drinking water Spectators will not be allowed to carry reusable water bottles into World Cup venues owing to safety concerns, Fifa has said, after a last-minute change to its stadium code of conduct. The",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup betting offer: Get 50/1 for England to QUALIFY from Group L with Paddy Power",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39300030/world-cup-england-qualify-group-paddy-power-betting-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T08:06:51+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "betting",
+        "offer",
+        "England",
+        "QUALIFY",
+        "Group"
+      ],
+      "summary": "PADDY POWER have an outstanding offer for new customers ahead of the biggest World Cup in history... Brand new Paddy Power customers can back England to QUALIFY out of Group L at a quite incredible&nbsp;50/1&nbsp;— which has boosted from 1/100! Plus, they'll give you a free £2 bet for every game Eng",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup Countdown Offer: Get Lionel Messi to score in groups at EVENS with William Hill, plus £30 in free bets",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39295500/world-cup-countdown-offer-lionel-messi-goal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T08:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "Countdown",
+        "Offer",
+        "Lionel",
+        "Messi",
+        "score"
+      ],
+      "summary": "WILLIAM HILL are counting down the days to the World Cup with a sensational EPIC BOOST for all customers. Punters can get&nbsp;Lionel Messi to score in the group stages at EVENS&nbsp;– that’s incredibly boosted from 1/9! The defending champions are 1/3 to win their group with Austria, Algeria and Jo",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup 2026: Get England, France and Spain all to reach the quarter-finals at 7/1 with Betfred plus £50 free bets",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39276416/betfred-price-boost-world-cup-2026-free-bets/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T08:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "England",
+        "France",
+        "Spain",
+        "reach",
+        "quarter"
+      ],
+      "summary": "WORLD CUP 2026 is fast approaching, and Betfred are celebrating the football extravaganza with daily odds boosts and free bets for brand-new customers. Today's offer sees England, France and Spain all reach the quarter-finals of the World Cup, boosted to 7/1 from 9/2. It's the latest in a series of ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who are the ITV presenters and pundits for World Cup 2026?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39163238/who-itv-presenters-pundits-world-cup-2026/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T08:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "presenters",
+        "pundits",
+        "World"
+      ],
+      "summary": "ITV have a star-studded team of presenters and pundits for the World Cup. The tournament held across Canada, USA and Mexico runs from June 11 to July 19. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS ITV are broadcasting 29 games in the group stages and they will be based in New York City...",
+      "summary_cn": ""
+    },
+    {
+      "title": "How ‘Godzilla’ weather event could cause World Cup chaos with tournament curtain-raiser set for tropical battering",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39303230/world-cup-weather-el-nino-storms/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-04T07:42:13+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Godzilla",
+        "weather",
+        "event",
+        "cause",
+        "World",
+        "chaos"
+      ],
+      "summary": "THIS summer's World Cup is set to be affected by extreme weather conditions. A \"Godzilla-like\" oceanic heatwave, named El Nino, is expected to cause havoc around the world over the coming months. The adverse weather event is expected to prompt dangerous storms across the Americas this summer. AccuWe",
+      "summary_cn": ""
+    },
+    {
+      "title": "Messi wins prestigious Princess of Asturias award",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48959228/lionel-messi-wins-prestigious-princess-asturias-award",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T08:49:41+00:00",
+      "score": 16.0,
+      "keywords": [
+        "given",
+        "Messi",
+        "wins",
+        "prestigious",
+        "Princess",
+        "Asturias"
+      ],
+      "summary": "Inter Miami CF and Argentina star Lionel Messi has been awarded the 2026 Princess of Asturias Award for Sports, becoming the first individual football player to be given the honor by the committee.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Like Figo and Beckham, Riquelme's Haaland promise ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48960585/riquelmes-haaland-promise-classic-spanish-election-move",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T08:03:06+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Erling Haaland",
+        "Haaland",
+        "Beckham",
+        "Like",
+        "Figo",
+        "Riquelme"
+      ],
+      "summary": "Real Madrid presidential candidate Enrique Riquelme promising he'll sign Erling Haaland is great showbiz, but's also stealing a leaf directly from the Florentino Perez Election Playbook.",
+      "summary_cn": ""
+    }
+  ]
 }
