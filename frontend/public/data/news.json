@@ -1,342 +1,493 @@
 {
-  "updated_at": "2026-06-04T12:10:26.800979+00:00",
+  "updated_at": "2026-06-04T16:26:39.045359+00:00",
   "items": [
     {
-      "title": "Arsenal confirm 15 players leaving Emirates Stadium including long-serving academy product",
+      "title": "West Ham hope to KEEP Jarrod Bowen despite Chelsea, Man Utd and Newcastle circling for £80m move and no wage cut clause",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39306809/arsenal-confirm-players-leaving-emirates-retained-list/",
+      "url": "https://www.thesun.co.uk/sport/39310823/west-ham-hope-keep-jarrod-bowen-chelsea-man-utd/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-04T11:09:18+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Arsenal",
-        "confirm",
-        "players",
-        "leaving",
-        "Emirates",
-        "Stadium"
-      ],
-      "summary": "ARSENAL have announced their retained list as 15 stars prepare to leave the club. The club are coming off the back of their triumphant Premier League-winning campaign, but have nonetheless had to make some hard decisions for the team. That counts across both the men's and women's team, with Women's ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man City chairman on Pep exit, next manager and summer transfers",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13550687/khaldoon-al-mubarak-man-city-chairman-discusses-pep-guardiolas-exit-new-manager-update-and-summer-transfer-window-plans",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-04T13:00:00+00:00",
+      "published": "2026-06-04T16:12:22+00:00",
       "score": 31.0,
       "keywords": [
-        "Manchester City",
-        "Man City",
-        "given",
-        "City",
-        "chairman",
-        "exit"
+        "Chelsea",
+        "Newcastle",
+        "West Ham",
+        "Man Utd",
+        "Bowen",
+        "Jarrod Bowen"
       ],
-      "summary": "Manchester City chairman Khaldoon Al Mubarak has given an update on the club's search for a new manager following Pep Guardiola's exit.",
+      "summary": "WEST HAM have told Jarrod Bowen's suitors they want to keep their captain at the club this summer. Bowen, 29, has stated his desire to get the Hammers back to the Premier League after their relegation. The winger, who missed out on England's World Cup squad, has admirers at Chelsea, Manchester Unite",
       "summary_cn": ""
     },
     {
-      "title": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
+      "title": "Could Rozicki’s breakfast lesson help silence Billiam-Smith's home hopes?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere",
+      "url": "https://www.skysports.com/boxing/news/12040/13550736/ryan-rozicki-paying-close-attention-to-chris-billam-smith-with-late-breakfast-lesson-ahead-of-cruiserweight-clash",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T17:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Smith",
+        "Rozicki",
+        "breakfast",
+        "lesson",
+        "help"
+      ],
+      "summary": "Ryan Rozicki is leaving no stone unturned in his quest to deny Chris Billam-Smith a hometown victory on Saturday, even taking his preparation to the breakfast room ahead of their cruiserweight clash.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Serena's first practice session at Queens Club",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13550801/serena-williams-practice-session-at-queens-club",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T16:33:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Williams",
+        "Serena",
+        "first",
+        "practice",
+        "session",
+        "Queens"
+      ],
+      "summary": "Shots of Serena Williams' first practice session at Queens Club ahead of her return to the WTA Tour.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'Don't leave that!' | Smith blunder sends bails flying",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13550767/first-test-england-vs-new-zealand-jamie-smith-blunder-sends-bails-flying",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T15:01:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Smith",
+        "leave",
+        "blunder",
+        "sends",
+        "bails",
+        "flying"
+      ],
+      "summary": "Jamie Smith leaves a nip-backer from Kyle Jamieson, sending his bails flying.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'STUNNING!' | Williamson's outrageous one-handed grab dismisses Stokes",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13550774/first-test-england-vs-new-zealand-ben-stokes-caught-by-kane-williamsons-outrageous-one-handed-grab",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T15:21:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Williams",
+        "STUNNING",
+        "Williamson",
+        "outrageous",
+        "handed",
+        "grab"
+      ],
+      "summary": "Kane Williamson took a stunning one-handed grab to dismiss Ben Stokes.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Former jockey Williams jailed for manslaughter",
+      "title_cn": "",
+      "url": "https://www.skysports.com/racing/news/12040/13550785/levi-williams-former-jockey-jailed-for-manslaughter-of-pensioner-he-punched-outside-pub",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-04T15:40:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Williams",
+        "Former",
+        "jockey",
+        "jailed",
+        "manslaughter"
+      ],
+      "summary": "A judge said former jockey Levi Williams &#8220;could have just trotted away&#8221; as he jailed him for the manslaughter of a pensioner he punched outside a pub, causing him to fall and strike his head on the ground.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Football Daily",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nq3htp?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-04T15:11:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Kelly",
+        "Football",
+        "Daily"
+      ],
+      "summary": "Kelly Cates is joined by Pat Nevin and Roddy Forsyth",
+      "summary_cn": ""
+    },
+    {
+      "title": "York City accept Hearts offer for Fagan-Walcott",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c0r2r8lgp5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-04T16:00:01+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Walcott",
+        "York",
+        "City",
+        "accept",
+        "Hearts",
+        "offer"
+      ],
+      "summary": "York City accept what would be a club-record, seven-figure bid for defender Malachi Fagan-Walcott from Heart of Midlothian.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Iran World Cup 2026 team guide",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/iran-world-cup-2026-team-guide",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-04T11:00:05+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Arteta",
-        "Griping",
-        "Tuchel",
-        "handbrake",
-        "makes"
-      ],
-      "summary": "Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel free to yell back What the world needs now is one last hot take on Arsenal and the Champions League final before we are all brought together in beautiful symbiotic harmony by the World Cup. Key questions",
-      "summary_cn": ""
-    },
-    {
-      "title": "England World Cup opponents’ training session goes viral as fans say ‘don’t you dare mess this up’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39306095/england-world-cup-rivals-panama-training-session-viral-video/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-04T11:31:02+00:00",
+      "published": "2026-06-04T15:00:09+00:00",
       "score": 26.0,
       "keywords": [
-        "given",
-        "England",
+        "cooper",
+        "Iran",
         "World",
-        "opponents",
-        "training",
-        "session"
+        "team",
+        "guide"
       ],
-      "summary": "ENGLAND have been told not to \"mess this up\" after footage of a rival in training surfaced. The Three Lions take on Croatia, Ghana and Panama in the group stages of the World Cup. Many would argue the group is one Thomas Tuchel's side should progress from, given Croatia's golden generation is enteri",
+      "summary": "All eyes will be on Team Melli amid the ongoing conflict with the US and Israel, making their campaign one of the most unusual and unpredictable of recent times This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from th",
       "summary_cn": ""
     },
     {
-      "title": "Forgotten Championship star, 36, playing in English SIXTH TIER on how World Cup dream forced him to keep playing",
+      "title": "Lionesses seek to tame Spain again and show they are ready to conquer the world",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39302100/tommy-smith-new-zealand-world-cup-championship-retirement-ipswich/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/football/2026/jun/04/lionesses-seek-to-tame-spain-again-and-show-they-are-ready-to-conquer-the-world",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-04T10:46:56+00:00",
+      "published": "2026-06-04T15:31:17+00:00",
       "score": 26.0,
       "keywords": [
-        "SMITH",
-        "Forgotten",
-        "Championship",
-        "star",
-        "playing",
-        "English"
+        "matic",
+        "Lionesses",
+        "seek",
+        "tame",
+        "Spain",
+        "again"
       ],
-      "summary": "TOMMY SMITH has been hanging on for this World Cup for years now. To the point where the New Zealand defender, 36, has accepted tumbling down the English leagues just to make sure he is fit to play in the All Whites’ long-awaited return to football’s grandest stage. Smith, in line to face Thomas Tuc",
+      "summary": "England are upbeat going into the toughest fixture in international football but the hosts’ threat will be amplified by the returning Bonmatí The equation sounds simple: avoid defeat on Friday and England will qualify automatically for the Women’s World Cup. The reality of the task ahead is far more",
       "summary_cn": ""
     },
     {
-      "title": "Littler set to make first appearance since winning Premier League title",
+      "title": "Liverpool approach Leipzig over Diomande",
       "title_cn": "",
-      "url": "https://www.skysports.com/darts/news/12040/13550718/luke-littler-world-no-1-will-make-his-first-appearance-since-picking-up-his-second-premier-league-title-at-the-nordic-darts-masters",
+      "url": "https://www.skysports.com/football/news/12040/13550816/liverpool-transfer-news-reds-approach-rb-leipzig-over-19-year-old-yan-diomande-with-psg-also-interested",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-04T12:13:00+00:00",
+      "published": "2026-06-04T16:44:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Littler",
-        "make",
-        "first",
-        "appearance",
-        "since",
-        "winning"
+        "Liverpool",
+        "approach",
+        "Leipzig",
+        "Diomande"
       ],
-      "summary": "Luke Littler will make his first appearance since picking up his second Premier League title at the Nordic Darts Masters in Denmark.",
+      "summary": "Liverpool have made contact with RB Leipzig over the potential signing of winger Yan Diomande.",
       "summary_cn": ""
     },
     {
-      "title": "Clarke has no fear of Massey, he's come back from near-death twice",
+      "title": "‘He’ll burn your house down’ – Man Utd owner Sir Jim Ratcliffe accused of threatening Sir Ben Ainslie in £180m boat row",
       "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13546993/cheavon-clarke-has-no-fear-of-jack-massey-hes-dodged-death-twice-normally-youre-meant-to-flatline-from-that",
-      "source": "Sky Sports",
+      "url": "https://www.thesun.co.uk/sport/39308169/ratcliffe-threat-ben-ainslie-ineos-united/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-04T12:00:00+00:00",
+      "published": "2026-06-04T15:21:49+00:00",
       "score": 25.0,
       "keywords": [
-        "Clarke",
-        "fear",
-        "Massey",
-        "come",
-        "back",
-        "near"
+        "Manchester United",
+        "Man Utd",
+        "burn",
+        "house",
+        "down",
+        "owner"
       ],
-      "summary": "Ask Cheavon Clarke how many times he&#8217;s died and his nonchalant reply is \"a couple\".",
+      "summary": "MANCHESTER UNITED chief Sir Jim Ratcliffe is at the centre of a storm after Olympic icon Sir Ben Ainslie claimed he was hit with a “burn your house down” threat. Ainslie claims he was told Ratcliffe would come after him unless he handed over his team's assets and intellectual property, according to ",
       "summary_cn": ""
     },
     {
-      "title": "Guardiola quit '100 times' in the past - Khaldoon",
+      "title": "Liverpool considering transfer for Bournemouth’s Alex Scott after Reds chief bought him to south coast initially",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c17247len5po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/39309640/liverpool-transfer-bournemouth-alex-scott-andoni-iraola/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-04T12:06:11+00:00",
+      "published": "2026-06-04T15:08:37+00:00",
       "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bournemouth",
+        "considering",
+        "transfer",
+        "Alex",
+        "Scott"
+      ],
+      "summary": "LIVERPOOL are considering a move for Bournemouth’s Alex Scott - which would reconnect the England man with old boss Andoni Iraola. Scott, who is in line to make his Three Lions debut on Saturday, has had a stunning campaign for the Cherries under Iraola. The Spanish boss has since left the club and ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sources: Forest reject City's Anderson offer",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48962858/man-city-first-bid-elliot-anderson-rejected-nottingham-forest-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:53:51+00:00",
+      "score": 21.0,
       "keywords": [
         "Manchester City",
-        "Guardiola",
-        "quit",
-        "times",
-        "past",
-        "Khaldoon"
+        "Nottingham Forest",
+        "Forest",
+        "Anderson",
+        "Sources",
+        "reject"
       ],
-      "summary": "Chairman Khaldoon Al Mubarak knew Pep Guardiola was serious about quitting as Manchester City manager after talking him round on previous occasions.",
+      "summary": "Manchester City have had their opening bid for Elliot Anderson rejected by Nottingham Forest, sources have told ESPN.",
       "summary_cn": ""
     },
     {
-      "title": "Riot cops deployed to Benidorm in huge World Cup security operation as tourist hotspot braces for holidaying Brit fans",
+      "title": "City warn Madrid with legal action over Haaland",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39305362/riot-cops-benidorm-world-cup-brit-fans/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-04T11:34:24+00:00",
-      "score": 25.0,
+      "url": "https://www.espn.com/soccer/story/_/id/48963240/manchester-city-threaten-legal-action-real-madrid-erling-haaland-comments-enrique-riquelme-election",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:53:51+00:00",
+      "score": 21.0,
       "keywords": [
-        "Riot",
-        "cops",
-        "deployed",
-        "Benidorm",
-        "huge",
-        "World"
+        "Manchester City",
+        "Haaland",
+        "Erling Haaland",
+        "City",
+        "warn",
+        "Madrid"
       ],
-      "summary": "RIOT cops are set to hit Benidorm's streets as part of a huge World Cup security crackdown in the Brit holiday hotspot. The Costa Blanca resort is bracing for an influx of football fans this summer, with Spanish authorities announcing extra police patrols after predicting thousands of Brits. Benidor",
+      "summary": "Manchester City have threatened legal action after Real Madrid presidential candidate Enrique Riquelme promised to sign Erling Haaland if he's elected.",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal ‘pushing to sign’ £15million wonderkid who made Premier League debut at 15-years-old in first summer transfer",
+      "title": "Leclerc reveals he had other options beyond Ferrari",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39306101/arsenal-transfer-jeremy-monga-leicester/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-04T11:19:55+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Leicester",
-        "pushing",
-        "sign",
-        "wonderkid",
-        "made"
-      ],
-      "summary": "ARSENAL are in talks to sign rising star Jeremy Monga from Leicester City this summer. The Gunners are understood to be pushing to advance a deal for the teenager as they continue their aggressive youth recruitment drive. Monga, 16, signed scholarship terms with Leicester last year after rising thro",
-      "summary_cn": ""
-    },
-    {
-      "title": "Leeds chairman Marathe: I hope Farke stays long beyond next season",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13550727/daniel-farke-leeds-chairman-paraag-marathe-says-he-hopes-the-german-manager-stays-at-elland-road-much-beyond-this-year",
+      "url": "https://www.skysports.com/f1/news/12040/13550675/charles-leclerc-ferrari-driver-says-he-had-other-contract-options-from-f1-rivals-before-signing-new-seal-at-scuderia",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-04T12:23:00+00:00",
+      "published": "2026-06-04T15:00:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Leeds",
-        "chairman",
-        "Marathe",
-        "hope",
-        "Farke",
-        "stays"
+        "Leclerc",
+        "reveals",
+        "other",
+        "options",
+        "beyond",
+        "Ferrari"
       ],
-      "summary": "Leeds chairman Paraag Marathe says he wants manager Daniel Farke to remain at Elland Road \"much beyond this year\".",
+      "summary": "Charles Leclerc has revealed he did have options elsewhere on the grid before signing a new contract with Ferrari but said he firmly believes in the Italian giants' \"plan\" to finally return to the front of F1.",
       "summary_cn": ""
     },
     {
-      "title": "Heat experts warn 'reckless' Fifa of bottle ban health risk",
+      "title": "What is happening with World Cup ticket prices?",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c302gelj8evo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-04T10:21:03+00:00",
+      "published": "2026-06-04T16:12:16+00:00",
       "score": 20.0,
       "keywords": [
-        "Heat",
-        "experts",
-        "warn",
-        "reckless",
-        "Fifa",
-        "bottle"
-      ],
-      "summary": "Fans will not be allowed to take reusable water bottles into World Cup stadiums due to safety concerns, Fifa says in a late policy change.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Wembley defeat, another manager sacked - what's going on at Salford City?",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-04T11:08:07+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Wembley",
-        "defeat",
-        "another",
-        "manager",
-        "sacked",
-        "going"
-      ],
-      "summary": "Famous owners but stuck in League Two with another manager sacked - what's happening at Salford City?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Argentina fans arrive after cycling to Kansas",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/videos/ckgp5gx5nryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-04T11:50:40+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Argentina",
-        "fans",
-        "arrive",
-        "cycling",
-        "Kansas"
-      ],
-      "summary": "Three friends from Argentina arrive in Missouri in Kansas after cycling 10,500 miles from their home in Gualeguaychu to the venue of their team's opening game of the World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Unsold Scotland World Cup tickets put on resale sites",
-      "title_cn": "",
-      "url": "https://www.bbc.com/news/articles/c5y71n7292xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-04T11:23:34+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Unsold",
-        "Scotland",
+        "happening",
         "World",
-        "tickets",
-        "resale",
-        "sites"
+        "ticket",
+        "prices"
       ],
-      "summary": "Dozens of tickets for the Scotland vs Haiti match on 12 June are listed on the third-party sites.",
+      "summary": "With falling prices, fluctuating availability and a lack of clarity, could the biggest World Cup ever see swathes of empty seats?",
       "summary_cn": ""
     },
     {
-      "title": "Mexico’s sexiest fan is sizzling weather girl who lets co-workers kick her bum for World Cup ritual",
+      "title": "Diomande 'admires' PSG amid Liverpool interest",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/38419902/mexico-sexiest-fan-yanet-garcia-world-cup-kick-bum/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-04T10:56:05+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/48963483/yan-diomande-psg-liverpool-rb-leipzig-champions-league",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:53:51+00:00",
+      "score": 15.0,
       "keywords": [
-        "Mexico",
-        "sexiest",
-        "sizzling",
-        "weather",
-        "girl",
-        "lets"
+        "Liverpool",
+        "Diomande",
+        "admires",
+        "amid",
+        "interest"
       ],
-      "summary": "MEXICO are desperate to cause a shock or two as they co-host the World Cup - and that is something sizzling weather girl Yanet Garcia did at the last tournament. The presenter, 35, has been dubbed the country's sexiest fan after taking to social media to back the side. And Garcia was live on air...",
+      "summary": "RB Leipzig winger Yan Diomande has said \"it would be a pleasure\" to play in France, adding that Paris Saint-Germain are a team he has loved since he was \"little\" amid interest from Liverpool.",
       "summary_cn": ""
     },
     {
-      "title": "Inside Argentina’s lavish £56million World Cup 2026 base that Thomas Tuchel ‘thought was too big’ with own smoothie bar",
+      "title": "Transfer rumors, news: Real Madrid keen on Arsenal...",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39304540/argentina-world-cup-2026-base-tuchel-kansas-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-04T10:55:29+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/48963013/transfer-rumors-news-real-madrid-keen-arsenals-calafiori",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T16:13:02+00:00",
+      "score": 15.0,
       "keywords": [
-        "Inside",
-        "Argentina",
-        "lavish",
+        "Arsenal",
+        "Transfer",
+        "rumors",
+        "news",
+        "Real",
+        "Madrid"
+      ],
+      "summary": "Real Madrid are weighing up an approach for Arsenal defender Riccardo Calafiori. Transfer Talk has the latest.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Iran players: U.S. politics, war affect WC prep",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48964030/iran-players-admit-us-politics-war-affect-world-cup-preparations",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:54:14+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Iran",
+        "players",
+        "politics",
+        "affect",
+        "prep"
+      ],
+      "summary": "Iran midfielder Saeid Ezatolahi admitted on Wednesday that preparing for the FIFA World Cup in Turkiye while his country is at war with the primary host nation has been a mental challenge.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Giuliani: WC security challenge 'unprecedented'",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48949556/fifa-world-cup-2026-security-challenge-unprecedented",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:54:15+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Giuliani",
+        "security",
+        "challenge",
+        "unprecedented"
+      ],
+      "summary": "This summer's World Cup will pose an unprecedented security challenge due to its size and scope, but the nation's law enforcement is \"leaning in,\" Andrew Giuliani, executive director of the White House FIFA World Cup 2026 Task Force, told ESPN.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Neymar to miss Brazil's final pre-WC friendly",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48965996/neymar-miss-brazil-final-pre-world-cup-friendly-vs-egypt",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:54:15+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Neymar",
+        "miss",
+        "Brazil",
+        "final",
+        "friendly"
+      ],
+      "summary": "Neymar will not travel with the rest of the Brazil squad for their final pre-World Cup friendly against Egypt on Saturday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Dest 'surprised' by pro-U.S. crowd in USMNT win",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48958053/sergino-dest-world-cup-stadiums-full-usa-fans-special",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:53:51+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Dest",
+        "surprised",
+        "crowd",
+        "USMNT"
+      ],
+      "summary": "U.S. international Sergiño Dest said he was \"pretty surprised\" at the level of fan support the team received at Sunday's 3-2 friendly win over Senegal.",
+      "summary_cn": ""
+    },
+    {
+      "title": "FIFA ban water bottles inside stadiums at WC",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48963581/fifa-bans-fans-bringing-water-bottles-stadiums-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:53:50+00:00",
+      "score": 10.0,
+      "keywords": [
+        "FIFA",
+        "water",
+        "bottles",
+        "inside",
+        "stadiums"
+      ],
+      "summary": "Fans will no longer be able to bring refillable plastic bottles into World Cup stadiums after FIFA changed its policy.",
+      "summary_cn": ""
+    },
+    {
+      "title": "📈 Ranking all 48 World Cup squads",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48941820/world-cup-final-squads-ranked-all-48-national-teams-win-summer",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T15:53:50+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Ranking",
         "World",
-        "base",
-        "Thomas"
+        "squads"
       ],
-      "summary": "JETTING off from Buenos Aires and landing 5,500 miles away, the Argentina national team touched down on US soil ready to begin preparations for the 2026 World Cup.&nbsp; The World Cup holders became the first of four national teams heading for home in Kansas City on Sunday morning.&nbsp; Algeria, En",
+      "summary": "We have the final 26-player squads that can win the FIFA World Cup, so let's go through all 48 teams and rank where they stand.",
       "summary_cn": ""
     },
     {
-      "title": "How many teams are in the World Cup 2026?",
+      "title": "A father-son's Transatlantic, cross-generational v...",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39305359/how-many-teams-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-04T10:38:00+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/48956370/a-father-son-transatlantic-cross-generational-voyage-visit-burnley",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T17:13:31+00:00",
+      "score": 10.0,
       "keywords": [
-        "many",
-        "teams",
-        "World"
+        "father",
+        "Transatlantic",
+        "cross",
+        "generational"
       ],
-      "summary": "THE World Cup has almost landed in North America! Excitement is building around the globe ahead of the huge tournament across the USA, Canada and Mexico. This summer marks the first time the showpiece event has been hosted by three countries. It's also the biggest World Cup ever, with 16 more nation",
+      "summary": "It took a Transatlantic trip to the North of England, in search of a family's football history, to truly experience the purity and love of the game.",
+      "summary_cn": ""
+    },
+    {
+      "title": "How the USMNT went from embarrassment in Italy to ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48893158/how-usmnt-went-italia-90-embarrassment-world-cup-force-1994",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-04T17:13:38+00:00",
+      "score": 10.0,
+      "keywords": [
+        "USMNT",
+        "went",
+        "embarrassment",
+        "Italy"
+      ],
+      "summary": "A World Cup on home soil looms. The last time America hosted, things were very different.",
       "summary_cn": ""
     }
   ]
