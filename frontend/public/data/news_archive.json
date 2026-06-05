@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title": "Sources: Silva set to replace Mourinho at Benfica",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48969484/marco-silva-jose-mourinho-benfica-coach",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-05T02:56:45+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Silva",
+        "Sources",
+        "replace",
+        "Mourinho",
+        "Benfica"
+      ],
+      "summary": "Benfica have reached an agreement with Marco Silva to replace José Mourinho as head coach, sources told ESPN's Bruno Andrade.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-05T04:39:19.620858+00:00"
+    },
+    {
+      "title": "Amad nets late winner as Ivory Coast stun France",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401864934",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-05T02:56:51+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Manchester United",
+        "Amad",
+        "nets",
+        "late",
+        "winner",
+        "Ivory"
+      ],
+      "summary": "Manchester United forward Amad scored a late winner to give Ivory Coast a shock 2-1 victory over a much-changed France in their World Cup warmup match in Nantes.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-05T04:39:19.620858+00:00"
+    },
+    {
+      "title": "Which World Cup records are most likely to be brok...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-05T02:56:49+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "records",
+        "most",
+        "likely",
+        "brok"
+      ],
+      "summary": "This summer's expanded tournament in North America could be one to rewrite the record books.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-05T04:39:19.620858+00:00"
+    },
+    {
+      "title": "Swiss striker Embolo gets U.S. visa after hang-up",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48969072/switzerland-striker-embolo-gets-visa-us-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-05T02:56:52+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Swiss",
+        "striker",
+        "Embolo",
+        "gets",
+        "visa",
+        "hang"
+      ],
+      "summary": "Switzerland striker Breel Embolo received a visa Thursday and is headed to the FIFA World Cup, following a two-day delay in the authorization of his travel to the United States.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-05T04:39:19.620858+00:00"
+    },
+    {
       "title": "Piers Morgan trolls Gary Lineker with ‘rest is boring’ jibe as he teams up with John Terry for rival World Cup podcast",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39313555/piers-morgan-gary-lineker-world-cup-podcast/",
