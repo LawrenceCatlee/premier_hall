@@ -1,6 +1,515 @@
 {
   "items": [
     {
+      "title": "Pep Guardiola’s close friendship with stunning TV pundit Natalie Pike revealed as pair bond over Man City interviews",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39330023/pep-guardiola-man-cuty-natalie-pike-pundit/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-06T20:20:32+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Guardiola",
+        "close",
+        "friendship",
+        "stunning"
+      ],
+      "summary": "BROADCASTER Natalie Pike helped Manchester City fans say farewell to their record-breaking boss — then shared a message telling him: “I love you, Pep.” The pair formed a close friendship after chatting regularly for the club TV channel. Natalie, a former model for FHM magazine, conducted Pep’s final",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T22:10:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Bournemouth",
+        "matic",
+        "Clarke",
+        "stuns",
+        "Massey"
+      ],
+      "summary": "Cheavon Clarke recovered from being knocked down twice to deliver a sensational seventh-round stoppage of Jack Massey in a dramatic cruiserweight clash in Bournemouth.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Fight of the year?! Billam-Smith claims epic hometown win over Rozicki",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13551383/chris-billam-smith-claims-hometown-victory-over-ryan-rozicki-after-dramatic-stoppage-in-epic-cruiserweight-contest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T21:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Bournemouth",
+        "Smith",
+        "matic",
+        "Fight",
+        "year",
+        "Billam"
+      ],
+      "summary": "Chris Billam-Smith moved himself back into world title contention after a dramatic stoppage victory over Ryan Rozicki in a bruising cruiserweight clash in Bournemouth.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "PSG could rival Arsenal for Gibbs-White - Sunday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz3wy5d25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-06T21:43:30+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Silva",
+        "Bernardo Silva",
+        "rival",
+        "Gibbs",
+        "White"
+      ],
+      "summary": "Arsenal could face competition from Paris St-Germain for Morgan Gibbs-White, Khvicha Kvaratskhelia is the mystery player wanted by Real Madrid, and new Real coach Jose Mourinho is eyeing Bernardo Silva.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Scotland thrash Bolivia ahead of World Cup opener",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13551165/bolivia-0-4-scotland-che-adams-scores-twice-in-emphatic-world-cup-warm-up-win",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T22:58:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Adams",
+        "Scotland",
+        "thrash",
+        "Bolivia",
+        "ahead",
+        "World"
+      ],
+      "summary": "Che Adams scored twice as a dominant Scotland thrashed Bolivia 4-0 in New Jersey in their final friendly before getting their World Cup campaign under way next week.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Billam-Smith secures TKO win over Rozicki in EPIC battle",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13551511/highlights-billam-smith-secures-tko-win-over-rozicki-in-epic-battle",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T21:54:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Smith",
+        "Billam",
+        "secures",
+        "Rozicki",
+        "EPIC",
+        "battle"
+      ],
+      "summary": "Ryan Rozicki was pulled out of the fight after the seventh round following an instant classic with Chris Billam-Smith.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "'You deserve to be knighted!' - Fans jump on chance to take McIlroy picture!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13551512/the-memorial-tournament-fans-jump-on-opportunity-to-take-picture-with-rory-mcilroy",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T21:57:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "knight",
+        "deserve",
+        "knighted",
+        "Fans",
+        "jump",
+        "chance"
+      ],
+      "summary": "Rain stopping play is the perfect opportunity for some fans to take a picture with Rory McIlroy at The Memorial Tournament!",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Wales must be better after Romania woe - Bellamy",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cy736ndkknno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-06T20:40:57+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Bellamy",
+        "Craig Bellamy",
+        "Wales",
+        "must",
+        "better",
+        "Romania"
+      ],
+      "summary": "Head coach Craig Bellamy says Wales need to significantly improve following their 2-1 friendly defeat by Romania in Bucharest.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Adams at the double as Scotland thrash Bolivia in World Cup warm-up",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/scotland-bolivia-world-cup-warm-up-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-06T22:04:40+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Adams",
+        "double",
+        "Scotland",
+        "thrash",
+        "Bolivia",
+        "World"
+      ],
+      "summary": "“I think a medal of some sort will come. I pray and hope that it is the gold one.” Ally MacLeod was never to live down his hubris of 1978 . A Scotland loss to Peru and draw with Iran saw to that. Unlike MacLeod, Steve Clarke has never been prone to bold or rash predictions. Excitement will be left t",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "US show fight and hunger, but lose final World Cup prep match 2-1 to Germany",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/usmnt-germany-world-cup-friendly-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-06T20:45:29+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Robinson",
+        "show",
+        "fight",
+        "hunger",
+        "lose",
+        "final"
+      ],
+      "summary": "Antonee Robinson scores the Americans’ only goal US open World Cup on 12 June against Paraguay World Cup newsletter | Daily podcast | Get the app Ready or not, here comes the group stage. The US men concluded their pre-World Cup preparations with a 2-1 loss against Germany on Saturday at Soldier Fie",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Who is England vs New Zealand referee Natalie Simon?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39330578/natalie-simon-referee/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-06T20:51:38+00:00",
+      "score": 26.0,
+      "keywords": [
+        "James",
+        "England",
+        "Zealand",
+        "referee",
+        "Natalie",
+        "Simon"
+      ],
+      "summary": "ENGLAND are taking on New Zealand in a pre-World Cup friendly TONIGHT. Natalie Simon is officiating the match at the Raymond James Stadium, the home of the Tampa Bay Buccaneers. ENGLAND VS NEW ZEALAND LIVE SunSport brings you the lowdown on the referee. Who is England vs New Zealand referee Natalie ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Arsenal latest: 'Gunners make approach to sign PSG defender'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T22:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "latest",
+        "Gunners",
+        "make",
+        "approach",
+        "sign"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Russell Martin, 40, closing in on return to English football after bruising stint in charge of Rangers",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39330979/russell-martin-leicester-job-rangers-horror/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-06T21:38:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Leicester",
+        "Russell",
+        "Martin",
+        "closing",
+        "return",
+        "English"
+      ],
+      "summary": "RUSSELL MARTIN is in discussions to become the new Leicester City boss as the Foxes plan for life in League One next season. Martin is looking to rebuild his managerial&nbsp;career after a bruising spell at Rangers where he was axed after just four months in charge of the Scottish giants. The 40-yea",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "West Ham chief steps down in wake of 'allegations'...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48982823/david-sullivan-steps-chairman-west-ham-16-years",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:31:57+00:00",
+      "score": 21.0,
+      "keywords": [
+        "West Ham",
+        "Sullivan",
+        "West",
+        "chief",
+        "steps",
+        "down"
+      ],
+      "summary": "David Sullivan has stepped down as chairman of West Ham with immediate effect.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-06T20:30:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "watch",
+        "World"
+      ],
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "England 1 New Zealand 0: Three Lions kick off American adventure with a win as fans get early taste of bonkers prices",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39330677/england-new-zealand-match-report-world-cup-florida/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-06T21:58:17+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "Zealand",
+        "Lions",
+        "kick",
+        "American",
+        "adventure"
+      ],
+      "summary": "IN THE first ever England match played in front of a pirate ship, Thomas Tuchel and his squad started their North American adventure. The hope, naturally, is they will not sink without trace. The last time England prepared for a World Cup in Florida - ahead of the 2014 tournament in Brazil - Roy Hod",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Secret £500,000 England World Cup victory parade lined up if Three Lions lift trophy in US",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39329745/england-world-cup-victory-parade/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-06T20:46:34+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Secret",
+        "England",
+        "World",
+        "victory",
+        "parade",
+        "lined"
+      ],
+      "summary": "THE Government is secretly working on plans for a massive £500,000 parade if England win the World Cup, The Sun on Sunday can reveal. Civil servants have been tasked with preparing nationwide festivities on the basis Thomas Tuchel’s side go all the way this summer. Plans are under way for one of Bri",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Iran says U.S. denied visas to key WC officials",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48984862/iran-usa-world-cup-visas-officials-2026",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:31:57+00:00",
+      "score": 18.0,
+      "keywords": [
+        "Iran",
+        "denied",
+        "visas",
+        "officials"
+      ],
+      "summary": "Iran's soccer federation has accused the United States of \"vindictive behavior\" after saying that visas were refused for \"key managerial and administrative members\" of its World Cup team.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "USMNT player ratings: Robinson 7/10 performance a ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48985529/usmnt-player-ratings-antonee-robinson-bright-spot-loss-germany",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:29:47+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Robinson",
+        "USMNT",
+        "player",
+        "ratings",
+        "performance"
+      ],
+      "summary": "Antonee Robinson's stunning volley was the biggest highlight for the USMNT, which fell short in its final game before the World Cup begins.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Leão sent off for punching opponent in Portugal wi...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862883",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:32:36+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Rafael",
+        "sent",
+        "punching",
+        "opponent",
+        "Portugal"
+      ],
+      "summary": "Portugal forward Rafael Leão was sent off for punching an opponent during a 2-0 win over Chile in a World Cup warmup on Saturday.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Pre-World Cup friendly recap: Germany edge USMNT d...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48959298/live-updates-united-states-vs-germany-soccer-final-friendly-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:29:47+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "friendly",
+        "recap",
+        "Germany",
+        "edge",
+        "USMNT"
+      ],
+      "summary": "Despite losing to Germany, U.S. coach Mauricio Pochettino had plenty of positives to take away.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "U.S. sharp in narrow WC sendoff loss to Germany",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/762260",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:31:57+00:00",
+      "score": 10.0,
+      "keywords": [
+        "sharp",
+        "narrow",
+        "sendoff",
+        "loss",
+        "Germany"
+      ],
+      "summary": "The United States lost 2-1 to Germany at Soldier Field in Chicago on Saturday in its last match before the start of the FIFA World Cup, turning in another solid performance after Sunday's 3-2 win over Senegal.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Argentina's Balerdi out of WCup with calf injury",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48985334/argentina-defender-leonardo-balerdi-suffers-calf-injury-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:32:36+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Argentina",
+        "Balerdi",
+        "WCup",
+        "calf",
+        "injury"
+      ],
+      "summary": "Argentina defender Leonardo Balerdi has been ruled out of the World Cup due to a calf injury.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "FIFA reverses WC water bottle ban after backlash",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:31:57+00:00",
+      "score": 10.0,
+      "keywords": [
+        "FIFA",
+        "reverses",
+        "water",
+        "bottle",
+        "backlash"
+      ],
+      "summary": "FIFA has reversed its decision to bar World Cup fans from bringing refillable water bottles into the tournament's 16 stadiums across North America, following fierce backlash.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "Messi 'doing well', could play World Cup warmups",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48979047/scaloni-messi-doing-well-set-minutes-world-cup-warmups",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:31:57+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Messi",
+        "doing",
+        "well",
+        "play",
+        "World",
+        "warmups"
+      ],
+      "summary": "Argentina coach Lionel Scaloni said Lionel Messi is improving from muscle fatigue in his left hamstring and could play some minutes in the warmups before his team's World Cup debut on June 16.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
+      "title": "SoFi workers authorize strike days before WCup",
+      "title_cn": "",
+      "url": "https://www.espn.com/espn/story/_/id/48980083/sofi-stadium-workers-authorize-strike-ahead-usa-world-cup-opener",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-06T22:31:57+00:00",
+      "score": 10.0,
+      "keywords": [
+        "SoFi",
+        "workers",
+        "authorize",
+        "strike",
+        "days",
+        "WCup"
+      ],
+      "summary": "Service workers at SoFi Stadium have voted to authorize a potential strike just days before the venue is scheduled to host the United States opening World Cup match against Paraguay on June 12.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-06T22:11:32.255305+00:00"
+    },
+    {
       "title": "McKenna BLASTS through Streeter with first round ‘phonebox fight’ KO!",
       "title_cn": "",
       "url": "https://www.skysports.com/watch/video/13551489/stephen-mckenna-blasts-through-casey-streeter-with-first-round-phonebox-fight-ko",
