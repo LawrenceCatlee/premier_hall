@@ -1,118 +1,312 @@
 {
-  "updated_at": "2026-06-07T14:13:56.811962+00:00",
+  "updated_at": "2026-06-07T16:24:34.462790+00:00",
   "items": [
     {
-      "title": "'Big things coming! - what next for Zuffa Boxing after 'incredible' UK debut?",
+      "title": "Jose Mourinho ‘asks Real Madrid to sign Man Utd target Mateus Fernandes’ as West Ham demand £80MILLION",
       "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13551618/what-next-for-zuffa-boxing-after-uk-debut-dana-white-celebrates-bournemouth-show-and-teases-big-announcements-ahead",
+      "url": "https://www.thesun.co.uk/sport/39333545/mourinho-real-madrid-man-utd-mateus-fernandes-west-ham/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-07T14:30:10+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "West Ham",
+        "Man Utd",
+        "Fernandes",
+        "Jose",
+        "Mourinho"
+      ],
+      "summary": "JOSE MOURINHO could scupper his old club Manchester United’s hopes of landing midfielder Mateus Fernandes this summer. The Special One, 63, is set to make a sensational return to the Real Madrid dugout if president Florentino Perez bags another term in charge. And that could spell bad news for Unite",
+      "summary_cn": ""
+    },
+    {
+      "title": "Explained: Why Russell was given drive-through penalty",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13551693/monaco-gp-why-george-russell-was-given-drive-through-penalty",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-07T13:00:00+00:00",
+      "published": "2026-06-07T16:00:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Smith",
-        "things",
-        "coming",
-        "next",
-        "Zuffa",
-        "Boxing"
+        "given",
+        "speed",
+        "Explained",
+        "Russell",
+        "drive",
+        "through"
       ],
-      "summary": "Even before Chris Billam-Smith&#8217;s brutal battle with Ryan Rozicki and gruelling hometown victory, Dana White was already left 'pumped' by the early success of Zuffa Boxing&#8217;s first show on UK soil.",
+      "summary": "Anthony Davidson was at the SkyPad to explain why George Russell was given a drive-through penalty for not serving a previous speeding penalty.",
       "summary_cn": ""
     },
     {
-      "title": "Iran's World Cup team lands in Mexico amid US visa row",
+      "title": "Senegal World Cup 2026 team guide",
       "title_cn": "",
-      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.theguardian.com/football/2026/jun/07/senegal-world-cup-2026-team-guide",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-07T13:24:50+00:00",
-      "score": 20.0,
+      "published": "2026-06-07T15:00:05+00:00",
+      "score": 26.0,
       "keywords": [
-        "Iran",
+        "cooper",
+        "Senegal",
         "World",
         "team",
-        "lands",
-        "Mexico",
-        "amid"
+        "guide"
       ],
-      "summary": "All of Iran's group games are in the US, but players and support staff will have to fly in and out of the country on match day.",
+      "summary": "A refreshed Lions of Teranga will aim to channel the smoothness of qualification rather than the chaotic aftermath of Afcon This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries who qualified. theguar",
       "summary_cn": ""
     },
     {
-      "title": "How Scotland reached the World Cup - told by those who made it happen",
+      "title": "‘We are upset’: Iran players hit out at US visa delay after World Cup arrival in Mexico",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/ckgl75x45z5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.theguardian.com/football/2026/jun/07/iran-players-us-visa-delays-world-cup-2026-mexico",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-07T13:09:49+00:00",
-      "score": 20.0,
+      "published": "2026-06-07T15:55:48+00:00",
+      "score": 26.0,
       "keywords": [
-        "Scotland",
-        "reached",
-        "World",
-        "told",
-        "those",
-        "made"
+        "matic",
+        "upset",
+        "Iran",
+        "players",
+        "visa",
+        "delay"
       ],
-      "summary": "Tom English speaks to those who returned Scotland to the men's World Cup finals for the first time since 1998 about the epic win over Denmark.",
+      "summary": "Team are based in Tijuana with all group games in US Iran FA labels visa issues ‘political interference in sport’ Iran’s World Cup 2026 squad landed in Mexico on Sunday amid a bitter diplomatic row, after the United States refused to issue visas for some team support staff. The Iran coach, Amir Ghal",
       "summary_cn": ""
     },
     {
-      "title": "World Cup 2022’s ‘sexiest fan’ Ivana Knoll now making her own way as DJ and mixing it with music royalty",
+      "title": "World Cup drinks prices revealed as England fans face paying £13.50 for a beer and over £5 for bottled water",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/38131270/world-cup-sexiest-fan-ivana-knoll-dj-music-royalty/",
+      "url": "https://www.thesun.co.uk/sport/39334015/world-cup-drinks-prices-beer-water/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-07T13:23:07+00:00",
-      "score": 20.0,
+      "published": "2026-06-07T15:49:32+00:00",
+      "score": 26.0,
       "keywords": [
+        "James",
+        "Harry Kane",
         "World",
-        "sexiest",
-        "Ivana",
-        "Knoll",
-        "making",
-        "mixing"
+        "drinks",
+        "prices",
+        "revealed"
       ],
-      "summary": "IVANA KNOLL has been making it as a DJ since shooting to fame at the World Cup in 2022. The Croatia superfan became one of the most recognisable faces in Qatar for her daring outfits and stunning looks. Ivana, 33, made appearances at all of Croatia's games in their run to the third-place play-off ma",
+      "summary": "ENGLAND supporters heading to the USA to support the Three Lions are set for a hefty bar bill. Many made the trip to Tampa's Raymond James stadium to watch Harry Kane and Co win a warm-up match against New Zealand on Saturday 1-0. And any that needed to quench their thirst with a swift cold...",
       "summary_cn": ""
     },
     {
-      "title": "Switzerland’s World Cup training camp surrounded by SNAKE AREA as players and staff warned",
+      "title": "Tottenham have TWO transfer offers rejected for £70million-rated Brighton star as CEO warns of other clubs circling",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39333187/switzerland-world-cup-training-camp-snakes/",
+      "url": "https://www.thesun.co.uk/sport/39333946/tottenham-transfer-offers-rejected-jan-paul-van-hecke-brighton/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-07T13:15:04+00:00",
-      "score": 20.0,
+      "published": "2026-06-07T15:21:13+00:00",
+      "score": 25.0,
       "keywords": [
-        "Switzerland",
-        "World",
-        "training",
-        "camp",
-        "surrounded",
-        "SNAKE"
+        "Brighton",
+        "Tottenham",
+        "Spurs",
+        "transfer",
+        "offers",
+        "rejected"
       ],
-      "summary": "SWITZERLAND'S World Cup stars are on red alert after being warned of SNAKES next to their training camp. The Swiss have jetted out to San Diego to prepare for their World Cup opener against Qatar on June 13. The team are already dealing with humid temperatures in the US as they get used to their...",
+      "summary": "TOTTENHAM have had TWO bids rejected for £70million-rated Brighton defender Jan Paul van Hecke. Spurs chief Roberto De Zerbi is desperate to bolster his squad after only narrowly avoiding relegation from the Premier League. And the former Brighton boss is eyeing a reunion with Van Hecke, 25, this su",
       "summary_cn": ""
     },
     {
-      "title": "Dropped France star goes to Harvard University just five miles from team-mates’ World Cup base",
+      "title": "Iran says U.S. denied visas to key WC officials",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39333196/world-cup-eduardo-camavinga-harvard-france/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-07T13:12:03+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/48984862/iran-usa-world-cup-visas-officials-2026",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T14:35:40+00:00",
+      "score": 18.0,
       "keywords": [
-        "Dropped",
+        "Iran",
+        "denied",
+        "visas",
+        "officials"
+      ],
+      "summary": "Iran's soccer federation has accused the United States of \"vindictive behavior\" after saying that visas were refused for \"key managerial and administrative members\" of its World Cup team.",
+      "summary_cn": ""
+    },
+    {
+      "title": "USMNT player ratings: Robinson 7/10 performance a ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48985529/usmnt-player-ratings-antonee-robinson-bright-spot-loss-germany",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T17:05:05+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Robinson",
+        "USMNT",
+        "player",
+        "ratings",
+        "performance"
+      ],
+      "summary": "Antonee Robinson's stunning volley was the highlight for the USMNT in its final game before the World Cup.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Leão sent off for punching opponent in Portugal wi...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862883",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T14:35:40+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Rafael",
+        "sent",
+        "punching",
+        "opponent",
+        "Portugal"
+      ],
+      "summary": "Portugal forward Rafael Leão was sent off for punching an opponent during a 2-0 win over Chile in a World Cup warmup on Saturday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Dembélé: France to end Deschamps' reign on top",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48988194/dembele-france-end-deschamps-reign-trophy",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T14:35:40+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Dembélé",
         "France",
-        "star",
-        "goes",
-        "Harvard",
-        "University"
+        "Deschamps",
+        "reign"
       ],
-      "summary": "EDUARDO CAMAVINGA headed to Harvard University after missing out on France's World Cup squad... just five miles from Les Blues' training base. The Real Madrid superstar, 23, was surprisingly left out of boss Didier Deschamps' 26-man roster. Rather than sulk, Camavinga jetted across the pond to visit",
+      "summary": "France winger Ousmane Dembele said the impending departure of manager Didier Deschamps is not a distraction for the squad heading into the FIFA World Cup, but is more of a motivator for the team to finish his reign on a high note.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Kane: Heat 'won't be a factor' at World Cup",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48991196/summer-heat-factor-england-world-cup-harry-kane",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T14:35:40+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Harry Kane",
+        "Kane",
+        "Heat",
+        "factor",
+        "World"
+      ],
+      "summary": "Harry Kane has said he thinks England's World Cup preparations means the much-publicised high temperatures at this summer's tournament \"won't be a factor.\"",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wilson scores early but USWNT beaten in Brazil",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401870096",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T14:35:40+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Wilson",
+        "scores",
+        "early",
+        "USWNT",
+        "beaten",
+        "Brazil"
+      ],
+      "summary": "Sophia Wilson scored her first goal for the United States since 2024 but Brazil rallied to a 2-1 win in Saturday's international friendly in Sao Paulo.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Transfer rumors, news: UCL finalists Arsenal, PSG ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48990165/transfer-rumors-news-arsenal-psg-fight-nottingham-forest-morgan-gibbs-white",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T16:54:27+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Arsenal",
+        "Nottingham Forest",
+        "Forest",
+        "Transfer",
+        "rumors",
+        "news"
+      ],
+      "summary": "Arsenal could face strong competition from Paris Saint-Germain for the signature of Nottingham Forest midfielder Morgan Gibbs-White. Transfer Talk has the latest.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Is the USMNT ready for the World Cup? After loss t...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48986237/is-usmnt-ready-world-cup-loss-germany-jury-out",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T17:05:05+00:00",
+      "score": 10.0,
+      "keywords": [
+        "USMNT",
+        "ready",
+        "World",
+        "loss"
+      ],
+      "summary": "The U.S. provided reasons for both encouragement and frustration in the final tuneup before its World Cup opener June 12.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Poch finally feels WC 'excitement' building in U.S...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48986368/pochettino-feels-wc-excitement-united-states",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T14:35:40+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Poch",
+        "finally",
+        "feels",
+        "excitement",
+        "building"
+      ],
+      "summary": "United States coach Mauricio Pochettino said he could finally feel the excitement he expected to see from the American fanbase during his team's 2-1 loss to Germany on Saturday at Soldier Field -- its final game before the start of the World Cup.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Messi left on bench as Argentina beat Honduras",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401868047",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T14:35:40+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Messi",
+        "left",
+        "bench",
+        "Argentina",
+        "beat",
+        "Honduras"
+      ],
+      "summary": "Argentina beat Honduras 2-0 on Saturday in their second-to-last friendly before the FIFA World Cup begins on June 11.",
+      "summary_cn": ""
+    },
+    {
+      "title": "👀Who could use World Cup to get big transfer?",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-07T14:35:40+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "transfer"
+      ],
+      "summary": "The World Cup is the biggest stage in sports, so which players are hoping to use it to get their next big transfer?",
       "summary_cn": ""
     }
   ]
