@@ -1,6 +1,243 @@
 {
   "items": [
     {
+      "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-06T22:30:39+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Harry Kane",
+        "Irreplaceable",
+        "Ballon",
+        "contender",
+        "Kane",
+        "time"
+      ],
+      "summary": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Scotland thrash Bolivia ahead of World Cup opener",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T22:58:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Adams",
+        "Scotland",
+        "thrash",
+        "Bolivia",
+        "ahead",
+        "World"
+      ],
+      "summary": "Che Adams scored twice as a dominant Scotland thrashed Bolivia 4-0 in New Jersey in their final friendly before getting their World Cup campaign under way next week.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Woad given two-shot penalty for bunker infringement at US Women's Open",
+      "title_cn": "",
+      "url": "https://www.skysports.com/golf/news/12040/13551542/us-womens-open-lottie-woad-given-two-shot-penalty-for-bunker-infringement-during-third-round",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T23:16:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "given",
+        "Woad",
+        "shot",
+        "penalty",
+        "bunker",
+        "infringement"
+      ],
+      "summary": "Lottie Woad was handed a two-stroke penalty during the third round of the US Women's Open on Saturday following a rule breach in a bunker.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Iraq World Cup 2026 team guide",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/07/iraq-world-cup-2026-team-guide",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-06T23:01:16+00:00",
+      "score": 26.0,
+      "keywords": [
+        "cooper",
+        "Iraq",
+        "World",
+        "team",
+        "guide"
+      ],
+      "summary": "Graham Arnold’s team have overcome adversity on and off the pitch, but may benefit from the pressure being off them in a tough group This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries who qualified",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-06T22:53:35+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Stones",
+        "Stone",
+        "Harry Kane",
+        "England",
+        "Zealand",
+        "five"
+      ],
+      "summary": "Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks a weak link England may as well pack their bags and go home if Harry Kane picks up an injury. The captain laboured through Euro 2024, leaving some to wonder if his international career was winding dow",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Papers: Gibbs-White on Arsenal shortlist as Rogers alternative",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13551535/morgan-gibbs-white-nottingham-forest-forward-on-arsenal-shortlist-as-alternative-to-morgan-rogers-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T23:12:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Papers",
+        "Gibbs",
+        "White",
+        "shortlist",
+        "Rogers"
+      ],
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Wakefield snatch last-gasp victory over Hull KR",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13551490/wakefield-trinity-26-24-hull-kr-super-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-07T00:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Wakefield",
+        "snatch",
+        "last",
+        "gasp",
+        "victory",
+        "Hull"
+      ],
+      "summary": "Highlights of the Super League match between Wakefield Trinity and Hull KR.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Solid win for Toulouse over struggling Giants",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13551459/huddersfield-giants-16-36-toulouse-olympique-super-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-07T00:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Solid",
+        "Toulouse",
+        "struggling",
+        "Giants"
+      ],
+      "summary": "Highlights of the Super League match between Huddersfield Giants and Toulouse Olympique.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Clarke hails 'fantastic problems' with starting choices",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13551549/scotland-steve-clarke-has-fantastic-problems-in-terms-of-selection-ahead-of-world-cup-opener",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-06T23:38:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Clarke",
+        "hails",
+        "fantastic",
+        "problems",
+        "starting",
+        "choices"
+      ],
+      "summary": "Steve Clarke says he has \"fantastic problems\" in terms of selection after Scotland concluded their World Cup warm-up matches with an emphatic win over Bolivia.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "This was a training game - England & Tuchel now need to get serious",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-06T23:35:51+00:00",
+      "score": 20.0,
+      "keywords": [
+        "training",
+        "game",
+        "England",
+        "Tuchel",
+        "need",
+        "serious"
+      ],
+      "summary": "England have one more game to prepare for their World Cup campaign - and they must use it wisely, writes Phil McNulty.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-06T23:31:18+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Patient",
+        "precise",
+        "clinical",
+        "Scotland",
+        "ready",
+        "make"
+      ],
+      "summary": "Scotland thrash Bolivia and are in decent fettle one week out from the biggest game of their international lives.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
+      "title": "Scotland score four in first half to beat Bolivia",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/c3ryd40w04xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-06T22:58:52+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scotland",
+        "score",
+        "four",
+        "first",
+        "half",
+        "beat"
+      ],
+      "summary": "Watch the goals as Scotland score four in the first half to beat Bolivia in their final World Cup warm-up.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-07T00:13:18.174619+00:00"
+    },
+    {
       "title": "Pep Guardiola’s close friendship with stunning TV pundit Natalie Pike revealed as pair bond over Man City interviews",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39330023/pep-guardiola-man-cuty-natalie-pike-pundit/",
