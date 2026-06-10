@@ -1,135 +1,212 @@
 {
-  "updated_at": "2026-06-10T16:41:38.194638+00:00",
+  "updated_at": "2026-06-10T19:42:23.151810+00:00",
   "items": [
     {
-      "title": "Senesi signs for Tottenham on free transfer from Bournemouth",
+      "title": "Man United v Leeds United ticket and hospitality packages at Croke Park from just £172 for pre-season clash in Dublin",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13549085/marcos-senesi-tottenham-sign-bournemouth-defender-on-free-transfer-after-four-year-stay-at-cherries",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-10T17:20:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Tottenham",
-        "Bournemouth",
-        "Senesi",
-        "signs",
-        "free",
-        "transfer"
-      ],
-      "summary": "Marcos Senesi has signed for Tottenham on a free transfer from Bournemouth.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Croatia World Cup 2026 team guide",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/croatia-world-cup-2026-team-guide",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-10T15:00:50+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Tottenham",
-        "cooper",
-        "Croatia",
-        "World",
-        "team",
-        "guide"
-      ],
-      "summary": "Luka Modric and friends are aiming for one last hurrah but a Tottenham defender is providing hope for the future for England’s group opponents This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries who",
-      "summary_cn": ""
-    },
-    {
-      "title": "Elliot Anderson confident of Man City transfer amid Manchester United interest",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39362988/elliot-anderson-transfer-news-latest-man-utd/",
+      "url": "https://www.thesun.co.uk/sport/39307927/man-united-leeds-croke-park-tickets-hospitality/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-10T15:44:30+00:00",
+      "published": "2026-06-10T19:32:43+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Man United",
+        "Man Utd",
+        "Dublin",
+        "United",
+        "Leeds",
+        "ticket"
+      ],
+      "summary": "MAN United fans have the chance to catch their heroes in pre-season action against bitter rivals Leeds. This highly anticipated clash - which is likely to be far from 'friendly' - is taking place at the iconic Croke Park Stadium in Dublin on Wednesday, 12th August. See Man Utd v Leeds And official h",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal legend, 31, ‘agrees shock Man City transfer with Chelsea star, 26, also close to rival switch’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39367844/beth-mead-arsenal-manchester-city-wsl-transfer-chelsea-charles/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-10T18:34:58+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester City",
+        "Man City",
+        "legend",
+        "agrees"
+      ],
+      "summary": "ARSENAL star Beth Mead will join Manchester City this summer in another high-profile WSL transfer. According to reports, City are also set to add Chelsea defender Niamh Charles to their squad. The Athletic write that Andree Jeglertz's side have agreed deals to bring in both players from their two cl",
+      "summary_cn": ""
+    },
+    {
+      "title": "McKenna stepping down as Ipswich boss to take break from football",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13552342/kieran-mckenna-stepping-down-as-ipswich-boss-to-take-a-break-from-football-amid-fulham-interest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-10T18:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Ipswich",
+        "Kenna",
+        "McKenna",
+        "stepping",
+        "down",
+        "boss"
+      ],
+      "summary": "Kieran McKenna&#160;is stepping down as Ipswich manager to take a break from football.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Essex Police given new Sullivan information",
+      "title_cn": "",
+      "url": "https://www.bbc.com/news/articles/c802l191rd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-10T19:19:54+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Sullivan",
+        "given",
+        "Essex",
+        "Police",
+        "information"
+      ],
+      "summary": "Police have been contacted with new information about the West Ham co-owner following a BBC Panorama and Times investigation.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rashford future uncertain as Barca deal deadline looms",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c3ryx74peyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-10T19:01:14+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man Utd",
+        "Marcus Rashford",
+        "Rashford",
+        "future",
+        "uncertain",
+        "Barca"
+      ],
+      "summary": "Man Utd are yet to be told whether Barcelona intend to sign England international Marcus Rashford for £26m before 15 June deadline following his loan spell.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City launch new Elliot Anderson bid to make World Cup star most expensive English player in Prem history",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39368333/elliot-anderson-manchester-city-bid-nottingham-forest-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-10T19:18:26+00:00",
       "score": 31.0,
       "keywords": [
         "Manchester City",
-        "Manchester United",
+        "Nottingham Forest",
         "Man City",
         "Forest",
         "Anderson",
-        "Elliot"
+        "City"
       ],
-      "summary": "ELLIOT ANDERSON is confident of joining Manchester City this summer. Well-placed sources say ongoing discussions between City and Forest have still been productive and Anderson could leave for a fee in excess of £100million. Multiple sources believe that Anderson would prefer to join City, who are d",
+      "summary": "MANCHESTER CITY are ready to make Elliot Anderson the most expensive English player in Prem history. The Etihad giants have launched a second bid believed to be worth around £106million up front for the Nottingham Forest ace. And the offer also includes a series of add-ons if the 23-year-old proves ",
       "summary_cn": ""
     },
     {
-      "title": "‘We’re not under 12s’ – Roy Keane reveals how CHEESE SANDWICH row led to him refusing to play at World Cup",
+      "title": "McKenna quits as Ipswich boss after PL promotion",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39365817/roy-keane-cheese-sandwich-row-world-cup-mccarthy-ireland/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-10T15:34:39+00:00",
-      "score": 31.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49020542/kieran-mckenna-steps-ipswich-manager-five-seasons",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-10T20:29:25+00:00",
+      "score": 29.0,
       "keywords": [
-        "Manchester United",
-        "Keane",
-        "McCarthy",
-        "Roy Keane",
-        "Ireland",
-        "under"
+        "Ipswich",
+        "Kenna",
+        "McKenna",
+        "quits",
+        "boss",
+        "promotion"
       ],
-      "summary": "FOR the first time in years, Roy Keane has lifted the lid on some of the troubles he had with Mick McCarthy that led to him leaving Ireland's World Cup squad back in 2002. The Manchester United legend famously left the country's camp after a blistering falling-out with McCarthy, who was the Emerald ",
+      "summary": "Kieran McKenna has stepped down as Ipswich Town manager after five seasons in the job, the club have confirmed.",
       "summary_cn": ""
     },
     {
-      "title": "Who is performing at World Cup 2026 opening ceremonies?",
+      "title": "'Not a sackable offence' - Atherton, Hussain back Stokes over England future",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39072360/who-is-performing-world-cup-2026-opening-ceremony/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-10T14:55:30+00:00",
-      "score": 28.0,
-      "keywords": [
-        "performing",
-        "World",
-        "opening",
-        "ceremonies"
-      ],
-      "summary": "THE World Cup is ALMOST upon is - with 48 countries playing to become the official world champions! The blockbuster tournament takes place in USA, Mexico and Canada over the course of June and July, with the final on July 19. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS And, with a tournament this...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Everton appeal against order to pay £35m to Burnley over PSR breach",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13552745/everton-appeal-order-to-pay-burnley-40m-in-compensation-over-psr-breaches-in-june-2022",
+      "url": "https://www.skysports.com/cricket/news/12040/13552791/ben-stokes-former-england-captains-michael-atherton-and-nasser-hussain-on-why-nightclub-incident-is-not-a-sackable-offence",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-10T15:15:00+00:00",
-      "score": 25.0,
+      "published": "2026-06-10T19:00:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Everton",
-        "appeal",
-        "against",
-        "order",
-        "Burnley",
-        "breach"
+        "Atherton",
+        "sackable",
+        "offence",
+        "Hussain",
+        "back",
+        "Stokes"
       ],
-      "summary": "Everton have launched an appeal after being ordered to pay Burnley &#163;35m in compensation after they were sued over Premier League profitability and sustainability breaches from the 2021/22 season when the Clarets were relegated.",
+      "summary": "Former England captains Michael Atherton and Nasser Hussain both believe Ben Stokes' breach of team protocols is not a sackable offence, although admit 'he has a decision' to make over his future.",
       "summary_cn": ""
     },
     {
-      "title": "Ivan Toney claims ‘aura and swagger’ got him into England squad with World Cup chances written off after Saudi move",
+      "title": "Williams' Queen's campaign in jeopardy after Mboko injury",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39366486/ivan-toney-england-world-cup-aura-saudi-arabia-transfer/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/tennis/news/12040/13552807/serena-williams-victoria-mboko-injury-puts-queens-club-doubles-campaign-in-jeopardy",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-10T16:00:00+00:00",
-      "score": 25.0,
+      "published": "2026-06-10T18:19:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Brentford",
-        "Ivan",
-        "Toney",
-        "claims",
-        "aura",
-        "swagger"
+        "Williams",
+        "Queen",
+        "campaign",
+        "jeopardy",
+        "Mboko",
+        "injury"
       ],
-      "summary": "IVAN TONEY claims he has been proved right by making his controversial move to Saudi Arabia. The former Brentford striker, who moved to Al-Ahli in August 2024, is a shock call-up in Thomas Tuchel’s World Cup squad. Speaking to ITV Sport, Toney said: “There was a lot of talk by people saying I’d gone",
+      "summary": "Serena Williams' heroic return to tennis at the Queen's Club may be brought to a halt after her doubles partner Victoria Mboko retired from the singles tournament after suffering a knee injury.",
+      "summary_cn": ""
+    },
+    {
+      "title": "England v Costa Rica: World Cup 2026 warm-up delayed by storm – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/10/england-v-costa-rica-world-cup-2026-warm-up-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-10T19:26:45+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Pickford",
+        "Konsa",
+        "Anderson",
+        "James",
+        "Stones",
+        "Henderson"
+      ],
+      "summary": "Kick-off in Orlando friendly was 9pm BST, 4pm EDT Player guide | Bracketology | Wallchart | Mail Scott England: Pickford, Konsa, O’Reilly, Rice, Stones, Anderson, Kane, Bellingham, Gordon, Madueke, James. Subs: Guehi, Saka, Rashford, Livramento, D Henderson, J Henderson, Burn, Mainoo, Rogers, Watkin",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mauricio Pochettino: ‘No one sees the USA as a contender – but why not?’",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/10/mauricio-pochettino-no-one-sees-the-usa-as-a-contender-but-why-not",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-10T19:00:54+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Murphy",
+        "Mauricio",
+        "Pochettino",
+        "sees",
+        "contender"
+      ],
+      "summary": "The men’s head coach discusses his ‘American dream’ at the World Cup and tempering the host nation’s ‘arrogant’ expectations This American dream begins in small-town Murphy, Santa Fe. That’s Santa Fe, Argentina, at a little club where the old folk played bochas , a kind of boules, and they had one o",
       "summary_cn": ""
     },
     {
@@ -138,7 +215,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49017889/man-united-confirm-jadon-sancho-players-leaving-free-agents",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T17:29:20+00:00",
+      "published": "2026-06-10T20:29:26+00:00",
       "score": 23.0,
       "keywords": [
         "Manchester United",
@@ -152,12 +229,31 @@
       "summary_cn": ""
     },
     {
+      "title": "Sources: City make British-record bid for Anderson...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49021446/man-city-make-british-record-transfer-bid-elliot-anderson-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-10T20:29:25+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Forest",
+        "Anderson",
+        "Sources",
+        "City"
+      ],
+      "summary": "Manchester City have made a British-record bid for Nottingham Forest midfielder Elliot Anderson, sources have told ESPN.",
+      "summary_cn": ""
+    },
+    {
       "title": "Sources: Barça unlikely to trigger Rashford option...",
       "title_cn": "",
       "url": "https://www.espn.com/soccer/story/_/id/49019977/barcelona-marcus-rashford-unlikely-activate-marcus-rashford-loan",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T17:29:20+00:00",
+      "published": "2026-06-10T20:29:25+00:00",
       "score": 21.0,
       "keywords": [
         "Manchester United",
@@ -171,77 +267,110 @@
       "summary_cn": ""
     },
     {
-      "title": "World Cup 2026 news: latest from the camps; UN urges US immigration ‘re-think’; Messi returns – live",
+      "title": "Is football impacting the US? Or is the US impacting football?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/10/world-cup-2026-news-england-gear-up-for-friendly-infantino-warns-la-of-happy-barbarians-messi-scores-on-return-live",
-      "source": "The Guardian",
+      "url": "https://www.skysports.com/football/news/12040/13550717/world-cup-how-usa-is-embracing-football-and-impacting-the-global-game",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-10T16:25:22+00:00",
+      "published": "2026-06-10T19:30:00+00:00",
       "score": 20.0,
       "keywords": [
-        "World",
-        "news",
-        "latest",
-        "camps",
-        "urges",
-        "immigration"
+        "football",
+        "impacting"
       ],
-      "summary": "News and buildup as World Cup countdown continues Player guide | Bracketology | Wallchart | Mail us here The US isn’t the only World Cup host where politics and football are colliding messily , albeit that they’re being handled more sensitively. There have been protests in Mexico, where a demonstrat",
+      "summary": "Football is having an increasing influence in the USA - but the USA is having an increasing influence on football, too.",
       "summary_cn": ""
     },
     {
-      "title": "How Argentina brought 900 KILOS of their own steak to World Cup as Messi and co’s recipe for success revealed",
+      "title": "'It's absolutely UNBELIEVABLE!' | Weather delays England's final WC warm-up",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39365020/argentina-900-kilos-steak-messi-world-cup-asados/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/watch/video/13552832/england-could-weather-delay-three-lions-final-world-cup-warm-up-game",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-10T15:29:42+00:00",
+      "published": "2026-06-10T19:23:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Argentina",
-        "brought",
-        "KILOS",
-        "steak",
-        "World",
-        "Messi"
+        "absolutely",
+        "UNBELIEVABLE",
+        "Weather",
+        "delays",
+        "England",
+        "final"
       ],
-      "summary": "ARGENTINA will be considering whether to haul their own steak up to the US after the strategy resulted in the ultimate success in Qatar. La Seleccion have been known to bring the food culture to the FIFA tournament that is due to kick off on Thursday. Back in 2022, Argentina, along with Uruguay, mad",
+      "summary": "Sky Sports News' Rob Dorsett with an update on the weather in Orlando ahead of England's final World Cup warm up game with Costa Rica.",
       "summary_cn": ""
     },
     {
-      "title": "Former Champions League winners handed TEN-GAME away fan ban after furious derby violence",
+      "title": "Bellingham starts for England in delayed World Cup warm-up game LIVE!",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39365812/juventus-torino-away-fans-ban/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/england-vs-costa-rica/live/553973",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-10T15:17:11+00:00",
+      "published": "2026-06-10T18:00:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Former",
-        "Champions",
-        "League",
-        "winners",
-        "handed",
-        "GAME"
+        "Bellingham",
+        "starts",
+        "England",
+        "delayed",
+        "World",
+        "warm"
       ],
-      "summary": "Juventus and Torino fans have been banned from away matches for 10 games after violence erupted at the Turin derby. The decision was made by the Ministry of the Interior in Italy, following a clash between ultras of both clubs in the final Serie A match of the season on May 24. The ban, which...",
+      "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "World Cup 2026: Get £40 in free bets with Tote when you bet £10",
+      "title": "BBC Women's Football Weekly",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39340935/tote-free-bets-world-cup-offer-join-promo-code/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nr7qsv?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-10T15:00:55+00:00",
+      "published": "2026-06-10T18:24:00+00:00",
       "score": 20.0,
       "keywords": [
-        "World",
-        "free",
-        "bets",
-        "Tote"
+        "Women",
+        "Football",
+        "Weekly"
       ],
-      "summary": "THE World Cup is here, and Tote are helping new customers get involved with a welcome package worth £40! Simply sign up using promo code B10G40, place a qualifying £10 bet on sport or racing at odds of Evens or greater, and Tote will reward you with a mix of free bets and Tote Credit....",
+      "summary": "England must take the longer route to Brazil 2027 via the play-off rounds later this year",
+      "summary_cn": ""
+    },
+    {
+      "title": "England vs Costa Rica kick-off DELAYED as huge storm and heavy rain floods pitch ahead of World Cup warm-up",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39367960/england-costa-rica-kick-off-delayed-storm-floods-pitch/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-10T18:26:02+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "Costa",
+        "Rica",
+        "kick",
+        "DELAYED",
+        "huge"
+      ],
+      "summary": "ENGLAND's final World Cup warm-up game has been DELAYED because of adverse weather. The Three Lions are set to play Costa Rica at the Inter&amp;Co Stadium in Orlando, Florida. It is the last chance for boss Thomas Tuchel to see his players in action before their World Cup campaign kicks off against ",
+      "summary_cn": ""
+    },
+    {
+      "title": "How Ivan Toney went from accusing FA of sabotage and Tuchel training row to England World Cup redemption",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39367491/ivan-toney-world-cup-england-thomas-tuchel/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-10T17:57:57+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Ivan",
+        "Toney",
+        "went",
+        "accusing",
+        "sabotage",
+        "Tuchel"
+      ],
+      "summary": "IVAN TONEY accused the Football Association of sabotaging his chances of appearing at the last World Cup by announcing his betting charges just before the tournament. And when he was called up by Thomas Tuchel 12 months ago for the first time, he angered the German manager with his poor work rate du",
       "summary_cn": ""
     },
     {
@@ -250,7 +379,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49016259/us-official-somalia-omar-artan-suspected-terror-ties",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T17:29:20+00:00",
+      "published": "2026-06-10T20:29:25+00:00",
       "score": 18.0,
       "keywords": [
         "Official",
@@ -268,7 +397,7 @@
       "url": "https://www.espn.com/soccer/report/_/gameId/401870097",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T17:29:20+00:00",
+      "published": "2026-06-10T20:29:25+00:00",
       "score": 16.0,
       "keywords": [
         "Wilson",
@@ -287,7 +416,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49016378/chaos-reigns-8-red-cards-uswnt-prove-win-tough-brazil",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T14:57:33+00:00",
+      "published": "2026-06-10T18:26:27+00:00",
       "score": 16.0,
       "keywords": [
         "young",
@@ -301,106 +430,21 @@
       "summary_cn": ""
     },
     {
-      "title": "Poch: U.S. can win WC despite no top 100 players",
+      "title": "Transfer rumors, news: Arsenal favorites for Álvar...",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49018362/pochettino-us-win-world-cup-no-top-100-players",
+      "url": "https://www.espn.com/soccer/story/_/id/49017065/transfer-rumors-news-arsenal-favorites-alvarez-real-madrid-barcelona-fail-bids",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T17:29:20+00:00",
-      "score": 10.0,
+      "published": "2026-06-10T19:56:26+00:00",
+      "score": 15.0,
       "keywords": [
-        "Poch",
-        "despite",
-        "players"
+        "Arsenal",
+        "Transfer",
+        "rumors",
+        "news",
+        "favorites"
       ],
-      "summary": "United States men's national team coach Mauricio Pochettino said his team can win the World Cup despite not having any players ranked among the top 100.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Messi scores in cameo in front of 88K in Alabama",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401867950",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-10T17:29:20+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Messi",
-        "scores",
-        "cameo",
-        "front",
-        "Alabama"
-      ],
-      "summary": "Argentine legend Messi, who is working his way back from muscle fatigue ahead of the start of the FIFA World Cup, came on in the 70th minute and scored from the penalty spot right after in his team's 3-0 win over Iceland.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Real Madrid anger Atleti with $173M Álvarez bid",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49011334/real-madrid-julian-alvarez-offer-rejected-atletico-madrid-barcelona-rafa-yuste",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-10T17:29:20+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Real",
-        "Madrid",
-        "anger",
-        "Atleti"
-      ],
-      "summary": "Real Madrid have entered into a transfer battle with Barcelona after announcing they have had a €150 million ($173m) bid turned down for Atlético Madrid forward Julián Álvarez.",
-      "summary_cn": ""
-    },
-    {
-      "title": "📈 Ranking the 50 best players in the World Cup",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-10T17:29:20+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Ranking",
-        "best",
-        "players",
-        "World"
-      ],
-      "summary": "The 2026 FIFA World Cup will feature the world's best talent. Let's rank the top 50 players who will be there!",
-      "summary_cn": ""
-    },
-    {
-      "title": "World Cup predictions: 19 ESPN experts make their ...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49011009/world-cup-2026-bold-predictions-winners-awards-golden-ball-breakout-stars-best-matches",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-10T17:12:45+00:00",
-      "score": 10.0,
-      "keywords": [
-        "World",
-        "predictions",
-        "ESPN",
-        "experts",
-        "make"
-      ],
-      "summary": "The World Cup has arrived! It's time for ESPN's experts to make their picks for silverware, surprise results and everything in between.",
-      "summary_cn": ""
-    },
-    {
-      "title": "World Cup Daily: Live updates with one day to go b...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49012679/world-cup-daily-one-day-go-mexico-prepare-opener",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-10T17:13:07+00:00",
-      "score": 10.0,
-      "keywords": [
-        "World",
-        "Daily",
-        "Live",
-        "updates"
-      ],
-      "summary": "Get all the updates from our reporters across the U.S., Mexico and Canada U.S., Mexico and Canada as the World Cup starts on Thursday.",
+      "summary": "Arsenal are now in prime position to land Atlético Madrid striker Julián Álvarez this summer. Transfer Talk has the latest.",
       "summary_cn": ""
     },
     {
@@ -409,7 +453,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T16:00:06+00:00",
+      "published": "2026-06-10T19:16:22+00:00",
       "score": 10.0,
       "keywords": [
         "USMNT",
@@ -428,7 +472,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49000751/5-questions-facing-usmnt-world-cup-kickoff-approaches",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T15:08:38+00:00",
+      "published": "2026-06-10T19:16:22+00:00",
       "score": 10.0,
       "keywords": [
         "Five",
@@ -442,72 +486,75 @@
       "summary_cn": ""
     },
     {
-      "title": "Mexico's Mora is poised to be World Cup's breakout...",
+      "title": "Richards 'ready' for USMNT opener after injury",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48999966/mexico-gilberto-mora-poised-world-cup-breakout-star-guy-different",
+      "url": "https://www.espn.com/soccer/story/_/id/49020900/usa-chris-richards-injury-world-cup-2026-paraguay",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T15:04:57+00:00",
+      "published": "2026-06-10T20:29:25+00:00",
       "score": 10.0,
       "keywords": [
-        "Mexico",
-        "Mora",
-        "poised",
-        "World",
-        "breakout"
+        "Richards",
+        "ready",
+        "USMNT",
+        "opener",
+        "injury"
       ],
-      "summary": "Getting beyond the quarterfinals would be historic for Mexico. Lucky for El Tri, they have a 17-year-old who can't stop making history.",
+      "summary": "USMNT defender Chris Richards says his recovery from a sprained ankle has progressed to the point where he's \"ready\" to face Paraguay in the team's World Cup opener on Friday.",
       "summary_cn": ""
     },
     {
-      "title": "Copy of Predicting how all 48 men's World Cup teams will d...",
+      "title": "📈 Ranking the 50 best players in the World Cup",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48962628/world-cup-predictions-picking-winner-every-game-entire-tournament",
+      "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T15:59:13+00:00",
+      "published": "2026-06-10T20:29:25+00:00",
       "score": 10.0,
       "keywords": [
-        "Copy",
-        "Predicting",
-        "World",
-        "teams"
+        "Ranking",
+        "best",
+        "players",
+        "World"
       ],
-      "summary": "Who will win the FIFA World Cup? Instead of predicting a final winner, we've picked every single result to show HOW our predicted winner will do it.",
+      "summary": "The 2026 FIFA World Cup will feature the world's best talent. Let's rank the top 50 players who will be there!",
       "summary_cn": ""
     },
     {
-      "title": "Copy of Simulating the men's World Cup: Who did EA Sports ...",
+      "title": "Pulisic's legacy-defining moment is here. Donovan knows what's at stake",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48965907/simulating-world-cup-did-ea-predict-winners-how-did-usmnt-get-on",
+      "url": "https://www.espn.com/soccer/story/_/id/48939119/christian-pulisic-legacy-defining-moment-2026-fifa-world-cup-landon-donovan-knows-whats-stake",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T15:59:13+00:00",
+      "published": "2026-06-10T17:51:36+00:00",
       "score": 10.0,
       "keywords": [
-        "Copy",
-        "Simulating",
-        "World",
-        "Sports"
+        "Pulisic",
+        "legacy",
+        "defining",
+        "moment",
+        "Donovan",
+        "knows"
       ],
-      "summary": "EA Sports has correctly predicted the winners for the past four World Cups. But who does it pick for 2026?",
+      "summary": "The 2026 World Cup may well define Christian Pulisic's legacy in American soccer. It's a lot of pressure. No one knows that better than Landon Donovan.",
       "summary_cn": ""
     },
     {
-      "title": "Rating the biggest 2026 World Cup ads: Adidas vs. ...",
+      "title": "Tillman's stylish photoshoot earns him ribbing fro...",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49002681/rating-2026-fifa-world-cup-ads-adidas-nike-coke-pepsi",
+      "url": "https://www.espn.com/soccer/story/_/id/49021145/malik-tillman-stylish-photoshoot-flaunt-magazine-earns-ribbing-usmnt-teammates",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-06-10T15:59:29+00:00",
+      "published": "2026-06-10T19:57:00+00:00",
       "score": 10.0,
       "keywords": [
-        "Rating",
-        "biggest",
-        "World",
-        "Adidas"
+        "Tillman",
+        "stylish",
+        "photoshoot",
+        "earns",
+        "ribbing"
       ],
-      "summary": "The World Cup is a chance for the world's biggest brands to throw everything into their ads.",
+      "summary": "Malik Tillman isn't the only footballer to have an interest in fashion, but his photoshoot for Flaunt has raised eyebrows in the USMNT dressing room.",
       "summary_cn": ""
     }
   ]
