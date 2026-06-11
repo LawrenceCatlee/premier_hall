@@ -1,283 +1,335 @@
 {
-  "updated_at": "2026-06-11T00:24:09.400768+00:00",
+  "updated_at": "2026-06-11T05:59:07.960806+00:00",
   "items": [
     {
-      "title": "Arsenal in hunt for Williams - Thursday's gossip",
+      "title": "Knicks fight from 29 points down for record comeback win and 3-1 NBA Finals lead",
       "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/ce371zx8zdko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/nba/news/12040/13552914/nba-finals-new-york-knicks-fight-from-29-points-down-for-record-breaking-comeback-win-vs-san-antonio-spurs-and-3-1-lead",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-10T22:32:06+00:00",
+      "published": "2026-06-11T06:21:00+00:00",
       "score": 31.0,
       "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Williams",
-        "hunt",
-        "Thursday",
-        "gossip"
+        "Spurs",
+        "Antonio",
+        "Knicks",
+        "fight",
+        "points",
+        "down"
       ],
-      "summary": "Arsenal in the hunt for Nico Williams, Juventus open talks with Aston Villa over deal for Emiliano Martinez, Paris St-Germain chase Bayern Munich's Michael Olise.",
+      "summary": "New York Knicks came from 29 points down and moved to the brink of their first championship since 1973 by beating San Antonio Spurs 107-106 on OG Anunoby's tip-in with 1.2 seconds remaining.&#160;",
       "summary_cn": ""
     },
     {
-      "title": "Gordon stars as England beat Costa Rica in final World Cup warm-up",
+      "title": "How much did the Messi-Ronaldo rivalry drive them both?",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/england-vs-costa-rica/report/553973",
-      "source": "Sky Sports",
+      "url": "https://www.bbc.com/sport/football/videos/c05yj4p5gzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-11T00:13:00+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Gordon",
-        "stars",
-        "England",
-        "beat",
-        "Costa",
-        "Rica"
-      ],
-      "summary": "Anthony Gordon starred as England stepped up their World Cup preparations with a 3-0 win over Costa Rica in their final official friendly before the tournament.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Are England now ready to go and win the World Cup?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13552812/world-cup-england-win-final-warm-up-against-costa-rica-so-are-they-ready-to-challenge-for-tournament-glory",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-11T01:00:00+00:00",
+      "published": "2026-06-11T05:20:59+00:00",
       "score": 26.0,
       "keywords": [
-        "Declan Rice",
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "much",
+        "Messi",
+        "rivalry",
+        "drive"
+      ],
+      "summary": "Focusing on two iconic celebrations, we look at how much the rivalry between Lionel Messi and Cristiano Ronaldo drove them both.",
+      "summary_cn": ""
+    },
+    {
+      "title": "The Wayne Rooney Show",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nh9bv0?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-11T05:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Wayne Rooney",
+        "Rooney",
+        "Wayne",
+        "Show"
+      ],
+      "summary": "Can Scotland shock the world? Wayne Rooney thinks they can!",
+      "summary_cn": ""
+    },
+    {
+      "title": "Striker Mo Touré sends injury scare through Socceroos camp on eve of World Cup",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/mo-toure-injury-scare-world-cup-socceroos-striker",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-11T04:46:30+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Touré",
+        "Striker",
+        "sends",
+        "injury",
+        "scare",
+        "through"
+      ],
+      "summary": "Australia forward misses training three days from Turkey match Tony Popovic’s squad is thin on specialist attacking options Socceroos striker Mo Touré sent a scare through camp days before the team’s World Cup opener after he missed training on Wednesday (Thursday AEST), highlighting the vulnerabili",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sources: City make British-record bid for Anderson...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49021446/man-city-make-british-record-transfer-bid-elliot-anderson-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:04:54+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Forest",
+        "Anderson",
+        "Sources",
+        "City"
+      ],
+      "summary": "Manchester City have made a British-record bid for Nottingham Forest midfielder Elliot Anderson, sources have told ESPN.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Messi, Maradona or Pele? Ranking the top 10 World Cup legends",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cgl34ne0g3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-11T05:51:06+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Messi",
+        "Maradona",
+        "Pele",
+        "Ranking",
+        "World",
+        "legends"
+      ],
+      "summary": "Who are the biggest World Cup legends of all time? From Pele to Lionel Messi, we attempt to name the top 10.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who am I? Guess World Cup star No 4",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c4gv0g74656o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-11T05:45:44+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Guess",
+        "World",
+        "star"
+      ],
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Omar Artan scandal reveals Gianni Infantino for what he is: one of sport’s greatest cowards | Jonathan Liew",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/omar-artan-scandal-gianni-infantino-donald-trump-world-cup",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-11T04:01:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Omar",
+        "Artan",
+        "scandal",
+        "reveals",
+        "Gianni",
+        "Infantino"
+      ],
+      "summary": "Fifa president has prostrated the organisation before Donald Trump and lost control of his own tournament as a result Even the Nazis tried to tone things down a bit. Before the 1936 Olympics in Berlin, acutely conscious of how it might be perceived by foreign visitors, the Third Reich tried to softe",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fourth World Cup still has Son 'feeling like a kid...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49023594/fourth-fifa-world-cup-south-korea-captain-son-heung-min-feeling-kid",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:04:54+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Heung-min",
+        "Son Heung-min",
+        "Fourth",
+        "World",
+        "still",
+        "feeling"
+      ],
+      "summary": "South Korea captain Son Heung-min says he feels like a \"kid\" as he enters his fourth World Cup, where he will debut against the Czech Republic in a Group A match in Guadalajara on Thursday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mohamed Touré, Nestory Irankunda and the thing tha...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49016836/mohamed-toure-nestory-irankunda-thing-unites-socceroos",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:49:01+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Touré",
+        "Mohamed",
+        "Nestory",
+        "Irankunda",
+        "thing"
+      ],
+      "summary": "Mohamed Touré and Nestory Irankunda form a key cog in the Socceroos' 2026 World Cup squad, bound by a mateship that has propelled each other to the brink of stardom.",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup predictions: 19 ESPN experts make their ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49011009/world-cup-2026-bold-predictions-winners-awards-golden-ball-breakout-stars-best-matches",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:51:22+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "predictions",
+        "ESPN",
+        "experts",
+        "make"
+      ],
+      "summary": "The World Cup has arrived! It's time for ESPN's experts to make their picks for silverware, surprise results and everything in between.",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup Daily: Live updates as Mexico prepare f...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49012679/world-cup-daily-one-day-go-mexico-prepare-opener",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:51:22+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "Daily",
+        "Live",
+        "updates",
+        "Mexico",
+        "prepare"
+      ],
+      "summary": "Re-live all of Wednesday's pre-tournament action as the world prepares to tune in to Mexico vs. South Africa in the World Cup opener.",
+      "summary_cn": ""
+    },
+    {
+      "title": "FIFA prez: People should 'chill' over WC visa issu...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49021490/fifa-president-gianni-infantino-world-cup-visa-usa-ticket-prices",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:05:42+00:00",
+      "score": 10.0,
+      "keywords": [
+        "FIFA",
+        "prez",
+        "People",
+        "chill",
+        "visa",
+        "issu"
+      ],
+      "summary": "FIFA president Gianni Infantino said the organization cannot dictate to the U.S. government who to allow into its country for the World Cup, saying that sometimes it is better to \"chill and relax\" over visa issues.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Spain, France open World Cup as betting favorites",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49025269/spain-france-lead-world-cup-odds-usa-bettors-back-home-team",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:04:54+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Spain",
+        "France",
+        "open",
+        "World",
+        "betting",
+        "favorites"
+      ],
+      "summary": "France and Spain are the betting favorites to win the 2026 World Cup, while heavy backing for Team USA is creating massive liabilities for sportsbooks.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Richards 'ready' for USMNT opener after injury",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49020900/usa-chris-richards-injury-world-cup-2026-paraguay",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:04:54+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Richards",
+        "ready",
+        "USMNT",
+        "opener",
+        "injury"
+      ],
+      "summary": "USMNT defender Chris Richards says his recovery from a sprained ankle has progressed to the point where he's \"ready\" to face Paraguay in the team's World Cup opener on Friday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tuchel: England ready to 'come alive' at World Cup...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49023366/tuchel-england-ready-come-alive-world-cup-dominant-win",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:04:54+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Tuchel",
         "England",
         "ready",
+        "come",
+        "alive",
         "World"
       ],
-      "summary": "Declan Rice called it a \"top performance\" against Costa Rica. It left Thomas Tuchel \"very proud\". So are England now primed and ready to go on and win the World Cup?",
+      "summary": "England coach Thomas Tuchel said after his team's dominant win over Costa Rica on Wednesday that the Three Lions are starting to \"click\" into gear ahead of the World Cup.",
       "summary_cn": ""
     },
     {
-      "title": "Papers: Mourinho eyes Gvardiol and Fernandes for Real Madrid",
+      "title": "Aguirre embraces Azteca's pressure for WC opener",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13552883/real-madrid-transfer-news-jose-mourinho-targeting-man-citys-josko-gvardiol-and-man-utd-target-mateus-fernandes",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-10T23:13:00+00:00",
-      "score": 26.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49022908/privileged-aguirre-embraces-pressure-mexico-world-cup-opener",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:05:42+00:00",
+      "score": 10.0,
       "keywords": [
-        "Fernandes",
-        "Papers",
-        "Mourinho",
-        "eyes",
-        "Gvardiol",
-        "Real"
+        "Aguirre",
+        "embraces",
+        "Azteca",
+        "pressure",
+        "opener"
       ],
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "summary": "On the eve of the World Cup opener and Mexico's debut in front of their fans at the Estadio Azteca, Javier Aguirre stated that he feels 'privileged' to experience the pressure of opening the tournament at home.",
       "summary_cn": ""
     },
     {
-      "title": "Football Daily",
+      "title": "📈 Ranking the 50 best players in the World Cup",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nr8m0v?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-10T22:37:00+00:00",
-      "score": 26.0,
+      "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-11T05:04:54+00:00",
+      "score": 10.0,
       "keywords": [
-        "Chris Sutton",
-        "Sutton",
-        "Football",
-        "Daily"
-      ],
-      "summary": "Mark Chapman, Rachel Corsie, Steph Houghton and Chris Sutton preview the World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ghana World Cup 2026 team guide",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/11/ghana-world-cup-2026-team-guide",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-10T23:01:01+00:00",
-      "score": 26.0,
-      "keywords": [
-        "cooper",
-        "Ghana",
-        "World",
-        "team",
-        "guide"
-      ],
-      "summary": "Antoine Semenyo will need help from his supporting cast but there is plenty of excitement about a 20-year-old midfielder likened to Michael Essien This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries",
-      "summary_cn": ""
-    },
-    {
-      "title": "England 3 Costa Rica 0: Gordon and Rice win final World Cup warm-up but four spots in starting XI still up for grabs",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39369387/england-costa-rica-world-cup-warm-up/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-10T23:04:34+00:00",
-      "score": 26.0,
-      "keywords": [
-        "given",
-        "green",
-        "England",
-        "Costa",
-        "Rica",
-        "Gordon"
-      ],
-      "summary": "SITTING in the dressing room, fiddling with their phones, waiting for the green light to finally go out for the warm-up. England’s players were given a crash course in dealing with the unpredictable, slightly bonkers North American weather here in Orlando. The players waited patiently for an hour as",
-      "summary_cn": ""
-    },
-    {
-      "title": "England player ratings: Has Bellingham done enough?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13552806/england-player-ratings-anthony-gordon-proves-his-value-but-has-jude-bellingham-done-enough-to-guarantee-world-cup-start",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-11T00:38:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "player",
-        "ratings",
-        "Bellingham",
-        "done",
-        "enough"
-      ],
-      "summary": "England have played their final World Cup warm-up game. Next comes the real thing. So, who has nailed down their spot? Who has played themselves into contention? And who has damaged their chances of being in Thomas Tuchel's starting selection against Croatia?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Infantino could have stood up for the World Cup - but he said 'chill, relax'",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cvgj40vymlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-10T22:28:02+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Infantino",
-        "stood",
-        "World",
-        "chill",
-        "relax"
-      ],
-      "summary": "Gianni Infantino faced the media for the first time in three years, but he did little to convince that Fifa has lost its grip on the organisation of the 2026 World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Is England v Costa Rica storm delay a sign of things to come?",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cr47lp04n34o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-10T23:03:25+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "Costa",
-        "Rica",
-        "storm",
-        "delay",
-        "sign"
-      ],
-      "summary": "After England's game against Costa Rica was delayed by extreme weather, was that just a sign of things to come in the World Cup?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Fifa and global players' union agree landmark deal",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/ckg8vpx9rego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-10T22:31:06+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Fifa",
-        "global",
+        "Ranking",
+        "best",
         "players",
-        "union",
-        "agree",
-        "landmark"
+        "World"
       ],
-      "summary": "Players will have a seat at football's decision-making table following a landmark deal between world governing body Fifa and global players' union Fifpro.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Gordon makes his point as England breeze past Costa Rica in final World Cup warm-up",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/11/england-costa-rica-world-cup-2026-warmup-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-10T23:13:01+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Gordon",
-        "makes",
-        "point",
-        "England",
-        "breeze",
-        "past"
-      ],
-      "summary": "It was the day when Thomas Tuchel showed his hand for England’s World Cup opener against Croatia in Dallas next Wednesday and his players hinted at what can happen when they play with intensity and slick connections. The paucity of the opposition had to be considered. Costa Rica barely even saw the ",
-      "summary_cn": ""
-    },
-    {
-      "title": "England player ratings: Barcelona transfer inspires Anthony Gordon to stellar performance but Noni Madueke all at sea",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39370046/england-ratings-anthony-gordon-barcelona-noni-madueke-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-10T23:16:49+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "player",
-        "ratings",
-        "Barcelona",
-        "transfer",
-        "inspires"
-      ],
-      "summary": "ENGLAND totally dominated Costa Rica in their final tune-up for the World Cup. But Thomas Tuchel could still make up to FOUR changes for the opener against Croatia next Thursday night. The Three Lions had much more spark about them in this weather-delayed Orlando clash than last Friday night's slugg",
-      "summary_cn": ""
-    },
-    {
-      "title": "England fans call for shock World Cup kit change as Thomas Tuchel’s men look to emulate heroes of ‘66",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39368548/england-world-cup-fans-kit-change-1966/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-10T23:01:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "fans",
-        "call",
-        "shock",
-        "World",
-        "change"
-      ],
-      "summary": "FANS have called for a shock change to England's World Cup kit just a week before the team's first game. The Three Lions will begin their bid to end 60 years of hurt on June 17 as they face Croatia at the AT&amp;T Stadium in Dallas. England have been drawn as the home side for...",
-      "summary_cn": ""
-    },
-    {
-      "title": "England Wags fly into luxury World Cup base for romantic reunions after Tuchel relaxes camp rules",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39369331/wags-world-cup-base-romantic-reunions-hotel/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-10T22:26:44+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "Wags",
-        "luxury",
-        "World",
-        "base",
-        "romantic"
-      ],
-      "summary": "WIVES and girlfriends are being allowed into the England squad’s hotel — despite an initial ban on joining their partners. In a break from the norm, coach Thomas Tuchel has let loved ones visit their base in West Palm Beach, Florida. After England’s warm-up game last week in Tampa, Jude Bellingham’s",
+      "summary": "The 2026 FIFA World Cup will feature the world's best talent. Let's rank the top 50 players who will be there!",
       "summary_cn": ""
     }
   ]
