@@ -1,6 +1,301 @@
 {
   "items": [
     {
+      "title": "Papers: West Ham's Fernandes chooses Man Utd over Arsenal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13553551/man-utd-transfer-news-mateus-fernandes-keen-on-old-trafford-move-despite-arsenal-interest-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-12T22:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "West Ham",
+        "Man Utd",
+        "Fernandes",
+        "Papers",
+        "West"
+      ],
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Brady stayed at West Ham despite knowing of Sullivan women's team ban",
+      "title_cn": "",
+      "url": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T21:59:12+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Sullivan",
+        "Brady",
+        "stayed",
+        "West",
+        "despite"
+      ],
+      "summary": "Brady's lawyers said she had \"no knowledge\" of the allegations made against long-time business partner David Sullivan.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Ex-West Ham director would not be in involved in inquiry into David Sullivan",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/12/former-west-ham-director-removed-from-inquiry-into-david-sullivan",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-12T22:10:46+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Sullivan",
+        "West",
+        "director",
+        "involved",
+        "inquiry"
+      ],
+      "summary": "Tara Warren of the Independent Football Regulator was an executive director at West Ham until December A nonexecutive director of the Independent Football Regulator will not be involved in the inquiry into allegations of sexual misconduct against David Sullivan to avoid a conflict of interest over h",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Sciver-Brunt hails 'ruthless' England after emphatic opening World Cup win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13553562/nat-sciver-brunt-hails-englands-ruthlessness-against-sri-lanka-following-emphatic-win-in-t20-womens-world-cup-opener",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-12T23:23:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Brunt",
+        "Sciver",
+        "hails",
+        "ruthless",
+        "England",
+        "emphatic"
+      ],
+      "summary": "Captain Nat Sciver-Brunt hailed England's ruthlessness as they kicked off the ICC Women's T20 World Cup with a 'massive' victory over Sri Lanka at Edgbaston.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "'Clear red' for Bosnia or 'wins the ball'? BBC pundits disagree",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c2lyd45wl7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T23:04:10+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Wayne Rooney",
+        "Rooney",
+        "Clear",
+        "Bosnia",
+        "wins",
+        "ball"
+      ],
+      "summary": "Should Bosnia-Herzegovina have been reduced to 10 men in the second half in their 1-1 draw with Canada? Wayne Rooney and ex-referee Darren Cann had differing views.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Crystal Palace close to appointing Sage as manager",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cjdgnmvgv8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T22:49:57+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Crystal",
+        "Palace",
+        "close",
+        "appointing",
+        "Sage"
+      ],
+      "summary": "Crystal Palace close to finalising a deal for Lens manager Pierre Sage to become their new head coach.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Arsenal consider move for Greek forward Tzolis",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c992xz8187jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T22:25:49+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "consider",
+        "move",
+        "Greek",
+        "forward",
+        "Tzolis"
+      ],
+      "summary": "Arsenal have been offered Club Brugge forward Christos Tzolis and are considering accelerating a move for the Greece international.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Levi Colwill breaks silence after England World Cup snub as Chelsea star jets to ‘best place in world’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39395521/world-cup-england-levi-colwill-snub/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T21:59:04+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Levi",
+        "Colwill",
+        "breaks",
+        "silence",
+        "England"
+      ],
+      "summary": "LEVI COLWILL has broken his silence after being snubbed from England's World Cup squad. The Three Lions are prepping for their tournament opener against Croatia on June 17 but the Chelsea star was one player who did not get the call. Colwill, 23, only made five appearances for the Blues last term af",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "'They might trouble England' | Part believes Spain could test Littler and Humphries",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13553555/john-part-believes-spains-duo-of-cristo-reyes-and-jose-justicia-could-trouble-luke-littler-and-luke-humphries-in-the-second-round",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-12T23:02:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "trouble",
+        "England",
+        "Part",
+        "believes",
+        "Spain",
+        "test"
+      ],
+      "summary": "John Part reacts to England drawing Spain in round two of the World Cup of Darts with Luke Littler and Luke Humphries gearing up to face Cristo Reyes and Jose Justicia.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Larin equaliser earns Canada first ever World Cup point",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cjdgnm0m7z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T22:13:49+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Larin",
+        "equaliser",
+        "earns",
+        "Canada",
+        "first",
+        "ever"
+      ],
+      "summary": "Cyle Larin comes off the bench to score for Canada against Bosnia-Herzegovina to earn the co-hosts a 1-1 draw as they pick up their first ever point at a World Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "A new way to experience the World Cup - only on BBC Sport",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T22:18:24+00:00",
+      "score": 20.0,
+      "keywords": [
+        "experience",
+        "World",
+        "only",
+        "Sport"
+      ],
+      "summary": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? Now you can on the BBC.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "USA v Paraguay: World Cup 2026 – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/12/usa-v-paraguay-world-cup-2026-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-12T23:12:54+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Paraguay",
+        "World",
+        "live"
+      ],
+      "summary": "⚽️ Kick-off at 9pm EDT/2am BST/11am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Beau There will be no rousing Hollywood pep talk from Mauricio Pochettino ahead of today’s USMNT World Cup opener. He and his players are trusting nearly two years of work since he took the helm – plus all o",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "BBC kicks off World Cup broadcast battle in Salford and provides contrast to ITV’s celebrity slop",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/12/bbc-world-cup-broadcast-battle-salford--itv-celebrity-slop",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-12T22:32:52+00:00",
+      "score": 20.0,
+      "keywords": [
+        "kicks",
+        "World",
+        "broadcast",
+        "battle",
+        "Salford",
+        "provides"
+      ],
+      "summary": "Journalistic muscles were flexed with Ros Atkins factchecking real-world issues with production offering merits more achievable by working from home Must a World Cup broadcast be on location? The BBC, for reasons of cost and environmental concerns, has rolled back to when tournaments were beamed bac",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Micah Richards makes cheeky Gary Lineker reference live on BBC for first World Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39395573/micah-richards-gary-lineker-joke-bbc-world-cup-tv/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T22:45:41+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Micah",
+        "Richards",
+        "makes",
+        "cheeky",
+        "Gary",
+        "Lineker"
+      ],
+      "summary": "MICAH RICHARDS took a cheeky dig at Gary Lineker immediately after returning to the BBC during the World Cup. It only took minutes of the Beeb's first match for Richards to take a swipe at his fellow pundit - who he is also working with during the tournament. Former Match of the Day presenter Lineke",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
+      "title": "Watch adorable Mexico-supporting DUCK as it joins crowd of fans for World Cup game",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39395878/world-cup-mexico-fans-duck/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T22:40:33+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Watch",
+        "adorable",
+        "Mexico",
+        "supporting",
+        "DUCK",
+        "joins"
+      ],
+      "summary": "A DUCK has shown its true colours after joining Mexico supporters for the World Cup opener. Mexico got off to a flyer as they started the tournament with a 2-0 victory over South Africa. Fans would have been thrilled with the result which gave them the best chance of reaching the knockout stages. Am",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T23:40:27.440241+00:00"
+    },
+    {
       "title": "Real Madrid close in on Silva signing- Saturday's gossip",
       "title_cn": "",
       "url": "https://www.bbc.com/sport/football/articles/c892x547459o?at_medium=RSS&at_campaign=rss",
