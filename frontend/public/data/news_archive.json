@@ -1,6 +1,385 @@
 {
   "items": [
     {
+      "title": "Real Madrid close in on Silva signing- Saturday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c892x547459o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T21:42:12+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Marcus Rashford",
+        "Silva",
+        "Bernardo Silva",
+        "Fernandes",
+        "Rashford"
+      ],
+      "summary": "Real Madrid expect to complete Bernardo Silva signing, Bayern Munich confident of deal for Marcus Rashford, Manchester United win race to sign Mateus Fernandes.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Sinfield knighted as Donald, Scarratt, Murphy made OBEs",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13553285/kevin-sinfield-leeds-rhinos-great-knighted-in-kings-birthday-honours-as-luke-donald-emily-scarratt-shaun-murphy-made-obes",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-12T22:30:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Murphy",
+        "knight",
+        "Sinfield",
+        "knighted",
+        "Donald",
+        "Scarratt"
+      ],
+      "summary": "Kevin Sinfield has been knighted in the King's Birthday Honours in recognition of his glittering rugby league career and subsequent fundraising exploits to aid research and support families affected by Motor Neurone Disease.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Six Lionesses made MBEs in King's Birthday Honours",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/articles/c07ygxxj0g3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T21:30:09+00:00",
+      "score": 26.0,
+      "keywords": [
+        "knight",
+        "Lionesses",
+        "made",
+        "MBEs",
+        "King",
+        "Birthday"
+      ],
+      "summary": "Kevin Sinfield has received a knighthood in the King's Birthday Honours while six of England's Euro 2025-winning squad have been made MBEs.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Rooney and Cann disagree on Bosnia goalkeeper incident",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cgl39w8grkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T21:43:19+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Wayne Rooney",
+        "Rooney",
+        "Cann",
+        "disagree",
+        "Bosnia",
+        "goalkeeper"
+      ],
+      "summary": "Former assistant referee Darren Cann and Wayne Rooney disagree over the red card incident involving Bosnia-Herzegovina goalkeeper Nikola Vasilj, with Rooney arguing the goalkeeper should have been sent off for his challenge on Canada's Tani Oluwaseyi.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Six Lionesses set to be rewarded in King’s Birthday Honours list following unprecedented back-to-back Euro wins",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39392492/six-lionesses-rewarded-kings-birthday-honours-list/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T21:30:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "James",
+        "Kelly",
+        "Lionesses",
+        "rewarded",
+        "King",
+        "Birthday"
+      ],
+      "summary": "SIX Lionesses are among a star-studded line-up of sporting heroes getting gongs in the King’s Birthday Honours. Euro winners Chloe Kelly, 28, Jess Carter, 28, Hannah Hampton, 25, Lauren James, 24, Alessia Russo, 27, and Michelle Agyemang, 20, are all being awarded MBEs for their services to football",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Thierry Henry stunned as US pundit casually uses British swear word to describe James Corden on Fox World Cup coverage",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39394145/thierry-henr-james-corden-fox-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T20:16:22+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Henry",
+        "James",
+        "Thierry Henry",
+        "Thierry",
+        "stunned",
+        "pundit"
+      ],
+      "summary": "THIERRY HENRY was left stunned after James Corden was called a \"full kit w***er\" during Fox's World Cup coverage. The French icon was on punditry duty for the American broadcaster along with Swedish legend Zlatan Ibrahimovic and former USA international Alexi Lalas. The trio were speaking to host Re",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "McInnes among potential Röhl replacements as Rangers and Salzburg continue talks",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13553524/danny-r246hl-derek-mcinnes-on-rangers-shortlist-as-talks-with-rb-salzburg-over-german-coach-continue",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-12T20:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "McInnes",
+        "among",
+        "potential",
+        "replacements",
+        "Rangers",
+        "Salzburg"
+      ],
+      "summary": "Rangers and RB Salzburg remain in talks to finalise a deal for Danny R&#246;hl to join the Austrian Bundesliga club.&#160;",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Arsenal ‘exploring £34million deal for Christos Tzolis but transfer will NOT affect Morgan Rogers hunt’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39395149/arsenal-transfer-christos-tzolis-club-brugge-morgan-rogers/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T20:59:33+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "exploring",
+        "deal",
+        "Christos",
+        "Tzolis"
+      ],
+      "summary": "ARSENAL are looking to sign Club Brugge winger Christos Tzolis, according to reports. A move for the Greek forward, 24, would not be in place of trying to buy Aston Villa star Morgan Rogers. The Athletic claim that a deal for around £35million is being explored after Tzolis' impressive 2025-26 seaso",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Canada 1 Bosnia 1: World Cup hosts make history with their first ever WC point and send Ryan Reynolds wild",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39394626/canada-1-bosnia-1/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T20:58:09+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "Canada",
+        "Bosnia",
+        "World",
+        "hosts",
+        "make"
+      ],
+      "summary": "CYLE LARIN made himself a national hero - to earn Canada their first-ever World Cup point. Southampton striker Larin was denied the chance of a shot at the Prem last month as the 'sinning Saints' were booted out of the EFL play-offs because of the Spy-gate row. But Larin put all that behind him as..",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T20:26:23+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fans",
+        "concourses",
+        "instead",
+        "seats",
+        "claims",
+        "Fifa"
+      ],
+      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "'Toronto erupts' - Larin equalises for Canada",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cp8lngn61kro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T20:56:42+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Toronto",
+        "erupts",
+        "Larin",
+        "equalises",
+        "Canada"
+      ],
+      "summary": "Substitute Cyle Larin equalises for Canada against Bosnia-Herzegovina at the Toronto Stadium at the 2026 World Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Michael Buble headlines Canada's opening ceremony",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cy497z9yld3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-12T20:24:16+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Michael",
+        "Buble",
+        "headlines",
+        "Canada",
+        "opening",
+        "ceremony"
+      ],
+      "summary": "Canada's World Cup gets under way as Michael Buble headlines their opening ceremony at the Toronto Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Supersub Cyle Larin rescues point for Canada against Bosnia and Herzegovina",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/12/canada-bosnia-herzegovina-world-cup-2026-group-b-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-12T21:21:13+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Supersub",
+        "Cyle",
+        "Larin",
+        "rescues",
+        "point",
+        "Canada"
+      ],
+      "summary": "“History is about to be made,” the understandably giddy stadium announcer said in the seconds before kick-off and while this was not the perfect start, Canada will not forget Cyle Larin’s equaliser against Bosnia and Herzegovina in a hurry. Trailing to Jovo Lukic’s first international goal, the Sout",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "England say goodbye to four ‘important’ players just days before World Cup opener against Croatia",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39395349/england-world-cup-goodbye-scott-nwaneri-ngumoha-king/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T21:18:09+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "goodbye",
+        "four",
+        "important",
+        "players",
+        "days"
+      ],
+      "summary": "ENGLAND waved goodbye to four players ahead of their World Cup campaign. The Three Lions had their training camp in Florida before heading to Kansas City where they will be based throughout the tournament. Thomas Tuchel's side had friendlies against New Zealand, Costa Rica and thumped local side Mia",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "England squad don M&S suits for Miami shoot as Tuchel’s upbeat camp hails strong unity ahead of World Cup",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39393512/england-squad-dons-marks-spencer-suit-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T20:30:03+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "squad",
+        "suits",
+        "Miami",
+        "shoot",
+        "Tuchel"
+      ],
+      "summary": "ENGLAND’S stars got dressed for success ­yesterday as they geared up for another tilt at World Cup glory. Coach Thomas Tuchel sat amid the 26-man squad who are said to be bursting with confidence after ­winning two friendlies. The Three Lions line-up, more used to designer clobber, looked smart in t",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Referee makes World Cup history as controversial new rule is used for first time during Canada vs Bosnia & Herzegovina",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39394650/world-cup-rule-canada-bosnia-throw-in/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T20:28:21+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Referee",
+        "makes",
+        "World",
+        "history",
+        "controversial",
+        "rule"
+      ],
+      "summary": "WORLD CUP history was made during Canada's opening draw against Bosnia and Herzegovina. The clash at the Toronto Stadium was the first to see a new rule used for the first time. In the second half of the 1-1 draw in Toronto, Bosnia-Herzegovina took their time over a throw-in and appeared to forget t",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "The sweethearts & The influencers – How England’s glam World Cup WAGS fall into two VERY different camps",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39392724/england-world-cup-wags-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T20:21:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "sweethearts",
+        "influencers",
+        "England",
+        "glam",
+        "World",
+        "WAGS"
+      ],
+      "summary": "IT’S a game of two halves for England’s World Cup Wags as the influencers and childhood sweethearts go head to head. For the first time, content creators are tipped to steal the spotlight from the long-term wives and girlfriends by posing for glam Insta snaps at the finest restaurants – and maybe ev",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Age-defying 90s superstar sends fans wild as she belts out national anthem before World Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39393783/alanis-morissette-canada-bosnia-herzegovina-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T20:17:12+00:00",
+      "score": 20.0,
+      "keywords": [
+        "defying",
+        "superstar",
+        "sends",
+        "fans",
+        "wild",
+        "belts"
+      ],
+      "summary": "AGELESS Alanis Morissette wowed fans as she belted out Canada's national anthem before the co-hosts' World Cup opener. The 90s music icon took centre stage as part of the tournament's opening celebrations in Toronto. The performance came ahead of Canada’s opening Group B fixture against Bosnia and H",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
+      "title": "Hollywood legend, 63, looks unrecognisable in bucket hat at World Cup clash as BBC commentators don’t even notice",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39394325/mike-myers-hollywood-legend-world-cup-canada-bosnia-bbc/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-12T20:02:22+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Hollywood",
+        "legend",
+        "looks",
+        "unrecognisable",
+        "bucket",
+        "World"
+      ],
+      "summary": "HOLLYWOOD actor Mike Myers shocked football fans with his appearance at the World Cup - with Ryan Reynolds right next to him. Canadian icon Myers was at his country's first game of the tournament in Toronto against Bosnia and Herzegovina with celeb royalty Reynolds. But BBC commentators did not reco",
+      "summary_cn": "",
+      "fetched_at": "2026-06-12T21:57:22.485196+00:00"
+    },
+    {
       "title": "Scotland played Traitors to give players voice before World Cup opener, says Robertson",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/jun/12/scotland-traitors-world-cup-2026-opener-haiti-andy-robertson",
