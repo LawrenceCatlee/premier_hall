@@ -1,341 +1,468 @@
 {
-  "updated_at": "2026-06-12T23:40:27.472225+00:00",
+  "updated_at": "2026-06-13T04:40:25.656119+00:00",
   "items": [
     {
-      "title": "Papers: West Ham's Fernandes chooses Man Utd over Arsenal",
+      "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13553551/man-utd-transfer-news-mateus-fernandes-keen-on-old-trafford-move-despite-arsenal-interest-paper-talk",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-12T22:30:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "West Ham",
-        "Man Utd",
-        "Fernandes",
-        "Papers",
-        "West"
-      ],
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Brady stayed at West Ham despite knowing of Sullivan women's team ban",
-      "title_cn": "",
-      "url": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-12T21:59:12+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Sullivan",
-        "Brady",
-        "stayed",
-        "West",
-        "despite"
-      ],
-      "summary": "Brady's lawyers said she had \"no knowledge\" of the allegations made against long-time business partner David Sullivan.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Real Madrid close in on Silva signing- Saturday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c892x547459o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-12T21:42:12+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Rashford",
-        "Marcus Rashford",
-        "Silva",
-        "Fernandes",
-        "Bernardo Silva"
-      ],
-      "summary": "Real Madrid expect to complete Bernardo Silva signing, Bayern Munich confident of deal for Marcus Rashford, Manchester United win race to sign Mateus Fernandes.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ex-West Ham director would not be in involved in inquiry into David Sullivan",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/12/former-west-ham-director-removed-from-inquiry-into-david-sullivan",
+      "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-12T22:10:46+00:00",
+      "published": "2026-06-13T04:00:05+00:00",
       "score": 31.0,
       "keywords": [
-        "West Ham",
-        "Sullivan",
-        "West",
-        "director",
-        "involved",
-        "inquiry"
-      ],
-      "summary": "Tara Warren of the Independent Football Regulator was an executive director at West Ham until December A nonexecutive director of the Independent Football Regulator will not be involved in the inquiry into allegations of sexual misconduct against David Sullivan to avoid a conflict of interest over h",
-      "summary_cn": ""
-    },
-    {
-      "title": "Sinfield knighted as Donald, Scarratt, Murphy made OBEs",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13553285/kevin-sinfield-leeds-rhinos-great-knighted-in-kings-birthday-honours-as-luke-donald-emily-scarratt-shaun-murphy-made-obes",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-12T22:30:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Murphy",
-        "knight",
-        "Sinfield",
-        "knighted",
-        "Donald",
-        "Scarratt"
-      ],
-      "summary": "Kevin Sinfield has been knighted in the King's Birthday Honours in recognition of his glittering rugby league career and subsequent fundraising exploits to aid research and support families affected by Motor Neurone Disease.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Sciver-Brunt hails 'ruthless' England after emphatic opening World Cup win",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13553562/nat-sciver-brunt-hails-englands-ruthlessness-against-sri-lanka-following-emphatic-win-in-t20-womens-world-cup-opener",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-12T23:23:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Brunt",
-        "Sciver",
-        "hails",
-        "ruthless",
-        "England",
-        "emphatic"
-      ],
-      "summary": "Captain Nat Sciver-Brunt hailed England's ruthlessness as they kicked off the ICC Women's T20 World Cup with a 'massive' victory over Sri Lanka at Edgbaston.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Clear red' for Bosnia or 'wins the ball'? BBC pundits disagree",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c2lyd45wl7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-12T23:04:10+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Wayne Rooney",
-        "Rooney",
-        "Clear",
-        "Bosnia",
-        "wins",
-        "ball"
-      ],
-      "summary": "Should Bosnia-Herzegovina have been reduced to 10 men in the second half in their 1-1 draw with Canada? Wayne Rooney and ex-referee Darren Cann had differing views.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Rooney and Cann strongly disagree on Bosnia goalkeeper incident",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/videos/cgl39w8grkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-12T21:43:19+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Wayne Rooney",
-        "Rooney",
-        "Cann",
-        "strongly",
-        "disagree",
-        "Bosnia"
-      ],
-      "summary": "Former World Cup final assistant referee Darren Cann and Wayne Rooney disagree over an incident involving Bosnia-Herzegovina goalkeeper Nikola Vasilj, with Rooney arguing the goalkeeper should have been sent off for his challenge on Canada's Tani Oluwaseyi.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Crystal Palace close to appointing Sage as manager",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cjdgnmvgv8po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-12T22:49:57+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Crystal",
-        "Palace",
-        "close",
-        "appointing",
-        "Sage"
-      ],
-      "summary": "Crystal Palace close to finalising a deal for Lens manager Pierre Sage to become their new head coach.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal consider move for Greek forward Tzolis",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c992xz8187jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-12T22:25:49+00:00",
-      "score": 25.0,
-      "keywords": [
         "Arsenal",
-        "consider",
-        "move",
-        "Greek",
-        "forward",
-        "Tzolis"
+        "Chelsea",
+        "West Ham",
+        "Declan Rice",
+        "thought",
+        "gosh"
       ],
-      "summary": "Arsenal have been offered Club Brugge forward Christos Tzolis and are considering accelerating a move for the Greece international.",
+      "summary": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World Cup Three years ago Declan Rice was the star guest at a Soho House event about the power of effective leadership. Tickets were in hot demand and",
       "summary_cn": ""
     },
     {
-      "title": "Levi Colwill breaks silence after England World Cup snub as Chelsea star jets to ‘best place in world’",
+      "title": "‘Fraud’ Justin Trudeau slammed for skipping Canada’s World Cup opener to watch USA with girlfriend Katy Perry",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39395521/world-cup-england-levi-colwill-snub/",
+      "url": "https://www.thesun.co.uk/sport/39396862/justin-trudeau-canada-world-cup-usa-katy-perry/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-12T21:59:04+00:00",
-      "score": 25.0,
+      "published": "2026-06-13T03:31:26+00:00",
+      "score": 26.0,
       "keywords": [
-        "Chelsea",
-        "Levi",
-        "Colwill",
-        "breaks",
-        "silence",
-        "England"
+        "Perry",
+        "Fraud",
+        "Justin",
+        "Trudeau",
+        "slammed",
+        "skipping"
       ],
-      "summary": "LEVI COLWILL has broken his silence after being snubbed from England's World Cup squad. The Three Lions are prepping for their tournament opener against Croatia on June 17 but the Chelsea star was one player who did not get the call. Colwill, 23, only made five appearances for the Blues last term af",
+      "summary": "CANADIANS have slammed former Prime Minister Justin Trudeau for skipping their nation's World Cup opener to watch Team USA with his girlfriend Katy Perry. Trudeau, 54, and Perry, 41, were seen cozying up in a suite at SoFi Stadium as they watched the United States' opening match against Paraguay on ",
       "summary_cn": ""
     },
     {
-      "title": "'They might trouble England' | Part believes Spain could test Littler and Humphries",
+      "title": "World Cup fans spot Katy Perry wearing CANADA pin at USA’s opening game after ‘trainwreck’ performance – ‘terrible’",
       "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13553555/john-part-believes-spains-duo-of-cristo-reyes-and-jose-justicia-could-trouble-luke-littler-and-luke-humphries-in-the-second-round",
-      "source": "Sky Sports",
+      "url": "https://www.thesun.co.uk/sport/39396854/world-cup-katy-perry-canada-pin-opening-ceremony/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-12T23:02:00+00:00",
-      "score": 20.0,
+      "published": "2026-06-13T03:20:05+00:00",
+      "score": 26.0,
       "keywords": [
-        "trouble",
-        "England",
-        "Part",
-        "believes",
-        "Spain",
-        "test"
-      ],
-      "summary": "John Part reacts to England drawing Spain in round two of the World Cup of Darts with Luke Littler and Luke Humphries gearing up to face Cristo Reyes and Jose Justicia.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Larin equaliser earns Canada first ever World Cup point",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/videos/cjdgnm0m7z8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-12T22:13:49+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Larin",
-        "equaliser",
-        "earns",
-        "Canada",
-        "first",
-        "ever"
-      ],
-      "summary": "Cyle Larin comes off the bench to score for Canada against Bosnia-Herzegovina to earn the co-hosts a 1-1 draw as they pick up their first ever point at a World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "A new way to experience the World Cup - only on BBC Sport",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-12T22:18:24+00:00",
-      "score": 20.0,
-      "keywords": [
-        "experience",
+        "Perry",
         "World",
-        "only",
-        "Sport"
+        "fans",
+        "spot",
+        "Katy",
+        "wearing"
       ],
-      "summary": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? Now you can on the BBC.",
+      "summary": "KATY PERRY wore a pin bearing the Canadian flag during the World Cup opening ceremony - and came under fire for her performance. The American, 41, headed onto the pitch to belt out a ballad ahead of USA's 4-1 win over Paraguay in Los Angeles. It came a matter of hours after Michael Buble and...",
       "summary_cn": ""
     },
     {
-      "title": "USA v Paraguay: World Cup 2026 – live",
+      "title": "Pogba: Carrick gave 'another energy' to Man Utd",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/12/usa-v-paraguay-world-cup-2026-live",
+      "url": "https://www.espn.com/soccer/story/_/id/49040627/michael-carrick-gave-man-united-another-energy-paul-pogba",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:44:43+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "Pogba",
+        "gave"
+      ],
+      "summary": "Paul Pogba has told ESPN that Michael Carrick gave fresh \"energy\" to the Manchester United players this season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "VAR makes 'mistaken identity' history as strange booking confuses fans",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c5yze890365o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-13T03:43:46+00:00",
+      "score": 20.0,
+      "keywords": [
+        "makes",
+        "mistaken",
+        "identity",
+        "history",
+        "strange",
+        "booking"
+      ],
+      "summary": "The United States open their World Cup campaign with a fine win - but not before a sequence of events that left everyone scratching their heads.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Balogun stars in impressive USA win over Paraguay",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-13T04:21:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Balogun",
+        "stars",
+        "impressive",
+        "Paraguay"
+      ],
+      "summary": "Folarin Balogun scores twice as the USA begin their World Cup campaign with a convincing 4-1 victory over Paraguay at the Los Angeles Stadium.",
+      "summary_cn": ""
+    },
+    {
+      "title": "USA bulldoze Paraguay as co-hosts romp to victory in World Cup opener",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-12T23:12:54+00:00",
+      "published": "2026-06-13T03:03:01+00:00",
+      "score": 20.0,
+      "keywords": [
+        "bulldoze",
+        "Paraguay",
+        "hosts",
+        "romp",
+        "victory",
+        "World"
+      ],
+      "summary": "Across the parking lot from Los Angeles Stadium sits the Forum. In the 1980s, it served as the stage for one of American sports’ most enthralling entertainment outfits, the Los Angeles Lakers. Opening their campaign at the 2026 World Cup in front of 70,492 fans, the US men’s national team embraced t",
+      "summary_cn": ""
+    },
+    {
+      "title": "Cold War Steve on … Gianni Infantino staying cool as World Cup heats up",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/13/cold-war-steve-on-gianni-infantino-staying-cool-as-world-cup-heats-up",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-13T04:00:04+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Cold",
+        "Steve",
+        "Gianni",
+        "Infantino",
+        "staying",
+        "cool"
+      ],
+      "summary": "The first in a special series of World Cup 2026 themed collages made for the Guardian by the celebrated satirist Continue reading...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Injury deprived me of chance to play so I am going to the World Cup to support Brazil | Rodrygo",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/13/rodrygo-world-cup-injury-support-brazil",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-13T04:00:04+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Injury",
+        "deprived",
+        "chance",
+        "play",
+        "going",
+        "World"
+      ],
+      "summary": "Watching the squad presentation knowing I wasn’t in it was tough, but I have high hopes with Carlo Ancelotti in charge I am travelling to the United States this week to watch some of the Seleção ’s games at the World Cup. I’ll be continuing my daily treatment to recover from the knee injury I suffer",
+      "summary_cn": ""
+    },
+    {
+      "title": "Why football does not remember the name of its greatest ever Jewish player",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-13T04:00:03+00:00",
+      "score": 20.0,
+      "keywords": [
+        "football",
+        "remember",
+        "name",
+        "greatest",
+        "ever",
+        "Jewish"
+      ],
+      "summary": "Influential Jewish managers such as Bela Guttman survived the Holocaust. In his new book, David Bolchover explores the great players who did not Who was the best Brazilian player of all time? Pelé comes the answer. Argentina? Maradona or Messi. Hungary? Puskas. Holland? Cruyff. Germany? Beckenbauer.",
+      "summary_cn": ""
+    },
+    {
+      "title": "USA 4 Paraguay 1: Folarin Balogun double inspires rampant World Cup hosts to victory in Los Angeles",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39396818/usa-paraguay-world-cup-match-report-folarin-balogun/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-13T03:03:27+00:00",
       "score": 20.0,
       "keywords": [
         "Paraguay",
+        "Folarin",
+        "Balogun",
+        "double",
+        "inspires",
+        "rampant"
+      ],
+      "summary": "USA made the perfect start to the World Cup with a dominant win over Paraguay in Los Angeles. Folarin Balogun scored twice in the first half as Mauricio Pochettino's men romped to victory in their Group D opener. Pochettino’s system immediately went to work at the start of the first half with multip",
+      "summary_cn": ""
+    },
+    {
+      "title": "Dempsey slams Marsch over anthem: Stay in lane",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49044184/dempsey-slams-marsch-us-anthem-claim",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:55:16+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Dempsey",
+        "Clint Dempsey",
+        "slams",
+        "Marsch",
+        "anthem",
+        "Stay"
+      ],
+      "summary": "United States legend Clint Dempsey had some choice words for former national team assistant Jesse Marsch, who suggested Thursday that some American players needed encouragement to sing the anthem ahead of games.",
+      "summary_cn": ""
+    },
+    {
+      "title": "VAR review: What was the 'mistaken identity' check...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49046171/var-review-was-mistaken-identity-check-usmnts-win",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T05:28:24+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Almirón",
+        "Miguel Almirón",
+        "review",
+        "mistaken",
+        "identity",
+        "check"
+      ],
+      "summary": "After originally giving USMNT defender Tim Ream a yellow card, the referee was called to the screen and reissued it to Paraguay's Miguel Almirón.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Four goals and an electric display: USMNT's World ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49046778/usmnts-world-cup-opener-was-perfect",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T05:35:53+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Four",
+        "goals",
+        "electric",
+        "display",
+        "USMNT",
+        "World"
+      ],
+      "summary": "World Cup co-hosts the United States banished any doubts hanging over the team with a decisive 4-1 victory over Paraguay on Friday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "USMNT player ratings: Balogun, Pulisic team-best p...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T05:35:53+00:00",
+      "score": 10.0,
+      "keywords": [
+        "USMNT",
+        "player",
+        "ratings",
+        "Balogun",
+        "Pulisic",
+        "team"
+      ],
+      "summary": "In the USMNT's World Cup-opening win, Folarin Balogun and Christian Pulisic share the spotlight as the team's best players.",
+      "summary_cn": ""
+    },
+    {
+      "title": "U.S. starts in style with largest WC win since 193...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49045878/usa-paraguay-2026-world-cup-balogun-pulisic-reyna",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:55:16+00:00",
+      "score": 10.0,
+      "keywords": [
+        "starts",
+        "style",
+        "largest",
+        "since"
+      ],
+      "summary": "Folarin Balogun scored twice, and Gio Reyna struck a sensational goal late as the U.S. beat Paraguay 4-1 to start the World Cup.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Pulisic subbed off at halftime, 'hoping it's nothi...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49045997/christian-pulisic-subbed-half-usmnt-rolling",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:55:16+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Pulisic",
+        "subbed",
+        "halftime",
+        "hoping",
+        "nothi"
+      ],
+      "summary": "United States winger Christian Pulisic was substituted at halftime of his team's World Cup opener against Paraguay on Friday, with the Americans leading 3-0 at the break.",
+      "summary_cn": ""
+    },
+    {
+      "title": "FIFA defends attendance despite empty seats",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49042423/fifa-defends-attendance-figure-amidst-empty-seats-south-korea-vs-czechia",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:44:43+00:00",
+      "score": 10.0,
+      "keywords": [
+        "FIFA",
+        "defends",
+        "attendance",
+        "despite",
+        "empty",
+        "seats"
+      ],
+      "summary": "FIFA insists the attendance figure for the World Cup clash between South Korea and Czech Republic was accurate after pictures appeared to show thousands of empty seats.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Partey denied entry to Canada, will miss WC game",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49041808/thomas-partey-ghana-opener-2026-world-cup-denied-entry-canada",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:44:43+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Partey",
+        "denied",
+        "entry",
+        "Canada",
+        "miss",
+        "game"
+      ],
+      "summary": "Ghana's Thomas Partey will miss their opening match of the 2026 World Cup against Panama after being denied entry to Canada.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ancelotti: 'Beautiful moment' to lead Brazil at WC...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49043516/carlo-ancelotti-ready-beautiful-moment-brazil-prepare-hunt-sixth-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:45:10+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Ancelotti",
+        "Beautiful",
+        "moment",
+        "lead",
+        "Brazil"
+      ],
+      "summary": "Carlo Ancelotti has said he is ready for a \"beautiful moment\" in his already stellar coaching career, as he prepares to take charge of his first game at the World Cup.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sources: Barça near loan deal for U.S.'s Kochen",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49043823/barcelona-loan-us-goalkeeper-diego-kochen-danish-club-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:44:43+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Sources",
+        "near",
+        "loan",
+        "deal",
+        "Kochen"
+      ],
+      "summary": "Barcelona are near a final agreement that would send American goalkeeper Diego Kochen on loan for one season to Denmark's Lyngby Boldklub, a source told ESPN.",
+      "summary_cn": ""
+    },
+    {
+      "title": "📈 Ranking the 50 best players in the World Cup",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:55:16+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Ranking",
+        "best",
+        "players",
+        "World"
+      ],
+      "summary": "The 2026 FIFA World Cup will feature the world's best talent. Let's rank the top 50 players who will be there!",
+      "summary_cn": ""
+    },
+    {
+      "title": "As it happened: Balogun, Reyna score as USMNT crus...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49013416/2026-world-cup-updates-united-states-begin-tournament-paraguay",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T05:28:24+00:00",
+      "score": 10.0,
+      "keywords": [
+        "happened",
+        "Balogun",
+        "Reyna",
+        "score",
+        "USMNT",
+        "crus"
+      ],
+      "summary": "The United States has begun the 2026 FIFA World Cup in style, thumping Paraguay 4-1 in Los Angeles on Friday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Don't forget Canada: Why opening draw shows this i...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49044571/forget-canada-world-cup-hosts-bosnia-why-opening-draw-shows-their-world-cup-too",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:38:23+00:00",
+      "score": 10.0,
+      "keywords": [
+        "forget",
+        "Canada",
+        "opening",
+        "draw",
+        "shows"
+      ],
+      "summary": "Never mind the fact that Canada didn't win: The World Cup co-hosts made history Friday and earned their first point.",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup Daily as it happened: Canada tie Bosnia;...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49032307/world-cup-daily-live-usmnt-canada-opening-games",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-13T04:44:15+00:00",
+      "score": 10.0,
+      "keywords": [
         "World",
-        "live"
+        "Daily",
+        "happened",
+        "Canada",
+        "Bosnia"
       ],
-      "summary": "⚽️ Kick-off at 9pm EDT/2am BST/11am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Beau There will be no rousing Hollywood pep talk from Mauricio Pochettino ahead of today’s USMNT World Cup opener. He and his players are trusting nearly two years of work since he took the helm – plus all o",
-      "summary_cn": ""
-    },
-    {
-      "title": "BBC kicks off World Cup broadcast battle in Salford and provides contrast to ITV’s celebrity slop",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/12/bbc-world-cup-broadcast-battle-salford--itv-celebrity-slop",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-12T22:32:52+00:00",
-      "score": 20.0,
-      "keywords": [
-        "kicks",
-        "World",
-        "broadcast",
-        "battle",
-        "Salford",
-        "provides"
-      ],
-      "summary": "Journalistic muscles were flexed with Ros Atkins factchecking real-world issues with production offering merits more achievable by working from home Must a World Cup broadcast be on location? The BBC, for reasons of cost and environmental concerns, has rolled back to when tournaments were beamed bac",
-      "summary_cn": ""
-    },
-    {
-      "title": "Micah Richards makes cheeky Gary Lineker reference live on BBC for first World Cup clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39395573/micah-richards-gary-lineker-joke-bbc-world-cup-tv/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-12T22:45:41+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Micah",
-        "Richards",
-        "makes",
-        "cheeky",
-        "Gary",
-        "Lineker"
-      ],
-      "summary": "MICAH RICHARDS took a cheeky dig at Gary Lineker immediately after returning to the BBC during the World Cup. It only took minutes of the Beeb's first match for Richards to take a swipe at his fellow pundit - who he is also working with during the tournament. Former Match of the Day presenter Lineke",
-      "summary_cn": ""
-    },
-    {
-      "title": "Watch adorable Mexico-supporting DUCK as it joins crowd of fans for World Cup game",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39395878/world-cup-mexico-fans-duck/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-12T22:40:33+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Watch",
-        "adorable",
-        "Mexico",
-        "supporting",
-        "DUCK",
-        "joins"
-      ],
-      "summary": "A DUCK has shown its true colours after joining Mexico supporters for the World Cup opener. Mexico got off to a flyer as they started the tournament with a 2-0 victory over South Africa. Fans would have been thrilled with the result which gave them the best chance of reaching the knockout stages. Am",
+      "summary": "Enjoy all that happened from Friday's World Cup action, with features, news, video analysis and color from around the competition.",
       "summary_cn": ""
     }
   ]
