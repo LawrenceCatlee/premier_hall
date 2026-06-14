@@ -1,6 +1,387 @@
 {
   "items": [
     {
+      "title": "Knicks crowned NBA champions for first time in 53 years",
+      "title_cn": "",
+      "url": "https://www.skysports.com/nba/news/12040/13553860/nba-finals-new-york-knicks-crowned-champions-for-first-time-in-53-years-after-victory-over-san-antonio-spurs-in-game-5",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-14T06:32:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Spurs",
+        "Antonio",
+        "Knicks",
+        "crowned",
+        "champions",
+        "first"
+      ],
+      "summary": "The New York Knicks are the NBA champions for the first time in 53 years after another comeback victory over the San Antonio Spurs.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "McGinn strike beats Haiti as Scotland enjoy dream World Cup return",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-14T04:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "McGinn",
+        "John McGinn",
+        "strike",
+        "beats",
+        "Haiti",
+        "Scotland"
+      ],
+      "summary": "Scotland claimed their first World Cup finals win since 1990 as they beat Haiti 1-0 in their Group C opener with John McGinn scoring the winner.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "McGinn fires Scotland to first World Cup win for 36 years",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-14T04:06:52+00:00",
+      "score": 26.0,
+      "keywords": [
+        "McGinn",
+        "John McGinn",
+        "fires",
+        "Scotland",
+        "first",
+        "World"
+      ],
+      "summary": "John McGinn's goal was enough as Scotland beat Haiti 1-0 at the Boston Stadium to record their first win at a World Cup for 36 years.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Fans fume Haiti were ‘ROBBED’ in World Cup defeat to Scotland after controversial penalty shout and red card decision",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39405785/fans-fume-haiti-robbed-world-cup-defeat-scotland/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-14T04:56:29+00:00",
+      "score": 26.0,
+      "keywords": [
+        "McGinn",
+        "John McGinn",
+        "Fans",
+        "fume",
+        "Haiti",
+        "ROBBED"
+      ],
+      "summary": "WORLD CUP fans reckon Scotland were lucky not to concede TWO penalties and go down to ten men during their first World Cup win since 1990. John McGinn grabbed the only goal of the game as Steve Clarke's side notched a 1-0 victory against the central American minnows. It means the Scots are top of...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Fifa release statement on controversial decision three hours after World Cup match following VAR technology outage",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39405092/fifa-world-cup-statement-controversial-var/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-14T04:34:55+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "Fifa",
+        "release",
+        "statement",
+        "controversial",
+        "decision"
+      ],
+      "summary": "FIFA were forced to release a statement over a VAR fault after a controversial decision at the World Cup. Switzerland faced Qatar in their Group B opener on Saturday. Qatar grabbed a dramatic injury-time equaliser to rescue a point. But it was Switzerland's early penalty that sparked debate. Remo Fr",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Clarke: Haiti was a must-win game - and we won",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13553844/haiti-0-1-scotland-steve-clarke-reflects-on-must-win-world-cup-group-c-opener-as-andy-robertson-says-players-achieved-their-dreams",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-14T05:45:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Clarke",
+        "Haiti",
+        "must",
+        "game"
+      ],
+      "summary": "Steve Clarke was in a proud and somewhat defiant mood after Scotland won their first World Cup match in 36 years with a 1-0 victory against Haiti in their Group C opener.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Why Haiti v Scotland was antidote to the ills of world football",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-14T04:54:15+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Haiti",
+        "Scotland",
+        "antidote",
+        "ills",
+        "world",
+        "football"
+      ],
+      "summary": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "England's first World Cup training session: What did we learn?",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cx2kjrrxxx2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-14T05:01:16+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "first",
+        "World",
+        "training",
+        "session",
+        "learn"
+      ],
+      "summary": "England have had their first training session in Kansas City - what did we learn?",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "'A must win game and we won' - Clarke",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cwyljn95e4jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-14T04:14:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "must",
+        "game",
+        "Clarke"
+      ],
+      "summary": "Scotland manager Steve Clarke reacts to his side's 1-0 victory over Haiti in their Group C opener at the Boston Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Australia v Turkey: World Cup 2026 – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/14/fifa-world-cup-2026-live-socceroos-australia-v-turkey-updates-aus-vs-tur-group-d-match-score-latest",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-14T05:53:49+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Australia",
+        "Turkey",
+        "World",
+        "live"
+      ],
+      "summary": "⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Jonathan Kenan Yildiz starts on the bench as he recovers from a slight knock. Kerem Aktürkoğlu starts up front in the only deviation from what you might consider Turkey’s best XI. 23 Cakir (gk),",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "England get rapturous welcome as they settle in to sprawling Kansas City home",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/14/england-world-cup-training-base-kansas-city-swope",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-14T04:04:28+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "rapturous",
+        "welcome",
+        "settle",
+        "sprawling",
+        "Kansas"
+      ],
+      "summary": "England’s squad arrived at Swope Soccer Village, their World Cup base, to find locals (and the local police) out in force Before Thomas Tuchel and his England players departed for the United States, there was talk about their World Cup training ground in Kansas City being too open. It was motivated,",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "DR Congo bring style and pride to the World Cup after wholesome welcome",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/14/dr-congo-world-cup-houston",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-14T04:00:32+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Congo",
+        "bring",
+        "style",
+        "pride",
+        "World",
+        "wholesome"
+      ],
+      "summary": "Brutally tough return to tournament awaits, but the stature of opposition feels less important than the fact of being here at all It was an arrival worth more than half a century of waiting. The Democratic Republic of the Congo (DRC) players strolled into the arrivals hall of George Bush airport on ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "England stars were robbed of stuffed lion toys, boots and LEGO Nike Air shoe in £13,500 World Cup heist",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39405926/england-world-cup-heist-lion-toys-boots-lego/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-14T05:31:46+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "stars",
+        "robbed",
+        "stuffed",
+        "lion",
+        "toys"
+      ],
+      "summary": "LION soft toys, boots and a LEGO Nike Air shoe were part of the £13,500 worth of equipment recovered following the England World Cup heist. A haulage company were tasked with transporting England's cargo from their pre-World Cup Miami base to their centre in Kansas City, where they will be for the d",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Neuer fit to start for Germany after calf injury",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49055167/manuel-neuer-fit-start-germany-curacao-nagelsmann",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-14T06:15:01+00:00",
+      "score": 18.0,
+      "keywords": [
+        "Neuer",
+        "start",
+        "Germany",
+        "calf",
+        "injury"
+      ],
+      "summary": "At a news conference the evening before Germany's first 2026 FIFA World Cup match against Curaçao, manager Julian Nagelsmann confirmed that goalkeeper Manuel Neuer was healthy enough to play after a recent calf injury.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Socceroos vs. Türkiye LIVE: Australia's opening 20...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49055324/socceroos-vs-turkiye-live-australias-opening-2026-world-cup-match",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-14T06:50:24+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Socceroos",
+        "LIVE",
+        "Australia",
+        "opening"
+      ],
+      "summary": "With Group D wide open after the USMNT's 4-1 win over Paraguay, can Australia or Türkiye take the initiative? Follow all the action LIVE with ESPN.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Vinícius Jr. rescues draw for Brazil against Moroc...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49054529/brazil-vs-morocco-2026-world-cup-vinicius-junior",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-14T06:14:31+00:00",
+      "score": 10.0,
+      "keywords": [
+        "rescues",
+        "draw",
+        "Brazil",
+        "against",
+        "Moroc"
+      ],
+      "summary": "Brazil boss Carlo Ancelotti suggested \"nerves\" got the better of his players during a dreadful start to their opening World Cup fixture against Morocco as his team settled for a 1-1 draw.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Swiss devastated as proud Qatar win 1st WC point",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49053969/switzerland-qatar-world-cup-2026",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-14T06:14:31+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Swiss",
+        "devastated",
+        "proud",
+        "Qatar",
+        "point"
+      ],
+      "summary": "Qatar scored a stoppage-time goal to earn a shocking 1-1 draw with Group B favorites Switzerland on Saturday.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Scotland ease 'pressure' with 1st WC win since 199...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49057757/scotland-haiti-2026-world-cup-steve-clarke",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-14T06:14:31+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Scotland",
+        "ease",
+        "pressure",
+        "since"
+      ],
+      "summary": "Steve Clarke said his Scotland side's long-awaited World Cup win over Haiti means the team have less pressure on them as they prepare to face Morocco.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "Bailed out by Vinícius Júnior, Brazil are still a ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49055494/fifa-world-cup-bailed-vinicius-junior-brazil-work-progress",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-14T06:50:28+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Bailed",
+        "Brazil",
+        "still"
+      ],
+      "summary": "Vinícius Júnior's superb goal was enough to help Brazil scrape a 1-1 draw in their underwhelming World Cup opener against Morocco.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
+      "title": "How Eredivisie top scorer Ueda now has to plot Net...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49046353/how-eredivisie-top-scorer-ueda-now-plot-netherlands-downfall",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-14T06:35:02+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Eredivisie",
+        "scorer",
+        "Ueda",
+        "plot"
+      ],
+      "summary": "Japan's Ayase Ueda has blossomed and he now has to hurt the Netherlands' World Cup prospects.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-14T05:59:05.830463+00:00"
+    },
+    {
       "title": "Papers: Carrick open to Rashford Man Utd return",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13553832/manchester-united-transfers-michael-carrick-open-to-allowing-marcus-rashford-to-return-to-old-trafford-ahead-of-next-season-paper-talk",
