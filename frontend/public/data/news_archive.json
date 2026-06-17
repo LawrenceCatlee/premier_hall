@@ -1,6 +1,465 @@
 {
   "items": [
     {
+      "title": "Sky Sports to broadcast Major League Cricket in 2026 season",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13554946/major-league-cricket-sky-sports-announces-deal-to-broadcast-usas-premier-t20-competition-for-2026-season",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-17T16:00:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Ireland",
+        "Sports",
+        "broadcast",
+        "Major",
+        "League",
+        "Cricket"
+      ],
+      "summary": "Major League Cricket have announced their 2026 season will be available live on Sky Sports in the UK and Ireland.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Royal Ascot replay | Photo finish in the Queen's Vase!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13555017/royal-ascot-replay-photo-finish-in-the-queens-vase",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-17T15:27:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "stone",
+        "Royal",
+        "Ascot",
+        "replay",
+        "Photo",
+        "finish"
+      ],
+      "summary": "The Queen's Vase served up a thriller on day two at Royal Ascot as Limestone beat Del Maro by a nose in a photo finish.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Royal Ascot replay | One-eyed horse Victorious wins the Queen Mary!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13555006/royal-ascot-replay-one-eyed-horse-victorious-wins-the-queen-mary",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-17T14:56:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "O'Brien",
+        "Royal",
+        "Ascot",
+        "replay",
+        "eyed",
+        "horse"
+      ],
+      "summary": "Victorious, who has one eye, impressed as she won the Queen Mary Stakes to open day two at Royal Ascot, bringing up Aidan O'Brien's 99th victory at the meeting.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Why is Luke Shaw not playing for England at World Cup 2026?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39446265/why-luke-shaw-not-playing-england/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T15:15:14+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Luke Shaw",
+        "Luke",
+        "Shaw",
+        "playing",
+        "England"
+      ],
+      "summary": "LUKE Shaw had a strong domestic campaign, starting every one of Manchester United's Premier League games this season. But it still wasn't enough to earn him a place in Thomas Tuchel's squad at World Cup 2026 – here's everything we know. Why is Luke Shaw not playing for England? Luke Shaw, 30, has ea",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Why is Phil Foden not playing for England at World Cup 2026?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39419360/phil-foden-not-playing-england-world-cup-2026/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T15:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Phil Foden",
+        "Foden",
+        "Phil",
+        "playing",
+        "England"
+      ],
+      "summary": "PHIL FODEN was one of the most talked-about absentees when Thomas Tuchel named his England squad for the 2026 World Cup on May 22. Here's everything you need to know about why the Manchester City star is watching the tournament from home. Why is Phil Foden not playing for England at World Cup 2026? ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "‘Good on ya’ – BBC viewers love Wayne Rooney’s new look with fans convinced England icon has ‘lost loads of weight’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39446256/wayne-rooney-bbc-weight-loss-england-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T14:49:26+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Clichy",
+        "Rooney",
+        "Wayne Rooney",
+        "Good",
+        "viewers",
+        "love"
+      ],
+      "summary": "BBC viewers are convinced that Wayne Rooney has lost a ton of weight as they flocked to social media to praise his new look. The Premier League icon is working for the national broadcaster during the World Cup this summer. Rooney, 40, is appearing on screen as a pundit and was alongside Gael Clichy ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Who is England vs Croatia referee Clement Turpin? Meet the French official once branded ‘terrible’ by Thomas Tuchel",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39291005/clement-turpin-world-cup-2026-referee/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T15:51:55+00:00",
+      "score": 28.0,
+      "keywords": [
+        "England",
+        "Croatia",
+        "referee",
+        "Clement",
+        "Turpin",
+        "Meet"
+      ],
+      "summary": "CLEMENT TURPIN is the man in the middle of England vs Croatia tonight at World Cup 2026. The Frenchman, known for officiating in the Champions League, is officiating at his sixth international tournament this summer. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS Who is Clement Turpin? Clement Turpin i",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Ronaldo starts as Portugal face DR Congo in opener",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/portugal-vs-dr-congo/live/549786",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-17T16:50:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "starts",
+        "Portugal",
+        "face",
+        "Congo",
+        "opener"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Brilliant Blue Bolt lights up Duke Of Cambridge Stakes",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13555025/brilliant-blue-bolt-lights-up-duke-of-cambridge-stakes",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-17T16:03:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "bridge",
+        "Brilliant",
+        "Blue",
+        "Bolt",
+        "lights",
+        "Duke"
+      ],
+      "summary": "Blue Bolt stormed to victory in the Duke Of Cambridge Stakes on day two at Royal Ascot.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Sciver-Brunt to miss England's next two T20 World Cup matches",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555021/england-captain-nat-sciver-brunt-to-miss-next-two-womens-t20-world-cup-matches-with-calf-injury",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-17T16:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Brunt",
+        "Ireland",
+        "Sciver",
+        "miss",
+        "England",
+        "next"
+      ],
+      "summary": "England captain Nat Sciver-Brunt has been ruled out of her side's next two matches at the Women's T20 World Cup with a calf injury sustained in Tuesday's win over Ireland.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Portugal v DR Congo: World Cup 2026 – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-17T15:00:35+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Silva",
+        "Ronaldo",
+        "Carvalho",
+        "Portugal",
+        "Congo",
+        "World"
+      ],
+      "summary": "⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Daniel Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Harry Redknapp blasts England’s most famous WAGs as he backs 2026 wives to inspire Three Lions glory",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39446221/harry-redknapp-backs-england-wags-inspire-three-lions/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T15:40:29+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Redknapp",
+        "Harry",
+        "blasts",
+        "England",
+        "most",
+        "famous"
+      ],
+      "summary": "HARRY Redknapp has backed England's WAGs to help bring football home - because they're nothing like the 2006 squad's spouses. The iconic football manager blasted the \"circus\" caused by the wives and girlfriends in Germany, which was blamed for the Three Lions' early exit two decades ago. Ring leader",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Who are Harry Kane’s parents Pat and Kim & does he have any siblings?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39337378/harry-kane-parents-pat-kim/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T15:37:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "Harry",
+        "Kane",
+        "parents",
+        "siblings"
+      ],
+      "summary": "HARRY KANE is England's skipper and record goalscorer, and one of the most lethal strikers on the planet. But behind the Bayern Munich superstar is a close-knit family that has been with him every step of the way. Who are Harry Kane's parents Pat and Kim? Harry Kane was born on July 28, 1993, and...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "How many children does Cristiano Ronaldo have, and what are their names?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39444939/how-many-children-does-ronaldo-have/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T14:35:01+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Cristiano Ronaldo",
+        "Rodriguez",
+        "Ronaldo",
+        "Rodri",
+        "many",
+        "children"
+      ],
+      "summary": "CRISTIANO Ronaldo is up there with the greatest footballers of all time, and is also the father of five kids. The five-time Ballon d’Or winner is engaged to model and influencer Georgina Rodriguez. Here's everything we know about their family. How many children does Ronaldo have? Cristiano Ronaldo h",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Full race replay | Ombudsman defends Prince Of Wales's Stakes title",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13555040/full-race-replay-ombudsman-defends-prince-of-waless-stakes-title",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-17T16:46:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Full",
+        "race",
+        "replay",
+        "Ombudsman",
+        "defends",
+        "Prince"
+      ],
+      "summary": "Ombudsman shrugged off rivals Minnie Hauk and Daryz to defend his Prince Of Wales's Stakes title in great style on day two at Royal Ascot.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Borthwick: 'Very realistic' that Itoje misses England summer fixtures",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13555032/maro-itoje-very-realistic-that-england-captain-misses-all-summer-fixtures-says-head-coach-steve-borthwick",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-17T16:30:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Borthwick",
+        "Very",
+        "realistic",
+        "Itoje",
+        "misses",
+        "England"
+      ],
+      "summary": "England captain Maro Itoje missing all three of his side's summer fixtures is \"very realistic\", according to head coach Steve Borthwick.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cgqklykgjqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-17T13:57:18+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Nearly",
+        "Asian",
+        "football",
+        "Uzbekistan",
+        "rise",
+        "World"
+      ],
+      "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "As USA World Cup barbs fly, the Socceroos get motivated to have the final word",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/18/usa-usmnt-barbs-australia-socceroos-world-cup-group-d-match",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-17T15:00:34+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "barbs",
+        "Socceroos",
+        "motivated",
+        "final",
+        "word"
+      ],
+      "summary": "Australia lean into their underdog status while fans and media build hype around highly anticipated Group D match The poisoned words have added sizzle to the Socceroos’ clash against the USA, and underlined the Australians’ belief in their status as underdogs. Commentators have described the Soccero",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Football Wag Apollonia Llewellyn almost bursts out of skimpy blue top as she leaves little to the imagination",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39446602/football-apollonia-llewellyn-blue-top-ring-girl-wag-beach/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T15:19:15+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Football",
+        "Apollonia",
+        "Llewellyn",
+        "almost",
+        "bursts",
+        "skimpy"
+      ],
+      "summary": "APOLLONIA LLEWELLYN has sent fans into frenzy with her latest Instagram post. She posed in a revealing blue top, threatening to spill out, as fans gushed. Her latest snaps were on a beach on Barbados. The social media star has built a huge following after being a ring girl on a Misfits boxing card, ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Lionel Messi’s dad ‘not in good health’ as reason for Argentina legend’s tears during World Cup clash revealed",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39446755/messi-dad-ill-why-he-cried-in-hattrick-win/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T15:00:43+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Lionel",
+        "Messi",
+        "good",
+        "health",
+        "reason",
+        "Argentina"
+      ],
+      "summary": "ARGENTINA captain Lionel Messi was reduced to tears after scoring his first 2026 World Cup goal, sparking an emotional reaction captivating fans worldwide. And it can be revealed that the reason behind the outpouring of emotion are over fears for his seriously unwell father Jorge Horacio Messi. The ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "‘Shocking’ amount Baddiel and Skinner make from ‘it’s coming home’ football anthem when England play",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39446333/baddiel-skinner-make-fortune-from-its-coming-home/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T14:50:30+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Shocking",
+        "amount",
+        "Baddiel",
+        "Skinner",
+        "make",
+        "coming"
+      ],
+      "summary": "FRANK Skinner and David Baddiel's iconic football anthem is a must-play whenever England take to the World Cup pitch. But the amount the comedians earn from Three Lions might surprise you. The nation's beloved footie tune was released back in May 1996, to mark that year's UEFA Euros tournament, host",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "Fans can snap up ultra-rare Panini World Cup stickers for just £1.25 a pack at little-known retailer as Argos sells out",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39444978/snap-up-rare-world-cup-stickers-4-p/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T14:04:26+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fans",
+        "snap",
+        "ultra",
+        "rare",
+        "Panini",
+        "World"
+      ],
+      "summary": "WITH the World Cup in full swing, many footie fans are getting stuck into sticker collecting. The nostalgic tradition of filling in a Panini sticker book is popular every time Euros or World Cup season rolls around - and 2026 is no different. The stickers are selling out fast at major retailers like",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
+      "title": "How England lined up last time they faced Croatia with four stars in World Cup squad and matchwinner left without a club",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39361257/england-world-cup-croatia-last-time-played/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-17T14:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "lined",
+        "last",
+        "time",
+        "faced",
+        "Croatia"
+      ],
+      "summary": "ENGLAND'S World Cup dream kick off with a crunch match against a familiar foe in Croatia. Thomas Tuchel's Three Lions are hoping to end 60 years of hurt in the United States, Canada and Mexico. And they start this tournament playing the Croats, the nation responsible for crushing England's dreams in",
+      "summary_cn": "",
+      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
+    },
+    {
       "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia",
@@ -38895,461 +39354,6 @@
       "summary": "A heavily-rotated Scotland eventually eased past 10-man Curacao 4-1 in their final match on home soil before heading off to the 2026 World Cup.",
       "summary_cn": "",
       "fetched_at": "2026-05-30T14:44:41.951741+00:00"
-    },
-    {
-      "title": "Scorecard: England vs India, second T20 international, Bristol",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/england-women-v-india-women/scorecard/65177e58-6c23-581f-866d-5fdf7032b667",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-05-30T14:20:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Scorecard",
-        "England",
-        "India",
-        "second",
-        "international",
-        "Bristol"
-      ],
-      "summary": "Live score from the second T20 international between England and India in Bristol. Watch on Sky Sports Cricket.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T14:44:41.951741+00:00"
-    },
-    {
-      "title": "Scotland recover to put four past 10-man Curaçao in World Cup warm-up",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/scotland-curacao-world-cup-warm-up-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-05-30T14:26:42+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Scotland",
-        "recover",
-        "four",
-        "past",
-        "World",
-        "warm"
-      ],
-      "summary": "In the early stages, Scotland looked to be opting for something different. That is, heading to a major tournament while completely unburdened by expectation. Little Curaçao were embarrassing Steve Clarke and his team. Scottish Football Association big wigs, who handed Clarke a four-year deal in rece",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T14:44:41.951741+00:00"
-    },
-    {
-      "title": "‘Better than Waka Waka’ – Fans now cheering for Bosnia after ‘masterpiece’ World Cup song",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260863/fans-cheer-bosnia-herzegovina-world-cup-song/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T13:51:44+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Better",
-        "Waka",
-        "Fans",
-        "cheering",
-        "Bosnia",
-        "masterpiece"
-      ],
-      "summary": "FANS are raving about play-off winners Bosnia and Herzegovina after they released a viral new song ahead of the World Cup. \"I am from Bosnia take me to America\" by Bosnian hip-hop band Dubioza Kolektiv has grabbed the attention of football fans around the world. Bosnia will play in Group B alongside",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T14:44:41.951741+00:00"
-    },
-    {
-      "title": "Champions League final live build up: PSG vs. Arse...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48903823/uefa-champions-league-final-live-updates-paris-saint-germain-vs-arsenal",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-30T15:38:24+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Arsenal",
-        "Champions",
-        "League",
-        "final",
-        "live",
-        "build"
-      ],
-      "summary": "Who will win the UEFA Champions League? Enjoy all of Saturday's updates for the final between Paris Saint-Germain and Arsenal in Budapest.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T14:44:41.951741+00:00"
-    },
-    {
-      "title": "Iraola the frontrunner to become Liverpool boss",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48918737/andoni-iraola-frontrunner-succeed-slot-liverpool-boss",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-30T14:29:36+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Liverpool",
-        "Iraola",
-        "frontrunner",
-        "become",
-        "boss"
-      ],
-      "summary": "Andoni Iraola is the leading candidate to succeed Arne Slot as Liverpool head coach, sources have told ESPN.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T14:44:41.951741+00:00"
-    },
-    {
-      "title": "Next Liverpool manager: Premier League boss huge favourite to replace Arne Slot with Enrique and Gerrard also in mix",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39261145/next-liverpool-manager-luis-enrique-steven-gerrard/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T12:07:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Gerrard",
-        "Next",
-        "manager",
-        "Premier",
-        "League"
-      ],
-      "summary": "ARNE SLOT has been sacked as Liverpool manager and the race is on to find his replacement. However, jumping to the top of the list of favourites to take over the hotseat at Anfield is a Premier League boss who has had a remarkable season with his club. Andoni Iraola is the bookies' favourite, accord",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "‘I wanted the ground to swallow me up’ – Little Mix star FAINTED after Jurgen Klopp’s request at Liverpool party",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260426/perrie-edwards-jurgen-klopp-liverpool-party/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T10:18:38+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Oxlade-Chamberlain",
-        "Alex Oxlade-Chamberlain",
-        "wanted",
-        "ground",
-        "swallow"
-      ],
-      "summary": "LITTLE Mix star Perrie Edwards has recounted how she fainted at a Liverpool club party. Perrie, 32, who is engaged to former Reds star Alex Oxlade-Chamberlain, revealed the embarrassing moment happened when Reds boss Jurgen Klopp asked her if she wanted to sing. The flustered singer said on Hits Rad",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "O'Dwyer, 16, added to Republic of Ireland squad as training player",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c62ekrlzye4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-30T10:35:18+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "Dwyer",
-        "added",
-        "Republic",
-        "squad",
-        "training"
-      ],
-      "summary": "Shamrock Rovers teenager Josh O'Dwyer is included in the Republic of Ireland squad for their friendly against World Cup co-hosts Canada in Montreal.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Liverpool sack head coach Slot",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-30T11:30:16+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "sack",
-        "head",
-        "coach",
-        "Slot"
-      ],
-      "summary": "Liverpool sack head coach Arne Slot after two seasons in charge.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Slot sacking completes a remarkable fall from grace",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-30T11:55:53+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Slot",
-        "sacking",
-        "completes",
-        "remarkable",
-        "fall",
-        "grace"
-      ],
-      "summary": "'Slot's is one of the most remarkable falls from grace in Premier League history' says chief football writer Phil McNulty.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Budapest police investigating fan brawl before Champions League final",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-30T10:36:59+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Budapest",
-        "police",
-        "investigating",
-        "brawl",
-        "Champions"
-      ],
-      "summary": "Police in Budapest have made arrests and are studying CCTV footage to identify supporters fighting before Saturday's Champions League final between Arsenal and Paris St-Germain.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Scotland v Curaçao: World Cup warm-up match – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/30/scotland-v-curacao-world-cup-warm-up-match-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-05-30T11:51:41+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Scotland",
-        "World",
-        "warm",
-        "match",
-        "live"
-      ],
-      "summary": "⚽ Latest updates from 1pm (BST) kick-off at Hampden Park ⚽ Scotland: World Cup 2026 team guide | Mail Scott Curaçao are not without star names themselves. Their captain Leandro Bacuna spent a decade in England, splitting his time between Aston Villa, Reading, Cardiff and Watford; his brother Juninho",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Liverpool’s classy statement in full after bombshell Arne Slot sacking as club insist ‘his legacy is intact’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39261076/liverpool-statement-arne-slot-sacked-andoni-iraola/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T11:41:05+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "classy",
-        "statement",
-        "full",
-        "bombshell",
-        "Arne"
-      ],
-      "summary": "LIVERPOOL have released a classy statement after the sacking of head-coach Arne Slot. Despite winning the Premier League just 12 months ago, the Dutchman has been shown the door after two seasons in charge, with the club insisting his legacy is still \"intact\". Liverpool's statement said: \"Having joi",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Liverpool SACK Arne Slot with Andoni Iraola set to replace him after Dutchman’s woeful Premier League title defence",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260947/liverpool-sack-arne-slot-andoni-iraola/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T11:14:47+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "Liverpool",
-        "Bournemouth",
-        "SACK",
-        "Arne",
-        "Slot"
-      ],
-      "summary": "LIVERPOOL have ruthlessly sacked Arne Slot after a woeful Premier League title defence. And outgoing Bournemouth chief Andoni Iraola is set to become his successor, according to reports. The Merseyside giants only sealed Champions League qualification with a 1-1 draw against Brentford on the final d",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Arsenal stadium is transformed with new features added to 60,000-capacity ground for Champions League final viewing",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260761/arsenal-stadium-transformed-champions-league-final/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T11:09:53+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "stadium",
-        "transformed",
-        "features",
-        "added",
-        "capacity"
-      ],
-      "summary": "THE Emirates Stadium is getting ready to play host to the Champions League final. On Saturday, Arsenal face PSG in the showpiece for Europe's greatest club competition. But, not every fan can make it to the Puskas Arena in Budapest. Many will be watching the game at the Emirates Stadium. And, as rev",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Arsenal fans paint north London red as they flood streets and queue for pubs ahead of Champions League final against PSG",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260397/arsenal-fans-paint-north-london-red-champions-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T10:41:33+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "fans",
-        "paint",
-        "north",
-        "London",
-        "flood"
-      ],
-      "summary": "ARSENAL fans have flooded the streets of North London ahead of the Champions League Final. Crowds of red shirts were seen gathering at pubs across Islington from 8am this morning ahead of today's showdown with Paris Saint-Germain. Those who didn't make it to Hungary will be flocking to the Emirates ",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Chipper Kevin Keegan, 75, jokes ‘I’m still alive’ as he makes 1st public appearance since shock cancer diagnosis",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39260352/kevin-keegan-jokes-still-alive-cancer-appearance/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-05-30T10:35:37+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "Chipper",
-        "Kevin",
-        "Keegan",
-        "jokes",
-        "still"
-      ],
-      "summary": "FOOTBALL legend Kevin Keegan cracks a joke about still being alive as he makes his first public appearance after his cancer diagnosis. The former England star and Newcastle United manager popped up on social media ahead of his appearance at the Tyne Theatre tomorrow in conversation with Peter Graves",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Arne Slot exits Liverpool one year after Premier L...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48918413/arne-slot-leaves-liverpool-immediate-effect",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-30T12:55:52+00:00",
-      "score": 23.0,
-      "keywords": [
-        "Liverpool",
-        "Arne",
-        "Slot",
-        "exits",
-        "year",
-        "Premier"
-      ],
-      "summary": "Liverpool have confirmed head coach Arne Slot will leave the club with immediate effect.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "All you need to know about World Sevens football",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/articles/clyp08n5599o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-30T11:25:11+00:00",
-      "score": 20.0,
-      "keywords": [
-        "need",
-        "know",
-        "World",
-        "Sevens",
-        "football"
-      ],
-      "summary": "Our Ask Me Anything team explains how World Sevens Football works, which teams are involved, and how you can follow it.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "What's happened in soccer since the 2022 World Cup...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48908448/whats-happened-soccer-2022-fifa-world-cup",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-05-30T11:21:05+00:00",
-      "score": 10.0,
-      "keywords": [
-        "happened",
-        "soccer",
-        "since",
-        "World"
-      ],
-      "summary": "If you're readying to tune back into the World Cup but haven't watched much since Qatar 2022, what have you missed? Quite a lot, actually.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T12:09:22.046537+00:00"
-    },
-    {
-      "title": "Arteta inspiration as Ramsey eyes management future",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cg5pp9zggnmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-30T08:11:11+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Mikel",
-        "Ramsey",
-        "Aaron Ramsey",
-        "Mikel Arteta",
-        "Arteta"
-      ],
-      "summary": "Aaron Ramsey describes Mikel Arteta as an inspiration as he aims to follow his former Arsenal team-mate's success.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T10:08:17.197418+00:00"
-    },
-    {
-      "title": "Sterling arrested on suspicion of drug driving",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13549234/raheem-sterling-former-england-international-arrested-on-suspicion-of-drug-driving-sky-news-understands",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-05-30T10:36:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Sterling",
-        "Raheem Sterling",
-        "arrested",
-        "suspicion",
-        "drug",
-        "driving"
-      ],
-      "summary": "Former England international Raheem Sterling has been arrested on suspicion of drug driving, according to Sky News .",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T10:08:17.197418+00:00"
-    },
-    {
-      "title": "Whelan is new head coach at Livingston",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c775g7pv5veo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-05-30T09:18:28+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Glenn Whelan",
-        "Whelan",
-        "Ireland",
-        "head",
-        "coach",
-        "Livingston"
-      ],
-      "summary": "Former Republic of Ireland international Glenn Whelan is appointed head coach at Livingston.",
-      "summary_cn": "",
-      "fetched_at": "2026-05-30T10:08:17.197418+00:00"
     }
   ]
 }
