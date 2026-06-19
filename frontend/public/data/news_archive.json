@@ -1,6 +1,486 @@
 {
   "items": [
     {
+      "title": "Ipswich close in on O'Neil as new head coach",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/c3vy5g610yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-19T20:28:59+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Ipswich",
+        "Wolves",
+        "Bournemouth",
+        "Kenna",
+        "close",
+        "Neil"
+      ],
+      "summary": "Former Wolves and Bournemouth boss O'Neil close to joining Ipswich after Keiran McKenna's departure.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Lampard & Coventry hold positive talks over new deal",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cwy06qvwlj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-19T19:49:53+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Fulham",
+        "Lampard",
+        "Frank Lampard",
+        "Coventry",
+        "hold",
+        "positive"
+      ],
+      "summary": "Coventry manager Frank Lampard has held positive talks over a new contract amid interest from Fulham.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Ex-West Ham star Michail Antonio to face trial after having driving conviction quashed",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39476131/michail-antonio-trial-driving-conviction-quashed/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T21:09:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Michail Antonio",
+        "Antonio",
+        "March",
+        "West",
+        "star"
+      ],
+      "summary": "EX-West Ham ace Michail Antonio is to face trial after having a driving ­conviction quashed. The striker’s Lamborghini Urus was clocked at 50mph in a 40mph zone in Birmingham in March 2025. Antonio, 36, was due to be ­sentenced yesterday after he was found guilty in his absence this April of failing",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Man City closing in on £130million Elliot Anderson transfer with England star braced to undergo medical in US",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39475572/man-city-elliot-anderson-transfer-medical-us-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T19:16:39+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Anderson",
+        "Patrick Vieira"
+      ],
+      "summary": "MANCHESTER CITY are closing in on Elliot Anderson - with Patrick Vieira convinced they will be getting a 'complete midfielder'. The Etihad giants have seen two bids knocked back for the Nottingham Forest ace – the most recent one worth over £120 million. Forest owner Evangelos Marinakis is holding o",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Inside Tuchel’s World Cup camp with baseball and burnt ends bringing England stars together to fix Euro 2024 headache",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39475892/thomas-tuchel-world-cup-camp-england/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T19:53:42+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Inside",
+        "Tuchel",
+        "World",
+        "camp",
+        "baseball",
+        "burnt"
+      ],
+      "summary": "NEVER mind Wonderwall, England should bring back All Together Now as their tournament theme song. The lyrics to The Farm’s 90s classic — which became the Three Lions’ official anthem for Euro 2004 — fittingly capture the feeling of unity within Thomas Tuchel’s World Cup-chasing squad. Brotherhood ha",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Ecclestone backs Dean's return as captain after Sciver-Brunt injury",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555923/sophie-ecclestone-england-spinner-backs-charlie-deans-return-as-captain-vs-scotland-after-nat-sciver-brunt-injury",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-19T20:01:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Brunt",
+        "stone",
+        "Ecclestone",
+        "backs",
+        "Dean",
+        "return"
+      ],
+      "summary": "Sophie Ecclestone expects Charlie Dean to return to the England captaincy \"like a duck to water\" for their next two matches at the Women's T20 World Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Oval Test becoming 'Root's worst nightmare' as interim captain",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555921/england-vs-new-zealand-second-test-becoming-joe-roots-worst-nightmare-as-interim-captain-says-stuart-broad-with-young-side-toiling",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-19T20:15:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Stuart",
+        "Oval",
+        "Test",
+        "becoming",
+        "Root",
+        "worst"
+      ],
+      "summary": "Stuart Broad says the second Test is becoming England interim captain Joe Root's \"worst nightmare\" with New Zealand in a dominant position against an inexperienced home side.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "England winger Saka unlikely to start against Ghana",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-19T20:09:51+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Bukayo Saka",
+        "England",
+        "winger",
+        "Saka",
+        "unlikely",
+        "start"
+      ],
+      "summary": "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Scotland v Morocco: World Cup 2026 – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-19T21:08:49+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ferguson",
+        "Hendry",
+        "Fletcher",
+        "Robertson",
+        "Kelly",
+        "Adams"
+      ],
+      "summary": "⚽️ World Cup kick-off: 6pm local time/11pm BST/8am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email John Scotland: Gunn, Hanley, Hendry, Tierney, Patterson, McTominay, Ferguson, Robertson, McGinn, Christie, Adams. Subs: Kelly, Gordon, Hickey, Fletcher, Dykes, Stewart, Souttar, Hyam, Doak, H",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "BBC mocked as eagle-eyed fans spot World Cup city’s skyline has been EDITED to add bizarre feature during broadcast",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39475738/bbc-mocked-world-cup-houston-skyline-mountains/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T20:47:49+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Wayne Rooney",
+        "Giroud",
+        "Olivier Giroud",
+        "Rooney",
+        "mocked",
+        "eagle"
+      ],
+      "summary": "THE BBC has been mocked after mountains were bizarrely added to the Houston skyline during their World Cup coverage. The broadcaster showed Portugal's shock stalemate with DR Congo earlier this week. And presenter Mark Chapman was joined by England legend Wayne Rooney, along with Olivier Giroud and ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Granit Xhaka hailed by Switzerland boss after decisive World Cup display having been labelled ‘toxic’ after opener",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39471570/granit-xhaka-toxic-controversy-world-cup-switzerland/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T20:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Granit Xhaka",
+        "Xhaka",
+        "Granit",
+        "hailed",
+        "Switzerland",
+        "boss"
+      ],
+      "summary": "GRANIT XHAKA is no stranger to controversy, which is probably why he always seems to shake it off with ease. The 33-year-old silenced critics once again on Thursday night when he put in a captain’s performance as Switzerland blew away Bosnia and Herzegovina 4-1 in Los Angeles. Xhaka faced a slew of ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Fox pundit ‘leaves’ studio during World Cup as Zlatan Ibrahimovic says ‘America, you’re welcome’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39476162/fox-world-cup-zlatan-ibrahimovic-alexi-lalas/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T19:51:42+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Thierry Henry",
+        "Henry",
+        "pundit",
+        "leaves",
+        "studio",
+        "during"
+      ],
+      "summary": "FOX World Cup viewers were surprised to see Alexi Lalas not on their screens for the start of Friday's coverage. And Zlatan Ibrahimovic cheekily told fans, \"America, you're welcome.\" Lalas was not part of the World Cup studio team with Rebecca Lowe, Thierry Henry, and Ibrahimovic as he had previousl",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Brighton make improved offer for Spurs' Vuskovic",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13555941/luka-vuskovic-brighton-make-improved-45m-bid-for-tottenham-defender",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-19T21:16:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Tottenham",
+        "Spurs",
+        "make",
+        "improved",
+        "offer"
+      ],
+      "summary": "Brighton have made an improved offer to Tottenham Hotspur for centre-back Luka Vuskovic.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Spurs to enter Wharton chase - Saturday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-19T19:56:42+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fulham",
+        "Liverpool",
+        "Tottenham",
+        "Spurs",
+        "enter",
+        "Wharton"
+      ],
+      "summary": "Tottenham are the latest club interested in Adam Wharton, Liverpool are yet to agree a deal for Yan Diomande, Fulham fail with their opening bid for Chibuike Nwaiwu, plus more.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Fifa makes subtle change to way World Cup tables work for first time – and it means one team has already WON its group",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39476267/fifa-world-cup-rule-change-england-mexico/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T20:18:09+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fifa",
+        "makes",
+        "subtle",
+        "change",
+        "World",
+        "tables"
+      ],
+      "summary": "ENGLAND can seal top place in World Cup Group L with a match to spare on Tuesday - after Fifa changed the World Cup rules. Unlike Uefa, who have always put the direct results between teams that finish level on points first, Fifa has previously deployed overall goal difference in a group as the first",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "World Cup host city rocked by life-threatening flash floods days before hosting Lionel Messi and Argentina team-mates",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39475427/world-cup-city-rocked-flash-floods-before-messi/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T19:26:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "World",
+        "host",
+        "city",
+        "rocked",
+        "life",
+        "threatening"
+      ],
+      "summary": "DALLAS has been smashed with life-threatening floods just days before Lionel Messi and world champions Argentina pay a visit. Serious flooding hit the Dallas-Fort Worth area on Friday morning, with all 59 of Dallas Fire-Rescue's fire engines being deployed for vehicle-water calls. A \"critical\" weath",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Janse van Rensburg makes debut as England fall to France in non-cap international",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13555917/france-35-19-england-benhard-janse-van-rensburg-makes-debut-for-uncapped-xv-as-costly-errors-lead-to-defeat",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-19T19:44:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Janse",
+        "Rensburg",
+        "makes",
+        "debut",
+        "England",
+        "fall"
+      ],
+      "summary": "Benhard Janse van Rensburg&#8217;s hopes of a try-scoring England debut were dashed by fumbling hands as France emerged conclusive 35-19 winners in their non-cap international in Vannes.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "USA vs Australia World Cup clash delayed as REFEREE goes down with cramp then swigs emergency pickle juice",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39477008/usa-australia-world-cup-referee-felix-zwayer-cramp/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T21:10:24+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Australia",
+        "World",
+        "clash",
+        "delayed",
+        "REFEREE",
+        "goes"
+      ],
+      "summary": "THERE were shock scenes in the closing stages of USA's World Cup showdown with Australia after ref Felix Zwayer went down with CRAMP. The tournament co-hosts made it back-to-back wins by sealing a 2-0 victory in Seattle. But those in the stands were stunned when Zwayer, 45, needed treatment during s",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Algeria file complaint over refereeing after Lionel Messi escaped red card for STAMP on World Cup rival’s calf",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39476748/algeria-complaint-lionel-messi-referee-world-cup-argentina/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T21:04:52+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Algeria",
+        "file",
+        "complaint",
+        "refereeing",
+        "Lionel",
+        "Messi"
+      ],
+      "summary": "ALGERIA have lodged a complaint over alleged poor refereeing to Fifa in their defeat to Argentina. The African nation were beaten 3-0 by the holders this week in the opening game of Group J. Lionel Messi stole the show with a hat-trick - but only after he escaped a red card for standing on Aissa...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "USA 2 Australia 0: Red-hot USMNT seal World Cup knockout stage spot with own-goal and Alex Freeman header",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39477059/usa-australia-world-cup-match-report/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T21:04:23+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Australia",
+        "USMNT",
+        "seal",
+        "World",
+        "knockout",
+        "stage"
+      ],
+      "summary": "USA booked a place in the World Cup knockout rounds with a game to spare. Mauricio Pochettino's red-hot United States Men's National Team swept past Australia on Friday afternoon in Seattle. An own-goal from Cameron Burgess and a first-half header by Alex Freeman made it two wins from two for the US",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Former EFL club hit out at Fifa after England World Cup flag is BANNED over tiny detail on their badge",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39475946/efl-club-submarine-fifa-england-flag-banned-barrow-afc/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T20:43:03+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Former",
+        "club",
+        "Fifa",
+        "England",
+        "World",
+        "flag"
+      ],
+      "summary": "BARROW AFC have had a pop at Fifa after one of their fans was denied entry to an England game because of the club's badge. John Little attempted to bring his St George's flag, which contains the club badge in the top-left corner, to England's clash against Croatia, but wasn't allowed. The flag was f",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Ronaldinho, 46, comes out of retirement to sign for Italian club in shock transfer during World Cup",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39476543/ronaldinho-retirement-sign-ravenna-shock-transfer-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T20:40:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Ronaldinho",
+        "comes",
+        "retirement",
+        "sign",
+        "Italian",
+        "club"
+      ],
+      "summary": "WORLD CUP icon Ronaldinho has sensationally come out of retirement - and joined Italian minnows Ravenna. The Brazilian, 46, brought the curtain down on his trophy-laden career after a brief spell with Fluminense in 2015. But Ronaldinho, who will not be lacing up his boots, has agreed a shock deal wi",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "‘The sight I want to see’ – NBA star’s stunning Wag steals show at USA’s World Cup clash against Australia",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39476205/nba-wag-world-cup-usa-zach-lavine-hunter-lavine/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-19T20:34:45+00:00",
+      "score": 20.0,
+      "keywords": [
+        "sight",
+        "want",
+        "star",
+        "stunning",
+        "steals",
+        "show"
+      ],
+      "summary": "NBA star Zach LaVine has been spotted watching the USA's World Cup win over Australia alongside his stunning wife Hunter LaVine. The Sacramento Kings guard sat next to his glamorous partner, who wore a striking red dress that caused a total fan frenzy. High school sweethearts Zach and Hunter have be",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
+      "title": "Portugal's Dias: Ronaldo criticism 'nothing new'",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49117341/cristiano-ronaldo-portugal-ruben-dias-world-cup-2026",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-19T20:57:15+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Cristiano Ronaldo",
+        "Rúben Dias",
+        "Ronaldo",
+        "Portugal",
+        "Dias",
+        "criticism"
+      ],
+      "summary": "Portugal defender Rúben Dias on Friday branded criticism of teammate Cristiano Ronaldo \"insignificant\" and claimed it has not affected the team's focus.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
+    },
+    {
       "title": "Kildunne signs for Bristol Bears after Harlequins exit",
       "title_cn": "",
       "url": "https://www.skysports.com/rugby-union/news/12040/13555906/ellie-kildunne-england-star-joins-bristol-bears-for-2026-27-season-after-leaving-harlequins",
@@ -38898,462 +39378,6 @@
         "managerless"
       ],
       "summary": "IBRAHIMA KONATE is closing in on a move to Spanish giants Real Madrid. The Liverpool defender is out of contract this summer and was confirmed by the club to be leaving when his deal expires. There was a huge question of where the France international would land after taking his leave from Anfield. ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Crystal Palace switch focus from Iraola and Lampard to Lens manager Pierre Sage",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/02/crystal-palace-in-talks-with-lens-manager-pierre-sage",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-02T13:34:25+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Crystal Palace",
-        "Liverpool",
-        "Lampard",
-        "Frank Lampard",
-        "Crystal",
-        "Palace"
-      ],
-      "summary": "Frenchman first choice now Iraola is in Liverpool talks Palace put off by compensation fee for Frank Lampard Crystal Palace are in talks with Pierre Sage with a view to making him their head coach after he led Lens to second in Ligue 1 this season. Andoni Iraola was the preferred option to replace O",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Marco Silva in advanced talks to LEAVE Fulham as he walks away from big-money new contract at Craven Cottage",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39288066/marco-silva-benfica-mourinho-fulham-big-money-contract/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-02T14:53:52+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Fulham",
-        "Silva",
-        "Marco",
-        "advanced",
-        "talks",
-        "LEAVE"
-      ],
-      "summary": "FULHAM manager Marco Silva is close to agreeing a deal to replace Jose Mourinho at Benfica. There had been confidence at Fulham that Silva, 48, would sign a new big-money deal at Craven Cottage and the club have not been informed of any decision. The Portuguese's current contract in west London expi",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Southampton make decision on Tonda Eckert’s future as boss pleads for forgiveness after his damning role in Spygate",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39282343/southampton-tonda-eckert-dragan-solak/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-02T13:46:33+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Southampton",
-        "given",
-        "make",
-        "decision",
-        "Tonda",
-        "Eckert"
-      ],
-      "summary": "TONDA ECKERT pleaded for “forgiveness” from Southampton fans after keeping his job following Spygate. The German claims he had no idea spying was against rules in England - despite Saints’ attempts at a cover-up - and tried to excuse the club’s conduct by claiming it was common place in Europe. Sout",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Inside England squad’s $100million luxury World Cup hotel with sprawling golf course and foie gras for dinner",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39284918/england-squad-world-cup-hotel-luxury-the-belgrove/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-02T13:07:23+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Nottingham Forest",
-        "Forest",
-        "Bukayo Saka",
-        "given",
-        "Henderson"
-      ],
-      "summary": "ENGLAND have safely touched down in Miami 15 days out from their first World Cup group game against Croatia. Well, all of Thomas Tuchel's men except five - Arsenal quartet Eberechi Eze, Bukayo Saka, Noni Madueke and Declan Rice along with Nottingham Forest goalkeeper Dean Henderson have been given f",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "England reveal squad numbers for World Cup",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13550121/england-reveal-world-cup-squad-numbers-with-harry-kane-jude-bellingham-and-marcus-rashford-handed-key-shirts",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T15:00:00+00:00",
-      "score": 28.0,
-      "keywords": [
-        "England",
-        "reveal",
-        "squad",
-        "numbers",
-        "World"
-      ],
-      "summary": "England have announced their squad numbers for this summer's World Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Zuffa Boxing announces historic first Dublin show",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13550114/zuffa-boxing-is-coming-to-ireland-for-first-time-3arena-in-dublin-to-host-historic-zuffa-boxing-10-show-on-august-8",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T15:45:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Dublin",
-        "Ireland",
-        "Zuffa",
-        "Boxing",
-        "announces",
-        "historic"
-      ],
-      "summary": "Zuffa Boxing is to host its historic first show in Ireland this August, live on Sky Sports.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Kane sets sights on Ballon d’Or in bid to help England to World Cup glory",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13550104/world-cup-2026-harry-kane-sets-sights-on-ballon-dor-in-bid-to-help-england-to-glory",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T13:10:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Kane",
-        "sets",
-        "sights",
-        "Ballon",
-        "help"
-      ],
-      "summary": "Harry Kane hopes he can make himself the leading contender for the Ballon d&#8217;Or by helping fire England to World Cup glory.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup Group K guide",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13543106/world-cup-2026-group-k-guide-fixtures-schedule-standings-and-odds-for-portugal-dr-congo-uzbekistan-and-colombia",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T13:39:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ronaldo",
-        "Cristiano Ronaldo",
-        "World",
-        "Group",
-        "guide"
-      ],
-      "summary": "World Cup Group K features Cristiano Ronaldo's Portugal taking on DR Congo, Uzbekistan and Colombia.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Hinds withdraws from England squad with ankle injury",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/clyp33n48p4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-02T14:18:11+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Taylor",
-        "Hinds",
-        "withdraws",
-        "England",
-        "squad",
-        "ankle"
-      ],
-      "summary": "Defender Taylor Hinds withdraws from the England squad after suffering an ankle injury last week.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Ligue 1 season awards: the big hits, misses, shocks and flops of 2025-26",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/02/ligue-1-season-awards-hits-misses-shocks-flops-2025-26-vitinha-sage-paul-pogba-nice",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-02T14:14:55+00:00",
-      "score": 26.0,
-      "keywords": [
-        "given",
-        "Ligue",
-        "season",
-        "awards",
-        "hits",
-        "misses"
-      ],
-      "summary": "It was a season to remember for Vitinha, Pierre Sage and Florian Thauvin but one to forget for Paul Pogba and Nice By Get French Football News “I like feeling the match go through me,” said Vitinha at the end of December. It’s an apt way for the 26-year-old to interpret his role at PSG, given that e",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Does Southampton Spygate boss Eckert deserve a second chance?",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c8jvzvdpw3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-02T13:04:16+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "Spygate",
-        "boss",
-        "Eckert",
-        "deserve",
-        "second"
-      ],
-      "summary": "BBC Sport explores the future of Southampton manager Tonda Eckert after he admitted his role in the Spygate scandal.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "True Blue: Chelsea release 2026-27 home kit after ...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48942742/justin-rose-mc-hariel-help-chelsea-release-2026-27-home-kit",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-02T14:12:08+00:00",
-      "score": 23.0,
-      "keywords": [
-        "Chelsea",
-        "True",
-        "Blue",
-        "release",
-        "home"
-      ],
-      "summary": "Chelsea have unveiled their new 2026-27 home kit, though you might have seen it before its official release.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup Group L guide",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13543108/world-cup-2026-group-l-guide-fixtures-schedule-standings-and-odds-for-england-croatia-ghana-and-panama",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T13:39:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Group",
-        "guide"
-      ],
-      "summary": "World Cup Group L features Thomas Tuchel's England as they face Croatia, Ghana and Panama.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup Group J guide",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13543105/world-cup-2026-group-j-guide-fixtures-schedule-standings-and-odds-for-argentina-algeria-austria-and-jordan",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T13:32:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Group",
-        "guide"
-      ],
-      "summary": "World Cup Group J features holders Argentina, Algeria, Austria and Jordan",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup Group H guide",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13543099/world-cup-2026-group-h-guide-fixtures-schedule-standings-and-odds-for-spain-cape-verde-saudi-arabia-and-uruguay",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T13:25:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Group",
-        "guide"
-      ],
-      "summary": "World Cup Group H features favourites Spain, Cape Verde, Saudi Arabia and Uruguay.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup Group G guide",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13543098/world-cup-2026-group-g-guide-fixtures-schedule-standings-and-odds-for-belgium-egypt-iran-and-new-zealand",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T13:20:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Group",
-        "guide"
-      ],
-      "summary": "World Cup Group G features Belgium, Egypt, Iran and New Zealand.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup Group I guide",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13543102/world-cup-2026-group-i-guide-fixtures-schedule-standings-and-odds-for-france-senegal-iraq-and-norway",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T13:20:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Group",
-        "guide"
-      ],
-      "summary": "World Cup Group I features 2022 runners-up France, Senegal, Iraq and Norway.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup Group D guide",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13543088/world-cup-2026-group-d-guide-fixtures-schedule-standings-and-odds-for-usa-paraguay-australia-and-turkey",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-02T13:18:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Group",
-        "guide"
-      ],
-      "summary": "World Cup Group D sees co-hosts the United States of America play the first fixture in their home country against Paraguay before facing Australia and Turkey.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Switzerland travel to US without Embolo over Esta issue",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpkw8zzx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-02T13:14:50+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Switzerland",
-        "travel",
-        "without",
-        "Embolo",
-        "Esta",
-        "issue"
-      ],
-      "summary": "Switzerland's World Cup squad travel to the United States without Breel Embolo as the forward's Esta authorisation is placed under review.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "England squad numbers: What are Three Lions players wearing on their backs at World Cup?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39284120/england-world-cup-squad-numbers-thomas-tuchel/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-02T14:00:31+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "squad",
-        "numbers",
-        "Lions",
-        "players",
-        "wearing"
-      ],
-      "summary": "THE World Cup is almost upon us - and Thomas Tuchel has named his squad numbers for the tournament! The German gaffer is looking to bring a second star for the Three Lions, as they head to the HUGE tournament in USA, Mexico and Canada. However, the Three Lions will have to do it without...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup 2026: Get up to £40 in football free bets with talkSPORT BET",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39287108/talksport-bet-world-cup-welcome-offer-free-bets/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-02T13:57:14+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "football",
-        "free",
-        "bets",
-        "talkSPORT"
-      ],
-      "summary": "TALKSPORT BET are celebrating the 2026 World Cup in style with a generous welcome offer for new customers. Punters who sign up, opt in and place a qualifying football bet can get their stake matched with up to £40 in free bets. That means if you stake £20, £30 or £40, you'll receive the same...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "Who has scored the most goals in World Cup history? Top 10 revealed ahead of World Cup 2026",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/19956175/top-10-world-cup-scorers-most-goals-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-02T13:07:11+00:00",
-      "score": 20.0,
-      "keywords": [
-        "scored",
-        "most",
-        "goals",
-        "World",
-        "history",
-        "revealed"
-      ],
-      "summary": "THE World Cup is right around the corner as the United States, Canada and Mexico prepare to host the biggest tournament to date in 2026. Some of the world's best strikers will descend on the tournament as they look to find the back of the net on the biggest stage. WORLD CUP 2026 FREE BETS...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup 2026 ball – what is it called and what is the new technology?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/37492878/world-cup-2026-ball-name/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-02T13:04:29+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "ball",
-        "called",
-        "technology"
-      ],
-      "summary": "WORLD Cup 2026 is introducing a brand-new match ball featuring advanced technology and a revolutionary panel design. Adidas has unveiled its 15th successive football for the biggest football tournament in the world, hosted in cities across the US, Canada and Mexico. WORLD CUP 2026 FREE BETS AND SIGN",
-      "summary_cn": "",
-      "fetched_at": "2026-06-02T15:00:49.750112+00:00"
-    },
-    {
-      "title": "World Cup 2026 prize money – how much do teams earn for taking part and winning?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/37470411/world-cup-2026-prize-money-winners/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-02T13:02:57+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "prize",
-        "money",
-        "much",
-        "teams",
-        "earn"
-      ],
-      "summary": "THE 2026 FIFA World Cup will reportedly have a record prize pool, a stark increase from the £380million ($440m) up for grabs in 2022. This prize money is set to be split between the 48 competing teams. Here we explore how the funds will be distributed. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS...",
       "summary_cn": "",
       "fetched_at": "2026-06-02T15:00:49.750112+00:00"
     }
