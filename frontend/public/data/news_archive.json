@@ -1,6 +1,384 @@
 {
   "items": [
     {
+      "title": "Papers: Liverpool knock back Inter's Jones offer",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13556527/paper-talk-liverpool-reject-21m-curtis-jones-offer-from-inter-milan-which-falls-considerably-short-of-valuation",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-21T22:25:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Jones",
+        "Papers",
+        "knock",
+        "back",
+        "Inter"
+      ],
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Liverpool reject £21.7m Inter Milan offer for Jones",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cwy05x9gldyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-21T21:01:47+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Jones",
+        "reject",
+        "Inter",
+        "Milan",
+        "offer"
+      ],
+      "summary": "Liverpool reject a verbal offer of 25m euros (£21.7m) from Inter Milan for midfielder Curtis Jones.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Rashford might still join Barca - Monday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cddlz15pqyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-21T21:25:29+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Rashford",
+        "Marcus Rashford",
+        "still",
+        "join",
+        "Barca"
+      ],
+      "summary": "Marcus Rashford might still join Barcelona, Paris St-Germain join the race for Crysencio Summerville, Manchester United have no interest in selling Benjamin Sesko, plus more.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Arsenal ‘ready to accelerate Morgan Rogers transfer pursuit’ and using England stars to help convince him to join",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39492985/arsenal-england-morgan-rogers-declan-rice-thomas-tuchel-arteta/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-21T22:19:28+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Mikel",
+        "Arteta",
+        "Declan Rice",
+        "Bukayo Saka"
+      ],
+      "summary": "ARSENAL are ready to ramp up their pursuit of Morgan Rogers – with England stars Declan Rice, Bukayo Saka and Eberechi Eze all helping to sell the dream. The Gunners have identified the Aston Villa ace as one of their top attacking targets this summer as Mikel Arteta looks to strengthen a squad aimi",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Drab Belgium held to goalless draw as spirited Iran side keep World Cup hopes alive in Los Angeles",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39492746/belgium-iran-world-cup-match-report/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-21T21:02:07+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Kevin De Bruyne",
+        "Bruyne",
+        "Drab",
+        "Belgium",
+        "held"
+      ],
+      "summary": "THE sun is rapidly setting on Kevin De Bruyne’s Belgian golden generation after drawing 0-0 with Iran at Sofi Stadium. The Manchester City legend has been unable to translate his Premier League success into results on the international stage. And his Belgium side is at a real risk of failing to adva",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Ollie Watkins reveals ‘underrated’ England star, 46, transformed his game after using him as a ‘sounding board’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39492402/ollie-watkins-england-transformation-nastier-michael-owen-help/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-21T20:59:43+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Michael Owen",
+        "March",
+        "Watkins",
+        "Ollie Watkins",
+        "Ollie"
+      ],
+      "summary": "OLLIE WATKINS has revealed how \"underrated” Michael Owen helped him get nastier. Aston Villa man Watkins reached out to England great Owen who suggested he had been too nice. Watkins was left out of the England squad in March but a ruthless run of 11 goals from April onwards for Villa saw him on the",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Noel Gallagher backs Sun’s campaign to make Wonderwall England’s official World Cup anthem after ‘magical’ singalong",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39491513/noel-gallagher-backs-wonderwall-england-world-cup-anthem/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-21T21:00:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Noel",
+        "Gallagher",
+        "backs",
+        "campaign",
+        "make",
+        "Wonderwall"
+      ],
+      "summary": "NOEL Gallagher has backed The Sun’s campaign to make Wonderwall England’s World Cup anthem — declaring the post-match fan singalong with players “a magical moment”. The Oasis great spoke for the first time of how he was moved as 20,000 fans were joined by players belting out his Britpop classic afte",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Tuchel not afraid to shout at players - Watkins",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cjegy048847o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-21T22:04:05+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Watkins",
+        "Ollie Watkins",
+        "Tuchel",
+        "afraid",
+        "shout",
+        "players"
+      ],
+      "summary": "Ollie Watkins says Thomas Tuchel is \"not afraid\" to shout at England players as the manager aims to maintain training standards at the World Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Kylian Mbappé hungry for Golden Boot battle with Messi as he sings Les Bleus",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/21/kylian-mbappe-hungry-for-golden-boot-battle-with-messi-as-he-sings-les-bleus",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-21T21:47:01+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Dembélé",
+        "Kylian",
+        "hungry",
+        "Golden",
+        "Boot",
+        "battle"
+      ],
+      "summary": "Mbappé: Nothing bigger than playing for France Striker defends performance of Ousmane Dembélé Kylian Mbappé is relishing a Golden Boot duel with Lionel Messi, the player he calls the “best of the best”, but has said his personal ambitions would be subordinated to those of the team when France seek t",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Spurs' Bergvall exploring options away from club",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/cz0jyrpzpj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-21T22:08:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "Bergvall",
+        "exploring",
+        "options",
+        "away"
+      ],
+      "summary": "Sweden's Lucas Bergvall is facing an uncertain future at Tottenham with the midfielder keen for a new challenge.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Forgotten Man Utd flop wipes out his own team-mate and leaves him writhing in agony before World Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39492391/man-utd-flop-wipes-out-teammate-agony-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-21T21:30:05+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Forgotten",
+        "flop",
+        "wipes",
+        "team"
+      ],
+      "summary": "FORMER Manchester United striker Wout Weghorst almost injured a team-mate with a clumsy challenge during a World Cup training session. The 33-year-old caught the ankle of Netherlands defender Lutsharel Geertruida from behind while attempting to win the ball. Geertruida dropped to the floor while scr",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Iran go top of group with battling draw vs frustrated 10-man Belgium",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/belgium-vs-iran/report/549802",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-21T22:07:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Iran",
+        "group",
+        "battling",
+        "draw",
+        "frustrated",
+        "Belgium"
+      ],
+      "summary": "Iran battled to a well-deserved point against 10-man Belgium and moved top of World Cup Group G with a 0-0 draw in Los Angeles.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Does it matter if Scotland lose and still make history?",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-21T21:39:43+00:00",
+      "score": 20.0,
+      "keywords": [
+        "matter",
+        "Scotland",
+        "lose",
+        "still",
+        "make",
+        "history"
+      ],
+      "summary": "Does the performance, even the result, matter as long as Scotland qualify for the group stage of the World Cup after Wednesday's game against Brazil? Tom English ponders.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Ten-man Belgium remain winless after draw with Iran",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cy06gxjnx3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-21T21:55:21+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Belgium",
+        "remain",
+        "winless",
+        "draw",
+        "Iran"
+      ],
+      "summary": "Goalkeeper Alireza Beiranvand made a string of impressive saves to keep alive Iran's hopes of reaching the World Cup knockout stage for the first time, as they earned a hard-fought point against 10-man Belgium.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "VAR rules out Iran's Weghorst-esque goal",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/football/videos/cx24y5ympdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-21T21:39:38+00:00",
+      "score": 20.0,
+      "keywords": [
+        "rules",
+        "Iran",
+        "Weghorst",
+        "esque",
+        "goal"
+      ],
+      "summary": "Mehdi Taremi scores a goal similar to Wout Weghorst's effort against Argentina in the 2022 World Cup but it's disallowed by by VAR for offside.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Proposals to keep 'crown jewel' sports free on streaming services",
+      "title_cn": "",
+      "url": "https://www.bbc.com/sport/articles/cjdgy5xvpd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-21T21:33:39+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Proposals",
+        "keep",
+        "crown",
+        "jewel",
+        "sports",
+        "free"
+      ],
+      "summary": "The government is proposing new legislation to prevent streaming and catch-up rights to some of the world's biggest sporting events - including the World Cup - being put behind a paywall for UK viewers.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Iran frustrate 10-man Belgium in World Cup stalemate as Nathan Ngoy sees red",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-21T21:16:20+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Iran",
+        "frustrate",
+        "Belgium",
+        "World",
+        "stalemate",
+        "Nathan"
+      ],
+      "summary": "There was simply no debate over the moment of the match and it is one that Iran will cherish, even more so if they are to progress to the World Cup knockout stage for the first time. Every angle of Alireza Beiranvand’s preposterous save to prevent Belgium taking the lead approaching the hour adds to",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "Zinedine Zidane’s son seeing psychologist to deal with World Cup pressure.. and reveals MUM is biggest critic",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39492661/luca-zinedine-zidane-psychologist-world-cup-pressure-algeria/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-21T21:16:28+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Zinedine",
+        "Zidane",
+        "seeing",
+        "psychologist",
+        "deal",
+        "World"
+      ],
+      "summary": "LUCA ZIDANE has revealed he has been working with a psychologist to help him cope with the pressure of keeping goal for Algeria. And the responsibility is weighing heavily on the shoulders of the Fennec Foxes following last week’s 3-0 defeat by Argentina. Algeria stars were furious they received so ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
+      "title": "‘Most unhinged moment so far’ – World Cup star picks up referee’s watch and puts it on his arm",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39492386/paraguay-world-cup-referee-watch-matias-galarza/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-21T21:14:51+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Most",
+        "unhinged",
+        "moment",
+        "World",
+        "star",
+        "picks"
+      ],
+      "summary": "PARAGUAY hero Matias Galarza picked up the referee's watch and strapped it on during Saturday's win over Turkey. Galarza, 24, took the plaudits for Paraguay's first victory of the tournament after firing in the winner from range in the second minute. But the clip of him nicking the ref's wristwear i",
+      "summary_cn": "",
+      "fetched_at": "2026-06-21T22:20:12.001650+00:00"
+    },
+    {
       "title": "Women's World Matchplay field confirmed with Greaves, Ashton, Sherrock in contention",
       "title_cn": "",
       "url": "https://www.skysports.com/darts/news/12040/13556487/womens-world-matchplay-field-confirmed-with-beau-greaves-lisa-ashton-and-fallon-sherrock-leading-the-way-at-blackpools-winter-gardens",
@@ -39013,372 +39391,6 @@
       "summary": "Governing body ‘regrets’ website error that caused glitch Ticketing process being investigated by attorneys general Fifa has canceled World Cup tickets issued to about 60 fans who mistakenly got them for free because of a website error, and soccer’s governing body is now asking for them to be paid i",
       "summary_cn": "",
       "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "In Iran the World Cup used to trigger joy on our streets. It feels very different now",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-mood-streets",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-05T14:45:57+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Iran",
-        "World",
-        "used",
-        "trigger",
-        "streets",
-        "feels"
-      ],
-      "summary": "A growing divide between fans and team, coupled with economic hardship and war, has dampened the mood Abbas Kiarostami, the late Iranian director, made a film called Life, and Nothing More …, set during the 1990 World Cup in Italy. The film tells the story of a father and son who, during the tournam",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "‘Beer-proof’ England football kit is dropping at major UK supermarket for £19.66 ahead of the World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39321738/beer-proof-england-kit-dropping-supermarket/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-05T15:56:10+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Beer",
-        "proof",
-        "England",
-        "football",
-        "dropping",
-        "major"
-      ],
-      "summary": "A MAJOR UK supermarket has launched the ultimate football shirt ahead of the World Cup. With just days to go before the 2026 World Cup kicks off, one of Britain's grocery giants has pulled through with the perfect wardrobe addition. With millions of England fans set to tune in to watch the team's fi",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "Neymar’s girlfriend Bruna Biancardi goes braless as fans label her ‘the woman who will win Brazil the World Cup’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39320745/neymar-bruna-biancardi-braless-world-cup-photoshoot/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-05T15:10:57+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Neymar",
-        "girlfriend",
-        "Bruna",
-        "Biancardi",
-        "goes",
-        "braless"
-      ],
-      "summary": "NEYMAR's girlfriend Bruna Biancardi has stunned fans with a braless photoshoot. The Brazilian football star has a lot of celebrate after being included in the nation's squad for the upcoming World Cup. https://www.instagram.com/p/DZLxkEDDvob/?hl=en&amp;img_index=1 And he has been supported all the w",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "World Cup 2026: Bet £10, Get £50 in football free bets with Betfair",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39316975/betfair-world-cup-free-bets-offer-promo-code/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-05T14:27:26+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "football",
-        "free",
-        "bets",
-        "Betfair"
-      ],
-      "summary": "THE World Cup is almost here, and Betfair are giving new customers the chance to claim £50 in free bets before the action gets under way. New customers can claim £50 in free bets (5 x £10) when they sign up using promo code ZSKAOL, deposit £10 and place a qualifying Sportsbook bet. ⚽ Get...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "Bet £5 on 2026 World Cup outright market and win a share of £5million if England win tournament",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39304774/sky-bet-world-cup-england-win-5-million/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-05T14:25:55+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "outright",
-        "market",
-        "share",
-        "England",
-        "tournament"
-      ],
-      "summary": "YOU can bag a share of £5MILLION+ this summer if England win the World Cup! Sky Bet are handing punters the chance to claim a slice of the mega jackpot if Thomas Tuchel leads the Three Lions to global glory in North America! All punters have to do is stake at least £5 on any...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "FIFA cancels WCup tickets given free by mistake",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48974024/fifa-cancels-world-cup-tickets-60-fans-got-free-error",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-05T16:36:45+00:00",
-      "score": 16.0,
-      "keywords": [
-        "given",
-        "FIFA",
-        "cancels",
-        "WCup",
-        "tickets",
-        "free"
-      ],
-      "summary": "FIFA has canceled World Cup tickets issued to about 60 fans who mistakenly got them for free because of a website error.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "Fernandes set for award double with PFA nom.",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48967450/manchester-united-bruno-fernandes-targeting-award-double-pfa-nomination",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-05T16:34:55+00:00",
-      "score": 16.0,
-      "keywords": [
-        "Bruno Fernandes",
-        "Fernandes",
-        "award",
-        "double"
-      ],
-      "summary": "Bruno Fernandes is on course to seal a prestigious award double after being shortlisted for the 2026 PFA Player of the Year prize.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "City chairman 'wants to' talk about 115 charges",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48973572/man-city-chairman-khaldoon-al-mubarak-man-city-115-charges-pep-guardiola",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-05T16:34:54+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Manchester City",
-        "City",
-        "chairman",
-        "wants",
-        "talk",
-        "charges"
-      ],
-      "summary": "Manchester City chairman Khaldoon Al-Mubarak has things he \"wants to say\" about the club's legal fight with the Premier League, but insists it will have to wait until a verdict is delivered.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "Brazil's Ancelotti: Neymar to have MRI Monday",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48975653/brazil-coach-ancelotti-confirms-neymar-mri-monday",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-05T16:34:54+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Brazil",
-        "Ancelotti",
-        "Neymar",
-        "Monday"
-      ],
-      "summary": "Neymar will have an MRI scan on Monday to evaluate his right calf injury as part of his race to be fit for the World Cup, Brazil coach Carlo Ancelotti said on Friday.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "Mourinho takes Türkiye to court over sanctions",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48972926/jose-mourinho-turkiye-ban-fine-european-court-fenerbahce-real-madrid",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-05T16:34:54+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Mourinho",
-        "takes",
-        "court",
-        "sanctions"
-      ],
-      "summary": "José Mourinho filed a complaint with the European Courts of Human Rights (ECHR) against Türkiye regarding how the disciplinary sanctions were handed down by the country's football federation while he was in charge of Fenerbahce.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "Gregg Berhalter's USMNT firing helped pave the way...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48965570/gregg-berhalter-usmnt-firing-paved-way-son-sebastian-world-cup-dream",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-05T16:40:14+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Gregg",
-        "Berhalter",
-        "USMNT",
-        "firing",
-        "helped",
-        "pave"
-      ],
-      "summary": "Two years after Gregg Berhalter was fired as coach, son Sebastian will play for the USMNT at the World Cup. \"I never could have picked him,\" Gregg said.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "Why the USWNT might be better off losing to Brazil...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48946471/why-uswnt-better-losing-world-cup-hosts-brazil-friendlies",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-05T16:40:39+00:00",
-      "score": 10.0,
-      "keywords": [
-        "USWNT",
-        "better",
-        "losing",
-        "Brazil"
-      ],
-      "summary": "The best way for the USWNT to win the World Cup next summer? It just might be to go to Brazil and lose this week.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "2026 World Cup betting preview: One bet to make on...",
-      "title_cn": "",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48807078/fifa-world-cup-betting-preview-best-bets-picks-odds-props-futures-2026",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-06-05T16:55:53+00:00",
-      "score": 10.0,
-      "keywords": [
-        "World",
-        "betting",
-        "preview",
-        "make"
-      ],
-      "summary": "So many teams, so many games. Looking to place some bets? Here's one to make on every team in the 2026 World Cup tournament.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T16:06:53.277132+00:00"
-    },
-    {
-      "title": "Andy Robertson COMPLETES Tottenham transfer as former England star, 42, announces deal",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39319023/andy-robertson-tottenham-transfer-confirmed/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-05T12:14:01+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Liverpool",
-        "Tottenham",
-        "Spurs",
-        "Robertson",
-        "Andy Robertson",
-        "Andy"
-      ],
-      "summary": "TOTTENHAM have announced the signing of Andy Robertson on a free transfer from Liverpool. Robertson, 32, will link up with Spurs after captaining Scotland at the World Cup. With Robertson in America with his national team, he full-back did not actually feature in Tottenham's announcement video of hi",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T12:16:53.753280+00:00"
-    },
-    {
-      "title": "Cristiano Ronaldo and Lionel Messi officially become billionaires as footie legends prepare for World Cup last dance",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39316753/cristiano-ronaldo-lionel-messi-billionaires-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-05T10:50:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Cristiano",
-        "Lionel",
-        "Messi",
-        "officially"
-      ],
-      "summary": "CRISTIANO RONALDO and Lionel Messi have officially become BILLIONAIRES ahead of their final World Cup. The football superstars have redefined the rules at the summit of the sport for the past two decades. But they have now reached the peak of wealth too. Ronaldo, 41, and Messi, 38, have both become ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T12:16:53.753280+00:00"
-    },
-    {
-      "title": "De Zerbi's Spurs rebuild is under way - and there are encouraging signs",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13551082/spurs-notebook",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-05T12:30:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Spurs",
-        "Zerbi",
-        "rebuild",
-        "under",
-        "encouraging",
-        "signs"
-      ],
-      "summary": "It could have been so different if Spurs didn't make the change and appoint Roberto De Zerbi.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T12:16:53.753280+00:00"
-    },
-    {
-      "title": "All done deals in June 2026",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-05T12:01:57+00:00",
-      "score": 33.0,
-      "keywords": [
-        "done",
-        "deals",
-        "June"
-      ],
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T12:16:53.753280+00:00"
-    },
-    {
-      "title": "How Steve Holland went from Ben White bust-up with England to becoming Man Utd’s silent enforcer under Michael Carrick",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39317622/steve-holland-man-utd-ben-white-england/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-05T11:50:21+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Man Utd",
-        "Carrick",
-        "Michael Carrick",
-        "Steve",
-        "Holland",
-        "went"
-      ],
-      "summary": "STEVE HOLLAND was at the centre of a major World Cup storm three years ago when Ben White walked out on England. The bust-up left a rift so deep that a furious White packed his bags, fled Qatar, and turned his back on the national setup.&nbsp;&nbsp; It began with a tactical pop-quiz. After grilling ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T12:16:53.753280+00:00"
-    },
-    {
-      "title": "Sir Alex Ferguson’s son lined up for sensational return to management 8 months after being sacked by EFL club",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39317750/darren-ferguson-sir-alex-salford-city-gary-neville/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-05T11:40:23+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Gary Neville",
-        "Neville",
-        "Robinson",
-        "Ferguson",
-        "Alex",
-        "lined"
-      ],
-      "summary": "DARREN FERGUSON is the rumoured favourite to take over at Class of 92-owned Salford City. Gary Neville and Co are reportedly keen to hire the son of their legendary former gaffer Sir Alex to replace Karl Robinson. Despite reaching the League Two play-off final, Robinson was sacked by the Ammies afte",
-      "summary_cn": "",
-      "fetched_at": "2026-06-05T12:16:53.753280+00:00"
     }
   ]
 }
