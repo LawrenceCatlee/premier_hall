@@ -1,6 +1,362 @@
 {
   "items": [
     {
+      "title": "'I'm back' - record-breaking Ronaldo answers critics",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyx746enj9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-23T21:33:55+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Cristiano Ronaldo",
+        "Ronaldo",
+        "back",
+        "record",
+        "breaking",
+        "answers"
+      ],
+      "summary": "Portugal forward Cristiano Ronaldo provides the perfect response to those that doubted him as he becomes the first player to score at six World Cups.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Wayne Rooney claims Thomas Tuchel made public example of England star to send message to World Cup squad",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39519176/world-cup-djed-spence-rooney-tuchel/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T22:35:48+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "Wayne Rooney",
+        "Rooney",
+        "Wayne",
+        "claims",
+        "Thomas"
+      ],
+      "summary": "THOMAS TUCHEL deliberately made an example of Djed Spence during a recent training session, claims former England captain Wayne Rooney. The Three Lions boss was caught on camera repeatedly shouting \"wake up\" at full-back Spence ahead of the bore 0-0 draw with Ghana on Tuesday night. The Tottenham st",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "'Anxious moment for England' - should this have been Ghana penalty?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq61l08mj32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-23T22:05:14+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ezri Konsa",
+        "Konsa",
+        "Anxious",
+        "moment",
+        "England",
+        "Ghana"
+      ],
+      "summary": "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Group L match in Boston.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Rice remains positive after England draw with Ghana",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvg5vd1z2xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-23T22:28:36+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Declan Rice",
+        "Rice",
+        "remains",
+        "positive",
+        "England",
+        "draw"
+      ],
+      "summary": "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Ghana in their World Cup Group L match in Boston.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "England given reality check by stubborn Ghana to leave group in the balance",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-23T22:15:10+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "given",
+        "England",
+        "reality",
+        "check",
+        "stubborn"
+      ],
+      "summary": "It was a talking point beforehand in the England dressing room, Harry Kane bringing it up; a message with it, too. At each of the previous three tournaments, the team had spluttered in game two. The roll call of irritation took in the draws against Scotland and Denmark at the European Championship –",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "David Beckham is every England fan as he goes from blowing kiss to having head in hands in woeful World Cup Ghana draw",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39519268/david-beckham-ghana-world-cup-draw-reaction/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T23:04:49+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Beckham",
+        "David Beckham",
+        "David",
+        "every",
+        "England",
+        "goes"
+      ],
+      "summary": "DAVID BECKHAM summed up every England fan's emotions during the goalless draw with Ghana. The former England captain joined thousands of Three Lions supporters at the Boston Stadium on Tuesday. And Becks was put through an emotional rollercoaster in the 0-0 draw - one which will surely have been fel",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Fans claim Ghana should have been awarded penalty as Ezri Konsa avoids further disaster in England’s dire World Cup draw",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39519287/ghana-penalty-ezri-konsa-england-world-cup-draw/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T22:50:39+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ezri Konsa",
+        "Konsa",
+        "Fans",
+        "claim",
+        "Ghana",
+        "awarded"
+      ],
+      "summary": "WORLD CUP fans reckon England defender Ezri Konsa was lucky not to concede a late penalty against Ghana. The Three Lions were forced to settle for a boring goalless draw as they missed the chance to book their place in the World Cup knockout stages. But it could have got even worse for England when.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Declan Rice must rest sore hamstring vs Panama… England need their future captain 100% to end World Cup drought",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39519114/declan-rice-england-panama-world-cup-thomas-tuchel/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T22:30:01+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Declan Rice",
+        "Declan",
+        "Rice",
+        "must",
+        "rest",
+        "sore"
+      ],
+      "summary": "AS WE are in the most Irish city in the United States, with over 20 per cent of the residents claiming ancestry linked to the Emerald Isle, it was inevitable a certain subject would crop up with Declan Rice. It was pointed out, at the pre-match press conference, that the midfielder’s third and final",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "England player ratings: Anthony Gordon struggles will have Barcelona sweating but Elliot Anderson remains solid presence",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39518522/world-cup-england-ghana-player-ratings/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T22:08:42+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Anderson",
+        "England",
+        "player",
+        "ratings",
+        "Anthony",
+        "Gordon"
+      ],
+      "summary": "ENGLAND were brought back down to earth as they laboured to a 0-0 draw with Ghana. The Three Lions had gotten their World Cup campaign off to a perfect start last week by beating Croatia 4-2 in Texas. Much was expected from their second group game, but Thomas Tuchel's side never truly got going. Gha",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "England 0 Ghana 0: Harry Kane misses golden chance to win game as Three Lions come crashing back down at World Cup",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39518135/england-ghana-crash-down-world-cup-tempers-boil/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T22:00:21+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "England",
+        "Ghana",
+        "Harry",
+        "Kane",
+        "misses"
+      ],
+      "summary": "AFTER Dallas delight, it was the Boston manglers. Lifeless and listless, limited and lame, the sort of England tournament performance we’ve witnessed too many times before. Not since 2018, when Harry Kane scored a hat-trick as Panama were spanked, have England followed up a winning opener with anoth",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Jude Bellingham risks red card with gesture due to controversial rule in England’s World Cup clash vs Ghana",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39518817/jude-bellingham-cover-mouth-red-card-england-ghana/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T21:55:22+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Jordan Ayew",
+        "Jude",
+        "Bellingham",
+        "risks",
+        "card",
+        "gesture"
+      ],
+      "summary": "JUDE BELLINGHAM risked a red card under a controversial new rule at the World Cup. The England star was left frustrated by Ghana in the Three Lions' second group game, which ended in a poor 0-0 draw. Pictures from the clash in Boston showed Bellingham talking to Ghana's Jordan Ayew. And the Real Mad",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Biggest cheer of England vs Ghana first-half comes as Three Lions legend shown on big screen at World Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39518450/england-ghana-cheer-three-lions-legend-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T21:40:10+00:00",
+      "score": 26.0,
+      "keywords": [
+        "BECKHAM",
+        "DAVID BECKHAM",
+        "Biggest",
+        "cheer",
+        "England",
+        "Ghana"
+      ],
+      "summary": "SIR DAVID BECKHAM got the biggest cheer - but the England legend cut a frustrated figure as the Three Lions served up a drab draw in their World Cup showdown with Ghana. Thomas Tuchel's side struggled to break down their Group L rivals just days after putting four past Croatia and will now have to..",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Jude Bellingham breaks Wayne Rooney’s 17-year-old England record just seconds into World Cup clash vs Ghana",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39518387/jude-bellingham-wayne-rooney-england-record-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-23T21:34:03+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Wayne Rooney",
+        "Rooney",
+        "Jude",
+        "Bellingham",
+        "breaks",
+        "Wayne"
+      ],
+      "summary": "JUDE BELLINGHAM toppled Wayne Rooney and pinched an England record by lining up in the 0-0 draw with Ghana on Tuesday. Three Lions great Rooney, 40, could do nothing but admire the Real Madrid man as he watched the action from the BBC's studio in Salford. Having beaten Morgan Rogers to the No10 star",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Spence appears to snub Partey pre-match handshake",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13557221/thomas-partey-and-djed-spence-spurs-full-back-appears-to-snub-handshake-with-former-arsenal-midfielder",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-23T21:47:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Spence",
+        "appears",
+        "snub",
+        "Partey",
+        "match",
+        "handshake"
+      ],
+      "summary": "Djed Spence appeared to not shake hands with Thomas Partey before England's match against Ghana.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Spence appears not to shake hands with Partey",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-23T21:46:47+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Spence",
+        "appears",
+        "shake",
+        "hands",
+        "Partey"
+      ],
+      "summary": "Footage circulating on social media appears to show England's Djed Spence not shaking hands with Ghana's Thomas Partey before their World Cup group match in Boston.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "England held to goalless draw by Ghana",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-23T22:41:55+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "held",
+        "goalless",
+        "draw",
+        "Ghana"
+      ],
+      "summary": "England fail to repeat their performance that overpowered Croatia in their first World Cup game as they are held to a draw by a resolute Ghana at Boston Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Panama v Croatia: World Cup 2026 – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/panama-v-croatia-world-cup-2026-live-updates",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-23T23:06:55+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Panama",
+        "Croatia",
+        "World",
+        "live"
+      ],
+      "summary": "⚽️ World Cup kick-off time: 7pm EDT/12am BST/9am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Jeff Ear-splitting cheers from this very pro-Croatia – Proatia? – crowd for Luka Modrić. We all know the end is near and there’s a palpable sense in the air that we might all be seeing him for ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
+      "title": "Ingenuity absent for turgid England as they fail to break down Ghana’s yellow wall | Jacob Steinberg",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/24/ingenuity-absent-for-turgid-england-as-they-fail-to-break-down-ghanas-yellow-wall",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-23T23:00:56+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Ingenuity",
+        "absent",
+        "turgid",
+        "England",
+        "fail",
+        "break"
+      ],
+      "summary": "Thomas Tuchel experiences an England tradition – a difficult second game at a major tournament There were times when this looked like the goalless draw with the USA at the 2022 World Cup, or the misshapen stalemate with Denmark in Frankfurt two years ago. For Thomas Tuchel, the worry was that the mo",
+      "summary_cn": "",
+      "fetched_at": "2026-06-23T23:14:30.618093+00:00"
+    },
+    {
       "title": "‘World Cup is over’ – Fans convinced ‘game’s gone’ after hearing what commentator said following Cristiano Ronaldo goal",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39517535/fans-react-cristiano-ronaldo-goal-commentator-remarks/",
@@ -39066,362 +39422,6 @@
       "summary": "Alexander Zverev finally claimed an elusive Grand Slam title in his fourth final as he defeated 14th-ranked Flavio Cobolli in a dramatic French Open climax.",
       "summary_cn": "",
       "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "'I don't need to win': Serena says shock tennis comeback is not about titles",
-      "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13551725/serena-williams-says-shock-tennis-comeback-at-queens-club-is-not-about-titles-as-she-refuses-to-commit-to-singles-return",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-07T17:36:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Williams",
-        "need",
-        "Serena",
-        "shock",
-        "tennis",
-        "comeback"
-      ],
-      "summary": "Serena Williams insists she is not putting pressure on herself to win titles ahead of her shock return to professional tennis.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "England vs NZ ratings: Returning Robinson stands out",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551422/england-vs-new-zealand-1st-test-player-ratings-ollie-robinson-makes-dream-return-debutant-emilio-gay-impresses-on-tricky-pitch",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-07T18:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Robinson",
-        "England",
-        "ratings",
-        "Returning",
-        "stands"
-      ],
-      "summary": "England took a 1-0 lead in their three-Test series against New Zealand after a 115-run win on a tricky pitch at Lord's. While the bowlers dominated, the plaudits weren't reserved for just them - here's how Ben Stokes' side rated.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "Williams on shock return to tennis: I don't need to win, I have nothing to prove",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13551724/serena-williams-on-shock-return-to-tennis-i-dont-need-to-win-i-have-nothing-to-prove",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-07T17:37:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Williams",
-        "shock",
-        "return",
-        "tennis",
-        "need",
-        "nothing"
-      ],
-      "summary": "Serena Williams speaks about her shock return to tennis and confirms that she is not focusing on singles at this moment in time.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "Raducanu hopes for Serena chat as icon returns at Queen's Club",
-      "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13551708/emma-raducanu-hopes-to-talk-to-serena-williams-as-tennis-legend-returns-at-queens-club-ahead-of-possible-wimbledon-wildcard",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-07T17:04:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Williams",
-        "Raducanu",
-        "hopes",
-        "Serena",
-        "chat",
-        "icon"
-      ],
-      "summary": "Emma Raducanu plans to pick the brains of the returning Serena Williams at Queen's Club this week, but does not expect her own career to have the same longevity as the American legend.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "Harry Kane issues World Cup rallying cry and brutally dismisses fears over gruelling heat",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39334946/harry-kane-issues-world-cup-rallying-cry/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-07T18:03:39+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Southgate",
-        "Gareth Southgate",
-        "Harry",
-        "Kane",
-        "issues"
-      ],
-      "summary": "HARRY KANE claims it is vital that England have the right “aura” in the team camp. Thomas Tuchel is taking charge of his first World Cup with Gareth Southgate having been in charge for the previous four tournaments. There is definitely a different feel in the squad with a string of different players",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "Chacarra claims KLM Open to win second DP World Tour title",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13551716/klm-open-day-four-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-07T17:21:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Chacarra",
-        "claims",
-        "Open",
-        "second",
-        "World",
-        "Tour"
-      ],
-      "summary": "Highlights of day four from the KLM Open at The International, Amsterdam, Netherlands.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "From dazzling winger to veteran who barely runs - the evolution of Messi",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-07T16:55:11+00:00",
-      "score": 20.0,
-      "keywords": [
-        "dazzling",
-        "winger",
-        "veteran",
-        "barely",
-        "runs",
-        "evolution"
-      ],
-      "summary": "Lionel Messi is set for his sixth World Cup with Argentina. Guillem Balague looks at how the Argentine has evolved.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "DR Congo friendly to be played behind closed doors",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-07T16:55:52+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Congo",
-        "friendly",
-        "played",
-        "behind",
-        "closed",
-        "doors"
-      ],
-      "summary": "Democratic Republic of Congo's final World Cup warm-up game against Chile will take place behind closed doors amid concerns about the Ebola outbreak in the central African nation.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "'Scotland optimism is through the roof now'",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nqmvlf?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-07T16:20:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Scotland",
-        "optimism",
-        "through",
-        "roof"
-      ],
-      "summary": "With less than a week until the 2026 World Cup kicks-off, we're live from New York.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "Scotland’s picture for World Cup opener clearer and brighter after Bolivia boost",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/07/scotland-world-cup-2026-lawrence-shankland-steve-clarke-bolivia-friendly",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-07T17:00:38+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Scotland",
-        "picture",
-        "World",
-        "opener",
-        "clearer",
-        "brighter"
-      ],
-      "summary": "Lawrence Shankland says there is a ‘club feel’ in the camp after eight goals in two confidence- building friendly wins Scotland arrived at Euro 2024 with more questions than answers swirling around their squad. The team were on a poor run of form, with umpteen players looking jaded. What happened ne",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "‘It’s Bible time’: How religion became part of the USMNT’s World Cup identity",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/07/usmnt-religion-christian-pulisic-world-cup-2026",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-07T17:00:03+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Bible",
-        "time",
-        "religion",
-        "became",
-        "part",
-        "USMNT"
-      ],
-      "summary": "From Christian Pulisic to Weston McKennie, many of the team’s biggest stars have been open about their faith, creating a new dynamic for a home World Cup • World Cup newsletter | Daily podcast | Get the app In the third episode of the interminable, nine-part Pulisic docuseries, its subject, Christia",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "Iran squad only allowed in USA on World Cup matchdays as host nation accused of ‘escalating discriminatory treatment’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39334463/iran-war-usa-world-cup-israel-visa/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-07T18:11:21+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Iran",
-        "squad",
-        "only",
-        "allowed",
-        "World",
-        "matchdays"
-      ],
-      "summary": "IRAN claim they have been told to only enter the US on World Cup matchdays - and leave the same day. The US-Israeli conflict with Tehran has forced the team to move their base to Mexico from their original Arizona site. And the Iranian FA also claimed visas have been refused for 14 \"integral\" member",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T18:11:43.906947+00:00"
-    },
-    {
-      "title": "Jose Mourinho ‘asks Real Madrid to sign Man Utd target Mateus Fernandes’ as West Ham demand £80MILLION",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39333545/mourinho-real-madrid-man-utd-mateus-fernandes-west-ham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-07T14:30:10+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "West Ham",
-        "Man Utd",
-        "Fernandes",
-        "Jose",
-        "Mourinho"
-      ],
-      "summary": "JOSE MOURINHO could scupper his old club Manchester United’s hopes of landing midfielder Mateus Fernandes this summer. The Special One, 63, is set to make a sensational return to the Real Madrid dugout if president Florentino Perez bags another term in charge. And that could spell bad news for Unite",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T16:24:34.441741+00:00"
-    },
-    {
-      "title": "Explained: Why Russell was given drive-through penalty",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13551693/monaco-gp-why-george-russell-was-given-drive-through-penalty",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-07T16:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "given",
-        "speed",
-        "Explained",
-        "Russell",
-        "drive",
-        "through"
-      ],
-      "summary": "Anthony Davidson was at the SkyPad to explain why George Russell was given a drive-through penalty for not serving a previous speeding penalty.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T16:24:34.441741+00:00"
-    },
-    {
-      "title": "Senegal World Cup 2026 team guide",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/07/senegal-world-cup-2026-team-guide",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-07T15:00:05+00:00",
-      "score": 26.0,
-      "keywords": [
-        "cooper",
-        "Senegal",
-        "World",
-        "team",
-        "guide"
-      ],
-      "summary": "A refreshed Lions of Teranga will aim to channel the smoothness of qualification rather than the chaotic aftermath of Afcon This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperation between some of the best media organisations from the 48 countries who qualified. theguar",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T16:24:34.441741+00:00"
-    },
-    {
-      "title": "‘We are upset’: Iran players hit out at US visa delay after World Cup arrival in Mexico",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/07/iran-players-us-visa-delays-world-cup-2026-mexico",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-07T15:55:48+00:00",
-      "score": 26.0,
-      "keywords": [
-        "matic",
-        "upset",
-        "Iran",
-        "players",
-        "visa",
-        "delay"
-      ],
-      "summary": "Team are based in Tijuana with all group games in US Iran FA labels visa issues ‘political interference in sport’ Iran’s World Cup 2026 squad landed in Mexico on Sunday amid a bitter diplomatic row, after the United States refused to issue visas for some team support staff. The Iran coach, Amir Ghal",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T16:24:34.441741+00:00"
-    },
-    {
-      "title": "World Cup drinks prices revealed as England fans face paying £13.50 for a beer and over £5 for bottled water",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39334015/world-cup-drinks-prices-beer-water/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-07T15:49:32+00:00",
-      "score": 26.0,
-      "keywords": [
-        "James",
-        "Harry Kane",
-        "World",
-        "drinks",
-        "prices",
-        "revealed"
-      ],
-      "summary": "ENGLAND supporters heading to the USA to support the Three Lions are set for a hefty bar bill. Many made the trip to Tampa's Raymond James stadium to watch Harry Kane and Co win a warm-up match against New Zealand on Saturday 1-0. And any that needed to quench their thirst with a swift cold...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T16:24:34.441741+00:00"
-    },
-    {
-      "title": "Tottenham have TWO transfer offers rejected for £70million-rated Brighton star as CEO warns of other clubs circling",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39333946/tottenham-transfer-offers-rejected-jan-paul-van-hecke-brighton/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-07T15:21:13+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Tottenham",
-        "Spurs",
-        "transfer",
-        "offers",
-        "rejected"
-      ],
-      "summary": "TOTTENHAM have had TWO bids rejected for £70million-rated Brighton defender Jan Paul van Hecke. Spurs chief Roberto De Zerbi is desperate to bolster his squad after only narrowly avoiding relegation from the Premier League. And the former Brighton boss is eyeing a reunion with Van Hecke, 25, this su",
-      "summary_cn": "",
-      "fetched_at": "2026-06-07T16:24:34.441741+00:00"
     }
   ]
 }
