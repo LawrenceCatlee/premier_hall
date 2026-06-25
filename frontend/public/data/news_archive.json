@@ -1,6 +1,493 @@
 {
   "items": [
     {
+      "title": "EFL fixtures confirmed as West Ham handed hardest possible start to Championship season and Spygate rivalry renewed",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39538166/efl-fixtures-west-ham-championship/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T11:00:01+00:00",
+      "score": 39.0,
+      "keywords": [
+        "West Ham",
+        "Bowen",
+        "Jarrod Bowen",
+        "fixtures",
+        "confirmed",
+        "West"
+      ],
+      "summary": "WEST HAM start life in the Championship with a trip to fellow relegated club Burnley. Nuno Espirito Santo’s men make the tough hike to Turf Moor on Sunday August 16 for a 4pm televised kick-off. It remains to be seen if any of their big-hitters like Jarrod Bowen, Crysencio Summerville, Taty Castella",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Scorecard: England vs New Zealand, third Test",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/england-v-new-zealand/scorecard/1f23e721-b6af-5b60-97f9-a4e15cc65696",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T10:55:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Bridge",
+        "Scorecard",
+        "England",
+        "Zealand",
+        "third",
+        "Test"
+      ],
+      "summary": "Latest score from the third and final Test between England and New Zealand at Trent Bridge, with the two teams tied at 1-1. Watch on Sky Sports Cricket.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "England legend David Seaman singles out Three Lions star ‘just as valuable as Harry Kane’ who can’t afford an injury",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39537923/david-seaman-jordan-pickford-england-harry-kane/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T10:26:37+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Seaman",
+        "Harry Kane",
+        "Pickford",
+        "Jordan Pickford",
+        "David Seaman",
+        "England"
+      ],
+      "summary": "DAVID SEAMAN has claimed Jordan Pickford is just as important to England as Harry Kane. And the legendary Three Lions stopper, 62, reckons Pickford’s availability could be vital to whether England can finally end 60 years of hurt this summer. Seaman, who earned 75 caps for England, worries that Pick",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Cristiano Ronaldo in stitches as reporters make bizarre request in live TV interview at World Cup",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39537632/cristiano-ronaldo-laughs-bizarre-request-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T10:15:08+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "Cristiano",
+        "stitches",
+        "reporters",
+        "make"
+      ],
+      "summary": "PORTUGAL captain Cristiano Ronaldo was left in stitches after being asked for a PAY RISE during a World Cup interview. The 41-year-old was in good spirits after scoring a brace for Portugal against Uzbekistan on Tuesday. After the 5-0 victory in Houston, Ronaldo spoke to Portuguese media company Liv",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "West Ham latest: Hammers' Millwall reunion revealed as fixtures released",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T12:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "West",
+        "latest",
+        "Hammers",
+        "Millwall",
+        "reunion"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "West Ham visit Burnley on opening Championship weekend - every game live on Sky",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13552248/championship-2026-27-season-fixtures-dates-schedule-and-how-to-watch",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T12:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Wolves",
+        "West",
+        "visit",
+        "Burnley",
+        "opening"
+      ],
+      "summary": "West Ham and Burnley will go head to head on the opening weekend of the new Championship season after Wolves kick off the new campaign at home to Blackburn - live on Sky Sports+ .",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "L1 fixtures: Leicester start at Notts County with every opening game live on Sky",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13552244/league-one-2026-27-season-fixtures-dates-schedule-how-to-watch",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T12:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Leicester",
+        "fixtures",
+        "start",
+        "Notts",
+        "County",
+        "every"
+      ],
+      "summary": "Leicester City will start their first season in Sky Bet League One since 2008/09 with a trip to Notts County, live on Sky Sports.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Burnley and West Ham to meet on first Championship weekend",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjwg9l53evwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T11:00:17+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Burnley",
+        "West",
+        "meet",
+        "first",
+        "Championship"
+      ],
+      "summary": "Relegated Burnley and West Ham will meet on the opening weekend of the Championship season on Sunday, 16 August.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Leicester start League One season at Notts County",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k4er291jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T11:05:06+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Leicester",
+        "start",
+        "League",
+        "season",
+        "Notts",
+        "County"
+      ],
+      "summary": "Leicester City will start their League One season at promoted Notts County, while Bromley's first-ever match in the division will be at Barnsley.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "EFL fixtures: West Ham go to Burnley, Wolves host Blackburn in Championship openers",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/25/efl-fixtures-west-ham-to-face-burnley-in-championship-wolves-play-blackburn-in-opener",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-25T11:15:32+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Leicester",
+        "West Ham",
+        "Wolves",
+        "fixtures",
+        "West",
+        "Burnley"
+      ],
+      "summary": "League One: Notts Co v Leicester, Barnsley v Bromley York return to League Two with visit of Bristol Rovers Relegated Wolves will launch the Championship season at home to Blackburn, while West Ham head to Burnley in one of the more eye-catching fixtures on the opening weekend. The EFL fixture list ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Man Utd star, 22, ‘targeted in shock transfer swoop by newly-promoted Hull’ after admitting he wants regular football",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39538790/man-utd-transfer-news-radek-vitek-hull-city/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T10:56:58+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "star",
+        "targeted",
+        "shock",
+        "transfer"
+      ],
+      "summary": "MANCHESTER UNITED goalkeeper Radek Vitek is being eyed by Hull, according to reports. The Tigers are on the lookout for reinforcements this summer to bolster their bid to stay in the Premier League next season. And they've set their sights on securing the services of Vitek. That's according to The D",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "L2 fixtures: York, Rochdale return to EFL with every opening game live on Sky",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13552231/league-two-2026-27-season-fixtures-dates-schedule-how-to-watch",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T12:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "fixtures",
+        "York",
+        "Rochdale",
+        "return",
+        "every",
+        "opening"
+      ],
+      "summary": "Newly-promoted Rochdale's game at Newport will kick off the new 2026/27 Sky Bet League Two season on Saturday August 15, live on Sky Sports .",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "EVERY EFL game LIVE on Sky Sports on opening weekend",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13550693/live-efl-2026-27-fixtures-on-sky-sports-championship-league-one-league-two-games-dates-kick-off-times",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T12:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "EVERY",
+        "game",
+        "LIVE",
+        "Sports",
+        "opening",
+        "weekend"
+      ],
+      "summary": "All the live EFL matches from the Championship, League One and League Two on Sky Sports this season...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Pochettino has US believing they can be World Cup winners",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgm9jvemlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T10:34:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Pochettino",
+        "believing",
+        "World",
+        "winners"
+      ],
+      "summary": "Mauricio Pochettino has united the USA fans and players in a belief that they are capable of winning the World Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "How brands banned from the World Cup became the story",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T10:53:31+00:00",
+      "score": 20.0,
+      "keywords": [
+        "brands",
+        "banned",
+        "World",
+        "became",
+        "story"
+      ],
+      "summary": "When we try to suppress something, we often make it more visible - and Fifa is living that in real time with its sponsors.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Championship fixtures: Your club-by-club guide",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0j8jlvz2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T11:01:32+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Championship",
+        "fixtures",
+        "club",
+        "guide"
+      ],
+      "summary": "See your Championship club's full fixture list for the forthcoming 2026-27 season.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "League One fixtures: Your club-by-club guide",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c24yry9n5gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T11:02:08+00:00",
+      "score": 20.0,
+      "keywords": [
+        "League",
+        "fixtures",
+        "club",
+        "guide"
+      ],
+      "summary": "The League One fixtures for the 2026-27 season have been released - find your club's full list here.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "League Two fixtures: Your club-by-club guide",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj6gxgy15z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T11:02:32+00:00",
+      "score": 20.0,
+      "keywords": [
+        "League",
+        "fixtures",
+        "club",
+        "guide"
+      ],
+      "summary": "The League Two fixtures for the 2026-27 season have been released and here is where you can find links to your team's full fixture list.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "BBC and Sidemen to host World Cup watchalong",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd0m4j8dv0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T10:58:04+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Sidemen",
+        "host",
+        "World",
+        "watchalong"
+      ],
+      "summary": "BBC Sport and YouTube collective the Sidemen team up for a World Cup watchalong on Thursday.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Hearts closing in on Vrancken as new boss",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lyp0ynvyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T10:35:57+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Hearts",
+        "closing",
+        "Vrancken",
+        "boss"
+      ],
+      "summary": "Hearts are moving closer to appointing Belgian football's manager of the year, Wouter Vrancken, as the club's new head coach.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Meet the English Wags cheering on RIVAL teams at World Cup, from reality TV star to Mbappe’s ex and glam footballer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39537487/english-wags-rival-teams-world-cup-mbappe/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T11:34:38+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Meet",
+        "English",
+        "Wags",
+        "cheering",
+        "RIVAL",
+        "teams"
+      ],
+      "summary": "WHEN the WAGS come out at the World Cup, you might be surprised by just how many international couples there are. Famously, Spain international Dani Olmo is in a relationship with Laura Alba Schmitt, who is German and that caused massive issues at the Euros two years ago in her homeland. When Spain ",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Inside Scotland’s horror World Cup with shocking shot stats, McTominay going missing and boss Clarke’s meltdown blasted",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39538183/scotland-world-cup-mctominay-missing-clarke-meltdown/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T11:15:57+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Inside",
+        "Scotland",
+        "horror",
+        "World",
+        "shocking",
+        "shot"
+      ],
+      "summary": "SCOTLAND's World Cup campaign has turned into a horror show after the Tartan Army's dismal 3-0 defeat to Brazil in their final group game. Steve Clarke's Scots look set to continue the unwanted tradition of never reaching the knockout phase of a World Cup - despite the extended 48-team format. Histo",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "World Cup 2026 Group F LIVE TABLE: Latest standings as Netherlands, Japan and Sweden battle it out after Tunisia’s exit",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39538401/world-cup-2026-group-f-live-table-latest-standings/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T10:31:32+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "Group",
+        "LIVE",
+        "TABLE",
+        "Latest",
+        "standings"
+      ],
+      "summary": "TIME is running out for nations to book their spot in the World Cup 2026 knockout rounds - and there is still so much to play for in Group F! Netherlands and Japan find themselves in the top two going into the final round of group fixtures. But they are only one point ahead of...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "Japan vs Sweden: Get £20 in free bets and 3 x 200% Odds Boosts for the World Cup with talkSPORT BET",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39527388/japan-sweden-free-bets-world-cup-talksport/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T10:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Japan",
+        "Sweden",
+        "free",
+        "bets",
+        "Odds",
+        "Boosts"
+      ],
+      "summary": "JAPAN and Sweden are set to jostle for position in high-scoring Group F in what should be an entertaining showdown in Dallas. And brand-new talkSPORT BET customers who sign up, opt in and stake £10 on football can claim £20 in free bets plus 3 x 200% Odds Boost Tokens! ⚽ CLAIM £20 FREE BETS...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
+      "title": "World Cup 2026 Group E LIVE TABLE: Latest standings as Ivory Coast, Ecuador and Curacao battle to join Germany",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39537431/world-cup-2026-group-e-live-table-latest-standings/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T09:48:07+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "Group",
+        "LIVE",
+        "TABLE",
+        "Latest",
+        "standings"
+      ],
+      "summary": "WE have reached the final round of group stage fixtures at the World Cup 2026 - and Group E is heating up! Germany have comfortably sailed into the round of 32 after securing two wins from their opening two matches. And Ivory Coast, Ecuador and Curacao all have the chance to join them. The top...",
+      "summary_cn": "",
+      "fetched_at": "2026-06-25T11:46:25.172395+00:00"
+    },
+    {
       "title": "All done deals in June 2026",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
@@ -38933,499 +39420,6 @@
       "summary": "England were forced to settle for a Women's World Cup play-off spot despite easing past Ukraine at the Hill Dickinson Stadium.",
       "summary_cn": "",
       "fetched_at": "2026-06-09T21:55:36.977681+00:00"
-    },
-    {
-      "title": "Lionesses ease past Ukraine but must navigate playoffs to qualify for World Cup",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/enlgand-ukraine-womens-world-cup-2027-qualifying-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-09T20:59:35+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Lionesses",
-        "ease",
-        "past",
-        "Ukraine",
-        "must",
-        "navigate"
-      ],
-      "summary": "England 3-0 Ukraine Carter 14, Stanway 37, Mead 67 England had to settle for a place in the World Cup playoffs despite cruising to a 3-0 victory against Ukraine, as Spain’s 6-1 win in Iceland forced England to finish in second spot. It is the first time that England have failed to top their World Cu",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T21:55:36.977681+00:00"
-    },
-    {
-      "title": "If we win the World Cup again, then Thomas Tuchel will be my favourite German, says England’s 1966 hero Sir Geoff Hurst",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39356724/thomas-tuchel-world-cup-sir-geoff-hurst/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T20:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "again",
-        "Thomas",
-        "Tuchel",
-        "favourite",
-        "German"
-      ],
-      "summary": "ENGLAND’S sole surviving World Cup winner Sir Geoff Hurst says manager Thomas Tuchel would be his favourite German — if the Three Lions lift the trophy. Striker Sir Geoff, who famously scored a hat-trick in the 1966 triumph, said he would rather the team have an English coach “but we don’t care if h",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T21:55:36.977681+00:00"
-    },
-    {
-      "title": "FIA confirm hearing date for Alpine appeal against Gasly Monaco penalties",
-      "title_cn": "",
-      "url": "https://www.skysports.com/f1/news/12040/13552418/fia-confirm-date-for-alpine-appeal-hearing-over-monaco-gp-speeding-penalties-for-pierre-gasly",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-09T18:30:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "given",
-        "speed",
-        "confirm",
-        "hearing",
-        "date",
-        "Alpine"
-      ],
-      "summary": "Alpine's appeal against pit-lane speeding penalties given to Pierre Gasly during the Monaco Grand Prix will be heard on Thursday, the FIA has confirmed.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "David Sullivan’s Sport newspapers used sexualised images of underage girls as ‘bait for predatory men’",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/david-sullivan-sport-newspaper-sexualised-images-underage-girls",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-09T18:05:35+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Sullivan",
-        "David",
-        "Sport",
-        "newspapers",
-        "used",
-        "sexualised"
-      ],
-      "summary": "Former victims’ commissioner says publication ‘deliberately came as close as possible to breaking the law’ David Sullivan’s Sport newspapers used sexualised images of underage girls as “bait for predatory men”, the former victims’ commissioner has said. Vera Baird spoke amid scrutiny of the newspape",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Man Utd exploring deal for Fernandes as West Ham price-tag revealed",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13547841/mateus-fernandes-transfer-news-man-utd-exploring-deal-for-midfielder-who-west-ham-value-at-80m",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-09T19:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "West Ham",
-        "Man Utd",
-        "Fernandes",
-        "exploring",
-        "deal"
-      ],
-      "summary": "Manchester United are exploring a potential deal for West Ham midfielder Mateus Fernandes.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "What next for Billam-Smith after Rozicki? 'Opetaia the one I want!'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13552403/chris-billam-smith-calls-for-jai-opetaia-fight-next-after-bruising-cruiserweight-win-over-ryan-rozicki-in-bournemouth",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-09T17:40:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Bournemouth",
-        "Smith",
-        "next",
-        "Billam",
-        "Rozicki",
-        "Opetaia"
-      ],
-      "summary": "Chris Billam-Smith has reiterated his desire to face Jai Opetaia &#8216;as soon as he can&#8217; after his gruelling stoppage hometown victory over Ryan Rozicki in Bournemouth.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Sullivan banned from contact with West Ham women's and youth teams since 2023",
-      "title_cn": "",
-      "url": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-09T17:53:48+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Sullivan",
-        "banned",
-        "contact",
-        "West",
-        "women"
-      ],
-      "summary": "The decision followed a safeguarding investigation opened by the the Football Association.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Wayne Rooney’s son Kai, 16, lifts huge weights in gruelling gym workout after Man Utd season cut short by injury",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39356197/wayne-rooney-son-kai-gym-workout/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T18:44:45+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Man Utd",
-        "Wayne Rooney",
-        "Rooney",
-        "young",
-        "Wayne",
-        "lifts"
-      ],
-      "summary": "WAYNE ROONEY's footballing son Kai showed off his bulging biceps during a gruelling gym workout on Instagram. The youngster, 16, who is currently on the books of his dad's former club Man Utd, missed the end of the season with a foot injury. However, the teen hasn't been resting on his laurels, as t",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Shakira makes history as her new World Cup song passes 100MILLION views hours before ‘magical’ tournament begins",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39355772/shakira-history-world-cup-song-100million-views/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T18:00:00+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Shakira",
-        "makes",
-        "history",
-        "World",
-        "song",
-        "passes"
-      ],
-      "summary": "HIPS Don’t Lie singer Shakira has chalked up another World Cup win — with her official song passing 100million views. The Colombian released Dai Dai a fortnight ago and the video is set for a ­clicking frenzy when the tournament starts tomorrow. Shakira, 49, who performs the track with rapper Burna ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Real Madrid confirm shock £130million offer for Argentina World Cup star – with decision already made on transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39356080/real-madrid-julian-alvarez-atletico-madrid-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T17:49:32+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Real",
-        "Madrid",
-        "confirm",
-        "shock",
-        "offer",
-        "Argentina"
-      ],
-      "summary": "REAL MADRID have announced they have had a £130million bid for Julian Alvarez REJECTED by city rivals Atletico Madrid. Newly re-elected President Florentino Perez had promised in his campaign to retain the Santiago Bernabeu hotseat that he would make a bid of “at least €150m (£130m) for an unnamed '",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Serena Williams makes winning comeback after four-year absence",
-      "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13552468/serena-williams-44-year-old-grand-slam-great-makes-winning-comeback-in-queens-doubles-event-after-four-year-absence",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-09T19:20:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Williams",
-        "Serena",
-        "makes",
-        "winning",
-        "comeback",
-        "four"
-      ],
-      "summary": "Serena Williams made a winning start to her competitive tennis comeback in the doubles event at Queen&#8217;s, claiming her first professional victory in nearly four years.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Explained: Is Stokes' captaincy untenable after curfew breach?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13552428/england-cricket-is-ben-stokes-captaincy-untenable-after-nightclub-breach",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-09T17:41:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "James",
-        "Explained",
-        "Stokes",
-        "captaincy",
-        "untenable",
-        "curfew"
-      ],
-      "summary": "James Cole provides the latest update on whether Ben Stokes will step down as England Test captain after being involved in an incident at a nightclub on Monday morning.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "'Rashford's a dead cert' – Rooney, Walcott & Defoe on England's wide options",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/videos/c9d2lyl5770o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-09T17:40:37+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Wayne Rooney",
-        "Kelly",
-        "Rashford",
-        "Walcott",
-        "Defoe",
-        "Rooney"
-      ],
-      "summary": "Wayne Rooney, Theo Walcott, Jermain Defoe, Kae Kurd and Kelly Somers assess England's wide options for the World Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Kane is in scorching form but England will need others to step up with goals | Jacob Steinberg",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/harry-kane-england-team-thomas-tuchel-world-cup",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-09T19:08:14+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Kane",
-        "scorching",
-        "form",
-        "England",
-        "need"
-      ],
-      "summary": "With fears about an over-reliance on the goalscoring captain, Tuchel needs more from his other attackers If Thomas Tuchel requires proof there are worse things to be than the Harry Kane team, he need only hear how underwhelming the future looked when an England second string bid farewell to the 2014",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Inside BBC’s state-of-the-art World Cup studio with WIND effects and LED screen as chief hits back at Gary Lineker jibe",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39355905/bbc-new-world-cup-studio-lineker/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T17:48:45+00:00",
-      "score": 26.0,
-      "keywords": [
-        "green",
-        "Inside",
-        "state",
-        "World",
-        "studio",
-        "WIND"
-      ],
-      "summary": "THE Director of BBC Sport has rubbished Gary Lineker’s claims that their UK World Cup studio is just a “green box”. Alex Kay-Jelski insists basing coverage of the World Cup from Salford is the right decision, claiming the move saved taxpayers “millions”. Kay-Jelski unveiled the public broadcaster's ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/didier-deschamps-france-world-cup-kylian-mbappe",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-09T19:00:02+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Didier",
-        "Deschamps",
-        "knows",
-        "speaks",
-        "players"
-      ],
-      "summary": "Questioned in France but championed from afar, the departing head coach has forged a legacy that no one – bar, perhaps, himself – would dare dispute Follow the verdant path towards the Château de Clairefontaine and you are met by a three-metre replica of the World Cup trophy accompanied by two stars",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Key Arsenal figure QUITS club after nine years as he takes up bold new role at Championship club",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39356137/max-porter-leaves-arsenal-u21-stoke-assistant-manager/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T17:58:20+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "figure",
-        "QUITS",
-        "club",
-        "nine",
-        "years"
-      ],
-      "summary": "ARSENAL Under-21s boss Max Porter has left the club after nine years with the Gunners. Porter, 38, has left to start a new role as Assistant Manager at Stoke City. Porter took charge of Arsenal’s U21s at the start of last season, but struggled to ignite a highly talented group as they finished 14th ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Does referee case show Fifa has lost control of its own World Cup?",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-09T17:55:45+00:00",
-      "score": 20.0,
-      "keywords": [
-        "referee",
-        "case",
-        "show",
-        "Fifa",
-        "lost",
-        "control"
-      ],
-      "summary": "With referee Omar Artan denied entry to the United States and worries over staff and supporters being turned back, what does this tell us about the World Cup?",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Real Madrid's £130m Alvarez bid rejected",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-09T18:23:07+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Real",
-        "Madrid",
-        "Alvarez",
-        "rejected"
-      ],
-      "summary": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "England v Ukraine: Women’s World Cup qualifier – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/09/england-v-ukraine-womens-world-cup-qualifier-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-09T19:16:34+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "Ukraine",
-        "Women",
-        "World",
-        "qualifier",
-        "live"
-      ],
-      "summary": "⚽ Updates from the Group A3 fixture; kick-off 8pm BST ⚽ Mail Will | Hemp backs team to bounce back ITV are not particularly interested in this game, they have spoken about Friday night for about 15 mins. Look forward, folks. Sarina Wiegman: “Every game you don’t win, it hurts. Friday was a hard one ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "Atlético Madrid reject £129m bid from Real Madrid for Julián Alvarez",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/atletico-madrid-reject-129m-bid-from-real-madrid-for-julian-alvarez",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-09T18:21:01+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Madrid",
-        "reject",
-        "Real",
-        "Alvarez"
-      ],
-      "summary": "Real Madrid reveal they have made offer for Argentinian Arbeloa departs club, paving way for Mourinho return Real Madrid have revealed they have had a €150m (£129.4m) bid for Julián Alvarez rejected by city rivals Atlético Madrid. The Argentina striker has scored 49 goals in 106 appearances for Atlé",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T19:23:33.559442+00:00"
-    },
-    {
-      "title": "What now for West Ham after Sullivan allegations?",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cdjke4r7dmeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-09T14:44:39+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Sullivan",
-        "West",
-        "allegations"
-      ],
-      "summary": "West Ham is a club in turmoil after co-chair David Sullivan stood down ahead of allegations about his private life, which he denies.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T16:10:40.605142+00:00"
-    },
-    {
-      "title": "Doctors said I had ‘no chance’ of playing football after cancer spread to my lungs – now I’m starring in World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/38405030/jayden-nelson-cancer-world-cup-canada/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T14:16:55+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "young",
-        "Doctors",
-        "chance",
-        "playing",
-        "football"
-      ],
-      "summary": "JAYDEN NELSON sensationally beat the odds when he was diagnosed with cancer as a toddler - and now he has been handed a last-minute call-up to Canada's World Cup squad. Former Arsenal youngster Marcelo Flores was ruled out of the tournament because of rupturing his ACL during the Concacaf Champions ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T16:10:40.605142+00:00"
-    },
-    {
-      "title": "Chelsea files: Club legend urges Xabi Alonso to cling on to wantaway star & Blues still sweating on FA punishment",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39352490/alonso-fernandez-palmer-chelsea-hazard/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T14:15:16+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "JOE Cole",
-        "files",
-        "Club",
-        "legend",
-        "urges"
-      ],
-      "summary": "JOE Cole is urging Chelsea to do all they can to keep Enzo Fernandez. But the Blues legend admits it is hard to take players round when Real Madrid come calling. The LaLiga giants have registered their interest in Fernandez and the Argentine was hardly trying to put them off with comments he made du",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T16:10:40.605142+00:00"
-    },
-    {
-      "title": "Six Premier League midfield targets Man Utd are weighing up – and two they should sign if they can’t get Elliot Anderson",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39348429/man-utd-transfer-six-midfield-targets-anderson-fernandes-tonali/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-09T14:10:39+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Anderson",
-        "Premier",
-        "League",
-        "midfield"
-      ],
-      "summary": "THE 2025 summer transfer window was Manchester United’s best in 19 years. Matheus Cunha, Bryan Mbeumo, Benjamin Sesko and Senne Lammens were all hits who made invaluable contributions to the team’s ascent from 15th in 2024-25 to third last season. United chief executive Omar Berrada described the qu",
-      "summary_cn": "",
-      "fetched_at": "2026-06-09T16:10:40.605142+00:00"
     }
   ]
 }
