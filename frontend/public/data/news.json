@@ -1,502 +1,543 @@
 {
-  "updated_at": "2026-06-25T11:46:25.206785+00:00",
+  "updated_at": "2026-06-25T14:48:52.486409+00:00",
   "items": [
     {
-      "title": "EFL fixtures confirmed as West Ham handed hardest possible start to Championship season and Spygate rivalry renewed",
+      "title": "The narrative about the difference between Gareth Southgate and Thomas Tuchel is not that simple | Cath Bishop",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39538166/efl-fixtures-west-ham-championship/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/football/2026/jun/25/world-cup-gareth-southgate-thomas-tuchel-difference-england",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-25T11:00:01+00:00",
-      "score": 39.0,
+      "published": "2026-06-25T13:27:44+00:00",
+      "score": 34.0,
       "keywords": [
-        "West Ham",
-        "Bowen",
-        "Jarrod Bowen",
-        "fixtures",
-        "confirmed",
-        "West"
+        "Southgate",
+        "Gareth Southgate",
+        "narrative",
+        "difference",
+        "between",
+        "Gareth"
       ],
-      "summary": "WEST HAM start life in the Championship with a trip to fellow relegated club Burnley. Nuno Espirito Santo’s men make the tough hike to Turf Moor on Sunday August 16 for a 4pm televised kick-off. It remains to be seen if any of their big-hitters like Jarrod Bowen, Crysencio Summerville, Taty Castella",
+      "summary": "The assumption that the England coach gave his team a rocket against Croatia at half-time is wrong. In fact he did the opposite We’ve completed the Southgate leadership lessons and now we find ourselves at the beginning of the Tuchelosophy course. We can already see some of the key modules we’ll be ",
       "summary_cn": ""
     },
     {
-      "title": "World Cup 2026: Scotland on brink after Brazil defeat, EFL fixtures announced, and more – live",
+      "title": "All done deals in June 2026",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-25T11:40:50+00:00",
+      "published": "2026-06-25T14:18:07+00:00",
+      "score": 33.0,
+      "keywords": [
+        "done",
+        "deals",
+        "June"
+      ],
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal confirm first summer transfer as Piero Hincapie deal made permanent in £35million move",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39541308/arsenal-confirm-piero-hincapie-deal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:41:14+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "confirm",
+        "first",
+        "summer",
+        "transfer",
+        "Piero"
+      ],
+      "summary": "ARSENAL have kicked off their summer spending by making defender Piero Hincapie’s loan move permanent. Hincapie will officially join on July 1 for a fee in the region of £34.5million and is set to sign a five-year contract. The Gunners signed the Ecuadorian on deadline day of last summer’s transfer ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Millwall vs West Ham confirmed for same weekend as another huge derby with fierce rivalries set to be renewed",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39540314/west-ham-millwall-confirmed-derby-west-brom-wolves/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:04:11+00:00",
+      "score": 33.0,
+      "keywords": [
+        "West Ham",
+        "Millwall",
+        "West",
+        "confirmed",
+        "same",
+        "weekend"
+      ],
+      "summary": "MILLWALL and West Ham have set the date for their first Championship derby since 2012. The high-stakes contest is set for September 19 as the Hammers hope to secure promotion back to the Premier League at the first time of asking. The Lions will host their rivals at The Den before they travel to the",
+      "summary_cn": ""
+    },
+    {
+      "title": "One-cap former England star, 44, accuses Mick McCarthy of trying to ruin his career in astonishing blast",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39541228/jay-boothroyd-accuses-mick-mccarthy-ruining-career/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T14:14:42+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Wolves",
+        "McCarthy",
+        "former",
+        "England",
+        "star",
+        "accuses"
+      ],
+      "summary": "FORMER England striker Jay Bothroyd has accused Mick McCarthy of trying to ruin his career at Wolves. The ex-Premier League star claims his old boss tried to break him mentally by forcing him to train completely alone. Bothroyd, 44, lifted the lid on his Molineux nightmare while opening up about his",
+      "summary_cn": ""
+    },
+    {
+      "title": "Godfrey signs new three-year deal with London City",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly89qv587xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T13:00:17+00:00",
       "score": 28.0,
       "keywords": [
-        "World",
+        "Godfrey",
+        "signs",
+        "year",
+        "deal",
+        "London",
+        "City"
+      ],
+      "summary": "England international Freya Godfrey has signed a new three-year contract with London City Lionesses.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Turkey vs USA preview: Betting tips, odds and free bets (World Cup, Group D)",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39471446/turkey-vs-usa-preview-betting-tips-predictions/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:00:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Turkey",
+        "preview",
+        "Betting",
+        "tips",
+        "odds",
+        "free"
+      ],
+      "summary": "THE USA host Turkey in Los Angeles with top spot in Group D already secured, while the visitors look to avoid leaving the World Cup empty-handed. SunSport’s betting experts have previewed the clash and picked out the best betting tips, odds and exclusive sign-up bonuses from our leading bookmaker pa",
+      "summary_cn": ""
+    },
+    {
+      "title": "GNev: England need 'inventive' Rogers from the start against Panama",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13557718/world-cup-gary-neville-england-need-inventive-morgan-rogers-to-unlock-stubborn-panama",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T15:35:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Neville",
+        "Gary Neville",
+        "GNev",
+        "England",
+        "need",
+        "inventive"
+      ],
+      "summary": "Gary Neville looks ahead to England's final World Cup group game against Panama and insists that he would start Morgan Rogers on the left as Thomas Tuchel's side look to cement their place at the top of Group L",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bellamy to stay with Wales as Burnley move off",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T14:47:33+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Bellamy",
+        "Craig Bellamy",
+        "stay",
+        "Wales",
+        "Burnley",
+        "move"
+      ],
+      "summary": "Wales manager Craig Bellamy's proposed move to take charge at Championship side Burnley has fallen through.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Scotland on the brink after Brazil beating, Mexico march on | World Cup Daily",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/video/2026/jun/25/scotland-brazil-mexio-world-cup-daily-podcast",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-25T13:14:28+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Barry",
+        "march",
         "Scotland",
         "brink",
         "Brazil",
-        "defeat",
-        "fixtures"
+        "beating"
       ],
-      "summary": "⚽ Latest news from day 15 | Knockout permutations ⚽ World Cup Q&amp;A: post your questions for our US team ⚽ Player guide | Bracketology | Golden Boot | Mail Tom Mauricio Pochettino’s US team are having a great time at home – but the last couple years haven’t been all that easy, writes Jeff Rueter. ",
+      "summary": "Max Rushden is joined by Barry Glendenning, Mark Langdon, Nicky Bandini and Ewan Murray as Scotland are beaten convincingly by Brazil to leave their chances of progress hanging in the balance Continue reading...",
       "summary_cn": ""
     },
     {
-      "title": "Scorecard: England vs New Zealand, third Test",
+      "title": "Panama vs England: Bet £10, Get £40 free bets + Harry Kane price boost | BOYLE Sports",
       "title_cn": "",
-      "url": "https://www.skysports.com/cricket/england-v-new-zealand/scorecard/1f23e721-b6af-5b60-97f9-a4e15cc65696",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-25T10:55:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Bridge",
-        "Scorecard",
-        "England",
-        "Zealand",
-        "third",
-        "Test"
-      ],
-      "summary": "Latest score from the third and final Test between England and New Zealand at Trent Bridge, with the two teams tied at 1-1. Watch on Sky Sports Cricket.",
-      "summary_cn": ""
-    },
-    {
-      "title": "England legend David Seaman singles out Three Lions star ‘just as valuable as Harry Kane’ who can’t afford an injury",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39537923/david-seaman-jordan-pickford-england-harry-kane/",
+      "url": "https://www.thesun.co.uk/sport/39540910/panama-vs-england-boylesports-free-bets-harry-kane/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-25T10:26:37+00:00",
+      "published": "2026-06-25T12:56:34+00:00",
       "score": 26.0,
       "keywords": [
-        "Seaman",
         "Harry Kane",
-        "Pickford",
-        "Jordan Pickford",
-        "David Seaman",
-        "England"
+        "Panama",
+        "England",
+        "free",
+        "bets",
+        "Harry"
       ],
-      "summary": "DAVID SEAMAN has claimed Jordan Pickford is just as important to England as Harry Kane. And the legendary Three Lions stopper, 62, reckons Pickford’s availability could be vital to whether England can finally end 60 years of hurt this summer. Seaman, who earned 75 caps for England, worries that Pick",
+      "summary": "ENGLAND will look to seal top spot in Group L when they face Panama this weekend, with Harry Kane aiming to continue his push for the Golden Boot. Register an account with BOYLE Sports, stake a tenner on any sport and you'll receive £40 in free bets to spend however you like, including on the...",
       "summary_cn": ""
     },
     {
-      "title": "Cristiano Ronaldo in stitches as reporters make bizarre request in live TV interview at World Cup",
+      "title": "Hearts appoint Vrancken as McInnes' replacement",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39537632/cristiano-ronaldo-laughs-bizarre-request-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T10:15:08+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ronaldo",
-        "Cristiano Ronaldo",
-        "Cristiano",
-        "stitches",
-        "reporters",
-        "make"
-      ],
-      "summary": "PORTUGAL captain Cristiano Ronaldo was left in stitches after being asked for a PAY RISE during a World Cup interview. The 41-year-old was in good spirits after scoring a brace for Portugal against Uzbekistan on Tuesday. After the 5-0 victory in Houston, Ronaldo spoke to Portuguese media company Liv",
-      "summary_cn": ""
-    },
-    {
-      "title": "West Ham latest: Hammers' Millwall reunion revealed as fixtures released",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "url": "https://www.skysports.com/football/news/12040/13556858/hearts-wouter-vrancken-named-new-tynecastle-head-coach-after-derek-mcinnes-switch-to-rangers",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-25T12:00:00+00:00",
+      "published": "2026-06-25T14:29:00+00:00",
       "score": 25.0,
       "keywords": [
-        "West Ham",
-        "West",
+        "Hearts",
+        "appoint",
+        "Vrancken",
+        "McInnes",
+        "replacement"
+      ],
+      "summary": "Hearts have appointed Wouter Vrancken as their new head coach.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tony Ennis' 1-2-3 picks for Northumberland Plate | Newcastle Preview",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13557681/tony-ennis-1-2-3-picks-for-northumberland-plate-newcastle-preview",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T13:25:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Tony",
+        "Ennis",
+        "picks",
+        "Northumberland",
+        "Plate"
+      ],
+      "summary": "Sky Sports Racing's Tony Ennis previews Saturday's feature race at Newcastle, as the stayers do battle in the Northumberland Plate.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hincapie completes permanent Arsenal move",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8x2189557wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T13:45:35+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Hincapie",
+        "completes",
+        "permanent",
+        "move"
+      ],
+      "summary": "Defender Piero Hincapie makes his loan move from Bayer Leverkusen to Arsenal permanent.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Scot Prem latest: McCrorie becomes McInnes' first signing as Rangers boss",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-25T15:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scot",
+        "Prem",
         "latest",
-        "Hammers",
-        "Millwall",
-        "reunion"
+        "McCrorie",
+        "becomes",
+        "McInnes"
       ],
       "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "West Ham visit Burnley on opening Championship weekend - every game live on Sky",
+      "title": "The games that show the flaws in a 48-team World Cup",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13552248/championship-2026-27-season-fixtures-dates-schedule-and-how-to-watch",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-25T12:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "Wolves",
-        "West",
-        "visit",
-        "Burnley",
-        "opening"
-      ],
-      "summary": "West Ham and Burnley will go head to head on the opening weekend of the new Championship season after Wolves kick off the new campaign at home to Blackburn - live on Sky Sports+ .",
-      "summary_cn": ""
-    },
-    {
-      "title": "L1 fixtures: Leicester start at Notts County with every opening game live on Sky",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13552244/league-one-2026-27-season-fixtures-dates-schedule-how-to-watch",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-25T12:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Leicester",
-        "fixtures",
-        "start",
-        "Notts",
-        "County",
-        "every"
-      ],
-      "summary": "Leicester City will start their first season in Sky Bet League One since 2008/09 with a trip to Notts County, live on Sky Sports.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Burnley and West Ham to meet on first Championship weekend",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjwg9l53evwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-25T11:00:17+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "Burnley",
-        "West",
-        "meet",
-        "first",
-        "Championship"
-      ],
-      "summary": "Relegated Burnley and West Ham will meet on the opening weekend of the Championship season on Sunday, 16 August.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Leicester start League One season at Notts County",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k4er291jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-25T11:05:06+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Leicester",
-        "start",
-        "League",
-        "season",
-        "Notts",
-        "County"
-      ],
-      "summary": "Leicester City will start their League One season at promoted Notts County, while Bromley's first-ever match in the division will be at Barnsley.",
-      "summary_cn": ""
-    },
-    {
-      "title": "EFL fixtures: West Ham go to Burnley, Wolves host Blackburn in Championship openers",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/25/efl-fixtures-west-ham-to-face-burnley-in-championship-wolves-play-blackburn-in-opener",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-25T11:15:32+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Leicester",
-        "West Ham",
-        "Wolves",
-        "fixtures",
-        "West",
-        "Burnley"
-      ],
-      "summary": "League One: Notts Co v Leicester, Barnsley v Bromley York return to League Two with visit of Bristol Rovers Relegated Wolves will launch the Championship season at home to Blackburn, while West Ham head to Burnley in one of the more eye-catching fixtures on the opening weekend. The EFL fixture list ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd star, 22, ‘targeted in shock transfer swoop by newly-promoted Hull’ after admitting he wants regular football",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39538790/man-utd-transfer-news-radek-vitek-hull-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T10:56:58+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "star",
-        "targeted",
-        "shock",
-        "transfer"
-      ],
-      "summary": "MANCHESTER UNITED goalkeeper Radek Vitek is being eyed by Hull, according to reports. The Tigers are on the lookout for reinforcements this summer to bolster their bid to stay in the Premier League next season. And they've set their sights on securing the services of Vitek. That's according to The D",
-      "summary_cn": ""
-    },
-    {
-      "title": "L2 fixtures: York, Rochdale return to EFL with every opening game live on Sky",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13552231/league-two-2026-27-season-fixtures-dates-schedule-how-to-watch",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-25T12:00:00+00:00",
+      "published": "2026-06-25T13:38:00+00:00",
       "score": 20.0,
       "keywords": [
-        "fixtures",
-        "York",
-        "Rochdale",
-        "return",
-        "every",
-        "opening"
+        "games",
+        "show",
+        "flaws",
+        "team",
+        "World"
       ],
-      "summary": "Newly-promoted Rochdale's game at Newport will kick off the new 2026/27 Sky Bet League Two season on Saturday August 15, live on Sky Sports .",
+      "summary": "Two matches in the final round of group games present the chance for two teams to simply play out a draw to qualify.",
       "summary_cn": ""
     },
     {
-      "title": "EVERY EFL game LIVE on Sky Sports on opening weekend",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13550693/live-efl-2026-27-fixtures-on-sky-sports-championship-league-one-league-two-games-dates-kick-off-times",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-25T12:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "EVERY",
-        "game",
-        "LIVE",
-        "Sports",
-        "opening",
-        "weekend"
-      ],
-      "summary": "All the live EFL matches from the Championship, League One and League Two on Sky Sports this season...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Pochettino has US believing they can be World Cup winners",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgm9jvemlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-25T10:34:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Pochettino",
-        "believing",
-        "World",
-        "winners"
-      ],
-      "summary": "Mauricio Pochettino has united the USA fans and players in a belief that they are capable of winning the World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "How brands banned from the World Cup became the story",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-25T10:53:31+00:00",
-      "score": 20.0,
-      "keywords": [
-        "brands",
-        "banned",
-        "World",
-        "became",
-        "story"
-      ],
-      "summary": "When we try to suppress something, we often make it more visible - and Fifa is living that in real time with its sponsors.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Championship fixtures: Your club-by-club guide",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0j8jlvz2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-25T11:01:32+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Championship",
-        "fixtures",
-        "club",
-        "guide"
-      ],
-      "summary": "See your Championship club's full fixture list for the forthcoming 2026-27 season.",
-      "summary_cn": ""
-    },
-    {
-      "title": "League One fixtures: Your club-by-club guide",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24yry9n5gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-25T11:02:08+00:00",
-      "score": 20.0,
-      "keywords": [
-        "League",
-        "fixtures",
-        "club",
-        "guide"
-      ],
-      "summary": "The League One fixtures for the 2026-27 season have been released - find your club's full list here.",
-      "summary_cn": ""
-    },
-    {
-      "title": "League Two fixtures: Your club-by-club guide",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj6gxgy15z3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-25T11:02:32+00:00",
-      "score": 20.0,
-      "keywords": [
-        "League",
-        "fixtures",
-        "club",
-        "guide"
-      ],
-      "summary": "The League Two fixtures for the 2026-27 season have been released and here is where you can find links to your team's full fixture list.",
-      "summary_cn": ""
-    },
-    {
-      "title": "BBC and Sidemen to host World Cup watchalong",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd0m4j8dv0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-25T10:58:04+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Sidemen",
-        "host",
-        "World",
-        "watchalong"
-      ],
-      "summary": "BBC Sport and YouTube collective the Sidemen team up for a World Cup watchalong on Thursday.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Hearts closing in on Vrancken as new boss",
+      "title": "Hearts appoint Belgian Vrancken as head coach",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2lyp0ynvyeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-25T10:35:57+00:00",
+      "published": "2026-06-25T13:35:54+00:00",
       "score": 20.0,
       "keywords": [
         "Hearts",
-        "closing",
+        "appoint",
+        "Belgian",
         "Vrancken",
-        "boss"
+        "head",
+        "coach"
       ],
-      "summary": "Hearts are moving closer to appointing Belgian football's manager of the year, Wouter Vrancken, as the club's new head coach.",
+      "summary": "Hearts appoint former Genk and Sint-Truiden boss Wouter Vrancken as their new head coach a week after Derek McInnes left for Rangers.",
       "summary_cn": ""
     },
     {
-      "title": "Who is Hearts target Wouter Vrancken?",
+      "title": "McCrorie returns to Rangers from Bristol City",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621065y6epo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-25T14:09:14+00:00",
+      "score": 20.0,
+      "keywords": [
+        "McCrorie",
+        "returns",
+        "Rangers",
+        "Bristol",
+        "City"
+      ],
+      "summary": "Ross McCrorie is reuniting with manager Derek McInnes and returning to Rangers after Bristol City accept an undisclosed offer from the Ibrox club.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who is new Hearts head coach Vrancken?",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9320p3rlgzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-25T10:42:16+00:00",
+      "published": "2026-06-25T13:44:26+00:00",
       "score": 20.0,
       "keywords": [
         "Hearts",
-        "target",
-        "Wouter",
+        "head",
+        "coach",
         "Vrancken"
       ],
-      "summary": "BBC Sport Scotland charts the life and career of Belgian head coach Wouter Vrancken, who Hearts are reportedly about to make their new boss.",
+      "summary": "BBC Sport Scotland charts the life and career of Belgian head coach Wouter Vrancken, who is taking over at Hearts.",
       "summary_cn": ""
     },
     {
-      "title": "Meet the English Wags cheering on RIVAL teams at World Cup, from reality TV star to Mbappe’s ex and glam footballer",
+      "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39537487/english-wags-rival-teams-world-cup-mbappe/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-25T11:34:38+00:00",
+      "published": "2026-06-25T14:29:37+00:00",
       "score": 20.0,
       "keywords": [
-        "Meet",
-        "English",
-        "Wags",
-        "cheering",
-        "RIVAL",
-        "teams"
-      ],
-      "summary": "WHEN the WAGS come out at the World Cup, you might be surprised by just how many international couples there are. Famously, Spain international Dani Olmo is in a relationship with Laura Alba Schmitt, who is German and that caused massive issues at the Euros two years ago in her homeland. When Spain ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Inside Scotland’s horror World Cup with shocking shot stats, McTominay going missing and boss Clarke’s meltdown blasted",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39538183/scotland-world-cup-mctominay-missing-clarke-meltdown/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T11:15:57+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Inside",
+        "World",
+        "hits",
+        "crowd",
+        "Mexico",
         "Scotland",
-        "horror",
-        "World",
-        "shocking",
-        "shot"
+        "face"
       ],
-      "summary": "SCOTLAND's World Cup campaign has turned into a horror show after the Tartan Army's dismal 3-0 defeat to Brazil in their final group game. Steve Clarke's Scots look set to continue the unwanted tradition of never reaching the knockout phase of a World Cup - despite the extended 48-team format. Histo",
+      "summary": "⚽ Latest news from day 15 | Vehicle hits crowd in Mexico ⚽ World Cup Q&amp;A: post your questions for our US team ⚽ Player guide | Bracketology | Golden Boot | Mail Taha Mauricio Pochettino’s US team are having a great time at home – but the last couple years haven’t been all that easy, writes Jeff ",
       "summary_cn": ""
     },
     {
-      "title": "World Cup 2026 Group F LIVE TABLE: Latest standings as Netherlands, Japan and Sweden battle it out after Tunisia’s exit",
+      "title": "World Cup Q&A: ask our correspondents anything — from how far the home nations can go to who might win it all",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39538401/world-cup-2026-group-f-live-table-latest-standings/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-25T10:31:32+00:00",
+      "published": "2026-06-25T14:02:35+00:00",
       "score": 20.0,
       "keywords": [
         "World",
-        "Group",
-        "LIVE",
-        "TABLE",
-        "Latest",
-        "standings"
+        "correspondents",
+        "anything",
+        "home",
+        "nations"
       ],
-      "summary": "TIME is running out for nations to book their spot in the World Cup 2026 knockout rounds - and there is still so much to play for in Group F! Netherlands and Japan find themselves in the top two going into the final round of group fixtures. But they are only one point ahead of...",
+      "summary": "As we near the end of the group stage, writers from our newly expanded US soccer team Alexander Abnos, Pablo Maurer and Jeff Rueter will be online to answer your World Cup questions at 5PM BST (midday EDT, 9AM PDT) Post yours below the line now We’re approaching the end of the group stages of the bi",
       "summary_cn": ""
     },
     {
-      "title": "Japan vs Sweden: Get £20 in free bets and 3 x 200% Odds Boosts for the World Cup with talkSPORT BET",
+      "title": "Major broadcasting change as YouTube sensations the Sidemen land shock BBC World Cup role",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39527388/japan-sweden-free-bets-world-cup-talksport/",
+      "url": "https://www.thesun.co.uk/sport/39541100/sidemen-land-shock-bbc-world-cup-role/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-25T10:00:00+00:00",
+      "published": "2026-06-25T13:59:11+00:00",
       "score": 20.0,
       "keywords": [
-        "Japan",
-        "Sweden",
+        "Major",
+        "broadcasting",
+        "change",
+        "YouTube",
+        "sensations",
+        "Sidemen"
+      ],
+      "summary": "YOUTUBE superstars the Sidemen have teamed up with BBC Sport for a live watch-along of the World Cup match between Ecuador and Germany on Thursday. The match will be streamed live across the BBC Football YouTube channel, the MoreSidemen YouTube channel and BBC iPlayer. Fans will be able to watch the",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ex-Championship midfielder slapped with 11-match ban for sickening racist abuse of team-mate",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39541576/pierre-dwomoh-banned-racist-abuse-team-mate-watford/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:41:39+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Championship",
+        "midfielder",
+        "slapped",
+        "match",
+        "sickening",
+        "racist"
+      ],
+      "summary": "FORMER Watford midfielder Pierre Dwomoh has been handed an 11-match FA ban after racial abuse of a Watford team-mate. An independent commission decided that Dwomoh was guilty of a \"very serious\" and \"completely unacceptable\" offence when he abused the Under-21 player of Indian heritage. This is said",
+      "summary_cn": ""
+    },
+    {
+      "title": "Get England at 50/1 to win against Panama | Sky Bet World Cup offer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39541366/england-vs-panama-odds-sky-bet-world-cup-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:34:48+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "against",
+        "Panama",
+        "World",
+        "offer"
+      ],
+      "summary": "SKY BET have boosted England to a massive 50/1 to beat Panama as the Three Lions look to secure top spot in Group L and book their place in the World Cup knockout stages. New Sky Bet customers who sign up, deposit £5 and place a £1 bet on England to beat Panama can take...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Panama vs England: Get 50/1 for goal to be scored in World Cup clash with Paddy Power",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39540803/panama-england-world-cup-goal-paddy-power-odds/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:33:55+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Panama",
+        "England",
+        "goal",
+        "scored",
+        "World",
+        "clash"
+      ],
+      "summary": "PADDY POWER have a phenomenal offer for new customers ahead of England's final World Cup group stage fixture against Panama on Saturday. Brand new Paddy Power customers can back 1+ goal to be scored in the Group L clash at a stunning 50/1 — which has boosted from 1/500! Paddy Power's England World C",
+      "summary_cn": ""
+    },
+    {
+      "title": "Stunning plans released to revamp European finalists’ stadium and build whole new stand",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39540830/european-club-rayo-vallecano-madrid-crystal-palace/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:27:06+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Stunning",
+        "plans",
+        "released",
+        "revamp",
+        "European",
+        "finalists"
+      ],
+      "summary": "PLANS have been unveiled for a major redevelopment of Rayo Vallecano’s Vallecas stadium in Madrid. The ambitious project will see the historic ground transformed into a modernised football venue. Capacity is set to rise significantly, increasing from around 14,500 to at least 18,500 spectators. The ",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Who do you think you are’ – Scotland boss Steve Clarke blasted for walking out of interview and post-match comments",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39540185/steve-clarke-blasted-walking-out-interview-talksport-scotland/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:09:13+00:00",
+      "score": 20.0,
+      "keywords": [
+        "think",
+        "Scotland",
+        "boss",
+        "Steve",
+        "Clarke",
+        "blasted"
+      ],
+      "summary": "talkSPORT presenter Shebahn Aherne has opened fire on Scotland boss Steve Clarke after he stormed out of a post-match interview following defeat to Brazil. The Tartan Army's World Cup hopes hang by a thread after a 3-0 loss to the five-time World Champions. It means they are banking on being one of ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Panama vs England: Get 50/1 for Three Lions to win final World Cup group clash with Betfred",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39540897/panama-england-world-cup-offer-betfred/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:07:37+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Panama",
+        "England",
+        "Lions",
+        "final",
+        "World",
+        "group"
+      ],
+      "summary": "ENGLAND wrap up Group L on Saturday night when facing Panama in New York New Jersey. Brand new Betfred customers can back the Three Lions to finish the group with a win at a whopping 50/1 — which has boosted from 2/11! England to win | 50/1! Betfred's England World Cup offer | 50/1! Betfred have a..",
+      "summary_cn": ""
+    },
+    {
+      "title": "Turkey vs USA: Get £50 in World Cup 2026 football free bets with Sky Bet",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39499848/turkey-usa-sky-bet-free-bet-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-25T13:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Turkey",
+        "World",
+        "football",
         "free",
-        "bets",
-        "Odds",
-        "Boosts"
+        "bets"
       ],
-      "summary": "JAPAN and Sweden are set to jostle for position in high-scoring Group F in what should be an entertaining showdown in Dallas. And brand-new talkSPORT BET customers who sign up, opt in and stake £10 on football can claim £20 in free bets plus 3 x 200% Odds Boost Tokens! ⚽ CLAIM £20 FREE BETS...",
-      "summary_cn": ""
-    },
-    {
-      "title": "World Cup 2026 Group E LIVE TABLE: Latest standings as Ivory Coast, Ecuador and Curacao battle to join Germany",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39537431/world-cup-2026-group-e-live-table-latest-standings/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T09:48:07+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Group",
-        "LIVE",
-        "TABLE",
-        "Latest",
-        "standings"
-      ],
-      "summary": "WE have reached the final round of group stage fixtures at the World Cup 2026 - and Group E is heating up! Germany have comfortably sailed into the round of 32 after securing two wins from their opening two matches. And Ivory Coast, Ecuador and Curacao all have the chance to join them. The top...",
+      "summary": "THE USA host Turkey in Los Angeles as Mauricio Pochettino's side look for a blockbuster finish to the group stages, while Turkey hope to salvage some pride following their elimination. To celebrate, Sky Bet are offering brand-new customers a fantastic sign-up offer, with £50 in free bets up for grab",
       "summary_cn": ""
     }
   ]
