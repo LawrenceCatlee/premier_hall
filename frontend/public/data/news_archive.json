@@ -1,6 +1,321 @@
 {
   "items": [
     {
+      "title": "Ugarte has 'most serious injury footballer can face'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzx3de02jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-28T17:42:20+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester United",
+        "Ugarte",
+        "most",
+        "serious",
+        "injury",
+        "footballer"
+      ],
+      "summary": "Manchester United have confirmed that midfielder Manuel Ugarte suffered knee ligament damage during Uruguay's World Cup defeat by Spain.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Manuel Ugarte injury update as Man Utd given worst possible news in blow to transfer hopes",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39575797/manuel-ugarte-injury-man-utd-transfer-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-28T17:02:49+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "given",
+        "Manuel",
+        "Ugarte",
+        "injury"
+      ],
+      "summary": "MANCHESTER UNITED midfielder Manuel Ugarte is set to be sidelined for the rest of the year with a knee injury. Ugarte sustained an anterior cruciate ligament injury in Uruguay’s World Cup group stage defeat to Spain that will rule him out until 2027. The £50million midfielder collided into team-mate",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Stokes' retirement cues chaotic finish as England teeter towards series defeat",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13558650/england-vs-new-zealand-ben-stokes-retirement-from-international-cricket-prompts-chaotic-finish-to-day-four-of-third-test-at-trent-bridge",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-28T18:37:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Bridge",
+        "Stokes",
+        "retirement",
+        "cues",
+        "chaotic",
+        "finish"
+      ],
+      "summary": "Ben Stokes took centre stage, in more ways than one, as the announcement of his international retirement dominated a quite remarkable fourth day's play of England's third Test against New Zealand at Trent Bridge.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Ireland seal historic maiden series victory against India",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13558654/ireland-seal-historic-maiden-series-victory-against-t20-world-champions-india-after-thrilling-one-run-win-in-belfast",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-28T17:37:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "seal",
+        "historic",
+        "maiden",
+        "series",
+        "victory"
+      ],
+      "summary": "Ireland sealed a historic first series victory in any format against India with a thrilling one-run win in the second T20 international in Belfast.&#160;",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Pickford excited at chance to step up and complete his England journey",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-28T18:00:15+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Jordan Pickford",
+        "Pickford",
+        "excited",
+        "chance",
+        "step",
+        "complete"
+      ],
+      "summary": "The 32-year-old has enjoyed shootout success but hopes a front-footed approach might help the Three Lions avoid penalties and deliver glory Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of co",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Rangnick responds to match fixing allegations as footage shows Arnautovic arguing with Algeria bench after dramatic goal",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39575920/ralf-rangnick-response-austria-algeria-match-fixing-claims/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-28T18:11:01+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "Rangnick",
+        "responds",
+        "match",
+        "fixing",
+        "allegations"
+      ],
+      "summary": "RALF RANGNICK has categorically denied claims that Austria and Algeria played for a mutually beneficial draw in their final World Cup group game. The European and North African nation produced a 3-3 thriller, with Austria scoring a 96th-minute equaliser. Wild conspiracy theories began circling onlin",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Cristiano Ronaldo DITCHES £242 limited edition boots after just 45 minutes after celebrating World Cup record",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39576232/cristiano-ronaldo-ditches-limited-edition-boots-after-45-minutes/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-28T18:10:33+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "Cristiano",
+        "DITCHES",
+        "limited",
+        "edition"
+      ],
+      "summary": "CRISTIANO RONALDO was forced into a surprising half-time boot change after just 45 minutes wearing a special £242 limited edition pair. The Portugal superstar had been gifted Nike’s new ‘Mercurial Superfly 11 Gold Scorpion’ boots ahead of his side’s final World Cup group game against Colombia. The l",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Who do Scotland fans want as the next head coach?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4rdnv0p3wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-28T16:28:39+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Scotland",
+        "fans",
+        "want",
+        "next",
+        "head",
+        "coach"
+      ],
+      "summary": "The speculation has started, but who do Scotland fans want to replace Steve Clarke?",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "South Africa v Canada: World Cup 2026 last 32 – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/28/south-africa-v-canada-world-cup-2026-last-32-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-28T18:00:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "South",
+        "Africa",
+        "Canada",
+        "World",
+        "last",
+        "live"
+      ],
+      "summary": "⚽️ Kick-off: 8pm BST/3pm EDT/5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Daniel Jesse Marsch makes four changes to the side that lost to Switzerland. At centre-back, Moïse Bombito replaces Luc De Fougerolles; in midfield, Stephen Eustaquio is in for Mathieu Choinière; on the left, i",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Uruguay, Utd's Ugarte suffers knee ligament injury...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49207806/uruguay-manuel-ugarte-faces-long-injury-lay-following-knee-ligament-injury",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-28T18:20:02+00:00",
+      "score": 23.0,
+      "keywords": [
+        "Manchester United",
+        "Uruguay",
+        "Ugarte",
+        "suffers",
+        "knee",
+        "ligament"
+      ],
+      "summary": "Uruguay midfielder Manuel Ugarte has suffered a knee ligament injury in his final World Cup group stage match against Spain, Manchester United have confirmed.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Transfer rumors, news: Manchester United to move f...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-28T16:45:04+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Manchester United",
+        "West Ham",
+        "given",
+        "Fernandes",
+        "Transfer",
+        "rumors"
+      ],
+      "summary": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Australia knock India out of Women's T20 World Cup",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13558644/womens-t20-world-cup-australia-knock-india-out-of-tournament-with-six-wicket-win-to-set-up-semi-final-vs-west-indies",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-28T17:55:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Australia",
+        "knock",
+        "India",
+        "Women",
+        "World"
+      ],
+      "summary": "Australia eliminated India from the Women's T20 World Cup after claiming a six-wicket victory in their Group 1 clash at Lord's.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "YOUR VIEWS after England slip to 103-4 in Stokes' last international LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-28T17:45:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "VIEWS",
+        "England",
+        "slip",
+        "Stokes",
+        "last",
+        "international"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49196824/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-28T16:34:13+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "Power",
+        "Rankings",
+        "group",
+        "stage",
+        "France"
+      ],
+      "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "Sportsbooks sweat U.S. run entering knockouts",
+      "title_cn": "",
+      "url": "https://www.espn.com/sports-betting/story/_/id/49207302/france-argentina-top-world-cup-odds-us-puts-sportsbooks-risk",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-28T18:19:16+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Sportsbooks",
+        "sweat",
+        "entering",
+        "knockouts"
+      ],
+      "summary": "Star-powered France and Argentina top the odds board to win the World Cup as the tournament moves into the knockout stage, while the United States' positive momentum will have sportsbooks sweating more with each game they win.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
+      "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-28T16:33:07+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Brazil",
+        "Spain",
+        "every",
+        "round"
+      ],
+      "summary": "Then there were 32. Let's review why each team still alive at the World Cup could win the whole thing.",
+      "summary_cn": "",
+      "fetched_at": "2026-06-28T18:11:54.451973+00:00"
+    },
+    {
       "title": "Raducanu reveals injury concern but plans to play at Wimbledon",
       "title_cn": "",
       "url": "https://www.skysports.com/tennis/news/12040/13558618/wimbledon-emma-raducanu-reveals-injury-concern-but-plans-to-play-in-womens-singles-first-round-on-monday",
@@ -39121,324 +39436,6 @@
       "summary": "Scotland claimed their first-ever ICC Women's T20 World Cup win with a 40-run thumping of Ireland in their opening match of the 2026 tournament at Old Trafford.",
       "summary_cn": "",
       "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "8-0 Whitewash! Clinical Scotland DEMOLISH Norway",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13553699/8-0-whitewash-clinical-scotland-demolish-norway",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-13T14:48:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Anderson",
-        "Whitewash",
-        "Clinical",
-        "Scotland",
-        "DEMOLISH",
-        "Norway"
-      ],
-      "summary": "The Scottish pairing of Gary Anderson and Cameron Menzies sent out a warning to the rest of the World Cup of Darts as they dismissed Norway without losing a single leg.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Robbie Williams named as shirt sponsor of beloved EFL club as pop legend, 52, hails ‘match made in heaven’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39398867/robbie-williams-kit-sponsor-port-vale/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T13:54:04+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Williams",
-        "Robbie",
-        "named",
-        "shirt",
-        "sponsor",
-        "beloved"
-      ],
-      "summary": "ROBBIE WILLIAMS has been named as the new shirt partner for his beloved Port Vale FC. The Angels singer is a life-long supporter of the club and last night they unveiled his name on the front of their kit for next season. Port Vale fans can get their hands on the new kit today from...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "ITV World Cup commentator leaves fans baffled with bizarre diet as ex-England star, 34, shows off hotel food haul",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39398337/itv-andros-townsend-diet-england-shows-food/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T13:06:51+00:00",
-      "score": 26.0,
-      "keywords": [
-        "TOWNSEND",
-        "ANDROS TOWNSEND",
-        "World",
-        "commentator",
-        "leaves",
-        "fans"
-      ],
-      "summary": "ANDROS TOWNSEND has blown the minds of fans after revealing his strange World Cup diet. The former England star took to TikTok to show off his finely tuned tournament diet of steak, sardines, bone broth, and boiled eggs. The 34-year-old has turned his nose up at the local cuisine in his North Americ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "England star considered one of first names on teamsheet ‘could be DROPPED by Thomas Tuchel’ in shock decision",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39398484/england-dropped-thomas-tuchel-guehi-stones-bellingham-rogers/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T13:00:08+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Phil Foden",
-        "Palmer",
-        "Foden",
-        "England",
-        "star",
-        "considered"
-      ],
-      "summary": "THOMAS TUCHEL could rock the England teamsheet with a surprise selection, reports suggest. The German boss stunned fans and pundits alike with some of his squad selection for the plane, with the likes of Phil Foden, Lewis Hall and Cole Palmer left at home. And Tuchel, 52, is set to repeat that trick",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Jermaine Jenas hits back after tense GMB clash with Kate Garraway and claims interviewers had a ‘thirst for blood’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39397746/jermaine-jenas-slams-gmb-interview/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T12:28:55+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Jermaine Jenas",
-        "Jenas",
-        "Jermaine",
-        "hits",
-        "back",
-        "tense"
-      ],
-      "summary": "JERMAINE Jenas has accused one Good Morning Britain presenter of having a \"thirst for blood\" after he clashed with the hosts yesterday. The former England ace, 43, had a tense exchange with Kate Garraway and Ranvir Singh over the sexting scandal that saw him fired from the BBC. During the interview,",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "England Wag shows off bikini body in tiny swimsuit on luxury holiday after fiance’s World Cup snub",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39398423/england-wag-bikini-holiday-world-cup-morgan-gibbs-white/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T12:46:30+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Nottingham Forest",
-        "Forest",
-        "England",
-        "shows",
-        "bikini",
-        "body"
-      ],
-      "summary": "MORGAN GIBBS-WHITE's fiancee Britney De Villiers showed off her bikini body in a tiny swimsuit as the pair posed for holiday snaps. Despite not being picked in England's World Cup squad, the Nottingham Forest midfielder appears to be enjoying his summer. De Villiers posted the pics on her Instagram,",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Base camp: England's luxury five-star World Cup hotel",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13553547/world-cup-englands-five-star-kansas-city-hotel-and-training-facilities-explained",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-13T12:45:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Base",
-        "camp",
-        "England",
-        "luxury",
-        "five",
-        "star"
-      ],
-      "summary": "England's team base in Kansas City is nothing like any we have seen before.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Can Vinicius finally convince Brazil in Neymar's absence?",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-13T14:09:49+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Vinicius",
-        "finally",
-        "convince",
-        "Brazil",
-        "Neymar",
-        "absence"
-      ],
-      "summary": "Vinicius Junior is considered one of the best players in the world, but can he make the Brazilian public fall in love with him at the World Cup?",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Who are the Haiti players to look out for against Scotland?",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cq81qxnxlw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-13T13:00:28+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Haiti",
-        "players",
-        "look",
-        "against",
-        "Scotland"
-      ],
-      "summary": "Scotland face Haiti in their opening match of the 2026 World Cup. BBC Sport takes a look at the Haiti players to look out for.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "‘You make people a bit happier’: the football app building friendships in London",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/society/2026/jun/13/football-app-building-friendships-london-footy-addicts",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-13T13:00:15+00:00",
-      "score": 20.0,
-      "keywords": [
-        "make",
-        "people",
-        "happier",
-        "football",
-        "building",
-        "friendships"
-      ],
-      "summary": "Footy Addicts helps amateur players find a game at short notice – and tackles the problem of loneliness Cries of “Boss! Boss! Boss!” emerge from the pitch during a hard-fought game of football in a London park. There aren’t a lot of names used in this game, because most players only met just before ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Australia vs Turkey: Get £40 free bets when you stake £10 on World Cup football with Tote",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39319338/australia-v-turkey-tote-free-bets-offer-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T13:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Australia",
-        "Turkey",
-        "free",
-        "bets",
-        "stake",
-        "World"
-      ],
-      "summary": "AUSTRALIA and Turkey clash in their World Cup 2026 Group D opener at the 54,500-capacity BC Place in Vancouver as both nations seek the perfect start. And Tote are rolling out the red carpet, with brand-new customers who sign up and stake a tenner rewarded with £40 in free bets to spend on football.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Haiti vs Scotland – World Cup 2026: Get 50/1 on 1+ goal to be scored with Sky Bet",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39349548/haiti-scotland-world-cup-sky-bet-offer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T12:57:48+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Haiti",
-        "Scotland",
-        "World",
-        "goal",
-        "scored"
-      ],
-      "summary": "SCOTLAND kick-off their World Cup 2026 adventure against Haiti in the very early hours of Sunday morning. And the excitement has reached Sky Bet, who are offering new customers stunning odds of 50/1 for a goal to be scored in the Group C opener in Boston! Goal to be scored | 50/1! Register a new...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "World Cup 2026: Back a goal in Brazil vs Morocco at 50/1 + get a £5 England free bet | Betfair",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39360056/world-cup-brazil-morocco-betfair-free-bets-promo-code/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T12:54:30+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Back",
-        "goal",
-        "Brazil",
-        "Morocco",
-        "England"
-      ],
-      "summary": "BRAZIL and Morocco go head-to-head in one of the standout matches of the opening round TONIGHT, and Betfair have marked the occasion with a huge World Cup boost. New customers can back over 0.5 goals in the match at an enhanced price of 50/1 when they sign up using promo code ZFBEDO, deposit £5 and.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Brazil ace Marquinhos’ wife is glamorous singer who won ‘X-Factor’ show at 15 as Neymar and co’s wags head for World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39318236/world-cup-brazil-wags-marquinhos-neymar/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-13T12:43:12+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Brazil",
-        "Marquinhos",
-        "wife",
-        "glamorous",
-        "singer",
-        "Factor"
-      ],
-      "summary": "BRAZIL are set to be cheered on by a star-studded selection of Wags at this summer's World Cup. Carlo Ancelotti's side are aiming to win the planet's biggest prize for a record-extending sixth time and will have plenty of support along the way. Among their well-wishers will be Marquinhos' wife of 10",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T14:19:00.498650+00:00"
-    },
-    {
-      "title": "Why Pulisic is ready to take USA to next level - Giroud",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c8r2jn402pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-13T11:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Giroud",
-        "Olivier Giroud",
-        "Pulisic",
-        "ready",
-        "take"
-      ],
-      "summary": "France's World Cup winner Olivier Giroud explains why his friend and former Chelsea and AC Milan team-mate Christian Pulisic holds the key to USA hopes at this summer's tournament.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T11:22:40.662084+00:00"
-    },
-    {
-      "title": "Bryce makes brillaint catch as Ireland chase 162 vs Scotland LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13553409/womens-t20-world-cup-live-scotland-vs-ireland-australia-vs-south-africa-score-updates-video-and-analysis-from-old-trafford",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-13T09:50:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "Bryce",
-        "makes",
-        "brillaint",
-        "catch",
-        "chase"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-06-13T11:22:40.662084+00:00"
     }
   ]
 }
