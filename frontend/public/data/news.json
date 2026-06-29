@@ -1,59 +1,151 @@
 {
-  "updated_at": "2026-06-29T00:16:22.751812+00:00",
+  "updated_at": "2026-06-29T05:58:46.883151+00:00",
   "items": [
     {
-      "title": "Papers: James optimistic he can feature again at World Cup",
+      "title": "Pressure on England for tough SA, Pumas Tests | Depleted Ireland seek history",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13558706/reece-james-england-defender-confident-of-playing-again-at-world-cup-paper-talk",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13558222/nations-championship-steve-borthwicks-england-under-pressure-ahead-of-tough-south-africa-argentina-tests-depleted-ireland-seek-eden-park-history",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-28T22:30:00+00:00",
-      "score": 26.0,
+      "published": "2026-06-29T06:00:00+00:00",
+      "score": 31.0,
       "keywords": [
-        "James",
-        "Papers",
-        "optimistic",
-        "feature",
-        "again",
-        "World"
+        "Ireland",
+        "Pressure",
+        "England",
+        "tough",
+        "Pumas",
+        "Tests"
       ],
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "summary": "We look at some of the major talking points ahead of the summer's inaugural Nations Championship Tests...",
       "summary_cn": ""
     },
     {
-      "title": "Raducanu pulls out of Wimbledon due to injury",
+      "title": "Netherlands vs Morocco preview: Betting tips, odds and free bets (World Cup)",
       "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558321/emma-raducanu-out-of-wimbledon-british-no-1-withdraws-following-foot-injury-as-frustrating-season-continues",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-28T22:19:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Raducanu",
-        "pulls",
-        "Wimbledon",
-        "injury"
-      ],
-      "summary": "Emma Raducanu has withdrawn from Wimbledon due to injury the night before her opening match.",
-      "summary_cn": ""
-    },
-    {
-      "title": "England handed fresh World Cup boost as Congo’s ‘living statue’ lucky charm is barred from USA",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39578233/england-world-cup-boost-congo-lucky-charm-barred-usa/",
+      "url": "https://www.thesun.co.uk/sport/39555663/netherlands-morocco-preview-betting-tips-predictions/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-28T22:17:39+00:00",
+      "published": "2026-06-29T05:00:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Netherlands",
+        "Morocco",
+        "preview",
+        "Betting",
+        "tips",
+        "odds"
+      ],
+      "summary": "IT'S do-or-die time for Netherlands and Morocco, who meet in a high-quality World Cup Round of 32 tie at Estadio BBVA in the early hours of Tuesday morning. SunSport’s betting experts have previewed the clash and picked out the best betting tips, odds and exclusive sign-up bonuses from our leading b",
+      "summary_cn": ""
+    },
+    {
+      "title": "British GP: Schedule and how to watch for free on Sky",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/news/12040/13558236/british-gp-2026-sprint-weekend-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-silverstone-live-on-sky-sports",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-29T06:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "British",
+        "Schedule",
+        "watch",
+        "free"
+      ],
+      "summary": "Formula 1 heads to Silverstone for a Sprint weekend at the British Grand Prix, which will be live and free on Sky.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Thomas Tuchel orders England stars to sacrifice themselves for Jude Bellingham as he calls on four players to ‘show up’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39578914/thomas-tuchel-england-jude-bellingham-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-29T04:39:02+00:00",
+      "score": 26.0,
+      "keywords": [
+        "young",
+        "Thomas",
+        "Tuchel",
+        "orders",
+        "England",
+        "stars"
+      ],
+      "summary": "JUDE BELLINGHAM turns 23 today — and his England team-mates have been ordered to keep on giving him presents. Having become the youngest Three Lions player to reach a half-century of appearances six days ago, Bellingham will earn cap No 52 in the last-32 clash against DR Congo on Wednesday. Although",
+      "summary_cn": ""
+    },
+    {
+      "title": "Magic Weekend 2026: All you need to know as Super League heads to Everton",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13558482/magic-weekend-2026-fixtures-venue-timings-form-as-super-league-takes-over-evertons-hill-dickinson-stadium",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-29T06:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Magic",
+        "Weekend",
+        "need",
+        "know",
+        "Super"
+      ],
+      "summary": "With Super League heading to a brand new venue, make sure to catch up on all you need to know ahead of Magic Weekend 2026...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Great stories, little jeopardy - does the new World Cup format work?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyr1rwp5e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-29T05:26:38+00:00",
       "score": 20.0,
       "keywords": [
-        "England",
-        "handed",
-        "fresh",
+        "Great",
+        "stories",
+        "little",
+        "jeopardy",
         "World",
-        "boost",
-        "Congo"
+        "format"
       ],
-      "summary": "ENGLAND scored a World Cup boost after their Congo opponents’ mystic “living statue” superfan was denied a US visa. Bizarre spiritual guide Michel Kuka Mboladinga claims he can transmit “emotional stamina” to Congo players and is revered as their lucky charm. He stands totally still for entire 90 mi",
+      "summary": "New format, new teams and fascinating storylines. But did the new World Cup group stage really work?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who am I? Guess World Cup star No 22",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1d2677d495o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-29T05:48:15+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Guess",
+        "World",
+        "star"
+      ],
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup VAR review: Why didn't Canada get a pena...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-06-29T04:19:35+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "review",
+        "didn",
+        "Canada",
+        "pena"
+      ],
+      "summary": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
       "summary_cn": ""
     }
   ]
