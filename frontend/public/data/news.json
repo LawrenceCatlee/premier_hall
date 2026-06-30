@@ -1,172 +1,118 @@
 {
-  "updated_at": "2026-06-30T20:09:08.274975+00:00",
+  "updated_at": "2026-06-30T22:19:31.906542+00:00",
   "items": [
     {
-      "title": "LeBron to compete in 24th NBA season elsewhere with Lakers return ruled out",
+      "title": "Forest Green Rovers scrap women’s team to ‘concentrate resources’ on men’s side",
       "title_cn": "",
-      "url": "https://www.skysports.com/nba/news/12040/13559154/lebron-james-to-leave-la-lakers-but-will-compete-in-record-24th-nba-season-elsewhere-with-golden-state-warriors-an-option",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-30T18:15:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "James",
-        "LeBron",
-        "compete",
-        "season",
-        "elsewhere",
-        "Lakers"
-      ],
-      "summary": "LeBron James will play a record-extending 24th NBA season with a new team after it was confirmed he would not be returning to the Los Angeles Lakers.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Lampard signs new Coventry deal after summer interest",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13559326/frank-lampard-coventry-city-head-coach-signs-new-deal-until-2029-ahead-of-premier-league-return",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-30T18:40:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Lampard",
-        "Frank Lampard",
-        "signs",
-        "Coventry",
-        "deal",
-        "summer"
-      ],
-      "summary": "Frank Lampard has signed a new contract as Coventry City head coach until 2029.",
-      "summary_cn": ""
-    },
-    {
-      "title": "All done deals in June 2026",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-30T18:40:27+00:00",
-      "score": 33.0,
-      "keywords": [
-        "done",
-        "deals",
-        "June"
-      ],
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Enzo Maresca mysteriously deletes Chelsea apology post after Blues released furious statement blasting new Man City boss",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39600616/enzo-maresca-chelsea-apology-statement-man-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-30T18:25:12+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "Man City",
-        "Enzo",
-        "Maresca",
-        "mysteriously"
-      ],
-      "summary": "ENZO MARESCA has mysteriously deleted his apology post to Chelsea on social media. The post uploaded on Instagram confirmed that he pushed to quit the club last season. Maresca, 46, has now been announced as the new Manchester City manager and Pep Guardiola's successor. The Cityzens have paid £17mil",
-      "summary_cn": ""
-    },
-    {
-      "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-30T19:40:52+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Erling Haaland",
-        "Haaland",
-        "late",
-        "hero",
-        "Norway"
-      ],
-      "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Haaland scores late winner to set up Norway vs Brazil",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-30T19:58:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "matic",
-        "scores",
-        "late",
-        "winner"
-      ],
-      "summary": "Erling Haaland scored an 86th-minute winner to send Norway to a dramatic 2-1 win over Ivory Coast - and set up a mouth-watering World Cup last-16 clash with Brazil.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Quansah and James miss England training as right-back problems mount",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-30T18:52:31+00:00",
-      "score": 26.0,
-      "keywords": [
-        "James",
-        "Quansah",
-        "miss",
-        "England",
-        "training",
-        "right"
-      ],
-      "summary": "Jarell Quansah and Reece James miss training as England's right-back issues mount before their World Cup last-32 match against DR Congo on Wednesday.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'A moment of real quality' - Nusa's sensational strike puts Norway ahead",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj0gd9q322zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-30T18:16:10+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Antonio",
-        "moment",
-        "real",
-        "quality",
-        "Nusa",
-        "sensational"
-      ],
-      "summary": "Norway take the lead in their round of 32 tie against Ivory Coast after a brilliant strike from forward Antonio Nusa.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Erling Haaland fires Norway into last 16 with dramatic winner against Côte d’Ivoire",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/30/cote-d-ivoire-norway-world-cup-2026-last-32-match-report",
+      "url": "https://www.theguardian.com/football/2026/jun/30/forest-green-rovers-scrap-womens-team-to-concentrate-resources-on-mens-side",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-30T19:05:09+00:00",
+      "published": "2026-06-30T20:35:06+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Forest",
+        "Green",
+        "Rovers",
+        "scrap",
+        "women",
+        "team"
+      ],
+      "summary": "Men’s team relegated to National League in 2024 Club hope women’s football will return in future Forest Green Rovers have disbanded their women’s team for the 2026-27 season so that they can “concentrate their resources” on trying to return their men’s team to the English Football League. The Glouce",
+      "summary_cn": ""
+    },
+    {
+      "title": "Koeman resigns, while Netherlands report racist abuse",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-30T21:42:42+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Koeman",
+        "resigns",
+        "while",
+        "Netherlands",
+        "report",
+        "racist"
+      ],
+      "summary": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ronald Koeman resigns as Netherlands head coach after World Cup loss to Morocco",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jun/30/ronald-koeman-resigns-as-netherlands-head-coach-after-world-cup-loss-to-morocco",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-06-30T21:43:49+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Ronald",
+        "Koeman",
+        "resigns",
+        "Netherlands",
+        "head",
+        "coach"
+      ],
+      "summary": "‘We fell short. Responsibility rests with me’ he says Netherlands players subject to online racist abuse Ronald Koeman has resigned as Netherlands head coach in the wake of their World Cup last-32 defeat to Morocco on Monday. “Last night I took the decision to end my stint as head coach of the Dutch",
+      "summary_cn": ""
+    },
+    {
+      "title": "Garcia fails to qualify for Open; Nicholas leads Burnham & Berrow",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13559365/golf-sergio-garcia-fails-to-qualify-for-154th-golf-open-james-nicholas-finishes-top-in-burnham-berrow",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-30T22:10:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "matic",
-        "Erling",
-        "fires",
-        "Norway"
+        "James",
+        "Garcia",
+        "fails",
+        "qualify",
+        "Open",
+        "Nicholas"
       ],
-      "summary": "Decision vindicated. The Norway coach, Ståle Solbakken, had taken a major gamble in resting almost his entire side in the final group game against France , drawing stiff criticism, not least from those who had paid hundreds of dollars to witness a showdown between Erling Haaland and Kylian Mbappé. A",
+      "summary": "Sergio Garcia says he fell ill during qualifying for The Open, hindering his chance of qualifying for the tournament next month. James Nicholas qualifies by finishing top of the leaderboard in Burnham & Berrow.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Battling Serena suffers Wimbledon defeat on much-anticipated return",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13559134/wimbledon-serena-williams-suffers-first-round-defeat-to-maya-joint-in-much-anticipated-first-singles-match-since-2022",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-30T22:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Williams",
+        "Battling",
+        "Serena",
+        "suffers",
+        "Wimbledon",
+        "defeat"
+      ],
+      "summary": "Serena Williams suffered defeat to Maya Joint in her much-anticipated return to Wimbledon following a four-year absence after an epic battle on Centre Court.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Defying logic - how Haaland could end up with 260 international goals",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-06-30T21:18:45+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Haaland",
+        "Erling Haaland",
+        "Defying",
+        "logic",
+        "international",
+        "goals"
+      ],
+      "summary": "Erling Haaland delivers on the biggest stage yet for Norway - but just how many goals could he end up with in international football?",
       "summary_cn": ""
     },
     {
@@ -175,7 +121,7 @@
       "url": "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-06-30T19:58:55+00:00",
+      "published": "2026-06-30T22:04:18+00:00",
       "score": 26.0,
       "keywords": [
         "Digne",
@@ -185,193 +131,253 @@
         "last",
         "live"
       ],
-      "summary": "⚽️ Kick-off time: 5pm local/10pm BST/7am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Will Wrap your eyeballs around Football Daily. France (4-2-3-1): Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe Continue reading...",
+      "summary": "⚽️ Kick-off time: 5pm local/10pm BST/7am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Will Wrap your eyeballs around Football Daily. France (4-2-3-1): Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe Continue reading...",
       "summary_cn": ""
     },
     {
-      "title": "BBC viewers have World Cup clash ruined as Danny Murphy tells depressing story about his cat",
+      "title": "Gabby Logan makes brutal joke about Wayne Rooney live on BBC during Norway’s World Cup clash against Ivory Coast",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39601413/bbc-danny-murphy-cat-story-ruins-world-cup/",
+      "url": "https://www.thesun.co.uk/sport/39601946/gabby-logan-brutal-joke-wayne-rooney-bbc-world-cup/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-30T18:59:07+00:00",
+      "published": "2026-06-30T20:30:15+00:00",
       "score": 26.0,
       "keywords": [
-        "Murphy",
-        "Danny Murphy",
-        "viewers",
-        "World",
-        "clash",
-        "ruined"
+        "McCarthy",
+        "Wayne Rooney",
+        "Antonio",
+        "Rooney",
+        "Gabby",
+        "Logan"
       ],
-      "summary": "DANNY MURPHY has ruined Ivory Coast's World Cup clash with Norway for BBC viewers with his depressing cat story. The two nations went toe-to-toe as they battled for a spot in the last-16 of the tournament. As Norway were leading 1-0, the substitutions started to be rolled out in the second half. Sta",
+      "summary": "GABBY LOGAN made a joke about Wayne Rooney live on BBC Sport's coverage of the World Cup last-32 clash between the Ivory Coast and Norway. With Norway 1-0 up at half-time following a 39th-minute strike from Antonio Nusa, the BBC team - which also included Steph Houghton and Benni McCarthy - cut to f",
       "summary_cn": ""
     },
     {
-      "title": "Ivory Coast 1 Norway 2: Haaland makes history with late winner to set up World Cup grudge clash against Brazil’s Gabriel",
+      "title": "PSG set Barcola price - Wednesday's gossip",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39601135/norway-ivory-coast-haaland-winner-world-cup-brazil/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-30T18:58:30+00:00",
-      "score": 26.0,
+      "published": "2026-06-30T20:23:44+00:00",
+      "score": 25.0,
       "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "Ivory",
-        "Coast",
-        "Norway",
-        "makes"
+        "Chelsea",
+        "Bournemouth",
+        "Barcola",
+        "price",
+        "Wednesday",
+        "gossip"
       ],
-      "summary": "COMETH the hour, cometh the big man. Erling Haaland did not even touch the ball with his feet in the opening quarter of the game. By 85 minutes, his his most important contributions had been defensive headers in his own penalty area. Yet just as Amad Diallo’s equaliser was threatening to force extra",
+      "summary": "Paris St-Germain set their price for Bradley Barcola, Chelsea want Bournemouth striker Eli Junior Kroupi, Ayyoub Bouaddi is attracting interest, plus more.",
       "summary_cn": ""
     },
     {
-      "title": "Four Premier League sides fined by UEFA for breaches of financial rules",
+      "title": "Villa among four Premier League clubs fined by Uefa over squad-cost rules",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13559340/aston-villa-chelsea-newcastle-and-nottingham-forest-fined-by-uefa-for-breaching-financial-rules",
-      "source": "Sky Sports",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-30T19:26:00+00:00",
+      "published": "2026-06-30T20:36:43+00:00",
       "score": 25.0,
       "keywords": [
         "Aston Villa",
-        "Chelsea",
-        "Newcastle",
-        "Nottingham Forest",
-        "Forest",
-        "Four"
+        "Villa",
+        "among",
+        "four",
+        "Premier",
+        "League"
       ],
-      "summary": "Aston Villa, Chelsea, Newcastle United and Nottingham Forest have all been fined by UEFA for breaching financial sustainability regulations.",
+      "summary": "Aston Villa have been fined 22.5m euros (£19.4m) by Uefa for a \"significant breach\" of its squad-cost rule for 2025.",
       "summary_cn": ""
     },
     {
-      "title": "Brighton sign Leeds defender Struijk for about £20m",
+      "title": "Rosenior nears management return at Paris FC",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzg27xp00o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x0pd01dno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-30T18:37:29+00:00",
+      "published": "2026-06-30T22:06:55+00:00",
       "score": 25.0,
       "keywords": [
-        "Brighton",
-        "sign",
-        "Leeds",
-        "defender",
-        "Struijk"
+        "Chelsea",
+        "Rosenior",
+        "nears",
+        "management",
+        "return",
+        "Paris"
       ],
-      "summary": "Brighton sign Leeds United defender Pascal Struijk for an undisclosed fee understood to be about £20m.",
+      "summary": "Former Chelsea manager Liam Rosenior is set to return to football at French club Paris FC on a two-year contract, with the option of a further season.",
       "summary_cn": ""
     },
     {
-      "title": "Plot to intimidate Man Utd legend revealed as ‘gangsters threatened he would “go in a cemetery” during football row’",
+      "title": "Premier League winner, 40, takes two wickets and smashes six into a RIVER on cricket debut",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39600648/plot-intimidate-man-utd-legend-football-row/",
+      "url": "https://www.thesun.co.uk/sport/39600236/premier-league-news-christian-fuchs-cricket-debut-newport-county/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-30T19:07:25+00:00",
+      "published": "2026-06-30T21:12:52+00:00",
       "score": 25.0,
       "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Plot",
-        "intimidate",
-        "legend",
-        "revealed"
+        "Premier",
+        "League",
+        "winner",
+        "takes",
+        "wickets",
+        "smashes"
       ],
-      "summary": "A PLOT to intimidate a Manchester United legend has been revealed in a slew of secret messages that suggest a football chief wanted to scare the player into silence. Encrypted messages reportedly show Serbia’s football chief wanted gangsters to threaten former United captain Nemanja Vidić that he wo",
+      "summary": "CHRISTIAN FUCHS had a cricket debut for the ages - just hours after leaving Newport County. The Austrian resigned from his role as manager of the League Two side after a mere SEVEN MONTHS at the Rodney Parade helm. But he clearly wasn't thinking about his old job as he turned out for Grindleford in.",
       "summary_cn": ""
     },
     {
-      "title": "World Cup penalty misses - is this the end of the stutter?",
+      "title": "Rangers sign Pandur from Hull as Butland nears Tigers move",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13559248/world-cup-2026-is-the-penalty-stutter-run-up-that-cost-germany-and-netherlands-at-the-end-of-its-lifespan",
+      "url": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-06-30T19:20:00+00:00",
+      "published": "2026-06-30T22:05:00+00:00",
       "score": 20.0,
       "keywords": [
-        "World",
-        "penalty",
-        "misses",
-        "stutter"
+        "Rangers",
+        "sign",
+        "Pandur",
+        "Hull",
+        "Butland",
+        "nears"
       ],
-      "summary": "The stutter. Like it or loathe it, it's a technique that has been increasingly adopted by penalty takers since the time of Pele in the 1960s. But after some faltering spot-kicks at this World Cup - might it be time up for one of football's most polarising tricks?",
+      "summary": "Rangers have signed goalkeeper Ivor Pandur from Hull City in a &#163;6m deal.",
       "summary_cn": ""
     },
     {
-      "title": "England fans' behaviour 'excellent' at World Cup",
+      "title": "'Tuchel is starting to run out of options' | Will injuries hamper England's WC ambitions?",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75ye7lz347o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.skysports.com/watch/video/13559368/kaveh-solhekol-looks-at-the-injuries-headache-facing-thomas-tuchel-ahead-of-englands-world-cup-clash-with-dr-congo",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-06-30T22:17:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Tuchel",
+        "starting",
+        "options",
+        "injuries",
+        "hamper",
+        "England"
+      ],
+      "summary": "Sky Sports' chief correspondent Kaveh Solhekol discusses England's injury woes ahead of their World Cup match against DR Congo.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rangers buy Hull goalkeeper Pandur - what will he bring?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr5jl46y3dqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-06-30T20:01:38+00:00",
+      "published": "2026-06-30T21:01:41+00:00",
       "score": 20.0,
       "keywords": [
-        "England",
-        "fans",
-        "behaviour",
-        "excellent",
-        "World"
+        "Rangers",
+        "Hull",
+        "goalkeeper",
+        "Pandur",
+        "bring"
       ],
-      "summary": "England supporters in the United States are praised for their \"excellent\" behaviour during the group stage of the World Cup, but domestic incidents are up on recent tournaments.",
+      "summary": "Rangers sign Croatian goalkeeper Ivor Pandur from Hull City for an undisclosed fee - what will he bring to Ibrox?",
       "summary_cn": ""
     },
     {
-      "title": "'Goal of the tournament' - Amad's brilliant equaliser for Ivory Coast",
+      "title": "ITV land rights to major sports tournament ahead of BBC and will show every England match until at least 2029",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c621g6lg4plo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-30T18:58:20+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Goal",
-        "tournament",
-        "Amad",
-        "brilliant",
-        "equaliser",
-        "Ivory"
-      ],
-      "summary": "Amad Diallo scores a \"goal of the tournament\" contender to equalise for Ivory Coast against Norway in their last-32 match.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ecuador make Mexico fans hotel noise complaint",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrgng719eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-30T19:30:52+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Ecuador",
-        "make",
-        "Mexico",
-        "fans",
-        "hotel",
-        "noise"
-      ],
-      "summary": "Ecuador make a complaint to World Cup organisers over noisy local fans outside their team hotel before their last-32 match against co-hosts Mexico.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why England should not be scared of World Cup shootouts as penalty expert breaks down Euro 2024 ‘buddy system’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39601256/england-penalty-expert-reveals-euro-2024-shootout-secrets/",
+      "url": "https://www.thesun.co.uk/sport/39602651/rugby-news-itv-broadcast-rights-2027-world-cup-england/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-06-30T19:41:33+00:00",
+      "published": "2026-06-30T22:15:13+00:00",
+      "score": 20.0,
+      "keywords": [
+        "land",
+        "rights",
+        "major",
+        "sports",
+        "tournament",
+        "ahead"
+      ],
+      "summary": "ITV have landed the broadcast rights for the 2027 Rugby World Cup. And their deal with World Rugby is brilliant news for England fans. ITV's acquisition of the rights for next autumn's tournament, which will take place in Australia, means they will have live coverage of every England game until 2029",
+      "summary_cn": ""
+    },
+    {
+      "title": "France stars run to celebrate with Didier Deschamps in emotional show of support after death of his mum during World Cup",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39602797/france-didier-deschamps-kylian-mbappe-celebration-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-30T21:55:03+00:00",
+      "score": 20.0,
+      "keywords": [
+        "France",
+        "stars",
+        "celebrate",
+        "Didier",
+        "Deschamps",
+        "emotional"
+      ],
+      "summary": "KYLIAN MBAPPE and his French team-mates sprinted to celebrate with manager Didier Deschamps after his emotional week. The Real Madrid superstar gave France the lead against Sweden in their last-32 clash on Tuesday. Mbappe lashed into the far corner at New York-New Jersey Stadium. And the 27-year-old",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ronald Koeman QUITS as Holland manager less than 24 hours after World Cup penalty shootout exit to Morocco",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39602583/ronald-koeman-quit-sacked-netherlands-holland-manager-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-30T21:16:50+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Ronald",
+        "Koeman",
+        "QUITS",
+        "Holland",
+        "manager",
+        "less"
+      ],
+      "summary": "RONALD KOEMAN has QUIT as Netherlands manager just hours after their World Cup exit. The Dutch were beaten on penalties by Morocco in the round of 32 on Monday. And Koeman quit his post the following day after his team's brutal loss. The 63-year-old said: \"Last night, I made the decision to conclude",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘We are the lions that roar’ – Sir Ian McKellen unveils powerful ‘love letter to England’ ahead of World Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39596471/sir-ian-mckellen-unveils-love-letter-england-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-30T21:00:30+00:00",
+      "score": 20.0,
+      "keywords": [
+        "lions",
+        "roar",
+        "McKellen",
+        "unveils",
+        "powerful",
+        "love"
+      ],
+      "summary": "ENGLAND fans preparing for our World Cup showdown with the Congo are today urged to share their vision of our nation. Gandalf star Sir Ian McKellen has narrated a moving short film called “Love Letter to England,” which ends with a plea to English people to reveal what brings us together. Images of ",
+      "summary_cn": ""
+    },
+    {
+      "title": "England fans to enjoy £1.50 pints in DR Congo game host city as stunned supporters say ‘It’s even cheaper than Benidorm’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39601733/england-fans-pints-dr-congo-game-city/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-06-30T20:30:46+00:00",
       "score": 20.0,
       "keywords": [
         "England",
-        "scared",
-        "World",
-        "shootouts",
-        "penalty",
-        "expert"
+        "fans",
+        "enjoy",
+        "pints",
+        "Congo",
+        "game"
       ],
-      "summary": "A PENALTY shootout expert has insisted that England should not be worried if their World Cup dream relies on spot-kicks. Germany and the Netherlands both saw their tournaments come to crashing ends after penalty shootouts. The Germans were punished for not doing more against Paraguay as they once ag",
+      "summary": "THREE Lions fans are set to smash the World Cup’s beer record as bars across Atlanta are selling pints for just £1.50 - slashed to 75p if it rains. A string of boozers in the Georgian city offer the cheapest alcohol prices in the US - and far cheaper than a pint of lager in...",
       "summary_cn": ""
     }
   ]
