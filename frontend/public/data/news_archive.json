@@ -1,6 +1,585 @@
 {
   "items": [
     {
+      "title": "Anderson's record-breaking £116m Man City move announced",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13558090/elliot-anderson-to-man-city-midfielder-completes-record-breaking-116m-transfer-from-nottingham-forest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T14:00:00+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Anderson",
+        "record"
+      ],
+      "summary": "Elliot Anderson's record-breaking &#163;116m transfer to Manchester City from Nottingham Forest has been announced.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Why are Man City breaking the bank for Anderson?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T13:16:54+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Anderson",
+        "City",
+        "breaking",
+        "bank"
+      ],
+      "summary": "Elliot Anderson will become the most expensive British player, but why are Manchester City prepared to pay a record fee to sign the midfielder?",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Man City ANNOUNCE Elliot Anderson deal and reveal England star has completed medical ahead of £116m transfer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39579579/elliot-anderson-man-city-transfer-news-england-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T13:07:21+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Anderson",
+        "City"
+      ],
+      "summary": "MANCHESTER CITY have announced their club-record deal to sign Elliot Anderson. The £116MILLION fee heading to Nottingham Forest, once the final formalities of the transfer are complete, is the largest ever shelled out for an English player. And it will easily eclipse City's previous highest - the £1",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Shearer at £237m? Where Anderson transfer stands in adjusted rankings",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13559238/elliot-anderson-becomes-third-most-expensive-premier-league-signing-with-116m-man-city-move-but-hes-only-31st-when-adjusting-historic-fees",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T14:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Forest",
+        "Shearer",
+        "Anderson",
+        "transfer"
+      ],
+      "summary": "Elliot Anderson becomes the third-most expensive signing in Premier League history after Alexander Isak and Florian Wirtz with his &#163;116m transfer from Nottingham Forest to Manchester City.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Spurs' record spending spree not done - but how are they pulling this off?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13559531/tottenham-transfer-spending-not-over-with-mateus-fernandes-and-sandro-tonali-signings-as-roberto-de-zerbi-influence-takes-hold",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T13:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "Fernandes",
+        "record",
+        "spending",
+        "spree"
+      ],
+      "summary": "It feels like things are changing in N17. Tottenham's spending is set to surpass their record for a single window with the signings of Mateus Fernandes and Sandro Tonali &#8211; and they are not done yet.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Man City’s £824m rebuild topped by British-record Anderson move",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13557947/man-city-transfer-spending-explained-elliot-anderson-move-smashes-british-record-transfer-fee",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T14:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Anderson",
+        "City",
+        "rebuild",
+        "topped"
+      ],
+      "summary": "Manchester City&#8217;s transfer spending has hit &#163;824m in three years after signing Elliot Anderson in a British-record &#163;116m deal.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Sporting director Hughes set to leave Reds next year",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd049j753o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T13:03:18+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Hughes",
+        "Sporting",
+        "director",
+        "leave",
+        "Reds"
+      ],
+      "summary": "Richard Hughes is overseeing Liverpool's current transfer window, but is expected to exit the club next summer.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Arsenal forward lined up for summer transfer exit with Mikel Arteta eyeing TWO World Cup stars as his replacement",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39623415/arsenal-transfer-mikel-arteta-leandro-trossard/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T13:56:52+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel",
+        "Arteta",
+        "Mikel Arteta",
+        "Leandro Trossard",
+        "Trossard"
+      ],
+      "summary": "ARSENAL forward Leandro Trossard has emerged as a target for Besiktas. The Turkish giants want to bolster their attack this summer and are one of several sides monitoring Trossard’s situation. The Belgian is into the final 12 months of his contract at the Emirates Stadium and could leave during the ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Man Utd set to sign goalkeeper son of ex-England coach after he’s left out of contract at Swansea",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39623327/man-utd-transfer-kit-margetson/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T13:23:28+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Martyn",
+        "sign",
+        "goalkeeper",
+        "England"
+      ],
+      "summary": "MANCHESTER UNITED have signed teenage goalkeeper Kit Margetson as a free agent from Swansea City. The 19-year-old son of former England goalkeeping coach Martyn Margetson enjoyed a solid season on loan in the Cymru Premier. With Margetson out of contract this summer, Swansea said in May that they we",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "City confirm deal to sign Anderson from Forest",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49247312/man-city-announce-deal-sign-elliot-anderson-nottingham-forest",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T14:30:27+00:00",
+      "score": 29.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Forest",
+        "Anderson",
+        "City",
+        "confirm"
+      ],
+      "summary": "Manchester City have reached an agreement with Nottingham Forest to sign Elliot Anderson, the club have confirmed.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Soumillon ruled to aided Gstaad at Royal Ascot but ban reduced on appeal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/racing/news/12040/13559860/royal-ascot-christophe-soumillon-ban-reduced-on-appeal-but-panel-finds-he-did-benefit-gstaad-in-st-jamess-palace-stakes",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T14:49:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "James",
+        "Soumillon",
+        "ruled",
+        "aided",
+        "Gstaad",
+        "Royal"
+      ],
+      "summary": "Christophe Soumillon has been partially successful in his appeal against the eight-day suspension handed out by the stewards at Royal Ascot following his ride on Puerto Rico in the St James&#8217;s Palace Stakes, having it reduced to five.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Pollock remains on bench as Furbank makes England XV to face South Africa",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13559721/england-vs-south-africa-henry-pollock-remains-on-bench-as-george-furbank-returns-for-nations-championship-clash-in-johannesburg",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T14:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Henry",
+        "Pollock",
+        "remains",
+        "bench",
+        "Furbank",
+        "makes"
+      ],
+      "summary": "George Furbank will make his first England start since 2024 after being selected for Saturday's Nations Championship opener against South Africa, while Henry Pollock remains on the bench.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "World Cup Q&A: England reporter Jacob Steinberg answers your questions – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-qa-ask-england-reporter-jacob-steinberg-your-questions-now",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-02T14:10:55+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "World",
+        "England",
+        "reporter",
+        "Jacob",
+        "Steinberg"
+      ],
+      "summary": "Jacob was in Atlanta last night to witness England’s Harry Kane-led comeback against DR Congo. He is online now answering all your questions about the Three Lions’ chances against Mexico, England’s defensive frailties and anything else you’d like to know Sign in or sign up to post your question in t",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Football Daily | England survive a Lionel M masterclass and roll on to the Azteca … just",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/02/england-football-daily-geopolitics-world-cup",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-02T12:52:12+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Barry",
+        "Football",
+        "Daily",
+        "England",
+        "survive",
+        "Lionel"
+      ],
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “For us now, it’s absolutely not a time to panic,” Anthony Barry urged in his now customary half-time debrief, with England 1-0 down to a Democratic Republic of Congo side playing with serious confidence. Thomas Tuchel’s No 2 coldly broke down what",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Tonali's sale to Spurs - are Newcastle on wrong side of history with rules?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23d1k6p77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T12:33:19+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Tottenham",
+        "Spurs",
+        "Tonali",
+        "sale",
+        "wrong"
+      ],
+      "summary": "With midfielder Sandro Tonali set to join Tottenham for £100m, the Newcastle side has been taken apart over the past year.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Would Glasner tarnish Palace legacy with move to new enemies Forest?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwykxyqgpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T12:55:47+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Nottingham Forest",
+        "Forest",
+        "Glasner",
+        "tarnish",
+        "Palace"
+      ],
+      "summary": "Will Oliver Glasner tarnish Crystal Palace legacy with Nottingham Forest move?",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Arsenal legend finally retires aged 41 as fans reminisce over ‘magician and true artist’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39623581/arsenal-santi-cazorla-retires-oviedo-villarreal-spain/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T13:53:09+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "legend",
+        "finally",
+        "retires",
+        "aged",
+        "fans"
+      ],
+      "summary": "ARSENAL icon Santi Cazorla has retired from football at 41. The Spaniard made the announcement in an emotional video posted to social media on Thursday. Cazorla won two FA Cups with the Gunners and back-to-back Euros titles with Spain as part of a glittering career that saw him rack up over 850 seni",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Fans say Viktor Gyokeres ‘better at golf than football’ despite Arsenal ace hitting ball into WATER after World Cup exit",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39622502/arsenal-viktor-gyokeres-golf-world-cup-exit/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T12:38:34+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Fans",
+        "Viktor",
+        "Gyokeres",
+        "better",
+        "golf"
+      ],
+      "summary": "VIKTOR GYOKERES has been cheekily mocked after footage of the Arsenal striker on the golf course went viral. The Premier League title winner, 28, is enjoying some free time following Sweden's World Cup exit. Gyokeres and his team-mates were sent packing when a rampant France sealed a 3-0 win in thei",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T12:43:53+00:00",
+      "score": 20.0,
+      "keywords": [
+        "want",
+        "World",
+        "Portugal",
+        "carry",
+        "Jota",
+        "memory"
+      ],
+      "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Government considers U-turn over extending pub hours for England v Mexico",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T14:13:23+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Government",
+        "considers",
+        "turn",
+        "extending",
+        "hours",
+        "England"
+      ],
+      "summary": "The government had initially said it would not relax licensing laws further than they already have been for the World Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "The World Cup's free agents looking for their next move",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzleqqvjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T12:44:02+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "free",
+        "agents",
+        "looking",
+        "next",
+        "move"
+      ],
+      "summary": "Fourteen players still at the World Cup have no club to return to once the tournament is over.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Hull sign goalkeeper Butland from Rangers",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyx2x728eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T13:08:45+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Hull",
+        "sign",
+        "goalkeeper",
+        "Butland",
+        "Rangers"
+      ],
+      "summary": "Promoted Hull City sign goalkeeper Jack Butland from Rangers on a two-year deal.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "McInnes biggest factor in McCrorie's Rangers return",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdjk7xdzyevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T14:12:13+00:00",
+      "score": 20.0,
+      "keywords": [
+        "McInnes",
+        "biggest",
+        "factor",
+        "McCrorie",
+        "Rangers",
+        "return"
+      ],
+      "summary": "Ross McCrorie is adamant Derek McInnes has the qualities to be a success at Rangers, saying the manager was the number one reason he turned down offers to remain in England for a return to Ibrox.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Malik Tillman’s bloody sock game rockets into US World Cup history",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-02T14:00:01+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Malik",
+        "Tillman",
+        "bloody",
+        "sock",
+        "game",
+        "rockets"
+      ],
+      "summary": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament. He is more than repaying his coach’s faith While Malik Tillman was unsure of what to expect from the United States’ last-32 clash with Bosnia and Herzegovina, he certainly must have assumed he would ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Boost for England fans as all pubs set to be allowed to open for 1am World Cup clash with Mexico",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39624241/pubs-open-mexico-world-cup-england/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T14:06:22+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Boost",
+        "England",
+        "fans",
+        "pubs",
+        "allowed",
+        "open"
+      ],
+      "summary": "SIR Keir Starmer is poised to let all pubs stay open until 5am for England’s World Cup clash on Monday, The Sun understands. The outgoing PM is expected to lay an emergency law in Parliament so fans can watch the Three Lions take on Mexico in the boozer. It has sparked calls for blanket licensing...",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Spain vs Austria: Get Lamine Yamal to score OR assist at Evens | bet365 World Cup",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39623679/spain-austria-lamine-yamal-score-assist-bet365-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T13:44:54+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Spain",
+        "Austria",
+        "Lamine",
+        "Yamal",
+        "score",
+        "assist"
+      ],
+      "summary": "ALL eyes will be on Lamine Yamal as the teenage sensation looks to help favourites Spain overcome European rivals Austria and reach the last 16 of the 2026 World Cup. To mark the occasion, bet365 are rolling out one of their famous Super Boosts, with Barcelona and Spain star Yamal to score OR assist",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Mexico’s ‘most controversial fan’ sparks outrage after throwing drink at rival – as own supporters BOO her",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39619840/mexico-controversial-fan-world-cup-england/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T12:55:04+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Mexico",
+        "most",
+        "controversial",
+        "sparks",
+        "outrage",
+        "throwing"
+      ],
+      "summary": "A WOMAN has been branded 'Mexico's most controversial fan' after appearing to throw a drink over rival supporters at the World Cup. In a video posted by Marca, an altercation breaks out after Mexico's 2-0 win over Ecuador at the Azteca on Tuesday evening. As Mexican fans celebrate in the concourse, ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Copy of Copy of World Cup VAR review: Misapplied protocols leave B...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49244156/world-cup-var-review-misapplied-protocols-leave-usmnt-folarin-balogun-wrongly-red-carded-world-cup-vs-bosnia-herzegovina",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T15:00:13+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Copy",
+        "World",
+        "review",
+        "Misapplied",
+        "protocols",
+        "leave"
+      ],
+      "summary": "null",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
+      "title": "Welcome to Pete's Garden: Messi, Argentina's World...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49242532/world-cup-2026-kansas-city-petes-garden-food-distribution-argentina-lionel-messi",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T14:47:08+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Welcome",
+        "Pete",
+        "Garden",
+        "Messi",
+        "Argentina",
+        "World"
+      ],
+      "summary": "Pete's Garden, a nonprofit organization in Kansas City, is dedicated to minimizing food waste at the World Cup and helping families in need.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T14:22:49.423782+00:00"
+    },
+    {
       "title": "Transfer roundup: Everton clinch Hackney signing, Spurs announce Fernandes",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/jul/02/transfer-latest-premier-league-everton-tottenham",
@@ -38878,580 +39457,6 @@
       "summary": "ENGLAND boss Thomas Tuchel apparently had a row with Jordan Pickford DURING their game against Croatia. The England manager's on-pitch argument with his goalkeeper came with the Three Lions 1-0 up in Dallas, Texas. Geoff Shreeves is working as a sideline reporter for Fox on the US coverage of the Wo",
       "summary_cn": "",
       "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Fans baffled by ‘cringe’ word Noni Madueke shouted after winning a corner for England against Croatia",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39450996/england-world-cup-fans-baffled-noni-madueke/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T20:32:41+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Fans",
-        "baffled",
-        "cringe",
-        "word",
-        "Noni"
-      ],
-      "summary": "NONI MADUEKE shouted \"vamos\" in celebration after winning a corner. The England winger started in red-hot form in the opener against Croatia. He won the early penalty which Harry Kane converted - at the second attempt. And minutes later, Madueke won a corner after another dangerous attack. Clearly f",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Harry Kane scores with second chance from penalty spot after TWO controversial infringements spotted",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39450898/harry-kane-scores-second-chance-penalty-england-croatia/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T20:16:53+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Harry",
-        "Kane",
-        "scores",
-        "second",
-        "chance"
-      ],
-      "summary": "HARRY KANE got a second chance after fluffing his lines from the spot in England's World Cup opener. The Three Lions needed less than ten minutes to earn a golden chance to take an early lead against Croatia. Noni Madueke was kicked in the box by Luka Modric as he attempted to clear a ball...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "What is the patch that Harry Kane is wearing at World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39448495/harry-kane-golden-boot-patch-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T19:55:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "patch",
-        "Harry",
-        "Kane",
-        "wearing",
-        "World"
-      ],
-      "summary": "HARRY KANE has been spotted wearing a special badge on their sleeve at World Cup 2026, and fans are wondering what it is for. England are up against Croatia in their opening match tonight in Group L, with Kane captaining the Three Lions. ENGLAND VS CROATIA LIVE COVERAGE Kane has scored eight at the ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Bruno Fernandes’ furious reaction to Cristiano Ronaldo fluffing Portugal chance in World Cup clash vs DR Congo",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39450096/world-cup-portugal-bruno-fernandes-cristiano-ronaldo/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T19:51:48+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Fernandes",
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Bruno Fernandes",
-        "Bruno",
-        "furious"
-      ],
-      "summary": "BRUNO FERNANDES couldn't hide his frustration as Cristiano Ronaldo nicked a chance off his toes for Portugal. Ronaldo and Co took on DR Congo in their tournament opener. The game saw Ronaldo become the oldest outfield player to ever start a World Cup match at 41 years and 132 days. He also wore a sp",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Rangers appoint McInnes as Röhl replacement",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13553958/rangers-appoint-derek-mcinnes-as-manager-on-three-year-deal-following-danny-r246hls-departure",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T19:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Rangers",
-        "appoint",
-        "McInnes",
-        "replacement"
-      ],
-      "summary": "Rangers have appointed Derek McInnes as manager on a three-year-deal after his momentous season in charge of Hearts.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Rate the players in England's World Cup opener against Croatia",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-17T20:52:57+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Rate",
-        "players",
-        "England",
-        "World",
-        "opener",
-        "against"
-      ],
-      "summary": "Rate the England and Croatia players out of 10 below and come back 30 minutes after full-time to see the final ratings.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Cape Verde goalkeeper set to be reunited with his mum",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-17T19:42:13+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Cape",
-        "Verde",
-        "goalkeeper",
-        "reunited"
-      ],
-      "summary": "Vozinha's mum has been granted a visa to travel to the US ahead of Cape Verde's next game against Uruguay.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Brest boss & ex-Sunderland midfielder Roy dies aged 58",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cr47n7zrn9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-17T20:10:32+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Brest",
-        "boss",
-        "Sunderland",
-        "midfielder",
-        "dies",
-        "aged"
-      ],
-      "summary": "Brest manager Eric Roy has died at the age of 58 after a three-and-a-half year fight with pancreatic cancer.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "DR Congo earn World Cup point against Portugal",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/videos/c8j2e2rj0klo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-17T19:36:10+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Congo",
-        "earn",
-        "World",
-        "point",
-        "against",
-        "Portugal"
-      ],
-      "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Why is Thomas Partey not playing for Ghana against Panama at the World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39434356/thomas-partey-not-playing-ghana-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T21:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Thomas",
-        "Partey",
-        "playing",
-        "Ghana",
-        "against",
-        "Panama"
-      ],
-      "summary": "THOMAS PARTEY will not be in Toronto for Ghana's World Cup opener against Panama on June 18. The midfielder has been denied a visa to enter Canada, leaving Ghana without one of their most experienced players for the Group L game. Why has Thomas Partey been denied entry to Canada? Canada refused Thom",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Croatia manager Zlatko Dalic presents Thomas Tuchel with gift bag moments before facing England at World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39450732/world-cup-england-croatia-thomas-tuchel-dalic/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T20:51:01+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Croatia",
-        "manager",
-        "Zlatko",
-        "Dalic",
-        "presents",
-        "Thomas"
-      ],
-      "summary": "THOMAS TUCHEL was presented with a gift bag by Croatia boss Zlatko Dalic ahead of England's World Cup opener. The German took charge of his first tournament match at the Three Lions helm as they finally kicked off their World Cup campaign. Tuchel, 52, looked reflective as he stood by his dugout mome",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Six England stars wear different shirts to rest of team in first World Cup clash vs Croatia",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39450876/england-players-different-jerseys-world-cup-debutant-patch/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T20:18:26+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "stars",
-        "wear",
-        "different",
-        "shirts",
-        "rest"
-      ],
-      "summary": "A NUMBER of England players wore different shirts for the opening World Cup game against Croatia. The Three Lions took on their European rivals in Dallas, Texas in their first Group L match. England were among the last teams to kick-off their competition. As has been the case with other sides, not a",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "World Cup star slapped with three-game ban as Fifa extend punishment for red card offence",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39449635/themba-zwane-south-africa-ban-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T20:15:08+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "star",
-        "slapped",
-        "game",
-        "Fifa",
-        "extend"
-      ],
-      "summary": "SOUTH AFRICA star Themba Zwane has been handed a three-game ban to leave his World Cup in doubt. The midfielder started in Bafana Bafana's 2-0 defeat to Mexico in the tournament opener. But he was dismissed after raising his arm towards Roberto Alvarado. Zwane received an early bath in the 84th minu",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Thomas Tuchel doesn’t sing England national anthem in first World Cup clash against Croatia",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39450618/thomas-tuchel-sing-england-national-anthem-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T20:01:44+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Thomas",
-        "Tuchel",
-        "doesn",
-        "sing",
-        "England",
-        "national"
-      ],
-      "summary": "THOMAS TUCHEL did not sing the English national anthem ahead of the Three Lions' World Cup campaign. His team faced Croatia in their Group L opener in Dallas. Before the game got underway, the England lads belted out God Save The King. But when the camera cut to German boss Tuchel, he opted against ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Luka Modric wearing different shirt to every other Croatia player during World Cup clash with England",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39449736/luka-modric-different-shirt-croatia-england-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T20:00:18+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Luka",
-        "Modric",
-        "wearing",
-        "different",
-        "shirt",
-        "every"
-      ],
-      "summary": "LUKA MODRIC is wearing different threads to his World Cup team-mates as they take on England in their World Cup opener. The legendary maestro is featuring in the heart of Croatia's midfield against the Three Lions. But he will be doing so in a different kit to his compatriots thanks to a new initiat",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "What is the patch that Anthony Gordon and Noni Madueke are wearing for England against Croatia at World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39449110/gordon-madueke-debut-patch-england-croatia-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T20:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "patch",
-        "Anthony",
-        "Gordon",
-        "Noni",
-        "Madueke",
-        "wearing"
-      ],
-      "summary": "ENGLAND face Croatia in their opening game of World Cup 2026, and fans are eager to find out what some of the Three Lions stars are wearing in Dallas. Some of Thomas Tuchel's side have been spotted wearing a slightly different kit to other England stars. The Three Lions are looking to end 60 years..",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "When do England play next at World Cup 2026 after Croatia? Date and time for group stage clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39432072/when-england-play-next-world-cup-2026-date-time/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T19:45:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "play",
-        "next",
-        "World",
-        "Croatia",
-        "Date"
-      ],
-      "summary": "ENGLAND kickstart their bid to end 60 years of hurt TONIGHT! The Three Lions face a tricky World Cup opener against Croatia in Dallas, Texas. England and Croatia are no strangers on the global stage, having met in the semi-finals of the tournament in 2018. Luka Modric and Co ran out 2-1 winners en r",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "World Cup’s hottest fan gets party started in see-through top as England take on Croatia",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39450401/ivana-knoll-see-through-top-world-cup-england-croatia/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T19:27:10+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "hottest",
-        "gets",
-        "party",
-        "started",
-        "through"
-      ],
-      "summary": "IVANA KNOLL got the World Cup party started in a stunning see-through top ahead of Croatia's clash against England. The glamorous star has been hailed as the World Cup's hottest fan after turning heads while cheering on Croatia at previous tournaments. https://www.instagram.com/p/DZspEKzlq24/?img_in",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T21:19:00.267737+00:00"
-    },
-    {
-      "title": "Why is Harry Maguire not playing for England at World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39420590/harry-maguire-not-playing-england-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T17:15:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Maguire",
-        "Harry Maguire",
-        "Harry",
-        "playing",
-        "England",
-        "World"
-      ],
-      "summary": "HARRY MAGUIRE is one of England's most decorated defenders but was left out of Thomas Tuchel's World Cup squad. His omission sparked a furious family backlash on social media. Here's everything you need to know. Why is Harry Maguire not playing for England at World Cup 2026? Thomas Tuchel announced ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Man City consider move for Spurs target Tonali - alongside Anderson pursuit",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13555099/sandro-tonali-transfer-news-man-city-consider-move-for-newcastle-midfielder-who-is-also-wanted-by-tottenham",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T19:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Tottenham",
-        "Man City",
-        "Spurs",
-        "Anderson",
-        "City"
-      ],
-      "summary": "Manchester City are weighing up a move for Tottenham target Sandro Tonali as well as continuing their pursuit of Elliot Anderson.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Who are Declan Rice’s parents Stephanie and Sean?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/30244126/declan-rice-parents-teresa-sean-who/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T16:44:46+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Declan Rice",
-        "Declan",
-        "Rice",
-        "parents",
-        "Stephanie"
-      ],
-      "summary": "DECLAN RICE is hoping to build on his Premier League success by helping England win the 2026 World Cup - and his parents will be in his corner the whole way. The Arsenal ace is expected to be one of England's most instrumental players at the tournament. And his parents will be proud of how...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Heartbreaking moment Diogo Jota’s mum & dad cry in stands during emotional World Cup tribute to son after horror crash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39447816/diogo-jotas-mum-dad-cry-stands-world-cup-tribute/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T18:17:20+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Heartbreaking",
-        "moment",
-        "Diogo",
-        "Jota",
-        "stands",
-        "during"
-      ],
-      "summary": "DIOGO Jota's parents were spotted crying in the stands during an emotional World Cup tribute to their late son. The touching tribute to the former striker, who tragically died with his brother André in a car crash in Spain last year, came during Portugal's national anthem. As the Portugal players sa",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Eric Roy dead at 58: Former Sunderland star and Champions League manager passes away as tributes pour in",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39449262/eric-roy-dead-brest-manager-champions-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T17:53:01+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Eric",
-        "dead",
-        "Former",
-        "Sunderland",
-        "star",
-        "Champions"
-      ],
-      "summary": "BREST manager Eric Roy has tragically died at the age of 58. The Frenchman has been in charge of the Ligue 1 side for three years and took them to the Champions League. His family have now confirmed his shock passing as tributes poured in for the former Lyon and Sunderland star. In an emotional...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Key Ireland quartet ruled out of Nations Championship",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13555070/nations-championship-irelands-jack-crowley-andrew-porter-mack-hansen-ryan-baird-among-those-ruled-out-for-andy-farrell",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T17:43:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "quartet",
-        "ruled",
-        "Nations",
-        "Championship"
-      ],
-      "summary": "Ireland will face Nations Championship Tests away to Australia and New Zealand next month without a number of key players, including Jack Crowley, Andrew Porter and Mack Hansen.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Royal Ascot day 3 preview: Will a new Gold Cup king be crowned?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13554576/royal-ascot-day-3-preview-will-a-new-gold-cup-king-be-crowned",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T18:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Sullivan",
-        "Royal",
-        "Ascot",
-        "preview",
-        "Gold",
-        "king"
-      ],
-      "summary": "Sky Sports Racing's Kieran O'Sullivan previews a fascinating clash in the Gold Cup at Royal Ascot on Thursday and thinks a new king could be crowned.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Gareth Southgate mingles with Prince William and Kate Middleton at Ascot ahead of England’s World Cup opener",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39448118/gareth-southgate-prince-william-kate-middleton-ascot-england/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T18:24:04+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Gareth Southgate",
-        "Southgate",
-        "Gareth",
-        "mingles",
-        "Prince",
-        "William"
-      ],
-      "summary": "GARETH SOUTHGATE may not be overseas with the England squad for the World Cup - but he is certainly living it up in the UK. The former Three Lions boss has not returned to management since stepping down following the 2024 Euros. He has instead filled his days with a variety of speaking roles and...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Cristiano Ronaldo breaks World Cup record ONE SECOND into Portugal clash with DR Congo",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39448937/world-cup-cristiano-ronaldo-portugal-record/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T18:00:47+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Cristiano",
-        "breaks",
-        "World",
-        "record"
-      ],
-      "summary": "CRISTIANO RONALDO is the oldest outfielder to ever start a match at a World Cup. The Portuguese icon lined up in his country's 2026 opener against DR Congo aged 41 years and 132 days. This took Ronaldo ahead of former Canada star Atiba Hutchinson, who set the previous record at Qatar 2022. Midfielde",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Why is Cole Palmer not playing for England at World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39416890/why-cole-palmer-not-playing-england-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T18:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Palmer",
-        "Cole",
-        "playing",
-        "England",
-        "World"
-      ],
-      "summary": "ENGLAND open up their World Cup 2026 campaign against Croatia tonight - and fans are wondering why Cole Palmer is not in the squad. Thomas Tuchel is hoping to give English fans a summer to remember by ending a 60-year drought. But the Three Lions will need to navigate their way through Group L which",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Cristiano Ronaldo wearing different shirt to rest of Portugal squad in World Cup clash with DR Congo",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39448946/cristiano-ronaldo-wears-different-shirt-portugal-congo-clash/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T17:30:14+00:00",
-      "score": 26.0,
-      "keywords": [
-        "green",
-        "given",
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Cristiano",
-        "wearing"
-      ],
-      "summary": "CRISTIANO RONALDO is sporting a different shirt to his Portugal team-mates during his World Cup opener. The legendary star was given the green light up front against the Democratic Republic of Congo in Texas. But he did so in a unique shirt, commemorating his history in the tournament. He wore a pat",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
     }
   ]
 }
