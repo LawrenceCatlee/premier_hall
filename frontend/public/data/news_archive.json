@@ -1,6 +1,578 @@
 {
   "items": [
     {
+      "title": "Transfer roundup: Everton clinch Hackney signing, Spurs announce Fernandes",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/02/transfer-latest-premier-league-everton-tottenham",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-02T09:44:50+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Everton",
+        "Tottenham",
+        "West Ham",
+        "Spurs",
+        "Fernandes",
+        "Transfer"
+      ],
+      "summary": "‘It was always going to be Everton,’ says Hackney Spurs seal £85m deal for Fernandes from West Ham Everton have completed the signing of Hayden Hackney from Middlesbrough in a deal that could rise to £25m, while Tottenham have confirmed the signing of Mateus Fernandes from West Ham for £85m. The mid",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Record-breaker Layla Drury signs first professional deal with Manchester United",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/02/record-breaker-layla-drury-signs-first-professional-deal-with-manchester-united",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-02T09:40:25+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Manchester United",
+        "given",
+        "young",
+        "Record",
+        "breaker",
+        "Layla"
+      ],
+      "summary": "17-year-old youngest ever to be given professional deal She switched allegiance from Wales to England this year Manchester United Women ’s youngest ever player, Layla Drury, is set to become the youngest player to sign a professional contract with the WSL club. The 17-year-old is set to sign a deal ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Will pubs be open for England vs Mexico? Late license laws for the World Cup clash explained",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39620863/will-pubs-be-open-for-england-vs-mexico/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T10:52:49+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Harry Kane",
+        "matic",
+        "march",
+        "pubs",
+        "open",
+        "England"
+      ],
+      "summary": "FOOTBALL fever has officially gripped the nation after Harry Kane’s dramatic late goals against DR Congo fired the Three Lions into the World Cup Round of 16. Thomas Tuchel’s men are marching on to face Mexico this Monday (June 6), but millions of bleary-eyed fans have been left facing a total night",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Hackney joins Everton in £24m deal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13559023/hayden-hackney-transfer-news-everton-sign-midfielder-from-middlesbrough-in-24m-deal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T10:00:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Everton",
+        "Hackney",
+        "joins",
+        "deal"
+      ],
+      "summary": "Everton&#160;have completed the signing of&#160;midfielder Hayden Hackney from Middlesbrough in a &#163;24m deal.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Bournemouth in talks for Elche striker Rodriguez",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg40qlnneko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T11:36:32+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Bournemouth",
+        "Rodri",
+        "Rodriguez",
+        "talks",
+        "Elche",
+        "striker"
+      ],
+      "summary": "Bournemouth enter talks for Elche striker Alvaro Rodriguez for an initial fee of about £18m, rising to £25m with add-ons.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Spurs sign $112M Fernandes from West Ham",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49229881/tottenham-hotspur-sign-mateus-fernandes-west-ham-united-club-record-85m-premier-league-transfer",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T11:43:02+00:00",
+      "score": 29.0,
+      "keywords": [
+        "Tottenham",
+        "West Ham",
+        "Spurs",
+        "Fernandes",
+        "sign",
+        "West"
+      ],
+      "summary": "Tottenham Hotspur have announced the signing of midfielder Mateus Fernandes from West Ham.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Ted Lasso star, 35, signs pro contract in the US after falling in love with football again while filming iconic TV show",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39620547/ted-lasso-star-signs-football-contract/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T11:16:11+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Lasso",
+        "star",
+        "signs",
+        "contract",
+        "falling",
+        "love"
+      ],
+      "summary": "A TED LASSO star has taken method acting to the next level by signing a professional football contract in the US. Cristo Fernández, 35, who plays striker Dani Rojas in the hit TV show, has joined real-life club El Paso Locomotive FC after falling in love with the beautiful game. The small screen act",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "F1 drivers to drive Lego cars at Silverstone before British GP",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/news/12040/13559722/british-gp-f1-drivers-to-drive-lego-minicars-before-silverstone-race-on-spectacular-track-parade",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T11:30:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "drivers",
+        "drive",
+        "Lego",
+        "cars",
+        "Silverstone"
+      ],
+      "summary": "F1 drivers will drive 22 Lego minicars ahead of Sunday's British Grand Prix in a spectacular - and likely chaotic - track parade at Silverstone.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Merse: Mexico is heads-or-tails match - they could run England off their feet",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13559758/mexico-vs-england-world-cup-last-16-tie-is-heads-or-tails-match-they-could-run-us-off-our-feet-says-paul-merson",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T10:24:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Merson",
+        "Paul Merson",
+        "Merse",
+        "Mexico",
+        "heads",
+        "tails"
+      ],
+      "summary": "Sky Sports' Paul Merson looks ahead to England's last-16 World Cup encounter with co-hosts Mexico on Monday, a game he thinks is too close to call.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Thomas Tuchel berates England star AGAIN as furious rant caught on pitchside mic during DR Congo World Cup win",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39621134/thomas-tuchel-berates-djed-spence-england-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T11:24:01+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "Thomas",
+        "Tuchel",
+        "berates",
+        "England",
+        "star"
+      ],
+      "summary": "THOMAS TUCHEL brutally tore into Djed Spence during a furious touchline rant before England launched a late fightback against DR Congo. The Three Lions came from behind to seal a 2-1 win and book their place in the last 16 of the World Cup after a late Harry Kane brace. But Spence, 25, was berated..",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Will there be a Bank Holiday on Monday for England vs Mexico? Why fans want day off after Scotland got long weekend",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39619346/will-there-be-a-bank-holiday-monday-england-mexico/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T10:16:31+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "Bank",
+        "Holiday",
+        "Monday",
+        "England",
+        "Mexico"
+      ],
+      "summary": "ENGLAND fans are demanding an extra Bank Holiday this Monday (June 6) as the Three Lions prepare for a gruelling late-night World Cup showdown. Thomas Tuchel’s men booked their place in the Round of 16 after skipper Harry Kane’s clinical double sank DR Congo 2-1 in a tense comeback. But millions of ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Tonali: De Zerbi played big role in Tottenham move",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13559789/sandro-tonali-roberto-de-zerbi-played-huge-role-in-tottenham-transfer-says-midfielder-ahead-of-100m-newcastle-switch",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T12:25:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Tottenham",
+        "Tonali",
+        "Zerbi",
+        "played",
+        "role"
+      ],
+      "summary": "Sandro Tonali has revealed the \"huge role\" Roberto De Zerbi had in his impending &#163;100m move to Tottenham from Newcastle.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Bronze renews contract with Chelsea until 2027",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17yvrgllk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T11:26:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Bronze",
+        "renews",
+        "contract",
+        "until"
+      ],
+      "summary": "England international Lucy Bronze has signed a contract extension with Chelsea until 2027.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "USA superstar Folarin Balogun’s dreams of playing in World Cup last-16 dead in the water thanks to little-known rule",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39619710/folarin-balogun-world-cup-red-card-usa-fifa-rule/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T10:00:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "superstar",
+        "Folarin",
+        "Balogun",
+        "dreams",
+        "playing"
+      ],
+      "summary": "USA have suffered a huge blow ahead of their last-16 clash with Belgium - after discovering they cannot launch an appeal following Folarin Balogun's red card. The former Arsenal man, 24, was controversially sent off during the World Cup co-hosts' 2-0 win over Bosnia and Herzegovina. Balogun accident",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Transfer rumors, news: AC Milan tracking Liverpool...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49245591/transfer-rumors-news-milan-tracking-liverpool-van-dijk",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T12:09:11+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Liverpool",
+        "Virgil van Dijk",
+        "Transfer",
+        "rumors",
+        "news",
+        "Milan"
+      ],
+      "summary": "AC Milan are considering a move for Liverpool center back Virgil van Dijk. Transfer Talk has the latest.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Dettori injured in Newmarket car crash",
+      "title_cn": "",
+      "url": "https://www.skysports.com/racing/news/12040/13559752/frankie-dettori-former-champion-jockey-suffers-broken-ribs-and-thumb-in-newmarket-car-crash-on-wednesday",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-02T10:02:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Dettori",
+        "injured",
+        "Newmarket",
+        "crash"
+      ],
+      "summary": "Frankie Dettori sustained several broken ribs and a broken thumb after being involved in a car accident in Newmarket on Wednesday evening.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T10:37:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "minutes",
+        "humiliation",
+        "issues",
+        "Tuchel",
+        "must"
+      ],
+      "summary": "Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues that remain for Thomas Tuchel.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "England fans face resale prices of at least £2.6k for Mexico tickets",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-02T10:18:29+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "fans",
+        "face",
+        "resale",
+        "prices",
+        "least"
+      ],
+      "summary": "England fans hoping to attend the World Cup last-16 showdown with Mexico face paying a minimum of £2,600 for one ticket on Fifa's resale site.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "World Cup fan has to be rescued by CRANE after she got stuck on fence trying to sneak into Fifa festival",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39621408/mexico-world-cup-ecuador-fan-park-saved-crane-ecuador/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T11:39:54+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "rescued",
+        "CRANE",
+        "stuck",
+        "fence",
+        "trying"
+      ],
+      "summary": "A WOMAN had to be rescued by a crane after getting stuck trying to sneak into a World Cup fan park. The Mexico fan got more than halfway up a fence - reported to be around 13ft high - when realising they could not make the vault over. And so she needed emergency services to...",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Spain vs Austria: Get Spain to win, most shots on target and most corners at Evens | Betfred",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39621086/spain-vs-austria-betfred-world-cup-boost-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T10:42:17+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Spain",
+        "Austria",
+        "most",
+        "shots",
+        "target",
+        "corners"
+      ],
+      "summary": "BETFRED are celebrating the biggest World Cup in history by delivering epic Turbo Boosts every day of the tournament! Every matchday at 9am the boost will drop to all customers - new and existing - with today's offer being: Spain to win, most shots on target and most corners at Evens, boosted from 8",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Switzerland vs Algeria: Get £20 in free bets and 3 x 200% Odds Boosts for the World Cup with talkSPORT BET",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39610731/swizterland-algeria-talksport-bet-world-cup-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-02T10:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Switzerland",
+        "Algeria",
+        "free",
+        "bets",
+        "Odds",
+        "Boosts"
+      ],
+      "summary": "GROUP B winners Switzerland are set to take on third-place finishers Algeria in Vancouver with a spot in the round of 16 up for grabs. Ahead of this knockout fixture, brand-new talkSPORT BET customers who sign up, opt in and stake a tenner on football can claim £20 in free bets plus 3 x 200%...",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "'Icons' Modric, Ronaldo look to avoid WC send-off",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49241567/croatia-portugal-luka-modric-cristiano-ronaldo-2026-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T11:43:32+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "Icons",
+        "Modric",
+        "look",
+        "avoid"
+      ],
+      "summary": "Luka Modric and Cristiano Ronaldo are \"two great icons of world football,\" Portugal midfielder Vitinha said on Wednesday ahead of his team's clash with Croatia.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Tielemans on Trossard fight: 'Part of football'",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49246195/belgium-youri-tielemans-downplays-leandro-trossard-clash-part-football",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T11:43:02+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Tielemans",
+        "Trossard",
+        "Youri Tielemans",
+        "Leandro Trossard",
+        "fight",
+        "Part"
+      ],
+      "summary": "Youri Tielemans has played down talks of a rift with teammate Leandro Trossard following their on-field scuffle during Belgium's round-of-32 World Cup win against Senegal.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Kane passes Pelé WC goals total in England win",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49237509/harry-kane-breaks-pele-world-cup-goals-tally",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T11:43:32+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Harry Kane",
+        "Kane",
+        "passes",
+        "goals",
+        "total",
+        "England"
+      ],
+      "summary": "Harry Kane has surpassed Pelé's World Cup goals total after scoring two goals against Congo DR on Wednesday to bring his goal tally to 13 and lead England to a 2-1 victory and a spot in the round of 16 at the World Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Kane delivers for England at vital moment in drama...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49239386/england-harry-kane-delivers-dramatic-world-cup-win-vs-congo-dr",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T11:53:16+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Harry Kane",
+        "Kane",
+        "delivers",
+        "England",
+        "vital",
+        "moment"
+      ],
+      "summary": "Where would England be without their captain and star striker Harry Kane? The answer in this particular case is \"probably flying back to London.\"",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Sources: Spurs agree Tonali deal with Newcastle",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49240006/tottenham-agree-deal-sign-sandro-tonali-newcastle-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T11:43:03+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Newcastle",
+        "Tottenham",
+        "Spurs",
+        "Sources",
+        "agree",
+        "Tonali"
+      ],
+      "summary": "Tottenham are set to smash their transfer record for the second time in a matter of days after agreeing a deal worth up to £100 million to sign Sandro Tonali, sources told ESPN.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "USMNT beats Bosnia for 1st WC KO win since '02",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T11:43:32+00:00",
+      "score": 10.0,
+      "keywords": [
+        "USMNT",
+        "beats",
+        "Bosnia",
+        "since"
+      ],
+      "summary": "The USMNT beat Bosnia-Herzegovina 2-0 in the World Cup round of 32 on Wednesday night for its first knockout win since 2002.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "Balogun red-carded in USMNT clash with Bosnia",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49243703/usa-folarin-balogun-red-card-bosnia-herzegovina-world-cup-2026",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T11:43:03+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Balogun",
+        "carded",
+        "USMNT",
+        "clash",
+        "Bosnia"
+      ],
+      "summary": "Folarin Balogun's star turn at this World Cup went sideways early in the second half Wednesday night, as the American forward was sent off against Bosnia-Herzegovina.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
+      "title": "World Cup daily: Balogun celly in USMNT win gets L...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-02T10:06:47+00:00",
+      "score": 10.0,
+      "keywords": [
+        "World",
+        "daily",
+        "Balogun",
+        "celly",
+        "USMNT",
+        "gets"
+      ],
+      "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-02T11:40:18.393394+00:00"
+    },
+    {
       "title": "Portugal vs Croatia preview: Betting tips, odds and free bets (World Cup)",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39574307/portugal-vs-croatia-preview-betting-tips-predictions-world-cup/",
@@ -38880,581 +39452,6 @@
       "summary": "CRISTIANO RONALDO is sporting a different shirt to his Portugal team-mates during his World Cup opener. The legendary star was given the green light up front against the Democratic Republic of Congo in Texas. But he did so in a unique shirt, commemorating his history in the tournament. He wore a pat",
       "summary_cn": "",
       "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Harry Kane to wear different shirt to rest of England squad in World Cup clash with Croatia",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39448277/harry-kane-different-shirt-england-croatia-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T17:17:07+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Harry",
-        "Kane",
-        "wear",
-        "different",
-        "shirt"
-      ],
-      "summary": "HARRY KANE will jump into action on Wednesday evening as England open their tournament against Croatia. The Three Lions face a tricky test in Dallas against what may prove to be their most formidable Group stage opponent. ENGLAND VS CROATIA LIVE UPDATES But Kane will be sporting a slightly different",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "What did Diogo Jota’s goal celebrations mean? From Xbox controller to shark-style cele",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39447815/diogo-jota-celebration-portugal-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T17:02:40+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Diogo",
-        "Jota",
-        "goal",
-        "celebrations"
-      ],
-      "summary": "PORTUGAL are getting their World Cup 2026 campaign underway today, and they are honouring their late teammate as they do so. Cristiano Ronaldo and his side are facing DR Congo in Group K in their first game. PORTUGAL VS DR CONGO LIVE WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS What did Diogo Jota's.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Truth behind Phil Foden’s relationship with ‘no-nonsense’ Wag Rebecca after cheating scandals & Lilly Phillips shut down",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39444555/phil-foden-wag-rebecca-cooke-shut-down-lily-phillips/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T16:51:22+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Phillips",
-        "Foden",
-        "Phil Foden",
-        "Truth",
-        "behind",
-        "Phil"
-      ],
-      "summary": "SHE might be a petite blonde, but Phil Foden’s girlfriend is clearly someone you don’t want to mess with. Over the weekend, the 23-year-old was hailed a hero after she was seen swatting away porn star Lily Phillips as she approached the footballer, 26, at a boxing match. We’re told the no-nonsense a",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Nico O’Reilly reveals meaning behind his tattoos and the single mum who sacrificed everything for England World Cup star",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39311273/nico-oreilly-tattoos-man-city-england-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T18:17:54+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Nico",
-        "Reilly",
-        "reveals",
-        "meaning",
-        "behind"
-      ],
-      "summary": "NICO O'REILLY is really living the life of Riley. And he is about to live even more, preparing for England's World Cup opener against Croatia - after winning two trophies with Manchester City in his first season as a key player for his boyhood club. These are exciting times for the Premier League Yo",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Bellingham set to start for England against Croatia",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c9d2j44jxy2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-17T18:00:06+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Bellingham",
-        "start",
-        "England",
-        "against",
-        "Croatia"
-      ],
-      "summary": "Jude Bellingham is set to start in England's coveted number 10 role in their World Cup opener against Croatia.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Van Bronckhorst returns to Feyenoord as head coach",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cqx14lg3ewqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-17T16:36:51+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Bronckhorst",
-        "returns",
-        "Feyenoord",
-        "head",
-        "coach"
-      ],
-      "summary": "Giovanni van Bronckhorst is reappointed as Feyenoord head coach on a two-year contract with a one-year option to extend.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "England v Croatia: World Cup 2026 – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-17T18:00:40+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "Croatia",
-        "World",
-        "live"
-      ],
-      "summary": "⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Scott It’s day seven of the 2026 World Cup, and finally England are on their way. They are Tom’s 26. Hear the roar, of the red, white and … ah who remembers that cheesy old song anyway? Point is",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-17T17:13:10+00:00",
-      "score": 20.0,
-      "keywords": [
-        "time",
-        "greatest",
-        "highest",
-        "goalscorer",
-        "World",
-        "history"
-      ],
-      "summary": "Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list Golden Boot: World Cup 2026 top goalscorers Lionel Messi started his 2026 World Cup campaign",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "William & Kate issue rallying cry ahead of England clash – as nation prays Three Lions can end 60yrs of hurt",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39430422/world-cup-england-fans-croatia-pubs/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T18:19:50+00:00",
-      "score": 20.0,
-      "keywords": [
-        "William",
-        "Kate",
-        "issue",
-        "rallying",
-        "ahead",
-        "England"
-      ],
-      "summary": "PRINCE William has issued a rallying cry to England stars ahead of tonight's opening game against Croatia. The nation is currently holding its breath as the Three Lions' World Cup campaign gets underway in Dallas, Texas. Supporters are currently racing out of work and heading to the pub as they pray",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "GMB’s Susanna Reid hit by over 500 Ofcom complaints for ‘unfair’ criticism of Scottish World Cup Bank Holiday",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39447198/susanna-reid-ofcom-complaints-world-cup-holiday/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T17:14:17+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Susanna",
-        "Reid",
-        "Ofcom",
-        "complaints",
-        "unfair",
-        "criticism"
-      ],
-      "summary": "SUSANNA Reid has been hit with hundreds of Ofcom complaints after upsetting fans over her criticism of Scotland's bank holiday for their first World Cup game. Scottish residents were granted a bank holiday last Monday after staying up to watch their team's first game of the World Cup. Their clash wi",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Why are Portugal players wearing wristbands during World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39430589/portugal-players-wristbands-world-cup-diogo-jota/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T17:14:14+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Portugal",
-        "players",
-        "wearing",
-        "wristbands",
-        "during",
-        "World"
-      ],
-      "summary": "PORTUGAL players are wearing commemorative wristbands during the World Cup. The bracelets are a tribute to former striker Diogo Jota, who tragically died with his brother in a car crash in Spain last year. Why are Portugal players wearing wristbands during World Cup 2026? Portuguese&nbsp;Prime Minis",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Alisha Lehmann plays beach football in pink bikini as fans label her ‘the world’s most beautiful footballer’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39446985/alisha-lehmann-bikini-beach-football-beautiful/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T17:08:44+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Alisha",
-        "Lehmann",
-        "plays",
-        "beach",
-        "football",
-        "pink"
-      ],
-      "summary": "ALISHA LEHMANN showed off her football skills in a pink bikini on the beach as she left fans in awe once again. The blonde beauty, 27, is taking some time off after the end of the WSL season. She is enjoying a holiday in Jamaica and decided to blow off some steam by playing some...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "World Cup star arrested on suspicion of match fixing offences less than two weeks before tournament",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39447060/elye-wahi-arrested-match-fixing-world-cup-ivory-coast/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T16:34:52+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "star",
-        "arrested",
-        "suspicion",
-        "match",
-        "fixing"
-      ],
-      "summary": "IVORY COAST star Elye Wahi was reportedly arrested less than two weeks before the World Cup over alleged fixing offences. The Eintracht Frankfurt forward, 23, spent the second half of last season on loan with French club Nice. He is subject to an investigation over claims he deliberately earned a ye",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T18:28:24.793483+00:00"
-    },
-    {
-      "title": "Sky Sports to broadcast Major League Cricket in 2026 season",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13554946/major-league-cricket-sky-sports-announces-deal-to-broadcast-usas-premier-t20-competition-for-2026-season",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T16:00:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Ireland",
-        "Sports",
-        "broadcast",
-        "Major",
-        "League",
-        "Cricket"
-      ],
-      "summary": "Major League Cricket have announced their 2026 season will be available live on Sky Sports in the UK and Ireland.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Royal Ascot replay | Photo finish in the Queen's Vase!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13555017/royal-ascot-replay-photo-finish-in-the-queens-vase",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T15:27:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "stone",
-        "Royal",
-        "Ascot",
-        "replay",
-        "Photo",
-        "finish"
-      ],
-      "summary": "The Queen's Vase served up a thriller on day two at Royal Ascot as Limestone beat Del Maro by a nose in a photo finish.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Royal Ascot replay | One-eyed horse Victorious wins the Queen Mary!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13555006/royal-ascot-replay-one-eyed-horse-victorious-wins-the-queen-mary",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T14:56:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "O'Brien",
-        "Royal",
-        "Ascot",
-        "replay",
-        "eyed",
-        "horse"
-      ],
-      "summary": "Victorious, who has one eye, impressed as she won the Queen Mary Stakes to open day two at Royal Ascot, bringing up Aidan O'Brien's 99th victory at the meeting.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Why is Luke Shaw not playing for England at World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39446265/why-luke-shaw-not-playing-england/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T15:15:14+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Luke Shaw",
-        "Luke",
-        "Shaw",
-        "playing",
-        "England"
-      ],
-      "summary": "LUKE Shaw had a strong domestic campaign, starting every one of Manchester United's Premier League games this season. But it still wasn't enough to earn him a place in Thomas Tuchel's squad at World Cup 2026 – here's everything we know. Why is Luke Shaw not playing for England? Luke Shaw, 30, has ea",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Why is Phil Foden not playing for England at World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39419360/phil-foden-not-playing-england-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T15:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Phil Foden",
-        "Foden",
-        "Phil",
-        "playing",
-        "England"
-      ],
-      "summary": "PHIL FODEN was one of the most talked-about absentees when Thomas Tuchel named his England squad for the 2026 World Cup on May 22. Here's everything you need to know about why the Manchester City star is watching the tournament from home. Why is Phil Foden not playing for England at World Cup 2026? ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "‘Good on ya’ – BBC viewers love Wayne Rooney’s new look with fans convinced England icon has ‘lost loads of weight’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39446256/wayne-rooney-bbc-weight-loss-england-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T14:49:26+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Clichy",
-        "Rooney",
-        "Wayne Rooney",
-        "Good",
-        "viewers",
-        "love"
-      ],
-      "summary": "BBC viewers are convinced that Wayne Rooney has lost a ton of weight as they flocked to social media to praise his new look. The Premier League icon is working for the national broadcaster during the World Cup this summer. Rooney, 40, is appearing on screen as a pundit and was alongside Gael Clichy ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Who is England vs Croatia referee Clement Turpin? Meet the French official once branded ‘terrible’ by Thomas Tuchel",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39291005/clement-turpin-world-cup-2026-referee/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T15:51:55+00:00",
-      "score": 28.0,
-      "keywords": [
-        "England",
-        "Croatia",
-        "referee",
-        "Clement",
-        "Turpin",
-        "Meet"
-      ],
-      "summary": "CLEMENT TURPIN is the man in the middle of England vs Croatia tonight at World Cup 2026. The Frenchman, known for officiating in the Champions League, is officiating at his sixth international tournament this summer. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS Who is Clement Turpin? Clement Turpin i",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Ronaldo starts as Portugal face DR Congo in opener",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/portugal-vs-dr-congo/live/549786",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T16:50:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ronaldo",
-        "starts",
-        "Portugal",
-        "face",
-        "Congo",
-        "opener"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Brilliant Blue Bolt lights up Duke Of Cambridge Stakes",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13555025/brilliant-blue-bolt-lights-up-duke-of-cambridge-stakes",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T16:03:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "bridge",
-        "Brilliant",
-        "Blue",
-        "Bolt",
-        "lights",
-        "Duke"
-      ],
-      "summary": "Blue Bolt stormed to victory in the Duke Of Cambridge Stakes on day two at Royal Ascot.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Sciver-Brunt to miss England's next two T20 World Cup matches",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555021/england-captain-nat-sciver-brunt-to-miss-next-two-womens-t20-world-cup-matches-with-calf-injury",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T16:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Brunt",
-        "Ireland",
-        "Sciver",
-        "miss",
-        "England",
-        "next"
-      ],
-      "summary": "England captain Nat Sciver-Brunt has been ruled out of her side's next two matches at the Women's T20 World Cup with a calf injury sustained in Tuesday's win over Ireland.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Portugal v DR Congo: World Cup 2026 – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-17T15:00:35+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Silva",
-        "Ronaldo",
-        "Carvalho",
-        "Portugal",
-        "Congo",
-        "World"
-      ],
-      "summary": "⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Daniel Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Harry Redknapp blasts England’s most famous WAGs as he backs 2026 wives to inspire Three Lions glory",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39446221/harry-redknapp-backs-england-wags-inspire-three-lions/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T15:40:29+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Redknapp",
-        "Harry",
-        "blasts",
-        "England",
-        "most",
-        "famous"
-      ],
-      "summary": "HARRY Redknapp has backed England's WAGs to help bring football home - because they're nothing like the 2006 squad's spouses. The iconic football manager blasted the \"circus\" caused by the wives and girlfriends in Germany, which was blamed for the Three Lions' early exit two decades ago. Ring leader",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Who are Harry Kane’s parents Pat and Kim & does he have any siblings?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39337378/harry-kane-parents-pat-kim/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T15:37:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Harry",
-        "Kane",
-        "parents",
-        "siblings"
-      ],
-      "summary": "HARRY KANE is England's skipper and record goalscorer, and one of the most lethal strikers on the planet. But behind the Bayern Munich superstar is a close-knit family that has been with him every step of the way. Who are Harry Kane's parents Pat and Kim? Harry Kane was born on July 28, 1993, and...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "How many children does Cristiano Ronaldo have, and what are their names?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39444939/how-many-children-does-ronaldo-have/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-17T14:35:01+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Cristiano Ronaldo",
-        "Rodriguez",
-        "Ronaldo",
-        "Rodri",
-        "many",
-        "children"
-      ],
-      "summary": "CRISTIANO Ronaldo is up there with the greatest footballers of all time, and is also the father of five kids. The five-time Ballon d’Or winner is engaged to model and influencer Georgina Rodriguez. Here's everything we know about their family. How many children does Ronaldo have? Cristiano Ronaldo h",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Full race replay | Ombudsman defends Prince Of Wales's Stakes title",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13555040/full-race-replay-ombudsman-defends-prince-of-waless-stakes-title",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T16:46:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Full",
-        "race",
-        "replay",
-        "Ombudsman",
-        "defends",
-        "Prince"
-      ],
-      "summary": "Ombudsman shrugged off rivals Minnie Hauk and Daryz to defend his Prince Of Wales's Stakes title in great style on day two at Royal Ascot.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
-    },
-    {
-      "title": "Borthwick: 'Very realistic' that Itoje misses England summer fixtures",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13555032/maro-itoje-very-realistic-that-england-captain-misses-all-summer-fixtures-says-head-coach-steve-borthwick",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-17T16:30:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Borthwick",
-        "Very",
-        "realistic",
-        "Itoje",
-        "misses",
-        "England"
-      ],
-      "summary": "England captain Maro Itoje missing all three of his side's summer fixtures is \"very realistic\", according to head coach Steve Borthwick.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-17T15:56:11.837642+00:00"
     }
   ]
 }
