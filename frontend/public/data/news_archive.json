@@ -1,6 +1,463 @@
 {
   "items": [
     {
+      "title": "Xhaka staying at Sunderland despite Chelsea bid",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13560190/sunderland-transfer-news-granit-xhaka-staying-at-stadium-of-light-after-chelsea-bid-for-black-cats-captain-rejected",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-03T16:35:00+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Chelsea",
+        "Xhaka",
+        "Granit Xhaka",
+        "staying",
+        "Sunderland",
+        "despite"
+      ],
+      "summary": "Captain Granit Xhaka&#160;will be staying at&#160;Sunderland, Sky Sports News can exclusively confirm.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Football Daily | Time waits for no man, nor Cristiano Ronaldo’s football legacy",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/03/football-daily-gwc-cristiano-ronaldo-portugal",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-03T14:44:31+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Cristiano Ronaldo",
+        "Ronaldo",
+        "Football",
+        "Daily",
+        "Time"
+      ],
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Before Football Daily’s inbox is flooded by an angry reader with fingers busier than Arsenal fans at a Viktor Gyökores lookalike contest, we would like to shout from the rooftops that Cristiano Ronaldo is one of the greatest male football players o",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "‘I’m a little bit worried’ – England and Chelsea legend John Terry launches stinging blast at Thomas Tuchel",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39638377/john-terry-blast-thomas-tuchel-djed-spence-squad-picks/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T15:48:12+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "John Terry",
+        "Terry",
+        "little",
+        "worried",
+        "England"
+      ],
+      "summary": "JOHN TERRY has revealed his doubts about Thomas Tuchel following his treatment of Djed Spence. Spence, 25, has struggled to impress as yet at the 2026 World Cup, having made four appearances and two starts. Former Three Lions captain Terry explained that he is \"worried\" about how Tuchel treats the S",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Hamilton storms to Silverstone Sprint pole in 'amazing surprise'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/news/12040/13560060/british-gp-sprint-qualifying-lewis-hamilton-storms-to-silverstone-pole-to-beat-kimi-antonelli-as-george-russell-struggles",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-03T17:25:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Hamilton",
+        "storms",
+        "Silverstone",
+        "Sprint",
+        "pole"
+      ],
+      "summary": "Lewis Hamilton has made a storming start to the British Grand Prix weekend by claiming pole position for Saturday's Sprint at Silverstone.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Berrettini's outfit banned by Wimbledon bosses for not being white enough",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13560153/wimbledon-matteo-berrettinis-outfit-banned-by-all-england-club-chiefs-for-not-being-white-enough",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-03T16:30:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Matteo",
+        "Berrettini",
+        "outfit",
+        "banned",
+        "Wimbledon",
+        "bosses"
+      ],
+      "summary": "Matteo Berrettini's outfit for his clash with Arthur Fils was banned by Wimbledon chiefs for not being white enough.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Hamilton beats Antonelli to claim Sprint pole at Silverstone!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13560206/british-gp-lewis-hamilton-pips-antonelli-to-claim-sprint-pole-at-silverstone",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-03T17:18:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Hamilton",
+        "beats",
+        "Antonelli",
+        "claim",
+        "Sprint"
+      ],
+      "summary": "Lewis Hamilton claims Sprint Pole at the British Grand Prix!",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Audi Flying Lap: Silverstone | Karun takes to the track in the RS5",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13560177/audi-flying-lap-silverstone",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-03T16:22:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Audi",
+        "Flying",
+        "Silverstone",
+        "Karun",
+        "takes"
+      ],
+      "summary": "Powered by Audi: Karun Chandhok takes to the iconic Silverstone track in a high-performance Audi, combining real laps with advanced sim data to break down racing lines, braking points, and elite-level performance.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "What might Robinson's Aberdeen look like this season?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyv1k597do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-03T14:53:55+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Robinson",
+        "Aberdeen",
+        "look",
+        "like",
+        "season"
+      ],
+      "summary": "As Stephen Robinson gets set for his first full season as Aberdeen head coach, BBC Sport Scotland assesses what his side might look like.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Listen: Can Simoball survive Premiership? St Johnstone season preview",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nwpgph?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-03T15:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Listen",
+        "Simoball",
+        "survive",
+        "Premiership",
+        "Johnstone"
+      ],
+      "summary": "Saints are back. Can Simoball, new signings and Toby Steward keep them up?",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Mbappé becomes leader of France’s collective under Deschamps’ regime of trust",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/03/mbappe-becomes-leader-of-frances-collective-under-deschamps-regime-of-trust",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-03T16:01:20+00:00",
+      "score": 26.0,
+      "keywords": [
+        "foster",
+        "becomes",
+        "leader",
+        "France",
+        "collective",
+        "under"
+      ],
+      "summary": "Les Bleus’ thrilling front four is built on the spirit the head coach has fostered in his squad, allowing them to be both secure and adventurous It was a striking image, the picture that best captured France’s World Cup campaign to this point. Not the one that caught Michael Olise in full flight as ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Altitude: how does it affect players and how big is England’s disadvantage?",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/03/mexico-england-world-cup-2026-altitude",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-03T15:02:43+00:00",
+      "score": 26.0,
+      "keywords": [
+        "speed",
+        "Altitude",
+        "affect",
+        "players",
+        "England",
+        "disadvantage"
+      ],
+      "summary": "England play in Mexico City on Sunday, 2,240m above sea level, and research shows high-speed running is harder and recovery is slower England have made it into the last 16 of the World Cup, and will face Mexico on Sunday (1am Monday BST). But they will also be up against another opponent: altitude. ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Mexico vs England: Harry Kane 40/1 to have 1+ shot in World Cup clash | Sky Bet",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39637537/mexico-vs-england-harry-kane-world-cup-sky-bet/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T14:49:46+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "Mexico",
+        "England",
+        "Harry",
+        "Kane",
+        "shot"
+      ],
+      "summary": "HARRY KANE has been boosted to a huge 40/1 to register a shot against Mexico in England's World Cup last-16 showdown at the Azteca. New Sky Bet customers who sign up, deposit £5 and place a £1 bet on Harry Kane to have 1+ total shot can take advantage of the enhanced 40/1 offer, with...",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Man Utd get huge Andre Onana wages boost as he rejoins Trabzonspor on loan",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39638146/manchester-united-transfer-news-onana/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T14:45:30+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "huge",
+        "Andre",
+        "Onana",
+        "wages"
+      ],
+      "summary": "TRABZONSPOR WILL cover Manchester United goalkeeper Andre Onana’s salary in full during his season-long loan. Onana, 30, has rejoined the Turkish club for a second successive season despite United’s preference to sell him. Rather than hold out for a potential buyer later in the window, United have a",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "How to turn BBC Sport alerts on or off for England v Mexico",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wv22v93zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-03T15:35:30+00:00",
+      "score": 20.0,
+      "keywords": [
+        "turn",
+        "Sport",
+        "alerts",
+        "England",
+        "Mexico"
+      ],
+      "summary": "Find out how to turn BBC Sport alerts off (or on!) for England's World Cup last-16 match against Mexico.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Australia v Egypt: World Cup 2026 last 32 – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-03T16:25:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Australia",
+        "Egypt",
+        "World",
+        "last",
+        "live"
+      ],
+      "summary": "⚽️ Kick-off time: 1pm local/2pm EDT/7pm BST/4am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott … and here’s how Egypt got out of Group G. Undefeated, though they really rode their luck towards the end against Iran. Here’s how Australia made it through Group D. The hard yards covered ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Fears Argentina vs Cape Verde could be DELAYED by storms forecast in Miami during World Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39639552/argentina-cape-verde-thunderstorms-lightning-miami-kickoff-time/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T15:51:29+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fears",
+        "Argentina",
+        "Cape",
+        "Verde",
+        "DELAYED",
+        "storms"
+      ],
+      "summary": "ARGENTINA's game against Cape Verde in Miami could be the latest World Cup game impacted by weather. Lionel Messi's side are looking to book a spot in the last 16 when they face the tournament's surprise package. But they could be forced to wait a little longer than they'd like. The game is due to..",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Birmingham City swoop to sign Middlesbrough captain Dael Fry on a free transfer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39638390/birmingham-city-dael-fry-middlesbrough/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T15:45:03+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Birmingham",
+        "City",
+        "swoop",
+        "sign",
+        "Middlesbrough",
+        "captain"
+      ],
+      "summary": "BIRMINGHAM CITY have swooped to sign Dael Fry on a free transfer. The defender, 28, was unable to agree terms on a new deal with boyhood club Middlesbrough after almost 300 appearances. Now he has agreed to join the ambitious Blues just weeks after suffering the heartbreak of missing out on promotio",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Mexico vs England: Get Jude Bellingham 1+ shot at 40/1 | Paddy Power",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39637885/mexico-england-jude-bellingham-paddy-power-odds-shot/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T15:29:53+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Mexico",
+        "England",
+        "Jude",
+        "Bellingham",
+        "shot",
+        "Paddy"
+      ],
+      "summary": "PADDY POWER have a phenomenal offer for new customers ahead of England's World Cup last-16 showdown against Mexico. Brand new Paddy Power customers who sign up using the promo code YFBDHW can back Three Lions superstar Jude Bellingham to register 1+ shot at a stunning 40/1 - boosted from just 1/16! ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Mexico vs England: Get £50 in World Cup free bets with Betfred, plus 9/1 Bet Builder tips",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39634598/england-vs-mexico-bet-builder-tips-betfred/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T15:29:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Mexico",
+        "England",
+        "World",
+        "free",
+        "bets",
+        "Betfred"
+      ],
+      "summary": "ENGLAND take on Mexico at the Azteca in the early hours of Monday morning, looking to clinch a place in the 2026 World Cup quarter-finals. To mark the blockbuster showdown, our team of betting experts has put together a 9/1 Bet Builder, courtesy of Betfred. New customers who sign up with Betfred and",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "England star and ITV World Cup pundit stuns in sleek black dress as she celebrates fellow Lioness ace’s wedding",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39638032/england-alessia-russo-stuns-black-dress-wedding/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T15:10:40+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "star",
+        "World",
+        "pundit",
+        "stuns",
+        "sleek"
+      ],
+      "summary": "ALESSIA RUSSO stunned as a bridesmaid for bestie Ella Toone's wedding. The Lionesses striker supported her England team-mate Toone who said 'I do' to her partner Joe Bunney in a romantic countryside wedding. Wearing a black dress, Alessia, 27, was spotted next to Toone looking super-glam in photos s",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "England stars would be allowed to use VIAGRA to help them rise to World Cup altitude levels amid Mexico fears",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39637765/england-viagra-world-cup-mexico-city-altitude/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T14:55:50+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "stars",
+        "allowed",
+        "VIAGRA",
+        "help",
+        "them"
+      ],
+      "summary": "DOPING rules allow England players to tackle altitude issues with VIAGRA at the World Cup. The prescription drug is not on the World Anti-Doping Agency's (WADA) 2026 list of banned substances. And studies have shown that, by reducing blood pressure in the lungs, it counteracts feelings of fatigue an",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Paraguay vs France: Kylian Mbappe 40/1 to have 1+ shot on target in World Cup clash | Sky Bet",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39637656/paraguay-vs-france-kylian-mbappe-shot-on-target-skybet/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T14:50:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Paraguay",
+        "France",
+        "Kylian",
+        "Mbappe",
+        "shot",
+        "target"
+      ],
+      "summary": "KYLIAN MBAPPE has been boosted to a huge 40/1 to register a shot on target against Paraguay in France's World Cup last-16 showdown in Philadelphia. New Sky Bet customers who sign up, deposit £5 and place a £1 bet on Kylian Mbappe to have 1+ shots on target can take advantage of the enhanced 40/1...",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
+      "title": "Why are they singing Take Me Home, Country Roads’ at the World Cup?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39635136/why-are-they-singing-take-me-home-country-roads/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-03T14:48:14+00:00",
+      "score": 20.0,
+      "keywords": [
+        "singing",
+        "Take",
+        "Home",
+        "Country",
+        "Roads",
+        "World"
+      ],
+      "summary": "MAURICIO Pochettino's USA side have enjoyed an excellent 2026 World Cup campaign so far, confirming their place in the Round of 16 on Thursday (July 2) morning. And as the tournament has progressed there's been a running theme, with John Denver's 'Country Roads' being played after all of their last ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-03T16:41:44.728557+00:00"
+    },
+    {
       "title": "Ex-Arsenal and Chelsea ace, 37, ‘receives shock transfer approach to play in new league and complete Big Five mission’",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39636415/aubameyang-marseille-genoa-transfer-transfer-news/",
@@ -39028,462 +39485,6 @@
       "summary": "At full strength, Canada can go toe-to-toe with any opponent in the Americas. After steady climbs up the Concacaf charts and a credible run to the 2024 Copa América semi-final, all hope was that a talented squad could find their stride at a home World Cup. That belief came to life on Thursday, as Je",
       "summary_cn": "",
       "fetched_at": "2026-06-19T01:50:43.427107+00:00"
-    },
-    {
-      "title": "Canada boss Jesse Marsch goes full Alan Pardew on the sidelines as his team make World Cup history",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39465247/canada-jesse-marsch-alan-pardew-world-cup-history/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T00:47:01+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Canada",
-        "boss",
-        "Jesse",
-        "Marsch",
-        "goes",
-        "full"
-      ],
-      "summary": "JESSE MARSCH guided Canada to their first-ever World Cup win - and was sensationally compared to Alan Pardew after busting some moves on the touchline. The tournament co-hosts notched a 6-0 victory over NINE-MAN Qatar in Vancouver. And former Leeds chief Marsch, 52, was spotted celebrating wildly wh",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T01:50:43.427107+00:00"
-    },
-    {
-      "title": "Emotional Jesse Marsch fights back tears in touching moment with Ismael Kone as Canada boss issues major health update",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39465714/jesse-marsch-tears-ismael-kone-canada-boss-health-update/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T00:43:17+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Emotional",
-        "Jesse",
-        "Marsch",
-        "fights",
-        "back",
-        "tears"
-      ],
-      "summary": "CANADA manager Jesse Marsch gave an emotional update on Ismael Kone after his horror injury. Sassuolo star Kone suffered a serious looking injury to his leg in Thursday's World Cup Group B win over Qatar. Kone, 24, was taken off on a stretcher just before the hour mark during the 6-0 win in Vancouve",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T01:50:43.427107+00:00"
-    },
-    {
-      "title": "Canada and Qatar in mass bust-up as World Cup clash descends into chaos at final whistle while ITV refuse to show scenes",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39465598/world-cup-canada-qatar-injury-kone/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T00:14:01+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Canada",
-        "Qatar",
-        "mass",
-        "bust",
-        "World",
-        "clash"
-      ],
-      "summary": "CANADA and Qatar's World Cup clash descended into chaos during a mass bust-up at the final whistle. The co-hosts dominated in a 6-0 thrashing during the Group B clash in Vancouver. ITV even refused to show the ugly scenes at the end, following an emotional match. Canada's thumping win was severely m",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T01:50:43.427107+00:00"
-    },
-    {
-      "title": "Presenter who falsely claimed Lionel Messi’s dad had died during World Cup QUITS and issues grovelling apology",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39465312/world-cup-lionel-messi-dad-florencia-pena/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T23:54:43+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Presenter",
-        "falsely",
-        "claimed",
-        "Lionel",
-        "Messi",
-        "died"
-      ],
-      "summary": "ARGENTINE TV presenter Florencia Pena has quit her role after falsely reporting that Lionel Messi's father Jorge had died. The 51-year-old made the claim about Jorge, 68, while working on Luzu TV's El Show del Verano in Argentina. Messi, 38, rolled back the years by scoring a brilliant hat-trick as ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T01:50:43.427107+00:00"
-    },
-    {
-      "title": "Tottenham complete £52m Van Hecke signing as De Zerbi focuses on defence",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-18T21:09:41+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Brighton",
-        "Tottenham",
-        "Spurs",
-        "complete",
-        "Hecke",
-        "signing"
-      ],
-      "summary": "Spurs bolster backline with third summer signing Defender reunited with former Brighton head coach Tottenham have completed their third signing of the summer after Jan Paul van Hecke joined from Brighton. Spurs made a move for Dutch international centre-back Van Hecke after a terrible 2025-26 campai",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Arsenal's first bid for Monga rejected - Friday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/c3ey5155309o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-18T21:44:35+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Everton",
-        "Leicester",
-        "Barry",
-        "first",
-        "Monga"
-      ],
-      "summary": "Arsenal's opening bid for Jeremy Monga rejected by Leicester, Gunners also preparing bid for Bradley Barcola, RB Leipzig make contact with Everton over Barry.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "‘Competing is everything’ – Thierry Henry reveals he took a pay cut to leave Arsenal",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39462115/thierry-henry-pay-cut-arsenal-barcelona-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T21:20:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Thierry Henry",
-        "Henry",
-        "Competing",
-        "everything",
-        "Thierry"
-      ],
-      "summary": "THIERRY HENRY has revealed he took a pay cut to leave Arsenal and join Barcelona. Gunners legend Henry departed the Emirates in the summer of 2007 and moved to Barca for a fee of £16million. And the Frenchman has now sensationally claimed he had his wages slashed to get the deal done. Henry - who...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "‘He’s still humble’ say fans as Cole Palmer takes Jet2 flight to Ibiza after England World Cup snub",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39463896/world-cup-cole-palmer-holiday/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T21:04:14+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Palmer",
-        "still",
-        "humble",
-        "fans",
-        "Cole"
-      ],
-      "summary": "COLE PALMER'S sister posted a picture of the Chelsea star on a Jet2 flight earlier today. And fans loved the humble star's response to being snubbed for the World Cup. Palmer, 24, did not make Thomas Tuchel's final 26-man squad despite scoring in the Euro 2024 final for the Three Lions. The Chelsea ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "England finally exorcise the Southgate era and unleash fun football | Barney Ronay",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-gareth-southgate-2026-world-cup-croatia",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-18T21:59:39+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Southgate",
-        "England",
-        "finally",
-        "exorcise",
-        "unleash",
-        "football"
-      ],
-      "summary": "You don’t win World Cups by running riot for 10 minutes in mid-June but this felt like the start of something new Walking away from Dallas Stadium, feet throbbing in the heat of the late-evening Texas tarmac, it was tempting to picture the scene inside England’s dressing room three hours earlier, th",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Granit Xhaka’s celebration explained after Sunderland star makes gesture following Switzerland World Cup goal",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39464624/granit-xhaka-celebration-explained-switzerland-bosnia-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T22:55:25+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Xhaka",
-        "Granit Xhaka",
-        "Granit",
-        "celebration",
-        "explained",
-        "Sunderland"
-      ],
-      "summary": "GRANIT XHAKA hit back at claims he is TOXIC by making a shock gesture while celebrating his goal in Switzerland's win over Bosnia and Herzegovina. The Sunderland skipper, 33, converted from the penalty spot as his side notched a 4-1 victory in Los Angeles. And Xhaka was spotted mimicking a talking m",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Laura Woods and ITV forced to abandon snazzy World Cup studio and move inside as weather wreaks havoc",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39464695/laura-woods-itv-world-cup-studio-weather/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T22:36:18+00:00",
-      "score": 26.0,
-      "keywords": [
-        "given",
-        "Laura",
-        "Woods",
-        "forced",
-        "abandon",
-        "snazzy"
-      ],
-      "summary": "LAURA WOODS and her ITV co-hosting team were forced to abandon their luxury New York studio on Thursday night. Their stunning set-up looking out over the Brooklyn skyline has gone viral in recent weeks, especially given its stark contrast to the BBC's set-up in Salford with the Beeb looking to save ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Portugal in crisis at World Cup as Cristiano Ronaldo’s sister backs attack on Bruno Fernandes",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39464347/world-cup-portugal-bruno-fernandes-ronaldo/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T22:36:10+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Bruno Fernandes",
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Fernandes",
-        "Portugal",
-        "crisis"
-      ],
-      "summary": "CRISTIANO RONALDO'S sister has liked an Instagram post criticising Bruno Fernandes. The Portugal stars were both in action as their country slumped to a 1-1 draw with DR Congo in their 2026 World Cup opener. Roberto Martinez's side had taken the lead via Joao Neves on six minutes only for Yoane Wiss",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Why is Alphonso Davies not playing for Canada against Qatar at the World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39392446/why-alphonso-davies-not-playing-world-cup-2026-canada/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T21:55:16+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Davies",
-        "Alphonso",
-        "playing",
-        "Canada",
-        "against",
-        "Qatar"
-      ],
-      "summary": "ALPHONSO DAVIES is one of the most talented Canadian footballers there is - but he is on the bench for Canada against Qatar at World Cup 2026. This comes as a huge blow to head coach Jesse Marsch, who was hoping that his captain would be able to feature in the second game. And SunSport...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Make Wonderwall England’s new World Cup anthem, demand fans following epic singalong with star players after Croatia win",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39462951/wonderwall-englands-new-world-cup-anthem/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T21:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Make",
-        "Wonderwall",
-        "England",
-        "World",
-        "anthem"
-      ],
-      "summary": "THE Sun today backs calls for Wonderwall to become England’s World Cup anthem after players sang along with fans chanting it out after the Croatia win. Harry Kane and Jude Bellingham were among the stars on the pitch joining the singalong to the Oasis classic with supporters following the dream star",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Papers: Liverpool target £86m star",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-18T23:05:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Papers",
-        "target",
-        "star"
-      ],
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "US Open: Full R2 groupings and tee times for Friday's second round",
-      "title_cn": "",
-      "url": "https://www.skysports.com/golf/news/12040/13555394/us-open-2026-tee-times-full-r2-groupings-and-uk-and-ireland-start-times-for-second-round-at-shinnecock-hills-in-new-york",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-18T22:35:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "Open",
-        "Full",
-        "groupings",
-        "times",
-        "Friday"
-      ],
-      "summary": "Groupings and tee times for the second round of the 126th US Open, held at Shinnecock Hills Golf Club in Southampton, New York.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Premier League fixtures released at 10:00 BST on Friday",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cde50edgw48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-18T21:51:28+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Premier",
-        "League",
-        "fixtures",
-        "released",
-        "Friday"
-      ],
-      "summary": "BBC Sport's Ask Me Anything team explains when the fixtures for the 2026-27 Premier League season are released.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Switzerland’s late surge overwhelms Bosnia and Herzegovina after Muharemovic red card",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/18/switzerland-bosnia-and-herzegovina-group-b-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-18T21:09:48+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Switzerland",
-        "late",
-        "surge",
-        "overwhelms",
-        "Bosnia"
-      ],
-      "summary": "The hype around Johan Manzambi will only heighten after his star turn from the substitutes’ bench helped Switzerland out of a hole and got their World Cup truly up and running. The 20-year-old managed to excel despite Freiburg’s comprehensive Europa League final defeat against Aston Villa last month",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Switzerland 4 Bosnia-Herzegovina 1: Swiss all-but book place in World Cup knockout stages after stunner and red card",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39463887/switzerland-bosnia-world-cup-match-report/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-18T21:18:55+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Nottingham Forest",
-        "Forest",
-        "Switzerland",
-        "Bosnia",
-        "Herzegovina",
-        "Swiss"
-      ],
-      "summary": "SUPER subs Johan Manzambi and Ruben Vargas climbed off the bench to fire Switzerland to victory against a resolute Bosnia and Herzegovina. The Swiss were in serious danger of being forced to settle for another draw after Nottingham Forest winger Dan Ndoye was guilty of missing a host of chances. But",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "West Indies edge out Scotland for seven-run win",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555547/t20-world-cup-west-indies-claim-seven-run-victory-over-scotland-in-thrilling-contest-at-headingley",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-18T22:23:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "West",
-        "Indies",
-        "edge",
-        "Scotland",
-        "seven"
-      ],
-      "summary": "The West Indies overcame Scotland by seven runs and stayed unbeaten at the Women's T20 World Cup after a madcap match at Headingley.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Super sub Manzambi helps Switzerland close on knockout stages with thumping win",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/switzerland-vs-bosnia-and-herzegovina/report/549791",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-18T22:15:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Super",
-        "Manzambi",
-        "helps",
-        "Switzerland",
-        "close",
-        "knockout"
-      ],
-      "summary": "Switzerland took a giant leap towards qualifying for the World Cup knockout stages with an emphatic 4-1 win over Bosnia-Herzegovina in Los Angeles.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Manzambi double propels Switzerland to win against Bosnia",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/videos/c8x2e857755o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-18T22:08:51+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Manzambi",
-        "double",
-        "propels",
-        "Switzerland",
-        "against",
-        "Bosnia"
-      ],
-      "summary": "Substitute Johan Manzambi scores twice in a thrilling final 20 minutes, as Switzerland beat Bosnia-Herzegovina 4-1 to edge towards a place in the World Cup round of 32.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
-    },
-    {
-      "title": "Switzerland's Manzambi scores superb double against Bosnia",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-18T21:10:52+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Switzerland",
-        "Manzambi",
-        "scores",
-        "superb",
-        "double",
-        "against"
-      ],
-      "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-18T22:59:36.366625+00:00"
     }
   ]
 }
