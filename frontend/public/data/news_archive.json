@@ -1,6 +1,284 @@
 {
   "items": [
     {
+      "title": "British GP: Hamilton goes for Silverstone Sprint win from pole LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13559567/f1-british-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-silverstone-race-weekend",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-04T10:53:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "British",
+        "Hamilton",
+        "goes",
+        "Silverstone",
+        "Sprint"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "Nations Championship LIVE! Ireland fall behind early vs Australia in Sydney",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13560197/nations-championship-live-australia-vs-ireland-south-africa-vs-england-updates-latest-score-team-news-commentary",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-04T10:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "Nations",
+        "Championship",
+        "LIVE",
+        "fall",
+        "behind"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-04T09:33:37+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Chris Sutton",
+        "Sutton",
+        "Brazil",
+        "going",
+        "Chris",
+        "predicts"
+      ],
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "World Cup’s sexiest fan Ivana Knoll in X-rated attack on Croatia vs Portugal ref over decision to send Ronaldo through",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39645241/ivana-knoll-x-rated-attack-croatia-ref-portugal-ronaldo/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-04T08:46:47+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "World",
+        "sexiest",
+        "Ivana",
+        "Knoll",
+        "rated"
+      ],
+      "summary": "CROATIA fan Ivana Knoll slammed the decision to rule out a late equaliser against Portugal - which resulted in the nation's World Cup exit. Portugal clinched a 2-1 win against their European rivals on Thursday night - but the victory was overshadowed by a controversial decision. In the 103rd minute,",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "England arrive in Mexico under heavy security",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13560344/world-cup-england-arrive-in-mexico-under-heavy-security",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-04T10:56:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "arrive",
+        "Mexico",
+        "under",
+        "heavy",
+        "security"
+      ],
+      "summary": "Watch England's World Cup squad arrive in Mexico City ahead of their last 16 tie against Mexico.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "England team booed on arrival at Mexico City hotel",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-04T08:33:11+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "team",
+        "booed",
+        "arrival",
+        "Mexico",
+        "City"
+      ],
+      "summary": "England are booed as they arrive at their Mexico City hotel to prepare for their World Cup last-16 game against Mexico.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "From one to 16 - ranking every team left in the World Cup",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd6elwx7eepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-04T09:55:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "ranking",
+        "every",
+        "team",
+        "left",
+        "World"
+      ],
+      "summary": "BBC Sport ranks the 16 teams left in the World Cup. Do Argentina deserve to be in the top three? Should Norway be higher? What about England's position?",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "Eight of the 10 most populous countries are not in the World Cup",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-04T09:09:18+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Eight",
+        "most",
+        "populous",
+        "countries",
+        "World"
+      ],
+      "summary": "Many countries with massive populations consistently miss out on football’s biggest party. What can they do to change their sporting fortunes?",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "'Celtic in fresh talks for Qarabag's Duran' - gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2vr8errgvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-04T08:46:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Celtic",
+        "fresh",
+        "talks",
+        "Qarabag",
+        "Duran",
+        "gossip"
+      ],
+      "summary": "Celtic are reportedly close to signing Qarabag forward Camilo Duran amid transfer speculation for Aberdeen, Dundee, Hearts, Rangers and St Mirren.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "World Cup 2026: England get hostile reception in Mexico City as last 16 begins; Cape Verde give huge scare to Argentina – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-04T09:56:30+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "England",
+        "hostile",
+        "reception",
+        "Mexico",
+        "City"
+      ],
+      "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Mail us Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups. Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself. Jonathan ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-04T09:00:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "power",
+        "rankings",
+        "undisputed",
+        "hosts",
+        "surge"
+      ],
+      "summary": "We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins Les Bleus look unstoppable – all six of our judges ranked them No 1. Sweden did their best to cope with the French front four but were blown away by the slickest operation in town. Even",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "Some Americans are reluctant to cheer for the US at the World Cup. They shouldn’t be | Alexander Abnos",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/04/some-americans-are-reluctant-to-cheer-for-the-us-at-the-world-cup-they-shouldnt-be",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-04T09:00:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Some",
+        "Americans",
+        "reluctant",
+        "cheer",
+        "World",
+        "shouldn"
+      ],
+      "summary": "There are plenty of reasons for Americans to feel discomfort about the behavior of their country. But sports have a way of bringing joy and unity The US men’s national team are on the verge of history. One win away from matching their best-ever run in the World Cup’s modern era, they are playing wit",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "England’s 1am kick-off vs Mexico still in doubt with Fifa chiefs set to meet today amid forecasts of thunderstorms",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39645748/england-1am-kick-off-mexico-fifa-meet-thunderstorms/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-04T10:16:22+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "kick",
+        "Mexico",
+        "still",
+        "doubt",
+        "Fifa"
+      ],
+      "summary": "FIFA chiefs are set to meet with local organisers in Mexico City today as England’s World Cup clash with Mexico remains under threat from thunderstorms. The Three Lions are due to face the co-hosts at the Azteca Stadium in the last 16 in a brutal 1am UK kick-off on Monday morning. England fans watch",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
+      "title": "Huge World Cup clash facing threat of cancellation as experts warn extreme heat of up to 46C puts players lives at risk",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39645132/world-cup-cancellation-experts-heat-france-england-paraguay/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-04T09:30:35+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Huge",
+        "World",
+        "clash",
+        "facing",
+        "threat",
+        "cancellation"
+      ],
+      "summary": "FRANCE’S World Cup clash against Paraguay could be cancelled following amid safety fears over the extreme heat. The temperature is set to climb above 38 degrees for the Philadelphia last 16 fixture on Saturday.&nbsp; Humidity is an added factor as the \"feels like\" temperature around the open-air sta",
+      "summary_cn": "",
+      "fetched_at": "2026-07-04T10:20:27.197338+00:00"
+    },
+    {
       "title": "Jürgen Klopp holds Germany talks: ‘I’m more than recharged, I’m ready’",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/jul/04/jurgen-klopp-germany-talks-recharged-ready",
@@ -39213,286 +39491,6 @@
         "Adams"
       ],
       "summary": "⚽️ World Cup kick-off: 6pm local time/11pm BST/8am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email John Scotland: Gunn, Hanley, Hendry, Tierney, Patterson, McTominay, Ferguson, Robertson, McGinn, Christie, Adams. Subs: Kelly, Gordon, Hickey, Fletcher, Dykes, Stewart, Souttar, Hyam, Doak, H",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "BBC mocked as eagle-eyed fans spot World Cup city’s skyline has been EDITED to add bizarre feature during broadcast",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39475738/bbc-mocked-world-cup-houston-skyline-mountains/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T20:47:49+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Wayne Rooney",
-        "Giroud",
-        "Olivier Giroud",
-        "Rooney",
-        "mocked",
-        "eagle"
-      ],
-      "summary": "THE BBC has been mocked after mountains were bizarrely added to the Houston skyline during their World Cup coverage. The broadcaster showed Portugal's shock stalemate with DR Congo earlier this week. And presenter Mark Chapman was joined by England legend Wayne Rooney, along with Olivier Giroud and ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Granit Xhaka hailed by Switzerland boss after decisive World Cup display having been labelled ‘toxic’ after opener",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39471570/granit-xhaka-toxic-controversy-world-cup-switzerland/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T20:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Granit Xhaka",
-        "Xhaka",
-        "Granit",
-        "hailed",
-        "Switzerland",
-        "boss"
-      ],
-      "summary": "GRANIT XHAKA is no stranger to controversy, which is probably why he always seems to shake it off with ease. The 33-year-old silenced critics once again on Thursday night when he put in a captain’s performance as Switzerland blew away Bosnia and Herzegovina 4-1 in Los Angeles. Xhaka faced a slew of ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Fox pundit ‘leaves’ studio during World Cup as Zlatan Ibrahimovic says ‘America, you’re welcome’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39476162/fox-world-cup-zlatan-ibrahimovic-alexi-lalas/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T19:51:42+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Thierry Henry",
-        "Henry",
-        "pundit",
-        "leaves",
-        "studio",
-        "during"
-      ],
-      "summary": "FOX World Cup viewers were surprised to see Alexi Lalas not on their screens for the start of Friday's coverage. And Zlatan Ibrahimovic cheekily told fans, \"America, you're welcome.\" Lalas was not part of the World Cup studio team with Rebecca Lowe, Thierry Henry, and Ibrahimovic as he had previousl",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Brighton make improved offer for Spurs' Vuskovic",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13555941/luka-vuskovic-brighton-make-improved-45m-bid-for-tottenham-defender",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-19T21:16:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Tottenham",
-        "Spurs",
-        "make",
-        "improved",
-        "offer"
-      ],
-      "summary": "Brighton have made an improved offer to Tottenham Hotspur for centre-back Luka Vuskovic.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Spurs to enter Wharton chase - Saturday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-19T19:56:42+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Fulham",
-        "Liverpool",
-        "Tottenham",
-        "Spurs",
-        "enter",
-        "Wharton"
-      ],
-      "summary": "Tottenham are the latest club interested in Adam Wharton, Liverpool are yet to agree a deal for Yan Diomande, Fulham fail with their opening bid for Chibuike Nwaiwu, plus more.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Fifa makes subtle change to way World Cup tables work for first time – and it means one team has already WON its group",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39476267/fifa-world-cup-rule-change-england-mexico/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T20:18:09+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Fifa",
-        "makes",
-        "subtle",
-        "change",
-        "World",
-        "tables"
-      ],
-      "summary": "ENGLAND can seal top place in World Cup Group L with a match to spare on Tuesday - after Fifa changed the World Cup rules. Unlike Uefa, who have always put the direct results between teams that finish level on points first, Fifa has previously deployed overall goal difference in a group as the first",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "World Cup host city rocked by life-threatening flash floods days before hosting Lionel Messi and Argentina team-mates",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39475427/world-cup-city-rocked-flash-floods-before-messi/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T19:26:28+00:00",
-      "score": 25.0,
-      "keywords": [
-        "World",
-        "host",
-        "city",
-        "rocked",
-        "life",
-        "threatening"
-      ],
-      "summary": "DALLAS has been smashed with life-threatening floods just days before Lionel Messi and world champions Argentina pay a visit. Serious flooding hit the Dallas-Fort Worth area on Friday morning, with all 59 of Dallas Fire-Rescue's fire engines being deployed for vehicle-water calls. A \"critical\" weath",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Janse van Rensburg makes debut as England fall to France in non-cap international",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13555917/france-35-19-england-benhard-janse-van-rensburg-makes-debut-for-uncapped-xv-as-costly-errors-lead-to-defeat",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-19T19:44:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Janse",
-        "Rensburg",
-        "makes",
-        "debut",
-        "England",
-        "fall"
-      ],
-      "summary": "Benhard Janse van Rensburg&#8217;s hopes of a try-scoring England debut were dashed by fumbling hands as France emerged conclusive 35-19 winners in their non-cap international in Vannes.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "USA vs Australia World Cup clash delayed as REFEREE goes down with cramp then swigs emergency pickle juice",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39477008/usa-australia-world-cup-referee-felix-zwayer-cramp/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T21:10:24+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Australia",
-        "World",
-        "clash",
-        "delayed",
-        "REFEREE",
-        "goes"
-      ],
-      "summary": "THERE were shock scenes in the closing stages of USA's World Cup showdown with Australia after ref Felix Zwayer went down with CRAMP. The tournament co-hosts made it back-to-back wins by sealing a 2-0 victory in Seattle. But those in the stands were stunned when Zwayer, 45, needed treatment during s",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Algeria file complaint over refereeing after Lionel Messi escaped red card for STAMP on World Cup rival’s calf",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39476748/algeria-complaint-lionel-messi-referee-world-cup-argentina/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T21:04:52+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Algeria",
-        "file",
-        "complaint",
-        "refereeing",
-        "Lionel",
-        "Messi"
-      ],
-      "summary": "ALGERIA have lodged a complaint over alleged poor refereeing to Fifa in their defeat to Argentina. The African nation were beaten 3-0 by the holders this week in the opening game of Group J. Lionel Messi stole the show with a hat-trick - but only after he escaped a red card for standing on Aissa...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "USA 2 Australia 0: Red-hot USMNT seal World Cup knockout stage spot with own-goal and Alex Freeman header",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39477059/usa-australia-world-cup-match-report/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T21:04:23+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Australia",
-        "USMNT",
-        "seal",
-        "World",
-        "knockout",
-        "stage"
-      ],
-      "summary": "USA booked a place in the World Cup knockout rounds with a game to spare. Mauricio Pochettino's red-hot United States Men's National Team swept past Australia on Friday afternoon in Seattle. An own-goal from Cameron Burgess and a first-half header by Alex Freeman made it two wins from two for the US",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Former EFL club hit out at Fifa after England World Cup flag is BANNED over tiny detail on their badge",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39475946/efl-club-submarine-fifa-england-flag-banned-barrow-afc/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T20:43:03+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Former",
-        "club",
-        "Fifa",
-        "England",
-        "World",
-        "flag"
-      ],
-      "summary": "BARROW AFC have had a pop at Fifa after one of their fans was denied entry to an England game because of the club's badge. John Little attempted to bring his St George's flag, which contains the club badge in the top-left corner, to England's clash against Croatia, but wasn't allowed. The flag was f",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "Ronaldinho, 46, comes out of retirement to sign for Italian club in shock transfer during World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39476543/ronaldinho-retirement-sign-ravenna-shock-transfer-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T20:40:10+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Ronaldinho",
-        "comes",
-        "retirement",
-        "sign",
-        "Italian",
-        "club"
-      ],
-      "summary": "WORLD CUP icon Ronaldinho has sensationally come out of retirement - and joined Italian minnows Ravenna. The Brazilian, 46, brought the curtain down on his trophy-laden career after a brief spell with Fluminense in 2015. But Ronaldinho, who will not be lacing up his boots, has agreed a shock deal wi",
-      "summary_cn": "",
-      "fetched_at": "2026-06-19T21:15:09.694265+00:00"
-    },
-    {
-      "title": "‘The sight I want to see’ – NBA star’s stunning Wag steals show at USA’s World Cup clash against Australia",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39476205/nba-wag-world-cup-usa-zach-lavine-hunter-lavine/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-19T20:34:45+00:00",
-      "score": 20.0,
-      "keywords": [
-        "sight",
-        "want",
-        "star",
-        "stunning",
-        "steals",
-        "show"
-      ],
-      "summary": "NBA star Zach LaVine has been spotted watching the USA's World Cup win over Australia alongside his stunning wife Hunter LaVine. The Sacramento Kings guard sat next to his glamorous partner, who wore a striking red dress that caused a total fan frenzy. High school sweethearts Zach and Hunter have be",
       "summary_cn": "",
       "fetched_at": "2026-06-19T21:15:09.694265+00:00"
     }
