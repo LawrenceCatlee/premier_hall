@@ -1,212 +1,79 @@
 {
-  "updated_at": "2026-07-08T21:17:23.814986+00:00",
+  "updated_at": "2026-07-08T23:17:20.467531+00:00",
   "items": [
     {
-      "title": "Henderson not ruled out of World Cup despite breaking arm",
+      "title": "‘The game is gone’ – Fans rage as full line-up for World Cup final half-time show is revealed",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.thesun.co.uk/sport/39695382/world-cup-final-half-time-show-justin-bieber/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-08T22:04:54+00:00",
+      "score": 28.0,
+      "keywords": [
+        "game",
+        "gone",
+        "Fans",
+        "rage",
+        "full",
+        "line"
+      ],
+      "summary": "WORLD CUP fans were not bowled over by the latest addition to the final's half-time show. Organisers had already announced Madonna, Shakira and BTS as their co-headline acts. But Justin Bieber will also be part of the 11-minute spectacle scheduled slap bang in the middle of the New Jersey finale on ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chris Sutton's World Cup quarter-final predictions",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-08T20:13:54+00:00",
-      "score": 34.0,
+      "published": "2026-07-08T22:34:48+00:00",
+      "score": 26.0,
       "keywords": [
-        "Jordan Henderson",
-        "Henderson",
-        "ruled",
+        "Sutton",
+        "Chris Sutton",
+        "Chris",
         "World",
-        "despite",
-        "breaking"
+        "quarter",
+        "final"
       ],
-      "summary": "Jordan Henderson has not been ruled out of playing for England again during the World Cup despite undergoing surgery on a broken arm.",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway.",
       "summary_cn": ""
     },
     {
-      "title": "England fans set to finally get BANK HOLIDAY if Three Lions win World Cup as No10 draws up plans",
+      "title": "Do World Cup 2026 quarter-final ties go to extra-time or straight to penalties if a draw after 90 minutes?",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39693904/england-fans-bank-holiday-three-lions-win-world-cup/",
+      "url": "https://www.thesun.co.uk/sport/39573504/world-cup-2026-quarter-final-extra-time-penalties/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-08T21:00:08+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Harry Kane",
-        "England",
-        "fans",
-        "finally",
-        "BANK",
-        "HOLIDAY"
-      ],
-      "summary": "ENGLAND will bag an historic Bank Holiday if the Three Lions lift the World Cup, Sir Keir Starmer signalled today. The PM all-but confirmed the nation will get an extra day off if Harry Kane’s boys bring football home. No10 are understood to be planning for a bunk-off bonanza on Friday 24 to tie in.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Newcastle captain Guimaraes tells club he wants to join Arsenal",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13561780/bruno-guimaraes-transfer-news-newcastle-captain-tells-club-he-wants-to-join-arsenal-after-world-cup-exit-with-brazil",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-08T20:09:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "captain",
-        "Guimaraes",
-        "tells",
-        "club"
-      ],
-      "summary": "Newcastle captain Bruno Guimaraes has told the club he wants to join Arsenal, it has been confirmed to Sky Sports News .",
-      "summary_cn": ""
-    },
-    {
-      "title": "Rashford dilemma for Man Utd - Thursday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eykl8751vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-08T20:58:59+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester United",
-        "Tottenham",
-        "Bournemouth",
-        "Man Utd",
-        "Antonio"
-      ],
-      "summary": "Manchester United are in a quandary over Marcus Rashford's future, Arsenal and Tottenham eye Antonio Nusa, Barcelona shortlist Bournemouth's Eli Junior Kroupi, plus more.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Fenerbahce confident of Greenwood deal",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24yjpggq13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-08T19:55:15+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Green",
-        "Fenerbahce",
-        "confident",
-        "Greenwood",
-        "deal"
-      ],
-      "summary": "Fenerbahce are growing increasingly confident of signing Mason Greenwood from Marseille.",
-      "summary_cn": ""
-    },
-    {
-      "title": "FAI motion to continue with Israel games passed at EGM",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8x2nk7g485o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-08T20:26:49+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "motion",
-        "continue",
-        "Israel",
-        "games",
-        "passed"
-      ],
-      "summary": "The Football Association of Ireland's (FAI) General Assembly endorses a motion for Republic of Ireland to go ahead with their upcoming Nations League fixtures against Israel.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Three England stars miss training ahead of Norway World Cup clash with key man touch and go due to injury",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39694567/england-training-kansas-city-norway-world-cup-miami/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-08T19:38:48+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Declan Rice",
-        "James",
-        "England",
-        "stars",
-        "miss",
-        "training"
-      ],
-      "summary": "THREE England players missed training today ahead of Saturday’s World Cup quarter-final. Declan Rice, Marc Guehi and Reece James sat out the session at the Swope Soccer Village and worked on their own. Rice has struggled with a hamstring issue since Christmas, but he is still expected to face Norway",
-      "summary_cn": ""
-    },
-    {
-      "title": "World Cup ticket prices fall dramatically by more than half after USA’s elimination with Belgium defeat",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39694586/world-cup-ticket-prices-fall-usa-elimination-belgium/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-08T19:24:36+00:00",
+      "published": "2026-07-08T21:17:32+00:00",
       "score": 26.0,
       "keywords": [
         "matic",
         "World",
-        "ticket",
-        "prices",
-        "fall",
-        "dramatically"
+        "quarter",
+        "final",
+        "ties",
+        "extra"
       ],
-      "summary": "WORLD Cup ticket prices have dropped a massive amount after the USMNT's brutal Round of 16 loss to Belgium. The get-in price for Friday's World Cup quarterfinal match between Spain and Belgium has plunged. Tickets for the matchup in Los Angeles have dropped by more than half on resale markets follow",
+      "summary": "THE World Cup is heading for a dramatic climax in North America! Just eight nations remain in the hunt for global glory as the quarter-finals arrive. France, Spain, England and Argentina were among the pre-tournament favourites and are still major contenders. As the knockout stages progress, fans wa",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal on alert after Bruno Guimarães tells Newcastle he wants to leave",
+      "title": "Mexico start Márquez era on 'strong foundation'",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/08/arsenal-on-alert-after-bruno-guimaraes-tells-newcastle-he-wants-to-leave",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-08T20:22:34+00:00",
-      "score": 25.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49309364/mexico-start-rafa-marquez-strong-foundation-javier-aguirre-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-08T23:41:00+00:00",
+      "score": 24.0,
       "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "alert",
-        "Bruno",
-        "tells",
-        "wants"
+        "Rafael",
+        "Mexico",
+        "start",
+        "strong",
+        "foundation"
       ],
-      "summary": "Champions believed to be preparing £60m offer Fresh blow for Newcastle after loss of Gordon and Tonali Arsenal are ready to step up their interest in Bruno Guimarães, after the Brazil midfielder informed Newcastle that he wants to join the Premier League champions. Guimarães, who missed a penalty in",
-      "summary_cn": ""
-    },
-    {
-      "title": "Former Premier League star retires aged just 32 to start business career",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39694774/premier-league-duncan-watmore-retires-sunderland-middlesbrough-millwall-rotherham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-08T20:49:18+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Former",
-        "Premier",
-        "League",
-        "star",
-        "retires",
-        "aged"
-      ],
-      "summary": "A THREE-TIME Premier League goal scorer has packed in his football career at the age of 32. The versatile forward played in League One with Rotherham last season and had multiple offers to continue playing. But former Sunderland, Middlesbrough and Millwall star Duncan Watmore has decided that now is",
-      "summary_cn": ""
-    },
-    {
-      "title": "Woman who ‘tried to sextort owner of Aston Villa for £900million’ also ‘scammed two other men’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39694638/woman-tried-sextort-aston-villa-owner-scammed-men/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-08T20:12:54+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Woman",
-        "tried",
-        "sextort",
-        "owner",
-        "Aston"
-      ],
-      "summary": "THE woman who allegedly tried to sextort the owner of Aston Villa FC for £900million allegedly scammed two other men. Sophia Luo is accused of charging a second man’s credit card for $4,000 and used a credit card, debit card and driver’s license of a third victim She is facing tougher charges in rel",
+      "summary": "The Mexican Football Federation announced Wednesday that Rafael Márquez is taking the reins as Javier Aguirre's successor to lead the team up to the 2030 World Cup.",
       "summary_cn": ""
     },
     {
@@ -229,29 +96,12 @@
       "summary_cn": ""
     },
     {
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-08T19:44:02+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Premiership",
-        "club",
-        "brought",
-        "summer"
-      ],
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "summary_cn": ""
-    },
-    {
       "title": "White House’s World Cup head defends Trump lobbying Fifa over red card",
       "title_cn": "",
       "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-07-08T19:56:32+00:00",
+      "published": "2026-07-08T22:20:18+00:00",
       "score": 20.0,
       "keywords": [
         "White",
@@ -265,78 +115,22 @@
       "summary_cn": ""
     },
     {
-      "title": "EFL examines Sheffield United over claim owners trying to avoid paying full purchase price",
+      "title": "FBI investigators ‘probe Argentina Football over money laundering claims for hundreds of millions of dollars’",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/08/efl-sheffield-united-owners-payment-prince-abdullah-coh-sports-1919-partners-investigation",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-08T19:42:57+00:00",
-      "score": 20.0,
-      "keywords": [
-        "examines",
-        "Sheffield",
-        "United",
-        "claim",
-        "owners",
-        "trying"
-      ],
-      "summary": "Prince Abdullah asserts he is still owed £35m Shares allegedly transferred to new company The English Football League is investigating allegations that Sheffield United’s owner, the American investment group COH Sports, has formed a new parent company for the club to avoid paying £35m owed to the pr",
-      "summary_cn": ""
-    },
-    {
-      "title": "Norway black out training after just 15 minutes as England’s World Cup opponents take extreme anti-spying measures",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39694614/norway-england-world-cup-spying-training-blackout/",
+      "url": "https://www.thesun.co.uk/sport/39695410/fbi-probes-argentina-football-money-laundering-claims/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-08T20:48:18+00:00",
+      "published": "2026-07-08T22:59:24+00:00",
       "score": 20.0,
       "keywords": [
-        "Norway",
-        "black",
-        "training",
-        "minutes",
-        "England",
-        "World"
+        "investigators",
+        "probe",
+        "Argentina",
+        "Football",
+        "money",
+        "laundering"
       ],
-      "summary": "NORWAY made absolutely sure there would be no Spygate from English journalists at their training session. Stale Solbakken's side went out for practice at the Inter Miami stadium in Fort Lauderdale for the first time on Wednesday ahead of Saturday's World Cup quarter-final with England. The first 15 ",
-      "summary_cn": ""
-    },
-    {
-      "title": "FIFA suspended 2 U.S. officials for Belgium game",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49299468/fifa-suspended-usa-soccer-staff-members-belgium",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-08T19:47:57+00:00",
-      "score": 18.0,
-      "keywords": [
-        "FIFA",
-        "suspended",
-        "officials",
-        "Belgium",
-        "game"
-      ],
-      "summary": "Two staff members of the United States men's soccer team were suspended by FIFA from Monday's round-of-16 game against Belgium.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Sources: Portugal eye Jorge Jesus for head coach",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49305287/portugal-jorge-jesus-roberto-martinez",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-08T20:20:24+00:00",
-      "score": 16.0,
-      "keywords": [
-        "Jesus",
-        "Sources",
-        "Portugal",
-        "Jorge",
-        "head",
-        "coach"
-      ],
-      "summary": "Portugal's Football Federation hope to announce Roberto Martinez's successor by the end of the week, with veteran coach Jorge Jesus the leading candidate to take over the national team.",
+      "summary": "THE FBI is reportedly probing Argentina’s football bosses over claims hundreds of millions of dollars in sponsorship money were laundered through US banks. Prosecutors are examining whether cash linked to the Argentine Football Association (AFA) was moved through American banks in a way that could a",
       "summary_cn": ""
     },
     {
@@ -345,7 +139,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-08T20:20:24+00:00",
+      "published": "2026-07-08T23:41:00+00:00",
       "score": 16.0,
       "keywords": [
         "given",
@@ -364,7 +158,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49307337/man-united-agree-50m-deal-sign-chelsea-midfielder-andrey-santos-sources",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-08T19:47:58+00:00",
+      "published": "2026-07-08T23:41:00+00:00",
       "score": 15.0,
       "keywords": [
         "Chelsea",
@@ -378,12 +172,30 @@
       "summary_cn": ""
     },
     {
+      "title": "Sources: Arsenal to step up Guimarães interest",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49309510/arsenal-bruno-guimaraes-newcastle-united-brazil-transfer",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-08T23:41:00+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Arsenal",
+        "Newcastle",
+        "Sources",
+        "step",
+        "interest"
+      ],
+      "summary": "Arsenal are set to step up their interest in Bruno Guimarães after receiving encouragement that the midfielder wants to join them but agreeing a fee with Newcastle remains a significant stumbling block, sources told ESPN.",
+      "summary_cn": ""
+    },
+    {
       "title": "Amorim: I made 'mistakes' as Man United boss",
       "title_cn": "",
       "url": "https://www.espn.com/soccer/story/_/id/49307048/ruben-amorim-made-mistakes-manchester-united-ac-milan",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-08T19:47:58+00:00",
+      "published": "2026-07-08T23:41:00+00:00",
       "score": 15.0,
       "keywords": [
         "Manchester United",
@@ -397,31 +209,12 @@
       "summary_cn": ""
     },
     {
-      "title": "Marcotti's Mini World Cup Musings: Messi is supern...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49307058/gabriele-marcotti-mini-world-cup-musings-lionel-messi-supernatural-usmnt-get-reality-check",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-08T19:48:07+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Marcotti",
-        "Mini",
-        "World",
-        "Musings",
-        "Messi",
-        "supern"
-      ],
-      "summary": "After 28 days of games, Wednesday is the first rest day of the 2026 World Cup: the perfect opportunity to reflect on four weeks of fabulous football.",
-      "summary_cn": ""
-    },
-    {
       "title": "Egypt FA: Can't be silent on Argentina referee cal...",
       "title_cn": "",
       "url": "https://www.espn.com/soccer/story/_/id/49305559/egypt-argentina-world-cup-2026-referee-var-knockout",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-08T20:20:24+00:00",
+      "published": "2026-07-08T23:41:00+00:00",
       "score": 10.0,
       "keywords": [
         "Egypt",
@@ -438,7 +231,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49301831/eu-lawmakers-want-gianni-infantino-investigated-trump-contact",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-08T20:20:24+00:00",
+      "published": "2026-07-08T23:41:00+00:00",
       "score": 10.0,
       "keywords": [
         "lawmakers",
@@ -447,41 +240,6 @@
         "Infantino"
       ],
       "summary": "Dozens of European lawmakers are gathering support to launch an investigation in the European Parliament of FIFA boss Gianni Infantino over his involvement in the decision to permit U.S. striker Folarin Balogun to play despite an earlier red card.",
-      "summary_cn": ""
-    },
-    {
-      "title": "World Cup Daily live: Tournament's 3,000th goal on...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-08T19:42:45+00:00",
-      "score": 10.0,
-      "keywords": [
-        "World",
-        "Daily",
-        "live",
-        "Tournament",
-        "goal"
-      ],
-      "summary": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "After rejecting France, Bouaddi can end their Worl...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-08T19:42:45+00:00",
-      "score": 10.0,
-      "keywords": [
-        "rejecting",
-        "France",
-        "Bouaddi",
-        "Worl"
-      ],
-      "summary": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
       "summary_cn": ""
     },
     {
