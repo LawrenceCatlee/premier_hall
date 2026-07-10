@@ -1,42 +1,563 @@
 {
-  "updated_at": "2026-07-10T04:59:49.587380+00:00",
+  "updated_at": "2026-07-10T08:33:16.586863+00:00",
   "items": [
     {
-      "title": "‘What could have been’ – Liverpool fans emotional over video of Kylian Mbappe with Jurgen Klopp after failed transfer",
+      "title": "Where was Erling Haaland born? How he ended up playing for Norway despite being born in England",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39709839/liverpool-kylian-mbappe-jurgen-klopp-failed-transfer/",
+      "url": "https://www.thesun.co.uk/sport/39675891/where-was-erling-haaland-born-play-for-england/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-10T04:58:59+00:00",
-      "score": 25.0,
+      "published": "2026-07-10T07:14:34+00:00",
+      "score": 31.0,
       "keywords": [
-        "Liverpool",
-        "fans",
-        "emotional",
-        "video",
-        "Kylian",
-        "Mbappe"
+        "Manchester City",
+        "Erling Haaland",
+        "Haaland",
+        "Erling",
+        "born",
+        "ended"
       ],
-      "summary": "FORMER Liverpool chief Jurgen Klopp has left fans shellshocked - after being spotted celebrating with ex-Anfield transfer target Kylian Mbappe. The French superstar, 27, spearheaded his country into the World Cup semi-finals with a stunning opener in a 2-0 win over Morocco last night. Videos showed ",
+      "summary": "IT'S the ultimate footballing \"what if\" that leaves England fans weeping into their pints. As Erling Haaland tears up world football, fresh off a blistering two-goal masterclass to dump Brazil out of the 2026 World Cup, the disheartening reality hits home. The Manchester City and Norway GOAT could h",
       "summary_cn": ""
     },
     {
-      "title": "Belgium take strength from ‘millions and millions’ of new fans before Spain clash",
+      "title": "Spain vs Belgium preview: Betting tips, predictions, odds and free bets (World Cup, quarter-finals)",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/10/belgium-rudi-garcia-world-cup-quarter-final-spain",
+      "url": "https://www.thesun.co.uk/sport/39678090/spain-belgium-preview-world-cup-betting-tips-odds/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T07:00:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Spain",
+        "Belgium",
+        "preview",
+        "Betting",
+        "tips",
+        "predictions"
+      ],
+      "summary": "THE second quarter-final of this World Cup has all the makings of a classic with Spain set to face Belgium in Los Angeles. SunSport’s betting experts have previewed this all-European tie and selected the best betting tips, odds and exclusive sign-up bonuses from our leading bookmaker partners. New c",
+      "summary_cn": ""
+    },
+    {
+      "title": "Norway vs England tactical dossier: England must impose themselves - not just stop Haaland",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13560879/norway-vs-england-tactical-dossier-how-thomas-tuchels-side-can-stop-erling-haaland-and-reach-the-world-cup-semi-finals",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T09:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Haaland",
+        "Norway",
+        "England",
+        "tactical",
+        "dossier",
+        "must"
+      ],
+      "summary": "What tactical nuances could decide Norway vs England in Saturday&#8217;s World Cup quarter-final in Miami? Our tactical dossier breaks down the key head-to-head clashes, threats and advantages facing Thomas Tuchel&#8217;s side.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Norway vs England tactical dossier: England must impose themselves - not just stop Haaland",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12016/13560879/norway-vs-england-tactical-dossier-how-thomas-tuchel-s-side-can-stop-erling-haaland-and-reach-the-world-cup-semi-finals",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T09:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Haaland",
+        "Norway",
+        "England",
+        "tactical",
+        "dossier",
+        "must"
+      ],
+      "summary": "What tactical nuances could decide Norway vs England in Saturday&#8217;s World Cup quarter-final in Miami? Our tactical dossier breaks down the key head-to-head clashes, threats and advantages facing Thomas Tuchel&#8217;s side.",
+      "summary_cn": ""
+    },
+    {
+      "title": "The boxing charity using Wimbledon to change young people's lives",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13562173/carneys-community-the-boxing-charity-using-the-wimbledon-championships-to-change-young-peoples-lives",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T07:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "young",
+        "boxing",
+        "charity",
+        "using",
+        "Wimbledon",
+        "change"
+      ],
+      "summary": "Carney&#8217;s Community works in a different world to the Wimbledon Championships.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Football Daily",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ns8dyr?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T07:34:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "march",
+        "Football",
+        "Daily"
+      ],
+      "summary": "France march on into the semi-finals. Can anyone stop them?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Haaland and Bellingham: Dortmund friends taking centre stage in Norway v England battle",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/10/haaland-bellingham-dortmund-friends-centre-stage-norway-v-england-battle-world-cup-2026",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-07-10T04:18:50+00:00",
+      "published": "2026-07-10T07:00:15+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Haaland",
+        "Bellingham",
+        "Dortmund",
+        "friends",
+        "taking",
+        "centre"
+      ],
+      "summary": "The attacking players spent two years together at BVB, forming a friendship on their way to the very top This World Cup has been about the biggest names from the beginning but as Miami welcomes back its new favourite sporting pleasure on Saturday night, the man in with a shout of the Ballon d’Or pro",
+      "summary_cn": ""
+    },
+    {
+      "title": "France maul meek Morocco to reach semi-finals | World Cup Daily – video",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/video/2026/jul/10/france-maul-meek-morocco-to-reach-semi-finals-world-cup-daily-video",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-10T08:10:41+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Barry",
+        "France",
+        "maul",
+        "meek",
+        "Morocco",
+        "reach"
+      ],
+      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin and Philippe Auclair as France comfortably beat Morocco 2-0 to become the first team to book their place in the World Cup semi-finals Continue reading...",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘The foot is on the gas’ – England No2 Anthony Barry convinced Three Lions ready to unleash hell on opponents",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710433/england-anthony-barry-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T08:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Barry",
+        "foot",
+        "England",
+        "Anthony",
+        "convinced",
+        "Lions"
+      ],
+      "summary": "ANTHONY BARRY reckons England are ready to move into top gear - if they take off the handbrake. Thomas Tuchel’s No2 has watched the Three Lions impress in spells at this World Cup, without putting in a complete performance. But ahead of Saturday's quarter-final against Norway, the assistant coach is",
+      "summary_cn": ""
+    },
+    {
+      "title": "Courtois’ stunning wife soaks up sun in bikini and gives fans an eyeful as they call World Cup Wag ‘most beautiful’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710027/thibaut-courtois-wife-mishel-gerzig-bikini-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T07:11:59+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Courtois",
+        "THIBAUT COURTOIS",
+        "stunning",
+        "wife",
+        "soaks",
+        "bikini"
+      ],
+      "summary": "THIBAUT COURTOIS' wag Mishel Gerzig soaked up the sun in a bikini while taking some time off during the World Cup in Los Angeles. The Israeli model, 29, has been in the US to watch Courtois and Belgium, who beat the USA to book a World Cup quarter-final spot. Mishel was in the stands to...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Cape Verde hero Vozinha linked with shock transfer to join Lionel Messi after shooting to fame at World Cup",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710139/vozinha-lionel-messi-shock-transfer-inter-miami-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T07:11:16+00:00",
+      "score": 26.0,
+      "keywords": [
+        "David Beckham",
+        "Beckham",
+        "Cape",
+        "Verde",
+        "hero",
+        "Vozinha"
+      ],
+      "summary": "ONE of the surprise stars of the World Cup has done enough to convince David Beckham he should head to Inter Miami. The 40-year-old Cape Verde goalkeeper, Vozinha, is set to join forces with Lionel Messi, the man who dumped him out of the World Cup, on a free transfer. The veteran stopper amassed a.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Unseen moment Cristian Romero celebrated in Salah’s face shows Argentina wrong’un is World Cup’s most unlikeable player",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710052/world-cup-argentina-cristian-romero-mohamed-salah/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T06:50:28+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Salah",
+        "Unseen",
+        "moment",
+        "Cristian",
+        "Romero",
+        "celebrated"
+      ],
+      "summary": "IT SHOULD come as no surprise that, once again, Argentina are at the heart of another World Cup controversy. After all, they are the great pantomime villains of the game, the masters of the dark arts who have been boiling the urine of fans around the globe for half a century. Let’s be clear, though.",
+      "summary_cn": ""
+    },
+    {
+      "title": "England latest: Who should replace Guehi?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T07:35:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "England",
+        "latest",
+        "replace",
+        "Guehi"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea’s unreleased away kit on sale in USA as fans say ‘looks like a Dortmund jersey’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710452/chelsea-unreleased-away-kit-sale-fans-slam/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T07:52:31+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "unreleased",
+        "away",
+        "sale",
+        "fans",
+        "looks"
+      ],
+      "summary": "CHELSEA'S unreleased third kit for next season has appeared in shops in the US. The club have gone for a black and yellow number, but no sponsor appears on the front again. Nike have made the kit and a price tag reveals it is on sale for $90, which is about £67. With the new...",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Arms race’ – Chelsea legend reveals why Mbappe and Messi stick with ‘stutter’ pens despite shocking conversion rate",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710070/chelsea-pat-nevin-kylian-mbappe-lionel-messi-penalties/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T07:17:03+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Arms",
+        "race",
+        "legend",
+        "reveals",
+        "Mbappe"
+      ],
+      "summary": "CHELSEA legend Pat Nevin reckons Kylian Mbappe will not change his penalty taking routine despite fluffing his lines against Morocco. France booked their place in the World Cup semi-finals with a 2-0 win even though their skipper, 27, had a first half spot-kick saved by Yassine Bounou. It came just ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Guehi a serious doubt for quarter-final",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T07:20:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Belgium",
-        "take",
-        "strength",
-        "millions",
-        "fans",
-        "Spain"
+        "Guehi",
+        "serious",
+        "doubt",
+        "quarter",
+        "final"
       ],
-      "summary": "Rudi Garcia says his team can benefit from Balogun red card saga ‘Everyone is talking about us going home but we can do it,’ coach says Rudi Garcia has claimed that Belgium have got “millions and millions” of new supporters after Donald Trump lobbied Fifa to overturn Folarin Balogun’s red card ahead",
+      "summary": "Marc Guehi is a serious doubt for England&#8217;s World Cup quarter-final on Saturday against Norway as he battles a hamstring strain picked up in the win over Mexico.",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup bracket: Who will join France in semi-finals?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-16-and-route-to-final",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "bracket",
+        "join",
+        "France",
+        "semi",
+        "finals"
+      ],
+      "summary": "The World Cup has entered the quarter-final stages - so how is the route to the final on July 19 now shaping up?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Celtic make first new summer signing as Duran joins from Qarabag",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13561241/camilo-duran-celtic-make-first-new-summer-signing-as-striker-joins-from-qarabag-on-five-year-deal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T09:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Celtic",
+        "make",
+        "first",
+        "summer",
+        "signing",
+        "Duran"
+      ],
+      "summary": "Celtic have made striker Camilo Duran their first new summer signing in a deal worth around &#163;6m.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mexico boss' explicit heckle a bit of fun - Gordon",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T06:36:59+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Mexico",
+        "boss",
+        "explicit",
+        "heckle",
+        "Gordon"
+      ],
+      "summary": "England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was \"just a bit of fun\".",
+      "summary_cn": ""
+    },
+    {
+      "title": "How De la Fuente's Spain are closing in on greatness",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T06:47:29+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fuente",
+        "Spain",
+        "closing",
+        "greatness"
+      ],
+      "summary": "Before Spain's World Cup quarter-final against Belgium, Guillem Balague talks to Spain boss Luis de la Fuente about their identity and Lamine Yamal.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Duran completes switch to Celtic from Qarabag",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crelrygnp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T08:15:45+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Duran",
+        "completes",
+        "switch",
+        "Celtic",
+        "Qarabag"
+      ],
+      "summary": "Celtic confirm the signing of Colombian forward Camilo Duran from Qarabag on a five-year deal.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rangers pursue midfielder Fosso - gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v29j8ee3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T06:44:44+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Rangers",
+        "pursue",
+        "midfielder",
+        "Fosso",
+        "gossip"
+      ],
+      "summary": "Rangers linked with midfielders in Austria and Serbia as Hearts hold talks with key player over a contract extension...",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco, Spain v Belgium buildup – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-10T08:22:17+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "violent",
+        "disorder",
+        "London",
+        "France",
+        "Morocco"
+      ],
+      "summary": "⚽ All the latest news as the quarter-finals continue ⚽ Player guide | Bracketology | Golden Boot | Email us A 17-year-old girl fell off a truck and died while celebrating France’s World Cup quarter final win over Morocco, emergency services said Friday. Celebrations erupted across France after the 2",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/10/give-me-another-medal-hair-stylist-world-cup-jayema-lamine-yamal-raphinha",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-10T07:00:15+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Give",
+        "another",
+        "medal",
+        "meet",
+        "hair",
+        "stylist"
+      ],
+      "summary": "Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family Jayèma has had a World Cup like no other. Who else but the London hair stylist has worked with footballers from England, Brazil, the United States and Canada, and hung out with Lamine Ya",
+      "summary_cn": ""
+    },
+    {
+      "title": "London to Lisbon and back every game: England rack up the World Cup miles",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/10/london-to-lisbon-and-back-every-game-england-rack-up-the-world-cup-miles",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-10T07:00:13+00:00",
+      "score": 20.0,
+      "keywords": [
+        "London",
+        "Lisbon",
+        "back",
+        "every",
+        "game",
+        "England"
+      ],
+      "summary": "England have been happy with their Kansas City base but it has led to them travelling more than the other quarter-finalists – here’s just how much more Much was made of the challenge England faced by playing Mexico at altitude in the Azteca Stadium. The greater concern might be the enormous cumulati",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup’s sexiest fan Gabriela Moura puts on busty display as she scorches in Brazil-inspired bikini",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39711326/world-cup-sexiest-fan-gabriela-moura/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T08:24:33+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "sexiest",
+        "Gabriela",
+        "Moura",
+        "puts",
+        "busty"
+      ],
+      "summary": "GABRIELA MOURA has stunned fans as she put on a busty display in a Brazil-themed bikini. The World Cup's sexiest fan has built up an enormous following on social media. Gabriela, 22, had been supporting Brazil at the tournament until their last-16 exit to Norway. The stunning influencer has continue",
+      "summary_cn": ""
+    },
+    {
+      "title": "Conor McGregor vs Max Holloway UFC 329: Bet £10, Get £40 free bets + 50% Bet Builder boost | BOYLE Sports",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39711188/conor-mcgregor-vs-max-holloway-ufc329-boylesports-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T08:24:31+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Conor",
+        "McGregor",
+        "Holloway",
+        "free",
+        "bets",
+        "Builder"
+      ],
+      "summary": "CONOR McGREGOR returns to the Octagon this weekend for a blockbuster rematch with Max Holloway at UFC 329 in Las Vegas, 13 years after their first meeting. Register an account with BOYLE Sports, stake a tenner on the fight and you'll receive £40 in free bets to spend however you like! BOYLE Sports a",
+      "summary_cn": ""
+    },
+    {
+      "title": "Argentina vs Switzerland: Bet £10, Get £40 free bets + 50% Bet Builder win boost | BOYLE Sports",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710968/argentina-switzerland-boylesports-world-cup-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T08:08:55+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Argentina",
+        "Switzerland",
+        "free",
+        "bets",
+        "Builder",
+        "boost"
+      ],
+      "summary": "LIONEL MESSI and holders Argentina will look to dispatch Switzerland in Kansas this weekend and book their place in the World Cup semi-finals. Register an account with BOYLE Sports, stake a tenner on any sport and you'll receive £40 in free bets to spend however you like, including on the action in ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Teen girl World Cup fan crushed to death by lorry as she celebrated France’s victory over Morocco",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710492/girl-crushed-lorry-celebrating-france-morocco-victory/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T07:34:31+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Teen",
+        "girl",
+        "World",
+        "crushed",
+        "death",
+        "lorry"
+      ],
+      "summary": "A TEENAGE girl has been crushed to death by a lorry while celebrating France's World Cup victory against Morocco. The 17-year-old was one of thousands of fans partying on the streets of Aulnoye-Aymeries in France. A police spokesperson said: \"She had climbed on to the side of a lorry, along with oth",
+      "summary_cn": ""
+    },
+    {
+      "title": "Spain vs Belgium: Get £20 in free bets and 3 x 200% Odds Boosts for the World Cup with talkSPORT BET",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39688222/spain-belgium-talksport-bet-world-cup-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T07:30:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Spain",
+        "Belgium",
+        "free",
+        "bets",
+        "Odds",
+        "Boosts"
+      ],
+      "summary": "SPAIN will hope to preserve their spotless defensive record when they face Belgium in today's World Cup quarter-final. Ahead of this crunch fixture, brand-new talkSPORT BET customers who sign up, opt in and stake a tenner on football can claim £20 in free bets plus 3 x 200% Odds Boost Tokens! ⚽ CLAI",
       "summary_cn": ""
     }
   ]
