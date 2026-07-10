@@ -1,6 +1,342 @@
 {
   "items": [
     {
+      "title": "Arsenal sign Batlle from Barcelona",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13562080/arsenal-former-man-utd-defender-ona-batlle-joins-gunners-on-a-permanent-deal-from-barcelona",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T12:00:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "sign",
+        "Batlle",
+        "Barcelona"
+      ],
+      "summary": "Arsenal have confirmed the signing of Ona Batlle from Barcelona.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Arsenal hail signing of ‘winner’ Ona Batlle after Barcelona summer exodus",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/10/arsenal-sign-ona-batlle-spain-barcelona-defender",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-10T11:00:19+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "hail",
+        "signing",
+        "winner",
+        "Batlle",
+        "Barcelona"
+      ],
+      "summary": "Batlle is fourth arrival after Stanway, Cerci and Reuteler Full-back is one of four big Barça free transfer departures Arsenal have confirmed the signing of the Spain full-back Ona Batlle on a free after her departure from Barcelona, continuing the London club’s busy start to the transfer window. Th",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Meet Norway star with Scouse accent hoping to send Three Lions packing despite family watching World Cup back in England",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39709682/norway-world-cup-thelo-aasgaard-liverpool-england/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T11:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "given",
+        "Meet",
+        "Norway",
+        "star",
+        "Scouse"
+      ],
+      "summary": "AFTER being born in Liverpool, playing for the Reds academy and then spending nine years at Wigan, you would be forgiven for thinking he wants England to win on Saturday. But Thelo Aasgaard, 24, hopes to send the Three Lions back to his country of birth on Saturday night. Because despite his Scouse ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Norway vs England: Get Harry Kane or Erling Haaland 1+ shot at 40/1 | Sky Bet",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710477/norway-vs-england-kane-haaland-shot-skybet-odds-offer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T11:17:05+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Haaland",
+        "Erling Haaland",
+        "Harry Kane",
+        "Norway",
+        "England",
+        "Harry"
+      ],
+      "summary": "HARRY KANE and Erling Haaland have both been boosted to a huge 40/1 to register a shot in England's World Cup quarter-final against Norway. New Sky Bet customers who sign up, deposit £5 and place a £1 bet on either Harry Kane OR Erling Haaland to have 1+ total shots can take advantage of the...",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "‘Only a matter of time’ – Cristiano Ronaldo tipped to retire from football and immediately land first manager’s job",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39712348/cristiano-ronaldo-portugal-world-cup-manager-job/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T10:40:21+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "Only",
+        "matter",
+        "time",
+        "Cristiano"
+      ],
+      "summary": "CRISTIANO RONALDO Has been backed to go straight into management after he retires from football. The five-time Ballon d'Or winner suffered an underwhelming end to his World Cup as Portugal were dumped out by Spain. Ronaldo, 41, only missed nine minutes of action Roberto Martinez stuck by him in the ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Arsenal sign Spain defender Batlle on free transfer",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T11:01:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "sign",
+        "Spain",
+        "defender",
+        "Batlle",
+        "free"
+      ],
+      "summary": "Arsenal sign Spain international Ona Batlle on a free transfer following her exit from Barcelona.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Man Utd fans torn over new name for Old Trafford as Ratcliffe and Co reveal masterplan for 100,000 stadium",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39712994/man-utd-fans-divided-old-trafford-masterplan/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T11:44:36+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "fans",
+        "torn",
+        "name",
+        "Trafford"
+      ],
+      "summary": "MANCHESTER UNITED fans have been left divided after realising Sir Jim Ratcliffe is prepared to sell the naming rights for their new stadium. The Red Devils outlined fresh plans on Thursday to move to a different location than first intended. United were originally looking to build the new 100,000-se",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Gary Lineker fumes Gianni Infantino’s position at Fifa ‘almost untenable’ after disgraceful Jarell Quansah red card ban",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39712426/gary-lineker-gianni-infantino-fifa-jarell-quansah-ban/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T10:40:57+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Gary",
+        "Lineker",
+        "fumes",
+        "Gianni",
+        "Infantino"
+      ],
+      "summary": "GARY LINEKER has claimed Gianni Infantino position as Fifa chief is \"almost untenable\" after Folarin Balogun's red card U-turn scandal. Infantino has come under increasing pressure after Fifa allowed USA striker Balogun's one-game ban to be suspended. The ex-Arsenal man was dismissed during the USA'",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "'It's the purest form of cricket!' | Beaumont on her Test cricket love before England retirement",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13562212/england-v-india-test-tammy-beaumont-on-her-love-for-test-cricket-before-she-retires-internationally",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-10T10:13:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "purest",
+        "form",
+        "cricket",
+        "Beaumont",
+        "Test",
+        "love"
+      ],
+      "summary": "England legend Tammy Beaumont speaks about her love for Test cricket and what keeps her driven as she prepares to play in her last-ever match for her country.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "'What old timers can do' - the evolution of Belgium's golden generation",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T11:38:58+00:00",
+      "score": 20.0,
+      "keywords": [
+        "timers",
+        "evolution",
+        "Belgium",
+        "golden",
+        "generation"
+      ],
+      "summary": "BBC Sport explores what is behind Belgium's progress to the last eight of the World Cup, and whether they were too easily discounted among the contenders.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "A-Z World Cup quiz: Name the best performing team for every letter",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjepy9vk5vzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T10:51:06+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "quiz",
+        "Name",
+        "best",
+        "performing",
+        "team"
+      ],
+      "summary": "When it comes to the World Cup it's not all about the numbers - the letters are important too!",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Coroner rules inquest needed into Nobby Stiles' death",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/news/articles/cy73z75kz78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T11:14:20+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Coroner",
+        "rules",
+        "inquest",
+        "needed",
+        "Nobby",
+        "Stiles"
+      ],
+      "summary": "An inquest into his death will be held after a corner finds injury consistent with repeated head traumas.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "How football has helped immigrants make a home in the US",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2n00gge6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-10T10:35:08+00:00",
+      "score": 20.0,
+      "keywords": [
+        "football",
+        "helped",
+        "immigrants",
+        "make",
+        "home"
+      ],
+      "summary": "Football is the common bond for the immigrants and refugees who play matches in a Maine park, and has helped them develop a sense of community in a foreign land.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/10/nosferatu-golf-weekend-england-players-trust-thomas-tuchel",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-10T11:30:19+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Like",
+        "Nosferatu",
+        "golf",
+        "weekend",
+        "England",
+        "players"
+      ],
+      "summary": "Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on Mumsnet Let’s set the world on fire. There’s a section in Bill Buford’s classic football hooligan study, Among the Thugs, where he describes being part of a phalanx of En",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "‘Definitely’ – Luke Littler backs England to win World Cup and repeat same heroics he had with Luke Humphries",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39713488/luke-littler-world-cup-england/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T11:14:20+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Definitely",
+        "Luke",
+        "Littler",
+        "backs",
+        "England",
+        "World"
+      ],
+      "summary": "LUKE LITTLER is backing England to bring football home and win the World Cup. The Nuke, 19, is very patriotic and is willing on Thomas Tuchel’s side ahead of their quarter-final clash with Norway on Saturday night in Miami. It comes after an epic 3-2 victory over Mexico at altitude in the Azteca Sta",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "Norway vs England: Get Three Lions at 40/1 to qualify | Paddy Power",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39710570/norway-vs-england-qualify-offer-paddypower-world-cup-odds/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T10:13:22+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Norway",
+        "England",
+        "Lions",
+        "qualify",
+        "Paddy",
+        "Power"
+      ],
+      "summary": "PADDY POWER have a huge offer for new customers ahead of England's World Cup quarter-final showdown with Norway. Brand new Paddy Power customers who sign up using promo code YFBDHY can back the Three Lions to qualify for the semi-finals at a colossal 40/1. 🦁 England to qualify at 40/1 🦁 Find The Sun",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
+      "title": "How unbeatable France’s trend-bucking ‘underloading buddy system’ tactic is leaving World Cup rivals with no answer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39712249/tactics-exposed-france-system-morocco-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-10T10:06:54+00:00",
+      "score": 20.0,
+      "keywords": [
+        "unbeatable",
+        "France",
+        "trend",
+        "bucking",
+        "underloading",
+        "buddy"
+      ],
+      "summary": "FRANCE moved one step closer to World Cup glory after securing a comfortable 2-0 victory over Morocco in the semi-finals. Les Bleus booked their spot in the last four thanks to goals from Kylian Mbappe and Ousmane Dembele in Boston. And according to SunSport’s tactical expert Dean Scoggins, France b",
+      "summary_cn": "",
+      "fetched_at": "2026-07-10T12:06:03.715569+00:00"
+    },
+    {
       "title": "Where was Erling Haaland born? How he ended up playing for Norway despite being born in England",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39675891/where-was-erling-haaland-born-play-for-england/",
@@ -39208,343 +39544,6 @@
       "summary": "⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST ⚽️ Third-place table | Player guide | Bracketology | Tables Ecuador 2-1 Germany Curacao 0-2 Cote d’Ivoire Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reaso",
       "summary_cn": "",
       "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "Why isn’t Kaoru Mitoma playing for Japan vs Sweden at World Cup 2026?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39348942/kaoru-mitoma-japan-sweden-world-cup-2026-injury/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T22:24:52+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Kaoru",
-        "Mitoma",
-        "playing",
-        "Japan",
-        "Sweden",
-        "World"
-      ],
-      "summary": "JAPAN play their final match of Group F tonight against Sweden, but fans have noticed that Kaoru Mitoma isn't featuring for Samurai Blue. The Asian side sit level with Netherlands at the top of the group on both points and goal difference - they will be missing their star attacker as they look to sc",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "Emotional Ecuador boss ‘goes full Spider-Man’ as he climbs into stands to hug family after reaching World Cup last 32",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39548050/ecuador-sebastian-beccacece-world-cup-germany/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T22:19:58+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Emotional",
-        "Ecuador",
-        "boss",
-        "goes",
-        "full",
-        "Spider"
-      ],
-      "summary": "ECUADOR boss Sebastian Beccacece delivered a World Cup celebration for the ages after shocking Germany. La Tri's 2-1 win in New Jersey guarantees them a spot in the last 32 as one of the eight best third-place teams. For 77 minutes of their final Group E clash it looked as though the South Americans",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "Who is Tunisia vs Holland referee Katia Garcia?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39542687/who-tunisia-vs-holland-world-cup-referee-katia-garcia/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T22:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Tunisia",
-        "Holland",
-        "referee",
-        "Katia",
-        "Garcia"
-      ],
-      "summary": "KATIA GARCIA is set to make history today as she officiates Tunisia vs Holland at World Cup 2026. The referee will become the first Mexican woman to be on the whistle for a men's World Cup match. Who is Katia Garcia? Mexican referee Katia Garcia is 33-years-old from Mexico City. Before she started o",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "Ecuador 2 Germany 1: Scotland dealt cruel blow as South Americans’ late winner leaves them perilously close to KO",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39547727/ecuador-germany-scotland-world-cup-gonzalo-plata/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T21:58:27+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Ecuador",
-        "Germany",
-        "Scotland",
-        "dealt",
-        "cruel",
-        "blow"
-      ],
-      "summary": "ECUADOR incredibly kept their World Cup alive despite a literal early kick in the teeth against Germany. And that spells yet more bad news for Scotland. The South Americans needed to win at the MetLife. But they were undone by a hugely controversial call inside two minutes as Pedro Vite took studs t",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "World Cup 2026 Group D LIVE TABLE: Latest standings as Australia and Paraguay look to join USA in knockouts",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39529753/world-cup-2026-group-d-live-table-latest-standings/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T21:30:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Group",
-        "LIVE",
-        "TABLE",
-        "Latest",
-        "standings"
-      ],
-      "summary": "THE knockout stages of the World Cup are upon us in North America. In Group D, the top and bottom-placed sides have already been determined, with co-hosts the United States at the summit and Turkey eliminated. Australia and Paraguay play each other in a straight shootout for second and the final aut",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "BBC presenter reveals he suffered an Epileptic seizure live on air while reporting at World Cup in Mexico",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39546742/bbc-presenter-suffered-epileptic-seizure-live-on-air/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T20:43:55+00:00",
-      "score": 20.0,
-      "keywords": [
-        "presenter",
-        "reveals",
-        "suffered",
-        "Epileptic",
-        "seizure",
-        "live"
-      ],
-      "summary": "A BBC presenter has revealed he suffered a terrifying epileptic seizure while broadcasting live from the World Cup in Mexico. Steve Crossman, a familiar voice on BBC Radio 5 Live, was out in Mexico covering the global football tournament also hosted across the US and Canada when the frightening inci",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "World Cup clash at risk of major delays after warning of SEVERE thunderstorms as fans urged to seek shelter NOW",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39546855/world-cup-netherlands-tunisia-major-delays-thunderstorms/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T20:42:39+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "clash",
-        "risk",
-        "major",
-        "delays",
-        "warning"
-      ],
-      "summary": "A THUNDERSTORM is threatening to delay the Netherlands' World Cup showdown with Tunisia. Both sides are preparing to lock horns in a Group F clash in Kansas City, with kick-off just two hours away. But fans who managed to snap up tickets are already being warned to seek shelter - and people are bein",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "‘Fix this at half-time’ – Fans fume at shock kit clash in World Cup game between Ecuador and Germany… because of ref",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39546672/world-cup-kit-clash-ecuador-germany-referee/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T20:29:34+00:00",
-      "score": 20.0,
-      "keywords": [
-        "half",
-        "time",
-        "Fans",
-        "fume",
-        "shock",
-        "clash"
-      ],
-      "summary": "FIFA have been told to \"fix\" a World Cup kit clash in the Ecuador vs Germany game by disgruntled TV viewers. But it is not the two sets of players that fans are having trouble deciphering. Instead, it is the light blue top of the REFEREE causing havoc. Some punters are struggling to tell match...",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T22:26:27.489564+00:00"
-    },
-    {
-      "title": "Newcastle hit with demand for £3.2m over ‘deliberate’ failure to pay tax on transfers",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jun/25/newcastle-tax-demand-player-transfers-mike-ashley",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-06-25T18:19:45+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Newcastle",
-        "demand",
-        "deliberate",
-        "failure",
-        "transfers"
-      ],
-      "summary": "Club owe HMRC £1.9m in tax and handed £1.25m penalty Relates to investigation of transfers under Mike Ashley Newcastle United have been hit with a demand for £3.2m from HM Revenue and Customs over a “deliberate” failure to pay tax, according to official disclosures that relate to a near decade-long ",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
-    },
-    {
-      "title": "World Cup ace announces shock retirement aged 30 after seeing side crash out of tournament in dismal group stage showing",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39546057/world-cup-patrik-schick-retirement-czechia/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T20:11:07+00:00",
-      "score": 33.0,
-      "keywords": [
-        "West Ham",
-        "World",
-        "announces",
-        "shock",
-        "retirement",
-        "aged"
-      ],
-      "summary": "PATRIK SCHICK has announced his international retirement less than 24 hours after Czechia were knocked out of the World Cup. The Bayer Leverkusen striker, 30, and his team-mates were sent packing following a 3-0 hammering against tournament co-hosts Mexico. Czechia, who had West Ham midfielder Tomas",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
-    },
-    {
-      "title": "Arsenal hold shock talks over Bruno Guimaraes transfer as Newcastle REJECT second Tottenham Sandro Tonali approach",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39545907/arsenal-bruno-guimaraes-talks-newcastle-reject-tottenham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T19:22:25+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "Tottenham",
-        "Mikel Arteta",
-        "Declan Rice",
-        "Arteta"
-      ],
-      "summary": "ARSENAL have held talks over a move for Newcastle midfielder Bruno Guimaraes. Mikel Arteta is pushing to bolster his squad ahead of their Premier League title defence and wants to add a midfielder to provide competition and support for Declan Rice and Martin Zubimendi. Guimaraes, 28, has two years l",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
-    },
-    {
-      "title": "Who is Ecuador vs Germany World Cup 2026 referee Tori Penso?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/23510443/tori-penso-world-cup-2026-referee-ecuador-germany/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T20:01:00+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Ecuador",
-        "Germany",
-        "World",
-        "referee",
-        "Tori",
-        "Penso"
-      ],
-      "summary": "WORLD CUP 2026 referee Tori Penso is one of the leading officials in the game and takes charge of Ecuador vs Germany in the group stage. And has become just the second female referee in history to officiate a men's World Cup match when she took charge of South Africa vs Czechia before Ecuador's clas",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
-    },
-    {
-      "title": "Fuming MOTD stars and staff have Nando’s takeaways AXED and are forced to eat in the BBC canteen to save cash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39546169/match-of-the-day-stars-forced-eat-canteen/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T20:05:05+00:00",
-      "score": 26.0,
-      "keywords": [
-        "given",
-        "Fuming",
-        "MOTD",
-        "stars",
-        "staff",
-        "Nando"
-      ],
-      "summary": "MATCH Of The Day stars and staff are up in arms after their takeaway orders were given a red card by bosses. Beleaguered workers moaned they are having to eat from the staff canteen in Salford, rather than feasting on their usual orders from Nando’s and Wagamama’s. A hungry insider said: “The BBC on",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
-    },
-    {
-      "title": "The England Wags having a ball on holiday after their men missed out from Cole Palmer’s girlfriend to Phil Foden’s wife",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39545363/england-wags-holiday-after-men-miss-out/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T20:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Phil Foden",
-        "Foden",
-        "Palmer",
-        "England",
-        "Wags",
-        "having"
-      ],
-      "summary": "ENGLAND’S Wags may have dreamt the World Cup would bring nothing but sunshine and celebrations. But this week, they had to sit through a 0-0 draw with Ghana and got soaked for good measure. Meanwhile, across the Atlantic, wives and girlfriends of players who didn’t make the squad are having a ball h",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
-    },
-    {
-      "title": "Tottenham owners inject another £100million into coffers as Roberto De Zerbi targets TRIPLE Premier League swoop",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39545844/tottenham-owners-enic-roberto-de-zerbi-transfer-news/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-25T19:30:51+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "owners",
-        "inject",
-        "another",
-        "coffers",
-        "Roberto"
-      ],
-      "summary": "TOTTENHAM’S owners have pumped another £100million into the club. It takes the extra cash invested by the Lewis Family, who run majority shareholders ENIC, to £200m since last September - with more possibly on its way. They see it as following through on their end-of-season pledge to invest in the c",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
-    },
-    {
-      "title": "'England over the moon' - Did NZ miss chance to bat hosts out of Test match?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13557826/new-zealand-dominate-first-day-at-trent-bridge-but-did-tourists-miss-chance-to-bat-england-out-of-series-deciding-test",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-25T20:14:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "moon",
-        "miss",
-        "chance",
-        "hosts",
-        "Test"
-      ],
-      "summary": "Day one of the series-deciding third Test undoubtedly belonged to New Zealand as they posted the most runs of any Black Caps side in a single day in England.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
-    },
-    {
-      "title": "Is five-match ban for Qatar's Madibo excessive?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/articles/c6210561g95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-25T19:25:29+00:00",
-      "score": 20.0,
-      "keywords": [
-        "five",
-        "match",
-        "Qatar",
-        "Madibo",
-        "excessive"
-      ],
-      "summary": "Our Ask Me Anything team look at whether Madibo's punishment for his challenge on Kone was proportionate.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-25T20:14:56.789203+00:00"
     }
   ]
 }
