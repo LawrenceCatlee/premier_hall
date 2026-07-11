@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-07-11T13:47:05.313282+00:00",
+  "updated_at": "2026-07-11T15:03:14.410689+00:00",
   "items": [
+    {
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13562559/jayden-adams-south-africa-2026-world-cup-midfielder-dies-aged-25",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-11T14:53:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Adams",
+        "South",
+        "Africa",
+        "World",
+        "midfielder",
+        "dies"
+      ],
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams, who featured in all three of his country's group matches at this summer's World Cup, has died aged 25, a government minister has confirmed.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Klopp agrees to replace Nagelsmann as Germany coach",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-11T14:48:39+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Klopp",
+        "agrees",
+        "replace",
+        "Nagelsmann",
+        "Germany",
+        "coach"
+      ],
+      "summary": "Jurgen Klopp agrees a deal in principle to become the new head coach of Germany's men's national team after the resignation of Julian Nagelsmann.",
+      "summary_cn": ""
+    },
     {
       "title": "Former Chelsea and Leeds owner Bates dies aged 94",
       "title_cn": "",
@@ -21,60 +59,22 @@
       "summary_cn": ""
     },
     {
-      "title": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
+      "title": "Ken Bates, colourful and controversial former Chelsea chair, dies aged 94",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.theguardian.com/football/2026/jul/11/ken-bates-chelsea-leeds-dies-aged-94",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-07-11T11:58:58+00:00",
-      "score": 31.0,
+      "published": "2026-07-11T13:48:29+00:00",
+      "score": 33.0,
       "keywords": [
-        "Arsenal",
-        "Granit Xhaka",
-        "Xhaka",
-        "jeers",
-        "Swiss",
-        "tears"
+        "Chelsea",
+        "Bates",
+        "colourful",
+        "controversial",
+        "former",
+        "chair"
       ],
-      "summary": "Granit Xhaka has battled back from being booed by his own fans at Arsenal to being one of the most influential players for club and country as he looks to help Switzerland make history at the World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "England legend Alan Shearer surprises local football team with heartwarming gesture for cause close to his heart",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39724609/alan-shearer-surprises-football-team-grant/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-11T12:25:35+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Newcastle",
-        "Alan Shearer",
-        "Shearer",
-        "England",
-        "legend",
-        "Alan"
-      ],
-      "summary": "ALAN SHEARER wowed a local grassroots football team with a heartfelt gesture. The legendary Newcastle and England forward is one of the North East's biggest sporting heroes. So it was extra special when he got on camera to announce to local amateur side the Newcastle Panthers that they had won a £2,",
-      "summary_cn": ""
-    },
-    {
-      "title": "Erling Haaland challenges Wayne Rooney to complete rowing forfeit after BBC pundit made shocking claim about Norway",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39724676/erling-haaland-challenges-wayne-rooney-to-complete-rowing-forfeit/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-11T12:10:08+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Rooney",
-        "Wayne Rooney",
-        "Haaland",
-        "Erling Haaland",
-        "Erling"
-      ],
-      "summary": "ERLING Haaland has challenged Wayne Rooney to honour his hilarious rowing bet after Norway’s stunning World Cup heroics. The Manchester City striker reminded the BBC pundit of his promise after firing Norway into the quarter-finals with a shock victory over Brazil. Rooney had dismissed Norway’s chan",
+      "summary": "Bates oversaw eventful 21-year period in club’s history Subsequent ownership of Leeds was hugely troubled Ken Bates, one of the most colourful and controversial figures in the history of English football, has died aged 94, Chelsea have announced. The club reported on Saturday afternoon that Bates ha",
       "summary_cn": ""
     },
     {
@@ -94,6 +94,25 @@
         "Germany"
       ],
       "summary": "Jurgen Klopp is on the verge of becoming Germany's new head coach after reaching an agreement in principle with the German Football Association [DFB], according to reports in Germany.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Britain's Patten wins second Wimbledon doubles title and hits out at proposed cuts",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13562549/wimbledon-2026-henry-patten-and-harri-heliovaara-win-second-mens-doubles-title-after-beating-marcelo-arevalo-and-mate-pavic",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-11T14:52:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Henry",
+        "Britain",
+        "Patten",
+        "wins",
+        "second",
+        "Wimbledon"
+      ],
+      "summary": "Britain's Henry Patten and Finland's Harri Heliovaara won their second Wimbledon men's doubles title with a straight-sets victory.",
       "summary_cn": ""
     },
     {
@@ -121,7 +140,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-11T13:29:51+00:00",
+      "published": "2026-07-11T14:47:47+00:00",
       "score": 26.0,
       "keywords": [
         "Adams",
@@ -154,22 +173,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Jayden Adams dead aged 25: Tributes pour in for star who played at 2026 World Cup after death",
+      "title": "Bates 'one of the most important and controversial figures in Chelsea history'",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39724925/south-africa-world-cup-star-dies-jayden-adams/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/watch/video/13562561/ken-bates-one-of-the-most-important-and-controversial-figures-in-chelsea-history",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-11T12:36:40+00:00",
-      "score": 26.0,
+      "published": "2026-07-11T15:00:00+00:00",
+      "score": 25.0,
       "keywords": [
-        "Adams",
-        "Jayden",
-        "dead",
-        "aged",
-        "Tributes",
-        "pour"
+        "Chelsea",
+        "Bates",
+        "most",
+        "important",
+        "controversial",
+        "figures"
       ],
-      "summary": "SOUTH AFRICA star Jayden Adams has died just weeks after playing at the World Cup. The Mamelodi Sundowns midfielder passed away aged 25. He started the country's first two games at the World Cup. Adams, a nine-time international, had only reposted a picture of himself and his girlfriend online less ",
+      "summary": "Sky Sports' Kaveh Solhekol pays homage to Ken Bates and his dedication to Chelsea.",
       "summary_cn": ""
     },
     {
@@ -210,6 +229,82 @@
       "summary_cn": ""
     },
     {
+      "title": "Jürgen Klopp reaches agreement to take over as Germany head coach",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/11/jurgen-klopp-reaches-agreement-germany-head-coach",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-11T14:07:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Klopp",
+        "reaches",
+        "agreement",
+        "take",
+        "Germany"
+      ],
+      "summary": "Former Liverpool manager to replace Julian Nagelsmann Germany lost to Paraguay in last 32 of the World Cup Jürgen Klopp has “reached an agreement on the key points” to become the next Germany head coach, the German football association (DFB) has said. The 59-year-old is expected to sign a contract u",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ken Bates was force of nature dubbed ‘Blaster’ who banned reporters left & right but without him Chelsea wouldn’t exist",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39725528/ken-bates-dead-blaster-chelsea-legacy/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-11T14:47:53+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Bates",
+        "force",
+        "nature",
+        "dubbed",
+        "Blaster"
+      ],
+      "summary": "YOU weren't a proper football journalist unless you'd been banned at some point by Ken Bates. The \"Blaster\" was a force of nature, full of grudges and bluster. But his love for Chelsea was unquestioned. And without Bates, there may well have been NO Chelsea. And certainly no Roman Abramovich glory e",
+      "summary_cn": ""
+    },
+    {
+      "title": "How Thomas Tuchel and Jude Bellingham made World Cup pact with calls to Ancelotti and secret flights to Spain",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39724907/thomas-tuchel-jude-bellingham-ancelotti-england-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-11T14:41:06+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Thomas",
+        "Tuchel",
+        "Jude",
+        "Bellingham",
+        "made"
+      ],
+      "summary": "ENGLAND manager Thomas Tuchel went the distance to answer the Jude Bellingham question with a series of initiatives. Tuchel, 52, was reportedly set to bench Bellingham, 23, at the World Cup in favour of Aston Villa star Morgan Rogers, who was seen as more suitable to his tactics at No10. However, th",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal ticket deals for Premier League 2026/27 season to see the champions at The Emirates",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39227637/arsenal-premier-league-champions-ticket-hotel-packages/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-11T14:08:09+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Man City",
+        "ticket",
+        "deals",
+        "Premier",
+        "League"
+      ],
+      "summary": "ARSENAL fans cannot wait to watch the new Premier League champions in action again when the new season starts. The Gunners lifted the prize last season after their gripping title race with Man City. See Arsenal next season And now, following the release of the highly anticipated Premier League fixtu",
+      "summary_cn": ""
+    },
+    {
       "title": "Ken Bates dead aged 94: Tributes pour in for ex-Chelsea owner who bought Blues for £1 and saved club from financial ruin",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39725085/ken-bates-dead-chelsea-owner-tributes/",
@@ -225,26 +320,25 @@
         "Tributes",
         "pour"
       ],
-      "summary": "FORMER Chelsea chairman Ken Bates has died at 94. The London-born businessman bought the Blues for a single pound in 1982, and went on to act as owner and chairman until 2003. The Blues were struggling in the Football League Second Division at the time of his purchase. The team were not just facing ",
+      "summary": "FORMER Chelsea chairman Ken Bates has died at 94. The London-born businessman bought the Blues for a single pound in 1982 and went on to act as owner and chairman until 2003. The Blues were struggling in the Football League Second Division at the time of his purchase. The team were not just facing d",
       "summary_cn": ""
     },
     {
-      "title": "Huge boost for England fans watching Norway World Cup clash in pubs amid fears weather could delay kick-off for hours",
+      "title": "South Africa's Adams, who played at WC, dies at 25...",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39724509/england-norway-pubs-open-world-cup-kick-off-delay/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-11T11:53:07+00:00",
-      "score": 25.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-11T14:56:21+00:00",
+      "score": 24.0,
       "keywords": [
-        "Huge",
-        "boost",
-        "England",
-        "fans",
-        "watching",
-        "Norway"
+        "Adams",
+        "South",
+        "Africa",
+        "played",
+        "dies"
       ],
-      "summary": "PUBS in England will be able to stay open for England's World Cup quarter-final against Norway - even if it is delayed. Miami weather has taken a turn for the worse with kick off approaching as the sun was replaced by thunderstorms on Friday - sparking fears that kick off could be delayed for a...",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died aged 25, the South African Football Players Union has confirmed.",
       "summary_cn": ""
     },
     {
@@ -253,7 +347,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49124668/jeremy-monga-man-city-leicester-city-premier-league-transfers",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-11T14:06:53+00:00",
+      "published": "2026-07-11T14:56:00+00:00",
       "score": 23.0,
       "keywords": [
         "Arsenal",
@@ -267,12 +361,31 @@
       "summary_cn": ""
     },
     {
+      "title": "Former Chelsea chairman Ken Bates dies aged 94",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49333624/former-chelsea-chairman-ken-bates-dies-aged-94",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-11T14:56:00+00:00",
+      "score": 23.0,
+      "keywords": [
+        "Chelsea",
+        "Former",
+        "chairman",
+        "Bates",
+        "dies",
+        "aged"
+      ],
+      "summary": "Former Chelsea chairman Ken Bates has died at the age of 94, the club announced on Saturday.",
+      "summary_cn": ""
+    },
+    {
       "title": "Sources: Greenwood could opt for Fener or Atleti",
       "title_cn": "",
       "url": "https://www.espn.com/soccer/story/_/id/49327149/marseille-mason-greenwood-opt-fenerbahce-atletico-madrid-sources",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-11T14:06:53+00:00",
+      "published": "2026-07-11T14:56:00+00:00",
       "score": 21.0,
       "keywords": [
         "Manchester United",
@@ -286,60 +399,41 @@
       "summary_cn": ""
     },
     {
-      "title": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Germany close on Klopp – live",
+      "title": "World Cup 2026: Norway v England buildup; Fifa to sell bits of MetLife pitch; Kane’s round of golf with Trump – live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-07-11T13:38:52+00:00",
+      "published": "2026-07-11T14:55:57+00:00",
       "score": 20.0,
       "keywords": [
         "World",
         "Norway",
         "England",
         "buildup",
-        "Kane",
-        "round"
+        "Fifa",
+        "sell"
       ],
       "summary": "⚽ All the latest updates as the quarter-finals continue ⚽ Player guide | Bracketology | Golden Boot | Email us The brilliant Cold War Steve is back with the latest of his special World Cup 2026-themed collages. Look closely! More from Thomas Tuchel. Seize the day is his message. Continue reading...",
       "summary_cn": ""
     },
     {
-      "title": "Football Daily | Belgium and the End Of The Golden Generation Klaxon",
+      "title": "England’s horror record against Norway revealed including game that derailed last US World Cup dream",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/11/belgium-golden-generation-football-daily-newsletter",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/39710994/england-horror-record-norway-derailed-world-cup-dream/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-11T12:44:07+00:00",
+      "published": "2026-07-11T15:02:58+00:00",
       "score": 20.0,
       "keywords": [
-        "Football",
-        "Daily",
-        "Belgium",
-        "Golden",
-        "Generation",
-        "Klaxon"
+        "England",
+        "horror",
+        "record",
+        "against",
+        "Norway",
+        "revealed"
       ],
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Look at it up there on the hill, shining in the sunlight, an almost imperceptible aura of melancholia surrounding it like a halo. Look at the ornate carvings, the faces etched across its flanks. There’s Davor Suker! Preben Elkjær! Ferenc Puskas! Is",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘A brilliant reprieve, a unifying force’: America falls in love with World Cup",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-11T12:00:49+00:00",
-      "score": 20.0,
-      "keywords": [
-        "brilliant",
-        "reprieve",
-        "unifying",
-        "force",
-        "America",
-        "falls"
-      ],
-      "summary": "Packed stadiums, record TV viewers, and an outlet for joyous multiculturalism under attack by Trump – the tournament has taken the US by storm There were plenty of reasons to believe the US hosting the World Cup would be a disaster. In the year and a half leading up to the kick-off, Donald Trump had",
+      "summary": "ENGLAND will be desperate to improve a wretched record against Norway when they battle it out for a place in the World Cup semi-finals tonight. The Three Lions kept their hopes of glory alive by bagging a heroic 3-2 win over tournament co-hosts Mexico. And now Thomas Tuchel's side will have to keep ",
       "summary_cn": ""
     },
     {
@@ -367,7 +461,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49329575/harry-kane-erling-haaland-completely-different-player-me",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-11T14:06:53+00:00",
+      "published": "2026-07-11T14:56:00+00:00",
       "score": 16.0,
       "keywords": [
         "Harry Kane",
@@ -386,7 +480,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49323493/jorge-jesus-portugal-head-coach-world-cup-exit",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-11T14:06:52+00:00",
+      "published": "2026-07-11T14:56:00+00:00",
       "score": 16.0,
       "keywords": [
         "Ronaldo",
@@ -397,25 +491,6 @@
         "coach"
       ],
       "summary": "Newly named Portugal coach Jorge Jesus said on Friday that there is still room on the team for star Cristiano Ronaldo.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Merino: 'Surreal' to net Spain's WC winner again",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49328659/super-sub-mikel-merino-strikes-late-again-fire-spain-world-cup-semis",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-11T14:06:53+00:00",
-      "score": 16.0,
-      "keywords": [
-        "Mikel",
-        "Merino",
-        "Surreal",
-        "Spain",
-        "winner",
-        "again"
-      ],
-      "summary": "Spain midfielder Mikel Merino came off the bench to score a late winning goal against Belgium, securing a 2-1 victory and advancing La Roja to the World Cup semifinals.",
       "summary_cn": ""
     },
     {
@@ -435,31 +510,12 @@
       "summary_cn": ""
     },
     {
-      "title": "Merino sends Spain to the semis, but La Roja need ...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49328247/mikel-merino-sends-spain-world-cup-semifinals-beating-belgium-la-roja-need-more-wasteful-attack",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-11T12:55:38+00:00",
-      "score": 16.0,
-      "keywords": [
-        "Mikel",
-        "Merino",
-        "sends",
-        "Spain",
-        "semis",
-        "Roja"
-      ],
-      "summary": "You'd think a team boasting Lamine Yamal would score goals for fun, but to beat Belgium, Spain needed midfielder Mikel Merino to net the winner.",
-      "summary_cn": ""
-    },
-    {
       "title": "Liverpool face upheaval, CEO Edwards quits FSG",
       "title_cn": "",
       "url": "https://www.espn.com/soccer/story/_/id/49323819/michael-edwards-leaves-liverpool-ownership-role",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-11T14:06:53+00:00",
+      "published": "2026-07-11T14:56:00+00:00",
       "score": 15.0,
       "keywords": [
         "Liverpool",
@@ -469,25 +525,6 @@
         "quits"
       ],
       "summary": "Liverpool are facing a period of significant behind-the-scenes upheaval following the departure of Michael Edwards, the chief executive officer of football for owners Fenway Sports Group (FSG).",
-      "summary_cn": ""
-    },
-    {
-      "title": "Transfer rumors, news: Could Man United sign Parag...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-man-united-sign-paraguay-gk-senne-lammens-competition",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-11T13:00:42+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Manchester United",
-        "Man United",
-        "Transfer",
-        "rumors",
-        "news",
-        "United"
-      ],
-      "summary": "Manchester United are rumored to be interested in Paraguay goalkeeper Orlando Gill. Transfer talk has the latest.",
       "summary_cn": ""
     },
     {
@@ -512,7 +549,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49328508/spain-lamine-yamal-france-world-cup-semifinal",
       "source": "ESPN FC",
       "tier": 1,
-      "published": "2026-07-11T14:06:53+00:00",
+      "published": "2026-07-11T14:56:00+00:00",
       "score": 10.0,
       "keywords": [
         "Spain",
@@ -522,41 +559,6 @@
         "semifinal"
       ],
       "summary": "Lamine Yamal says France should fear Spain as the two nations gear up for a heavyweight World Cup semifinal in Arlington, Texas, on Tuesday.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Romero says leaky Argentina defense 'bothers us'",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49329795/romero-argentina-bothered-leaky-defense-knockouts",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-11T14:06:52+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Romero",
-        "leaky",
-        "Argentina",
-        "defense",
-        "bothers"
-      ],
-      "summary": "Argentina defender Cristian Romero pointed out the ongoing defensive issues his team must fix to be successful in the quarterfinal match against Switzerland on Saturday at Arrowhead Stadium.",
-      "summary_cn": ""
-    },
-    {
-      "title": "⚽ USMNT World Cup grades: Expectations met?",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-11T14:06:52+00:00",
-      "score": 10.0,
-      "keywords": [
-        "USMNT",
-        "World",
-        "grades",
-        "Expectations"
-      ],
-      "summary": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
       "summary_cn": ""
     }
   ]
