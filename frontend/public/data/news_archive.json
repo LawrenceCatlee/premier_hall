@@ -1,6 +1,218 @@
 {
   "items": [
     {
+      "title": "Papers: Arsenal turn to Alvarez with Barcola unavailable",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13562834/julian-alvarez-arsenal-switch-focus-to-atletico-madrid-striker-with-psg-forward-bradley-barcola-unavailable-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-12T23:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Papers",
+        "turn",
+        "Alvarez",
+        "Barcola",
+        "unavailable"
+      ],
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "Four things England MUST do to beat Argentina on Wednesday and end Lionel Messi’s hopes of back-to-back World Cup wins",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39735641/england-world-cup-argentina-lionel-messi/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-12T21:34:30+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Four",
+        "things",
+        "England",
+        "MUST",
+        "beat",
+        "Argentina"
+      ],
+      "summary": "ARGENTINA look so beatable. Yet no-one beats them, and England need to work out why. Lionel Scaloni’s side have obvious strengths, starting with their miraculous 39-year-old captain. But Switzerland, like Cape Verde and Egypt before them, exposed their weaknesses. Thomas Tuchel’s job is to exploit t",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "Infantino: 64-team World Cup will be 'looked at'",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49345374/gianni-infantino-fifa-examine-64-team-world-cup-expansion",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T23:46:36+00:00",
+      "score": 18.0,
+      "keywords": [
+        "Infantino",
+        "team",
+        "World",
+        "looked"
+      ],
+      "summary": "Gianni Infantino has confirmed FIFA will discuss expanding the men's World Cup to 64 teams after the 2026 tournament, saying every nation should have the chance to dream of playing at football's biggest event.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "Haaland Sr: Norway 'robbed' in QF, 'well done ref'...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49341900/alf-inge-haaland-norway-robbed-world-cup-2026-england-well-done-referee-erling-haaland",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T21:58:17+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Haaland",
+        "Norway",
+        "robbed",
+        "well",
+        "done"
+      ],
+      "summary": "Alf-Inge Haaland claims Norway were \"robbed\" in their World Cup quarterfinal but hopes England go on to win the tournament after knocking out his homeland.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "A-List: FIFA's top-4 make WC semis for first time",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49344988/fifa-top-4-teams-world-cup-semifinals-first",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T23:46:36+00:00",
+      "score": 10.0,
+      "keywords": [
+        "List",
+        "FIFA",
+        "make",
+        "semis",
+        "first",
+        "time"
+      ],
+      "summary": "Argentina, Spain, France and England went into the tournament as the top four in FIFA's rankings and are two wins away from being crowned champions again.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "Messi praises 'not normal' Argentina in WC defense...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T21:58:17+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Messi",
+        "praises",
+        "normal",
+        "Argentina",
+        "defense"
+      ],
+      "summary": "Lionel Messi has said Argentina's remarkable run of success is \"not normal\" after the reigning world champions beat Switzerland to reach the World Cup semifinals, where they will face England.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "Sources: FIFA, FIFPRO in talks over heat protocol ...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49343877/fifa-world-cup-fifpro-temperature-heat-protocol-talks-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T23:46:36+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Sources",
+        "FIFA",
+        "FIFPRO",
+        "talks",
+        "heat",
+        "protocol"
+      ],
+      "summary": "FIFA and global players' union FIFPRO are in discussions over establishing protocols to avoid games being played in excessive heat, sources have told ESPN.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "Norway boss fumes at 'clear' TV wire goal assist",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49339911/norway-head-coach-fumes-clear-tv-cable-assist-england-goal-jude-bellingham",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T23:46:36+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Norway",
+        "boss",
+        "fumes",
+        "clear",
+        "wire",
+        "goal"
+      ],
+      "summary": "Norway boss Stale Solbakken has said he believes the overhead wires deserve an assist for England's equaliser.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "Copy of Embolo red-carded for diving after VAR review",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49339724/switzerland-breel-embolo-red-card-diving-var-argentina-2026-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T21:58:17+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Copy",
+        "Embolo",
+        "carded",
+        "diving",
+        "review"
+      ],
+      "summary": "Switzerland forward Breel Embolo was sent off in the second half of a World Cup quarterfinal match with Argentina on Saturday night after a video review showed he was guilty of simulation.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "Bellingham backs England stars after Tuchel fury",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49338957/jude-bellingham-england-thomas-tuchel-criticism",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T21:58:17+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Bellingham",
+        "backs",
+        "England",
+        "stars",
+        "Tuchel",
+        "fury"
+      ],
+      "summary": "Jude Bellingham praised England's fighting spirit and ability to \"win dirty\" after coach Thomas Tuchel criticized their performance in beating Norway on Saturday.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
+      "title": "⚽ 'Ted Lasso' actor Fernández debuts in USL",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49344890/ted-lasso-dani-rojas-actor-cristo-fernandez-usl-debut",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-12T21:58:18+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Lasso",
+        "actor",
+        "debuts"
+      ],
+      "summary": "Fernández, a forward like Rojas, was subbed on in the 79th minute of El Paso's USL Cup match against New Mexico United on Saturday night.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-12T22:57:16.608762+00:00"
+    },
+    {
       "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
@@ -39361,223 +39573,6 @@
         "best"
       ],
       "summary": "ENGLAND’S route to the World Cup final has been revealed - and fans are daring to dream that football really could be coming home. The Three Lions will face DR Congo in the last 32 after topping their group with a 2-0 win over Panama, with stars Jude Bellingham and Harry Kane were on target....",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "Glam Portugal Wag and her identical twin sister go viral after they are spotted on camera in stands at World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39573457/francisco-conceicao-portugal-wag-matilde-neiva-viral-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-28T09:25:05+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ronaldo",
-        "Cristiano Ronaldo",
-        "Glam",
-        "Portugal",
-        "identical",
-        "twin"
-      ],
-      "summary": "IDENTICAL TWINS picked up on camera during Portugal's final group stage game have gone viral. With fans left stunned by their beauty, it emerged that one was Portugal star Francisco Conceicao's girlfriend. Cristiano Ronaldo and Co bagged second place in Group K after being forced to settle for a goa",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-28T09:57:25+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Crystal Palace",
-        "Liverpool",
-        "Manchester City",
-        "World",
-        "goals"
-      ],
-      "summary": "Crystal Palace and Sunderland lead the Premier League’s World Cup scoring charts after the 2026 group stage, ahead of Arsenal, Liverpool and Manchester City.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "Sam Allardyce parties alone as former England manager, 71, takes over DJ booth ahead of World Cup clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39573716/sam-allardyce-england-dj-panama-boxpark-parties/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-28T10:00:55+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Allardyce",
-        "parties",
-        "alone",
-        "former",
-        "England",
-        "manager"
-      ],
-      "summary": "BIG Sam Allardyce swapped the dugout for the decks at Boxpark last night as England beat Panama 2-0 to win Group L. Before anyone arrived, the iconic Premier League manager was seen bopping to house beats on the decks. The former England manager, who left with a 100 per cent win record, evidently st",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "Valenzuela targets Stevenson after revenge rematch with De Los Santos",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13558429/jose-valenzuela-targets-shakur-stevenson-after-revenge-rematch-with-edwin-de-los-santos-in-las-vegas",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-06-28T12:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Valenzuela",
-        "targets",
-        "Stevenson",
-        "revenge",
-        "rematch",
-        "Santos"
-      ],
-      "summary": "Jose Valenzuela has revenge on his mind when he fights Edwin De Los Santos on Sunday night, live on Sky Sports .",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "27 flights, 24 matches: How Fifa's president is jetting around World Cup",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-28T09:20:51+00:00",
-      "score": 20.0,
-      "keywords": [
-        "flights",
-        "matches",
-        "Fifa",
-        "president",
-        "jetting",
-        "around"
-      ],
-      "summary": "Gianni Infantino has clocked up thousands of air miles across North America so far.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "Will Clarke successor be big-name overseas coach or Scotland icon?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx26dmgmdlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-28T10:33:09+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Clarke",
-        "successor",
-        "name",
-        "overseas",
-        "coach",
-        "Scotland"
-      ],
-      "summary": "The key questions around the appointment of Steve Clarke's successor - and some of the potential candidates.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "How to win a World Cup penalty shootout",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd9px47g8jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-28T09:38:42+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "penalty",
-        "shootout"
-      ],
-      "summary": "We have a look at what can be learned from every World Cup penalty taken in a shootout ever.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "Off the Ball take petty & ill-informed look at Scottish football",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-06-28T13:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Ball",
-        "take",
-        "petty",
-        "informed",
-        "look",
-        "Scottish"
-      ],
-      "summary": "The most petty and ill-informed football show on radio.",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "Meet UK’s canniest England fan who went to ALL Three Lions’ games for £4k – including accommodation & flights",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39540976/meet-uks-canniest-england-fan-bagged-tickets-4-k/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-28T10:48:50+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Meet",
-        "canniest",
-        "England",
-        "went",
-        "Lions",
-        "games"
-      ],
-      "summary": "SITTING in the Dallas Stadium surrounded by fellow England fans just before the Three Lions beat Croatia in their first World Cup tie, Dan Hall and his mates felt a surge of excitement. But unlike most other die-hard supporters who'd made the 4,700 mile trip, football fanatic Dan, 26, didn't have to",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "Stunning TV presenter Giusy Meloni strips down to tiny bikini as she gives fans an eyeful on holiday",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39573885/giusy-meloni-strips-bikini-dazn-presenter-italian/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-28T10:37:33+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Stunning",
-        "presenter",
-        "Giusy",
-        "Meloni",
-        "strips",
-        "down"
-      ],
-      "summary": "GIUSY MELONI stunned as she posed in a red bikini while on holiday. The Italian football presenter for DAZN, 26, appeared to be enjoying a break away in the sun. She posted the snap on her Instagram story, where she has racked up quite the following. Meloni has 747,000 followers on the platform. She",
-      "summary_cn": "",
-      "fetched_at": "2026-06-28T11:13:11.243184+00:00"
-    },
-    {
-      "title": "Rangers ticket and hotel packages for the new Scottish Premiership season at Ibrox in 2026/27",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39467048/rangers-ticket-hotel-packages-scottish-premiership-ibrox/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-06-28T10:24:13+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Rangers",
-        "ticket",
-        "hotel",
-        "packages",
-        "Scottish",
-        "Premiership"
-      ],
-      "summary": "RANGERS fans can guarantee a seat at a rocking Ibrox Stadium for the new 2026/27 season. Following the highly anticipated release of the fresh Scottish Premiership fixture list, the scramble for match tickets is well and truly underway.&nbsp; Buy Rangers tickets However, savvy supporters can bypass ",
       "summary_cn": "",
       "fetched_at": "2026-06-28T11:13:11.243184+00:00"
     }
