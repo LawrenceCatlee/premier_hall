@@ -1,43 +1,6 @@
 {
-  "updated_at": "2026-07-12T13:45:00.775139+00:00",
+  "updated_at": "2026-07-12T15:05:20.125303+00:00",
   "items": [
-    {
-      "title": "World Cup manager SACKED days after crushing last-32 defeat with Arsenal legend Patrick Vieira tipped to replace him",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39733816/world-cup-pape-thiaw-patrick-vieira-arsenal-senegal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-12T12:22:38+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Arsenal",
-        "Vieira",
-        "Patrick Vieira",
-        "World",
-        "manager",
-        "SACKED"
-      ],
-      "summary": "SENEGAL have sacked manager Pape Thiaw after a heartbreaking World Cup elimination and could replace him with Arsenal legend Patrick Vieira. Thiaw, 45, oversaw a hapless campaign as he lost his first two matches in the group stage to France and Norway before a 5-0 win over Iraq barely led to a third",
-      "summary_cn": ""
-    },
-    {
-      "title": "'One of the greats' - How 'hardy' Knight will be remembered for England",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13562756/heather-knights-international-retirement-former-england-captain-one-of-the-greats-says-tash-farrant",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-12T12:50:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Knight",
-        "greats",
-        "hardy",
-        "remembered",
-        "England"
-      ],
-      "summary": "Tash Farrant hailed Heather Knight as \"one of the greats\" after the former England captain announced her retirement from international cricket.",
-      "summary_cn": ""
-    },
     {
       "title": "Neville's goosebumps over Bellingham: I have never seen anything like it",
       "title_cn": "",
@@ -47,8 +10,8 @@
       "published": "2026-07-12T13:40:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Gary Neville",
         "Neville",
+        "Gary Neville",
         "goosebumps",
         "Bellingham",
         "never",
@@ -58,12 +21,31 @@
       "summary_cn": ""
     },
     {
+      "title": "Second season always a challenge - Falkirk's McGlynn",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewqv5vwndeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-12T14:30:10+00:00",
+      "score": 26.0,
+      "keywords": [
+        "given",
+        "Second",
+        "season",
+        "always",
+        "challenge",
+        "Falkirk"
+      ],
+      "summary": "John McGlynn believes Falkirk will be given \"more respect\" in the coming campaign and matching last season will be \"a challenge\".",
+      "summary_cn": ""
+    },
+    {
       "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-07-12T13:28:50+00:00",
+      "published": "2026-07-12T14:54:58+00:00",
       "score": 26.0,
       "keywords": [
         "Haaland",
@@ -77,22 +59,98 @@
       "summary_cn": ""
     },
     {
-      "title": "How Thomas Tuchel’s bizarre ‘hall pass’ tactic freed Jude Bellingham to overpower Norway and equal Diego Maradona record",
+      "title": "Football Daily | Was Tuchel and Bellingham really a Keane v McCarthy moment?",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39734151/tuchel-bellingham-tactics-exposed-england-norway/",
+      "url": "https://www.theguardian.com/football/2026/jul/12/tuchel-bellingham-really-keane-v-mccarthy-moment-football-daily",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-12T13:18:12+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Keane",
+        "McCarthy",
+        "Football",
+        "Daily",
+        "Tuchel",
+        "Bellingham"
+      ],
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Breakfast in America was a happy place for an Englishman this Sunday morning. Thanks to Jude Bellingham, (very probably) a hanging cable and a remarkable cameo from Djed Spence that brought back the ghost of Nobby Stiles, Norway were squeezed past ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Gary Neville defends ‘absolutely monumental’ Jude Bellingham amid England boss Thomas Tuchel’s World Cup comments",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39734707/gary-neville-defends-jude-bellingham-amid-thomas-tuchel-comments/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-12T13:02:07+00:00",
+      "published": "2026-07-12T15:03:28+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Neville",
+        "Gary Neville",
+        "Gary",
+        "defends",
+        "absolutely",
+        "monumental"
+      ],
+      "summary": "GARY NEVILLE has thrown his support behind Jude Bellingham after England boss Thomas Tuchel insisted his team were \"lucky\" to beat Norway. Three Lions gaffer Tuchel admitted he was unhappy with his side's \"sloppy\" display in the 2-1 win over Norway, which they won in Extra Time after going 1-0 down ",
+      "summary_cn": ""
+    },
+    {
+      "title": "How England finally broke ‘July 11’ curse including infamous Euros final and World Cup semi-final heartbreak",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39734724/england-july-11-world-cup-record-euros-norway-croatia/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-12T14:34:24+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Southgate",
+        "Gareth Southgate",
+        "England",
+        "finally",
+        "broke",
+        "July"
+      ],
+      "summary": "JULY 11 has been a terrible day in English footballing history - UNTIL NOW. For the first time in four attempts, the Three Lions have won on what looks like a random date in the British summer. But it has carried heartbreak in the past that most will want to forget. Gareth Southgate saw his...",
+      "summary_cn": ""
+    },
+    {
+      "title": "England bizarrely dubbed ‘world’s ugliest daughter’ and ‘not good at football’ by World Cup pundit in live TV rant",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39734513/england-mike-grella-world-cup-norway-tuchel-bellingham/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-12T14:03:58+00:00",
       "score": 26.0,
       "keywords": [
         "matic",
-        "march",
-        "Thomas",
-        "Tuchel",
-        "bizarre",
-        "hall"
+        "England",
+        "bizarrely",
+        "dubbed",
+        "world",
+        "ugliest"
       ],
-      "summary": "ENGLAND have marched into a fourth World Cup semi-final after a dramatic 2-1 victory over Norway in Miami. The Three Lions had to dig deep on a difficult night, but individual brilliance and tactical masterstrokes proved the difference. And according to Tactics Exposed expert Dean Scoggins, Thomas T",
+      "summary": "ENGLAND found themselves on the receiving end of a bizarre rant after punching their ticket to the World Cup semi-finals. The Three Lions picked up a dramatic 2-1 victory over Norway on Saturday at the Hard Rock Stadium in Miami. But CBS Sports pundit Mike Grella was not at all impressed with Thomas",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hussain: Flower should replace McCullum - but 'lucky' Key has questions to answer",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13562794/nasser-hussain-feels-andy-flower-should-replace-brendon-mccullum-as-test-head-coach-but-lucky-rob-key-has-questions-to-answer",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-12T13:40:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Hussain",
+        "Flower",
+        "replace",
+        "McCullum",
+        "lucky",
+        "questions"
+      ],
+      "summary": "Nasser Hussain has backed former England head coach Andy Flower to replace Brendon McCullum as Test head coach.",
       "summary_cn": ""
     },
     {
@@ -112,42 +170,6 @@
         "coach"
       ],
       "summary": "Brendon McCullum will leave his role as England's Test head coach but continue to lead the white-ball teams.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Not happy with the performance' - so why do England keep winning?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-12T12:19:03+00:00",
-      "score": 20.0,
-      "keywords": [
-        "happy",
-        "performance",
-        "England",
-        "keep",
-        "winning"
-      ],
-      "summary": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Big stars and old rivals - what to expect in semi-finals",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-12T12:29:10+00:00",
-      "score": 20.0,
-      "keywords": [
-        "stars",
-        "rivals",
-        "expect",
-        "semi",
-        "finals"
-      ],
-      "summary": "France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four.",
       "summary_cn": ""
     },
     {
@@ -186,155 +208,6 @@
         "manager"
       ],
       "summary": "All the latest from the final day of the Scottish Open golf, Wimbledon, World Cup and more",
-      "summary_cn": ""
-    },
-    {
-      "title": "Cablegate: should Jude Bellingham’s first goal against Norway have been disallowed?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/12/cablegate-should-jude-bellingham-first-goal-against-norway-have-been-disallowed-england-world-cup-2026",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-12T11:57:06+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Cablegate",
-        "Jude",
-        "Bellingham",
-        "first",
-        "goal",
-        "against"
-      ],
-      "summary": "Midfielder got England back on level terms in fine fashion but pictures suggest illegal interference in the buildup Norway’s goalkeeper, Ørjan Håskjold Nyland, launches a goal-kick down the pitch two minutes into stoppage time at the end of the first half. The ball falls just inside England’s half, ",
-      "summary_cn": ""
-    },
-    {
-      "title": "I watched England’s World Cup clash with 300 screaming Norway fans in London pub and witnessed shock Bellingham gesture",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39734282/england-world-cup-norway-fans-jude-bellingham-haaland/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-12T12:52:54+00:00",
-      "score": 20.0,
-      "keywords": [
-        "watched",
-        "England",
-        "World",
-        "clash",
-        "screaming",
-        "Norway"
-      ],
-      "summary": "“ROW, ROW, ROW.” That chant has become the sound of the 2026 World Cup, because of the Norwegian Viking Row. There have been some iconic fans in North America over the last few weeks, but the Norwegians take the crown. And I had to experience it for myself. So I made my way to The...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Thomas Tuchel leaks his ‘formula’ for England’s World Cup success days out from grudge semi-final against Argentina",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39733881/thomas-tuchel-leaks-england-world-cup-plan-argentina-bellingham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-12T12:30:07+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Thomas",
-        "Tuchel",
-        "leaks",
-        "formula",
-        "England",
-        "World"
-      ],
-      "summary": "THOMAS TUCHEL is not trying to hide England's World Cup plans as they prepare to face Argentina in the semi-finals. The Three Lions take on their old rivals in Atlanta on Wednesday but had to get there the hard way after another Jude Bellingham masterclass saved them from quarter-final defeat to Nor",
-      "summary_cn": ""
-    },
-    {
-      "title": "Copy of Bellingham's big night eclipses anonymous Haaland ...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49335118/england-reach-world-cup-semifinals-jude-bellingham-big-night-norway-erling-haaland-anonymous",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-12T12:41:46+00:00",
-      "score": 16.0,
-      "keywords": [
-        "Haaland",
-        "Copy",
-        "Bellingham",
-        "night",
-        "eclipses",
-        "anonymous"
-      ],
-      "summary": "Jude Bellingham struck twice as England came from behind to beat Norway 2-1 in extra time and reach the World Cup semifinals amid sweltering Florida heat.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Copy of Transfer rumors, news: Man United, Liverpool turn ...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49341464/transfer-rumors-news-man-united-liverpool-turn-wolves-midfielder-joao-gomes",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-12T13:51:47+00:00",
-      "score": 15.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester United",
-        "Wolves",
-        "Man United",
-        "Copy",
-        "Transfer"
-      ],
-      "summary": "Wolves star João Gomes looked set for Atlético Madrid but could now head to Manchester United or Liverpool. Transfer talk has the latest.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Get ready for the World Cup semifinals! What you n...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-12T14:37:20+00:00",
-      "score": 10.0,
-      "keywords": [
-        "ready",
-        "World",
-        "semifinals"
-      ],
-      "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
-      "summary_cn": ""
-    },
-    {
-      "title": "World Cup Daily Live: Spidercam debate rumbles on ...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-12T12:43:39+00:00",
-      "score": 10.0,
-      "keywords": [
-        "World",
-        "Daily",
-        "Live",
-        "Spidercam",
-        "debate",
-        "rumbles"
-      ],
-      "summary": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Copy of What it's like to transfer clubs during a World Cu...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49334079/what-transfer-clubs-world-cup-does-ever-go-wrong",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-12T13:51:47+00:00",
-      "score": 10.0,
-      "keywords": [
-        "Copy",
-        "like",
-        "transfer",
-        "clubs",
-        "during",
-        "World"
-      ],
-      "summary": "Plenty of players have moved clubs during a major tournament, but what is that experience like and how much does it impact negotiations?",
       "summary_cn": ""
     }
   ]
