@@ -1,212 +1,232 @@
 {
-  "updated_at": "2026-07-13T18:01:24.780326+00:00",
+  "updated_at": "2026-07-13T20:20:11.049909+00:00",
   "items": [
     {
-      "title": "Aston Villa latest: Digne agrees to join PSG as Estupinan targeted - reports",
+      "title": "Everton captain Finnigan signs one-year extension",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": "Sky Sports",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89244kyx0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-13T18:13:00+00:00",
-      "score": 39.0,
+      "published": "2026-07-13T19:58:32+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Everton",
+        "captain",
+        "Finnigan",
+        "signs",
+        "year",
+        "extension"
+      ],
+      "summary": "Everton captain Megan Finnigan signs a one-year contract extension with the Women's Super League club.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Timing took me to Chelsea rather than Liverpool - Alonso",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-13T19:00:16+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Liverpool",
+        "Bridge",
+        "Timing",
+        "took",
+        "rather"
+      ],
+      "summary": "Chelsea manager Xabi Alonso says his arrival at Stamford Bridge instead of Liverpool was \"about timings\".",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Gift from the sky’ Elliot Anderson keeps England running as Rogers makes case",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/13/elliot-anderson-gift-from-the-sky-keeps-on-giving-morgan-rogers-england-world-cup",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-13T18:20:43+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "given",
+        "Anderson",
+        "Gift",
+        "Elliot",
+        "keeps"
+      ],
+      "summary": "Midfielder covered the most ground in England’s win over Norway as Morgan Rogers’ cameo impresses Tuchel Elliot Anderson can be forgiven for needing a bit of additional time to recover after his exertions in the cauldron of Miami. As Manchester City’s new record signing reflected on England’s extra-",
+      "summary_cn": ""
+    },
+    {
+      "title": "Diego Forlán succeeds Marcelo Bielsa as Uruguay manager on temporary basis",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/13/diego-forlan-succeeds-marcelo-bielsa-uruguay-world-cup",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-13T19:03:42+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "March",
+        "Diego",
+        "succeeds",
+        "Marcelo",
+        "Bielsa"
+      ],
+      "summary": "Bielsa departed after acrimonious World Cup exit Former United striker takes charge until March 2027 The former Manchester United striker Diego Forlán is poised to take over on a temporary basis as the new Uruguay manager after Marcelo Bielsa left the role following a sorry World Cup campaign. La Ce",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd pre-season friendlies: Dates and kick-off times as Red Devils warm-up for new season",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39747066/man-utd-pre-season-friendlies-dates-kick-off-times/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-13T19:42:23+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "season",
+        "friendlies"
+      ],
+      "summary": "DESPITE the World Cup still going on, Manchester United begin their pre-season campaign THIS WEEKEND. The Red Devils are heading across Europe for to prepare for the new campaign, where they will play against some of the continent's best teams and one of their fiercest rivals. Michael Carrick is loo",
+      "summary_cn": ""
+    },
+    {
+      "title": "United seal $64M Santos move, Ederson's stalls",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49318443/manchester-united-announce-signing-andrey-santos-chelsea-premier-league-transfer-news",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-13T19:45:09+00:00",
+      "score": 29.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Ederson",
+        "United",
+        "seal",
+        "Santos"
+      ],
+      "summary": "Manchester United have signed midfielder Andrey Santos from Chelsea, the club have announced.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Source: Villa's Digne agrees deal for PSG return",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49350428/lucas-digne-agrees-deal-return-psg-aston-villa-source",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-13T19:45:10+00:00",
+      "score": 29.0,
       "keywords": [
         "Aston Villa",
+        "Lucas Digne",
         "Digne",
-        "Aston",
+        "Source",
         "Villa",
-        "latest",
         "agrees"
       ],
-      "summary": "",
+      "summary": "Paris Saint-Germain have agreed a deal with Lucas Digne to bring the Aston Villa defender back to Paris after paying his £10 million ($13.3m) release clause, a source told ESPN.",
       "summary_cn": ""
     },
     {
-      "title": "Alonso wants to keep Fernandez at Chelsea",
+      "title": "England Argentina is why red cards were invented… why of all the epic clashes this is the biggest of them all",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyny9d0z2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-13T16:29:28+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "Alonso",
-        "wants",
-        "keep",
-        "Fernandez"
-      ],
-      "summary": "New Chelsea manager Xabi Alonso is unveiled at Stamford Bridge and says he wants to keep Enzo Fernandez at the club.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Jack Grealish downs shots & looks worse for wear with female pals as he cheers on England’s World Cup heroes in busy bar",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39743409/jack-grealish-downs-shots-female-pals-cheers-england/",
+      "url": "https://www.thesun.co.uk/sport/39746750/england-argentina-red-cards-clash-tony-parsons/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-13T16:07:29+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "downing",
-        "Jack Grealish",
-        "Grealish",
-        "Jack",
-        "downs"
-      ],
-      "summary": "JACK Grealish was downing shots and looking worse for wear with his female pals as he cheered on England's World Cup heroes. The Manchester City star, 30, was spotted soaking up the sunshine ahead of England's World Cup quarter-final victory against Norway on Saturday. In full party mode, Jack was s",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Knocking you out was a huge joy’: reliving the dramas of England v Argentina in 1998 and 2002",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/13/knocking-you-out-was-a-huge-joy-reliving-the-dramas-of-england-v-argentina-in-1998-and-2002",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-13T17:00:05+00:00",
+      "published": "2026-07-13T20:00:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Michael Owen",
-        "Beckham",
-        "Knocking",
-        "huge",
-        "reliving",
-        "dramas"
-      ],
-      "summary": "How Diego Simeone, Michael Owen and Glenn Hoddle remember the two classic World Cup matches between historical rivals Amid the acrimony, the wars, the deep history going back to the British invasions of 1806 and 1807, the hand of God and the boot of Beckham, there is also an acknowledgment from thos",
-      "summary_cn": ""
-    },
-    {
-      "title": "WSL latest: Liverpool confirm Keating signing",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-13T17:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "latest",
-        "confirm",
-        "Keating",
-        "signing"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Villa working on deal for Switzerland's Manzambi",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39ym7e788wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-13T17:53:34+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Newcastle",
-        "Villa",
-        "working",
-        "deal",
-        "Switzerland"
-      ],
-      "summary": "Aston Villa are working on a deal for Freiburg midfielder Johan Manzambi as they attempt to hijack a move to Newcastle United.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Liverpool sign England goalkeeper Keating",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyn7xn2eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-13T16:24:20+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester City",
-        "sign",
+        "Ramsey",
         "England",
-        "goalkeeper",
-        "Keating"
+        "Argentina",
+        "cards",
+        "invented",
+        "epic"
       ],
-      "summary": "Liverpool sign England goalkeeper Khiara Keating on a free transfer from Manchester City.",
+      "summary": "“ANIMALS,” Alf Ramsey famously said of Argentina in 1966, which even as a small lad struck me as being a bit hard on animals. But then England v Argentina is a rivalry unprecedented in world football. In football, there is banter and there is bile. Lots of banter and a bit of genuine bile. When...",
       "summary_cn": ""
     },
     {
-      "title": "Aston Villa hijack Newcastle’s pursuit of £49m Johan Manzambi from Freiburg",
+      "title": "Superstitious Argentina make special World Cup request to wear ‘lucky’ kit vs England after Maradona & Beckham omens",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/13/aston-villa-hijack-newcastle-pursuit-of-johan-manzambi-from-freiburg-transfer-window",
+      "url": "https://www.thesun.co.uk/sport/39747065/england-argentina-lucky-kit-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-13T19:46:33+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Beckham",
+        "Superstitious",
+        "Argentina",
+        "make",
+        "special",
+        "World"
+      ],
+      "summary": "ENGLAND haven't only got to beat Lionel Messi and Argentina on Wednesday, they have to beat them in their 'lucky' away strip. The Three Lions will once again be kitted out in all white, as they were against Norway, with Messi and co in black and blue. It has only been worn once so far,...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tonda Eckert’s Southampton future unclear as FA investigation into spygate continues",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/13/tonda-eckert-southampton-fa-investigation-spygate",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-07-13T16:50:27+00:00",
+      "published": "2026-07-13T19:28:01+00:00",
       "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "Tonda",
+        "Eckert",
+        "future",
+        "unclear",
+        "investigation"
+      ],
+      "summary": "FA could follow Fifa precedent with 12-month suspension Manager to face media on Saturday in pre-season friendly The future of Southampton’s manager, Tonda Eckert, remains shrouded in uncertainty as he waits to learn the outcome of a lengthy and detailed Football Association investigation into last ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Stunned fans discover France World Cup star’s dad was international cricketer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39746832/france-world-cup-michael-olise-dad-cricket/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-13T18:51:17+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Stunned",
+        "fans",
+        "discover",
+        "France",
+        "World"
+      ],
+      "summary": "FANS have just discovered that Michael Olise's dad was an international cricketer. The former Crystal Palace and Reading star is currently tearing things up at the World Cup with France. Olise, 24, has starred for Les Blues during the tournament and is one of the key members of Didier Deschamps' att",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sources: United in advanced talks for Tielemans",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-13T19:45:10+00:00",
+      "score": 21.0,
       "keywords": [
         "Aston Villa",
-        "Fulham",
-        "Newcastle",
-        "Aston",
-        "Villa",
-        "hijack"
+        "Manchester United",
+        "Youri Tielemans",
+        "Tielemans",
+        "Sources",
+        "United"
       ],
-      "summary": "U-turn another summer transfer blow for Newcastle Sunderland and Fulham vie for Roma’s Matías Soulé Aston Villa have hijacked Newcastle’s pursuit of Johan Manzambi, and are close to completing a £49m deal with Freiburg for the Switzerland midfielder. Manzambi’s arrival will boost Villa before a seas",
-      "summary_cn": ""
-    },
-    {
-      "title": "Premier League cult hero, 57, appointed new Croatia manager following early World Cup exit",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39746485/slaven-bilic-west-ham-croatia-manager-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T17:46:49+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Premier",
-        "League",
-        "cult",
-        "hero",
-        "appointed",
-        "Croatia"
-      ],
-      "summary": "SLAVEN BILIC has been reappointed as the Croatia manager following the nation's exit from the World Cup. The former Premier League boss had been out of management since leaving Saudi Pro League side Al-Fateh in 2024. Bilic, 57, previously coached the Croatia national team between 2006 and 2012. He h",
-      "summary_cn": ""
-    },
-    {
-      "title": "Premier League club submit plans to make major change to £1bn stadium with work due to start mid-season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39745635/tottenham-hotspur-stadium-roof-solar-panels/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T16:52:01+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Premier",
-        "League",
-        "club",
-        "submit",
-        "plans"
-      ],
-      "summary": "TOTTENHAM have submitted plans to make a major change to their £1billion stadium. The North London club moved into the state-of-the-art Tottenham Hotspur Stadium in 2019. However, after just seven years, it is reportedly set for a major upgrade on its roof. The club have submitted plans to cover the",
-      "summary_cn": ""
-    },
-    {
-      "title": "Xabi Alonso makes final transfer decision on wantaway Enzo Fernandez despite Real Madrid bombshell & agent’s exit talks",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39745947/xabi-alonso-enzo-fernandez-transfer-chelsea-real-madrid/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T16:38:08+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Xabi",
-        "Alonso",
-        "makes",
-        "final",
-        "transfer"
-      ],
-      "summary": "XABI ALONSO is determined to keep wantaway Argentine midfielder Enzo Fernandez at Chelsea. The Blues vice-captain, 25, has flirted with a move to Real Madrid before the Spanish club bizarrely made a public statement that they were not pursuing a deal. Chelsea have slapped a whopping £120million pric",
+      "summary": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN.",
       "summary_cn": ""
     },
     {
@@ -229,117 +249,132 @@
       "summary_cn": ""
     },
     {
-      "title": "How Spain can knock France off their 'World Cup favourites' perch",
+      "title": "McGregor to undergo surgery but hopes to fight again",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
+      "url": "https://www.skysports.com/mma/news/12040/13563167/conor-mcgregor-to-undergo-surgery-on-knee-injury-which-ended-return-fight-against-max-holloway-at-ufc-329-but-hopes-to-fight-again",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-13T17:30:00+00:00",
+      "published": "2026-07-13T19:14:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Spain",
-        "knock",
-        "France",
-        "World",
-        "favourites",
-        "perch"
+        "McGregor",
+        "undergo",
+        "surgery",
+        "hopes",
+        "fight",
+        "again"
       ],
-      "summary": "And so there were four. As it happens, the four still standing at this World Cup are the same quartet who sit atop FIFA's international food chain. A semi-final line-up for the ages. Aren't we lucky?",
+      "summary": "Conor McGregor will undergo surgery after his return fight against Max Holloway at UFC 329 ended prematurely due to a knee injury, but he hopes to fight again.",
       "summary_cn": ""
     },
     {
-      "title": "Bethell to open as England name team for first ODI vs India",
+      "title": "Dutch referee dies weeks after being dropped from World Cup",
       "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13563101/jacob-bethell-to-open-batting-in-england-vs-india-first-odi-at-edgbaston-as-hosts-name-team-ahead-of-series-opener",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-13T16:06:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Bethell",
-        "open",
-        "England",
-        "name",
-        "team",
-        "first"
-      ],
-      "summary": "Jacob Bethell will open the batting for England in their opening one-day international against India at Edgbaston on Tuesday.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Podcast: Can Dundee United take the next step?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nyk0vn?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy06ej10n3xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-13T17:00:00+00:00",
+      "published": "2026-07-13T19:25:25+00:00",
       "score": 20.0,
       "keywords": [
-        "Podcast",
-        "Dundee",
-        "United",
-        "take",
-        "next",
-        "step"
+        "Dutch",
+        "referee",
+        "dies",
+        "weeks",
+        "being",
+        "dropped"
       ],
-      "summary": "New signings, a new shape and fresh expectations at Tannadice.",
+      "summary": "Dutch football referee Rob Dieperink dies aged 38, weeks after he was dropped from officiating at the World Cup because of a police investigation in the UK.",
       "summary_cn": ""
     },
     {
-      "title": "Argentina’s 36-year ‘curse’ that gives England hope of famous World Cup semi-final victory",
+      "title": "Revs re-sign USMNT's Turner on loan from Lyon",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39746233/argentina-curse-england-world-cup-semi-final/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T17:49:06+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49350801/new-england-revolution-extend-contract-usmnt-gk-matt-turner-loan-lyon",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-13T19:45:10+00:00",
+      "score": 18.0,
       "keywords": [
-        "Argentina",
-        "year",
-        "curse",
-        "gives",
-        "England",
-        "hope"
+        "Revs",
+        "sign",
+        "USMNT",
+        "Turner",
+        "loan",
+        "Lyon"
       ],
-      "summary": "ARGENTINA haven't beaten a former World Cup champion without penalties since Brazil in 1990 in an optimistic sign for England. Lionel Messi and Co face the Three Lions in a massive World Cup semi-final in Atlanta on Wednesday night. It will be the first time the Inter Miami star has ever faced Engla",
+      "summary": "The New England Revolution announced on Monday that it has extended the loan of United States men's national team goalkeeper Matt Turner from Ligue 1 side Lyon through the end of 2026.",
       "summary_cn": ""
     },
     {
-      "title": "Inside the UK’s biggest pub screening England semi-final with 22 massive TVs, beer towers and 1,800-fan capacity",
+      "title": "USWNT to host world No. 1 Spain twice in October",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39744907/uk-biggest-pub-england-semi-final/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T16:26:46+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49349807/uswnt-host-world-no-1-spain-two-friendlies-october",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-13T19:45:09+00:00",
+      "score": 18.0,
       "keywords": [
-        "Inside",
-        "biggest",
-        "screening",
-        "England",
-        "semi",
-        "final"
+        "USWNT",
+        "host",
+        "world",
+        "Spain",
+        "twice",
+        "October"
       ],
-      "summary": "THE UK's largest pub is geared up to host the World Cup semi-final and features 22 massive TVs, beer towers and has capacity for 1,800 fans. Punters can book in now to cheer on the Three Lions in the huge 26,500 sq ft venue. For the majority of Brits, come Wednesday night there is only...",
+      "summary": "The United States women's national team will host world No. 1 and reigning World Cup champions Spain in a pair of friendly matches in October, U.S. Soccer announced on Monday.",
       "summary_cn": ""
     },
     {
-      "title": "Stock up for England’s World Cup semi against Argentina with huge deals on beers, meals and snacks at Sainsbury’s",
+      "title": "Police investigating death of South Africa's Adams...",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39744150/england-world-cup-beer-food-deals-sainsburys/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T16:26:46+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49349593/police-investigating-death-south-africa-world-cup-player-jayden-adams",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-13T19:45:09+00:00",
+      "score": 16.0,
       "keywords": [
-        "Stock",
-        "England",
-        "World",
-        "semi",
-        "against",
-        "Argentina"
+        "Adams",
+        "Police",
+        "investigating",
+        "death",
+        "South",
+        "Africa"
       ],
-      "summary": "THE nation is ready for a huge party on Wednesday night as England take on Argentina in the World Cup semi-final - whatever the score. With kick-off at a family friendly 8pm, it means everyone can get together to watch one of the biggest games in the Three Lions' history - and stay up for...",
+      "summary": "Police said Monday they are investigating the death of South Africa World Cup football player Jayden Adams, after his body was discovered this weekend at a property in the city of Cape Town.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Alonso wants Enzo Fernández to stay at Chelsea",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49350741/xabi-alonso-wants-enzo-fernandez-stay-chelsea",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-13T19:45:10+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Chelsea",
+        "Alonso",
+        "wants",
+        "Enzo",
+        "stay"
+      ],
+      "summary": "Chelsea manager Xabi Alonso has said he wants to keep Enzo Fernández at the club amid a potential exit this summer.",
+      "summary_cn": ""
+    },
+    {
+      "title": "💦 Why hydration breaks could be here to stay",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49326566/hydration-breaks-world-cup-soccer-broadcast-rights",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-13T19:45:10+00:00",
+      "score": 10.0,
+      "keywords": [
+        "hydration",
+        "breaks",
+        "stay"
+      ],
+      "summary": "FIFA's mandated three-minute breaks have been a talking point throughout the 2026 World Cup.",
       "summary_cn": ""
     }
   ]
