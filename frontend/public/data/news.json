@@ -1,286 +1,247 @@
 {
-  "updated_at": "2026-07-14T16:21:16.019794+00:00",
+  "updated_at": "2026-07-14T18:10:37.785728+00:00",
   "items": [
     {
-      "title": "Bournemouth sign £25.7m striker Rodriguez",
+      "title": "Man Utd complete £36m Tielemans deal",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93239v347qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-14T15:28:51+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Bournemouth",
-        "Rodri",
-        "Rodriguez",
-        "sign",
-        "striker"
-      ],
-      "summary": "Bournemouth announce the signing of striker Alvaro Rodriguez from Spanish club Elche in a deal worth up to £25.7m.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Piers Morgan told ‘I’ve been waiting 15 years to call you a w***er’ as former World Cup manager reopens feud",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39756451/piers-morgan-mick-mccarthy-wolves-arsenal-sports-uncensored/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T16:00:27+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Wolves",
-        "McCarthy",
-        "Piers",
-        "Morgan",
-        "told",
-        "waiting"
-      ],
-      "summary": "PIERS MORGAN has been labelled a \"w***er\" by Mick McCarthy - 17 years after publicly calling on Wolves to sack him. McCarthy dished out the insult to Morgan's face on his Sports Uncensored show this week. And it must have felt good to get his own back nearly two decades after Morgan demanded his axi",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd target three more summer signings after Youri Tielemans with striker firmly on transfer agenda",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39754028/man-utd-transfer-news-youri-tielemans/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T14:47:10+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Tielemans",
-        "Youri Tielemans",
-        "target",
-        "summer"
-      ],
-      "summary": "MANCHESTER UNITED aim to make three more signings after their flurry of deals this week. Midfielder Andrey Santos and back-up goalkeeper Karl Darlow have arrived, while Youri Tielemans began the first phase of his medical on Monday. United also want a third midfielder, a left winger and a forward to",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘For Diego’: spectre of Maradona looms over Argentina ahead of England clash",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/14/diego-maradona-argentina-world-cup",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-14T15:08:25+00:00",
-      "score": 26.0,
-      "keywords": [
-        "matic",
-        "Diego",
-        "spectre",
-        "Maradona",
-        "looms",
-        "Argentina"
-      ],
-      "summary": "The image of the national icon has been ever present through this World Cup, in banners and songs and memory. It adds a fresh layer to Wednesday’s semi-final Not two minutes after his side’s dramatic, extra-time quarter-final victory over Switzerland on Saturday, Argentina head coach Lionel Scaloni ",
-      "summary_cn": ""
-    },
-    {
-      "title": "David Beckham may pretend to be neutral during England vs Argentina clash with Three Lions legend facing awkward dilemma",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39755325/david-beckham-england-argentina-world-cup-lionel-messi/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T14:47:02+00:00",
-      "score": 26.0,
-      "keywords": [
-        "David Beckham",
-        "Beckham",
-        "David",
-        "pretend",
-        "neutral",
-        "during"
-      ],
-      "summary": "NOTHING screams football soap opera more than David Beckham’s relationship with Argentina. Though the latest chapter of Golden Balls’ epic story with the South American nation could be the most awkward yet - even with Diego Simeone being nowhere near. No, good old Becks may just have to save his bes",
-      "summary_cn": ""
-    },
-    {
-      "title": "Premier League rules World Cup defences - but not attacks",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzy9g501vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-14T15:19:17+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Premier",
-        "League",
-        "rules",
-        "World",
-        "defences",
-        "attacks"
-      ],
-      "summary": "Do the World Cup semi-final line-ups show the world’s best attacking talent plays outside the Premier League?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Everton sign France forward Mouchon from Leicester",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8727e5d4ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-14T15:44:03+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Everton",
-        "Leicester",
-        "sign",
-        "France",
-        "forward",
-        "Mouchon"
-      ],
-      "summary": "Everton sign France forward Noemie Mouchon on a free transfer from Leicester City.",
-      "summary_cn": ""
-    },
-    {
-      "title": "World Cup 2026: France v Spain semi-final buildup; Atlanta police step up security for England v Argentina – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-14T16:06:47+00:00",
-      "score": 25.0,
-      "keywords": [
-        "World",
-        "France",
-        "Spain",
-        "semi",
-        "final",
-        "buildup"
-      ],
-      "summary": "⚽️ Latest news before first of the semi-finals in Dallas ⚽️ Player guide | Golden Boot | Football Daily | Email us Atlanta police are increasing staffing and resources for Wednesday’s World Cup semi-final between England and Argentina. The department says additional officers will be deployed around ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ruben Amorim ‘opens talks with Man Utd star’s agent over sensational transfer reunion at AC Milan’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39755917/ruben-amorim-manchester-united-transfer-ac-milan-noussair-mazraoui/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T15:22:11+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Ruben",
-        "Amorim",
-        "opens",
-        "talks"
-      ],
-      "summary": "RUBEN AMORIM is keen to be reunited with Noussair Mazraoui at new club AC Milan. The former Manchester United boss has identified the defender as an ideal replacement for Pervis Estupinan. According to reports, Portuguese manager Amorim - who was appointed at San Siro earlier this summer - is eyeing",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ex-Liverpool star ripped braid from ex-girlfriend’s hair and left her with bald patch after row outside her home",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39755767/former-liverpool-star-ripped-braid-ex-girlfriend-hair/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T15:12:20+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Bournemouth",
-        "star",
-        "ripped",
-        "braid",
-        "girlfriend"
-      ],
-      "summary": "FORMER Liverpool star Jordon Ibe pulled a braid out of his ex-girlfriend’s head during an argument, a court heard. The winger, 30, left Amie Mayson with a bald patch after attacking her in Lambeth, South London, in December. Amie had confronted Ibe, who also played for Bournemouth, and demanded he r",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Happy to see me suffer?’ – Scary moment Mario Balotelli gets STUCK in claustrophobic lift as brother jumps up and down",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39755091/mario-balotelli-brother-enock-barwuah-stuck-in-life/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T14:47:31+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Happy",
-        "suffer",
-        "Scary",
-        "moment",
-        "Mario"
-      ],
-      "summary": "MARIO BALOTELLI was frozen with terror after getting stuck in a lift with a group of his pals. The former Manchester City bad boy is not easily intimidated on the pitch but comical phone footage shows that enclosed spaces might just be his weakness. After stepping into a lift, friends chuckled at a ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Balogun: I knew Trump intervention 'would cause a lot of controversy'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13563434/president-donald-trumps-fifa-intervention-over-world-cup-suspension-was-bound-to-cause-a-lot-of-controversy-says-usa-striker-folarin-balogun",
+      "url": "https://www.skysports.com/football/news/12040/13563132/youri-tielemans-transfer-news-manchester-united-xxxx",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-14T16:00:00+00:00",
+      "published": "2026-07-14T18:30:00+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester United",
+        "Man Utd",
+        "Youri Tielemans",
+        "Tielemans",
+        "complete"
+      ],
+      "summary": "Manchester United have completed the signing of Youri Tielemans from Aston Villa for &#163;36m.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd confirm Youri Tielemans transfer after triggering £35m release clause in bargain buy for Michael Carrick",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39757608/man-utd-confirm-youri-tielemans-transfer-darlow/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-14T17:32:52+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester United",
+        "Man Utd",
+        "Youri Tielemans",
+        "Michael Carrick",
+        "Carrick"
+      ],
+      "summary": "MANCHESTER UNITED have completed the £35million signing of midfielder Youri Tielemans from Aston Villa. The 29-year-old, who had a release clause at Villa and captained Belgium’s World Cup squad, has penned a five-year-deal until 2031. Tielemans said: “It’s hard to describe just how proud I am to jo",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tom Cruise among names set to take part in World Cup closing ceremony",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/film/2026/jul/14/tom-cruise-world-cup-closing-ceremony",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-14T17:54:07+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Speed",
+        "Williams",
+        "Cruise",
+        "among",
+        "names",
+        "take"
+      ],
+      "summary": "Mission: Impossible star to appear in a pre-game show that will also feature Robbie Williams and Jennifer Hudson A wide array of performers, from actor Tom Cruise to streamer IShowSpeed, will help close out the World Cup, Fifa announced on Tuesday. Soccer’s governing body released the lineup for the",
+      "summary_cn": ""
+    },
+    {
+      "title": "All done deals in July 2026",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-14T18:06:38+00:00",
+      "score": 33.0,
+      "keywords": [
+        "done",
+        "deals",
+        "July"
+      ],
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd sign Tielemans for £35m from Aston Villa",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-14T18:07:45+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester United",
+        "Man Utd",
+        "Youri Tielemans",
+        "Tielemans",
+        "sign"
+      ],
+      "summary": "Manchester United complete the signing of Youri Tielemans from Aston Villa on a five-year deal.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Secret friendlies and promoting youngsters - Alonso's first week at Chelsea",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20yv3jmg01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-14T17:44:27+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "young",
+        "Secret",
+        "friendlies",
+        "promoting",
+        "youngsters"
+      ],
+      "summary": "Chelsea's entire pre-season is already mapped out by new boss Xabi Alonso, keen to make an early impact on his players before the season begins.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Emiliano Martinez’s 10 dirty tricks revealed that England and Harry Kane must overcome in World Cup semi vs Argentina",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39757324/emiliano-martinez-dirty-tricks-england-argentina-kane-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-14T17:49:13+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Harry Kane",
+        "Emiliano",
+        "Martinez",
+        "dirty",
+        "tricks"
+      ],
+      "summary": "ENGLAND play Argentina for a spot in the World Cup final this Wednesday. It is a rivalry steeped in history on and off the field, but one of the biggest challenges the Three Lions will have to overcome is actually a familiar face. Aston Villa goalkeeper Emiliano Martinez was crucial in Argentina win",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man United sign Villa's Tielemans in $47M deal",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:40:15+00:00",
+      "score": 29.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester United",
+        "Man United",
+        "Youri Tielemans",
+        "Tielemans",
+        "United"
+      ],
+      "summary": "Manchester United have announced the signing of midfielder Youri Tielemans from Aston Villa.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Besiktas, Arsenal agree $22.8M deal for Trossard",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49357898/besiktas-agree-deal-arsenal-winger-leandro-trossard",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:39:34+00:00",
+      "score": 29.0,
+      "keywords": [
+        "Arsenal",
+        "Leandro Trossard",
+        "Trossard",
+        "Besiktas",
+        "agree",
+        "deal"
+      ],
+      "summary": "Besiktas have agreed a deal with Arsenal for winger Leandro Trossard, the north London club have announced.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Parkinson eyes progress as Wrexham meet top clubs",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd9515g1j13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-14T17:46:13+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Parkinson",
+        "eyes",
+        "progress",
+        "Wrexham",
+        "meet",
+        "clubs"
+      ],
+      "summary": "Wrexham are set for a quartet of friendlies against Premier League opponents with Phil Parkinson confident his side will be better prepared for the Championship in 2026-27 than they were last season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Manchester United close to agreeing club-record sale of Melvine Malard to Chelsea",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/14/manchester-united-close-to-agreeing-club-record-sale-of-melvine-malard-to-chelsea",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-14T17:02:34+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Manchester",
+        "United",
+        "close",
+        "agreeing"
+      ],
+      "summary": "Fee for forward could be as high as £850,000 The 26-year-old has one year remaining on contract Chelsea are closing in on a deal to sign the France forward Melvine Malard from Manchester United for a fee that would be a club-record sale. It is understood the transfer fee could be as high as approxim",
+      "summary_cn": ""
+    },
+    {
+      "title": "Imperious Gill propels India to series-opening ODI victory over England",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13563452/india-vs-england-shubman-gill-makes-majestic-80-to-propel-india-to-series-opening-six-wicket-odi-victory-at-edgbaston",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-14T18:50:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Imperious",
+        "Gill",
+        "propels",
+        "India",
+        "series",
+        "opening"
+      ],
+      "summary": "Shubman Gill made an imperious 80 off 75 balls before retiring injured to propel India to a six-wicket victory over England in the one-day international series opener at Edgbaston.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Balogun expected controversy after World Cup ban waived",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx262x3rmx2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-14T17:02:17+00:00",
       "score": 20.0,
       "keywords": [
         "Balogun",
-        "knew",
-        "Trump",
-        "intervention",
-        "cause",
-        "controversy"
+        "expected",
+        "controversy",
+        "World",
+        "waived"
       ],
-      "summary": "USA striker Folarin Balogun predicted President Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy\".&#160;",
-      "summary_cn": ""
-    },
-    {
-      "title": "Excellent coach, superstars and depth - McGinley on why England are built like Ryder Cup heroes",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13563414/excellent-coach-superstars-and-depth-mcginley-on-why-england-are-built-like-ryder-cup-heroes",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-14T15:10:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Excellent",
-        "coach",
-        "superstars",
-        "depth",
-        "McGinley",
-        "England"
-      ],
-      "summary": "Sky Sports' Paul McGinley explains how he draws comparisons between England and Team Europe.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why do Argentina sing about England and the Falklands?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17y75qd8e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-14T14:57:59+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Argentina",
-        "sing",
-        "England",
-        "Falklands"
-      ],
-      "summary": "While England see Argentina as football rivals, for Argentina the rivalry is much more than that.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Messi's lucky charm? Elfath to ref England v Argentina",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lylenekjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-14T15:32:11+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Messi",
-        "lucky",
-        "charm",
-        "Elfath",
-        "England",
-        "Argentina"
-      ],
-      "summary": "Fifa announce American referee Ismail Elfath will take charge of England's World Cup semi-final against Argentina.",
+      "summary": "United States striker Folarin Balogun knew the decision by Fifa to suspend his one-game ban at the World Cup was going to bring \"a lot of controversy\" and said it brought \"nerves\" on his team-mates.",
       "summary_cn": ""
     },
     {
@@ -303,41 +264,151 @@
       "summary_cn": ""
     },
     {
-      "title": "Football Daily | Will France’s showdown with Spain be the World Cup final in spirit?",
+      "title": "Who has your Premiership club brought in & let go this summer?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/14/football-daily-email-gwc-france-spain",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-14T14:54:28+00:00",
+      "published": "2026-07-14T17:15:08+00:00",
       "score": 20.0,
       "keywords": [
-        "Football",
-        "Daily",
-        "France",
-        "showdown",
-        "Spain",
-        "World"
+        "Premiership",
+        "club",
+        "brought",
+        "summer"
       ],
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Sure, an Argentina-England Geopolitics World Cup semi-final has a lot going for it . It’ll be 40 years since the Hand of God and, somehow, the first meeting between the two teams since an incredibly rare event: a memorable friendly, with Michael Ow",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
       "summary_cn": ""
     },
     {
-      "title": "Of all England’s great Black footballers, none has been the defining figure of the national side – until now | Calum Jacobs",
+      "title": "France v Spain: World Cup 2026 semi-final – live",
       "title_cn": "",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/14/england-great-black-footballers-national-figure-jude-bellingham",
+      "url": "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-07-14T15:33:54+00:00",
+      "published": "2026-07-14T18:02:16+00:00",
       "score": 20.0,
       "keywords": [
-        "England",
-        "great",
-        "Black",
-        "footballers",
-        "none",
-        "defining"
+        "France",
+        "Spain",
+        "World",
+        "semi",
+        "final",
+        "live"
       ],
-      "summary": "Bellingham has transcended the hostility he has faced from press and pundits to become the emotional and symbolic focal point of the team Months before the World Cup, the familiar chorus of antipathy that had followed Jude Bellingham almost since his emergence on the international stage grew louder.",
+      "summary": "⚽ Kick-off time: 2pm local/3pm EST/8pm BST/5am AEST ⚽ Player guide | Golden Boot | Football Daily | Mail Scott France and Spain have only met once before at the World Cup. That was 20 years ago, back in the day when Les Bleus very much had La Roja ’s number (the Euro 84 final , the Euro 2000 quarter",
+      "summary_cn": ""
+    },
+    {
+      "title": "War, antics and vitriol – the England v Argentina rivalry is real but now it is only about football",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/14/england-argentina-world-cup-2026-rivalry",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-14T16:23:02+00:00",
+      "score": 20.0,
+      "keywords": [
+        "antics",
+        "vitriol",
+        "England",
+        "Argentina",
+        "rivalry",
+        "real"
+      ],
+      "summary": "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina’s head coach Lionel Scaloni calling for the focus to be on football, not the Falklands After confirmation that match 102, one of the World Cup semi-finals, would be England v Argentina, the 1982 Falklands/Malvinas",
+      "summary_cn": ""
+    },
+    {
+      "title": "Why do Spain not sing their national anthem?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39750607/why-spain-not-sing-national-anthem/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-14T18:05:18+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Spain",
+        "sing",
+        "national",
+        "anthem"
+      ],
+      "summary": "SPAIN face France for a place in the World Cup final tonight, but fans have noticed something strange when the national anthem plays. Unlike almost every other nation at the tournament, none of the players sing along to the music. Here's everything we know about why. Why does Spain's national anthem",
+      "summary_cn": ""
+    },
+    {
+      "title": "When is the World Cup 3rd place play-off? Date and time as semi-final losers clash for bronze medal",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39741960/world-cup-third-place-play-off-date-start-time/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-14T18:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "place",
+        "play",
+        "Date",
+        "time",
+        "semi"
+      ],
+      "summary": "THE World Cup is heading towards a thrilling conclusion, with a winner to be decided THIS WEEKEND. But before that is the game none of the four sides will be aiming for, the 3rd place play-off. The first side to book their spot in the play-off will come from France vs Spain, as Kylian Mbappe...",
+      "summary_cn": ""
+    },
+    {
+      "title": "What is the ball that is being used in World Cup semi-finals?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39747624/world-cup-2026-semi-finals-ball/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-14T18:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "ball",
+        "being",
+        "used",
+        "World",
+        "semi",
+        "finals"
+      ],
+      "summary": "THE World Cup has reached the semi-finals in the United States, and fans have spotted that the players are using a different ball. France are taking on Spain tonight in the first of the last-four games, where Les Bleus are looking to reach their third consecutive final on the global stage. However, ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Shocking moment Argentina fans BURN Union Jacks in the street as World Cup semi final tensions reach fever pitch",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39756202/argentina-fans-burn-union-jack-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-14T16:32:29+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Shocking",
+        "moment",
+        "Argentina",
+        "fans",
+        "BURN",
+        "Union"
+      ],
+      "summary": "THIS is the shocking moment Argentinian fans burn a Union Jack as World Cup semi-final tensions threaten to boil over. Astonishing footage shows a group of fanatics setting fire to the flag before waving it aloft. Crowds of people nearby break out into cheers as the flame starts to grow. A number of",
+      "summary_cn": ""
+    },
+    {
+      "title": "Huge raid on £5.5million worth of fake World Cup shirts including England kits laced with harmful dyes",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39755982/raid-fake-world-cup-shirts-england-scotland/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-14T16:31:57+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Huge",
+        "raid",
+        "worth",
+        "fake",
+        "World",
+        "shirts"
+      ],
+      "summary": "MORE than 58,000 fake World Cup shirts have been seized during a huge raid in Scotland. England fans are planning to don their colours as the Three Lions reignite their heated rivalry with Argentina tomorrow - with a place in the final up for grabs. But the City of Edinburgh Council's Trading Standa",
       "summary_cn": ""
     },
     {
@@ -360,41 +431,129 @@
       "summary_cn": ""
     },
     {
-      "title": "World Cup presenter Diletta Leotta shows off incredible figure as she tucks into pizza while wearing busty crop top",
+      "title": "Kane: England can't focus on Argentina history",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39755514/dazn-world-cup-presenter-diletta-leotta-busty-top-pizza/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T14:48:17+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49358709/harry-kane-england-argentina-world-cup-2026-semifinal",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:39:34+00:00",
+      "score": 16.0,
       "keywords": [
-        "World",
-        "presenter",
-        "Diletta",
-        "Leotta",
-        "shows",
-        "incredible"
+        "Harry Kane",
+        "Kane",
+        "England",
+        "focus",
+        "Argentina",
+        "history"
       ],
-      "summary": "WORLD CUP presenter Diletta Leotta has dazzled whilst eating pizza in a revealing top. The Italian TV star was hanging out by a lake as she chilled in long ripped jeans. Helping herself to a thin slice of pizza, she posed in front of a pool with her abs out. The stunning blonde smiled as...",
+      "summary": "Harry Kane says a World Cup semifinal against historic rivals Argentina is \"as big as it gets\" but stressed England cannot be drawn into the emotional baggage surrounding the fixture.",
       "summary_cn": ""
     },
     {
-      "title": "‘He ended up crying’ – Egypt manager breaks silence on ‘anti-racism gesture’ after Messi row in Argentina World Cup game",
+      "title": "Balogun joins LeBron's agency after breakout WC",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39754456/egypt-hossam-hassan-anti-racism-gesture-lionel-messi/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T14:47:55+00:00",
-      "score": 20.0,
+      "url": "https://www.espn.com/soccer/story/_/id/49356529/folarin-balogun-joins-lebron-james-klutch-sports-agency-breakout-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:39:34+00:00",
+      "score": 16.0,
       "keywords": [
-        "ended",
-        "crying",
-        "Egypt",
-        "manager",
-        "breaks",
-        "silence"
+        "James",
+        "Balogun",
+        "joins",
+        "LeBron",
+        "agency",
+        "breakout"
       ],
-      "summary": "EGYPT boss Hossam Hassan says he did NOT make an anti-racism gesture during his side's World Cup defeat to Argentina last week - but claims Lionel Messi was left in tears. The South American giants bounced back from a two-goal deficit to seal a 3-2 win and book their place in the quarter-finals. And",
+      "summary": "United States forward Folarin Balogun has signed with LeBron James' agency Klutch Sports following a breakout World Cup that elevated his profile on and off the pitch.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Alonso: Chelsea job over Liverpool 'about timings'...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49356496/xabi-alonso-chelsea-liverpool-was-timings",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:39:34+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Chelsea",
+        "Liverpool",
+        "Alonso",
+        "timings"
+      ],
+      "summary": "Chelsea manager Xabi Alonso has said that his decision to join Chelsea over Liverpool was \"about timings.\"",
+      "summary_cn": ""
+    },
+    {
+      "title": "France counterattack, Argentina set pieces: How Wo...",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49349440/world-cup-semifinalists-score-goals-france-olise-spain-yamal-england-argentina-messi",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:16:12+00:00",
+      "score": 10.0,
+      "keywords": [
+        "France",
+        "counterattack",
+        "Argentina",
+        "pieces"
+      ],
+      "summary": "We're down to the final four of the World Cup, with the four top-ranked teams set to square off. Yet all of them use very different attacking styles in order to score goals.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Balogun: Red card 'controversy' affected USMNT",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:39:34+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Balogun",
+        "card",
+        "controversy",
+        "affected",
+        "USMNT"
+      ],
+      "summary": "United States striker Folarin Balogun revealed that he predicted President Donald Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
+      "summary_cn": ""
+    },
+    {
+      "title": "Infantino reported to IOC over Trump ties at WC",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49357803/gianni-infantino-reported-ioc-donald-trump-ties-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:39:34+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Infantino",
+        "reported",
+        "Trump",
+        "ties"
+      ],
+      "summary": "A complaint alleging FIFA president Gianni Infantino has breached rules on political neutrality in his dealings with President Donald Trump has been submitted to the International Olympic Committee.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Yamal: France SF most important match of career",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49356590/lamine-yamal-spain-france-semifinal-my-most-important-match-not-afraid",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-07-14T18:39:34+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Yamal",
+        "France",
+        "most",
+        "important",
+        "match",
+        "career"
+      ],
+      "summary": "Spain winger Lamine Yamal has described the World Cup semifinal against France as \"the most important match\" in his career.",
       "summary_cn": ""
     }
   ]
