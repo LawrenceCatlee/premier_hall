@@ -1,42 +1,77 @@
 {
-  "updated_at": "2026-07-18T03:22:08.882554+00:00",
+  "updated_at": "2026-07-18T06:11:43.308796+00:00",
   "items": [
     {
-      "title": "'They made him a defensive player' - Trump questions Kane role in semi",
+      "title": "‘Go and get him’ – England legend Wayne Rooney names boss he would like to replace Thomas Tuchel after World Cup failure",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/39796297/wayne-rooney-pep-guardiola-england-thomas-tuchel-world-cup/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-18T02:12:52+00:00",
-      "score": 26.0,
+      "published": "2026-07-18T06:02:35+00:00",
+      "score": 31.0,
       "keywords": [
-        "Harry Kane",
-        "made",
-        "defensive",
-        "player",
-        "Trump",
-        "questions"
+        "Wayne Rooney",
+        "Rooney",
+        "England",
+        "legend",
+        "Wayne",
+        "names"
       ],
-      "summary": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
+      "summary": "WAYNE ROONEY has urged England to approach Pep Guardiola as Thomas Tuchel's replacement after the Three Lions crashed out of the World Cup. England were sent packing by Argentina in the semi-finals after an agonising collapse saw Lionel Messi and Co score twice in the last seven minutes. Tuchel has ",
       "summary_cn": ""
     },
     {
-      "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+      "title": "Why third-place play-off against France is huge for Tuchel and England",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/football/news/12040/13564512/france-vs-england-why-world-cup-third-place-play-off-is-huge-for-three-lions-boss-thomas-tuchel",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-18T02:50:36+00:00",
+      "published": "2026-07-18T07:00:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Defiant",
-        "Tuchel",
-        "defends",
-        "decisions",
-        "loss",
-        "scar"
+        "third",
+        "place",
+        "play",
+        "against",
+        "France",
+        "huge"
       ],
-      "summary": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
+      "summary": "England are in the midst of a run of three matches against the top three sides in world football. That is unprecedented.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who am I? Guess World Cup star No 41",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyp7m9qg4po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-18T05:51:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Guess",
+        "World",
+        "star"
+      ],
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tuchel defiant in face of criticism over decisions in England exit: ‘I have no regrets’",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-2026-world-cup-exit-no-regrets",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-18T04:28:21+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Tuchel",
+        "defiant",
+        "face",
+        "criticism",
+        "decisions",
+        "England"
+      ],
+      "summary": "Head coach refuses to engage in ‘blame game’ after defeat by Argentina Trump joins critics of Tuchel’s tactics in World Cup semi-final elimination Thomas Tuchel has insisted he is not interested in engaging in the “blame game” over England’s World Cup elimination and vowed to close the gap on the le",
       "summary_cn": ""
     }
   ]
