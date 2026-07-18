@@ -1,135 +1,42 @@
 {
-  "updated_at": "2026-07-17T23:58:31.967558+00:00",
+  "updated_at": "2026-07-18T03:22:08.882554+00:00",
   "items": [
     {
-      "title": "Leeds United ticket and hotel packages for Premier League games for the 2026/27 season",
+      "title": "'They made him a defensive player' - Trump questions Kane role in semi",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39786485/leeds-united-ticket-hotel-packages-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-17T23:48:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Leeds",
-        "United",
-        "ticket",
-        "hotel",
-        "packages",
-        "Premier"
-      ],
-      "summary": "LEEDS fans have an unbeatable opportunity to secure their place at Elland Road this season. The club's official ticket plus VIP hospitality and hotel packages are now officially on sale. Leeds ticket packages The deal, brought to you by Champions Travel, allows supporters to combine a match ticket w",
-      "summary_cn": ""
-    },
-    {
-      "title": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-17T22:45:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Konsa",
-        "Papers",
-        "preparing",
-        "offer"
-      ],
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "summary_cn": ""
-    },
-    {
-      "title": "White House defends Argentina team over Falklands banner",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-17T22:12:54+00:00",
+      "published": "2026-07-18T02:12:52+00:00",
       "score": 26.0,
       "keywords": [
-        "Downing",
-        "White",
-        "House",
+        "Harry Kane",
+        "made",
+        "defensive",
+        "player",
+        "Trump",
+        "questions"
+      ],
+      "summary": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-18T02:50:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Defiant",
+        "Tuchel",
         "defends",
-        "Argentina",
-        "team"
+        "decisions",
+        "loss",
+        "scar"
       ],
-      "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Michael Owen: Beating Mexico was the worst thing for England.. it gave Thomas Tuchel the blueprint for World Cup failure",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39795718/michael-owen-mexico-blueprint-england-world-cup-failure/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-17T22:29:15+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Michael Owen",
-        "Michael",
-        "Owen",
-        "Beating",
-        "Mexico",
-        "worst"
-      ],
-      "summary": "MICHAEL OWEN has claimed England beating Mexico set up their eventual downfall against Argentina. The Three Lions showed off a superb back-to-the-wall rear-guard action against Mexico at the Azteca Stadium in the last 16 after going down to ten men. But Owen believes that bringing the same ideas int",
-      "summary_cn": ""
-    },
-    {
-      "title": "Iheanacho rejects new Celtic deal as Saracchi gives up on return",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz054lpgym7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-17T23:23:28+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Iheanacho",
-        "rejects",
-        "Celtic",
-        "deal",
-        "Saracchi",
-        "gives"
-      ],
-      "summary": "Nigeria striker Kelechi Iheanacho turns down a new contract with Celtic and joins Bursaspor as former loanee Marcelo Saracchi admits defeat in his bid to return to the Scottish champions.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-17T23:48:22+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Premiership",
-        "club",
-        "brought",
-        "summer"
-      ],
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "summary_cn": ""
-    },
-    {
-      "title": "How World Cup final will be like nothing we have seen before with 30-MINUTE celeb-packed halftime show",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39794591/world-cup-final-halftime-celebs-show-furious-fans/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-17T22:00:39+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "final",
-        "like",
-        "nothing",
-        "seen",
-        "MINUTE"
-      ],
-      "summary": "IT is certainly not the World Cup final we were hoping for – and it will not be like any we have seen before. Fans have already endured Fifa and the Yanks turning matches into a version of American football, with four quarters, kick-off countdowns and shots of celebs in the crowds every few minutes.",
+      "summary": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
       "summary_cn": ""
     }
   ]
