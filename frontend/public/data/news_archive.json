@@ -1,6 +1,519 @@
 {
   "items": [
     {
+      "title": "Chelsea sign Malard from Man Utd",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13565293/melvine-malard-chelsea-complete-signing-of-manchester-united-forward-on-750000-deal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-20T15:00:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Man Utd",
+        "sign",
+        "Malard"
+      ],
+      "summary": "Chelsea have completed the signing of Manchester United forward Melvine Malard on a &#163;750,000 deal.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Pep Guardiola ‘in talks over shock international manager’s job after changing mind on taking charge of England’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39815995/pep-guardiola-italy-england-man-city-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T14:14:32+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester City",
+        "Guardiola",
+        "talks",
+        "shock",
+        "international",
+        "manager"
+      ],
+      "summary": "PEP GUARDIOLA has held talks over potentially becoming the next Italy manager after a glittering ten-year stint at Manchester City. Guardiola, 55, announced his departure from City in May after winning every available honour, including six Premier League titles, three FA Cup trophies, five League Cu",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Xabi Alonso removes long-standing Chelsea coach from matchday team and hands him never-before-seen new role",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39815984/xabi-alonso-removes-chelsea-coach-bernardo-cueva/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T13:16:33+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brentford",
+        "Chelsea",
+        "given",
+        "Xabi",
+        "Alonso",
+        "removes"
+      ],
+      "summary": "CHELSEA have removed set-piece coach Bernardo Cueva from Xabi Alonso's coaching staff and given him a new role. The Mexican, 38, has been the first team set-piece coach since joining from Brentford two years ago. Cueva will now no longer be part of the matchday staff, or present in the training sess",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Hearn: 'Ferocious' AJ primed to cause Prenga 'an awful lot of pain'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13565282/anthony-joshua-ferocious-british-heavyweight-will-cause-kristian-prenga-an-awful-lot-of-pain-says-barry-hearn",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-20T14:03:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Barry",
+        "Hearn",
+        "Ferocious",
+        "primed",
+        "cause",
+        "Prenga"
+      ],
+      "summary": "Anthony Joshua has adopted a \"ferocious\" mindset ahead of his comeback fight against Kristian Prenga and is primed to \"cause an awful lot of pain\", says Matchroom president Barry Hearn.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Rodri’s redemption story leaves stars in the shadow of Spain’s great controller | Jonathan Wilson",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/20/rodris-redemption-story-leaves-world-cup-stars-in-the-shadow-of-spains-great-controller",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-20T14:01:15+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Wilson",
+        "Rodri",
+        "redemption",
+        "story",
+        "leaves",
+        "stars"
+      ],
+      "summary": "Much of what Rodri does is indefinable – his great skill is simply being, existing in the right spaces You don’t need to be long in the US before somebody, finding you’re here to cover “the Fifa” as so many Americans so demoralisingly call it, will tell you that the USA would obviously win it all th",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "David Raya narrowly avoids dangerous medal accident during Spain World Cup celebrations",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39815548/david-raya-spain-medal-world-cup-final-arsenal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T12:52:49+00:00",
+      "score": 26.0,
+      "keywords": [
+        "David Raya",
+        "Torres",
+        "David",
+        "Raya",
+        "narrowly",
+        "avoids"
+      ],
+      "summary": "DAVID RAYA narrowly avoided a nasty accident after his medal got tangled in the goal net following Spain’s World Cup victory.&nbsp; Ferran Torres scored the only goal of the game in the 106th minute, denying Argentina the opportunity to retain the title.&nbsp; As the party began for the Europeans, t",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Hull KR's Lewis handed four-game ban after headbutt",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13565238/super-league-hull-kr-star-mikey-lewis-banned-for-four-games-after-headbutt-late-tackle-vs-warrington-wolves",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-20T12:49:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "Hull",
+        "Lewis",
+        "handed",
+        "four",
+        "game"
+      ],
+      "summary": "Hull KR star Mikey Lewis has been served with a four-game ban for a late tackle and a headbutt in a 34-12 defeat against Warrington Wolves on Saturday.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Why are Premier League transfer fees soaring?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g37y2nyp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-20T13:04:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "transfer",
+        "fees",
+        "soaring"
+      ],
+      "summary": "With Morgan Rogers set to become the third £100m-plus Premier League transfer of the summer, BBC Sport looks at how the market keeps growing.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Liverpool sign midfielder Itamura from Feyenoord",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly520nn5r8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-20T14:14:29+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "sign",
+        "midfielder",
+        "Itamura",
+        "Feyenoord"
+      ],
+      "summary": "Liverpool sign attacking midfielder Mao Itamura from Feyenoord.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Kevin Keegan dead: England football legend dubbed the ‘Mighty Mouse’ dies aged 75 as sport world mourns",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/37842353/kevin-keegan-england-legend-dies/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T14:19:43+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Kevin",
+        "Keegan",
+        "dead",
+        "England",
+        "football"
+      ],
+      "summary": "ENGLAND legend Kevin Keegan has died aged 75. The former Newcastle manager's family revealed he was diagnosed with stage four stomach cancer in January after being admitted to hospital with ongoing abdominal problems. Kevin - who was last pictured in good spirits on May 31 - has now sadly passed awa",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Former England forward and manager Keegan dies aged 75",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13563799/kevin-keegan-dies-aged-75-former-england-forward-and-manager-passes-away-after-battle-with-cancer",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-20T15:17:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Former",
+        "England",
+        "forward",
+        "manager",
+        "Keegan",
+        "dies"
+      ],
+      "summary": "Kevin Keegan has died at the age of 75.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Rohit shrugs off retirement chat as he plans to play on through the 'noise'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13565255/rohit-sharma-india-batting-great-brushes-off-retirement-chat-after-hitting-century-against-england-at-lords-in-third-odi",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-20T13:15:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Rohit",
+        "shrugs",
+        "retirement",
+        "chat",
+        "plans",
+        "play"
+      ],
+      "summary": "India great Rohit Sharma has shrugged off talk about his international future after scoring a century against England in the ODI series decider at Lord's.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Guardiola holds talks over Italy head coach role",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13565239/italian-football-federation-hold-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-20T12:56:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Guardiola",
+        "holds",
+        "talks",
+        "Italy",
+        "head",
+        "coach"
+      ],
+      "summary": "The Italian Football Federation (FIGC) has met with Pep Guardiola to convince him to take over as national team head coach, according to Sky in Italy.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Hearts, Rangers, Motherwell and Hibs find out Euro qualifying opponents",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13565199/hearts-rangers-motherwell-and-hibernian-find-out-champions-league-europa-league-and-conference-league-qualifying-opponents",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-20T13:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Hearts",
+        "Rangers",
+        "Motherwell",
+        "Hibs",
+        "find",
+        "Euro"
+      ],
+      "summary": "Hearts, Rangers, Motherwell and Hibernian have found out their next qualifying opponents in the Champions League, Europa League and Conference League.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Manager Garcia to leave Belgium when contract expires",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2ry9n8ygxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-20T13:52:53+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Manager",
+        "Garcia",
+        "leave",
+        "Belgium",
+        "contract",
+        "expires"
+      ],
+      "summary": "Belgium manager Rudi Garcia will leave his role after the country's football association decided against extending his contract.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "World Cup final watched by 15.8m people on BBC",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq89v9jgwpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-20T13:57:41+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "final",
+        "watched",
+        "people"
+      ],
+      "summary": "Spain's victory in Sunday's World Cup final attracts a peak audience of 15.8 million on BBC One and BBC iPlayer.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Watch the BBC's closing World Cup montage",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-20T12:50:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Watch",
+        "closing",
+        "World",
+        "montage"
+      ],
+      "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Tuchel is clinging to an outdated English style – he must let players take risks | Jacob Steinberg",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/20/thomas-tuchel-football-assocation-fa-england-world-cup-2026-head-coach",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-20T13:55:15+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Tuchel",
+        "clinging",
+        "outdated",
+        "English",
+        "style",
+        "must"
+      ],
+      "summary": "Head coach should ditch a physical approach that has rarely worked and embrace England’s gifted ball players Only England can claim the bronze medal at the World Cup by beating France in a 10-goal thriller and end up even more annoyed with the manager. Yet emotions are still running high after the c",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "‘Beyond reproach’: Argentinian media praises Scaloni’s team despite World Cup final defeat",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/20/beyond-reproach-argentinian-media-praises-scaloni-team-despite-world-cup-final-defeat",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-20T13:30:34+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Beyond",
+        "reproach",
+        "Argentinian",
+        "media",
+        "praises",
+        "Scaloni"
+      ],
+      "summary": "Clarín says team ‘gave it their all’ in losing effort La Nación: ‘They are the pride of the nation’ After Argentina lost 1-0 to Spain in the World Cup final on Sunday, in what is likely to be Lionel Messi’s last World Cup, the nation’s media celebrated the team while admitting that the Europeans had",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "‘A unique collective experience’: Spain media hail team’s World Cup triumph",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/20/spain-media-hail-2026-world-cup-final-triumph",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-20T12:30:34+00:00",
+      "score": 20.0,
+      "keywords": [
+        "unique",
+        "collective",
+        "experience",
+        "Spain",
+        "media",
+        "hail"
+      ],
+      "summary": "El Mundo marks country’s ‘unique collective experience’ El Pais highlights the side’s ‘conviction of hard work’ Sometimes football is about more than just football. As Spain’s still-breathless media pointed out on Monday, the national side’s victory against Argentina the previous night was an epocha",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Why was Messi bathing Yamal? The viral photo explained after Spain beat Argentina in World Cup final",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39815543/why-was-messi-bathing-yamal-is-photo-real/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T14:14:28+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Messi",
+        "bathing",
+        "Yamal",
+        "viral",
+        "photo",
+        "explained"
+      ],
+      "summary": "A CHARITY photoshoot from almost two decades ago took on new meaning after its superstar subjects faced off on football's biggest stage. Here is the full story behind the picture depicting the moment Lionel Messi first met Lamine Yamal. Spain beat Argentina 1-0 after extra time in the World Cup fina",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Eleonora Incardona the real star of World Cup final as Italian firecracker puts on sizzling smokeshow performance",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39815991/eleonora-incardona-world-cup-final/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T14:10:33+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Eleonora",
+        "Incardona",
+        "real",
+        "star",
+        "World",
+        "final"
+      ],
+      "summary": "STUNNING World Cup presenter Eleonora Incardona stole the show at the final last night. She posted a series of snaps on her Instagram story. This time the Italian firecracker posed in a revealing pink two-piece. Having worked at this summer's World Cup, she was of course there for the final. And wit",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Uefa president ‘BOYCOTTS World Cup final over incomprehensible Balogun decision as rift with Fifa worsens’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39816180/uefa-president-aleksander-ceferin-boycotts-world-cup-balogun-fifa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T14:00:09+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Uefa",
+        "president",
+        "BOYCOTTS",
+        "World",
+        "final",
+        "incomprehensible"
+      ],
+      "summary": "UEFA president Aleksander Ceferin sensationally boycotted the World Cup final as football’s civil war with Fifa escalates further. The Slovenian stayed far away from Spain’s 1-0 extra-time victory over Argentina in New Jersey following the Folarin Balogun row. The USMNT striker was permitted to star",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "World Cup’s sexiest fan Gabriela Moura leaves jaws-dropped with mesh outfit as she says she’s ‘wide awake’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39816464/gabriela-moura-world-cup-brazil-instagram/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T13:28:23+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "sexiest",
+        "Gabriela",
+        "Moura",
+        "leaves",
+        "jaws"
+      ],
+      "summary": "THE WOMAN dubbed the World Cup's sexiest fan took social media by storm with her latest outfit. Gabriela Moura turned heads while supporting her beloved Brazil during the 2026 World Cup in the United States, Canada and Mexico. https://www.instagram.com/p/Da6H2CIklcM/?img_index=4 At the same time, Ga",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Zlatan Ibrahimovic makes shock Fox exit announcement in final seconds of World Cup live TV broadcast",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39816079/zlatan-ibrahimovic-shocks-fox-exit-world-cup-final/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T12:54:28+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Zlatan",
+        "Ibrahimovic",
+        "makes",
+        "shock",
+        "exit",
+        "announcement"
+      ],
+      "summary": "ZLATAN Ibrahimovic made a shock Fox exit announcement in the final seconds of their World Cup final broadcast. Ibrahimovic, 44, has been a very popular addition to Fox's coverage of the entire tournament. So much so, Fox wanted to bring him back alongside anchor Rebecca Lowe and co-analysts Thierry ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
+      "title": "Benidorm goes wild as England and Spain fans come together to celebrate Argentina World Cup final loss",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39814888/benidorm-england-spain-fans-celebrate-argentina-world-cup-loss/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-20T12:28:19+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Benidorm",
+        "goes",
+        "wild",
+        "England",
+        "Spain",
+        "fans"
+      ],
+      "summary": "IT'S no surprise that the streets of Spain were party central after they won the World Cup final with a 1-0 extra-time win over Argentina. But Spaniards may have been mildly surprised to see themselves flanked by jubilant English fans, too. The two sets of supporters were united as England's disdain",
+      "summary_cn": "",
+      "fetched_at": "2026-07-20T14:25:20.620432+00:00"
+    },
+    {
       "title": "Man Utd lure 13-goal wonderkid from Premier League rivals on ‘hefty salary’ after making stunning first-team guarantee",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39813549/tynan-thompson-manchester-united-transfer/",
@@ -39035,526 +39548,6 @@
       "summary": "CROAKY Harry Kane lost his voice singing Wonderwall in a hilarious post-match interview following England's heroics against Mexico. The Three Lions captain was celebrating a heroic night after a 3-2 win away at the Azteca. Thomas Tuchel's side fought for 40 minutes with 10 men after Jarell Quansah's",
       "summary_cn": "",
       "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "Jordan Henderson rushed to hospital after suffering freak injury celebrating England’s World Cup win over Mexico",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659983/england-medics-celebrations-world-cup-mexico/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T03:21:35+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Jordan Henderson",
-        "Henderson",
-        "Jordan",
-        "rushed",
-        "hospital",
-        "suffering"
-      ],
-      "summary": "JORDAN HENDERSON was taken off on a stretcher and rushed to hospital after going down DURING the Azteca celebrations. The Three Lions pulled off one of their greatest-ever wins to beat Mexico 3-2 in a drama-filled blockbuster. The entire England squad sang their anthem Wonderwall in front of the sec",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "England star booked despite not playing a minute in fiery Mexico World Cup clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659920/england-jordan-henderson-booked-mexico-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T03:20:10+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Jordan Henderson",
-        "Henderson",
-        "England",
-        "star",
-        "booked",
-        "despite"
-      ],
-      "summary": "ENGLAND were forced to battle to the very end to secure a stunning 3-2 victory over Mexico behind enemy lines in the last 16 of the World Cup. But it wasn't just the players on the pitch who put it all on the line and suffered - Jordan Henderson felt every kick with the lads....",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "England player ratings: Bellingham inspired as Gordon provides much-needed spark but Quansah makes Three Lions sweat",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39658770/england-player-ratings-bellingham-mexico-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T03:05:46+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Bukayo Saka",
-        "England",
-        "player",
-        "ratings",
-        "Bellingham",
-        "inspired"
-      ],
-      "summary": "ENGLAND pulled off a heroic 3-2 win against hosts Mexico at the Azteca with ten men to book a quarter-final clash against Norway. The Three Lions were inspired by a brace from Jude Bellingham, who grabbed his first with a superb diving header after a perfectly-timed cross from Bukayo Saka. And he co",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "Paul Robinson ‘showered in beer and lemonade’ as Mexico fans wildly celebrate World Cup goal against England",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659414/paul-robinson-mexico-england-azteca-bbc/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T02:47:44+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Paul Robinson",
-        "Robinson",
-        "Paul",
-        "showered",
-        "beer"
-      ],
-      "summary": "FORMER England star Paul Robinson was left drenched in beer and lemonade after Mexico fans erupted in wild celebrations. In a chaotich match that England won 3-2, Three Lions talisman Jude Bellingham scored twice, Harry Kane added a penalty and Jarrell Quansah was sent off. While there was a nervy e",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "Harry Kane and co showered in beer as England stars celebrate penalty in front of fuming Mexico fans at World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659576/harry-kane-england-celebrate-beer-mexico/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T02:41:14+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Harry",
-        "Kane",
-        "showered",
-        "beer",
-        "England"
-      ],
-      "summary": "HARRY KANE and his England team-mates were drenched in beer by Mexico fans while celebrating a goal during their incredible 3-2 win at the Azteca. Thomas Tuchel's men had the perfect start in Mexico City as they went 2-0 up thanks to Jude Bellingham's quick-fire brace. Mexico left England sweating a",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "‘First time I’ve seen that’ say fans as Mexico concede kick off in bizarre scenes after Harry Kane’s England penalty",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659567/england-mexico-harry-kane-penalty-kick-off/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T02:37:38+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "First",
-        "time",
-        "seen",
-        "fans",
-        "Mexico"
-      ],
-      "summary": "FOOTIE fans were left stunned in the aftermath of Harry Kane's penalty against Mexico as England were awarded a shock free kick. The Bayern Munich hitman put the Three Lions 3-1 up with a thumping spot-kick on the hour mark Mexico, who had a man advantage thanks to Jarrell Quansah's red card, looked",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "England and Mexico benches erupt in furious brawl with ‘punches thrown’ after shocking Quansah lunge in World Cup clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659460/england-mexico-brawl-punches-thrown-quansah-bench/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T02:37:10+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Alan Shearer",
-        "march",
-        "given",
-        "Shearer",
-        "England",
-        "Mexico"
-      ],
-      "summary": "THE BENCHES of England and Mexico exploded into a brawl following Jarell Quansah's red card challenge. BBC co-commentator Alan Shearer commented on the carnage as it unfolded. Quansah was given his marching orders for the challenge, but on first sight, chaos broke out. Both benches were visibly ragi",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "Casemiro bursts into tears and has to be comforted by journalists after shock Brazil World Cup exit",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659134/world-cup-news-brazil-norway-casemiro-cry-interview/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T02:30:50+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "Casemiro",
-        "bursts",
-        "tears",
-        "comforted"
-      ],
-      "summary": "CASEMIRO fought back the tears as he reflected on Brazil's shock World Cup exit to Norway. The Samba Boys suffered a stunning 2-1 defeat to the Norwegians in their last-16 tie in New Jersey. A brace from Erling Haaland booked Norway passage to their FIRST-EVER tournament quarter-final and sent Selec",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "Three Lions roar at alti-Jude! Bellingham and Kane send 10-man England to QFs after thriller",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/mexico-vs-england/report/549857",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-06T03:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Lions",
-        "roar",
-        "alti",
-        "Jude",
-        "Bellingham",
-        "Kane"
-      ],
-      "summary": "England are through to the World Cup quarter-finals after earning one of their greatest knockout results by eliminating co-hosts Mexico with a gutsy 3-2 victory in an extraordinary tie at the Azteca.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "England ratings: Bellingham shines but heroic defence secures QF spot",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13560798/mexico-2-3-england-jude-bellingham-and-harry-kane-shine-again-in-heroic-defensive-display-at-azteca-stadium",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-06T04:30:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "ratings",
-        "Bellingham",
-        "shines",
-        "heroic",
-        "defence"
-      ],
-      "summary": "England held on for an excruciating 3-2 win against Mexico thanks to a heroic defensive performance to book their place in the quarter-finals of the World Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "England’s 10 men hang on after Kane penalty to beat Mexico in World Cup thriller",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-06T03:06:05+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "hang",
-        "Kane",
-        "penalty",
-        "beat",
-        "Mexico"
-      ],
-      "summary": "File it as England’s finest World Cup knockout phase victory since 1966. There have not been a huge number of them; only nine previously, each a gripping drama in its own right. Yet it was the context of this one that set it apart. England stepped into the mayhem of the Estadio Azteca, a venue that ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "England 3 Mexico 2: Bellingham scores twice in nerve-wracking win as ten-man Three Lions reach World Cup quarter-finals",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659766/jude-bellingham-england-mexico-world-cup-harry-kane/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T03:05:39+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "Mexico",
-        "Bellingham",
-        "scores",
-        "twice",
-        "nerve"
-      ],
-      "summary": "THOMAS TUCHEL promised that England would finally make peace with the Azteca Stadium - and he was right. After an energy-sapping, nail-biting, head-scratching and downright unbelievable game of football, England - who played for most of the second half with 10 men after Jarell Quansah’s red card - c",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "Who do England play next at World Cup 2026 after win over Mexico? Date and time as Three Lions earn quarter-final spot",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39615238/who-england-play-next-world-cup-2026-when-date-time/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T03:04:42+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "play",
-        "next",
-        "World",
-        "Mexico",
-        "Date"
-      ],
-      "summary": "ENGLAND have BEATEN Mexico in the last-16 of the World Cup with an all-time defensive display! The Three Lions secured a classic 3-2 win at the Azteca to go through to the quarter-finals. Jude Bellingham scored a quick-fire double to give England a 2-0 lead late in the first half before Julian Quino",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "England star Jarell Quansah SENT OFF after wild challenge on Mexico star in World Cup clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39659410/england-jarell-quansah-sent-off-mexico-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-06T02:26:28+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "star",
-        "Jarell",
-        "Quansah",
-        "SENT",
-        "wild"
-      ],
-      "summary": "JARELL QUANSAH was SENT OFF for a high tackle at a crucial stage of England's World Cup showdown with Mexico. But the Three Lions clung on to notch a famous 3-2 victory, punching their ticket to the quarter-finals despite playing most of the second half a man down. England were 2-1 up after a strong",
-      "summary_cn": "",
-      "fetched_at": "2026-07-06T04:19:17.288388+00:00"
-    },
-    {
-      "title": "Real Madrid plot £188m Olise deal - Monday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjxx6ngdggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-05T21:15:50+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Newcastle",
-        "Tottenham",
-        "Rafael",
-        "Real",
-        "Madrid",
-        "plot"
-      ],
-      "summary": "Real Madrid are preparing a mammoth deal for Michael Olise, Tottenham exploring move for Rafael Leao, while Newcastle target Angelo Stiller, plus more.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "‘Talking to you’ – Cristiano Ronaldo in brutal response to reporter who ‘doesn’t like him’ at World Cup press conference",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39657138/wolrd-cup-news-cristiano-ronaldo-press-conference-reporter/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-05T22:50:42+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Talking",
-        "Cristiano",
-        "brutal"
-      ],
-      "summary": "CRISTIANO RONALDO gave a brutal response to a reporter he claims doesn't \"like\" him. The five-time Ballon d'Or winner fielded questions from the media on Sunday afternoon ahead of Portugal's last-16 clash with Iberian rivals Spain. After answering a multitude of questions, the Manchester United lege",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Emotional Erling Haaland fights back tears at final whistle after his heroics see Brazil KOd from World Cup by Norway",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39657613/erling-haaland-tears-world-cup-norway-brazil/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-05T22:27:07+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Man City",
-        "Erling Haaland",
-        "Haaland",
-        "Emotional",
-        "Erling",
-        "fights"
-      ],
-      "summary": "ERLING HAALAND fought back tears after his brace helped Norway secure a shock win over Brazil at the World Cup. The Man City star powered Norway ahead with a header before firing into the corner in stoppage time. Neymar pulled one back from the spot with the last kick of the game but it couldn't...",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Neymar laughs in Norway goalkeeper’s face after scoring penalty then breaks down in tears in Brazil’s World Cup defeat",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39657442/neymar-laughs-norway-keeper-face-brazil-world-cup-loss/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-05T22:15:28+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Haaland",
-        "Neymar",
-        "laughs",
-        "Norway",
-        "goalkeeper"
-      ],
-      "summary": "NEYMAR chuckled in the face of goalkeeper Orjan Nyland - but Norway got the last laugh. The former Barcelona and PSG star came off the bench to pull one back for Brazil in the World Cup last 16. But it proved too little too late as Manchester City's Erlind Haaland sent Norway through with a...",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Ederson to Man Utd transfer held up due to rarely-seen medical issue after claims deal was dead in the water",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39656730/ederson-man-utd-medical-transfer-news-brazil/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-05T22:05:09+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Ederson",
-        "transfer",
-        "held",
-        "rarely"
-      ],
-      "summary": "EDERSON's move to Old Trafford has been held up because Manchester United reportedly want him to have TWO medicals. A £35million deal between United and Atalanta has been in place for over a month. And Ederson himself is keen on making the move, with personal terms agreed and the first part of his m",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Kai Rooney promoted to Man Utd scholar as he poses with proud dad Wayne after football breakthrough",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39656746/kai-rooney-promoted-to-man-utd-dad-wayne-football/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-05T21:45:09+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Rooney",
-        "promoted",
-        "scholar",
-        "poses"
-      ],
-      "summary": "KAI ROONEY celebrated a Manchester United scholarship with his legendary father Wayne. The 16-year-old has featured for United's Under-16s last season - playing six times in league action. But he has now been handed a scholarship with the Red Devils - typically a full-time, two-year apprenticeship a",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Mexico v England: storm delays arrival of teams at stadium before World Cup 2026 last 16 tie – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-05T22:54:09+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Mexico",
-        "England",
-        "storm",
-        "delays",
-        "arrival",
-        "teams"
-      ],
-      "summary": "⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST ⚽️ Player guide | Bracketology | World Cup draw | Email Beau It has just been announced that the arrival of the teams at the stadium has been put on hold. So, maybe we won’t be fine .... And another! Norway are heading through. There’s gonna be a",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Brazil stunned as Haaland's masterclass sends Norway into last eight",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/brazil-vs-norway/report/549856",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-05T23:10:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "Brazil",
-        "stunned",
-        "masterclass",
-        "sends"
-      ],
-      "summary": "Erling Haaland dumped Brazil out of the World Cup at the last-16 stage as his brilliant late double secured a 2-1 win for Norway to set up a quarter-final against England or Mexico.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Haaland sends Norway into quarter-finals as Brazil crash out",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8e226j15rpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-05T22:47:49+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "sends",
-        "Norway",
-        "quarter",
-        "finals"
-      ],
-      "summary": "Erling Haaland scores twice for Norway as they beat Brazil 2-1 at the New York New Jersey Stadium to reach the quarter-finals of the World Cup for the first time.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Haaland double fires Norway into World Cup quarter-finals",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-05T22:27:08+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "double",
-        "fires",
-        "Norway",
-        "World"
-      ],
-      "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Haaland’s heroic double stuns Brazil and sends Norway into World Cup quarter-finals",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/05/brazil-norway-world-cup-2026-last-16-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-05T22:15:11+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "heroic",
-        "double",
-        "stuns",
-        "Brazil"
-      ],
-      "summary": "We are going to need a bigger longboat. Norway are into the quarter-finals of the World Cup for the first time after edging this contest thanks to the man whose smile, and choice in cowboy apparel, has charmed the USA. Erling Haaland delivered again for his country, scoring two goals in the last 11 ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
-    },
-    {
-      "title": "Calls for Carlo Ancelotti to be AXED by Brazil after World Cup flop – with familiar face tipped to take over",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39657598/carlo-ancelotti-brazil-world-cup-pep-guardiola-norway/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-05T22:24:50+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "Calls",
-        "Carlo",
-        "Ancelotti",
-        "AXED"
-      ],
-      "summary": "BRAZIL fans want Carlo Ancelotti SACKED after the nation's shock World Cup defeat to Norway. Ancelotti - hailed by many leading into the tournament as the man to end Brazil's 24-year World Cup drought - oversaw a dreary 2-1 defeat in the last 16. Erling Haaland put his Selecao stars to the sword wit",
-      "summary_cn": "",
-      "fetched_at": "2026-07-05T23:09:32.950989+00:00"
     }
   ]
 }
