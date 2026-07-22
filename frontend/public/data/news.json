@@ -1,382 +1,246 @@
 {
-  "updated_at": "2026-07-22T11:54:43.457847+00:00",
+  "updated_at": "2026-07-22T14:14:17.656102+00:00",
   "items": [
     {
-      "title": "Arsenal sign Real Madrid goalkeeper Rodriguez",
+      "title": "'This means everything to me' - Foden signs new Man City contract",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13565873/misa-rodriguez-arsenal-sign-real-madrid-goalkeeper-on-a-free-transfer",
+      "url": "https://www.skysports.com/football/news/12040/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-22T10:00:00+00:00",
+      "published": "2026-07-22T13:00:00+00:00",
       "score": 39.0,
       "keywords": [
-        "Arsenal",
-        "Rodri",
-        "Rodriguez",
-        "sign",
-        "Real",
-        "Madrid"
+        "Man City",
+        "Phil Foden",
+        "Foden",
+        "means",
+        "everything",
+        "signs"
       ],
-      "summary": "Arsenal have completed the free signing of former Real Madrid captain and goalkeeper Misa Rodriguez.",
+      "summary": "Man City have announced Phil Foden has signed a new contract at the club.",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea ticket deals for Premier League games for 2026/27 season with hospitality and upgrades at Stamford Bridge",
+      "title": "Foden signs new four-year Man City contract",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39471356/chelsea-ticket-hotel-packages-premier-league-stamford-bridge/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-22T10:41:53+00:00",
+      "published": "2026-07-22T12:17:51+00:00",
       "score": 39.0,
       "keywords": [
-        "Chelsea",
-        "Bridge",
-        "ticket",
-        "deals",
-        "Premier",
-        "League"
-      ],
-      "summary": "CHELSEA fans can experience the magic of matchday live with these ticket deals to Stamford Bridge for the new season. Perfect for die-hard fans or anyone wanting to enjoy top-tier Premier League action, this exclusive travel offer lets you secure your seat and your food and drink in one easy transac",
-      "summary_cn": ""
-    },
-    {
-      "title": "Southampton head coach Tonda Eckert charged with misconduct by FA over spygate scandal",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/22/southampton-tonda-eckert-charged-with-misconduct-by-fa-over-spygate-scandal",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-22T10:54:57+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Southampton",
-        "head",
-        "coach",
-        "Tonda",
-        "Eckert",
-        "charged"
-      ],
-      "summary": "33-year-old German could be hit with one-year ban South-coast club denied chance to win promotion Tonda Eckert has been charged with misconduct by the Football Association for orchestrating the spying scandal that saw Southampton being kicked out of the Championship playoff final . The FA announced ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man United ticket deals for 2026/27 Premier League season games at Old Trafford plus hotels and VIP hospitality",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39220790/man-united-premier-league-ticket-hotel-packages/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-22T10:42:13+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Manchester United",
-        "Man United",
-        "Man Utd",
-        "United",
-        "ticket",
-        "deals"
-      ],
-      "summary": "MANCHESTER United fans have every reason to be excited for the new 2026/27 Premier League season at Old Trafford. The official Premier League fixtures are out – and we have the ultimate way to guarantee your place at the Theatre of Dreams. Man Utd ticket deals Old Trafford is always sold out but Uni",
-      "summary_cn": ""
-    },
-    {
-      "title": "Leeds United ticket and hotel packages for Premier League games for the 2026/27 season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39786485/leeds-united-ticket-hotel-packages-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-22T10:40:26+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Leeds",
-        "United",
-        "ticket",
-        "hotel",
-        "packages",
-        "Premier"
-      ],
-      "summary": "LEEDS fans have an unbeatable opportunity to secure their place at Elland Road this season. The club's official ticket plus VIP hospitality and hotel packages are now officially on sale. Leeds ticket packages The deal, brought to you by Champions Travel, allows supporters to combine a match ticket w",
-      "summary_cn": ""
-    },
-    {
-      "title": "Piers Morgan outraged by Morgan Rogers’ claim upon signing for Chelsea in British record £117million transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39834691/piers-morgan-slams-rogers-chelsea-transfer-claim-arsenal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-22T09:58:47+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Aston Villa",
-        "Chelsea",
-        "Piers",
-        "Morgan",
-        "outraged",
-        "Rogers"
-      ],
-      "summary": "PIERS MORGAN has emphatically hit back at Morgan Rogers' claims that Chelsea are the biggest club in London after he completed his £117million move. After making the move from Aston Villa on Tuesday, Rogers said: \"I'm so excited. For me, Chelsea are the biggest club in London and a club I've always ",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Cole Palmer out here playing super agent’ say fans as Morgan Rogers reveals what mate did ahead of Chelsea transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39836323/morgan-rogers-cole-palmer-texts-chelsea-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-22T10:50:49+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Chelsea",
-        "Palmer",
-        "Cole",
-        "playing",
-        "super"
-      ],
-      "summary": "CHELSEA fans believe Cole Palmer has been masquerading as a super agent this summer. New signing Morgan Rogers has revealed how his old pal has been in touch \"non-stop\". Rogers, 23, has joined the Blues from Aston Villa for a British record transfer fee of £117million. And his move to Stamford Bridg",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal pre-season friendlies: Dates and kick-off times as Mikel Arteta prepares Gunners for title defence",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39754986/arsenal-pre-season-friendlies-dates-kick-off-times-matches/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-22T10:03:41+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Mikel",
-        "Arteta",
-        "Mikel Arteta",
-        "season",
-        "friendlies"
-      ],
-      "summary": "ARSENAL are set to begin their pre-season campaign next week! The Gunners are heading across Europe to prepare for the new season, where they will play some of the continent's best teams and reunite with a club legend. Arteta is looking to build on their most successful&nbsp;season&nbsp;in&nbsp;22 y",
-      "summary_cn": ""
-    },
-    {
-      "title": "Financial exceptions could be made for Guardiola - Italian FA",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxqdv4818yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-22T10:12:58+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Financial",
-        "exceptions",
-        "made",
-        "Guardiola",
-        "Italian"
-      ],
-      "summary": "Pep Guardiola has held talks about becoming Italy head coach, Italian Football Federation president Giovanni Malago has confirmed.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Southampton boss Eckert charged by FA over Spygate scandal",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13565861/tonda-eckert-southampton-boss-charged-by-fa-over-spygate-scandal-that-expelled-club-from-championship-play-offs",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-22T11:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "boss",
-        "Eckert",
-        "charged",
-        "Spygate",
-        "scandal"
-      ],
-      "summary": "Southampton head coach Tonda Eckert has been charged by the FA with misconduct and potentially bringing the game into disrepute over the 'Spygate' scandal.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Southampton boss Eckert charged by FA over Spygate",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-22T10:30:54+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "boss",
-        "Eckert",
-        "charged",
-        "Spygate"
-      ],
-      "summary": "Southampton head coach Tonda Eckert is charged by the Football Association for his role in the Spygate scandal.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Liverpool issue bans as £1.2m seized from ticket touts",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74g5pv140do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-22T11:38:22+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "issue",
-        "bans",
-        "seized",
-        "ticket",
-        "touts"
-      ],
-      "summary": "Liverpool issue hundreds of lifetime bans after more than £1.2m of assets relating to the illegal selling of tickets was seized by police.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Wrexham to appoint Newcastle's Nickson as sporting director",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62v72xyyz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-22T11:14:06+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "Wrexham",
-        "appoint",
-        "Nickson",
-        "sporting",
-        "director"
-      ],
-      "summary": "Steve Nickson is poised to leave his role as head of recruitment at Newcastle United to become sporting director of Championship club Wrexham.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Rantala becomes third Leicester player to join Everton",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj360rjljkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-22T11:00:19+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Everton",
-        "Leicester",
-        "Rantala",
-        "becomes",
-        "third",
-        "player"
-      ],
-      "summary": "Everton confirm the signing of Finland international Jutta Rantala from Leicester City.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Amazon founder Jeff Bezos in talks to join consortium seeking 30% stake in Liverpool",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/22/amazon-founder-jeff-bezos-consortium-stake-liverpool-football",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-22T10:34:54+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Amazon",
-        "founder",
-        "Jeff",
-        "Bezos",
-        "talks"
-      ],
-      "summary": "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bid Bezos has previously explored buying NFL franchises Amazon founder Jeff Bezos has held talks about joining the consortium that is seeking to buy around 30% of Liverpool. The group led by former Queens Park Rangers co‑owner Amit ­Bhatia has ma",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea have spent £300million on ex-Man City kids since 2023… Blues’ famous Cobham core is down to FOUR players",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39834241/chelsea-spent-300m-man-city-kids-cobham-core-four/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-22T10:42:33+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Chelsea",
         "Manchester City",
         "Man City",
-        "spent",
-        "City"
+        "Phil Foden",
+        "Foden",
+        "signs",
+        "four"
       ],
-      "summary": "IT gets to a point where fans are completely lost on Chelsea’s master plan to make it back to the upper echelons of football.&nbsp; Whether it is tracing every transfer move made by Arsenal or tracking Manchester City’s academy stars, Chelsea are wading through the start of a new era.&nbsp; Since 20",
+      "summary": "Manchester City midfielder Phil Foden signs a new four-year contract with the club, extending his stay until 2030.",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal ticket deals for Premier League 2026/27 season plus hospitality options to see champions at The Emirates",
+      "title": "Pep Guardiola confirmed as candidate for vacant manager’s role with bosses willing to make salary ‘exceptions’ for him",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39227637/arsenal-premier-league-champions-ticket-hotel-packages/",
+      "url": "https://www.thesun.co.uk/sport/39838065/pep-guardiola-italy-make-salary-exceptions/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-22T10:40:54+00:00",
-      "score": 25.0,
+      "published": "2026-07-22T12:21:49+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester City",
+        "Guardiola",
+        "confirmed",
+        "candidate",
+        "vacant",
+        "manager"
+      ],
+      "summary": "THE Italian FA have confirmed they have held talks with Pep Guardiola about becoming their next coach. And they are willing to break their wage structure to try to lure the former Manchester City boss – who was earning around £20 million per year at the Etihad.&nbsp; Pep, 55, left the double cup win",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool confident of beating Arsenal to £100m-rated Bradley Barcola as they chase marquee replacement for Mo Salah",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39839212/bradley-barcola-arsenal-liverpool-transfer-psg/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-22T13:36:29+00:00",
+      "score": 31.0,
       "keywords": [
         "Arsenal",
-        "Man City",
-        "ticket",
-        "deals",
-        "Premier",
-        "League"
+        "Aston Villa",
+        "Chelsea",
+        "Liverpool",
+        "Salah",
+        "confident"
       ],
-      "summary": "ARSENAL fans cannot wait to watch the newly-crowned Premier League champions in action again when the new season starts. The Gunners lifted the prize last season after their gripping title race with Man City. See Arsenal next season And now, following the release of the highly anticipated Premier Le",
+      "summary": "LIVERPOOL are confident of beating Arsenal to £100million-rated Bradley Barcola. The Gunners are eyeing the Paris St Germain and France ace after missing out to Chelsea on the signing of £117m Morgan Rogers from Aston Villa. But SunSport understands Liverpool are in the driving seat for Barcola, who",
       "summary_cn": ""
     },
     {
-      "title": "Southampton manager Tonda Eckert facing ban as he’s slapped with three new charges over Spygate scandal",
+      "title": "Wrexham poach Newcastle transfer guru in huge coup for Ryan Reynolds and Rob McElhenney’s project",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39836469/tonda-eckert-southampton-charged-spygate/",
+      "url": "https://www.thesun.co.uk/sport/39838590/wrexham-newcastle-head-of-recruitment-steve-nickson-championship/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-22T10:30:57+00:00",
+      "published": "2026-07-22T13:16:50+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Newcastle",
+        "James",
+        "Wrexham",
+        "poach",
+        "transfer",
+        "guru"
+      ],
+      "summary": "WREXHAM have secured Newcastle's head of recruitment as their new sporting director ahead of the 2026/27 Championship season. Steve Nickson, 61, will join the Red Dragons in the newly-created role as they push for promotion to the top-flight. After 15 years at St James' Park, the recruitment veteran",
+      "summary_cn": ""
+    },
+    {
+      "title": "Phil Foden lands ‘significant’ payrise on £225,000-a-week wages with new Man City deal as he hails Maresca’s impact",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39838695/phil-foden-lands-pay-rise-man-city-deal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-22T13:07:14+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Rafael",
+        "Phil Foden",
+        "Haaland",
+        "Erling Haaland"
+      ],
+      "summary": "PHIL FODEN believes new boss Enzo Maresca can help him get back to his best after signing a new long-term deal at Manchester City. The 26-year-old academy product linked up with his team-mate Erling Haaland’s agent Rafaela Pimenta to thrash out the four year contract. He is believed to have secured ",
+      "summary_cn": ""
+    },
+    {
+      "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-22T12:26:12+00:00",
+      "score": 28.0,
+      "keywords": [
+        "faces",
+        "gulfs",
+        "class",
+        "flawed",
+        "drama",
+        "teams"
+      ],
+      "summary": "The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president that Fifa announced the expansion of the men’s World Cup from 32 to 48 teams. The reaction was mixed. Diego Ma",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ipswich sign Diop from Fulham",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2vqxe2e08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-22T13:27:08+00:00",
       "score": 25.0,
       "keywords": [
-        "Southampton",
-        "manager",
-        "Tonda",
-        "Eckert",
-        "facing",
-        "slapped"
+        "Fulham",
+        "Ipswich",
+        "sign",
+        "Diop"
       ],
-      "summary": "SOUTHAMPTON boss Tonda Eckert has been slapped with three charges over the \"Spygate\" scandal. Saints were sensationally thrown out of last season's Championship play-offs by the EFL after admitting multiple counts of spying on rivals throughout the campaign. Middlesbrough replaced them in the play-o",
+      "summary": "Ipswich Town sign Morocco defender Issa Diop from Fulham for an undisclosed fee.",
       "summary_cn": ""
     },
     {
-      "title": "Ascot: Jamie Lynch's King George runner guide",
+      "title": "Lionesses hero Ella Toone steps in to save club from extinction and announces second job alongside Man Utd",
       "title_cn": "",
-      "url": "https://www.skysports.com/racing/news/12040/13565906/ascot-jamie-lynchs-king-george-vi-and-queen-elizabeth-stakes-runner-guide",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-22T11:29:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Ascot",
-        "Jamie",
-        "Lynch",
-        "King",
-        "George",
-        "runner"
-      ],
-      "summary": "This has all the hallmarks of an epic edition of one of the great races, internationally renowned and internationally reliant this year with the best of France and Japan in round two of their heavyweight clash.",
-      "summary_cn": ""
-    },
-    {
-      "title": "See Lionel Messi play for Inter Miami and take a Caribbean cruise from just £1,479pp with these unbeatable deals",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39491917/lionel-messi-inter-miami-tickets-cruise-caribbean-holiday/",
+      "url": "https://www.thesun.co.uk/sport/39837151/ella-toone-saves-chorley-extinction-man-utd-new-job/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-22T11:12:04+00:00",
+      "published": "2026-07-22T12:27:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Lionesses",
+        "hero",
+        "Ella",
+        "Toone"
+      ],
+      "summary": "MANCHESTER UNITED and England Women hero Ella Toone has saved a historic football club from extinction after starting a surprise new career. Toone, 26, stepped in to save Chorley Women from folding following an agreement to work alongside the club's leadership structure through her ET7 Academy and h",
+      "summary_cn": ""
+    },
+    {
+      "title": "Paredes should not be suspended - Spain's Gavi",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c24m7prpq29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-22T13:32:09+00:00",
       "score": 20.0,
       "keywords": [
-        "Lionel",
-        "Messi",
-        "play",
-        "Inter",
-        "Miami",
-        "take"
+        "Paredes",
+        "suspended",
+        "Spain",
+        "Gavi"
       ],
-      "summary": "FOOTBALL fans can now score a sensational deal to see the GOAT in Miami - and then live like a VIP on a luxury Caribbean cruise trip. Our travel partners have come up with an incredible collection of cruise and stay travel packages that include tickets to see Lionel Messi's Inter Miami. Messi &amp; ",
+      "summary": "Spain midfielder Gavi says he does not think Argentina's Leandro Paredes should be suspended for his part in the confrontation after the World Cup final.",
+      "summary_cn": ""
+    },
+    {
+      "title": "England cannot afford trip to amputee World Cup – and the FA will not help",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-22T13:00:16+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "cannot",
+        "afford",
+        "trip",
+        "amputee",
+        "World"
+      ],
+      "summary": "With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in Mexico Every time Scott Rogers walks into St George’s Park there is a sign on the wall that catches his eye. It boasts that the 330-acre site is the proud home of ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who is Vinicius Junior’s girlfriend Virginia Fonseca?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39837391/vinicius-junior-virginia-fonseca-girlfriend/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-22T14:10:57+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Vinicius",
+        "Junior",
+        "girlfriend",
+        "Virginia",
+        "Fonseca"
+      ],
+      "summary": "FOLLOWING Brazil's 2026 World Cup exit against Norway, star man Vinicius Junior has reportedly undergone a cosmetic procedure on his chin. Although it's been said that Vini Jr went \"under the knife\", he actually underwent a non-surgical procedure using chin dermal fillers rather than invasive surger",
+      "summary_cn": ""
+    },
+    {
+      "title": "EFL footballer’s brother, two, dies after heartbroken parents found him unresponsive in swimming pool on holiday",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39839217/footballers-brother-dies-pool-holiday-villa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-22T13:39:34+00:00",
+      "score": 20.0,
+      "keywords": [
+        "footballer",
+        "brother",
+        "dies",
+        "heartbroken",
+        "parents",
+        "found"
+      ],
+      "summary": "A FOOTBALLER'S brother died after he was found unresponsive in a swimming pool on a Spanish holiday. Hartley Wareham, two, was discovered unresponsive by his heartbroken parents on the trip with family and friends. An inquest in Exeter, Devon, heard grabbed his dad out of the pool and began CPR as n",
       "summary_cn": ""
     }
   ]
