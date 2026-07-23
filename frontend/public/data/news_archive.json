@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Fifa reveal World Cup team of tournament with Bellingham and Man Utd star IN but winner left out for surprise journeyman",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39843794/world-cup-team-tournament-bellingham-martinez-rodri-porro-haaland/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-22T22:45:25+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Man Utd",
+        "Fifa",
+        "reveal",
+        "World",
+        "team",
+        "tournament"
+      ],
+      "summary": "JUDE BELLINGHAM is the only England hero to have been included in the World Cup's official team of the tournament. The Three Lions beat France to the bronze medal on Saturday to notch their best finish at the summer extravaganza since 1966. Bellingham, 23, made history of his own as he found the net",
+      "summary_cn": "",
+      "fetched_at": "2026-07-23T00:08:10.937429+00:00"
+    },
+    {
+      "title": "Finch: England's handling of Stokes and McCullum exits has been a circus",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13566157/aaron-finch-labels-english-cricket-a-circus-after-ben-stokes-and-brendon-mccullums-exits-and-says-australians-are-laughing",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-22T23:40:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Finch",
+        "England",
+        "handling",
+        "Stokes",
+        "McCullum",
+        "exits"
+      ],
+      "summary": "Former Australia batter Aaron Finch likened England's recent coaching and captaincy upheaval to a 'circus' and says many Australians have been watching things unfold from afar 'giggling' at their old rivals.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-23T00:08:10.937429+00:00"
+    },
+    {
       "title": "Saliba out for 'extended period' with back injury",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem",
@@ -39502,45 +39542,6 @@
       "summary": "And then there were eight. Four weeks after the World Cup began, the quarterfinals start on Thursday with each team three wins away from lifting the trophy.",
       "summary_cn": "",
       "fetched_at": "2026-07-08T10:27:37.947277+00:00"
-    },
-    {
-      "title": "The 8 most important players of the World Cup quar...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49301521/most-important-player-every-2026-world-cup-quarterfinal-team",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-08T11:21:04+00:00",
-      "score": 10.0,
-      "keywords": [
-        "most",
-        "important",
-        "players",
-        "World",
-        "quar"
-      ],
-      "summary": "The World Cup field has been whittled down to eight teams, and individual superstars are more influential at this point in the tournament.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-08T10:27:37.947277+00:00"
-    },
-    {
-      "title": "Morocco set a proud example for Africa as France await at World Cup",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/08/morocco-proud-example-africa-france-world-cup",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-08T07:00:23+00:00",
-      "score": 26.0,
-      "keywords": [
-        "stones",
-        "stone",
-        "Morocco",
-        "proud",
-        "example",
-        "Africa"
-      ],
-      "summary": "The 2022 semi-finalists have delighted fans at home as the continent’s other sides struggle with off-field problems Over the past six decades, Morocco have achieved several performance milestones for Africa at the World Cup. The first country to qualify directly, for the 1970 finals in Mexico, they ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-08T07:36:06.043759+00:00"
     }
   ]
 }
