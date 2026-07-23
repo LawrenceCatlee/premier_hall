@@ -1,270 +1,439 @@
 {
-  "updated_at": "2026-07-23T10:31:39.147357+00:00",
+  "updated_at": "2026-07-23T12:44:34.188494+00:00",
   "items": [
     {
-      "title": "Arsenal interested in Stones, Konsa after Saliba injury blow",
+      "title": "Dev's Digest: Singh on set, Bhatia's Liverpool bid, Antonio's surprise return",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13566206/arsenal-transfer-news-gunners-interested-in-john-stones-and-ezri-konsa-after-william-saliba-injury-blow",
+      "url": "https://www.skysports.com/football/news/12040/13564388/devs-digest",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-23T10:30:00+00:00",
-      "score": 31.0,
+      "published": "2026-07-23T12:15:00+00:00",
+      "score": 39.0,
       "keywords": [
-        "Arsenal",
-        "Stone",
-        "Konsa",
-        "Ezri Konsa",
-        "Stones",
-        "John Stones"
-      ],
-      "summary": "Arsenal hold an interest in John Stones and Ezri Konsa as they look to sign a centre-back this summer following news of an extended period on the sidelines for William Saliba .",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why do Chelsea want to sign Lacroix from Palace?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13557656/maxence-lacroix-to-chelsea-crystal-palace-defender-is-quick-excels-when-one-on-one-and-is-a-leader-now-too",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-23T10:30:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Crystal Palace",
-        "Raheem Sterling",
-        "Sterling",
-        "want",
-        "sign"
-      ],
-      "summary": "Chelsea have not paid a transfer fee for a player aged 26 or over since the summer of 2022 with the ill-fated acquisitions of Raheem Sterling and Kalidou Koulibaly. But Crystal Palace&#8217;s Maxence Lacroix is a player worth relaxing the policy for.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Liverpool confident of signing Barcola - Thursday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78gx10d9n4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-23T10:25:33+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
         "Liverpool",
-        "Manchester United",
-        "Bruno Fernandes",
-        "Fernandes",
-        "confident"
+        "Antonio",
+        "Digest",
+        "Singh",
+        "Bhatia",
+        "surprise"
       ],
-      "summary": "Alex Scott favours a move to Arsenal, Bruno Fernandes is ready to commit his future to Manchester United, Liverpool are confident they will sign Bradley Barcola, plus more.",
+      "summary": "Welcome to Dev's Digest, a Sky Sports column in which Asian Football Award winner Dev Trehan delivers exclusive news and reflects on some of the key developments for British South Asians in Football.",
       "summary_cn": ""
     },
     {
-      "title": "Blow for Manchester City with Rodri out for extended period due to back injury",
+      "title": "Chelsea legend John Terry QUESTIONS Morgan Rogers’ decision to choose Blues over Arsenal in record £117million transfer",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/23/blow-for-manchester-city-with-rodri-out-for-extended-period-due-to-back-injury",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/39847600/chelsea-morgan-rogers-transfer-john-terry/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-23T09:10:48+00:00",
+      "published": "2026-07-23T10:55:50+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "John Terry",
+        "Terry",
+        "Bridge"
+      ],
+      "summary": "JOHN TERRY has questioned Morgan Rogers' decision to join Chelsea rather than Arsenal this summer. But the former Blues captain is \"excited\" to see the £117million man in action at Stamford Bridge this season. Chelsea announced Rogers' club-record transfer from Aston Villa on Monday. The England sta",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal complete deal to sign winger Tzolis",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13564283/arsenal-transfer-news-christos-tzolis-signs-in-34m-deal-from-club-brugge-as-replacement-for-leandro-trossard",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-23T13:00:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "complete",
+        "deal",
+        "sign",
+        "winger",
+        "Tzolis"
+      ],
+      "summary": "Arsenal have announced the signing of winger Christos Tzolis from Club Brugge on a five-year deal.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Leeds in talks with Man City over deal for Trafford",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-23T11:40:00+00:00",
       "score": 31.0,
       "keywords": [
         "Manchester City",
-        "Rodri",
-        "Blow",
-        "Manchester",
-        "City",
-        "extended"
+        "Man City",
+        "James",
+        "Leeds",
+        "talks",
+        "City"
       ],
-      "summary": "Spain’s World Cup-winning captain may require surgery Latest injury setback for midfielder in recent seasons Rodri could face an extended period of time out with a back injury, which may require surgery. The 30-year-old Manchester City midfielder returned to his finest form at the World Cup followin",
+      "summary": "Leeds United are in talks with Manchester City over a deal for goalkeeper James Trafford.&#160;",
       "summary_cn": ""
     },
     {
-      "title": "Five Arsenal stars that could leave within weeks to bolster Mikel Arteta’s transfer budget for Bruno Guimaraes deal",
+      "title": "Leeds in talks to sign Man City keeper Trafford",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39845453/arsenal-stars-boost-arteta-transfer-budget/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyl7eve9ddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-23T09:27:20+00:00",
+      "published": "2026-07-23T11:56:17+00:00",
       "score": 31.0,
       "keywords": [
-        "Arsenal",
-        "Arteta",
-        "Mikel Arteta",
-        "Mikel",
-        "Five",
-        "stars"
+        "Manchester City",
+        "Man City",
+        "James",
+        "Leeds",
+        "talks",
+        "sign"
       ],
-      "summary": "ARSENAL have already got their transfer business under way as they look to bolster their options this summer window. The champions are looking to defend their Premier League title while finally going all the way in the Champions League after missing out in the final earlier this year. Attacker Chris",
+      "summary": "Leeds United are in discussions with Manchester City to sign goalkeeper James Trafford.",
       "summary_cn": ""
     },
     {
-      "title": "Morgan Rogers lifts lid on how brother’s long-lasting Chelsea links and words of wisdom helped before £117m transfer",
+      "title": "Can Emery work his magic again at Villa?",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39845040/morgan-rogers-brother-advice-mental-health-chelsea-transfer/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxevl7vgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-23T09:00:46+00:00",
+      "published": "2026-07-23T12:35:35+00:00",
       "score": 31.0,
       "keywords": [
         "Aston Villa",
-        "Chelsea",
-        "Bridge",
-        "Morgan",
-        "Rogers",
-        "lifts"
+        "Tielemans",
+        "Youri Tielemans",
+        "Emery",
+        "work",
+        "magic"
       ],
-      "summary": "AFTER Morgan Rogers' £117million unveiling, the superstar forward revealed how his family helps him stay level-headed. The former Aston Villa man signed a seven-year deal at Stamford Bridge, becoming the most expensive British player of all time. With that comes a lot of pressure but Rogers, who tur",
+      "summary": "Aston Villa are back in the Champions League but must now cope with the loss of key players Morgan Rogers and Youri Tielemans.",
       "summary_cn": ""
     },
     {
-      "title": "Official PSG ticket and hotel deals for Ligue 1 games at Parc des Princes from just £319 per person",
+      "title": "Manchester United consider Camavinga and Berge as midfield overhaul continues",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39584577/psg-ticket-hotel-packages-ligue-1-parc-des-princes/",
+      "url": "https://www.theguardian.com/football/2026/jul/23/manchester-united-consider-eduardo-camavinga-sander-berge-midfield-overhaul",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-23T11:41:48+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Fulham",
+        "Manchester United",
+        "Carrick",
+        "Michael Carrick",
+        "Manchester",
+        "United"
+      ],
+      "summary": "Real Madrid and Fulham players on club’s radar United have already signed two midfielders this summer Manchester United have identified Real Madrid’s Eduardo Camavinga and Fulham’s Sander Berge as midfield signings to further strengthen Michael Carrick’s squad. United have already signed two midfiel",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Pint of Gaviscon after?’ – Sean Dyche’s explanation of curry order ‘like it’s tactics’ leaves fans in stitches",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39848908/sean-dyche-curry-order-everton-burnley/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-23T08:57:40+00:00",
+      "published": "2026-07-23T12:15:46+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Nottingham Forest",
+        "Forest",
+        "Vardy",
+        "Jamie Vardy",
+        "Pint"
+      ],
+      "summary": "FANS were left in stitches after Sean Dyche recounted his curry order. The experienced Premier League boss, 55, caught up with Jamie Vardy on the ex-England striker's podcast. Asked what his ideal takeaway is, Dyche didn't hold back. The former Everton, Burnley and Nottingham Forest manager said: \"C",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal confirm Christos Tzolis transfer with Greek star arriving as £35million Leandro Trossard replacement",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39849401/arsenal-christos-tzolis-transfer-confirmed-summer-window/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-23T12:07:50+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Trossard",
+        "Leandro Trossard",
+        "confirm",
+        "Christos",
+        "Tzolis"
+      ],
+      "summary": "ARSENAL have splashed out £34million to complete the signing of Club Brugge winger Christos Tzolis. The Greek star, 24, underwent a medical in London this week and has penned a contract until 2031. Tzolis arrives as a replacement for Leandro Trossard, who moved to Besiktas earlier this month as part",
+      "summary_cn": ""
+    },
+    {
+      "title": "Meet the glam Commonwealth Games England ace who plays for NOTTINGHAM FOREST and credits Evangelos Marinakis for success",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39848642/jayda-pechova-nottingham-forest-netball-evangelos-marinakis-owner/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-23T11:43:43+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Nottingham Forest",
+        "Forest",
+        "green",
+        "Meet",
+        "glam",
+        "Commonwealth"
+      ],
+      "summary": "SHOOTING STAR Jayda Pechova has thanked Nottingham Forest owner Evangelos Marinakis for putting her on track to the Commonwealth Games. Greek businessman Marinakis, 58, owns the two-time European Cup winners and two years ago he gave the green light to set-up a netball franchise. Hampshire-born ace ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Argentina gather over 80,000 signatures demanding World Cup final be REPLAYED ‘without the corrupt referee’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39847132/argentina-fans-demand-world-cup-final-replay/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-23T10:49:25+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Torres",
+        "Argentina",
+        "gather",
+        "signatures",
+        "demanding",
+        "World"
+      ],
+      "summary": "MORE than 80,000 fans have signed an Argentine petition to replay the World Cup final due to \"rigged refereeing decisions\". Ferran Torres scored the only goal of the game in extra time as Spain were crowned world champions for only the second time ever. Argentina were left in tears as Lionel Messi w",
+      "summary_cn": ""
+    },
+    {
+      "title": "New ref cam footage shows Jude Bellingham’s brutal dig after England World Cup defeat to Argentina",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39847762/jude-bellingham-ref-cam-argentina-england-ismail-elfath/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-23T11:11:31+00:00",
       "score": 28.0,
       "keywords": [
-        "Official",
-        "ticket",
-        "hotel",
-        "deals",
-        "Ligue",
-        "games"
+        "footage",
+        "shows",
+        "Jude",
+        "Bellingham",
+        "brutal",
+        "England"
       ],
-      "summary": "FOOTBALL fans can look forward to the ultimate city break in Paris to see the European Champions. Official ticket and hotel packages to watch the European champions Paris Saint-Germain have gone on sale. See PSG live Supporters have a golden opportunity to experience the iconic Parc des Princes stad",
+      "summary": "NEW ref cam footage has shown what Jude Bellingham told the officials after England's World Cup semi-final defeat to Argentina. Bellingham, 23, was furious at a number of decisions made by controversial appointment Ismail Elfath and his team. With tensions boiling over right from the start in Atlant",
       "summary_cn": ""
     },
     {
-      "title": "'He's trying to kill me!' | Evra goads Archer and instantly takes bouncer to the face!",
+      "title": "Fury weighs in nearly two stone lighter than Wach",
       "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13566214/patrice-evra-goads-jofra-archer-and-instantly-takes-bouncer-to-the-face",
+      "url": "https://www.skysports.com/boxing/news/12040/13566233/tyson-fury-weighs-in-at-26-pounds-lighter-than-mariusz-wach-ahead-of-fridays-fight-in-thailand",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-23T10:11:00+00:00",
+      "published": "2026-07-23T11:30:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Patrice Evra",
-        "trying",
-        "kill",
-        "Evra",
-        "goads",
-        "Archer"
+        "stone",
+        "Fury",
+        "weighs",
+        "nearly",
+        "lighter",
+        "Wach"
       ],
-      "summary": "Patrice Evra got a little too confident when facing Jofra Archer!",
+      "summary": "Tyson Fury weighed in nearly two stone lighter than Mariusz Wach for Friday's heavyweight fight in Thailand.",
       "summary_cn": ""
     },
     {
-      "title": "Lamine Yamal reveals what Lionel Messi told him in emotional moment on pitch after World Cup final",
+      "title": "Kone and Baleba strongly considered by Man Utd for third midfield signing",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39846547/lamine-yamal-lionel-messi-world-cup/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/news/12040/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-23T09:48:41+00:00",
-      "score": 26.0,
-      "keywords": [
-        "young",
-        "Lamine",
-        "Yamal",
-        "reveals",
-        "Lionel",
-        "Messi"
-      ],
-      "summary": "LAMINE YAMAL has revealed what Lionel Messi told him after Spain won their second World Cup. Yamal collected his first World Cup winners' medal after helping Spain beat Argentina in the final in New Jersey. Yamal, 19, has established himself as one of the best young players in world football since h",
-      "summary_cn": ""
-    },
-    {
-      "title": "Emma Louise Jones teases fans with incredible zipped corset as stunning BBC presenter gushes over ‘favourite top ever’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39845240/emma-louise-jones-zipped-corset-bbc-presenter-gushes/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-23T08:31:44+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Jones",
-        "Emma",
-        "Louise",
-        "teases",
-        "fans",
-        "incredible"
-      ],
-      "summary": "EMMA LOUISE JONES has teased fans with an incredible zipped corset. The stunning BBC presenter is a fan favourite thanks to her witty humour and bold outfits. Emma, 36, has a huge fan base on social media, with her Instagram account boasting 442k followers. She has now wowed her fans with her \"favou",
-      "summary_cn": ""
-    },
-    {
-      "title": "Real Madrid willing to sell Aurelien Tchouameni to Man Utd with Jose Mourinho ready to cash in if price tag met",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39846474/tchouameni-man-utd-real-madrid-transfer-jose-mourinho/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-23T10:30:52+00:00",
+      "published": "2026-07-23T12:00:00+00:00",
       "score": 25.0,
       "keywords": [
+        "Brighton",
         "Manchester United",
         "Man Utd",
-        "Real",
-        "Madrid",
-        "willing",
-        "sell"
+        "Kone",
+        "Baleba",
+        "strongly"
       ],
-      "summary": "REAL MADRID are willing to sell Aurelien Tchouameni to Manchester United. United have recently enquired about Tchouameni as they want a specialist defensive midfielder. Although reports claimed Tchouameni, 26, had agreed a contract extension with Madrid, there has been no formal announcement. Real h",
+      "summary": "Roma's Manu Kone and Brighton's Carlos Baleba are two options who are being strongly considered by Manchester United as their search for a third midfield signing continues.",
       "summary_cn": ""
     },
     {
-      "title": "Former Man Utd boss Ruben Amorim ‘set to raid Chelsea for shock defensive transfer with Blues set to make massive LOSS’",
+      "title": "Newcastle agree £34m deal for Monaco's Bamba",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39847048/ruben-amorim-chelsea-transfer-axel-disasi-ac-milan/",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-23T11:17:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "agree",
+        "deal",
+        "Monaco",
+        "Bamba"
+      ],
+      "summary": "Midfielder Aladji Bamba is due to arrive on Thursday for a medical and to sign a long-term contract.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Pandur joined Rangers after Hull planned new number one",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c80n51kngzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-23T11:37:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Pandur",
+        "joined",
+        "Rangers",
+        "Hull",
+        "planned",
+        "number"
+      ],
+      "summary": "New Rangers goalkeeper Ivor Pandur says he passed up the chance to be part of Hull City's return to the Premier League after being told they planned to sign a new number one this summer.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool must be difficult to beat - Iraola",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4d5ex1ewzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-23T12:18:24+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "must",
+        "difficult",
+        "beat",
+        "Iraola"
+      ],
+      "summary": "Manager Andoni Iraola says Liverpool fans \"just want to see the team play well and deliver good results\".",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/23/andoni-iraola-liverpool-interview-spain",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-23T11:00:42+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "become",
+        "protagonist",
+        "Andoni",
+        "Iraola",
+        "secret"
+      ],
+      "summary": "Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape the Reds’ identity Over coffee in Liverpool’s plush hotel in Chicago, Andoni Iraola presents his theory for the phenomenal success of Basque and Spanish coaches. It is a theory that will shape his enti",
+      "summary_cn": ""
+    },
+    {
+      "title": "Transfer roundup: Barcelona sign Adeyemi, Monaco’s Bamba set for Newcastle",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-23T12:09:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Transfer",
+        "roundup",
+        "Barcelona",
+        "sign",
+        "Adeyemi"
+      ],
+      "summary": "Karim Adeyemi moves from Dortmund in £19m deal Newcastle close on £34m Aladji Bamba from Monaco Barcelona have signed German winger Karim Adeyemi from Borussia Dortmund ⁠on a deal until 2031 while Newcastle are set to make Aladji Bamba their fourth summer signing. The La Liga club will pay around €2",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea quietly complete ‘significant’ transfer for League One wonderkid after he rejected new contract",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39848841/harrison-bettoni-league-one-wigan-chelsea-transfer-news/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-23T10:19:07+00:00",
+      "published": "2026-07-23T12:31:42+00:00",
       "score": 25.0,
       "keywords": [
         "Chelsea",
-        "Man Utd",
+        "quietly",
+        "complete",
+        "significant",
+        "transfer",
+        "League"
+      ],
+      "summary": "CHELSEA have cherrypicked Harrison Bettoni from Wigan after agreeing a four year contract with the League One side. Bettoni, 18, will spend the season in Chelsea's academy on the fringes of Xabi Alonso's first team. The Latics will be owed training compensation for their starlet, who made 27 senior ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal icon Jack Wilshere proves he still has magic touch as Luton boss casually completes brilliant crossbar challenge",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39847910/jack-wilshere-luton-boss-crossbar-challenge/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-23T12:02:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "icon",
+        "Jack",
+        "Wilshere",
+        "proves",
+        "still"
+      ],
+      "summary": "JACK WILSHERE showed off his class as he made a spectacular trickshot look effortless in Luton Town training. The former Arsenal star joined the League One outfit as manager in December, before marshalling them to glory in the EFL Trophy. But his preparations for the upcoming season have not been en",
+      "summary_cn": ""
+    },
+    {
+      "title": "Former Champions League star, 35, who retired in January after tragic death of brother is now a VEGETABLE gardener",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39848262/kevin-kampl-tragic-death-retired-now-vegetable-gardener-bundesliga/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-23T11:33:12+00:00",
+      "score": 25.0,
+      "keywords": [
         "Former",
-        "boss",
-        "Ruben",
-        "Amorim"
-      ],
-      "summary": "AC MILAN boss Ruben Amorim is plotting a potential Premier League raid this summer for want-away Chelsea defender Axel Disasi, reports say. The Frenchman, 28, has been in the Blues bomb squad for the past two summers, training away from the main first team. And with all parties pushing for a permane",
-      "summary_cn": ""
-    },
-    {
-      "title": "West Ham star Crysencio Summerville to pocket over £1000 PER HOUR as he seals huge pay rise with £60m Saudi transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39846671/crysencio-summerville-al-hilal-west-ham-transfer-saudi/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-23T10:12:53+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "West",
+        "Champions",
+        "League",
         "star",
-        "Crysencio",
-        "Summerville",
-        "pocket"
+        "retired",
+        "January"
       ],
-      "summary": "CRYSENCIO SUMMERVILLE is set to pocket over £1,000 per hour after securing a lucrative move to Saudi Arabia. The West Ham winger, 24, will join Al-Hilal after the Saudi side agreed a £60million deal with the East Londoners. Summerville is believed to have earned around £50k a week at London Stadium ",
+      "summary": "BUNDESLIGA star Kevin Kampl has swapped football for fruit and veg... by becoming a MARKET GARDENER. The midfielder won two German FA Cups with RB Leipzig, and also played for Bayer Leverkusen and Borussia Dortmund. But Slovenia international Kampl hung up his boots earlier this year after his fathe",
       "summary_cn": ""
     },
     {
-      "title": "Tottenham confirm 11 players set to miss pre-season tour including crocked star injured in training",
+      "title": "England netball star Metcalf injured on eve of Commonwealth Games",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39846215/tottenham-pre-season-tour-players-missing-injured/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/boxing/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-23T09:28:23+00:00",
-      "score": 25.0,
+      "published": "2026-07-23T12:55:00+00:00",
+      "score": 20.0,
       "keywords": [
-        "Chelsea",
-        "Tottenham",
-        "confirm",
-        "players",
-        "miss",
-        "season"
+        "England",
+        "netball",
+        "star",
+        "Metcalf",
+        "injured",
+        "Commonwealth"
       ],
-      "summary": "TOTTENHAM have left an entire team of players behind during pre-season after confirming a 35-man squad to tour New Zealand and Australia. Roberto De Zerbi's side head Down Under for matches against Auckland FC, Sydney FC, and Chelsea over the next week and a half. But a host of key stars will play n",
+      "summary": "",
       "summary_cn": ""
     },
     {
@@ -284,6 +453,63 @@
         "coach"
       ],
       "summary": "Paul Rowley has stepped down as St Helens coach with immediate effect.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hull City owner 'disturbed' by transfer claims",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79gdrwx4veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-23T12:15:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Hull",
+        "City",
+        "owner",
+        "disturbed",
+        "transfer",
+        "claims"
+      ],
+      "summary": "Hull City owner Acun Ilicali says he is \"disturbed\" by claims of the club being rejected by transfer targets and, in an unusual move, attempted to clarify the situation.",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Everyone is hooked on football’: Indian league seeks to ride World Cup wave",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/23/everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-23T11:00:42+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Everyone",
+        "hooked",
+        "football",
+        "Indian",
+        "league",
+        "seeks"
+      ],
+      "summary": "Club chiefs hope that a revitalised setup can help huge interest in this summer’s tournament translate into growth of the Indian domestic game India was not at the World Cup, but the tournament drew huge interest from within the country . This has happened before but now comes with significant, and ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Moment England-U16 player repeatedly punches teammate in hotel brawl as group jeers ‘f*** him up’ during Turkey trip",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39844859/england-player-headlock-teen-brawl-turkey/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-23T10:59:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Moment",
+        "England",
+        "player",
+        "repeatedly",
+        "punches",
+        "teammate"
+      ],
+      "summary": "THIS is the shocking moment an England-U16 player repeatedly punches a teammate and holds him in a headlock - as others jeer \"f*** him up\". The ugly scenes - captured on one of the teenager's phones - see the pair brawl in a hotel room while away on international duty in Turkey. The clip, which...",
       "summary_cn": ""
     }
   ]
