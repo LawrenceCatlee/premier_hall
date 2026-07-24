@@ -1,6 +1,179 @@
 {
   "items": [
     {
+      "title": "LeBron signs for Philadelphia 76ers",
+      "title_cn": "",
+      "url": "https://www.skysports.com/nba/news/12040/13566700/lebron-james-joining-philadelphia-76ers-for-record-extending-24th-nba-season-as-all-time-leading-scorer-returns-to-east-coast",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-24T16:42:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "James",
+        "LeBron",
+        "signs",
+        "Philadelphia"
+      ],
+      "summary": "LeBron &#8204;James has decided to join &#8204;the Philadelphia 76ers for his record-extending 24th NBA &#8204;season, the league's &#8204;all-time leading scorer said on Friday",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
+      "title": "Hearts sign Mendy for potential Forest Green record fee",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8m33l3kk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-24T15:33:06+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Forest",
+        "Mendy",
+        "Green",
+        "Hearts",
+        "sign",
+        "potential"
+      ],
+      "summary": "Forest Green Rovers sell midfielder Laurent Mendy to Heart of Midlothian for what the National League outfit say could be a club record fee of nearly £1m \"if all targets are met\".",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
+      "title": "‘Try new experience’ – Man Utd left wing target, 27, who starred at World Cup admits he wants summer transfer move",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39863290/man-utd-rafael-leao-summer-transfer-move-ac-milan/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-24T15:35:24+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Rafael",
+        "experience",
+        "left",
+        "wing"
+      ],
+      "summary": "MANCHESTER UNITED target Rafael Leao has reportedly told AC Milan he wants to leave the club this summer. The winger has attracted interest from all over Europe and plans to leave this summer, according to reports coming out of France. BeIN Sports report that the 27-year-old has held talks with Mila",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
+      "title": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-24T15:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "takeover",
+        "Bezos",
+        "stake",
+        "Anfield"
+      ],
+      "summary": "Liverpool's owners Fenway Sports Group are in talks with a consortium fronted by Amit Bhatia over the sale of a minority stake in the club.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
+      "title": "Premier League club forced to cancel pre-season training camp as world leaders flying in for G7 summit wreck pitches",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39862463/brighton-cancel-training-g7-summit-pitches-evian-les-bains/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-24T15:08:30+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Premier",
+        "League",
+        "club",
+        "forced",
+        "cancel"
+      ],
+      "summary": "BRIGHTON were forced to cancel their pre-season training camp in France after world leaders flying into the G7 summit wrecked their pitches. Fabian Hurzeler's men travelled to the town of Evian-les-Bains to start their preparations for the 2026-27 season. But the Seagulls later found out the pitches",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
+      "title": "Devlin: Rangers wait was 'too stressful'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13566652/cammy-devlin-waiting-on-rangers-move-during-world-cup-was-too-stressful",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-24T15:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Devlin",
+        "Rangers",
+        "wait",
+        "stressful"
+      ],
+      "summary": "Cammy Devlin revealed the stress he felt at the 2026 World Cup as he looked to make his move to Rangers.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
+      "title": "IOC says Infantino complaint outside its scope",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07rzz54jyro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-24T16:07:14+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Infantino",
+        "complaint",
+        "outside",
+        "scope"
+      ],
+      "summary": "The IOC says it will not investigate Gianni Infantino as a complaint about the Fifa president is \"outside\" its scope.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
+      "title": "Scottish sides in Europe postpone league matches",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4kvvx28d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-24T15:31:09+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scottish",
+        "sides",
+        "Europe",
+        "postpone",
+        "league",
+        "matches"
+      ],
+      "summary": "All five Scottish teams in European competitions have opted to postpone their Premiership matches scheduled for Saturday, 22 August.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
+      "title": "Celtic ticket and hotel packages from just £116 per person for Scottish Premiership games for the new 2026/27 season",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39466749/celtic-match-ticket-hotel-packages-scottish-premiership/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-24T16:09:35+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Celtic",
+        "ticket",
+        "hotel",
+        "packages",
+        "person",
+        "Scottish"
+      ],
+      "summary": "CELTIC fans can bypass the massive queues and book their seats to see the reigning champions next season. The ultimate, hassle-free way to guarantee a seat at a bouncing Celtic Park has arrived. Buy Celtic packages Following the highly anticipated release of the fresh Scottish Premiership fixture li",
+      "summary_cn": "",
+      "fetched_at": "2026-07-24T16:48:21.978479+00:00"
+    },
+    {
       "title": "Replacing Pep, Chelsea, Rodri and Gealish - Marecsa Best Bits",
       "title_cn": "",
       "url": "https://www.skysports.com/watch/video/13566651/manchester-city-enzo-marescas-best-bits-from-first-news-conference",
@@ -39389,181 +39562,6 @@
       "summary": "POLICE will flood the streets of Paris ahead of a huge France v Morocco World Cup clash tonight, braced for chaotic scenes. More than 20,000 cops will be deployed across France, including 8,000 lining the streets of the capital. The historic grudge match between the North African nation and its colo",
       "summary_cn": "",
       "fetched_at": "2026-07-09T16:06:44.141400+00:00"
-    },
-    {
-      "title": "Norway shirts sell out before England match",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/news/articles/czxqzyggzypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-09T14:34:36+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Norway",
-        "shirts",
-        "sell",
-        "England",
-        "match"
-      ],
-      "summary": "Norway's performance has created huge demand for the football jerseys, but this hasn't been met by suppliers.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T16:06:44.141400+00:00"
-    },
-    {
-      "title": "Oxford placed under summer transfer embargo by EFL",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75y0r0v3dxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-09T15:57:46+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Oxford",
-        "placed",
-        "under",
-        "summer",
-        "transfer",
-        "embargo"
-      ],
-      "summary": "Oxford United are placed under a temporary transfer embargo by the English Football League.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T16:06:44.141400+00:00"
-    },
-    {
-      "title": "'A bit of a rebel' - what will Celtic get from forward Duran?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x3yep3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-09T14:37:38+00:00",
-      "score": 20.0,
-      "keywords": [
-        "rebel",
-        "Celtic",
-        "forward",
-        "Duran"
-      ],
-      "summary": "Celtic are set to sign their first player in the transfer window - 24-year-old Colombian forward Camilo Duran from Qarabag - for a reported £5.5m. But who is he?",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T16:06:44.141400+00:00"
-    },
-    {
-      "title": "QPR sign Motherwell goalkeeper Ward",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c932e1ez42jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-09T14:47:20+00:00",
-      "score": 20.0,
-      "keywords": [
-        "sign",
-        "Motherwell",
-        "goalkeeper",
-        "Ward"
-      ],
-      "summary": "Queens Park Rangers sign goalkeeper Calum Ward from Scottish Premiership side Motherwell.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T16:06:44.141400+00:00"
-    },
-    {
-      "title": "Going first in a penalty shootout gives teams an advantage … or does it?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-09T15:18:48+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Going",
-        "first",
-        "penalty",
-        "shootout",
-        "gives",
-        "teams"
-      ],
-      "summary": "Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss the most exciting dessert. Fans in the stadium care, though. Win a coin toss for a penalty shootout and you choo",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T16:06:44.141400+00:00"
-    },
-    {
-      "title": "Norway vs England: Get 50/1 for a goal to be scored | Betfred World Cup offer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39703986/norway-vs-england-world-cup-offer-betfred-goal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-09T15:11:33+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Norway",
-        "England",
-        "goal",
-        "scored",
-        "Betfred",
-        "World"
-      ],
-      "summary": "ENGLAND'S World Cup dream continues in Miami on Saturday night, where Norway stand between the Three Lions and a place in the semi-finals. To celebrate the quarter-final showdown, Betfred have boosted the odds on there being a goal scored in the match to 50/1 for new customers, up from 1/25. And if ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T16:06:44.141400+00:00"
-    },
-    {
-      "title": "Chelsea ticket deals for Premier League games for 2026/27 season with hospitality and upgrades at Stamford Bridge",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39471356/chelsea-ticket-hotel-packages-premier-league-stamford-bridge/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-09T11:02:42+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "ticket",
-        "deals",
-        "Premier",
-        "League"
-      ],
-      "summary": "CHELSEA fans can experience the magic of matchday live with these ticket deals to Stamford Bridge for the new season. Perfect for die-hard fans or anyone wanting to enjoy top-tier Premier League action, this exclusive travel offer lets you secure your seat and your food and drink in one easy transac",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T12:12:49.889415+00:00"
-    },
-    {
-      "title": "Chelsea fans ‘smile and shed a tear’ as Xabi Alonso arrives at Cobham training ground for first day as Blues boss",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39700397/chelsea-fans-xabi-alonso-cobham-training-first-day/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-09T12:03:52+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Chelsea",
-        "fans",
-        "smile",
-        "shed",
-        "tear",
-        "Xabi"
-      ],
-      "summary": "XABI ALONSO was hailed as \"perfect\" by Chelsea fans after arriving at Cobham for his first day of pre-season training. The Spaniard was appointed as the Blues' new boss on a four-year deal to replace Liam Rosenior, who lasted just 107 days in charge. Alonso officially got to work on July 1 and now h",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T12:12:49.889415+00:00"
-    },
-    {
-      "title": "Arsenal ready to finalise record £35million transfer for Club Brugge star Christos Tzolis as Trossard replacement",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39696138/arsenal-champions-league-morgan-rogers-christos-tzolis-brugge/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-09T12:08:47+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Trossard",
-        "Leandro Trossard",
-        "ready",
-        "finalise",
-        "record"
-      ],
-      "summary": "ARSENAL are ready to finalise a record transfer deal for Club Brugge star Christos Tzolis. The Gunners have been looking for reinforcement down the left wing throughout the summer transfer window. And the North Londoners' search has intensified with Leandro Trossard set to move to Besiktas in a £17m",
-      "summary_cn": "",
-      "fetched_at": "2026-07-09T12:12:49.889415+00:00"
     }
   ]
 }
