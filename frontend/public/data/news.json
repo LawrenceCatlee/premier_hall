@@ -1,4 +1,43 @@
 {
-  "updated_at": "2026-07-26T03:42:17.648874+00:00",
-  "items": []
+  "updated_at": "2026-07-26T06:43:34.204078+00:00",
+  "items": [
+    {
+      "title": "Gomez injury overshadows winning start for Iraola",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-26T06:25:17+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Morrison",
+        "Gomez",
+        "injury",
+        "overshadows",
+        "winning"
+      ],
+      "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+      "summary_cn": ""
+    },
+    {
+      "title": "See Jude Bellingham and Real Madrid ticket and hotel packages for La Liga games at Santiago Bernabeu from just £299 pp",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39805767/jude-bellingham-real-madrid-tickets-la-liga-santiago-bernabeu/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-26T06:30:08+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Jude",
+        "Bellingham",
+        "Real",
+        "Madrid",
+        "ticket",
+        "hotel"
+      ],
+      "summary": "FOOTBALL fans can look forward to the ultimate Spanish getaway this season. We have teamed up with one of the UK's top sports travel operators to offer official ticket and hotel packages to watch Real Madrid live this season. See Real Madrid in the Bernabeu Supporters have a golden opportunity to ex",
+      "summary_cn": ""
+    }
+  ]
 }
