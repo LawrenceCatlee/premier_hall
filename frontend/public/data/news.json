@@ -1,173 +1,99 @@
 {
-  "updated_at": "2026-07-27T21:18:58.268849+00:00",
+  "updated_at": "2026-07-27T23:12:28.165807+00:00",
   "items": [
     {
-      "title": "Andrea Pirlo out of running for Italy job but defends deal with Russian betting firm",
+      "title": "Papers: Man City hopeful Rodri will sign new deal - but braced for Real bid",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-27T22:10:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man City",
+        "Rodri",
+        "Papers",
+        "City",
+        "hopeful",
+        "sign"
+      ],
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Pope hits winning runs as MI London edge Southern Brave",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13567575/the-hundred-ollie-pope-hits-winning-runs-as-mi-london-edge-southern-brave-in-last-ball-thriller-at-southampton",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-27T21:43:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Southampton",
+        "matic",
+        "Pope",
+        "hits",
+        "winning",
+        "runs"
+      ],
+      "summary": "Ollie Pope scored the winning runs with the last ball to take MI London to a dramatic three-wicket victory over Southern Brave at the Utilita Bowl in Southampton.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City brace for Rodri bid - Tuesday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjejwe30jpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-27T21:21:18+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Crystal Palace",
+        "Manchester City",
+        "Man City",
+        "James",
+        "Rodri"
+      ],
+      "summary": "Manchester City brace for Real Madrid's Rodri bid, Leeds set to sign James Trafford for £40m, Crystal Palace agree terms with Raphael Le Guen and Real Madrid set for Vinicius Jr talks amid Arsenal interest.",
+      "summary_cn": ""
+    },
+    {
+      "title": "How Chelsea could line up with Danny Welbeck and Jordan Henderson as Xabi Alonso rips up transfer strategy",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39889169/chelsea-danny-welbeck-jordan-henderson-line-up/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-27T21:42:17+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Henderson",
+        "Danny Welbeck",
+        "Welbeck",
+        "Jordan Henderson",
+        "line"
+      ],
+      "summary": "CHELSEA have ripped up their youth movement and are targeting good old fashioned Premier League experience instead. For years Blues fans have had to Google plenty of little-known teenagers from far flung corners of the globe as their club swooped for various wonderkids. Following last season's disas",
+      "summary_cn": ""
+    },
+    {
+      "title": "Maldini and Leonardo resign from Italian FA after Pirlo appointment falls through",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/jul/27/andrea-pirlo-out-of-running-for-italy-job-but-defends-deal-with-russian-betting-firm",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-07-27T20:47:51+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Antonio",
-        "Andrea",
-        "Pirlo",
-        "running",
-        "Italy",
-        "defends"
-      ],
-      "summary": "Italian politicians had raised concern over appointment Roberto Mancini and Antonio Conte now in contention Andrea Pirlo has confirmed he is no longer in line to coach Italy, with his sponsorship deal with a Russian betting firm believed to behind the development. Several Italian politicians have ra",
-      "summary_cn": ""
-    },
-    {
-      "title": "Leeds close to club-record deal for Trafford",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13567551/leeds-united-transfer-news-james-trafford-deal-moving-nearer-as-club-record-deal-close-to-being-reached-with-manchester-city",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-27T19:46:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "James",
-        "Leeds",
-        "close",
-        "club",
-        "record"
-      ],
-      "summary": "Leeds United are close to agreeing a club-record deal with Manchester City for goalkeeper James Trafford.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea explore surprise moves for Danny Welbeck and Jordan Henderson",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-27T20:58:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brentford",
-        "Brighton",
-        "Chelsea",
-        "Jordan Henderson",
-        "Welbeck",
-        "Danny Welbeck"
-      ],
-      "summary": "Brighton striker scored 13 goals in league last season Veteran Brentford midfielder has a year left on contract Chelsea are understood to be in talks over a move to sign Danny Welbeck from Brighton. Welbeck is a surprise candidate to bolster Xabi Alonso’s forward line after scoring 13 goals in 37 Pr",
-      "summary_cn": ""
-    },
-    {
-      "title": "John Stones on verge of shock Inter Milan free transfer as Italian giants beat Chelsea and Arsenal to England ace",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39888628/john-stones-inter-milan-free-transfer-chelsea-arsenal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-27T19:35:02+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester City",
-        "Stone",
-        "John Stones",
-        "Stones"
-      ],
-      "summary": "INTER MILAN are on the verge of winning the race to sign free-agent John Stones. The centre-back, 32, left Manchester City when the season finished and has been without a club since. Stones won six Premier League titles, the&nbsp;Champions League, two FA Cups, five League Cups, three Community Shiel",
-      "summary_cn": ""
-    },
-    {
-      "title": "Inter in advanced talks with England defender Stones",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-27T20:02:14+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Stone",
-        "John Stones",
-        "Stones",
-        "Inter",
-        "advanced",
-        "talks"
-      ],
-      "summary": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Draper withdraws from DC Open with arm injury",
-      "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13567553/mubadala-dc-open-jack-draper-withdraws-from-dc-open-with-left-arm-injury-ahead-of-us-open-qualifying-campaign",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-27T19:56:00+00:00",
+      "published": "2026-07-27T21:26:10+00:00",
       "score": 20.0,
       "keywords": [
-        "Draper",
-        "withdraws",
-        "Open",
-        "injury"
-      ],
-      "summary": "Jack Draper has withdrawn from the DC Open with a left arm injury.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Pirlo out of running for Italy job over link to Russian betting company",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-27T20:01:03+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Pirlo",
-        "running",
-        "Italy",
-        "link",
-        "Russian",
-        "betting"
-      ],
-      "summary": "Andrea Pirlo says he is no longer a candidate to coach Italy following days of controversy over his link to a Russian betting company.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Fifa president Gianni Infantino called to appear before Congress over Trump ties",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-donald-trump-jamie-raskin",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-27T20:22:41+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Fifa",
-        "president",
-        "Gianni",
-        "Infantino",
-        "called",
-        "appear"
-      ],
-      "summary": "Democrat Jamie Raskin pushes Fifa to release records of contact with Trump, administration and family business Jamie Raskin, the top Democrat on the House judiciary committee, has launched an investigation into Fifa president Gianni Infantino, seeking documents that would detail the ties between soc",
-      "summary_cn": ""
-    },
-    {
-      "title": "Italian football hits new low as Paolo Maldini QUITS after just 16 days in charge over refusal to appoint Pirlo as boss",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39888616/paolo-maldini-resigns-andrea-pirlo-leonardo-pep-guardiola/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-27T20:19:17+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Italian",
-        "football",
-        "hits",
-        "Paolo",
         "Maldini",
-        "QUITS"
+        "Leonardo",
+        "resign",
+        "Italian",
+        "Pirlo",
+        "appointment"
       ],
-      "summary": "PAOLO MALDINI has quit as Italy's technical director after just 16 days in the job after his bosses refused to hire Andrea Pirlo as the new manager. Italian football was plunged into chaos as Pirlo, 47, was axed from the running to take over at the Azzurri helm due to links with a Russian betting...",
+      "summary": "Pirlo no longer in running for coach role over betting ties Paolo Maldini only appointed technical director on 11 July Paolo Maldini and Leonardo have reportedly resigned from their roles with the Italian football federation in the wake of Andrea Pirlo’s appointment as Italy head coach falling throu",
       "summary_cn": ""
     }
   ]
