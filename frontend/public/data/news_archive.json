@@ -1,6 +1,64 @@
 {
   "items": [
     {
+      "title": "Who am I? Guess Premier League star No 10",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyv35265n3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-30T06:03:25+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Guess",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-30T06:34:53.826806+00:00"
+    },
+    {
+      "title": "Fleming frontrunner to become England Test coach",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13568301/stephen-fleming-former-new-zealand-captain-frontrunner-to-be-appointed-england-mens-test-head-coach",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-30T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fleming",
+        "frontrunner",
+        "become",
+        "England",
+        "Test",
+        "coach"
+      ],
+      "summary": "Former New Zealand captain Stephen Fleming is the frontrunner to be appointed as England men's Test head coach.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-30T06:34:53.826806+00:00"
+    },
+    {
+      "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-30T05:20:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Uefa",
+        "hold",
+        "emergency",
+        "meeting",
+        "Fifa",
+        "World"
+      ],
+      "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-30T06:34:53.826806+00:00"
+    },
+    {
       "title": "Experimental Liverpool down Wrexham thanks to Rio Ngumoha’s deflected strike",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/jul/30/liverpool-wrexham-pre-season-friendly-rio-ngumoha-goal-match-report",
@@ -39519,66 +39577,6 @@
       "summary": "JAMIE O’HARA has revealed his car was broken into during England’s World Cup win over Norway. The Three Lions pulled off a comeback win thanks to a brilliant double from Jude Bellingham. But while England were in action in Miami and talkSPORT star O'Hara was watching, his car was being trashed. The ",
       "summary_cn": "",
       "fetched_at": "2026-07-12T04:30:36.680987+00:00"
-    },
-    {
-      "title": "Switzerland star sent off in tears vs Argentina after new Fifa rule used sparking yet more World Cup ‘fixed’ claims",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39731636/breel-embolo-sent-off-argentina-world-cup-fixed-switzerland/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-12T02:46:07+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Switzerland",
-        "star",
-        "sent",
-        "tears",
-        "Argentina",
-        "Fifa"
-      ],
-      "summary": "BREEL EMBOLO's controversial sending off stoked the conspiracy theories surrounding Argentina. In yet another decision favouring the defending champions, Embolo was shown a second yellow card for diving after VAR intervention with 20 minutes to go in the quarter final. Referee Joao Pinheiro initiall",
-      "summary_cn": "",
-      "fetched_at": "2026-07-12T04:30:36.680987+00:00"
-    },
-    {
-      "title": "World Cup 2026: How many games do players miss for a red card and how many have there been?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39027442/world-cup-2026-games-players-miss-red-card/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-12T02:45:46+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "many",
-        "games",
-        "players",
-        "miss",
-        "card"
-      ],
-      "summary": "WORLD CUP 2026 will be the biggest in the tournament's history, and promises some huge rule changes too. 48 teams will compete for the sport's biggest trophy across North America this year, 16 more than the Qatar tournament four years ago. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS Referees at the ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-12T04:30:36.680987+00:00"
-    },
-    {
-      "title": "Erling Haaland SUBBED OFF with Norway chasing goal vs Erling leaving ITV commentators including Gary Neville baffled",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39730544/erling-haaland-subbed-off-gary-neville-baffled/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-11T23:40:15+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Gary Neville",
-        "Haaland",
-        "Erling Haaland",
-        "Neville",
-        "Erling",
-        "SUBBED"
-      ],
-      "summary": "FOOTBALL fans were left baffled after Erling Haaland was substituted against England - when Norway were in desperate need of a goal. The 25-year-old was taken off halfway through extra time in the quarter-final clash. Norway were 2-1 down at the time, prompting many fans to question why he was repla",
-      "summary_cn": "",
-      "fetched_at": "2026-07-12T00:02:42.828315+00:00"
     }
   ]
 }

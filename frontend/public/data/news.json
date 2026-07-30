@@ -1,23 +1,59 @@
 {
-  "updated_at": "2026-07-30T03:12:53.648723+00:00",
+  "updated_at": "2026-07-30T06:34:53.860334+00:00",
   "items": [
     {
-      "title": "Experimental Liverpool down Wrexham thanks to Rio Ngumoha’s deflected strike",
+      "title": "Who am I? Guess Premier League star No 10",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/30/liverpool-wrexham-pre-season-friendly-rio-ngumoha-goal-match-report",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyv35265n3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-07-30T01:53:17+00:00",
+      "published": "2026-07-30T06:03:25+00:00",
       "score": 25.0,
       "keywords": [
-        "Liverpool",
-        "Experimental",
-        "down",
-        "Wrexham",
-        "thanks",
-        "Ngumoha"
+        "Guess",
+        "Premier",
+        "League",
+        "star"
       ],
-      "summary": "Substitute’s 75th-minute shot gives Liverpool 1-0 win in New York Chances few and far between in pre-season friendly that fails to ignite Liverpool turned the Empire State Building red when launching a new away kit on Tuesday but neither they nor Wrexham could illuminate Yankee Stadium 24 hours late",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fleming frontrunner to become England Test coach",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13568301/stephen-fleming-former-new-zealand-captain-frontrunner-to-be-appointed-england-mens-test-head-coach",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-30T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fleming",
+        "frontrunner",
+        "become",
+        "England",
+        "Test",
+        "coach"
+      ],
+      "summary": "Former New Zealand captain Stephen Fleming is the frontrunner to be appointed as England men's Test head coach.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-30T05:20:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Uefa",
+        "hold",
+        "emergency",
+        "meeting",
+        "Fifa",
+        "World"
+      ],
+      "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans.",
       "summary_cn": ""
     }
   ]
