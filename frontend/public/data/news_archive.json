@@ -1,6 +1,365 @@
 {
   "items": [
     {
+      "title": "Are Bournemouth set to strike defender gold again with Silva?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T09:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Bournemouth",
+        "Silva",
+        "Antonio",
+        "strike",
+        "defender",
+        "gold"
+      ],
+      "summary": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in a 4-3 win over Juventus. He played at the 2022 World Cup for Portugal soon after that.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Liverpool's Jones argues with Szoboszlai after game",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gx07351y8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-31T09:33:41+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Jones",
+        "argues",
+        "Szoboszlai",
+        "game"
+      ],
+      "summary": "Liverpool's Curtis Jones has a heated argument with team-mate Dominik Szoboszlai after his side's win over Wrexham.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Man Utd fans moan ‘our only fit centre-back is doing flips on a trampoline’ as Maguire shares ‘July dump’ album",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39924980/man-utd-fans-harry-maguire-trampoline-flips/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T10:01:06+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Harry Maguire",
+        "Carrick",
+        "Maguire"
+      ],
+      "summary": "MANCHESTER UNITED fans were flipping furious after seeing Harry Maguire bouncing on a trampoline. The defender re-established himself in the Red Devils squad under Michael Carrick last season. Maguire, 33, played a key role as the club achieved a third-place finish in the Premier League to qualify f",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Infantino increasingly embattled after senior adviser resigns over World Cup sell-off plans",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-31T10:18:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Infantino",
+        "increasingly",
+        "embattled",
+        "senior",
+        "adviser",
+        "resigns"
+      ],
+      "summary": "Infantino’s role as president under increasing pressure 143 of Fifa’s 211 members now stand against scheme Gianni Infantino’s authority has been dealt a fresh blow after Carlos Cordeiro, one of his senior advisers, resigned with immediate effect in protest at proposals to sell a stake in the World C",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Cristiano Ronaldo, 41, sends son Cristiano Jr cheeky 2-word message as they show off their abs together in topless snap",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39923895/cristiano-ronaldo-son-abs-topless-snap/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T08:59:49+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Cristiano Ronaldo",
+        "Ronaldo",
+        "Cristiano",
+        "sends",
+        "cheeky",
+        "word"
+      ],
+      "summary": "CRISTIANO RONALDO sent a cheeky message to his own son as the pair posed shirtless together on holiday. The legendary footballer is taking some time off after his World Cup heartbreak with Portugal. And he is using the chance to get in some father-son time with his aspiring footballer eldest Cristia",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Stavley, Ghodoussi company makes offer for West Ham stake",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T11:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Stavley",
+        "Ghodoussi",
+        "company",
+        "makes",
+        "offer"
+      ],
+      "summary": "Amanda Staveley and husband Mehrdad Ghodoussi's PCP Capital Partners have made an offer to buy a 25.1 per cent stake in West Ham.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "West Ham in talks for Celtic midfielder Engels",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13568688/west-ham-transfer-news-hammers-in-talks-to-sign-celtic-midfielder-arne-engels-amid-premier-league-interest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T09:03:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "West",
+        "talks",
+        "Celtic",
+        "midfielder",
+        "Engels"
+      ],
+      "summary": "West Ham are in talks with Celtic over the signing of midfielder Arne Engels.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Former Premier League star named manager of EFL club Newport after leaving Fulham U21s role",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39926150/hayden-mullins-manager-newport-county-west-ham/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T10:48:03+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fulham",
+        "Leicester",
+        "Former",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "HAYDEN MULLINS has been named as the new manager of Newport County. The former Premier League star took the job after leaving his role as the U21s coach at Fulham. Mullins, 47, arrives as the replacement for one-time Prem champions Christian Fuchs. The Austrian - who won the title with Leicester Cit",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Arsenal ‘AGREE £77m transfer for Newcastle star Bruno Guimaraes’ hours after Eddie Howe bombshell",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39926248/arsenal-agree-bruno-guimaraes-transfer-news/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T10:25:07+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Newcastle",
+        "AGREE",
+        "transfer",
+        "star",
+        "Bruno"
+      ],
+      "summary": "ARSENAL and Newcastle have reportedly reached an agreement in principle over a transfer fee for Bruno Guimaraes. The Magpies had been reluctant to part with their captain but Arsenal have gone all out to get the deal done. And according to L'Equipe, the two sides have reached a broad agreement over ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "‘Sums him up entirely’ – Fans love Man Utd star Matheus Cunha’s kind gesture after car breaks down",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39924281/matheus-cunha-man-utd-car-breaks-down-gesture/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T09:00:30+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Sums",
+        "entirely",
+        "Fans",
+        "love"
+      ],
+      "summary": "FANS have loved Matheus Cunha's kind gesture after his car broke down in Brazil. The Manchester United was in his homeland during his break from football after the World Cup. Cunha, 27, was in the municipality of Santa Rita when his car broke down and he was left on the side of the road. Fortunately",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "'Anything is possible' - Key open to Stokes Ashes return",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13568702/ben-stokes-england-cricket-chief-rob-key-says-door-is-open-for-former-captain-to-return-for-home-2027-ashes-against-australia",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T11:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Anything",
+        "possible",
+        "open",
+        "Stokes",
+        "Ashes",
+        "return"
+      ],
+      "summary": "England cricket chief Rob Key has left the door open to Ben Stokes coming out of international retirement to play in next summer's home Ashes series against Australia.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Meet Bahoya... the Bundesliga's fastest player attracting PL interest",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/story-telling/12040/13568489/meet-jean-matteo-bahoya-the-bundesligas-fastest-player-attracting-premier-league-interest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T10:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Meet",
+        "Bahoya",
+        "Bundesliga",
+        "fastest",
+        "player",
+        "attracting"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Senior Infantino adviser quits after Asian federation opposes plans",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-31T10:07:07+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Senior",
+        "Infantino",
+        "adviser",
+        "quits",
+        "Asian",
+        "federation"
+      ],
+      "summary": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Can We Kick It?: new doc is timely take on Black history, pay-to-play and future of US soccer",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/31/can-we-kick-it-soccer-documentary",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-31T09:00:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Kick",
+        "timely",
+        "take",
+        "Black",
+        "history",
+        "play"
+      ],
+      "summary": "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions about the barriers facing the game’s breakthrough Akbar Majeed takes a deep breath as he considers the legacy of the 2026 World Cup and, in particular, the effect of the US team’s collapse against Be",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Bet £10 Get £40 in free bets with BOYLE Sports, plus Drogheda vs Shamrock Rovers BTTS boost TONIGHT",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39924793/boyle-sports-drogheda-vs-shamrock-rovers-btts-free-bets/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T10:43:04+00:00",
+      "score": 20.0,
+      "keywords": [
+        "free",
+        "bets",
+        "BOYLE",
+        "Sports",
+        "plus",
+        "Drogheda"
+      ],
+      "summary": "BOYLESPORTS are offering new customers £40 in free bets when signing up today! Register an account with BOYLE Sports, stake a tenner on any sport and you’ll receive £40 in free bets to spend however you like. There’s more. BOYLE Sports are also giving punters a big boost in tonight's League of Irela",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Who is Carlos Cordeiro? All about Gianni Infantino’s former senior advisor who QUIT after FIFA World Cup sell-off chaos",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39925666/who-is-carlos-cordeiro-fifa-world-cup-gianni-infantino/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T10:13:44+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Carlos",
+        "Cordeiro",
+        "Gianni",
+        "Infantino",
+        "former",
+        "senior"
+      ],
+      "summary": "CARLOS CORDEIRO quitting his role as Gianni Infantino's senior advisor is another huge twist in the Fifa World Cup sell-off chaos. Uefa and Concacaf have already resolved not to play in any Fifa tournament while the new Fifa Forward Enterprise remains in place. And now things have gotten even worse ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Gianni Infantino’s senior adviser QUITS in protest over scandalous World Cup sale plot as third federation rejects plan",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39925401/infantino-adviser-quits-world-cup-sale-plot/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T09:36:25+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Gianni",
+        "Infantino",
+        "senior",
+        "adviser",
+        "QUITS",
+        "protest"
+      ],
+      "summary": "ONE of Gianni Infantino's closest advisers has QUIT his role following Fifa's World Cup sell-off fiasco. The football world has reacted in outrage and taken a stand against plans to allow private investment in the game's biggest tournament. Uefa and Concacaf have already resolved not to play in any ",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
+      "title": "Who was Franco Baresi’s wife Maura Lari and how many children do the couple have?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39924104/franco-baresi-maura-lari-wife-children/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T09:20:59+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Franco",
+        "Baresi",
+        "wife",
+        "Maura",
+        "Lari",
+        "many"
+      ],
+      "summary": "ONE of football's best defenders of all time, Franco Baresi, has died aged 66. Throughout his highly decorated career, he established himself as a legend of both AC Milan and the Italian national team. But who was his wife, Maura Lari? Who was Franco Baresi? Franco Baresi enjoyed a magnificent caree",
+      "summary_cn": "",
+      "fetched_at": "2026-07-31T10:48:16.344280+00:00"
+    },
+    {
       "title": "West Ham fans launch petition to reinstate staff member sacked after 25 years as he admits news reduced him to tears",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39923383/west-ham-petition-dj-russ-budden-sacked-championship/",
@@ -39247,358 +39606,6 @@
       "summary": "ENGLAND and Argentina is truly a clash of the titans in a World Cup semi-final and the margin for victory is more than likely going to be very slim. Both nations will try to get an advantage wherever they can. But, according to Argentine media, the Three Lions have a weak link they will be...",
       "summary_cn": "",
       "fetched_at": "2026-07-13T15:46:33.675206+00:00"
-    },
-    {
-      "title": "Can Jude Bellingham speak Spanish?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39743184/can-jude-bellingham-speak-spanish/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T14:01:28+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Jude",
-        "Bellingham",
-        "speak",
-        "Spanish"
-      ],
-      "summary": "JUDE Bellingham is one of the standout stars of England's World Cup run, with his brace against Norway taking him to six tournament goals. But off the pitch, the Real Madrid midfielder has also been impressing fans with his ability to speak foreign languages. Can Jude Bellingham speak Spanish? Jude ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T15:46:33.675206+00:00"
-    },
-    {
-      "title": "USWNT to host world No. 1 Spain twice in October",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49349807/uswnt-host-world-no-1-spain-two-friendlies-october",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-13T15:09:03+00:00",
-      "score": 18.0,
-      "keywords": [
-        "USWNT",
-        "host",
-        "world",
-        "Spain",
-        "twice",
-        "October"
-      ],
-      "summary": "The United States women's national team will host world No. 1 and reigning World Cup champions Spain in a pair of friendly matches in October, U.S. Soccer announced on Monday.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T15:46:33.675206+00:00"
-    },
-    {
-      "title": "Police investigating death of South Africa's Adams...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49349593/police-investigating-death-south-africa-world-cup-player-jayden-adams",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-13T15:09:03+00:00",
-      "score": 16.0,
-      "keywords": [
-        "Adams",
-        "Police",
-        "investigating",
-        "death",
-        "South",
-        "Africa"
-      ],
-      "summary": "Police said Monday they are investigating the death of South Africa World Cup football player Jayden Adams, after his body was discovered this weekend at a property in the city of Cape Town.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T15:46:33.675206+00:00"
-    },
-    {
-      "title": "France counterattack, Argentina set pieces: How Wo...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49349440/world-cup-semifinalists-score-goals-france-olise-spain-yamal-england-argentina-messi",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-13T15:08:00+00:00",
-      "score": 10.0,
-      "keywords": [
-        "France",
-        "counterattack",
-        "Argentina",
-        "pieces"
-      ],
-      "summary": "We're down to the final four of the World Cup, with the four top-ranked teams set to square off. Yet all of them use very different attacking styles in order to score goals; let's break it down.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T15:46:33.675206+00:00"
-    },
-    {
-      "title": "What's it really like to face Yamal and Mbappé? We...",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49041085/whats-really-face-world-cup-laliga-stars-spain-barcelona-lamine-yamal-france-kylian-mbappe",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-13T14:43:12+00:00",
-      "score": 10.0,
-      "keywords": [
-        "really",
-        "like",
-        "face",
-        "Yamal"
-      ],
-      "summary": "ESPN has asked LaLiga players and coaches what it's like to take on Lamine Yamal and Kylian Mbappé, who will clash in Tuesday's World Cup semifinal.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T15:46:33.675206+00:00"
-    },
-    {
-      "title": "Man Utd closing in on Villa's Tielemans for £36m",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13562972/youri-tielemans-manchester-united-in-talks-to-sign-aston-villa-and-belgium-midfielder",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-13T10:57:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Manchester United",
-        "Man Utd",
-        "Tielemans",
-        "Youri Tielemans",
-        "closing"
-      ],
-      "summary": "Manchester United are closing in on the signing of Youri Tielemans from Aston Villa for a fee in the region of &#163;36m.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Man Utd not ruling out signing Ederson at renegotiated price",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13562399/man-utd-transfer-news-ederson-deal-with-atalanta-not-proceeding-at-current-price-due-to-issues-with-medical",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-13T13:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Ederson",
-        "ruling",
-        "signing",
-        "renegotiated"
-      ],
-      "summary": "Manchester United are not ruling out signing Ederson this summer despite a breakdown in the deal over a medical issue.&#160;",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Man Utd close to completing Tielemans deal",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-13T11:22:25+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Manchester United",
-        "Man Utd",
-        "Tielemans",
-        "Youri Tielemans",
-        "close"
-      ],
-      "summary": "Manchester United are in advanced talks with Aston Villa over Belgium midfielder Youri Tielemans",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Manchester United in advanced talks to sign Youri Tielemans from Aston Villa",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/13/manchester-united-in-advanced-talks-to-sign-youri-tielemans-from-aston-villa",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-13T10:56:57+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Manchester United",
-        "Jason Wilcox",
-        "Wilcox",
-        "Tielemans",
-        "Youri Tielemans"
-      ],
-      "summary": "Midfielder thought to have £35m release clause Move comes as deal for Éderson from Atalanta stalls Manchester United are closing in on the signing of Youri Tielemans from Aston Villa after their move for the Atalanta midfielder Éderson stalled. Jason Wilcox, United’s director of football, is in adva",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Haaland may have been suffering from Norway hotel bug during England clash as ex-World Cup star reveals half-time text",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39740230/erling-haaland-norway-hotel-bug-england-tony-cascarino/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T10:16:20+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Neville",
-        "Gary Neville",
-        "Haaland",
-        "Erling Haaland",
-        "suffering"
-      ],
-      "summary": "FORMER Chelsea striker Tony Cascarino says Erling Haaland was dragged off during Norway's World Cup defeat to England due to illness. The Scandinavians missed out on a place in the semi-finals thanks to a nail-biting 2-1 loss. But fans around the globe, along with ITV pundit Gary Neville, were stunn",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Rodri: ‘France are one of the best teams here, in great form, but so are Spain. We can beat them’",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/13/rodri-interview-spain-captain-world-cup-2026",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-13T11:00:46+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Rodri",
-        "France",
-        "best",
-        "teams",
-        "great",
-        "form"
-      ],
-      "summary": "The Spain captain on his team’s chances in the World Cup semi-final, analysing every game so far and how to get the best out of Lamine Yamal “I’m not that bad,” Rodri Hernández says. It’s the morning after the World Cup’s 100th game and in a conference room at the Cotton Bowl where old posters line ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Police investigation launched into death of World Cup footballer Jayden Adams, 25, days after starring for South Africa",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39742227/police-investigation-jayden-adams-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T11:29:47+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Adams",
-        "Police",
-        "investigation",
-        "launched",
-        "death",
-        "World"
-      ],
-      "summary": "AN INVESTIGATION has been launched into the death of South Africa star Jayden Adams, who died just weeks after playing in the World Cup. The Mamelodi Sundowns midfielder, 25, was found dead this weekend at a property in Cape Town, local cos said. The star died just two weeks after helping South Afri",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "David Beckham responds to wife Victoria’s viral reaction to Jude Bellingham’s goal in England clash with Norway",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39740625/david-victoria-posh-beckham-england-norway-viral-photo-explained/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T11:12:36+00:00",
-      "score": 26.0,
-      "keywords": [
-        "David Beckham",
-        "young",
-        "Beckham",
-        "David",
-        "responds",
-        "wife"
-      ],
-      "summary": "DAVID BECKHAM has promised that wife Posh was celebrating England's World Cup winner against Norway. The Beckham family were snapped watching the quarter-final from the stands in Miami - with hilarious reactions during the game. But when Becks and his three youngest children went mad at Jude Belling",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Best of Iraola's first Liverpool presser: Style of play, transfer plans and 'magic'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13563000/andoni-iraola-best-of-liverpool-head-coachs-first-press-conference",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-13T12:01:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Best",
-        "Iraola",
-        "first",
-        "presser",
-        "Style"
-      ],
-      "summary": "Take a look at the best bits from Andoni Iraola's first Liverpool press conference.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Iraola: Liverpool need more players",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13562992/andoni-iraola-says-liverpool-need-to-sign-more-players-as-he-addresses-questions-over-his-style-in-first-press-conference",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-13T11:27:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Iraola",
-        "need",
-        "players"
-      ],
-      "summary": "Liverpool&#8217;s new head coach Andoni Iraola has said that the club needs to sign more players as he addressed the challenge facing him in his new job.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "How ‘Miraculous Berta’ transformed Arsenal into champions with relenteless work ethic… and what comes next",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39741219/andrea-berta-transformed-arsenal-contact-list-diego-simeone/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-13T11:05:52+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Miraculous",
-        "Berta",
-        "transformed",
-        "champions",
-        "relenteless"
-      ],
-      "summary": "ANDREA BERTA arrived at Arsenal with a reputation for having the magic touch in the transfer market. Indeed, such was the quality of his work at Atletico Madrid that the Italian press dubbed him ‘Miraculous Berta’. Over a year into his time in North London as Arsenal’s sporting director, Berta has l",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Sources: United in advanced talks for Tielemans",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-07-13T12:35:35+00:00",
-      "score": 21.0,
-      "keywords": [
-        "Aston Villa",
-        "Manchester United",
-        "Tielemans",
-        "Youri Tielemans",
-        "Sources",
-        "United"
-      ],
-      "summary": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
-    },
-    {
-      "title": "Fisher fights on September 26 live on Sky after signing with Zuffa",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13562224/johnny-fisher-signs-with-zuffa-boxing-and-will-fight-on-september-26-at-londons-copper-box-arena-live-on-sky-sports",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-13T12:30:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Fisher",
-        "fights",
-        "September",
-        "live",
-        "signing",
-        "Zuffa"
-      ],
-      "summary": "Johnny Fisher has signed a promotional agreement with Zuffa Boxing and will fight on Sky Sports .",
-      "summary_cn": "",
-      "fetched_at": "2026-07-13T12:15:08.329747+00:00"
     }
   ]
 }

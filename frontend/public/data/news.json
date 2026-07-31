@@ -1,211 +1,345 @@
 {
-  "updated_at": "2026-07-31T07:56:59.554078+00:00",
+  "updated_at": "2026-07-31T10:48:16.376512+00:00",
   "items": [
     {
-      "title": "West Ham fans launch petition to reinstate staff member sacked after 25 years as he admits news reduced him to tears",
+      "title": "Are Bournemouth set to strike defender gold again with Silva?",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39923383/west-ham-petition-dj-russ-budden-sacked-championship/",
+      "url": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T09:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Bournemouth",
+        "Silva",
+        "Antonio",
+        "strike",
+        "defender",
+        "gold"
+      ],
+      "summary": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in a 4-3 win over Juventus. He played at the 2022 World Cup for Portugal soon after that.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool's Jones argues with Szoboszlai after game",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gx07351y8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-31T09:33:41+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Jones",
+        "argues",
+        "Szoboszlai",
+        "game"
+      ],
+      "summary": "Liverpool's Curtis Jones has a heated argument with team-mate Dominik Szoboszlai after his side's win over Wrexham.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd fans moan ‘our only fit centre-back is doing flips on a trampoline’ as Maguire shares ‘July dump’ album",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39924980/man-utd-fans-harry-maguire-trampoline-flips/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-31T06:35:36+00:00",
-      "score": 33.0,
+      "published": "2026-07-31T10:01:06+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Harry Maguire",
+        "Carrick",
+        "Maguire"
+      ],
+      "summary": "MANCHESTER UNITED fans were flipping furious after seeing Harry Maguire bouncing on a trampoline. The defender re-established himself in the Red Devils squad under Michael Carrick last season. Maguire, 33, played a key role as the club achieved a third-place finish in the Premier League to qualify f",
+      "summary_cn": ""
+    },
+    {
+      "title": "Infantino increasingly embattled after senior adviser resigns over World Cup sell-off plans",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-31T10:18:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Infantino",
+        "increasingly",
+        "embattled",
+        "senior",
+        "adviser",
+        "resigns"
+      ],
+      "summary": "Infantino’s role as president under increasing pressure 143 of Fifa’s 211 members now stand against scheme Gianni Infantino’s authority has been dealt a fresh blow after Carlos Cordeiro, one of his senior advisers, resigned with immediate effect in protest at proposals to sell a stake in the World C",
+      "summary_cn": ""
+    },
+    {
+      "title": "Cristiano Ronaldo, 41, sends son Cristiano Jr cheeky 2-word message as they show off their abs together in topless snap",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39923895/cristiano-ronaldo-son-abs-topless-snap/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T08:59:49+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Cristiano Ronaldo",
+        "Ronaldo",
+        "Cristiano",
+        "sends",
+        "cheeky",
+        "word"
+      ],
+      "summary": "CRISTIANO RONALDO sent a cheeky message to his own son as the pair posed shirtless together on holiday. The legendary footballer is taking some time off after his World Cup heartbreak with Portugal. And he is using the chance to get in some father-son time with his aspiring footballer eldest Cristia",
+      "summary_cn": ""
+    },
+    {
+      "title": "Stavley, Ghodoussi company makes offer for West Ham stake",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T11:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Stavley",
+        "Ghodoussi",
+        "company",
+        "makes",
+        "offer"
+      ],
+      "summary": "Amanda Staveley and husband Mehrdad Ghodoussi's PCP Capital Partners have made an offer to buy a 25.1 per cent stake in West Ham.",
+      "summary_cn": ""
+    },
+    {
+      "title": "West Ham in talks for Celtic midfielder Engels",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13568688/west-ham-transfer-news-hammers-in-talks-to-sign-celtic-midfielder-arne-engels-amid-premier-league-interest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T09:03:00+00:00",
+      "score": 25.0,
       "keywords": [
         "West Ham",
         "West",
-        "fans",
-        "launch",
-        "petition",
-        "reinstate"
+        "talks",
+        "Celtic",
+        "midfielder",
+        "Engels"
       ],
-      "summary": "WEST HAM fans have launched a petition to bring back stadium DJ Russ Budden after he was brutally SACKED. DJ Russy B announced on social media earlier this week that he had been let go from his role after 25 years of pre-game, half-time, and post-match service. The lifelong fan wrote: \"So, got the c",
+      "summary": "West Ham are in talks with Celtic over the signing of midfielder Arne Engels.",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea star Cole Palmer fell asleep during England World Cup KO game and can’t remember where he went to in Europe",
+      "title": "Former Premier League star named manager of EFL club Newport after leaving Fulham U21s role",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39923787/cole-palmer-england-mexico-world-cup-sleep-chelsea-injury/",
+      "url": "https://www.thesun.co.uk/sport/39926150/hayden-mullins-manager-newport-county-west-ham/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-31T07:53:25+00:00",
-      "score": 31.0,
+      "published": "2026-07-31T10:48:03+00:00",
+      "score": 25.0,
       "keywords": [
-        "Chelsea",
-        "Palmer",
+        "Fulham",
+        "Leicester",
+        "Former",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "HAYDEN MULLINS has been named as the new manager of Newport County. The former Premier League star took the job after leaving his role as the U21s coach at Fulham. Mullins, 47, arrives as the replacement for one-time Prem champions Christian Fuchs. The Austrian - who won the title with Leicester Cit",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal ‘AGREE £77m transfer for Newcastle star Bruno Guimaraes’ hours after Eddie Howe bombshell",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39926248/arsenal-agree-bruno-guimaraes-transfer-news/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T10:25:07+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Newcastle",
+        "AGREE",
+        "transfer",
         "star",
-        "Cole",
-        "fell",
-        "asleep"
+        "Bruno"
       ],
-      "summary": "COLE PALMER fell asleep during England's historic win at the Azteca against Mexico - and couldn't remember which European country he went to talk about getting surgery. The Chelsea star was in typically comedic form as he faced the press on Friday ahead of the weekend's pre-season clash with Tottenh",
+      "summary": "ARSENAL and Newcastle have reportedly reached an agreement in principle over a transfer fee for Bruno Guimaraes. The Magpies had been reluctant to part with their captain but Arsenal have gone all out to get the deal done. And according to L'Equipe, the two sides have reached a broad agreement over ",
       "summary_cn": ""
     },
     {
-      "title": "Cole Palmer tells Chelsea pal Morgan Rogers he will ‘have bailiffs at door’ if he uses trademarked ice cold celebration",
+      "title": "‘Sums him up entirely’ – Fans love Man Utd star Matheus Cunha’s kind gesture after car breaks down",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39923776/cole-palmer-celebration-morgan-rogers-chelsea-news/",
+      "url": "https://www.thesun.co.uk/sport/39924281/matheus-cunha-man-utd-car-breaks-down-gesture/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-31T07:31:00+00:00",
-      "score": 31.0,
+      "published": "2026-07-31T09:00:30+00:00",
+      "score": 25.0,
       "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "Bridge",
-        "Palmer",
-        "Cole",
-        "tells"
+        "Manchester United",
+        "Man Utd",
+        "Sums",
+        "entirely",
+        "Fans",
+        "love"
       ],
-      "summary": "COLE PALMER has warned new Chelsea signing Morgan Rogers he will send the bailiffs round if he uses his ice cold celebration. The close pals, who played together at Manchester City and have been reunited at Stamford Bridge after Rogers' £117million move, both use the shivering celebration. Palmer, 2",
+      "summary": "FANS have loved Matheus Cunha's kind gesture after his car broke down in Brazil. The Manchester United was in his homeland during his break from football after the World Cup. Cunha, 27, was in the municipality of Santa Rita when his car broke down and he was left on the side of the road. Fortunately",
       "summary_cn": ""
     },
     {
-      "title": "Today on Sky Sports Racing: Siouxperb faces promising newcomers at Newcastle",
+      "title": "'Anything is possible' - Key open to Stokes Ashes return",
       "title_cn": "",
-      "url": "https://www.skysports.com/racing/news/12040/13568079/today-on-sky-sports-racing-siouxperb-clashes-with-promising-newcomers-in-newcastle-feature-with-wolverhampton-and-bath-also-live-on-friday",
+      "url": "https://www.skysports.com/cricket/news/12040/13568702/ben-stokes-england-cricket-chief-rob-key-says-door-is-open-for-former-captain-to-return-for-home-2027-ashes-against-australia",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-07-31T06:00:00+00:00",
-      "score": 25.0,
+      "published": "2026-07-31T11:00:00+00:00",
+      "score": 20.0,
       "keywords": [
-        "Newcastle",
-        "Today",
+        "Anything",
+        "possible",
+        "open",
+        "Stokes",
+        "Ashes",
+        "return"
+      ],
+      "summary": "England cricket chief Rob Key has left the door open to Ben Stokes coming out of international retirement to play in next summer's home Ashes series against Australia.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Meet Bahoya... the Bundesliga's fastest player attracting PL interest",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/story-telling/12040/13568489/meet-jean-matteo-bahoya-the-bundesligas-fastest-player-attracting-premier-league-interest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-07-31T10:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Meet",
+        "Bahoya",
+        "Bundesliga",
+        "fastest",
+        "player",
+        "attracting"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Senior Infantino adviser quits after Asian federation opposes plans",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-07-31T10:07:07+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Senior",
+        "Infantino",
+        "adviser",
+        "quits",
+        "Asian",
+        "federation"
+      ],
+      "summary": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Can We Kick It?: new doc is timely take on Black history, pay-to-play and future of US soccer",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/jul/31/can-we-kick-it-soccer-documentary",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-07-31T09:00:10+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Kick",
+        "timely",
+        "take",
+        "Black",
+        "history",
+        "play"
+      ],
+      "summary": "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions about the barriers facing the game’s breakthrough Akbar Majeed takes a deep breath as he considers the legacy of the 2026 World Cup and, in particular, the effect of the US team’s collapse against Be",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bet £10 Get £40 in free bets with BOYLE Sports, plus Drogheda vs Shamrock Rovers BTTS boost TONIGHT",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39924793/boyle-sports-drogheda-vs-shamrock-rovers-btts-free-bets/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T10:43:04+00:00",
+      "score": 20.0,
+      "keywords": [
+        "free",
+        "bets",
+        "BOYLE",
         "Sports",
-        "Racing",
-        "Siouxperb",
-        "faces"
+        "plus",
+        "Drogheda"
       ],
-      "summary": "Siouxperb takes on St Helier and Royal Strike in the pick of Friday's action from Newcastle - live on Sky Sports Racing.",
+      "summary": "BOYLESPORTS are offering new customers £40 in free bets when signing up today! Register an account with BOYLE Sports, stake a tenner on any sport and you’ll receive £40 in free bets to spend however you like. There’s more. BOYLE Sports are also giving punters a big boost in tonight's League of Irela",
       "summary_cn": ""
     },
     {
-      "title": "Jaissle heads for Newcastle after success in Saudi Arabia that has eluded so many",
+      "title": "Who is Carlos Cordeiro? All about Gianni Infantino’s former senior advisor who QUIT after FIFA World Cup sell-off chaos",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/31/matthias-jaissle-newcastle-united-al-ahli-saudi-pro-league",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-31T07:00:07+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "Jaissle",
-        "heads",
-        "success",
-        "Saudi",
-        "Arabia"
-      ],
-      "summary": "German coach was almost unknown on arrival in Saudi Pro League in 2023 but clinched major titles and won over fans Taking over a big, underachieving port city club with a loyal fanbase that is desperate for success should not faze Matthias Jaissle. Should he take the role vacated by Eddie Howe , the",
-      "summary_cn": ""
-    },
-    {
-      "title": "FIFA: Nobody is selling football",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-31T06:03:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "FIFA",
-        "Nobody",
-        "selling",
-        "football"
-      ],
-      "summary": "FIFA insists \"nobody is selling football\" amid criticism of its decision to launch a consultation on selling stakes in a World Cup commercial entity to private investors.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Desperate, tone deaf' - Why FIFA's 4am statement raises more questions",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13568665/fifas-response-amid-criticism-of-decision-to-launch-consultation-on-selling-stakes-in-a-world-cup-analysed",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-31T07:23:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Desperate",
-        "tone",
-        "deaf",
-        "FIFA",
-        "statement",
-        "raises"
-      ],
-      "summary": "Sky Sports' Kaveh Solhekol analyses FIFA's statement in response to criticism of its decision to launch a consultation on selling stakes in a World Cup commercial entity to private investors.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Nobody is selling football and investment plan continues - Fifa",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-31T07:51:05+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Nobody",
-        "selling",
-        "football",
-        "investment",
-        "plan",
-        "continues"
-      ],
-      "summary": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Courting controversy and befriending Trump - the story of Fifa boss Infantino",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyg5887vp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-31T07:25:19+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Courting",
-        "controversy",
-        "befriending",
-        "Trump",
-        "story",
-        "Fifa"
-      ],
-      "summary": "Gianni Infantino has clashed with unions and European football, but after 10 years as Fifa president he remains in a powerful position.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Franco Baresi, iconic former Milan and Italy defender, dies aged 66",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-iconic-former-milan-and-italy-defender-dies-aged-66",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-31T06:54:38+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Franco",
-        "Baresi",
-        "iconic",
-        "former",
-        "Milan",
-        "Italy"
-      ],
-      "summary": "Italian icon had undergone surgery on pulmonary nodule ‘The entire history of ⁠Milan is in ⁠tears,’ Serie A club says The former Milan and Italy defender Franco Baresi, one of the most recognisable players of the ⁠golden era of Italian football in the 1980s and 1990s, has died at the age of 66. “The",
-      "summary_cn": ""
-    },
-    {
-      "title": "Gianni Infantino lined up for £1million-a-week job if his shameless World Cup sale plan goes ahead",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39923474/gianni-infantino-fifa-job-world-cup-sale/",
+      "url": "https://www.thesun.co.uk/sport/39925666/who-is-carlos-cordeiro-fifa-world-cup-gianni-infantino/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-07-31T07:17:03+00:00",
+      "published": "2026-07-31T10:13:44+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Carlos",
+        "Cordeiro",
+        "Gianni",
+        "Infantino",
+        "former",
+        "senior"
+      ],
+      "summary": "CARLOS CORDEIRO quitting his role as Gianni Infantino's senior advisor is another huge twist in the Fifa World Cup sell-off chaos. Uefa and Concacaf have already resolved not to play in any Fifa tournament while the new Fifa Forward Enterprise remains in place. And now things have gotten even worse ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Gianni Infantino’s senior adviser QUITS in protest over scandalous World Cup sale plot as third federation rejects plan",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39925401/infantino-adviser-quits-world-cup-sale-plot/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T09:36:25+00:00",
       "score": 20.0,
       "keywords": [
         "Gianni",
         "Infantino",
-        "lined",
-        "week",
-        "shameless",
-        "World"
+        "senior",
+        "adviser",
+        "QUITS",
+        "protest"
       ],
-      "summary": "GIANNI INFANTINO has been lined up for a staggering £1MILLION-A-WEEK job should his World Cup sale plan go through. The Fifa president is hoping to secure £3.1billion of funding for his FFE project by October. Fifa have reportedly got US bank JP Morgan on board in an advisory capacity. If the plans ",
+      "summary": "ONE of Gianni Infantino's closest advisers has QUIT his role following Fifa's World Cup sell-off fiasco. The football world has reacted in outrage and taken a stand against plans to allow private investment in the game's biggest tournament. Uefa and Concacaf have already resolved not to play in any ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who was Franco Baresi’s wife Maura Lari and how many children do the couple have?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39924104/franco-baresi-maura-lari-wife-children/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-07-31T09:20:59+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Franco",
+        "Baresi",
+        "wife",
+        "Maura",
+        "Lari",
+        "many"
+      ],
+      "summary": "ONE of football's best defenders of all time, Franco Baresi, has died aged 66. Throughout his highly decorated career, he established himself as a legend of both AC Milan and the Italian national team. But who was his wife, Maura Lari? Who was Franco Baresi? Franco Baresi enjoyed a magnificent caree",
       "summary_cn": ""
     }
   ]
