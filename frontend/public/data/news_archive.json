@@ -1,6 +1,143 @@
 {
   "items": [
     {
+      "title": "The five big beasts are gone: who will be the Premier League’s next alpha manager? | Jonathan Wilson",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/02/premier-league-managers-arteta-alonso-de-zerbi-carrick-klopp-guardiola",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-02T07:00:15+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel Arteta",
+        "Arteta",
+        "Ferguson",
+        "Mikel",
+        "Wilson"
+      ],
+      "summary": "Arsenal’s Mikel Arteta is perhaps best placed to fill the void but the coaching contenders are legion as another season looms This used to be a land of giants. This used to be a land where big men fought. This used to be a land where Sir Alex Ferguson and Arsène Wenger tussled, then José Mourinho jo",
+      "summary_cn": "",
+      "fetched_at": "2026-08-02T07:36:22.858060+00:00"
+    },
+    {
+      "title": "Ex-Man City captain Andy Morrison, 56, in positive health update as he returns to commentary after devastating diagnosis",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39941362/andy-morrison-returns-commentary-health-update/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-02T06:53:20+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Morrison",
+        "City",
+        "captain",
+        "Andy"
+      ],
+      "summary": "FORMER Manchester City captain Andy Morrison has issued a positive update on his condition after being diagnosed with Ramsay Hunt Syndrome. The 56-year-old was diagnosed with the rare neurological disorder at the start of the year. A few months later he revealed that his recovery would take a \"long,",
+      "summary_cn": "",
+      "fetched_at": "2026-08-02T07:36:22.858060+00:00"
+    },
+    {
+      "title": "O'Leary stopped by Chamberlain in Dublin thriller",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13569126/pierce-oleary-suffers-first-professional-loss-after-being-stopped-by-mark-chamberlain-in-thrilling-dublin-fight",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-02T07:02:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Dublin",
+        "Leary",
+        "stopped",
+        "Chamberlain",
+        "thriller"
+      ],
+      "summary": "Pierce O'Leary suffered his first professional defeat when he was stopped by Mark Chamberlain in a thrilling fight in Dublin.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-02T07:36:22.858060+00:00"
+    },
+    {
+      "title": "What happened to star signings your club never made?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-02T05:42:58+00:00",
+      "score": 25.0,
+      "keywords": [
+        "happened",
+        "star",
+        "signings",
+        "club",
+        "never",
+        "made"
+      ],
+      "summary": "BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-02T07:36:22.858060+00:00"
+    },
+    {
+      "title": "New boss Maresca is perfect for Man City - Gvardiol",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8rny130kzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-02T06:01:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "boss",
+        "Maresca",
+        "perfect",
+        "City"
+      ],
+      "summary": "New manager Enzo Maresca is a \"perfect one\" for Manchester City, says defender Josko Gvardiol.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-02T07:36:22.858060+00:00"
+    },
+    {
+      "title": "Who am I? Guess Premier League star No 13",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx7er2vlzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-02T06:00:32+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Guess",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-02T07:36:22.858060+00:00"
+    },
+    {
+      "title": "Gianni Infantino could face leadership challenge as Fifa Council members rebel",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-02T07:00:15+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Gianni",
+        "Infantino",
+        "face",
+        "leadership",
+        "challenge",
+        "Fifa"
+      ],
+      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa Council who are attempting to force an extraordinary general meeting (EGM) that could develop into a full blown leadership challenge. The Guard",
+      "summary_cn": "",
+      "fetched_at": "2026-08-02T07:36:22.858060+00:00"
+    },
+    {
       "title": "Xabi Alonso welcomes Mykhailo Mudryk back to Chelsea after 4-year doping ban cut short but admits Blues future unclear",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39940563/chelsea-mykhailo-mudryk-xabi-alonso/",
@@ -39476,144 +39613,6 @@
         "controversy"
       ],
       "summary": "USA striker Folarin Balogun predicted President Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy\".&#160;",
-      "summary_cn": "",
-      "fetched_at": "2026-07-14T16:21:15.986681+00:00"
-    },
-    {
-      "title": "Excellent coach, superstars and depth - McGinley on why England are built like Ryder Cup heroes",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13563414/excellent-coach-superstars-and-depth-mcginley-on-why-england-are-built-like-ryder-cup-heroes",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-14T15:10:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Excellent",
-        "coach",
-        "superstars",
-        "depth",
-        "McGinley",
-        "England"
-      ],
-      "summary": "Sky Sports' Paul McGinley explains how he draws comparisons between England and Team Europe.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-14T16:21:15.986681+00:00"
-    },
-    {
-      "title": "Why do Argentina sing about England and the Falklands?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17y75qd8e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-14T14:57:59+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Argentina",
-        "sing",
-        "England",
-        "Falklands"
-      ],
-      "summary": "While England see Argentina as football rivals, for Argentina the rivalry is much more than that.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-14T16:21:15.986681+00:00"
-    },
-    {
-      "title": "World Cup quiz: Name every team to have reached semi-finals",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8p714384ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-14T16:14:53+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "quiz",
-        "Name",
-        "every",
-        "team",
-        "reached"
-      ],
-      "summary": "You smashed our quarter-finalists quiz, now it's time to name every nation that's reached a World Cup semi-final!",
-      "summary_cn": "",
-      "fetched_at": "2026-07-14T16:21:15.986681+00:00"
-    },
-    {
-      "title": "Football Daily | Will France’s showdown with Spain be the World Cup final in spirit?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/14/football-daily-email-gwc-france-spain",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-14T14:54:28+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Football",
-        "Daily",
-        "France",
-        "showdown",
-        "Spain",
-        "World"
-      ],
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Sure, an Argentina-England Geopolitics World Cup semi-final has a lot going for it . It’ll be 40 years since the Hand of God and, somehow, the first meeting between the two teams since an incredibly rare event: a memorable friendly, with Michael Ow",
-      "summary_cn": "",
-      "fetched_at": "2026-07-14T16:21:15.986681+00:00"
-    },
-    {
-      "title": "Of all England’s great Black footballers, none has been the defining figure of the national side – until now | Calum Jacobs",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/14/england-great-black-footballers-national-figure-jude-bellingham",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-14T15:33:54+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "great",
-        "Black",
-        "footballers",
-        "none",
-        "defining"
-      ],
-      "summary": "Bellingham has transcended the hostility he has faced from press and pundits to become the emotional and symbolic focal point of the team Months before the World Cup, the familiar chorus of antipathy that had followed Jude Bellingham almost since his emergence on the international stage grew louder.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-14T16:21:15.986681+00:00"
-    },
-    {
-      "title": "World Cup presenter Diletta Leotta shows off incredible figure as she tucks into pizza while wearing busty crop top",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39755514/dazn-world-cup-presenter-diletta-leotta-busty-top-pizza/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T14:48:17+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "presenter",
-        "Diletta",
-        "Leotta",
-        "shows",
-        "incredible"
-      ],
-      "summary": "WORLD CUP presenter Diletta Leotta has dazzled whilst eating pizza in a revealing top. The Italian TV star was hanging out by a lake as she chilled in long ripped jeans. Helping herself to a thin slice of pizza, she posed in front of a pool with her abs out. The stunning blonde smiled as...",
-      "summary_cn": "",
-      "fetched_at": "2026-07-14T16:21:15.986681+00:00"
-    },
-    {
-      "title": "‘He ended up crying’ – Egypt manager breaks silence on ‘anti-racism gesture’ after Messi row in Argentina World Cup game",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39754456/egypt-hossam-hassan-anti-racism-gesture-lionel-messi/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-14T14:47:55+00:00",
-      "score": 20.0,
-      "keywords": [
-        "ended",
-        "crying",
-        "Egypt",
-        "manager",
-        "breaks",
-        "silence"
-      ],
-      "summary": "EGYPT boss Hossam Hassan says he did NOT make an anti-racism gesture during his side's World Cup defeat to Argentina last week - but claims Lionel Messi was left in tears. The South American giants bounced back from a two-goal deficit to seal a 3-2 win and book their place in the quarter-finals. And",
       "summary_cn": "",
       "fetched_at": "2026-07-14T16:21:15.986681+00:00"
     }
