@@ -1,23 +1,418 @@
 {
-  "updated_at": "2026-08-03T04:36:47.160103+00:00",
+  "updated_at": "2026-08-03T08:36:33.118531+00:00",
   "items": [
     {
-      "title": "Socceroos on the move: Lucas Herrington headlines post-World Cup transfers | Joey Lynch",
+      "title": "Football transfer rumours: Atlético to offer Grealish escape route? Spurs target Osimhen and Gakpo?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/blog/2026/aug/03/lucas-herrington-transfers-hull-premier-league-socceroos-transfer-news-fee-australian-players",
+      "url": "https://www.theguardian.com/football/2026/aug/03/football-transfer-rumours-atletico-grealish-tottenham-osimhen-gakpo",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-03T03:33:18+00:00",
+      "published": "2026-08-03T06:49:27+00:00",
       "score": 31.0,
       "keywords": [
-        "young",
-        "Socceroos",
-        "move",
-        "Lucas",
-        "Herrington",
-        "headlines"
+        "Aston Villa",
+        "Everton",
+        "Manchester City",
+        "Spurs",
+        "Grealish",
+        "Jack Grealish"
       ],
-      "summary": "The defender is set to become one of Australia’s most expensive players with a Premier League deal nearly done while some international teammates have already made moves Lucas Herrington, fresh off becoming the youngest Australian to start a game at a men’s World Cup, is set to become the second-mos",
+      "summary": "Today’s rumours are at a pintxo bar Jack Grealish needs a route out of Manchester City and could be offered one by Atlético Madrid. Everton, where he spent last season on loan, and first club Aston Villa are also lurking as the winger recovers from injury. The 30-year-old is absent from City’s pre-s",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wales withdraws support for FIFA president Infantino's re-election",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13569308/gianni-infantino-wales-withdraws-support-for-fifa-presidents-re-election",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-03T07:05:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Wales",
+        "withdraws",
+        "support",
+        "FIFA",
+        "president",
+        "Infantino"
+      ],
+      "summary": "Wales has become the first football association to officially withdraw support for Gianni Infantino's re-election as FIFA president.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'Just me and him' - McKenna receives warning ahead of title fight",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13569170/aaron-mckenna-etinosa-oliha-gives-irish-boxer-warning-ahead-of-ibf-world-title-fight-in-dublin-on-august-8",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-03T07:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Kenna",
+        "McKenna",
+        "receives",
+        "warning",
+        "ahead",
+        "title"
+      ],
+      "summary": "Etinosa Oliha says Aaron McKenna cannot offer \"anything new\" in their world title fight and has vowed to inflict a punishing defeat on the Irishman.",
+      "summary_cn": ""
+    },
+    {
+      "title": "McGregor tipped as future boss as he commits to Celtic - gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpq85xerwn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-03T06:55:28+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Steven Gerrard",
+        "Gerrard",
+        "Neill",
+        "McGregor",
+        "tipped",
+        "future"
+      ],
+      "summary": "Martin O'Neill tips Callum McGregor as a future Celtic manager as the midfielder commits his future to the club while Steven Gerrard reveals the reasons why he did not return as Rangers boss.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Football Weekly’s summer mailbag: AI, how transfer gossip works and more – part two",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/audio/2026/aug/03/football-weekly-summer-mailbag-ai-how-transfer-gossip-works-part-two-podcast",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-03T07:10:47+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Barry",
+        "Wilson",
+        "Football",
+        "Weekly",
+        "summer",
+        "mailbag"
+      ],
+      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin , Seb Hutchinson and Jonathan Wilson to answer your questions from the Football Weekly mailbag Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: the panel discuss AI in football, their specialist ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Football Weekly’s summer mailbag: AI, how transfer gossip works and more, part two – video",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/video/2026/aug/03/football-weekly-summer-mailbag-ai-how-transfer-gossip-works-and-more-part-two-video",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-03T07:23:05+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Barry",
+        "Wilson",
+        "Football",
+        "Weekly",
+        "summer",
+        "mailbag"
+      ],
+      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin , Seb Hutchinson and Jonathan Wilson to answer your questions from the Football Weekly mailbag Continue reading...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Georgina Rodriguez opens up on being a mum to Cristiano Ronaldo’s son as she shares family pics days before wedding",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39947621/georgina-rodriguez-cristiano-ronaldo-children-wedding-mallorca/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-03T08:33:41+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Rodri",
+        "Rodriguez",
+        "Cristiano Ronaldo",
+        "Ronaldo",
+        "Georgina",
+        "opens"
+      ],
+      "summary": "GEORGINA RODRIGUEZ has gushed over the \"special time\" she, Cristiano Ronaldo and Cristiano Jr had on their annual holiday as a trio. CR7's bride-to-be Georgina shared a series of snaps as the pair - along with the football star's eldest son - lived the good life eating gourmet food, exploring coastl",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newcastle sign goalkeeper Hornicek",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13569327/lukas-hornicek-newcastle-united-sign-czech-republic-international-goalkeeper-on-five-year-contract-from-braga-in-deal-worth-25-7m",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-03T09:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "sign",
+        "goalkeeper",
+        "Hornicek"
+      ],
+      "summary": "Newcastle United have signed goalkeeper Lukas Hornicek from Braga in a deal worth &#163;25.7m.&#160;",
+      "summary_cn": ""
+    },
+    {
+      "title": "Skinner leaves Man Utd Women",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13569329/marc-skinner-manchester-united-womens-head-coach-leaves-club-after-five-years-in-charge",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-03T08:45:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Skinner",
+        "leaves",
+        "Women"
+      ],
+      "summary": "Marc Skinner has left his role as Manchester United Women head coach after five years in charge.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newcastle sign Braga keeper Hornicek for £25.7m",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-03T08:00:39+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "sign",
+        "Braga",
+        "keeper",
+        "Hornicek"
+      ],
+      "summary": "Newcastle United sign goalkeeper Lukas Hornicek from Braga for £25.7m.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd boss Skinner leaves role before WSL season",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdewr8w0r80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-03T08:05:47+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "boss",
+        "Skinner",
+        "leaves",
+        "role"
+      ],
+      "summary": "Manchester United manager Marc Skinner steps down from his position before the start of the Women's Super League season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "From European hopes to relegation form - will Moyes reignite Everton?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dw9xeekvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-03T07:03:44+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "European",
+        "hopes",
+        "relegation",
+        "form",
+        "Moyes"
+      ],
+      "summary": "Everton competed for the European places before falling away last season. BBC Sport examines whether David Moyes is the right man to turn them around this term.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Manchester United Women head coach Marc Skinner leaves role after five years",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/03/manchester-united-women-head-coach-marc-skinner-leaves-role-after-five-years",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-03T07:59:01+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Manchester",
+        "United",
+        "Women",
+        "head",
+        "coach"
+      ],
+      "summary": "United were fourth in WSL last season, missing Europe ‘Marc leaves having made a significant contribution’ The Manchester United head coach Marc Skinner has left the club by mutual consent after five years with the club. “Marc leaves having made a significant contribution to the continued progress o",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool fans fume ‘he’s got to go’ after star struggles in 4-2 pre-season defeat to Leeds",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39947420/liverpool-fans-fume-giorgi-mamardashvili-leeds-defeat/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-03T07:55:51+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "fans",
+        "fume",
+        "star",
+        "struggles",
+        "season"
+      ],
+      "summary": "LIVERPOOL fans have had enough of one first-team star after their pre-season defeat to Leeds. The Reds are still figuring themselves out under new boss Andoni Iraola, and clearly have some teething problems to work through before the season gets underway. And supporters reckon step one is getting go",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd women’s boss rips up contract with a year to go after taking swipe at Sir Jim Ratcliffe’s funding",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39947552/marc-skinner-leaves-manchester-united-wsl/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-03T07:43:30+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "women",
+        "boss",
+        "rips",
+        "contract"
+      ],
+      "summary": "MANCHESTER UNITED women's boss Marc Skinner has left his role after five years in charge. Skinner, 43, has been in charge since the summer of 2021 but his contract has been mutually terminated. He had just a year to go on his deal but has opted to quit just a month before the start of...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Vinicius Jr could bring stunning Wag with him to Arsenal who dresses as sexy cat and wears collar with his name on",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39947239/vinicius-jr-wag-sexy-cat-virginia-fonseca-arsenal-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-03T07:15:43+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Vinicius",
+        "bring",
+        "stunning",
+        "dresses",
+        "sexy"
+      ],
+      "summary": "IF ARSENAL buy Vinicius Jr, they will bring his stunning Wag Virginia Fonseca to England as well - and she has dressed up as a sexy cat before. Blonde beauty Virginia, 27, is a ripped TV presenter with a daring online presence. With over 56million Instagram followers - still well short of Vini's 63.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Goodison Park to host Carabao Cup clash as Everton agree to let iconic stadium stage men’s football again",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39947168/goodison-park-carabao-cup-everton-preston-huddersfield/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-03T06:53:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Goodison",
+        "Park",
+        "host",
+        "Carabao",
+        "clash"
+      ],
+      "summary": "GOODISON PARK will host a competitive men's football match for the first time in 15 months this weekend. Everton's former home of 133 years has been the primary residence of the women's team since the men relocated to Hill Dickinson Stadium last season. But it will be full of fans piling in to watch",
+      "summary_cn": ""
+    },
+    {
+      "title": "Uefa threatens Fifa with legal action over investment plan",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-03T07:49:33+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Uefa",
+        "threatens",
+        "Fifa",
+        "legal",
+        "action",
+        "investment"
+      ],
+      "summary": "Uefa threatens legal action over Gianni Infantino's scrapped plans to sell off stakes in Fifa competitions to private investors.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wales first nation to withdraw support for Infantino",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-03T06:54:07+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Wales",
+        "first",
+        "nation",
+        "withdraw",
+        "support",
+        "Infantino"
+      ],
+      "summary": "Wales become the first nation to publicly withdraw backing for Gianni Infantino's bid to continue his leadership of Fifa.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Goals galore as Scottish Championship & Leagues 1 and 2 return",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/videos/c8jnmz34rzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-03T07:22:23+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Goals",
+        "galore",
+        "Scottish",
+        "Championship",
+        "Leagues",
+        "return"
+      ],
+      "summary": "Highlights of the opening day of the Scottish Championship, League 1 and League 2 for season 2026-27.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Listen: Premiership returns with chaos, comebacks & controversy",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p290py?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-03T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Listen",
+        "Premiership",
+        "returns",
+        "chaos",
+        "comebacks",
+        "controversy"
+      ],
+      "summary": "Late drama, stunning goals and big talking points from week one.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wales become first nation to drop support for Fifa president Gianni Infantino",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/03/wales-become-first-nation-to-drop-support-for-fifa-president-gianni-infantino",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-03T07:35:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Wales",
+        "become",
+        "first",
+        "nation",
+        "drop",
+        "support"
+      ],
+      "summary": "FAW says under-fire president has lost its confidence ‘This is a failure we cannot accept’ The Football Association of Wales has withdrawn its support for the Fifa president Gianni Infantino’s re-election bid over his bungled effort to sell off stakes in the World Cup to private investors. Infantino",
       "summary_cn": ""
     }
   ]
