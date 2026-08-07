@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-06T22:29:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "hopes",
+        "dashed",
+        "extends",
+        "Real",
+        "Madrid"
+      ],
+      "summary": "Brazil international has agreed a new six-year deal ‘Eight years at the Bernabéu are too few,’ says Vinícius Vinícius Júnior has ended summer speculation over his future by agreeing a new six-year contract with Real Madrid. Arsenal had been heavily linked with a move for the Brazil international, wh",
+      "summary_cn": "",
+      "fetched_at": "2026-08-07T00:10:10.907909+00:00"
+    },
+    {
+      "title": "Hearts humbled by Benfica as Hibs secure vital win; Motherwell held in Helsinki",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13570541/benfica-thrash-hearts-as-hibernian-beat-shkendija-motherwell-earn-valuable-draw-at-hjk-helsinki",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-06T22:45:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Hearts",
+        "humbled",
+        "Benfica",
+        "Hibs",
+        "secure",
+        "vital"
+      ],
+      "summary": "Hearts endured a predictably bruising evening in Lisbon as their hopes of progressing to the Europa League were all but ended by a 6-1 thrashing at the hands of Benfica.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-07T00:10:10.907909+00:00"
+    },
+    {
+      "title": "Old habits haunt Rangers in early McInnes tenure",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0kmd62el06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-06T22:30:52+00:00",
+      "score": 20.0,
+      "keywords": [
+        "habits",
+        "haunt",
+        "Rangers",
+        "early",
+        "McInnes",
+        "tenure"
+      ],
+      "summary": "Derek McInnes says Rangers were \"guilty of beating ourselves\" as he bemoaned the loss of cheap goals in the Europa League qualifying first-leg defeat to Jagiellonia Bialystok in Poland.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-07T00:10:10.907909+00:00"
+    },
+    {
       "title": "Forlan agrees to become interim Uruguay head coach",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyrddd2y2no?at_medium=RSS&at_campaign=rss",
@@ -39579,65 +39639,6 @@
         "offer"
       ],
       "summary": "Nottingham Forest are set to make an offer of £45m for Tottenham midfielder Lucas Bergvall.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-16T19:23:32.611225+00:00"
-    },
-    {
-      "title": "Tuchel defends tactics and blames England's 'DNA' for World Cup exit",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13564152/thomas-tuchel-england-boss-defends-tactics-against-argentina-and-blames-english-footballs-dna-for-world-cup-exit",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-16T20:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Tuchel",
-        "defends",
-        "tactics",
-        "blames",
-        "England",
-        "World"
-      ],
-      "summary": "Thomas Tuchel says he is \"100 per cent\" committed to continuing his role as England boss into the next European Championships in two years, and he has hit back at critics who have questioned his tactics, saying instead it is a problem with English football's \"DNA\".",
-      "summary_cn": "",
-      "fetched_at": "2026-07-16T19:23:32.611225+00:00"
-    },
-    {
-      "title": "Some England players disappointed at Tuchel's tactics",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-16T19:14:49+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Some",
-        "England",
-        "players",
-        "disappointed",
-        "Tuchel",
-        "tactics"
-      ],
-      "summary": "BBC Sport understands that Thomas Tuchel's defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-16T19:23:32.611225+00:00"
-    },
-    {
-      "title": "Fifa 'assessing reports' over Falklands banner",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-16T18:44:43+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Fifa",
-        "assessing",
-        "reports",
-        "Falklands",
-        "banner"
-      ],
-      "summary": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
       "summary_cn": "",
       "fetched_at": "2026-07-16T19:23:32.611225+00:00"
     }
