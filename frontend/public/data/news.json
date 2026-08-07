@@ -1,42 +1,153 @@
 {
-  "updated_at": "2026-08-07T11:53:11.634812+00:00",
+  "updated_at": "2026-08-07T13:20:17.300596+00:00",
   "items": [
     {
-      "title": "Lewis-Skelly's push to start in midfield for Arsenal",
+      "title": "All done deals in August 2026",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c15171py593o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-07T10:07:49+00:00",
-      "score": 31.0,
+      "published": "2026-08-07T12:42:44+00:00",
+      "score": 33.0,
       "keywords": [
-        "Arsenal",
-        "kelly",
-        "Lewis",
-        "Skelly",
-        "push",
-        "start"
+        "done",
+        "deals",
+        "August"
       ],
-      "summary": "Myles Lewis-Skelly broke into the Arsenal first team at left-back, but the teenager's preference has always been to play in midfield.",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "summary_cn": ""
     },
     {
-      "title": "Sullivan expected to attend West Ham EFL Cup tie despite advice not to",
+      "title": "Man City reject Barcelona offer for Rodri",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36d8w5g080o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.skysports.com/football/news/12040/13570585/rodri-transfer-news-man-city-reject-initial-barcelona-off-for-spain-midfielder-with-bid-considered-far-too-low",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-07T13:45:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Rodri",
+        "City",
+        "reject",
+        "Barcelona"
+      ],
+      "summary": "Manchester City have knocked back an initial offer from Barcelona for Rodri that is considered far too low.&#160;",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City reject Barcelona's £38.5m bid for Rodri",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-07T10:03:32+00:00",
+      "published": "2026-08-07T12:20:52+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Rodri",
+        "City",
+        "reject",
+        "Barcelona"
+      ],
+      "summary": "Manchester City are open to selling midfielder Rodri but would demand more than £60m for the Spain captain.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Emotional Guimaraes wanted Arsenal move, says Newcastle chief",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-07T12:00:16+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Newcastle",
+        "Wilson",
+        "Emotional",
+        "Guimaraes",
+        "wanted"
+      ],
+      "summary": "Newcastle United sporting director Ross Wilson says the club did not plan to sell Bruno Guimaraes, but their \"very emotional\" captain wanted to join Arsenal.",
+      "summary_cn": ""
+    },
+    {
+      "title": "David Sullivan set to defy advice to stay away from West Ham matches and attend Carabao Cup clash vs Portsmouth",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39995122/david-sullivan-west-ham-carabao-cup-portsmouth/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-07T12:47:22+00:00",
       "score": 31.0,
       "keywords": [
         "West Ham",
         "Sullivan",
-        "expected",
-        "attend",
-        "West",
-        "despite"
+        "David",
+        "defy",
+        "advice",
+        "stay"
       ],
-      "summary": "David Sullivan is expected to attend Saturday's EFL Cup first-round tie against Portsmouth despite being advised to stay away from home matches at the London Stadium.",
+      "summary": "DAVID SULLIVAN is set to attend West Ham's clash with Portsmouth on Saturday despite being advised to steer clear of London Stadium. Sullivan, 77, is the Hammers' largest single shareholder but quit as co-chair in June when accusations of preying on women for sex came to light. The Carabao Cup first",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newcastle plot transfer splurge for Jaissle after pulling off coup to get £75m Bruno Guimaraes fee from Arsenal",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39992060/bruno-guimaraes-tears-newcastle-arsenal-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-07T12:02:30+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Newcastle",
+        "green",
+        "plot",
+        "transfer",
+        "splurge"
+      ],
+      "summary": "NEWCASTLE believe they have pulled off a coup by securing £75million for 28-year-old Bruno Guimaraes. And the dosh Arsenal are coughing up for the Brazilian midfielder will give the green light for the club to bring in several new recruits for new boss Matthias Jaissle. Club captain Guimaraes was in",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City set transfer price for Rodri with Barcelona way off valuation – after he picked them over Real Madrid move",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39994875/man-city-set-rodri-transfer-price-barcelona/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-07T12:00:16+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Rodri",
+        "City",
+        "transfer",
+        "price"
+      ],
+      "summary": "MANCHESTER CITY have already rejected a bid from Barcelona for Rodri and will demand more than £60million if he insists on leaving. The Catalan giants want to sign the former Ballon d’Or winner, 30, who prefers them over a move to rivals Real Madrid. City have already laughed off a very low bid, wit",
+      "summary_cn": ""
+    },
+    {
+      "title": "Cole Palmer’s girlfriend stuns in blue athleisure tank top as Chelsea star’s sister gives rave review",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39993832/cole-palmer-girlfriend-olivia-holder-instagram-chelsea/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-07T11:56:21+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Palmer",
+        "Cole",
+        "girlfriend",
+        "stuns",
+        "blue"
+      ],
+      "summary": "COLE PALMER's girlfriend Olivia Holder was showered with compliments on her latest Instagram post. Palmer's sister, Hallie, was among those spreading the love as Holder posed outside a swanky doorway in London. She wore a blue athleisure two-piece, carried a small black handbag, had on a pair of und",
       "summary_cn": ""
     },
     {
@@ -55,45 +166,7 @@
         "players",
         "leave"
       ],
-      "summary": "CHELSEA could still sell up to FIFTEEN players before the end of the summer transfer window, with a further TEN potentially moving away from Stamford Bridge on loan. As ever at Chelsea, the end of the window is a busy time, but with most of their incoming signings sorted, the Blues have plenty of ou",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd clash against hated rivals free to air on ITV and could see Rashford return for first time in nearly two years",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39991431/man-utd-leeds-itv-rashford-return-rivalry/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-07T10:26:53+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Marcus Rashford",
-        "Rashford",
-        "clash",
-        "against"
-      ],
-      "summary": "TWO England World Cup stars could make their Manchester United returns on Wednesday in one of the country's fiercest grudge matches. The Red Devils' clash against Leeds could have an additional spark if Marcus Rashford plays his first Man Utd game since 2024. Rashford and Mainoo are set to arrive at",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal star Gabriel Martinelli ‘on Galatasaray’s transfer shortlist’ with Gunners future cast into doubt",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39992097/arsenal-gabriel-martinelli-galatasaray-transfer-target/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-07T10:02:59+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Martinelli",
-        "Gabriel Martinelli",
-        "star",
-        "Gabriel",
-        "Galatasaray"
-      ],
-      "summary": "GABRIEL MARTINELLI is on the transfer shortlist of Turkish giants Galatasaray, according to reports. Arsenal are open to selling the Brazilian, who they first signed in 2019 for £6million. Martinelli has gone on to make 278 appearances for the Gunners, scoring 62 goals. He has remained a mainstay in",
+      "summary": "CHELSEA could still sell up to FIFTEEN players before the end of the summer transfer window. And TEN could potentially move away from Stamford Bridge on loan. As ever at Chelsea, the end of the window is a busy time, but with most of their incoming signings sorted, the Blues have plenty of outgoings",
       "summary_cn": ""
     },
     {
@@ -116,6 +189,25 @@
       "summary_cn": ""
     },
     {
+      "title": "Messi suicide bomb, Ronaldo hotel alert & ref’s 6,000 texts…scale of World Cup threats revealed in leaked police dossier",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39994567/messi-ronaldo-hotel-bomb-threat-world-cup-dossier/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-07T12:52:28+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "Messi",
+        "suicide",
+        "bomb",
+        "hotel",
+        "alert"
+      ],
+      "summary": "A CHILLING police dossier has revealed major security threats made during the World Cup including a horror warning from a suicide bomber. The bombshell document, seen by Informacion.es, details multiple terrifying terror attempts - with Argentina's national team a particular target. Before their mat",
+      "summary_cn": ""
+    },
+    {
       "title": "Marc Cucurella’s wife Claudia Rodriguez stuns in low cut black dress as fans say ‘so beautiful’",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39992982/marc-cucurella-wife-claudia-rodriguez-dress-fans-capri/",
@@ -135,44 +227,6 @@
       "summary_cn": ""
     },
     {
-      "title": "10 people who probably won’t be invited to Cristiano Ronaldo and Georgina Rodriguez’s wedding including Wayne Rooney",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39958189/cristiano-ronaldo-georgina-rodriguez-wedding-guest-list-wayne-rooney/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-07T11:17:30+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ronaldo",
-        "Rodri",
-        "Rooney",
-        "Wayne Rooney",
-        "Rodriguez",
-        "Cristiano Ronaldo"
-      ],
-      "summary": "CRISTIANO RONALDO and Georgina Rodriguez are set to tie the knot in Madeira this weekend. The five-time Ballon d'Or winner and his glamorous long-term partner have booked out a cathedral for the ceremony in Funchal and the five-star Savoy Palace hotel for the reception. It promises to be one of the ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Gareth Southgate reveals how he spent World Cup as former England manager says ‘a lot has happened’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39992918/gareth-southgate-england-world-cup-new-york/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-07T10:32:46+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Gareth Southgate",
-        "Southgate",
-        "Gareth",
-        "reveals",
-        "spent",
-        "World"
-      ],
-      "summary": "GARETH SOUTHGATE has offered a glimpse into how he spent his first World Cup since resigning as England boss. The former Three Lions manager, 55, chose to stay out of the public eye during the tournament and rejected punditry roles as he thought it might harm the team's chances of victory. England w",
-      "summary_cn": ""
-    },
-    {
       "title": "Gallagher ready to show what he can do under De Zerbi at Spurs",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13570633/conor-gallagher-exclusive-spurs-midfielder-ready-to-show-what-he-can-do-under-roberto-de-zerbi-this-season",
@@ -188,102 +242,82 @@
         "show",
         "under"
       ],
-      "summary": "Timing in sport often defines a career and for Conor Gallagher and Tottenham Hotspur, it probably could not have been worse.",
+      "summary": "Timing in sport often defines a career and for Conor Gallagher and Tottenham, it probably could not have been worse.",
       "summary_cn": ""
     },
     {
-      "title": "Atletico in talks with Spurs to sign captain Romero",
+      "title": "Kim header gives Bayern Munich the lead vs Aston Villa LIVE!",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest",
+      "url": "https://www.skysports.com/football/live-blog/12040/13570609/bayern-munich-vs-aston-villa-live-pre-season-friendly-commentary-updates-scores-and-team-news",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-07T10:15:00+00:00",
+      "published": "2026-08-07T12:00:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Atletico",
-        "talks",
-        "sign",
-        "captain"
+        "Aston Villa",
+        "header",
+        "gives",
+        "Bayern",
+        "Munich",
+        "lead"
       ],
-      "summary": "Atletico Madrid are in talks with Tottenham over signing their captain Cristian Romero.",
+      "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "Atletico hold talks with Spurs captain Romero",
+      "title": "A secret invite and other 'pinch-me' moments before Leicester woke up",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-07T10:51:46+00:00",
+      "published": "2026-08-07T12:41:51+00:00",
       "score": 25.0,
       "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Atletico",
-        "hold",
-        "talks",
-        "captain"
+        "Leicester",
+        "secret",
+        "invite",
+        "other",
+        "pinch",
+        "moments"
       ],
-      "summary": "Atletico Madrid hold talks over a move for Tottenham captain Cristian Romero, who is expected to leave the club this summer.",
+      "summary": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten.",
       "summary_cn": ""
     },
     {
-      "title": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
+      "title": "Image of Spygate 'far from truth' says Eckert",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8x051jjz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-07T10:37:43+00:00",
+      "published": "2026-08-07T12:06:03+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
-        "Tottenham",
-        "Spurs",
-        "talks",
-        "Romero",
-        "sign"
+        "Southampton",
+        "Image",
+        "Spygate",
+        "truth",
+        "Eckert"
       ],
-      "summary": "Simeone keen on swoop for Spurs defender Van de Ven expected to pen five-year extension Tottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting Arsenal’s approach for the Argentina defender and are expected to agree a new five-year deal with Micky v",
+      "summary": "Southampton head coach Tonda Eckert says he is \"grateful\" to owner Dragon Solak for backing him in the wake of the Spygate scandal.",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal lead £73m race for new striker target, 21, after Vinicius Jr snub but face Man Utd transfer competition",
+      "title": "Man Utd’s £50m goalkeeper gamble failed in worst transfer window ever but academy sale can provide new blueprint",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39993059/arsenal-lead-transfer-race-striker-pio-esposito-man-utd/",
+      "url": "https://www.thesun.co.uk/sport/39994995/man-utd-transfer-window-news/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-07T10:18:54+00:00",
+      "published": "2026-08-07T12:15:12+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
         "Manchester United",
         "Man Utd",
-        "lead",
-        "race",
-        "striker"
+        "goalkeeper",
+        "gamble",
+        "failed",
+        "worst"
       ],
-      "summary": "ARSENAL and Manchester United could go head to head in a transfer battle for Inter Milan powerhouse Pio Esposito. SunSport can reveal the Premier League giants had scouts at Inter's pre-season derby with AC Milan in Perth to run the rule over the 21-year-old, who Inter value at £73million. And the 6",
-      "summary_cn": ""
-    },
-    {
-      "title": "Massey-Ellis retires from officiating to take up new role with FA",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13570628/sian-massey-ellis",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-07T11:05:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Massey",
-        "Ellis",
-        "retires",
-        "officiating",
-        "take",
-        "role"
-      ],
-      "summary": "Assistant referee Sian Massey-Ellis has retired from officiating and will take up a new role with the Football Association.",
+      "summary": "BOTH GOALKEEPERS Manchester United signed three years ago are now gone. That Andre Onana and Altay Bayindir have merely secured season-long loan agreements reflects doubly badly on United. In fairness to the current regime, Onana and Bayindir were bought by their predecessors. United paid more than ",
       "summary_cn": ""
     },
     {
@@ -311,7 +345,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-07T10:29:38+00:00",
+      "published": "2026-08-07T12:04:25+00:00",
       "score": 20.0,
       "keywords": [
         "Norway",
@@ -322,25 +356,6 @@
         "Argentina"
       ],
       "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Uefa boycott right thing for future of game - Bronze",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-07T10:43:06+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Uefa",
-        "boycott",
-        "right",
-        "thing",
-        "future",
-        "game"
-      ],
-      "summary": "England international Lucy Bronze says a Uefa boycott of Fifa competitions would be the \"right thing\" for the future of the game.",
       "summary_cn": ""
     },
     {
@@ -360,77 +375,6 @@
         "take"
       ],
       "summary": "Assistant referee Sian Massey‑Ellis announces her retirement from officiating to take up a position with the Football Association.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why is the EFL Cup being played on a weekend?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r44gx5prvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-07T10:27:26+00:00",
-      "score": 20.0,
-      "keywords": [
-        "being",
-        "played",
-        "weekend"
-      ],
-      "summary": "The bulk of the EFL cup's first round fixtures will take place on a weekend, despite traditionally being a midweek cup competition.",
-      "summary_cn": ""
-    },
-    {
-      "title": "What are the key dates for the women's football season?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxe311vkw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-07T10:03:52+00:00",
-      "score": 20.0,
-      "keywords": [
-        "dates",
-        "women",
-        "football",
-        "season"
-      ],
-      "summary": "BBC Sport's Ask Me Anything team details the key dates are for the 2026-27 women's football season.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Norway’s Klaveness tells Fifa president Infantino to resign: ‘There is no trust now’",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/07/lise-klaveness-norwegian-fa-fifa-president-gianni-infantino-resign",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-07T11:15:39+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Norway",
-        "Klaveness",
-        "tells",
-        "Fifa",
-        "president",
-        "Infantino"
-      ],
-      "summary": "‘There is no way back for him,’ says NFF president Infantino still battling for support around the world The Norwegian FA will ask Gianni Infantino to resign with immediate effect after his doomed attempt to sell stakes in the World Cup to private investors. Norway is the first federation to call di",
-      "summary_cn": ""
-    },
-    {
-      "title": "England striker Ivan Toney charged with assault after Soho nightclub incident",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-07T11:03:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "striker",
-        "Ivan",
-        "Toney",
-        "charged",
-        "assault"
-      ],
-      "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England footballer Ivan Toney has been charged with assault after an incident at a nightclub in Soho in December last year. Scotland Yard said the striker had been charged on 31 July with a",
       "summary_cn": ""
     }
   ]
