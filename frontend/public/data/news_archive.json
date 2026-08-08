@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "title": "Burnley edge win on penalties, West Ham through in Carabao Cup first round",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13570969/carabao-cup-burnley-edge-win-on-penalties-west-ham-norwich-watford-through",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-08T17:05:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Walker",
+        "Kyle Walker",
+        "Burnley",
+        "edge",
+        "penalties"
+      ],
+      "summary": "Kyle Walker struck the winning penalty as Burnley edged out Notts County 4-3 in a shoot-out to reach the Carabao Cup second round after a 1-1 draw at Turf Moor.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
+      "title": "West Ham sink Pompey in Carabao Cup as Sullivan ignores advice to stay away",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/08/west-ham-portsmouth-carabao-cup-first-round-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-08T16:38:20+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Sullivan",
+        "West",
+        "sink",
+        "Pompey",
+        "Carabao"
+      ],
+      "summary": "In an unseasonable black bomber jacket, with heavy duty company beside him, David Sullivan took his seat. Against the advice of the stadium’s operators, unbowed by serious allegations placed against his name and the weight of public opinion, West Ham’s major shareholder, the former co-chair, sat wit",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
+      "title": "Frank Lampard’s Coventry ‘make move for ex-Man Utd midfielder Angel Gomes with England international keen on transfer’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40004329/lampard-coventry-angel-gomes-frank-lampard-man-united/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T17:08:47+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Frank Lampard",
+        "Lampard",
+        "Frank",
+        "Coventry"
+      ],
+      "summary": "FRANK LAMPARD'S newly-promoted Coventry are keen on former Manchester United midfielder Angel Gomes. The Sky Blues have reportedly sounded out Marseille over a potential deal for the England international, who is keen to return to the Premier League this summer. According to L’Equipe, Coventry are a",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
+      "title": "Man Utd player ratings: Bryan Mbeumo stakes claim to starting spot up front while Harry Maguire imposes himself vs PSG",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40003500/man-utd-ratings-bryan-mbeumo-harry-maguire/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T16:58:41+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Maguire",
+        "Carrick",
+        "Harry Maguire"
+      ],
+      "summary": "MANCHESTER UNITED stepped up their pre-season preparations as they took on Paris Saint-Germain in Sweden. Michael Carrick was able to run the rule over his side against the reigning champions of Europe, albeit missing some of their biggest stars. The match got off to a disastrous start for the Red D",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
+      "title": "Mbeumo scores in encouraging Man Utd draw with PSG but Mount injured",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-08T18:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Man Utd",
+        "Mbeumo",
+        "scores",
+        "encouraging",
+        "draw",
+        "Mount"
+      ],
+      "summary": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg but Mason Mount's injury was a cause for concern.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
+      "title": "Garcia hopes long-term friend Alonso's Chelsea finish second to Liverpool",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gj9j7yv9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-08T16:45:47+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Liverpool",
+        "Garcia",
+        "hopes",
+        "long",
+        "term"
+      ],
+      "summary": "As two Liverpool legends meet in pre-season, Luis Garcia says he hopes Xabi Alonso's Chelsea finish behind their former club in the Premier League.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
+      "title": "Carabao Cup: Preston prevail in Goodison home game, Millwall keeper saves four penalties",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/08/carabao-cup-roundup-preston-huddersfield-goodison-park-millwall-qpr-penalties",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-08T16:38:29+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Carabao",
+        "Preston",
+        "prevail",
+        "Goodison",
+        "home",
+        "game"
+      ],
+      "summary": "Ten-man North End beat Huddersfield on penalties Lukas Jensen the shootout hero for Millwall at QPR Delano Burgzorg scored the winning penalty in the shootout after Jusef Erabi equalised in stoppage time for 10-man Preston to knock Huddersfield out of the Carabao Cup. The game took place at Goodison",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
+      "title": "Chelsea fire major warning to Arsenal as ‘rockstar’ coach Austin MacPhee inspires Blues to TWO set-piece goals vs Milan",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40004666/chelsea-arsenal-austin-macphee-ac-milan-set-pieces/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T17:04:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "fire",
+        "major",
+        "warning",
+        "rockstar"
+      ],
+      "summary": "LOOK OUT Arsenal, there is a new Set Piece FC in town. Chelsea showcased their newest lethal weapon to the world today, scoring twice from corners to stroll to a commanding 3-0 victory over Ruben Amorim’s dismal AC Milan in Jakarta. That new weapon comes in the form of their high-profile recruitment",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
+      "title": "PSG 1 Man Utd 1: United’s midfield in state of alarm and club must act in transfer market after Mason Mount injury scare",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40004315/man-united-draw-with-psg-mount-injured-midfielders/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T16:57:20+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "United",
+        "midfield",
+        "state",
+        "alarm"
+      ],
+      "summary": "DEFENSIVE LAPSES and a void in midfield. Perhaps Manchester United will now dip their hands back into their pockets. Of more consequence than their draw with Paris Saint Germain in Gothenburg was another injury to Mason Mount, removed after 20 minutes. Mount had shown promise in his competitive and ",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T17:37:35.484268+00:00"
+    },
+    {
       "title": "Andy Carroll shown straight RED CARD for off-the-ball incident in Dagenham and Redbridge’s first game of season",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40004359/andy-carroll-red-card-dagenham-redbridge-dorking/",
@@ -39465,184 +39645,6 @@
       "summary": "North America correspondent Nada Tawfik explores the decision to award the World Cup final to MetLife Stadium amid competition from rival venues.",
       "summary_cn": "",
       "fetched_at": "2026-07-18T11:58:31.936128+00:00"
-    },
-    {
-      "title": "World Cup winner Capdevila appeals to Trump after US travel permit denied",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2l5jn17yjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-18T10:43:40+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "winner",
-        "Capdevila",
-        "appeals",
-        "Trump",
-        "travel"
-      ],
-      "summary": "Former Spain international Joan Capdevila has made a plea to US President Donald Trump for help after he says he was denied a travel permit to enter the United States before Sunday's World Cup final.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T11:58:31.936128+00:00"
-    },
-    {
-      "title": "Listen: Off the Ball with guests Zander Murray & Chris Bennet",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-18T13:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Listen",
-        "Ball",
-        "guests",
-        "Zander",
-        "Murray",
-        "Chris"
-      ],
-      "summary": "The most petty and ill-informed football show on radio.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T11:58:31.936128+00:00"
-    },
-    {
-      "title": "Gianni Infantino unlikely to face IOC sanctions over Balogun red card scandal",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-unlikely-to-face-ioc-sanctions-over-balogun-red-card-scandal",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-18T11:00:02+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Gianni",
-        "Infantino",
-        "unlikely",
-        "face",
-        "sanctions",
-        "Balogun"
-      ],
-      "summary": "Donald Trump spoke to Fifa president before ban lifted Human rights body FairSquare sent complaint to IOC Gianni Infantino is poised to escape without sanction after complaints he breached rules on political neutrality in his dealings with Donald Trump over the Folarin Balogun affair. The Internatio",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T11:58:31.936128+00:00"
-    },
-    {
-      "title": "'Less than human': how unhoused people in Atlanta are being treated during the World Cup – video",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/video/2026/jul/18/how-unhoused-people-in-atlanta-are-being-treated-during-the-world-cup-video",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-18T10:29:20+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Less",
-        "human",
-        "unhoused",
-        "people",
-        "Atlanta",
-        "being"
-      ],
-      "summary": "“This is what happens when you apply these incredibly violent economic forces to these cities … it's happened at every World Cup I've been to,” explains our chief sports writer, Barney Ronay. Employees in Atlanta, Georgia, recently threw away tents , medication, identification and other belongings o",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T11:58:31.936128+00:00"
-    },
-    {
-      "title": "Fallen Bundesliga champions banned from using OWN CREST and revert to badge from over 100 years ago in bitter legal row",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39797301/1860-munich-banned-crest-germany-bundesliga/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-18T11:19:53+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Fallen",
-        "Bundesliga",
-        "champions",
-        "banned",
-        "using",
-        "CREST"
-      ],
-      "summary": "1860 MUNICH have temporarily lost the rights to their iconic crest amid the club's ongoing crisis that led to relegation to the fourth division. Munich are one of the most historic German clubs and one of the key founders of the Bundesliga in 1963 that won the title in 1966 as well as the Cup...",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T11:58:31.936128+00:00"
-    },
-    {
-      "title": "What kit are England wearing against France?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39797084/england-kit-france-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-18T11:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "wearing",
-        "against",
-        "France"
-      ],
-      "summary": "DESPITE the heartbreak England suffered against Argentina on Wednesday, the Three Lions still have one more game to play at the World Cup! It comes against France in the third-place play-off, with the winner earning a bronze medal at the tournament. Thomas Tuchel's side suffered a devastating loss a",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T11:58:31.936128+00:00"
-    },
-    {
-      "title": "World Cup 2026 Golden Boot: Lionel Messi and Kylian Mbappe battle for top scorer at thrilling tournament",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39367358/world-cup-2026-golden-boot-lionel-messi-kylian-mbappe/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-18T10:33:38+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Golden",
-        "Boot",
-        "Lionel",
-        "Messi",
-        "Kylian"
-      ],
-      "summary": "WE have reached the final weekend of this year's World Cup - and the Golden Boot is still up for grabs! There have been four winners of the World Cup Golden Boot since it re-branded from the Golden Shoe for the 2010 tournament. WORLD CUP 2026 FREE BETS AND SIGN UP OFFERS Thomas Muller won...",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T11:58:31.936128+00:00"
-    },
-    {
-      "title": "Former Arsenal star’s son, aged 18, quits Tottenham to join Gunners in shock transfer to bitter North London rivals",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39797037/arsenal-transfer-news-tottenham-elijah-upson-england/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-18T09:59:35+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Tottenham",
-        "Spurs",
-        "Upson",
-        "Former",
-        "star"
-      ],
-      "summary": "ARSENAL have signed Tottenham prospect Elijah Upson after he turned down a new contract with the rival club, reports suggest. Elijah, 18, who is the son of former Gunners ace Matthew Upson, had been with Spurs' academy throughout most of his youth career. According to transfer insider Fabrizio Roman",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T10:25:04.764998+00:00"
-    },
-    {
-      "title": "Ruthless All Blacks prove too strong for Ireland at Eden Park",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-union/new-zealand-vs-ireland/report/111679",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-18T09:10:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "Ruthless",
-        "Blacks",
-        "prove",
-        "strong",
-        "Eden"
-      ],
-      "summary": "A ruthless All Blacks display ensured they will end their home block of rugby's inaugural Nations Championship with three wins from three, after emphatically beating Ireland 40-21 at Eden Park.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-18T10:25:04.764998+00:00"
     }
   ]
 }
