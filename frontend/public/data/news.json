@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:37:19.499179+00:00",
+  "updated_at": "2026-08-08T23:36:25.661213+00:00",
   "items": [
     {
       "title": "Wissa double gives Newcastle boss Jaissle winning start at 10-man Valencia",
@@ -21,79 +21,98 @@
       "summary_cn": ""
     },
     {
-      "title": "Wissa & Toure star as Jaissle wins first Newcastle friendly - ratings",
+      "title": "McKenna wins world title in Ireland homecoming fight!",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk75keg1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/watch/video/13571266/aaron-mckenna-vs-etinosa-oliha-fight-highlights",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-08T21:11:46+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Newcastle",
-        "Valencia",
-        "Wissa",
-        "Toure",
-        "star",
-        "Jaissle"
-      ],
-      "summary": "Newcastle United forward Yoane Wissa scores twice in a 2-1 win against Valencia in Matthias Jaissle's first game in charge - but how did the Magpies players perform?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Barca make second bid for Rodri - Sunday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-08T20:37:28+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Forest",
-        "Rodri",
-        "Barca",
-        "make",
-        "second"
-      ],
-      "summary": "Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Barcelona set to launch new bid for Man City superstar Rodri with Enzo Maresca’s side demanding £60million transfer fee",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40006152/barcelona-manchester-city-rodri-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T21:08:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Rodri",
-        "Barcelona",
-        "launch",
-        "City"
-      ],
-      "summary": "MANCHESTER CITY boss Enzo Maresca is braced for a new Barcelona bid for Rodri. The LaLiga champions are sure the midfielder wants to join them this summer. An offer of £38.5million for Spain’s World Cup-winning captain was laughed off by Etihad chiefs on Friday. City believe the 30-year-old former B",
-      "summary_cn": ""
-    },
-    {
-      "title": "Phil Foden’s girlfriend flogging Three Lions shirts on Vinted after he was dropped by Tuchel",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40005778/phil-foden-girlfriend-flogs-england-shirts/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T21:29:10+00:00",
+      "published": "2026-08-08T23:46:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Foden",
-        "Phil Foden",
-        "Phil",
-        "girlfriend",
-        "flogging",
-        "Lions"
+        "Kenna",
+        "Ireland",
+        "McKenna",
+        "wins",
+        "world",
+        "title"
       ],
-      "summary": "SNUBBED England ace Phil Foden’s girlfriend is flogging new Three Lions shirts on Vinted — after her World Cup trip with other Wags did not go ahead. Rebecca Cooke, 25, offers two shirts on the second-hand website for £70 each — the latest white home and red away strips. The jerseys were modified by",
+      "summary": "Highlights of Aaron McKenna's IBF middleweight world title fight against Etinosa Oliha.",
+      "summary_cn": ""
+    },
+    {
+      "title": "McKenna becomes middleweight world champ with dream homecoming win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13571057/aaron-mckenna-wins-dream-homecoming-bout-against-etinosa-oliha-to-become-ibf-middleweight-world-champion-in-dublin",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-08T23:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Kenna",
+        "Ireland",
+        "McKenna",
+        "becomes",
+        "middleweight",
+        "world"
+      ],
+      "summary": "Ireland's Aaron McKenna defeated Etinosa Oliha to become a middleweight world champion.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Papers: Romero open to joining Arsenal but Spurs resist",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-08T23:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Spurs",
+        "Papers",
+        "Romero",
+        "open",
+        "joining"
+      ],
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wolves overwhelm Bradford in emphatic away victory",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13571231/bradford-bulls-4-42-warrington-wolves-super-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-09T00:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "overwhelm",
+        "Bradford",
+        "emphatic",
+        "away",
+        "victory"
+      ],
+      "summary": "Highlights of the Super League clash between Bradford Bulls and Warrington Wolves as Matty Ashton scored twice in a dominant 42-4 victory for the visitors.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Jaissle starts with win but not planning to 'smash locker room'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3049pl53yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-08T23:23:30+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Jaissle",
+        "starts",
+        "planning",
+        "smash",
+        "locker"
+      ],
+      "summary": "It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away.",
       "summary_cn": ""
     },
     {
@@ -189,25 +208,6 @@
         "advertising"
       ],
       "summary": "FANS have been left wincing after a pre-match stunt went terribly wrong in the Netherlands. What was supposed to be entertainment descended into chaos as a parachuter soared into the advertising boards with some force. Dutch side Go Ahead Eagles had planned an unorthodox delivery of the match ball f",
-      "summary_cn": ""
-    },
-    {
-      "title": "Famous napkin contract and Real Madrid transfer threat – How Lionel Messi’s dad guided son through iconic career",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40003915/lionel-messi-dad-jorge-career-barcelona/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T20:56:09+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Famous",
-        "napkin",
-        "contract",
-        "Real",
-        "Madrid",
-        "transfer"
-      ],
-      "summary": "JORGE MESSI died in Rosario aged 68 on Friday night following a long battles with illness. A driving force behind son Lionel's outstanding career, tributes poured in for Jorge. Barcelona expressed their \"deepest condolences\", while Jorge's beloved Newell's Old Boys spoke of their \"deep sorrow and gr",
       "summary_cn": ""
     }
   ]
