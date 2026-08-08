@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "title": "Life as a Wag in the transfer window",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-08T05:15:34+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Life",
+        "transfer",
+        "window"
+      ],
+      "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+      "summary_cn": "",
+      "fetched_at": "2026-08-08T05:48:34.061307+00:00"
+    },
+    {
       "title": "Infantino denies claims Uefa paid off alleged 'lover'",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
@@ -39634,26 +39651,6 @@
       "summary": "BBC viewing figures have revealed how little England fans care about the third-place play-off match. The Three Lions will attempt to overcome their World Cup heartbreak against France tomorrow night. England had one foot in the final after Anthony Gordon's goal against Argentina in the semi-final in",
       "summary_cn": "",
       "fetched_at": "2026-07-17T19:21:57.555132+00:00"
-    },
-    {
-      "title": "'Chaos v calm' - Sutton's World Cup final and third-place predictions",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3zrgxkzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-17T16:26:43+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Sutton",
-        "Chris Sutton",
-        "Chaos",
-        "calm",
-        "World",
-        "final"
-      ],
-      "summary": "BBC Sport's football expert Chris Sutton makes his prediction for Spain against Argentina in the World Cup final, and the bronze final between France and England.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-17T17:18:39.702424+00:00"
     }
   ]
 }
