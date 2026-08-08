@@ -1,25 +1,6 @@
 {
-  "updated_at": "2026-08-08T15:36:48.689349+00:00",
+  "updated_at": "2026-08-08T16:43:14.463087+00:00",
   "items": [
-    {
-      "title": "‘Didn’t hire a super agent’ – Kieran Trippier responds after Bruno Guimaraes seals £75million Arsenal transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40003785/kieran-trippier-bruno-guimaraes-arsenal-newcastle/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T15:26:10+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "James",
-        "Didn",
-        "hire",
-        "super"
-      ],
-      "summary": "KIERAN TRIPPIER appeared to take a swipe at Bruno Guimaraes after the Newcastle star completed his £75million move to Arsenal. Guimaraes has ended his four-year spell at St James’ Park by joining the Gunners in a blockbuster deal that has left Newcastle supporters heartbroken. The Brazilian midfield",
-      "summary_cn": ""
-    },
     {
       "title": "Man United tickets with hotels and VIP hospitality upgrades for Premier League games at Old Trafford",
       "title_cn": "",
@@ -40,22 +21,98 @@
       "summary_cn": ""
     },
     {
-      "title": "Sullivan attends West Ham game despite advice not to",
+      "title": "West Ham 3-1 Portsmouth; Burnley beat Notts County in shootout: Carabao Cup first round – live",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07rx4r40ngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.theguardian.com/football/live/2026/aug/08/west-ham-v-portsmouth-burnley-v-notts-county-carabao-cup-first-round-live",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-08T14:23:56+00:00",
+      "published": "2026-08-08T16:30:28+00:00",
       "score": 31.0,
       "keywords": [
         "West Ham",
-        "Sullivan",
-        "attends",
+        "Walker",
+        "Kyle Walker",
         "West",
-        "game",
-        "despite"
+        "Portsmouth",
+        "Burnley"
       ],
-      "summary": "Former West Ham co-chairman David Sullivan attends their Carabao Cup match against Portsmouth despite being advised he should stay away.",
+      "summary": "⚽ West Ham come from behind to see off Pompey ⚽ Kyle Walker seals shootout win for Burnley ⚽ Millwall keeper Lukas Jensen saves all four QPR spot-kicks QPR 0-0 Millwall. There’s not a lot going on at Loftus Road in today’s only 2pm kick-off. Rangers have had most of the ball, Millwall have just had ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Andy Carroll shown straight RED CARD for off-the-ball incident in Dagenham and Redbridge’s first game of season",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40004359/andy-carroll-red-card-dagenham-redbridge-dorking/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T16:19:26+00:00",
+      "score": 31.0,
+      "keywords": [
+        "march",
+        "Andy Carroll",
+        "bridge",
+        "Carroll",
+        "given",
+        "Andy"
+      ],
+      "summary": "ANDY CARROLL was sent off with a straight red card in Dagenham &amp; Redbridge's first game of the season. Carroll, 37, was given his marching orders on 56 minutes after an off-the-ball incident. The former Premier League star was in action during Dagenham's 1-0 win over Dorking at Meadowbank, Dorki",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd legend Paul Scholes’ daughter shows off gruesome toe injury and ‘skin off on treadmill death horror story’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40003642/man-utd-paul-scholes-daughter-shows-off-toe-injury/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T15:40:27+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Paul Scholes",
+        "Scholes",
+        "legend",
+        "Paul"
+      ],
+      "summary": "PAUL SCHOLES’ Paul Scholes’ daughter Alicia has revealed a gruesome toe injury following a nightmare treadmill accident. The 25-year-old daughter of the Manchester United legend shared a series of photos on Instagram, with the collage kicking off to a painful start after she badly damaged her toe. O",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘So reckless’ – Fans say Man Utd ace Ayden Heaven lucky to escape red card after horror tackle on Khvicha Kvaratskhelia",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40004044/manchester-united-psg-ayden-heaven-khvicha-kvaratskhelia-horror-tackle/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T15:30:37+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester United",
+        "Man Utd",
+        "young",
+        "reckless",
+        "Fans"
+      ],
+      "summary": "AYDEN HEAVEN somehow escaped a red card for a horror tackle on Khvicha Kvaratskhelia. Manchester United were already 1-0 down in their pre-season clash with European champions Paris Saint-Germain after Liverpool transfer target Ibrahim Mbaye's opener. Desperate to make amends, young defender Heaven ",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Didn’t hire a super agent’ – Kieran Trippier responds after Bruno Guimaraes seals £75million Arsenal transfer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40003785/kieran-trippier-bruno-guimaraes-arsenal-newcastle/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T15:26:10+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Newcastle",
+        "James",
+        "Didn",
+        "hire",
+        "super"
+      ],
+      "summary": "KIERAN TRIPPIER has responded after Bruno Guimaraes' mega-money move to Arsenal. Guimaraes has ended his four-year spell at St James’ Park by joining the Gunners in a blockbuster deal that has left Newcastle supporters heartbroken. The Brazilian midfielder had become a key figure on Tyneside since a",
       "summary_cn": ""
     },
     {
@@ -78,98 +135,135 @@
       "summary_cn": ""
     },
     {
-      "title": "Chelsea player ratings: Danny Welbeck shows age with dire AC Milan performance as Joao Pedro runs rings around veteran",
+      "title": "Moore helps GB and Ireland to Shergar Cup crown",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40003363/chelsea-player-ratings-milan-danny-welbeck-joao-pedro/",
+      "url": "https://www.skysports.com/racing/news/12040/13571076/shergar-cup-ryan-moore-helps-great-britain-and-ireland-to-ascot-crown",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-08T17:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "Moore",
+        "helps",
+        "Shergar",
+        "crown"
+      ],
+      "summary": "Ryan Moore bagged a Shergar Cup double on his return to the competition following a 20-year absence to help his Great Britain and Ireland team win the team event while he was also crowned leading rider over the six races.",
+      "summary_cn": ""
+    },
+    {
+      "title": "McKenna vs Etinosa Oliha LIVE! World title clash in Dublin",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/live-blog/12040/13570943/aaron-mckenna-vs-etinosa-oliha-live-updates-stream-undercard-news-results-highlights-from-zuffa-boxing-10-in-dublin",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-08T17:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Kenna",
+        "Dublin",
+        "McKenna",
+        "Etinosa",
+        "Oliha",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Phillips hits winner against St Johnstone as St Mirren go top",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/st-mirren-vs-st-johnstone/report/558342",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-08T16:50:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Phillips",
+        "hits",
+        "winner",
+        "against",
+        "Johnstone"
+      ],
+      "summary": "Killian Phillips was on target again to keep St Mirren on top of the Premiership for a second Saturday night.",
+      "summary_cn": ""
+    },
+    {
+      "title": "FREE STREAM: McKenna vs Oliha undercard LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13570756/aaron-mckenna-vs-etinosa-oliha-free-live-stream-of-undercard-fights-ahead-of-saturdays-middleweight-world-title-fight-in-dublin",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-08T16:45:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Kenna",
+        "FREE",
+        "STREAM",
+        "McKenna",
+        "Oliha",
+        "undercard"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Thousands of Ronaldo fans mob confused bride after mistakenly turning up to her wedding thinking it was CR7’s big day",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40004440/ronaldo-fans-mob-bride-mistaking-wedding-for-cr7-s/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-08T14:26:06+00:00",
-      "score": 31.0,
+      "published": "2026-08-08T16:31:35+00:00",
+      "score": 26.0,
       "keywords": [
-        "Chelsea",
-        "Fulham",
+        "Rodri",
+        "Rodriguez",
+        "Cristiano Ronaldo",
+        "Ronaldo",
+        "Thousands",
+        "fans"
+      ],
+      "summary": "THOUSANDS of Cristiano Ronaldo fans mobbed an unsuspecting couple after wrongly believing they were CR7 and his fiancée Georgina Rodriguez. The Portuguese football legend and his long-term partner have been tipped to finally tie the knot in a lavish ceremony later this year. But more than 2,000 fans",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham 1 Getafe 1: Spurs star claims Spaniards should have had 3 red cards for roughhouse tactics in 70-minute clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40004222/tottenham-spurs-getafe-jan-paul-van-hecke-gallagher/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-08T16:28:10+00:00",
+      "score": 25.0,
+      "keywords": [
         "Tottenham",
-        "Danny Welbeck",
-        "Welbeck",
-        "player"
+        "Spurs",
+        "Getafe",
+        "star",
+        "claims",
+        "Spaniards"
       ],
-      "summary": "XABI ALONSO may be getting his message across to his new Chelsea stars in their dominant win over AC Milan. The Blues have endured a hapless pre-season with defeats to London rivals Tottenham as well as Juventus as they gear up for their Premier League opener on August 24 at Fulham. This time, thoug",
+      "summary": "JAN PAUL VAN HECKE hit out at Getafe’s rough-house tactics, claiming if it had been a proper game, the Spanish giants would have had “two or three” red cards. Spurs drew 1-1 in a behind-closed-doors exhibition at their training ground with the La Liga side, with Conor Gallagher chalking off Albert R",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea flop Jamie Gittens ‘lined up for shock Roma transfer’ just one year after winger’s £52million move",
+      "title": "Former Premier League star ruled out for whole campaign after suffering horror injury in pre-season friendly",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40003332/chelsea-jamie-gittens-roma-stamford-bridge-gasperini/",
+      "url": "https://www.thesun.co.uk/sport/40003940/christantus-uche-injury-premier-league-crystal-palace-getafe/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-08T14:19:41+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "flop",
-        "Jamie",
-        "Gittens",
-        "lined"
-      ],
-      "summary": "CHELSEA flop Jamie Gittens could be heading for a shock Roma exit just one year after his big-money move to Stamford Bridge. The winger has reportedly emerged as a target for Roma as boss Gian Piero Gasperini continues his search for a creative attacker. According to reports in Italy, Roma have draw",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea 3 AC Milan 0: Joao Pedro downs ex-Man Utd boss Ruben Amorim with two goals as Moises Caicedo hits wonderstrike",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40003343/joao-pedro-moises-caicedo-chelsea-ruben-amorim-xabi-alonso/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T14:13:03+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Man Utd",
-        "Paul Scholes",
-        "Scholes",
-        "Milan",
-        "Joao"
-      ],
-      "summary": "MOISES CAICEDO does not score normal goals. The Ecuadorian midfielder channelled his inner Paul Scholes as Chelsea strolled past Ruben Amorim's AC Milan to round out their pre-season tour, scoring one of the best goals of his career in the process. With the Blues' pre-season tour in danger of coming",
-      "summary_cn": ""
-    },
-    {
-      "title": "West Ham v Portsmouth, Burnley v Notts County: Carabao Cup first round – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/08/west-ham-v-portsmouth-burnley-v-notts-county-carabao-cup-first-round-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-08T15:14:47+00:00",
+      "published": "2026-08-08T15:44:36+00:00",
       "score": 25.0,
       "keywords": [
-        "West Ham",
-        "West",
-        "Portsmouth",
-        "Burnley",
-        "Notts",
-        "County"
+        "Crystal Palace",
+        "Former",
+        "Premier",
+        "League",
+        "star",
+        "ruled"
       ],
-      "summary": "⚽ Football updates from Saturday’s 3pm BST kick-offs ⚽ Live scoreboard | Sign up for Football Daily | Mail Scott QPR 0-0 Millwall. There’s not a lot going on at Loftus Road in today’s only 2pm kick-off. Rangers have had most of the ball, Millwall have just had their first (off-target) shot at goal, ",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘So reckless’ – Fans say Man Utd ace Ayden Heaven lucky to escape red card after horror tackle on Khvicha Kvaratskhelia",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40004044/manchester-united-psg-ayden-heaven-khvicha-kvaratskhelia-horror-tackle/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T15:30:37+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "reckless",
-        "Fans",
-        "Ayden",
-        "Heaven"
-      ],
-      "summary": "AYDEN HEAVEN escaped with a yellow card after a horror tackle on Khvicha Kvaratskhelia as Manchester United made a shaky start against Paris Saint-Germain. United were already 1-0 down after Ibrahim Mbaye's early opener when Heaven gifted possession straight to Kvaratskhelia. Desperate to make amend",
+      "summary": "AN ex-Crystal Palace star faces being ruled out of the entirety of the upcoming campaign after a horror injury in pre-season. Christantus Uche was playing for Getafe in a pre-season friendly against Monaco when the horrific accident occurred. Following the match, Getafe posted saying: \"Following ini",
       "summary_cn": ""
     },
     {
@@ -211,82 +305,6 @@
       "summary_cn": ""
     },
     {
-      "title": "Tottenham Hotspur ticket and hotel deals for the new Premier League season from just £135 per person",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39228834/tottenham-premier-league-ticket-hotel-packages/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T14:13:06+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Hotspur",
-        "ticket",
-        "hotel",
-        "deals"
-      ],
-      "summary": "SPURS fans can book their place at the spectacular Tottenham Stadium for the new season. With the freshly released Premier League fixture list now locked in, the race is on to secure their spot for a magnificent matchday experience in North London.&nbsp; Buy Spurs tickets There is nothing quite like",
-      "summary_cn": ""
-    },
-    {
-      "title": "Australia survive late Japan rally as new coach Kiss makes winning start",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13570951/australia-edge-japan-35-32-to-give-les-kiss-winning-start-in-first-match-as-head-coach",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-08T13:44:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Australia",
-        "survive",
-        "late",
-        "Japan",
-        "rally",
-        "coach"
-      ],
-      "summary": "Australia held on for a tight 35-32 victory over Japan, despite a first-half red card for Miles Amatosero, as they made a winning start in head coach Les Kiss' first match in charge.&#160;",
-      "summary_cn": ""
-    },
-    {
-      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-08T13:41:32+00:00",
-      "score": 20.0,
-      "keywords": [
-        "football",
-        "proof",
-        "tech",
-        "investors",
-        "wanted",
-        "slice"
-      ],
-      "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Critically important' summit called on future of Scottish football",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-08T13:40:39+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Critically",
-        "important",
-        "summit",
-        "called",
-        "future",
-        "Scottish"
-      ],
-      "summary": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
-      "summary_cn": ""
-    },
-    {
       "title": "Football Wag had to move out of home after ONE NIGHT as she reveals what life in transfer window is really like",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40003782/football-league-wag-owen-dale-female-sport-influencers/",
@@ -302,7 +320,7 @@
         "reveals",
         "life"
       ],
-      "summary": "FOOTBALL Wag Jessica Beaumont has revealed the brutal reality of life in the transfer window – including moving out of her dream home after just ONE night. Jessica and footballer partner Owen Dale had only just bought their first house together when he was sent on loan more than 200 miles away to Po",
+      "summary": "FOOTBALL Wag Jessica Beaumont has revealed the brutal reality of life in the transfer window – including moving out of her dream home after just ONE night. Jessica and her footballer partner Owen Dale, 27, had only just bought their first house together when he was shipped on loan more than 200 mile",
       "summary_cn": ""
     }
   ]
