@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T10:42:02.531177+00:00",
+  "updated_at": "2026-08-09T11:36:52.785819+00:00",
   "items": [
     {
       "title": "Torquay footballer, 18, diagnosed with brain tumour as club sends love and support after two operations",
@@ -21,6 +21,63 @@
       "summary_cn": ""
     },
     {
+      "title": "Andrey Santos claims he can replace Casemiro at Man Utd after £50m transfer from Chelsea",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40006889/andrey-santos-man-utd-transfer-casemiro/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-09T11:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Man Utd",
+        "Anderson",
+        "Fernandes",
+        "Andrey"
+      ],
+      "summary": "ANDREY SANTOS insists he can be the solution to Manchester United’s defensive midfield problem and replace compatriot Casemiro. United bought Santos, 22, from Chelsea in a £50million deal after missing out on Elliot Anderson and Mateus Fernandes. Santos was billed by United director of football Jaso",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd are trying to do what Sir Alex Ferguson did with Michael Carrick in midfield",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40006918/man-utd-midfield-transfer-carrick-sir-alex-ferguson/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-09T11:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Wilcox",
+        "Michael Carrick",
+        "Carrick",
+        "Ferguson"
+      ],
+      "summary": "A WEEK after Andrey Santos claimed he couldn’t speak, he spoke enthusiastically about his start to life at Manchester United. Nobody at United had pinned down a specific role for Santos. It was to his credit that he billed himself as “like a number six”. United director of football Jason Wilcox prom",
+      "summary_cn": ""
+    },
+    {
+      "title": "See Jude Bellingham and Real Madrid with ticket and hotel packages for La Liga games at Bernabeu from just £299pp",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39805767/jude-bellingham-real-madrid-tickets-la-liga-santiago-bernabeu/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-09T11:20:51+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Jude",
+        "Bellingham",
+        "Real",
+        "Madrid",
+        "ticket",
+        "hotel"
+      ],
+      "summary": "FOOTBALL fans can look forward to the ultimate Spanish getaway this season to Madrid. We have teamed up with one of the UK's top sports travel operators to offer official ticket and hotel packages to watch Real Madrid live this season. See Real Madrid in the Bernabeu Supporters have a golden opportu",
+      "summary_cn": ""
+    },
+    {
       "title": "Georgina Rodriguez poses in tracksuit bottoms as confused fans line streets for Cristiano Ronaldo wedding that never was",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40007590/georgina-rodriguez-poses-tracksuit-cristiano-ronaldo-wedding/",
@@ -29,10 +86,10 @@
       "published": "2026-08-09T09:59:36+00:00",
       "score": 26.0,
       "keywords": [
-        "Rodriguez",
-        "Rodri",
         "Ronaldo",
+        "Rodri",
         "Cristiano Ronaldo",
+        "Rodriguez",
         "Georgina",
         "poses"
       ],
@@ -40,26 +97,7 @@
       "summary_cn": ""
     },
     {
-      "title": "Peachy Eleonora Incardona puts on busty display in figure-hugging green dress as fans say ‘oh my goodness’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40007255/eleonora-incardona-busty-display-figure-hugging-dress/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T08:43:33+00:00",
-      "score": 26.0,
-      "keywords": [
-        "green",
-        "Peachy",
-        "Eleonora",
-        "Incardona",
-        "puts",
-        "busty"
-      ],
-      "summary": "ELEONORA INCARDONA treated fans to a string of stunning snaps as she gears up for the new season. The Italian presenter, 35, is preparing to front DAZN's coverage of Serie A this term. And Eleonora was part of the broadcasting giant's World Cup team despite Italy failing to book their place in the s",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man City vs Atletico Madrid team news LIVE!",
+      "title": "Man City vs Atletico Madrid LIVE!",
       "title_cn": "",
       "url": "https://www.skysports.com/football/manchester-city-vs-atletico-madrid/live/559827",
       "source": "Sky Sports",
@@ -71,14 +109,29 @@
         "City",
         "Atletico",
         "Madrid",
-        "team",
-        "news"
+        "LIVE"
       ],
       "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "Not so friendly! TWO REDS as tempers flare between Bournemouth and Betis!",
+      "title": "Arsenal vs Dortmund LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-09T12:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Dortmund",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "TWO REDS as tempers flare between Scott and Antony!",
       "title_cn": "",
       "url": "https://www.skysports.com/watch/video/13571317/tempers-flare-between-real-betis-and-bournemouth-in-pre-season-friendly",
       "source": "Sky Sports",
@@ -88,50 +141,69 @@
       "keywords": [
         "Manchester United",
         "Bournemouth",
-        "friendly",
         "REDS",
         "tempers",
-        "flare"
+        "flare",
+        "between"
       ],
       "summary": "Watch as Bournemouth's 2-2 draw with Real Betis was anything but a pre-season friendly, as an on-pitch brawl resulted in two red cards, including one for former Manchester United winger Antony.",
       "summary_cn": ""
     },
     {
-      "title": "Scott and Antony sent off in pre-season friendly",
+      "title": "Former Arsenal star’s son, 14, joins England U15s as FA look to win battle with France",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k78znk7w2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/40008007/arsenal-stars-son-england-u15-s-battle-france/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-09T08:53:08+00:00",
+      "published": "2026-08-09T11:18:35+00:00",
       "score": 25.0,
       "keywords": [
-        "Bournemouth",
-        "Scott",
-        "Antony",
-        "sent",
-        "season",
-        "friendly"
+        "Arsenal",
+        "Former",
+        "star",
+        "joins",
+        "England",
+        "look"
       ],
-      "summary": "Bournemouth's Alex Scott and Real Betis' Antony are sent off after a confrontation during a friendly match in Seville, which ended in a 2-2 draw.",
+      "summary": "THE son of a former Arsenal star has been selected to play for England Under-15s - as the FA battle it out with France for his allegiance. Jeremie Aliadiere spent eight years with the Gunners. He came through the youth system and played 51 times under Arsene Wenger for the senior team - including te",
       "summary_cn": ""
     },
     {
-      "title": "Fifa defends Gianni Infantino and launches attack after ‘effort to undermine’ president",
+      "title": "Premier League manager looks unrecognisable as he shows off drastic new look ahead of season",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/08/fifa-launches-new-attack-on-media-over-alleged-concerted-effort-to-undermine-gianni-infantino",
+      "url": "https://www.thesun.co.uk/sport/40008072/premier-league-fabian-hurzeler-hair-transplant-brighton/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-09T11:15:03+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "manager",
+        "looks",
+        "unrecognisable",
+        "shows"
+      ],
+      "summary": "A PREMIER LEAGUE boss will return to the touchline sporting a drastic new look this season. Having flaunted a full head of hair on the final weekend of last campaign, the manager in question is back on the scene with a short buzz cut. And the poker-straight hairline has got fans speculating about a ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-09T08:47:26+00:00",
+      "published": "2026-08-09T10:53:14+00:00",
       "score": 20.0,
       "keywords": [
-        "Fifa",
-        "defends",
-        "Gianni",
-        "Infantino",
-        "launches",
-        "attack"
+        "Super",
+        "Furry",
+        "Animals",
+        "foray",
+        "football",
+        "part"
       ],
-      "summary": "Fifa backs ‘democratically-elected’ president Thinly-veiled attack aimed on Uefa as crisis roars on Fifa last night issued a thinly-veiled attack on Uefa and other leading figures in European football in a statement which alleged there is a “concerted and ongoing effort by some to undermine Fifa and",
+      "summary": "The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the gen X-millennial divide, I am the perfect target for today’s 90s nostalgia. I played my modest, teenage part i",
       "summary_cn": ""
     },
     {
@@ -151,25 +223,6 @@
         "falls"
       ],
       "summary": "BRAZILIAN fans watched on in shock as Coritiba star Jacy plummeted down a tunnel while celebrating a disallowed goal. The 29-year-old hopped over the advertising hoardings but disappeared down a chute built into the playing surface, which leads to the away dressing room. There was a terrifying momen",
-      "summary_cn": ""
-    },
-    {
-      "title": "Football Wag Apollonia Llewellyn dubbed ‘outstanding’ as she shows off curves in bikini on Hawaii holiday",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40007333/football-wag-apollonia-llewellyn-bikini-hawaii-jai-rowe/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T08:54:35+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Football",
-        "Apollonia",
-        "Llewellyn",
-        "dubbed",
-        "outstanding",
-        "shows"
-      ],
-      "summary": "FANS pined over Apollonia Llewellyn as she flaunted her curves on holiday in Hawaii. The ring girl, model and influencer has been taking in the sights with footballer boyfriend Jai Rowe. In amongst a series of snaps posted to Instagram was Llewellyn posing in a tropical-themed two-piece, playing in ",
       "summary_cn": ""
     }
   ]
