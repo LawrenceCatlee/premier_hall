@@ -1,23 +1,60 @@
 {
-  "updated_at": "2026-08-09T16:45:03.452686+00:00",
+  "updated_at": "2026-08-09T17:37:48.209685+00:00",
   "items": [
     {
-      "title": "Everton's McNeil & Palace's Johnson poised for swap",
+      "title": "Digne completes move to PSG from Aston Villa",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-09T15:03:03+00:00",
+      "published": "2026-08-09T17:12:56+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Aston Villa",
+        "Lucas Digne",
+        "Digne",
+        "completes",
+        "move",
+        "Aston"
+      ],
+      "summary": "France international Lucas Digne has completed his move from Aston Villa to European champions Paris St-Germain.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Guimaraes can take us to the next level - Arteta",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-09T16:43:35+00:00",
       "score": 31.0,
       "keywords": [
-        "Crystal Palace",
-        "Everton",
-        "McNeil",
-        "Dwight McNeil",
-        "Johnson",
-        "Palace"
+        "Arsenal",
+        "Mikel Arteta",
+        "Mikel",
+        "Arteta",
+        "Guimaraes",
+        "take"
       ],
-      "summary": "Everton and Crystal Palace are in talks about a swap deal that would see Toffees' winger Dwight McNeil join the Eagles, and Wales international Brennan Johnson move in the opposite direction.",
+      "summary": "Mikel Arteta said the signing of Bruno Guimaraes will help Arsenal go to the \"next level\" and hints that the Gunners are not done with their summer transfer activity.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Coleman training with Killybegs - but no GAA return for now",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g32r7yd2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-09T16:36:39+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Coleman",
+        "training",
+        "Killybegs",
+        "return"
+      ],
+      "summary": "Former Everton defender Seamus Coleman has been training with Killybegs but a return to his local Gaelic football club is unlikely to be on the cards for now.",
       "summary_cn": ""
     },
     {
@@ -31,88 +68,31 @@
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Marcus Rashford",
         "Carrick",
-        "Michael Carrick",
-        "Rashford"
+        "Marcus Rashford",
+        "Rashford",
+        "Michael Carrick"
       ],
       "summary": "MARCUS RASHFORD has reportedly been handed the No 14 shirt at Manchester United and could be handed a second chance under Michael Carrick. Rashford's future remains up in the air after returning from his loan at Barcelona with a lack of suitors in the market. The England star, 28, was previously fro",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal player ratings: Wing wizard Christos Tzolis continues fine start but Cristhian Mosquera flat-footed in defence",
+      "title": "Marsh fifty helps SunRisers ease past Welsh Fire in The Hundred",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009771/arsenal-ratings-borussia-dortmund-tzolis-mosquera/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/cricket/news/12040/13571460/the-hundred-sunrisers-leeds-ease-to-71-run-win-over-welsh-fire",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-09T15:29:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Samuel",
-        "player",
-        "ratings",
-        "Wing",
-        "wizard"
-      ],
-      "summary": "ARSENAL suffered another pre-season defeat as they missed out on the chance to lift the Emirates Cup. The Gunners lost 3-2 at their home stadium to Borussia Dortmund. Samuele Inacio and Konstantinos Karetsas gave the Germans a 2-0 lead at half-time. Ethan Nwaneri tucked home nine minutes after the b",
-      "summary_cn": ""
-    },
-    {
-      "title": "Xabi Alonso forced to drag Austin MacPhee away from furious row as new Chelsea set-piece coach clashes with rival",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009790/chelsea-austin-macphee-xabi-alonso-liam-delap/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T15:13:04+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Delap",
-        "Antonio",
-        "Xabi",
-        "Alonso",
-        "forced"
-      ],
-      "summary": "AUSTIN MACPHEE was involved in a heated row following a poor challenge on Chelsea striker Liam Delap. The Blues drew 3-3 with Malaysian champions Johor Darul Ta'zim in Jakarta. With 67 minutes on the clock, home defender Antonio Glauder needlessly went through the back of Delap with a scything tackl",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal 2 Dortmund 3: Gunners lose second straight friendly and ship three goals AGAIN in worrying sign for Prem champs",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009562/arsenal-borussia-dortmund-emirates-cup-pre-season-friendly/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T14:56:06+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Mikel Arteta",
-        "Arteta",
-        "Mikel",
-        "Dortmund",
-        "Gunners"
-      ],
-      "summary": "ARSENAL are just a week away from the start of their season, but they look a world away from being champions again. The Gunners put in a lacklustre showing as they fell to a 3-2 defeat to Borussia Dortmund, just seven days out from the Community Shield. Mikel Arteta will have hoped to have his...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Martin O’Neill absent from Celtic’s win at Kilmarnock as Høgh hits hat-trick",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/09/scottish-premiership-kilmarnock-celtic-hearts-dundee-united-motherwell-falkirk-rangers-hibernian",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-09T15:04:54+00:00",
+      "published": "2026-08-09T18:15:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Neill",
-        "Martin",
-        "absent",
-        "Celtic",
-        "Kilmarnock",
-        "hits"
+        "Mitchell",
+        "Marsh",
+        "fifty",
+        "helps",
+        "SunRisers",
+        "ease"
       ],
-      "summary": "Høgh scored first Celtic goals in 5-1 victory Hearts beat Dundee United 4-0 in first win under Wouter Vrancken Kasper Høgh scored a hat-trick, his first goals for Celtic , as the Scottish champions made light of the absence of their manager Martin O’Neill with a 5-1 win at Kilmarnock on Sunday. Vict",
+      "summary": "Mitchell Marsh's half-century and three wickets from Brydon Carse helped SunRisers Leeds take a big step towards the men's Hundred eliminator with a crushing 71-run victory over Welsh Fire.",
       "summary_cn": ""
     },
     {
@@ -154,6 +134,25 @@
       "summary_cn": ""
     },
     {
+      "title": "We cannot sustain the level we want - Iraola",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3r0zzpw5gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-09T17:28:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "cannot",
+        "sustain",
+        "level",
+        "want",
+        "Iraola"
+      ],
+      "summary": "After throwing away a two-goal lead for the second match in a row, Andoni Iraola says his Liverpool side \"cannot sustain the level we want\".",
+      "summary_cn": ""
+    },
+    {
       "title": "England World Cup hero Jude Bellingham watches from stands as brother Jobe takes on Arsenal in pre-season battle",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40009908/jude-bellingham-jobe-arsenal-borussia-dortmund-real-madrid/",
@@ -192,41 +191,40 @@
       "summary_cn": ""
     },
     {
-      "title": "Man Utd flop Antony and England star both sent off in farcical friendly scenes after Brazilian boots ball at opponent",
+      "title": "Hibs win at Rangers as McInnes remains winless",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009527/man-utd-antony-alex-scott-sent-off-betis-bournemouth/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/rangers-vs-hibernian/report/558344",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-09T15:13:50+00:00",
-      "score": 25.0,
+      "published": "2026-08-09T17:50:00+00:00",
+      "score": 20.0,
       "keywords": [
-        "Manchester United",
-        "Bournemouth",
-        "Man Utd",
-        "flop",
-        "Antony",
-        "England"
+        "Hibs",
+        "Rangers",
+        "McInnes",
+        "remains",
+        "winless"
       ],
-      "summary": "MANCHESTER UNITED flop Antony brawled with Bournemouth star Alex Scott in farcical scenes during a friendly as both men were dismissed. Real Betis drew 2-2 with the Cherries on Saturday in an action packed four-goal thriller. Marco Rose's Bournemouth twice took the lead through Marcus Tavernier and ",
+      "summary": "Derek McInnes is still looking for his first win as Rangers manager after Hibernian netted an injury-time winner to triumph 2-1 at Ibrox.",
       "summary_cn": ""
     },
     {
-      "title": "New boys shine as Vrancken gets first Hearts win",
+      "title": "Sinner withdraws from Cincinnati Open as knee injury raises US Open fears",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/hearts-vs-dundee-united/report/558340",
+      "url": "https://www.skysports.com/tennis/news/12040/13571440/jannik-sinner-withdraws-from-cincinnati-open-as-knee-injury-raises-us-open-fitness-concerns",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-09T16:50:00+00:00",
+      "published": "2026-08-09T17:44:00+00:00",
       "score": 20.0,
       "keywords": [
-        "boys",
-        "shine",
-        "Vrancken",
-        "gets",
-        "first",
-        "Hearts"
+        "Sinner",
+        "withdraws",
+        "Cincinnati",
+        "Open",
+        "knee",
+        "injury"
       ],
-      "summary": "Three Hearts summer signings were on target as Wouter Vrancken belatedly got his reign up and running with an emphatic 4-0 win over Dundee United.",
+      "summary": "Jannik Sinner has withdrawn from the Cincinnati Open with an injury to his right knee.",
       "summary_cn": ""
     },
     {
@@ -249,22 +247,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Hogh hits hat-trick as Celtic ease past hapless Kilmarnock",
+      "title": "New boys shine as Vrancken gets first Hearts win",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/kilmarnock-vs-celtic/report/558343",
+      "url": "https://www.skysports.com/football/hearts-vs-dundee-united/report/558340",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-09T15:20:00+00:00",
+      "published": "2026-08-09T16:50:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Hogh",
-        "hits",
-        "trick",
-        "Celtic",
-        "ease",
-        "past"
+        "boys",
+        "shine",
+        "Vrancken",
+        "gets",
+        "first",
+        "Hearts"
       ],
-      "summary": "Record signing Kasper Hogh silenced his early critics with a first-half hat-trick as Celtic swept Kilmarnock aside on the new grass pitch at Rugby Park.",
+      "summary": "Three Hearts summer signings were on target as Wouter Vrancken belatedly got his reign up and running with an emphatic 4-0 win over Dundee United.",
       "summary_cn": ""
     },
     {
@@ -283,6 +281,25 @@
         "striker"
       ],
       "summary": "Rangers reject an offer for striker Youssef Chermiti, with manager Derek McInnes confirming that it did not meet the Scottish Premiership club's valuation.",
+      "summary_cn": ""
+    },
+    {
+      "title": "La Liga president Javier Tebas says ‘Infantino era is over’ at Fifa",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-09T17:00:02+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Liga",
+        "president",
+        "Javier",
+        "Tebas",
+        "Infantino",
+        "Fifa"
+      ],
+      "summary": "Tebas says Swiss is ‘destroying essence of football’ Any reform at highest levels must be ‘genuine’ Javier Tebas says Gianni Infantino’s position as Fifa president is untenable, claiming he is “destroying the very essence of football” while calling for reform at the highest levels of the game. The L",
       "summary_cn": ""
     }
   ]
