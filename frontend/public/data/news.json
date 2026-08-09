@@ -1,4 +1,41 @@
 {
-  "updated_at": "2026-08-09T04:23:45.449500+00:00",
-  "items": []
+  "updated_at": "2026-08-09T05:52:08.318157+00:00",
+  "items": [
+    {
+      "title": "New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-09T05:18:56+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Alexander-Arnold",
+        "Trent Alexander-Arnold",
+        "season",
+        "boss",
+        "Alexander",
+        "Arnold"
+      ],
+      "summary": "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who am I? Guess Premier League star No 20",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8m5nlzmvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-09T05:36:15+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Guess",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "summary_cn": ""
+    }
+  ]
 }
