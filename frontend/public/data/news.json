@@ -1,44 +1,6 @@
 {
-  "updated_at": "2026-08-09T15:38:52.477182+00:00",
+  "updated_at": "2026-08-09T16:45:03.452686+00:00",
   "items": [
-    {
-      "title": "Chelsea tickets with hospitality and VIP upgrades for games at Stamford Bridge for the new Premier League season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39471356/chelsea-ticket-hotel-packages-premier-league-stamford-bridge/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T13:59:56+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "tickets",
-        "hospitality",
-        "upgrades",
-        "games"
-      ],
-      "summary": "CHELSEA fans can experience the magic of matchday live like a VIP with these ticket and hospitality deals to Stamford Bridge for the new season. Perfect for die-hard fans or anyone wanting to enjoy top-tier Premier League action, this exclusive travel offer lets you secure your seat and your food an",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man United tickets with hotels and VIP hospitality upgrades for Premier League games at Old Trafford",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39220790/man-united-premier-league-ticket-hotel-packages/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T14:00:08+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Man United",
-        "Man Utd",
-        "United",
-        "tickets",
-        "hotels",
-        "hospitality"
-      ],
-      "summary": "MAN United fans have every reason to be excited about the new Premier League season at Old Trafford. The official Premier League fixtures are out – and we have the ultimate way to guarantee your place at the Theatre of Dreams. Man Utd ticket deals Old Trafford is always sold out but United fans can.",
-      "summary_cn": ""
-    },
     {
       "title": "Everton's McNeil & Palace's Johnson poised for swap",
       "title_cn": "",
@@ -56,6 +18,25 @@
         "Palace"
       ],
       "summary": "Everton and Crystal Palace are in talks about a swap deal that would see Toffees' winger Dwight McNeil join the Eagles, and Wales international Brennan Johnson move in the opposite direction.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd ‘hand Marcus Rashford brand new squad number and England World Cup star could STAY under Michael Carrick’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40010230/man-utd-marcus-rashford-squad-number-carrick/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-09T16:02:10+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Marcus Rashford",
+        "Carrick",
+        "Michael Carrick",
+        "Rashford"
+      ],
+      "summary": "MARCUS RASHFORD has reportedly been handed the No 14 shirt at Manchester United and could be handed a second chance under Michael Carrick. Rashford's future remains up in the air after returning from his loan at Barcelona with a lack of suitors in the market. The England star, 28, was previously fro",
       "summary_cn": ""
     },
     {
@@ -87,8 +68,8 @@
       "score": 31.0,
       "keywords": [
         "Chelsea",
-        "Antonio",
         "Delap",
+        "Antonio",
         "Xabi",
         "Alonso",
         "forced"
@@ -106,32 +87,13 @@
       "score": 31.0,
       "keywords": [
         "Arsenal",
-        "Arteta",
         "Mikel Arteta",
+        "Arteta",
         "Mikel",
         "Dortmund",
         "Gunners"
       ],
       "summary": "ARSENAL are just a week away from the start of their season, but they look a world away from being champions again. The Gunners put in a lacklustre showing as they fell to a 3-2 defeat to Borussia Dortmund, just seven days out from the Community Shield. Mikel Arteta will have hoped to have his...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea player ratings: Liam Delap a rare shining light in Johor draw but Tosin Adarabioyo off the pace yet again",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009172/chelsea-player-ratings-johor-liam-delap-tosin-adarabioyo/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T14:41:09+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Delap",
-        "young",
-        "player",
-        "ratings",
-        "Liam"
-      ],
-      "summary": "CHELSEA were held to a 3-3 draw by Malaysian underdogs Johor Darul Ta'zim in a back-and-forth pre-season friendly on Sunday. Xabi Alonso fielded a second-string side at the Sultan Ibrahim Stadium, with the new boss casting his eye over a selection of youngsters. They went behind in the 14th minute b",
       "summary_cn": ""
     },
     {
@@ -150,7 +112,7 @@
         "Kilmarnock",
         "hits"
       ],
-      "summary": "Høgh scored first goals since joining from Bodø/Glimt O’Neill ‘doing better’ after procedure in hospital Kasper Høgh scored a hat-trick, his first goals for Celtic , as the Scottish champions made light of the absence of their manager Martin O’Neill with a 5-1 win away to Kilmarnock on Sunday. Victo",
+      "summary": "Høgh scored first Celtic goals in 5-1 victory Hearts beat Dundee United 4-0 in first win under Wouter Vrancken Kasper Høgh scored a hat-trick, his first goals for Celtic , as the Scottish champions made light of the absence of their manager Martin O’Neill with a 5-1 win at Kilmarnock on Sunday. Vict",
       "summary_cn": ""
     },
     {
@@ -173,7 +135,7 @@
       "summary_cn": ""
     },
     {
-      "title": "Arsenal defend badly as Dortmund win Emirates Cup",
+      "title": "Arsenal concede 'poor goals' as Dortmund win Emirates Cup",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup",
       "source": "Sky Sports",
@@ -182,12 +144,51 @@
       "score": 25.0,
       "keywords": [
         "Arsenal",
-        "defend",
-        "badly",
+        "concede",
+        "poor",
+        "goals",
         "Dortmund",
         "Emirates"
       ],
       "summary": "Arsenal produced more comical defending in pre-season as Borussia Dortmund won 3-2 in north London to win the Emirates Cup.",
+      "summary_cn": ""
+    },
+    {
+      "title": "England World Cup hero Jude Bellingham watches from stands as brother Jobe takes on Arsenal in pre-season battle",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40009908/jude-bellingham-jobe-arsenal-borussia-dortmund-real-madrid/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-09T16:01:43+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "England",
+        "World",
+        "hero",
+        "Jude",
+        "Bellingham"
+      ],
+      "summary": "ENGLAND superstar Jude Bellingham was spotted watching his brother Jobe Bellingham and former club Borussia Dortmund take on Arsenal. Dortmund defeated Arsenal 3-2 in a blockbuster pre-season friendly at the Emirates. And Jude, 23, made his presence known in the VIP section of the Gunners' stadium k",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd identify new left-back target as Red Devils and Arsenal submit transfer enquiries",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40009456/man-utd-arsenal-transfer-joaquin-seys-brugge/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-09T15:53:01+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Manchester United",
+        "Newcastle",
+        "Man Utd",
+        "identify"
+      ],
+      "summary": "MANCHESTER UNITED and Arsenal are among several clubs chasing Club Brugge left-back Joaquin Seys. And Seys is also capturing attention from the likes of Aston Villa and Newcastle, as well as Portuguese giants Benfica and Porto. Seys, 21, is a regular for Club Brugge and even forced his way into Belg",
       "summary_cn": ""
     },
     {
@@ -210,98 +211,41 @@
       "summary_cn": ""
     },
     {
-      "title": "‘It’s in the contract!’ – Chelsea penalty shootout chaos erupts as pre-season friendly hit by farcical row after draw",
+      "title": "New boys shine as Vrancken gets first Hearts win",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009512/chelsea-penalty-shootout-pre-season-johor/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/hearts-vs-dundee-united/report/558340",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-09T14:18:05+00:00",
-      "score": 25.0,
+      "published": "2026-08-09T16:50:00+00:00",
+      "score": 20.0,
       "keywords": [
-        "Chelsea",
-        "contract",
-        "penalty",
-        "shootout",
-        "chaos",
-        "erupts"
+        "boys",
+        "shine",
+        "Vrancken",
+        "gets",
+        "first",
+        "Hearts"
       ],
-      "summary": "CHELSEA'S penultimate pre-season friendly ended in chaos as a scheduled penalty shootout was apparently cancelled in Malaysia. An incident-packed, bad-tempered game ended with a score of 3-3 with 11 players still on both teams. A late own-goal by Johor Darul Ta'zim prevented the Blues losing in norm",
+      "summary": "Three Hearts summer signings were on target as Wouter Vrancken belatedly got his reign up and running with an emphatic 4-0 win over Dundee United.",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea 3 Johor 3: Xabi Alonso set for sleepless night with second-string Blues WOEFUL against Malaysian minnows",
+      "title": "Motherwell held to goalless draw at home to Falkirk",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009262/chelsea-woeful-malaysia-xabi-alonso-delap/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/motherwell-vs-falkirk/report/558341",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-09T14:02:28+00:00",
-      "score": 25.0,
+      "published": "2026-08-09T16:50:00+00:00",
+      "score": 20.0,
       "keywords": [
-        "Chelsea",
-        "Johor",
-        "Xabi",
-        "Alonso",
-        "sleepless",
-        "night"
+        "Motherwell",
+        "held",
+        "goalless",
+        "draw",
+        "home",
+        "Falkirk"
       ],
-      "summary": "CHELSEA avoided humiliation amid farcical scenes at the end of their far-flung Far East tour. An incident-packed, bad-tempered game ended level on the scoresheet and with 11 players still on both teams. A late own goal by Johor Darul Ta'zim prevented the Blues from losing in normal time and a penalt",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea hit by DOUBLE defensive blow as Xabi Alonso’s plans take a major injury hit in pre-season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009035/chelsea-injuries-xabi-alonso-mamadou-sarr-aaron-anselmino/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T14:00:21+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "DOUBLE",
-        "defensive",
-        "blow",
-        "Xabi",
-        "Alonso"
-      ],
-      "summary": "CHELSEA'S new manager Xabi Alonso has been dealt a double injury blow ahead of the new season. Alonso, 44, has been tasked with bringing the Blues back on their feet after a chaotic season that saw three managerial changes and a tenth-place finish. However, the Spanish tactician has endured a turbul",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal tickets with hospitality upgrades to see the champions at The Emirates in 2026/27 Premier League season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39227637/arsenal-premier-league-champions-ticket-hotel-packages/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T14:00:03+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Man City",
-        "tickets",
-        "hospitality",
-        "upgrades",
-        "champions"
-      ],
-      "summary": "ARSENAL fans cannot wait to witness the champions defend their Premier League crown when the new season begins. The Gunners lifted the prize last season after their gripping title race with Man City. See Arsenal next season And now, following the release of the highly anticipated Premier League fixt",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd working on stunning transfer for teen superstar Louis Page ‘with Arsenal also keen on Leicester ace’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40009078/man-utd-louis-page-transfer-arsenal-leicester-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-09T13:49:02+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Leicester",
-        "Manchester United",
-        "Man Utd",
-        "working",
-        "stunning"
-      ],
-      "summary": "MANCHESTER UNITED are trying to sign Leicester City teenager Louis Page. Page only turned 18 last month but has already made 17 appearances in the Championship. Leicester are now in League One and United are working on a deal for midfielder Page as part of a new signing strategy. Sources say United ",
+      "summary": "Motherwell signed off for their Conference League third-round qualifier against HJK Helsinki with a goalless draw against Falkirk.",
       "summary_cn": ""
     },
     {
@@ -324,22 +268,21 @@
       "summary_cn": ""
     },
     {
-      "title": "Hearts agree £1.7m deal to sell winger Kyziridis",
+      "title": "Chermiti injured after Rangers reject bid for striker",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yevd5wxl1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3808zjl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-09T14:20:04+00:00",
+      "published": "2026-08-09T15:45:07+00:00",
       "score": 20.0,
       "keywords": [
-        "Hearts",
-        "agree",
-        "deal",
-        "sell",
-        "winger",
-        "Kyziridis"
+        "Chermiti",
+        "injured",
+        "Rangers",
+        "reject",
+        "striker"
       ],
-      "summary": "Heart of Midlothian agree a deal to sell Greece winger Alexandros Kyziridis to a Turkish club for a fee of around £1.7m.",
+      "summary": "Rangers reject an offer for striker Youssef Chermiti, with manager Derek McInnes confirming that it did not meet the Scottish Premiership club's valuation.",
       "summary_cn": ""
     }
   ]
