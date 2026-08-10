@@ -1,4 +1,58 @@
 {
-  "updated_at": "2026-08-10T04:45:49.436015+00:00",
-  "items": []
+  "updated_at": "2026-08-10T06:15:55.063335+00:00",
+  "items": [
+    {
+      "title": "How Liverpool are shaping up under Iraola",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-10T05:15:18+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "shaping",
+        "under",
+        "Iraola"
+      ],
+      "summary": "Four pre-season games is a very small sample, but Andoni Iraola is starting to put his stamp on Liverpool. So how are the Reds shaping up under their new boss?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who am I? Guess Premier League star No 21",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-10T05:38:11+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Guess",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool defensive crisis deepens as little-known rule means wonderkid Ifeanyi Ndukwe can only play once more this YEAR",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40012545/liverpool-defensive-crisis-deepens-ifeanyi-ndukwe-rule/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-10T05:54:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "defensive",
+        "crisis",
+        "deepens",
+        "little",
+        "known"
+      ],
+      "summary": "LIVERPOOL wonderkid Ifeanyi Ndukwe will have to wait until 2027 to make his competitive debut - after failing to bag a work permit. The defender, 18, headed to Merseyside this summer despite a deal being agreed with Austria Wien in January. And Ndukwe has impressed new Liverpool boss Andoni Iraola, ",
+      "summary_cn": ""
+    }
+  ]
 }
