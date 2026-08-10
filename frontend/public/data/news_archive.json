@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "title": "Liverpool sign Araujo from Barcelona",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-10T18:30:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Liverpool",
+        "sign",
+        "Araujo",
+        "Barcelona"
+      ],
+      "summary": "Liverpool have confirmed the signing of defender Ronald Araujo from Barcelona.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "Carabao Cup second round draw in full: Chelsea land Luton and Tottenham to face Charlton in tasty ties",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40020829/carabao-cup-second-round-draw-chelsea-spurs/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-10T18:31:52+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Tottenham",
+        "Charlton",
+        "Carabao",
+        "second",
+        "round"
+      ],
+      "summary": "CHELSEA have learned their fate for the Carabao Cup. The Blues are one of 20 Premier League teams vying to win the first piece of silverware up for grabs next season. Xabi Alonso's side enters the tournament at the second round stage after failing to qualify for Europe last season. And the west Lond",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "Arsenal misfit Gabriel Jesus lined up for Italian job with Napoli as transfer replacement for Romelu Lukaku",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40020802/arsenal-gabriel-jesus-napoli-romelu-lukaku-replacement/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-10T18:26:09+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Jesus",
+        "Lukaku",
+        "Gabriel Jesus"
+      ],
+      "summary": "ARSENAL striker Gabriel Jesus has emerged as a target for Napoli. The Italian club wants to bring in the Brazilian as a replacement for Romelu Lukaku, who they are trying to sell. The former Chelsea and Manchester United striker is attracting interest from Fenerbahce and is open to moving to Turkey.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "Man City in Bouaddi talks and Chelsea's Fernandez also an option",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13571742/man-city-transfer-news-talks-ongoing-with-lilles-ayyoub-bouaddi-but-rodri-to-barcelona-talks-inactive-with-enzo-fernandez-also-an-option",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-10T17:39:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Man City",
+        "City",
+        "Bouaddi",
+        "talks",
+        "Fernandez"
+      ],
+      "summary": "Man City&#160;are in ongoing talks with&#160;Lille&#160;for Morocco midfielder&#160;Ayyoub Bouaddi.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "Why has Araujo joined Liverpool and where did it go wrong at Barcelona?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-10T18:11:48+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Araujo",
+        "joined",
+        "wrong",
+        "Barcelona"
+      ],
+      "summary": "Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "Forest owner Marinakis sues Palace over gun banner",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czjlwe90py7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-10T18:11:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Nottingham Forest",
+        "Forest",
+        "owner",
+        "Marinakis",
+        "sues"
+      ],
+      "summary": "Evangelos Marinakis is suing Crystal Palace for a banner unfurled by their fans depicting the Nottingham Forest owner holding a gun to midfielder Morgan Gibbs-White's head.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "Liverpool sign Araujo on loan from Barcelona",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-10T18:04:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "sign",
+        "Araujo",
+        "loan",
+        "Barcelona"
+      ],
+      "summary": "Liverpool sign Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to buy.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "West Ham sign winger Solomon from Tottenham",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpq8x2ggdnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-10T18:56:56+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "West Ham",
+        "West",
+        "sign",
+        "winger",
+        "Solomon"
+      ],
+      "summary": "West Ham United sign winger Manor Solomon from Tottenham on a three-year contract.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "BBC to show new football league on free-to-air TV in major broadcasting change",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40020815/bbc-to-show-new-football-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-10T18:25:53+00:00",
+      "score": 20.0,
+      "keywords": [
+        "show",
+        "football",
+        "league",
+        "free",
+        "major",
+        "broadcasting"
+      ],
+      "summary": "THE BBC has struck a major new deal to show live football free-to-air for the next three seasons. BBC Cymru Wales has agreed a three-year broadcasting partnership with the Football Association of Wales to screen matches from the Novira Cymru Premier. The agreement will see a minimum of 20 games per ",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "Turkish journalist DETAINED by police ‘for saying Jamal Musiala was going to sign for Galatasaray’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40019465/burhan-can-terzi-jamal-musiala-galatasaray-bayern-munich/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-10T17:33:35+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Turkish",
+        "journalist",
+        "DETAINED",
+        "police",
+        "saying",
+        "Jamal"
+      ],
+      "summary": "TURKISH journalist Burhan Can Terzi was shockingly detained by police after reporting Galatasaray were close to signing Bayern Munich star Jamal Musiala. According to Haberler, Terzi was held by order of the Bakırkoy chief public prosecutor's office on charges of \"publicly disseminating misleading i",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
+      "title": "Saudi boxing chief Turki Alalshikh PULLS OUT of deal to take over Championship giants after months of talks",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40020439/efl-news-turki-alalshikh-derby-takeover-pull-out/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-10T17:20:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Saudi",
+        "boxing",
+        "chief",
+        "Turki",
+        "Alalshikh",
+        "PULLS"
+      ],
+      "summary": "SAUDI boxing chief Turki Alalshikh has pulled the plug on his takeover of Derby County. The Championship club had the purchase sanctioned by the Independent Football Regulator and the EFL last week. But Alalshikh, who owns Lion Sport, is no longer going ahead with the deal and the Rams are off the m",
+      "summary_cn": "",
+      "fetched_at": "2026-08-10T19:06:30.991789+00:00"
+    },
+    {
       "title": "Are Manchester United returning to relevance under Michael Carrick? | Jonathan Wilson",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/aug/10/are-manchester-united-returning-to-relevance",
@@ -39415,225 +39631,6 @@
       "summary": "Spain won 1-0 against Argentina after extra time in New Jersey.",
       "summary_cn": "",
       "fetched_at": "2026-07-20T00:06:46.752200+00:00"
-    },
-    {
-      "title": "Donald Trump and Gianni Infantino booed before US president attempts to crash Spain celebrations",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/19/donald-trump-world-cup-final",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-19T23:27:28+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Donald",
-        "Trump",
-        "Gianni",
-        "Infantino",
-        "booed",
-        "president"
-      ],
-      "summary": "US president watches Spain v Argentina match Match report: Spain beat Argentina in extra-time Donald Trump and Gianni Infantino were booed as they took to the field for the presentation ceremony before the US president attempted to gatecrash Spain’s victory party. Trump arrived at the stadium on Mar",
-      "summary_cn": "",
-      "fetched_at": "2026-07-20T00:06:46.752200+00:00"
-    },
-    {
-      "title": "Patience beats overreliance on Messi: how the final was won and lost",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/19/patience-beats-overreliance-on-messi-how-the-final-was-won-and-lost",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-19T22:37:15+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Patience",
-        "beats",
-        "overreliance",
-        "Messi",
-        "final",
-        "lost"
-      ],
-      "summary": "Argentina tried to kill the spectacle and make it a physical battle but Spain refused to take the bait and kept passing A worrying thought as a tepid first half drew to a close: was the half-time show going to be better than the football? This was a slog. Argentina could not match Spain’s possession",
-      "summary_cn": "",
-      "fetched_at": "2026-07-20T00:06:46.752200+00:00"
-    },
-    {
-      "title": "At the World Cup of superstars, a team take home the trophy | Sid Lowe",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/20/world-cup-2026-final-spain-argentina",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-19T23:05:28+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "superstars",
-        "team",
-        "take",
-        "home",
-        "trophy"
-      ],
-      "summary": "The European champions conceded just one goal in the tournament and their success is a victory for a system Release the pressure, let it out. All of it and all of them. Again and again they had come, again and again they had been halted but they would not be denied. A dozen different players had tak",
-      "summary_cn": "",
-      "fetched_at": "2026-07-20T00:06:46.752200+00:00"
-    },
-    {
-      "title": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-19T23:06:16+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Lionel",
-        "Messi",
-        "World",
-        "fairytale",
-        "ends",
-        "pitiful"
-      ],
-      "summary": "Game’s greatest player will not see his legacy sullied by defeat to Spain but his team’s display destroyed the game Playing on the grandest stage in sport for the last time, Lionel Messi seemed almost certain to provide one last memorable moment in this World Cup final. Yet as the sun ducked behind ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-20T00:06:46.752200+00:00"
-    },
-    {
-      "title": "Piers Morgan leads fans furious at Argentina star Leandro Paredes and blasts Argentina as ‘disgrace to football’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39810285/piers-morgan-leandro-paredes-argentina-world-cup-final/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-19T23:07:47+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Piers",
-        "Morgan",
-        "leads",
-        "fans",
-        "furious",
-        "Argentina"
-      ],
-      "summary": "PIERS MORGAN led the stinging criticism of the Argentine \"thugs\" who lost to Spain in the World Cup final. Chaos erupted after Spain's extra-time victory, with Argentina's Leandro Paredes involved in a nasty scuffle. Paredes completely lost his head as he sprinted over and shoved Eric Garcia to the ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-20T00:06:46.752200+00:00"
-    },
-    {
-      "title": "Awkward moment Infantino forced to rescue Trump as he lingers on stage while World Cup winners Spain wait to lift trophy",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39810421/trump-infantino-world-cup-trophy-photo-spain/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-19T22:58:31+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Awkward",
-        "moment",
-        "Infantino",
-        "forced",
-        "rescue",
-        "Trump"
-      ],
-      "summary": "DONALD Trump was caught out almost photobombing the victorious Spanish team as he lingered on the stage while they patiently waited to lift the World Cup. The president couldn't seem to resist hovering onstage after handing over the trophy as the Spanish side celebrated their win over Argentina, wit",
-      "summary_cn": "",
-      "fetched_at": "2026-07-20T00:06:46.752200+00:00"
-    },
-    {
-      "title": "Ex-Prem referee Mark Halsey fumes Spain goal SHOULD have stood in World Cup final with tread not enough for a foul",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39809458/mark-halsey-nico-williams-goal-world-cup-final/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-19T21:53:41+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Williams",
-        "Prem",
-        "referee",
-        "Mark",
-        "Halsey",
-        "fumes"
-      ],
-      "summary": "FORMER Premier League referee Mark Halsey slammed the decision to rule out Spain winger Nico Williams' extra-time strike in the World Cup final. But La Roja still had the last laugh as they notched a 1-0 win over Argentina. Spain thought they had taken the lead when Williams, 24, stabbed the ball ho",
-      "summary_cn": "",
-      "fetched_at": "2026-07-19T22:59:17.441975+00:00"
-    },
-    {
-      "title": "Who is Ferran Torres’ girlfriend Sira Martinez and is she related to PSG manager Luis Enrique?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/20568343/ferran-torres-girlfriend-sira-martinez-luis-enrique-spain-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-19T21:44:16+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Torres",
-        "Ferran",
-        "girlfriend",
-        "Sira",
-        "Martinez"
-      ],
-      "summary": "SIRA MARTINEZ is the stunning girlfriend of Spain and Barcelona star Ferran Torres - who has just won the World Cup for his country! The couple first began their relationship in 2021. Torres, 22, played for Manchester City at the time, with the pair making things work long distance. But Torres isn't",
-      "summary_cn": "",
-      "fetched_at": "2026-07-19T22:59:17.441975+00:00"
-    },
-    {
-      "title": "Spain beat Argentina to win World Cup",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/spain-vs-argentina/report/549869",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-19T23:10:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Torres",
-        "Spain",
-        "beat",
-        "Argentina",
-        "World"
-      ],
-      "summary": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-19T22:59:17.441975+00:00"
-    },
-    {
-      "title": "Ferran Torres gives Spain extra-time lead against Argentina",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp30nd7vpn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-19T22:03:04+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Torres",
-        "Ferran",
-        "gives",
-        "Spain",
-        "extra",
-        "time"
-      ],
-      "summary": "Ferran Torres breaks the deadlock, scoring in extra time for Spain in the World Cup final against Argentina at the New York New Jersey Stadium.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-19T22:59:17.441975+00:00"
-    },
-    {
-      "title": "‘It is desperation’ – Wayne Rooney SLAMS Lionel Messi for how he tried to get Spain star Marc Cucurella sent off",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39809643/wayne-rooney-lionel-messi-marc-cucurella-row/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-19T22:06:12+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Wayne Rooney",
-        "Rooney",
-        "desperation",
-        "Wayne",
-        "SLAMS",
-        "Lionel"
-      ],
-      "summary": "WAYNE ROONEY hit out at Lionel Messi for his \"desperation\" in trying to get Marc Cucurella sent off during Argentina's World Cup final defeat to Spain. Argentina's talisman was involved in a confrontation with new Real Madrid man Cucurella in feisty scenes towards the end of Spain's 1-0 triumph. The",
-      "summary_cn": "",
-      "fetched_at": "2026-07-19T22:59:17.441975+00:00"
     }
   ]
 }
