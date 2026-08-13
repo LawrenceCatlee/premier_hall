@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Declan Rice shares snaps on holiday with James Corden and former team-mate as Arsenal and England star soaks up sun",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40055407/declan-rice-james-corden-holiday-pictures-arsenal-england/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-13T22:00:30+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Declan Rice",
+        "James",
+        "Declan",
+        "Rice",
+        "shares"
+      ],
+      "summary": "DECLAN RICE kicked back on holiday with some famous faces after a long, hard 2025/26 season. The Arsenal and England star racked up a staggering 69 games for club and country as he won the Premier League with the Gunners and helped the Three Lions finish third at the World Cup. Rice was nursing nigg",
+      "summary_cn": "",
+      "fetched_at": "2026-08-13T22:52:32.426466+00:00"
+    },
+    {
+      "title": "Man City's Reijnders set for £52m Saudi move",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-13T22:12:05+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "City",
+        "Reijnders",
+        "Saudi",
+        "move"
+      ],
+      "summary": "Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-13T22:52:32.426466+00:00"
+    },
+    {
+      "title": "Rangers 'are not ready' to compete in Europa League, says McInnes",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13572768/rangers-derek-mcinnes-admits-rangers-not-ready-to-compete-in-europa-league-as-dismal-winless-run-continues",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-13T23:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Rangers",
+        "ready",
+        "compete",
+        "Europa",
+        "League",
+        "McInnes"
+      ],
+      "summary": "Derek McInnes admitted Rangers are \"not ready\" to compete at Europa League level.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-13T22:52:32.426466+00:00"
+    },
+    {
       "title": "Man City reject fresh Rodri bid - Friday's gossip",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2dk2618pxgo?at_medium=RSS&at_campaign=rss",
@@ -39601,66 +39661,6 @@
       "summary": "Hibernian’s hopes of reaching the Conference League are in jeopardy after a shock 2-0 defeat by Malisheva, with head coach David Gray saying his team \"were way below the levels required\".",
       "summary_cn": "",
       "fetched_at": "2026-07-23T19:37:31.959436+00:00"
-    },
-    {
-      "title": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-23T16:23:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Liverpool",
-        "latest",
-        "Goalkeeper",
-        "signs",
-        "deal",
-        "another"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-07-23T17:39:46.659248+00:00"
-    },
-    {
-      "title": "'Kings of Manchester' - Anderson sends Man Utd message after City move sealed",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-23T17:30:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Nottingham Forest",
-        "Man Utd",
-        "Forest",
-        "Anderson",
-        "Kings"
-      ],
-      "summary": "Elliot Anderson has declared Manchester City the \"kings of Manchester\" after completing his &#163;116m move from Nottingham Forest.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-23T17:39:46.659248+00:00"
-    },
-    {
-      "title": "Rodri to undergo back surgery and may miss start of Premier League season",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13566264/rodri-man-citys-world-cup-winner-to-undergo-back-surgery-and-may-miss-start-of-premier-league-season",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-23T16:40:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Rodri",
-        "undergo",
-        "back",
-        "surgery",
-        "miss"
-      ],
-      "summary": "Manchester City's World Cup winner Rodri is to undergo minor surgery on his back, which means he may miss the start of the Premier League season.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-23T17:39:46.659248+00:00"
     }
   ]
 }
