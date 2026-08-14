@@ -1,60 +1,6 @@
 {
-  "updated_at": "2026-08-14T21:32:04.364162+00:00",
+  "updated_at": "2026-08-14T22:31:13.520185+00:00",
   "items": [
-    {
-      "title": "Romero announces Spurs exit ahead of Atletico transfer",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13572603/cristian-romero-spurs-captain-announces-exit-ahead-of-atletico-madrid-transfer-as-he-makes-statement-on-instagram",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T19:40:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Romero",
-        "announces",
-        "exit",
-        "ahead"
-      ],
-      "summary": "Tottenham captain Cristian Romero has confirmed he is leaving the club ahead of his move to Atletico Madrid being announced.",
-      "summary_cn": ""
-    },
-    {
-      "title": "All done deals in August 2026",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-14T19:52:41+00:00",
-      "score": 33.0,
-      "keywords": [
-        "done",
-        "deals",
-        "August"
-      ],
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal lead £51m transfer race for England U21 star Jack Hinshelwood but could face Man Utd competition",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40065685/arsenal-lead-race-jack-hinshelwood-man-utd-chase/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T20:16:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Arsenal",
-        "Brighton",
-        "Man Utd",
-        "lead",
-        "transfer",
-        "race"
-      ],
-      "summary": "ARSENAL are leading the race to sign Jack Hinshelwood from Brighton. The 21-year-old has become a top priority for the Gunners ahead of the 2026/27 campaign. Arsenal officials have already made direct contact with Hinshelwood's representatives over a potential move and are preparing an official bid.",
-      "summary_cn": ""
-    },
     {
       "title": "Jimenez salvages dramatic point for Wolves on Molineux return",
       "title_cn": "",
@@ -72,6 +18,25 @@
         "point"
       ],
       "summary": "Raul Jimenez scored a stoppage-time equaliser from the penalty spot on his return to Molineux to salvage a 2-2 draw for Wolves against Blackburn.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arteta says he will sign new Arsenal contract in 'organic way'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-14T22:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel Arteta",
+        "Mikel",
+        "Arteta",
+        "sign",
+        "contract"
+      ],
+      "summary": "Mikel Arteta has revealed he will sign a new Arsenal contract and there is no need for fans to be worried about his future.",
       "summary_cn": ""
     },
     {
@@ -103,13 +68,32 @@
       "score": 31.0,
       "keywords": [
         "Wolves",
-        "Gudjohnsen",
         "johnsen",
+        "Gudjohnsen",
         "STUNNED",
         "silences",
         "Molineux"
       ],
       "summary": "Andri Gudjohnsen silences Molineux as Blackburn Rovers take the lead over Wolves.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arteta not worried about Arsenal contract talks",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-14T21:30:21+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel Arteta",
+        "Mikel",
+        "Arteta",
+        "worried",
+        "contract"
+      ],
+      "summary": "Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
       "summary_cn": ""
     },
     {
@@ -151,6 +135,25 @@
       "summary_cn": ""
     },
     {
+      "title": "‘Not going to be an issue’: Mikel Arteta relaxed about Arsenal contract situation",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/14/mikel-arteta-arsenal-contract-manchester-city-community-shield-premier-league",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-14T21:30:38+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel Arteta",
+        "Mikel",
+        "Arteta",
+        "going",
+        "issue"
+      ],
+      "summary": "Manager’s deal expires at end of the new season ‘They don’t have to worry … I want to be here’ Mikel Arteta has said he is relaxed about his Arsenal contract expiring at the end of the new season and believes his side will need to be better than last year to defend their title successfully. The Prem",
+      "summary_cn": ""
+    },
+    {
       "title": "Mikel Arteta virtually confirms new contract extension with Arsenal manager set for huge pay rise",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40066005/mikel-arteta-confirms-arsenal-new-contract/",
@@ -167,6 +170,25 @@
         "confirms"
       ],
       "summary": "MIKEL ARTETA told Arsenal fans not to worry after virtually confirming he will extend his&nbsp;Emirates contract. The Gunners boss is into the final 12 months of his deal but will land a pay rise on his £10million-a-year salary. Arsenal, who want to tie Arteta down after he led them to Prem glory la",
+      "summary_cn": ""
+    },
+    {
+      "title": "Jimenez the hero as controversial late pen spares Wolves' blushes",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13573181/wolverhampton-wanderers-2-2-blackburn-rovers-championship-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-14T22:25:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "Jimenez",
+        "hero",
+        "controversial",
+        "late",
+        "spares"
+      ],
+      "summary": "Highlights from the Sky Bet Championship match between Wolverhampton Wanderers and Blackburn Rovers.",
       "summary_cn": ""
     },
     {
@@ -208,40 +230,39 @@
       "summary_cn": ""
     },
     {
-      "title": "Departing Romero says he wasn't perfect at Spurs",
+      "title": "Football Daily",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20dyz4vrero?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p4mymx?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-14T19:47:25+00:00",
+      "published": "2026-08-14T21:09:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Departing",
-        "Romero",
-        "wasn",
-        "perfect"
+        "Arsenal",
+        "Manchester City",
+        "Football",
+        "Daily"
       ],
-      "summary": "Cristian Romero says he \"wasn't perfect\" during his five-year stint at Tottenham Hotspur as he prepares to complete a move to Atletico Madrid.",
+      "summary": "Arsenal take on Manchester City in the Community Shield on Sunday",
       "summary_cn": ""
     },
     {
-      "title": "Burnley sign Chelsea's Satpayev on loan",
+      "title": "Pierre-Emile Hojbjerg STRIPPED of Marseille captaincy after turning down Newcastle transfer ‘leaving owner fuming’",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1w1y95305no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/40066339/hojbjerg-stripped-captaincy-marseille-rejecting-newcastle-transfer/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-14T19:49:11+00:00",
+      "published": "2026-08-14T22:06:04+00:00",
       "score": 25.0,
       "keywords": [
-        "Chelsea",
-        "Burnley",
-        "sign",
-        "Satpayev",
-        "loan"
+        "Arsenal",
+        "Newcastle",
+        "Pierre",
+        "Emile",
+        "Hojbjerg",
+        "STRIPPED"
       ],
-      "summary": "Chelsea's new teenage winger Dastan Satpayev joins Championship club Burnley on a season's loan.",
+      "summary": "NEWCASTLE target Pierre-Emile Hojbjerg has been stripped of his Marseille captaincy after turning down a move back to England. The Magpies made a push to sign the 31-year-old midfielder last week after losing Bruno Guimaraes in a £75million move to Arsenal. Marseille wanted just £15m for Hojbjerg - ",
       "summary_cn": ""
     },
     {
@@ -261,6 +282,25 @@
         "rushed"
       ],
       "summary": "FORMER Arsenal star Francis Coquelin has been rushed to hospital after a horrific head clash while playing for French Ligue 2 side, Laval. The brutal scene even saw the French Red Cross get involved, according to reports. Laval midfielder Coquelin and Nantes man Wilitty Younoussa violently collided ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Europa League exit leaves Rangers counting the financial cost",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/news/articles/cvg94jqpzxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-14T21:47:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Europa",
+        "League",
+        "exit",
+        "leaves",
+        "Rangers",
+        "counting"
+      ],
+      "summary": "As Rangers struggle on the pitch, there will be an understanding that they need fan loyalty to stay afloat.",
       "summary_cn": ""
     }
   ]
