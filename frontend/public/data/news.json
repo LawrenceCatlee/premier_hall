@@ -1,4 +1,41 @@
 {
-  "updated_at": "2026-08-14T04:55:20.267130+00:00",
-  "items": []
+  "updated_at": "2026-08-14T06:20:21.334328+00:00",
+  "items": [
+    {
+      "title": "How Maresca's Man City are shaping up compared with Guardiola",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70g7dx63geo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-14T05:16:06+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Maresca",
+        "City",
+        "shaping",
+        "compared"
+      ],
+      "summary": "Enzo Maresca has the difficult task of following Pep Guardiola at Manchester City. BBC Sport analyses the new manager's style and tactics from the pre-season games so far.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who am I? Guess Premier League star No 25",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c36dx26l68lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-14T05:17:23+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Guess",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "summary_cn": ""
+    }
+  ]
 }
