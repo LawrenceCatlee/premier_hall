@@ -1,40 +1,322 @@
 {
-  "updated_at": "2026-08-14T06:20:21.334328+00:00",
+  "updated_at": "2026-08-14T08:22:20.871649+00:00",
   "items": [
     {
-      "title": "How Maresca's Man City are shaping up compared with Guardiola",
+      "title": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70g7dx63geo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-14T05:16:06+00:00",
-      "score": 25.0,
+      "published": "2026-08-14T07:48:24+00:00",
+      "score": 31.0,
       "keywords": [
-        "Manchester City",
-        "Man City",
-        "Maresca",
-        "City",
-        "shaping",
-        "compared"
+        "Arsenal",
+        "Newcastle",
+        "Martinelli",
+        "Gabriel Martinelli",
+        "Football",
+        "transfer"
       ],
-      "summary": "Enzo Maresca has the difficult task of following Pep Guardiola at Manchester City. BBC Sport analyses the new manager's style and tactics from the pre-season games so far.",
+      "summary": "Today’s fluff has sought shade As these glorious pages reported on Thursday, Galatasaray wanted Gabriel Martinelli . In the following 24 hours things changed a bit, creating greater complexity, something we do not approve of. Arsenal have supposedly been offered the chance to involve the Nigeria str",
       "summary_cn": ""
     },
     {
-      "title": "Who am I? Guess Premier League star No 25",
+      "title": "Steelers rookie Allar stars as McCarthy beats Packers on debut",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36dx26l68lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/nfl/news/12040/13572834/nfl-preseason-steelers-rookie-allar-stars-against-packers-as-mccarthy-era-starts-with-win",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-14T05:17:23+00:00",
+      "published": "2026-08-14T08:06:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Green",
+        "McCarthy",
+        "Steelers",
+        "rookie",
+        "Allar",
+        "stars"
+      ],
+      "summary": "Rookie Drew Allar starred in Mike McCarthy's first game as Pittsburgh Steelers head coach, throwing two touchdown passes and running for another in a 28-9 preseason win over the Green Bay Packers.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Championship kicks off, Fifa latest and Community Shield buildup: football – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/aug/14/championship-kicks-off-fifa-latest-and-community-shield-buildup-football-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-14T08:10:49+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Hughes",
+        "Championship",
+        "kicks",
+        "Fifa",
+        "latest",
+        "Community"
+      ],
+      "summary": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom First up, big news in the murky world of football politics from Matt Hughes this morning: Continue reading...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Cristiano Ronaldo’s mum MISSED Georgina Rodriguez wedding with just 4 witnesses and kids at ceremony at £30m mansion",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40056616/cristiano-ronaldo-mum-georgina-rodriguez-wedding/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-14T07:16:12+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Cristiano Ronaldo",
+        "Ronaldo",
+        "Rodri",
+        "Rodriguez",
+        "Cristiano",
+        "MISSED"
+      ],
+      "summary": "CRISTIANO RONALDO and Georgina Rodriguez got married at their new £30MILLION mansion near Lisbon in front of just FOUR witnesses and their children. Cristiano’s doting mum Dolores Aveiro and his three siblings Hugo, Elma and Katia, were NOT present at the intimate civil ceremony which took place at ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Cristiano Ronaldo wears ring to Al Nassr training as he is congratulated on Georgina Rodriguez wedding by Postecoglou",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40056448/cristiano-ronaldo-wears-wedding-ring-al-nassr-ange-postecoglou/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-14T06:53:17+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Cristiano Ronaldo",
+        "given",
+        "Ronaldo",
+        "Rodri",
+        "Rodriguez",
+        "Cristiano"
+      ],
+      "summary": "CRISTIANO RONALDO was given a heartfelt welcome back to Al-Nassr after marrying Georgina Rodriguez. The Portuguese superstar, 41, and Argentine model tied the knot in a private ceremony earlier this week. And Ronaldo, sporting a new look after dying his hair, was spotted wearing his wedding band whe",
+      "summary_cn": ""
+    },
+    {
+      "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-14T07:57:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Guess",
-        "Premier",
-        "League",
-        "star"
+        "Liverpool",
+        "latest",
+        "transfers",
+        "Thomas",
+        "Tuchel",
+        "England"
       ],
-      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "summary": "Sky Sports News takes you through a selection of the back page headlines from Friday morning's papers.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Can Chelsea go from 10th to title again?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-14T06:34:57+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "title",
+        "again"
+      ],
+      "summary": "With a new manager at the helm in Xabi Alonso, can Chelsea go from 10th to the Premier League title like they did a decade ago?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who to pick, who to avoid - your team's FPL assets ranked",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0qv21egpneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-14T07:14:05+00:00",
+      "score": 25.0,
+      "keywords": [
+        "pick",
+        "avoid",
+        "team",
+        "assets",
+        "ranked"
+      ],
+      "summary": "Our team of FPL experts rank the best and worst picks for 2026-27 from each of the 20 Premier League teams.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal vs Man City – Community Shield offer: Get £30 in free bets with Midnite",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40046175/arsenal-man-city-community-shield-free-bets/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-14T08:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester City",
+        "Man City",
+        "City",
+        "Community",
+        "Shield"
+      ],
+      "summary": "ARSENAL and Manchester City compete for the first piece of silverware of the season in Sunday's Community Shield. Midnite are stepping things up ahead of the Wembley showdown, rewarding brand new customers who bet £10 on their sportsbook with £30 in free bets to spend on football! Midnite new custom",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ruben Amorim ‘tells SEVEN AC Milan stars to find a new club’ including £56m Chelsea flop",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40056743/ruben-amorim-ac-milan-transfers-nkunku-tomori-estupinan/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-14T07:55:36+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Ruben",
+        "Amorim",
+        "tells",
+        "SEVEN"
+      ],
+      "summary": "RUBEN AMORIM has ruthlessly told Christopher Nkunku and SIX of his AC Milan team-mates to find new clubs before the transfer window slams shut. The former Manchester United boss, 41, was appointed as the Serie A giants' new chief in June. Amorim is planning to oversee a huge cull after an underwhelm",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd fans challenge Omar Berrada in hospitality during pre-season friendly over Old Trafford ticket touting fiasco",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40052237/manchester-united-omar-berrada-tickets/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-14T07:33:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "fans",
+        "challenge",
+        "Omar",
+        "Berrada"
+      ],
+      "summary": "MANCHESTER UNITED supporters challenged chief executive Omar Berrada in person over the club’s ticket touting process. Some supporters approached Berrada in the hospitality area of the Ullevi Stadium in Gothenburg before United’s pre-season friendly with Paris Saint-Germain last week. Thousands of U",
+      "summary_cn": ""
+    },
+    {
+      "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-14T08:50:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "FREE",
+        "STREAM",
+        "Good",
+        "Morning",
+        "Transfers",
+        "Sports"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Will you beat our mega football nicknames quiz?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4v4mm9r8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-14T07:00:44+00:00",
+      "score": 20.0,
+      "keywords": [
+        "beat",
+        "mega",
+        "football",
+        "nicknames",
+        "quiz"
+      ],
+      "summary": "Do you know your Red Devils from your Saints? How about your Magpies from your Robins?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rangers make offer for striker Kelsy - gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9epdvxdxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-14T07:00:38+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Rangers",
+        "make",
+        "offer",
+        "striker",
+        "Kelsy",
+        "gossip"
+      ],
+      "summary": "Rangers chase Venezuela striker and agree loan deal for left-back as Celtic are linked with Bosnian based in Czech Republic...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-14T07:13:59+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Oceania",
+        "declares",
+        "support",
+        "Infantino",
+        "boost",
+        "Fifa"
+      ],
+      "summary": "OFC’s 11 votes could prove crucial in Fifa election Stance shows continued backing from smaller nations The Oceania Football Confederation (OFC) has declared their support for Gianni Infantino following demands for the Fifa president to resign from Uefa, Concacaf and the Asian Football Confederation",
+      "summary_cn": ""
+    },
+    {
+      "title": "Lincoln have faith in double act as they return to second tier",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/14/lincoln-have-faith-in-double-act-as-they-return-to-second-tier",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-14T07:00:20+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Lincoln",
+        "faith",
+        "double",
+        "return",
+        "second",
+        "tier"
+      ],
+      "summary": "The club will be led by two joint head coaches, Tom Shaw and Chris Cohen, during their Championship campaign The last thing the Championship needs is another spying scandal, so when a lorry emblazoned with KGB parked up alongside Lincoln City’s training ground on Tuesday lunchtime there was laughter",
+      "summary_cn": ""
+    },
+    {
+      "title": "High-flying Sirius chase shock Allsvenskan title despite losing ‘best player in league’",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/14/sirius-allsvenskan-title-robbie-ure-sevilla-transfer",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-14T07:00:21+00:00",
+      "score": 20.0,
+      "keywords": [
+        "High",
+        "flying",
+        "Sirius",
+        "chase",
+        "shock",
+        "Allsvenskan"
+      ],
+      "summary": "They may have sold Robbie Ure, their top scorer, to Sevilla, but the team from Uppsala have good reason to believe they can finish the job For most teams, losing a forward with 15 goals in 15 games midway through the season, amid a historic title chase, might be cause for panic. Sirius, the runaway ",
       "summary_cn": ""
     }
   ]
