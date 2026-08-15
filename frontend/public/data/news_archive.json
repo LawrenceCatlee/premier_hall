@@ -1,6 +1,124 @@
 {
   "items": [
     {
+      "title": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-15T19:00:04+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester City",
+        "Wilson",
+        "Community",
+        "Shield",
+        "offers"
+      ],
+      "summary": "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018 The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finish",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T19:26:58.652809+00:00"
+    },
+    {
+      "title": "Harry Redknapp lands role in film about loudmouth fan he pulled from stands to play for West Ham",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40071526/harry-redknapp-lands-film-role-west-ham-fan/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T18:52:57+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Redknapp",
+        "Davies",
+        "Harry",
+        "lands",
+        "role"
+      ],
+      "summary": "HARRY Redknapp is set to cameo in a film about the West Ham fan he pulled from the stands in 1994. The film is being made by Sir Ridley Scott and retells the moment that assistant manager Harry, 79, pulled loudmouth Hammers fan Steve Davies to play in the pre-season friendly against Oxford City. The",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T19:26:58.652809+00:00"
+    },
+    {
+      "title": "Enzo Maresca has it all to do following iconic Pep Guardiola as he looks to avoid becoming another ‘Inbetweener’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40071395/premier-league-news-enzo-maresca-pep-guardiola-inbetweeners/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T18:59:03+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Enzo",
+        "Maresca",
+        "following",
+        "iconic"
+      ],
+      "summary": "ENZO MARESCA knows he is in danger of being an Inbetweener. The new Manchester City&nbsp;manager has probably never seen the TV series and films. Although Maresca’s Chelsea successor Liam Rosenior was teased for his resemblance to nerdy Will, the Italian could hardly be more different from the lead ",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T19:26:58.652809+00:00"
+    },
+    {
+      "title": "Sheff Utd & Birmingham draw a blank on opening day",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/sheffield-united-vs-birmingham-city/report/560505",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T19:30:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Sheff",
+        "Birmingham",
+        "draw",
+        "blank",
+        "opening"
+      ],
+      "summary": "xxxxSheffield United and Birmingham made an underwhelming start to the Championship season as they played out a goalless draw at Bramall Lane.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T19:26:58.652809+00:00"
+    },
+    {
+      "title": "Championship excellent place to discover talent - Espanyol's Monchi",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62v1e64x41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T19:24:45+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Championship",
+        "excellent",
+        "place",
+        "discover",
+        "talent",
+        "Espanyol"
+      ],
+      "summary": "Espanyol sporting director Monchi explains why he believes England's Championship is an undervalued source of talent, and outlines his ambitions to restore Espanyol to the top end of Spanish football.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T19:26:58.652809+00:00"
+    },
+    {
+      "title": "Rangers need 'wee bit of help' - and McInnes says money is there to get it",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg44wvnjyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T19:20:16+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Rangers",
+        "need",
+        "help",
+        "McInnes",
+        "money"
+      ],
+      "summary": "Rangers need \"a wee bit of help\" and have money to spend to get it despite dropping out of the Europa League, says manager Derek McInnes.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T19:26:58.652809+00:00"
+    },
+    {
       "title": "Man Utd 2 AC Milan 4: Ruben Amorim gets revenge on Red Devils as glaring issues facing Michael Carrick are exposed",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40071165/man-utd-news-ac-milan-result-carrick-amorim/",
@@ -39506,126 +39624,6 @@
       "summary": "PARIS SAINT-GERMAIN want around £42million if they are to sell their Senegalese starlet Ibrahim Mbaye. The 18-year-old is one of the wingers on Manchester City’s list as they search for a replacement for Savinho. Spurs are hoping to wrap up a deal for the Etihad wide man after seeing bids rejected f",
       "summary_cn": "",
       "fetched_at": "2026-07-26T23:04:41.188743+00:00"
-    },
-    {
-      "title": "Real Madrid ready to seal deal for Yan Diomande after PSG pull out of move",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/26/real-madrid-ready-to-seal-deal-for-yan-diomande-after-psg-pull-out-of-move",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-26T21:55:32+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Real",
-        "Madrid",
-        "ready",
-        "seal",
-        "deal",
-        "Diomande"
-      ],
-      "summary": "PSG formally withdraw from race to sign winger Teenager expected to complete Bernabéu switch Real Madrid look to have won the race for RB Leipzig’s coveted winger, Yan Diomande, after Paris Saint-Germain withdrew from the bidding war. The Ivory Coast international has been the subject of an intense ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T23:04:41.188743+00:00"
-    },
-    {
-      "title": "Fans left stunned as goalkeeper boots ball into own net in own goal for the ages",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39879024/goalkeeper-scores-own-goal-real-frontera-sergio-avellaneda/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T21:29:15+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Fans",
-        "left",
-        "stunned",
-        "goalkeeper",
-        "boots",
-        "ball"
-      ],
-      "summary": "A CALAMITOUS goalkeeper went viral for scoring the most outrageous own goal of the year in Venezuela that led to a heavy thrashing. Real Frontera hosted Urena on Saturday in a Liga Futve 2 match at the Sede Real Frontera. And the second-division game made headlines in the half-hour mark when Fronter",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T23:04:41.188743+00:00"
-    },
-    {
-      "title": "Jamie Gittens says £117m Morgan Rogers can win Chelsea the league – even if it pushes him further from starting XI",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39875903/jamie-gittens-morgan-rogers-win-chelsea-league-xabi-alonso/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T20:50:27+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Jamie",
-        "Gittens",
-        "Morgan",
-        "Rogers",
-        "league"
-      ],
-      "summary": "MORGAN ROGERS' British record move can drive Chelsea to win titles - according to the man trying to keep him out of the team. Jamie Gittens is working back from a hamstring injury which curtailed a frustrating first season for the Blues, so perhaps the last thing he needed was a new £117million sign",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T21:05:19.837482+00:00"
-    },
-    {
-      "title": "Fury as EIGHT ‘greedy’ Prem clubs including Chelsea and Tottenham hike price of replica footie shirts to as high as £90",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39878192/greedy-prem-clubs-hike-price-footie-shirts/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T20:16:10+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Tottenham",
-        "Spurs",
-        "Fury",
-        "EIGHT",
-        "greedy"
-      ],
-      "summary": "EIGHT Premier League clubs — including Chelsea and Tottenham — have increased the price of their replica footie shirts. Tens of thousands of fans now face forking out up to £90 to back their teams when the new ­season kicks off next month. Spurs supporters must pay £90 for a replica adult first-team",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T21:05:19.837482+00:00"
-    },
-    {
-      "title": "Arsenal will have to smash contract record to secure £400,000-week Vinicius Jr transfer from Real Madrid",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39878335/arsenal-vinicius-transfer-contract-salary-real-madrid/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T19:58:35+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "smash",
-        "contract",
-        "record",
-        "secure",
-        "week"
-      ],
-      "summary": "ARSENAL will have to break their own contract record to land Real Madrid superstar Vinicius Jr by offering him the highest wages in the club's history. The Gunners have launched an audacious bid to land Vinicius, 26, as they look to retain their Premier League title and go up an extra level by winni",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T21:05:19.837482+00:00"
-    },
-    {
-      "title": "Littler dominates Price to close out historic Blackpool title defence",
-      "title_cn": "",
-      "url": "https://www.skysports.com/darts/news/12040/13567159/world-matchplay-darts-luke-littler-thrashes-gerwyn-price-18-9-to-defend-title-with-record-breaking-display-in-blackpool",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-26T21:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Littler",
-        "dominates",
-        "Price",
-        "close",
-        "historic",
-        "Blackpool"
-      ],
-      "summary": "Luke Littler capped off a remarkable title defence at the World Matchplay Darts with an impressive 18-9 victory over Gerwyn Price in Blackpool.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T21:05:19.837482+00:00"
     }
   ]
 }
