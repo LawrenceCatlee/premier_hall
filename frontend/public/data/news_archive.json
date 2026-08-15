@@ -1,6 +1,313 @@
 {
   "items": [
     {
+      "title": "Moore double gives Spurs win over Hoffenheim as Robertson impresses",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13573103/tottenham-3-0-hoffenheim-mikey-moore-double-and-richarlison-opener-keep-spurs-unbeaten-in-pre-season",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T17:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "Robertson",
+        "Moore",
+        "double",
+        "gives"
+      ],
+      "summary": "Mikey Moore scored twice in Tottenham&#8217;s 3-0 home pre-season home win over Hoffenheim.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Chelsea 3 Real Sociedad 1: Xabi Alonso’s lethal new front three shine on first outing as Enzo endures mixed reception",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40070580/chelsea-news-morgan-rogers-cole-palmer-real-sociedad/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T15:55:04+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Chelsea",
+        "Palmer",
+        "Bridge",
+        "Real",
+        "Sociedad"
+      ],
+      "summary": "THE ICE COLD era has begun at Stamford Bridge, with the Blues lethal new front three in action for the first time together. Morgan Rogers went 1-0 up against Cole Palmer in the goalscoring charts for Chelsea since the Aston Villa man signed on for £117m, although he didn't pull out the celebration f",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Bruno Fernandes fluffs another penalty just minutes after Man Utd stars tackle one another for calamitous goal",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40070542/bruno-fernandes-penalty-miss-man-utd-ac-milan-pre-season/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T15:48:22+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Fernandes",
+        "young",
+        "Bruno Fernandes",
+        "Bruno"
+      ],
+      "summary": "BRUNO FERNANDES spurned a penalty for the second match in a row as AC Milan youngster Lorenzo Torriani read him like a book. The Manchester United skipper fluffed his lines from 12 yards in a shootout win over Leeds on Wednesday, putting his effort wide of the right-hand post. He changed things up a",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Chelsea ratings: Morgan Rogers and Joao Pedro combine brilliantly as Marco Palestra’s defensive frailties exposed",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40070383/chelsea-ratings-joao-pedro-morgan-rogers-real-sociedad/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T15:36:53+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Fulham",
+        "Bridge",
+        "ratings",
+        "Morgan",
+        "Rogers"
+      ],
+      "summary": "CHELSEA appear to be peaking at the right time as Xabi Alonso's men picked up a 3-1 win over Real Sociedad in their final pre-season game. The Blues welcomed the La Liga side to Stamford Bridge before they open the season with a west London derby away to Fulham on August 24. Morgan Rogers opened...",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Crawley 0-1 Crewe",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/crawley-town-vs-crewe-alexandra/report/561054",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T17:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "March",
+        "Crawley",
+        "Crewe"
+      ],
+      "summary": "Josh March headed the winner in the fifth minute of stoppage time as 10-man Crewe got the better of nine-man Crawley at the Broadfield Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Chesterfield 1-0 Fleetwood",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/chesterfield-vs-fleetwood-town/report/561053",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T17:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Evans",
+        "Chesterfield",
+        "Fleetwood"
+      ],
+      "summary": "Veteran striker Ched Evans scored the only goal of the game, finding the net against one of his former clubs to give Fleetwood Town an opening day 1-0 victory at Chesterfield.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Gillingham 0-3 Walsall",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/gillingham-vs-walsall/report/561055",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T17:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "James",
+        "Gillingham",
+        "Walsall"
+      ],
+      "summary": "Late goals from Isaac Moore, James Connolly and Aaron Pressley did the damage as Walsall secured a fine 3-0 away win over Gillingham.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "England's Givens breaks LET duck at 210th attempt as rival's ball gets stuck in tree",
+      "title_cn": "",
+      "url": "https://www.skysports.com/golf/news/12040/13573391/englands-eleanor-givens-wins-first-ladies-european-tour-title-at-210th-attempt-as-alexandra-f246rsterling-gets-ball-stuck-in-tree",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T16:30:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Given",
+        "England",
+        "Givens",
+        "breaks",
+        "duck",
+        "attempt"
+      ],
+      "summary": "England's Eleanor Givens won her first Ladies European Tour title at the 210th attempt with a one-shot victory at the VP Bank Swiss Ladies Open.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "'A bit surreal' - Penrice joins Rangers from AEK Athens on loan",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75gxqnwqz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T16:18:51+00:00",
+      "score": 26.0,
+      "keywords": [
+        "James",
+        "surreal",
+        "Penrice",
+        "joins",
+        "Rangers",
+        "Athens"
+      ],
+      "summary": "Rangers sign left-back James Penrice from Greek champions AEK Athens for on loan with an option to buy.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "PL pre-season fixtures and results - how is your side shaping up?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13546612/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T17:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "season",
+        "fixtures",
+        "results",
+        "side",
+        "shaping"
+      ],
+      "summary": "Premier League clubs are getting ready for the new campaign with pre-season under way.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T16:22:07+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Fernandez",
+        "booed",
+        "fans",
+        "Alonso",
+        "offers"
+      ],
+      "summary": "Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Newcastle change shirts during first half of friendly",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T16:03:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "change",
+        "shirts",
+        "during",
+        "first",
+        "half"
+      ],
+      "summary": "Newcastle United change shirts in the first half of their pre-season friendly against Bayer Leverkusen.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Newcastle’s entire starting XI forced to change kit 25 minutes into pre-season friendly vs Bayer Leverkusen",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40070184/newcastle-change-kit-bayer-leverkusen-friendly/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T15:31:51+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "entire",
+        "starting",
+        "forced",
+        "change",
+        "minutes"
+      ],
+      "summary": "IT HAS been a summer of change at Newcastle - and it was the same when it came to their kit during a showdown with Bayer Leverkusen. The Magpies now have Matthias Jaissle in the dugout following Eddie Howe's decision to quit. And Bruno Guimaraes followed the likes of Anthony Gordon and Sandro Tonali",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Scot Prem latest: Rangers sign Penrice on season-long loan",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T17:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scot",
+        "Prem",
+        "latest",
+        "Rangers",
+        "sign",
+        "Penrice"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Lankshear double steers Boro to victory",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/middlesbrough-vs-lincoln-city/report/560502",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T17:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Lankshear",
+        "double",
+        "steers",
+        "Boro",
+        "victory"
+      ],
+      "summary": "Marquee signing Will Lankshear notched a second-half double as Middlesbrough fought back to kick off their Championship bid with a hard-fought 2-1 victory and end newly promoted Lincoln's stunning nine-month unbeaten run.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
+      "title": "Swansea strike back to win at Stoke",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/stoke-city-vs-swansea-city/report/560506",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T17:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Swansea",
+        "strike",
+        "back",
+        "Stoke"
+      ],
+      "summary": "Super-sub Adam Idah snatched the winner with his first touch of the game as Swansea bravely battled back from a goal down to stun Stoke 2-1.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T16:33:14.007300+00:00"
+    },
+    {
       "title": "Enzo Fernandez BOOED by Chelsea fans as divisive Argentine makes Stamford Bridge return after flirting with transfer",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40070206/enzo-fernandez-booed-chelsea-stamford-bridge-real-sociedad/",
@@ -39327,325 +39634,6 @@
       "summary": "Gary Caldwell, who returned to the League One club in February to keep them up, faces a new season with meticulous plans and bright hopes “This is the only rule I’m going to have for yous all season: ‘team first’,” says Gary Caldwell. The Wigan head coach’s Scottish accent booms over the gentle hum ",
       "summary_cn": "",
       "fetched_at": "2026-07-26T19:23:07.813707+00:00"
-    },
-    {
-      "title": "Female referee suffers concussion after being knocked over by brawling men’s players during friendly in France",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39877415/referee-concussion-brawling-players-france/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T17:27:43+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Female",
-        "referee",
-        "suffers",
-        "concussion",
-        "being",
-        "knocked"
-      ],
-      "summary": "A FEMALE referee was left with a concussion after being knocked over in an on-pitch scuffle during a men's friendly. French referee Mathilde Demoncay was overseeing a match between Ligue 2 side Metz and Eredivisie outfit Fortuna Sittard. Metz were one goal up in the 39th minute of the contest, held ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T19:23:07.813707+00:00"
-    },
-    {
-      "title": "‘This may look a strange decision’ – York City SACK manager Stuart Maynard despite promotion to EFL with 108 points",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39877009/york-city-sack-stuart-maynard-despite-promotion/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T15:28:13+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Stuart",
-        "matic",
-        "look",
-        "strange",
-        "decision",
-        "York"
-      ],
-      "summary": "YORK CITY have confirmed the exit of manager Stuart Maynard just months after he guided the club back into the English Football League after a decade away. York won the National League in dramatic circumstances in April, scoring an equaliser in the 103rd minute to draw with title rivals Rochdale - w",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Régis Le Bris says Chelsea’s pursuit of Sunderland captain Xhaka is ‘closed’",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/26/regis-le-bris-says-chelseas-pursuit-of-sunderland-captain-xhaka-is-closed",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-26T16:06:34+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Granit Xhaka",
-        "Xhaka",
-        "Bris",
-        "pursuit",
-        "Sunderland"
-      ],
-      "summary": "Le Bris: ‘Granit wants to stay in Sunderland’ Xabi Alonso managed midfielder at Leverkusen Régis Le Bris has declared Chelsea’s pursuit of Granit Xhaka “closed” and insisted there is no prospect of Sunderland selling their influential captain this summer. Xhaka played a major role in Sunderland qual",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "How Man Utd can have perfect transfer window with three more signings and Marcus Rashford leading exits",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39875067/manchester-united-news-squad-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T17:01:58+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Rashford",
-        "Marcus Rashford",
-        "perfect",
-        "transfer"
-      ],
-      "summary": "ENGLAND’S 6-4 win against France last week was paradoxical: a game so entertaining it provided more proof that the World Cup third-place match should be scrapped. Manchester United forward Joshua Zirkzee scored a goal akin to Jude Bellingham’s against Rosenborg by embarking on a sprint, dummying a R",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Dean Henderson holidays with bikini-clad wife Millie in Mykonos as goalkeeper sends message to England pals",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39876836/dean-henderson-holidays-bikini-wife-millie-mykonos-stones-lingard/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T16:23:23+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Henderson",
-        "Dean",
-        "holidays",
-        "bikini",
-        "clad",
-        "wife"
-      ],
-      "summary": "DEAN HENDERSON and his wife Millie have taken to Mykonos in Greece for their holidays after the World Cup. And he had a fun message for his former team-mates while on his travels, too. While Henderson sat with his bikini-clad wife in one picture, he also did the Jesse Lingard celebration - making a ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Chiesa happy but wants new chapter at Liverpool",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70gzrx034ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-26T16:02:26+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Chiesa",
-        "happy",
-        "wants",
-        "chapter"
-      ],
-      "summary": "Liverpool forward Federico Chiesa says he is \"happy\" at the club amid speculation over his future.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Gittens keen to impress 'world-class' Alonso",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y3gg1083no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-26T16:00:27+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Gittens",
-        "keen",
-        "impress",
-        "world",
-        "class"
-      ],
-      "summary": "Chelsea winger Jamie Gittens says he will be involved in Xabi Alonso's squad next season and describes his new manager as \"one of the best to do it\".",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Chiesa wants ‘new chapter’ with Iraola after frustrating time under Slot at Liverpool",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/26/federico-chiesa-liverpool-andoni-iraola-arne-slot-premier-league",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-26T16:00:15+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Chiesa",
-        "wants",
-        "chapter",
-        "Iraola",
-        "frustrating"
-      ],
-      "summary": "Forward scored in friendly win against Sunderland Chiesa had frustrating two seasons under Arne Slot Federico Chiesa has said he wants “a new chapter” at Liverpool with Andoni Iraola following a frustrating time under Arne Slot and claimed the club were lucky to qualify for the Champions League last",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Man Utd make Shea Lacey transfer decision after winger, 19, nets in Rosenborg friendly",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39875212/man-utd-shea-lacey-future-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T16:27:36+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "make",
-        "Shea",
-        "Lacey",
-        "transfer"
-      ],
-      "summary": "MANCHESTER UNITED plan to keep Shea Lacey in their first team squad for the first half of the season. Lacey, 19, scored the opening goal in United’s 5-0 thrashing of Rosenborg on Friday to underline his first-team credentials. The winger made his debut last December and Lacey has made three more app",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Unemployed Jadon Sancho, 26, receives ‘game-changing’ free transfer offer after finally ending Man Utd hell",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39876872/jadon-sancho-free-transfer-al-rayyan-man-utd-hell/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T15:59:40+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Chelsea",
-        "Manchester United",
-        "Man Utd",
-        "Unemployed",
-        "Jadon"
-      ],
-      "summary": "JADON SANCHO could be set to receive a career lifeline just weeks after becoming unemployed. The 26-year-old former Borussia Dortmund phenom became a free agent after the expiry of his Manchester United contract earlier this month. And after lacklustre loan spells with Chelsea and Aston Villa, it se",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "World Matchplay Darts LIVE! Build-up and your views ahead of Littler vs Price",
-      "title_cn": "",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13567119/world-matchplay-darts-final-luke-littler-v-gerwyn-price-live-latest-scores-updates-highlights-from-blackpool",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-26T18:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "Matchplay",
-        "Darts",
-        "LIVE",
-        "Build",
-        "views"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Greaves beats Sherrock to claim record third Women's Matchplay crown",
-      "title_cn": "",
-      "url": "https://www.skysports.com/darts/news/12040/13567091/womens-world-matchplay-beau-greaves-defeats-fallon-sherrock-in-6-5-last-leg-decider-to-claim-record-third-blackpool-crown",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-26T16:50:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Greaves",
-        "beats",
-        "Sherrock",
-        "claim",
-        "record",
-        "third"
-      ],
-      "summary": "Beau Greaves won the Women's World Matchplay for a record third time with a 6-5 last-leg victory over Fallon Sherrock at the Winter Gardens in Blackpool.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "DAZN presenter Diletta Leotta shows off curves in barely-there bikini as fans say ‘beautiful, beautiful, beautiful’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39877246/diletta-leotta-dazn-loris-karius-football-wag-bikini-holiday/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T16:37:33+00:00",
-      "score": 20.0,
-      "keywords": [
-        "DAZN",
-        "presenter",
-        "Diletta",
-        "Leotta",
-        "shows",
-        "curves"
-      ],
-      "summary": "DAZN presenter and footie Wag Diletta Leotta has stunned in a tiny bikini on holiday. The Italian has been chilling after her World Cup work and left fans amazed at her body. Posing in a lakeside pool with a bandana on and a busty striped bikini, she put up a July dump on Instagram. Diletta,...",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "English World Cup wag shows off gifts from Lionel Messi including personalised handbag and golden mate tea set",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39876918/argentina-world-cup-wag-lionel-messi-presents-bowers-senesi/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T15:43:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "English",
-        "World",
-        "shows",
-        "gifts",
-        "Lionel",
-        "Messi"
-      ],
-      "summary": "LIONEL MESSI got the entire Argentina World Cup squad a set of presents - and one Wag has shown them off. Kelci-Rose Bowers, Marcos Senesi's girlfriend, revealed the gifts from footie's Goat and took fans through his flashy spending spree. Posting on TikTok, she opened up a caramel coloured bag with",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T17:10:17.102813+00:00"
-    },
-    {
-      "title": "Tottenham in advanced Savinho talks after beating off transfer competition from Ruben Amorim’s AC Milan",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39876546/tottenham-savinho-talks-beat-milan-man-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T14:39:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Manchester City",
-        "Tottenham",
-        "Spurs",
-        "advanced",
-        "Savinho",
-        "talks"
-      ],
-      "summary": "TOTTENHAM appear to have moved to the front of the queue in the race to sign Manchester City winger Savinho. SunSport can exclusively reveal that Spurs negotiations are well advanced for the Brazil international. Spurs boss Roberto De Zerbi views Savinho's pace and direct creativity as an ideal fit ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T15:11:51.889668+00:00"
-    },
-    {
-      "title": "‘The worst news’ – Joe Gomez forced off injured in Liverpool friendly clash as Andoni Iraola provides bleak update",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39876458/joe-gomez-injury-liverpool-worst-news-iraola-update/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-07-26T14:45:41+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Morrison",
-        "worst",
-        "news",
-        "Gomez",
-        "forced"
-      ],
-      "summary": "ANDONI IRAOLA'S start to life as Liverpool boss was bittersweet as they beat Sunderland but lost Joe Gomez to injury. The Reds pre-season kicked off with a clash against familiar Premier League opposition in Sunderland in the USA. Iraola's side won 4-2, courtesy of goals from Kieran Morrison, Domini",
-      "summary_cn": "",
-      "fetched_at": "2026-07-26T15:11:51.889668+00:00"
     }
   ]
 }
