@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "PSG sign World Cup final hero Torres from Barcelona",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T10:32:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Torres",
+        "sign",
+        "World",
+        "final",
+        "hero",
+        "Barcelona"
+      ],
+      "summary": "PSG have completed the signing of Spain's World Cup final hero Ferran Torres from Barcelona for &#163;42.7m.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T10:29:45.637616+00:00"
+    },
+    {
+      "title": "PSG sign World Cup winner Torres from Barcelona",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T09:37:31+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Torres",
+        "sign",
+        "World",
+        "winner",
+        "Barcelona"
+      ],
+      "summary": "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T10:29:45.637616+00:00"
+    },
+    {
+      "title": "European golden boot winner who ended Messi run and went viral at Euro 2020 for embarrassing moment announces retirement",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40068275/ciro-immobile-retires-lionel-messi-golden-boot/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T10:17:20+00:00",
+      "score": 20.0,
+      "keywords": [
+        "European",
+        "golden",
+        "boot",
+        "winner",
+        "ended",
+        "Messi"
+      ],
+      "summary": "ITALY icon Ciro Immobile has brought the curtain down on his stunning career after announcing his shock retirement. The striker, 36, only joined Paris FC on a free transfer from Bologna in the final hours of the winter transfer window earlier this year. But Immobile has decided to hang up his boots ",
+      "summary_cn": "",
+      "fetched_at": "2026-08-15T10:29:45.637616+00:00"
+    },
+    {
       "title": "New Man Utd signing scores in 5-0 behind closed doors friendly win over Premier League rivals",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40067839/man-utd-signing-cristian-orozco-scores-friendly-aston-villa/",
@@ -39597,66 +39656,6 @@
         "penalties"
       ],
       "summary": "Lewis Hamilton and world championship leader Kimi Antonelli have been given penalties to shuffle the order at the top end of the Hungarian Grand Prix grid.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-25T19:19:48.340419+00:00"
-    },
-    {
-      "title": "Bodo/Glimt's Hogh to have Celtic medical within 24 hours",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-07-25T18:07:42+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Neill",
-        "Bodo",
-        "Glimt",
-        "Hogh",
-        "Celtic",
-        "medical"
-      ],
-      "summary": "Bodo/Glimt striker Kasper Hogh is due to have a medical with Celtic in the next 24 hours, the Scottish champions' manager, Martin O'Neill, reveals.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-25T19:19:48.340419+00:00"
-    },
-    {
-      "title": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-25T19:00:50+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Haaland",
-        "love",
-        "Mexico",
-        "Merlin",
-        "memories",
-        "World"
-      ],
-      "summary": "Norway’s striker left his mark, as did Scotland’s fans in Boston, but Turkey’s dark horses fell at the first hurdle “I played with him on my PlayStation, and now I’ve scored against him,” Livano Comenencia said after converting Curaçao’s first World Cup goal past Manuel Neuer in their opening match ",
-      "summary_cn": "",
-      "fetched_at": "2026-07-25T19:19:48.340419+00:00"
-    },
-    {
-      "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-25T17:32:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "make",
-        "shock",
-        "approach",
-        "sign",
-        "Real"
-      ],
-      "summary": "Brazil forward has one year left on contract at Bernabéu Vinícius future at Real uncertain after Mourinho arrival Arsenal are exploring a shock deal to sign Vinícius Júnior from Real Madrid. Arsenal have inquired about the Brazil international, who has one year remaining on his contract at the Berna",
       "summary_cn": "",
       "fetched_at": "2026-07-25T19:19:48.340419+00:00"
     }
