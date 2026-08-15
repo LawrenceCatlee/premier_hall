@@ -1,25 +1,6 @@
 {
-  "updated_at": "2026-08-15T13:36:16.017172+00:00",
+  "updated_at": "2026-08-15T14:30:25.936008+00:00",
   "items": [
-    {
-      "title": "Rogers puts Chelsea ahead on Stamford Bridge debut vs Sociedad LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/chelsea-vs-real-sociedad/live/575209",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-15T12:27:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "Rogers",
-        "puts",
-        "ahead",
-        "Stamford"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
     {
       "title": "Liverpool legend and former England star’s son, 20, joins Conference League side after leaving Stockport",
       "title_cn": "",
@@ -36,7 +17,7 @@
         "former",
         "England"
       ],
-      "summary": "ROBBIE FOWLER'S son has sealed a shock move to Gibraltar in a bid to reignite his career. Jacob Fowler, 20, was released by League One side Stockport County, who suffered play-off final heartbreak last season. And the attacking midfielder has penned a deal with Europa after spending the summer searc",
+      "summary": "ROBBIE FOWLER'S son has sealed a shock move to Gibraltar in a bid to reignite his career. Jacob Fowler, 20, was released by League One side Stockport County, who suffered play-off final heartbreak last season. And the attacking midfielder has penned a deal with Gibraltar-based side Europa FC after s",
       "summary_cn": ""
     },
     {
@@ -68,8 +49,8 @@
       "score": 31.0,
       "keywords": [
         "West Ham",
-        "Aaron Wan-Bissaka",
         "Wan-Bissaka",
+        "Aaron Wan-Bissaka",
         "West",
         "cult",
         "hero"
@@ -78,45 +59,150 @@
       "summary_cn": ""
     },
     {
-      "title": "‘Better than any transfer’ – Premier League fans hail stadium upgrade announcement as ‘filthy’ issue finally dealt with",
+      "title": "Bolton beat Preston for first Championship win since 2019",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40068860/premier-league-fulham-toliets-fixed/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/bolton-wanderers-vs-preston-north-end/report/560499",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-15T11:45:41+00:00",
-      "score": 31.0,
+      "published": "2026-08-15T14:30:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Fulham",
-        "smith",
-        "Better",
-        "transfer",
-        "Premier",
-        "League"
+        "March",
+        "Bolton",
+        "beat",
+        "Preston",
+        "first",
+        "Championship"
       ],
-      "summary": "FULHAM fans have hailed the club for finally dealing with a \"filthy\" issue at Craven Cottage. The West London side has often been criticised by supporters for the state of the toilets in the Hammersmith End. The toilet block had fallen into a sorry state with broken wall tiles, damaged doors and lea",
+      "summary": "Sam Dalby and Thierry Gale scored first-half goals as Bolton beat Preston 2-1 to record their first Sky Bet Championship win since March 2019.",
       "summary_cn": ""
     },
     {
-      "title": "Bolton v Preston, Middlesbrough v Lincoln, Bristol City v Millwall and more: football - live",
+      "title": "Oxford 2-2 MK Dons",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/oxford-united-vs-milton-keynes-dons/report/561611",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T14:30:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Brown",
+        "Oxford",
+        "Dons"
+      ],
+      "summary": "Ciaron Brown turned in a Gatlin O'Donkor cross deep into stoppage time to earn relegated Oxford United a 2-2 draw against newly-promoted MK Dons at the Kassam Stadium.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Notts County 1-1 Leicester",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/notts-county-vs-leicester-city/report/561610",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T14:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Leicester",
+        "Notts",
+        "County"
+      ],
+      "summary": "Conor Grant's late strike salvaged a deserved point for Notts County as they held former Premier League champions Leicester to a 1-1 draw at Meadow Lane.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Belgian Pocognoli frontrunner to be Scotland boss",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T13:58:42+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Belgian",
+        "Pocognoli",
+        "frontrunner",
+        "Scotland",
+        "boss"
+      ],
+      "summary": "Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newcastle progressing with move for Benfica defender Dedic",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gg3dp61lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T13:54:09+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "progressing",
+        "move",
+        "Benfica",
+        "defender",
+        "Dedic"
+      ],
+      "summary": "Newcastle United are in advanced talks as they aim to bring in defender Amar Dedic from Benfica.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bournemouth to 'do better' after 'disgusting' email",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8ee0gzqx2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-15T14:02:48+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Bournemouth",
+        "better",
+        "disgusting",
+        "email"
+      ],
+      "summary": "Bournemouth vow to \"do better\" after changes to matchday staffing were handled in a manner which \"did not reflect the standards we expect\".",
+      "summary_cn": ""
+    },
+    {
+      "title": "Middlesbrough v Lincoln, Bristol City v Millwall, Norwich v West Bromwich Albion, and more: football - live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/aug/15/bolton-v-preston-middlesbrough-v-lincoln-bristol-city-v-millwall-and-more-football-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-15T13:23:58+00:00",
+      "published": "2026-08-15T14:21:23+00:00",
       "score": 25.0,
       "keywords": [
         "Leicester",
         "Wolves",
-        "Bolton",
-        "Preston",
         "Middlesbrough",
-        "Lincoln"
+        "Lincoln",
+        "Bristol",
+        "City"
       ],
-      "summary": "⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Bolton Wanderers 2-1 Preston North End. Bolton hold on for their first win over Preston since the glory days of Sam Allardyce. GOAL! Notts County 1-1 Leicester City (Grant 81). Leicester ma",
+      "summary": "⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for Russell Martin and his League One Foxes. GOAL! Reading 3-4 Luton Town (Kodua 90+6). Gideon Kodua completes the comeback for Luton! He co",
       "summary_cn": ""
     },
     {
-      "title": "Aston Villa transfer for Joao Palhinha ‘falls through’ as Newcastle ‘ready to hijack move to land former Tottenham star’",
+      "title": "Mykhailo Mudryk reveals brutal reality of drugs ban as he had 20 months in wilderness and unable to train at Chelsea",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40069659/mykhailo-mudryk-drugs-ban-chelsea-news/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T14:03:58+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Mykhailo",
+        "Mudryk",
+        "reveals",
+        "brutal",
+        "reality"
+      ],
+      "summary": "MYKHAILO MUDRYK says he trained like a mad man to stay permanently ready for his Chelsea return. The Ukrainian, 25, was provisionally suspended in December 2024 after failing an anti-doping test. He was unable to train at Cobham, let alone play for the Blues, which led to 20 gruelling months of solo",
+      "summary_cn": ""
+    },
+    {
+      "title": "Aston Villa still in Joao Palhinha transfer hunt despite Bayern Munich rejecting loan bid as European giants join race",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40069290/palhinha-transfer-villa-fails-newcastle-hijack/",
       "source": "The Sun",
@@ -127,11 +213,26 @@
         "Aston Villa",
         "Newcastle",
         "Tottenham",
+        "Spurs",
         "Aston",
-        "Villa",
-        "transfer"
+        "Villa"
       ],
-      "summary": "NEWCASTLE are poised to attempt to hijack Aston Villa's move for Joao Palhinha. The former Tottenham Hotspur star's future with German giants Bayern Munich is up in the air, with club and player thought to be open to a summer exit. Villa appeared frontrunners for the 31-year-old's signature, having ",
+      "summary": "ASTON VILLA remain in the hunt for Joao Palhinha despite seeing a loan bid rejected by Bayern Munich. But SunSport understands the former Tottenham star is unlikely to move to Newcastle despite interest from Toon. Palhinha, 31, left Spurs after a fruitful loan from Bayern at the end of last season. ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newport 3-0 Rochdale",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/newport-county-afc-vs-rochdale/report/561057",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-15T14:30:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Newport",
+        "Rochdale"
+      ],
+      "summary": "Newport and new manager Hayden Mullins enjoyed a dream start to their League Two campaign with a 3-0 home win over newly-promoted Rochdale.",
       "summary_cn": ""
     },
     {
@@ -148,24 +249,6 @@
         "Scotland"
       ],
       "summary": "Former Monaco head coach Sebastien Pocognoli is the frontrunner for the Scotland men's national team job.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Hull sign Gelhardt and Gourna-Douath",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-15T12:03:16+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Hull",
-        "sign",
-        "Gelhardt",
-        "Gourna",
-        "Douath"
-      ],
-      "summary": "Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.",
       "summary_cn": ""
     },
     {
@@ -188,20 +271,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Belgian Pocognoli set for Scotland job - gossip",
+      "title": "Scotland hope to name 39-year-old Pocognoli as successor to Clarke in fresh approach",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30x80lny7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.theguardian.com/football/2026/aug/15/scotland-hope-to-name-sebastien-pocognoli-as-new-international-manager",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-15T11:51:50+00:00",
+      "published": "2026-08-15T13:09:59+00:00",
       "score": 20.0,
       "keywords": [
-        "Belgian",
-        "Pocognoli",
         "Scotland",
-        "gossip"
+        "hope",
+        "name",
+        "year",
+        "Pocognoli",
+        "successor"
       ],
-      "summary": "Belgian tipped for Scotland job, Celtic forward likely moving on and Scottish champions target goalkeeper.",
+      "summary": "Belgian would be first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association hopes to name the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager early next week. The 39-year-old, who was sacked by Monaco in",
       "summary_cn": ""
     }
   ]
