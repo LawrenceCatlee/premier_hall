@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:26:53.549137+00:00",
+  "updated_at": "2026-08-15T18:39:40.143747+00:00",
   "items": [
     {
       "title": "Coppull impresses in Hungerford success",
@@ -58,41 +58,41 @@
       "summary_cn": ""
     },
     {
-      "title": "Moore double gives Spurs win over Hoffenheim as Robertson impresses",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13573103/tottenham-3-0-hoffenheim-mikey-moore-double-and-richarlison-opener-keep-spurs-unbeaten-in-pre-season",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-15T17:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Robertson",
-        "Moore",
-        "double",
-        "gives"
-      ],
-      "summary": "Mikey Moore scored twice in Tottenham&#8217;s 3-0 home pre-season home win over Hoffenheim.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Transfer roundup: Paris Saint-Germain sign €50m Ferran Torres; Djed Spence seals Inter move",
+      "title": "Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki as Emiliano Martínez nears exit",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-15T17:01:09+00:00",
+      "published": "2026-08-15T17:53:31+00:00",
       "score": 31.0,
       "keywords": [
-        "Tottenham",
+        "Aston Villa",
+        "Spurs",
         "Torres",
-        "Transfer",
-        "roundup",
-        "Paris",
-        "Saint"
+        "Emiliano Martínez",
+        "Martínez",
+        "Transfer"
       ],
-      "summary": "Spain World Cup winner Torres leaves Barcelona England’s Spence completes move from Tottenham Paris Saint -Germain have signed Spain’s World Cup-winning ⁠forward Ferran Torres from Barcelona on a contract until 2031. Financial ​details were not disclosed, but reports said PSG paid €50m (£42.7m) ⁠for",
+      "summary": "PSG sign Spain’s Ferran Torres from Barcelona Djed Spence completes move to Inter from Spurs Aston Villa are preparing for the potential exit of goalkeeper Emiliano Martínez by accelerating a move for Parma’s Zion Suzuki. Juventus have revived their interest in Martínez, who is open to leaving after",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd 2 AC Milan 4: Ruben Amorim gets revenge on Red Devils as glaring issues facing Michael Carrick are exposed",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40071165/man-utd-news-ac-milan-result-carrick-amorim/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-15T17:35:44+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Carrick",
+        "Michael Carrick",
+        "Marcus Rashford",
+        "Rashford"
+      ],
+      "summary": "FOOTBALL has a knack for throwing up the best storylines. Marcus Rashford wore a new number on his first return to the pitch in Manchester United colours in 20 months - against the man who cut him loose from his boyhood club. And United players were reunited with a twitchy Ruben Amorim, who picked u",
       "summary_cn": ""
     },
     {
@@ -107,68 +107,11 @@
         "Manchester United",
         "Man Utd",
         "Carrick",
-        "Marcus Rashford",
         "Michael Carrick",
+        "Marcus Rashford",
         "Rashford"
       ],
       "summary": "MANCHESTER UNITED got more than they bargained for in their pre-season friendly with AC Milan. Ruben Amorim got his revenge on his former side as the Red Devils fell to a dismal 4-2 loss in Poland. After taking the lead inside two minutes, United let the contest slip away from them and ended up suff",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea 3 Real Sociedad 1: Xabi Alonso’s lethal new front three shine on first outing as Enzo endures mixed reception",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40070580/chelsea-news-morgan-rogers-cole-palmer-real-sociedad/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-15T15:55:04+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Chelsea",
-        "Bridge",
-        "Palmer",
-        "Real",
-        "Sociedad"
-      ],
-      "summary": "THE ICE COLD era has begun at Stamford Bridge, with the Blues lethal new front three in action for the first time together. Morgan Rogers went 1-0 up against Cole Palmer in the goalscoring charts for Chelsea since the Aston Villa man signed on for £117m, although he didn't pull out the celebration f",
-      "summary_cn": ""
-    },
-    {
-      "title": "Bruno Fernandes fluffs another penalty just minutes after Man Utd stars tackle one another for calamitous goal",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40070542/bruno-fernandes-penalty-miss-man-utd-ac-milan-pre-season/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-15T15:48:22+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Bruno Fernandes",
-        "young",
-        "Fernandes",
-        "Bruno"
-      ],
-      "summary": "BRUNO FERNANDES spurned a penalty for the second match in a row as AC Milan youngster Lorenzo Torriani read him like a book. The Manchester United skipper fluffed his lines from 12 yards in a shootout win over Leeds on Wednesday, putting his effort wide of the right-hand post. He changed things up a",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea ratings: Morgan Rogers and Joao Pedro combine brilliantly as Marco Palestra’s defensive frailties exposed",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40070383/chelsea-ratings-joao-pedro-morgan-rogers-real-sociedad/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-15T15:36:53+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "Bridge",
-        "ratings",
-        "Morgan",
-        "Rogers"
-      ],
-      "summary": "CHELSEA appear to be peaking at the right time as Xabi Alonso's men picked up a 3-1 win over Real Sociedad in their final pre-season game. The Blues welcomed the La Liga side to Stamford Bridge before they open the season with a west London derby away to Fulham on August 24. Morgan Rogers opened...",
       "summary_cn": ""
     },
     {
@@ -228,8 +171,8 @@
       "published": "2026-08-15T17:00:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Campbell",
         "Charlton",
+        "Campbell",
         "back",
         "beat",
         "Derby"
@@ -254,63 +197,6 @@
       "summary_cn": ""
     },
     {
-      "title": "'A bit surreal' - Penrice joins Rangers from AEK Athens on loan",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75gxqnwqz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-15T16:18:51+00:00",
-      "score": 26.0,
-      "keywords": [
-        "James",
-        "surreal",
-        "Penrice",
-        "joins",
-        "Rangers",
-        "Athens"
-      ],
-      "summary": "Rangers sign left-back James Penrice from Greek champions AEK Athens for on loan with an option to buy.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Sheffield Wednesday chief publicly declares Jamie Vardy interest but transfer faces major stumbling block",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40070841/sheffield-wednesday-chief-declares-jamie-vardy-interest/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-15T16:37:32+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Jamie Vardy",
-        "Vardy",
-        "Sheffield",
-        "Wednesday",
-        "chief",
-        "publicly"
-      ],
-      "summary": "SHEFFIELD WEDNESDAY have fallen on hard times recently, but their owner is hoping that Jamie Vardy will help them get back on their feet. The Owls were relegated from the Championship last season amid dire financial issues that meant players and staff alike went unpaid for large stretches. They ente",
-      "summary_cn": ""
-    },
-    {
-      "title": "Jamal Musiala collapses during Bayern Munich friendly as team-mate Ismael Saibari catches him to save further injuries",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40070920/jamal-musiala-collapses-bayern-munich-ismael-saibari-rb-leipzig/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-15T16:33:41+00:00",
-      "score": 26.0,
-      "keywords": [
-        "young",
-        "Jamal",
-        "Musiala",
-        "collapses",
-        "during",
-        "Bayern"
-      ],
-      "summary": "JAMAL MUSIALA collapsed in the sweltering heat as Bayern Munich hosted RB Leipzig in a pre-season friendly. The youngster's team-mate, Ismael Saibari, spotted him looking worse for wear and managed to sprint over and catch him before he hit the ground. The pair had combined for the final goal of the",
-      "summary_cn": ""
-    },
-    {
       "title": "PL pre-season fixtures and results - how is your side shaping up?",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13546612/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps",
@@ -329,41 +215,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint",
+      "title": "Djed Spence posts emotional Tottenham farewell as England star seals £30million Inter transfer",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/40071446/djed-spence-tottenham-inter-milan-transfer-news/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-15T16:22:07+00:00",
+      "published": "2026-08-15T18:31:28+00:00",
       "score": 25.0,
       "keywords": [
-        "Chelsea",
-        "Fernandez",
-        "booed",
-        "fans",
-        "Alonso",
-        "offers"
+        "Tottenham",
+        "Spurs",
+        "Djed",
+        "Spence",
+        "posts",
+        "emotional"
       ],
-      "summary": "Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Newcastle change shirts during first half of friendly",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-15T16:03:59+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "change",
-        "shirts",
-        "during",
-        "first",
-        "half"
-      ],
-      "summary": "Newcastle United change shirts in the first half of their pre-season friendly against Bayer Leverkusen.",
+      "summary": "DJED SPENCE said Tottenham will always have a place in his heart as he sealed a £30million switch to Inter Milan. Spence, 26, was a first-team regular at Spurs for the past two seasons and became an unlikely hero for England as they finished third at the 2026 World Cup. But with Pedro Porro laying..",
       "summary_cn": ""
     },
     {
@@ -386,22 +253,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Newcastle’s entire starting XI forced to change kit 25 minutes into pre-season friendly vs Bayer Leverkusen",
+      "title": "Pakistan win warm-up match ahead of England Test series",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40070184/newcastle-change-kit-bayer-leverkusen-friendly/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/cricket/news/12040/13573528/pakistan-win-warm-up-match-ahead-of-first-test-against-england-at-headingley-from-wednesday-live-on-sky-sports",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-15T15:31:51+00:00",
-      "score": 25.0,
+      "published": "2026-08-15T18:30:00+00:00",
+      "score": 20.0,
       "keywords": [
-        "Newcastle",
-        "entire",
-        "starting",
-        "forced",
-        "change",
-        "minutes"
+        "Pakistan",
+        "warm",
+        "match",
+        "ahead",
+        "England",
+        "Test"
       ],
-      "summary": "IT HAS been a summer of change at Newcastle - and it was the same when it came to their kit during a showdown with Bayer Leverkusen. The Magpies now have Matthias Jaissle in the dugout following Eddie Howe's decision to quit. And Bruno Guimaraes followed the likes of Anthony Gordon and Sandro Tonali",
+      "summary": "Pakistan warmed up for their first Test against England at Headingley from Wednesday with a seven-wicket win over a County Select XI as Saud Shakeel hit an unbeaten hundred and Imam-ul-Haq scored 80.",
       "summary_cn": ""
     },
     {
