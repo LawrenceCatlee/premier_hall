@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T18:39:03.291439+00:00",
+  "updated_at": "2026-08-16T19:26:46.080776+00:00",
   "items": [
     {
       "title": "Shop window or new chance - what next for Grealish?",
@@ -11,13 +11,32 @@
       "score": 31.0,
       "keywords": [
         "Manchester City",
-        "Jack Grealish",
         "Grealish",
+        "Jack Grealish",
         "Shop",
         "window",
         "chance"
       ],
       "summary": "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mikel Arteta ‘fighting with the Premier League’ to make rule change as he admits ‘sadness’ at leaving players out",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40076939/mikel-arteta-arsenal-squad-premier-league-rule-change/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-16T19:07:19+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel Arteta",
+        "Arteta",
+        "Mikel",
+        "fighting",
+        "Premier"
+      ],
+      "summary": "ARSENAL boss Mikel Arteta has revealed he's fighting the Premier League about the size of matchday squads. The Spaniard was left disappointed after being forced to leave players out of his Community Shield squad and has called for the Prem to allow more spaces. Speaking after his side's 3-0 demoliti",
       "summary_cn": ""
     },
     {
@@ -37,25 +56,6 @@
         "Declan"
       ],
       "summary": "ARSENAL star Declan Rice enjoyed a funny moment with the crowd as he accidentally hit himself in the face with the Community Shield trophy. The Gunners destroyed Man City with a dominant 3-0 victory in the 2026/27 curtain raiser. Following captain Martin Odegaard's trophy lift, each player had a mom",
-      "summary_cn": ""
-    },
-    {
-      "title": "Three key takeaways from Arsenal’s Community Shield victory including Lewis-Skelly’s genius and a reborn Martin Odegaard",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40076393/three-key-takeaways-arsenal-man-city-community-shield/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-16T16:46:36+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "kelly",
-        "Mikel",
-        "Arteta",
-        "Mikel Arteta"
-      ],
-      "summary": "ARSENAL made the perfect start to the new season by dismantling Manchester City. The Gunners were worthy winners in Cardiff, which will fill them with confidence going into the new campaign. And there were plenty of positives for Mikel Arteta to take from the Community Shield going into Friday’s Pre",
       "summary_cn": ""
     },
     {
@@ -152,6 +152,44 @@
       "summary_cn": ""
     },
     {
+      "title": "Norwich struggles to assist king - Tzolis could be Arsenal gem",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyee2rl9yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-16T18:59:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester City",
+        "Norwich",
+        "struggles",
+        "assist",
+        "king"
+      ],
+      "summary": "Christos Tzolis has been a star performer in Arsenal's pre-season and continued that with an impressive performance against Manchester City in the Community Shield.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Como star suffers sickening injury in Liverpool friendly as commentator apologises to fans eating their lunch",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40076938/alberto-dossena-como-horror-injury-liverpool-friendly/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-16T19:17:54+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Como",
+        "star",
+        "suffers",
+        "sickening",
+        "injury"
+      ],
+      "summary": "COMO star Alberto Dossena suffered a horror injury during his side's friendly with Liverpool. The Italian, 27, dislocated his finger in the sickening moment during a behind-closed-doors friendly at Liverpool's AXA training ground on Saturday. The 70-minute game was temporarily halted after the defen",
+      "summary_cn": ""
+    },
+    {
       "title": "Horror stats reveals Man City’s 3-0 defeat to Arsenal in Community Shield was a total shocker for new boss Enzo Maresca",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40076442/man-city-enzo-maresca-stats-arsenal-defeat-community-shield/",
@@ -171,6 +209,25 @@
       "summary_cn": ""
     },
     {
+      "title": "GB denied 2028 Olympics spot as USA and Canada win flag football world titles",
+      "title_cn": "",
+      "url": "https://www.skysports.com/nfl/news/12040/13573812/flag-football-los-angeles-2028-olympics-spots-decided-as-usa-and-canada-claim-mens-and-womens-world-titles",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-16T19:27:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "denied",
+        "Olympics",
+        "spot",
+        "Canada",
+        "flag",
+        "football"
+      ],
+      "summary": "The United States successfully defended the men's title at the flag football world championships on Sunday but lost the women's title to Canada, while Mexico's women and Canada's men earned qualification spots for the 2028 Olympics in Los Angeles.",
+      "summary_cn": ""
+    },
+    {
       "title": "Scotland appoint Pocognoli as head coach",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13573798/sebastien-pocognoli-scotland-appoint-former-monaco-head-coach-to-replace-steve-clarke-on-two-year-contract",
@@ -186,6 +243,40 @@
         "coach"
       ],
       "summary": "Scotland have appointed Sebastien Pocognoli as their new head coach.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Football Daily",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p4vxzr?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-16T18:13:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Football",
+        "Daily"
+      ],
+      "summary": "Aaron Paul is joined by Pat Nevin, Izzy Christiansen and, Chris Coles.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Scotland appoint Pocognoli as successor to Clarke in fresh approach",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/15/scotland-hope-to-name-sebastien-pocognoli-as-new-international-manager",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-16T17:46:42+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scotland",
+        "appoint",
+        "Pocognoli",
+        "successor",
+        "Clarke",
+        "fresh"
+      ],
+      "summary": "Belgian is the first non-Scot in role since Berti Vogts Scotland face Slovenia in Nations League in September The Scottish Football Association has appointed the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager. The 39-year-old, who was sacked by Monaco in June, will become th",
       "summary_cn": ""
     }
   ]
