@@ -1,23 +1,42 @@
 {
-  "updated_at": "2026-08-17T12:58:02.477877+00:00",
+  "updated_at": "2026-08-17T13:47:42.160190+00:00",
   "items": [
     {
-      "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
+      "title": "From Chelsea bomb squad to new chapter at Como for Chalobah",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c141dl0l0p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-17T11:42:09+00:00",
+      "published": "2026-08-17T13:30:18+00:00",
       "score": 31.0,
       "keywords": [
-        "Aston Villa",
-        "Tottenham",
-        "Spurs",
-        "Martínez",
-        "Emiliano Martínez",
-        "goalkeeper"
+        "Chelsea",
+        "Bridge",
+        "bomb",
+        "squad",
+        "chapter",
+        "Como"
       ],
-      "summary": "Vicario has lost No 1 slot at Spurs to Antonin Kinsky Move could become permanent for £8.6m next year Juventus have agreed a deal with Tottenham for Guglielmo Vicario to join on an initial loan after the Italian side decided against a move for Aston Villa’s Emiliano Martínez. Vicario is set to leave",
+      "summary": "After ending his near 20-year association with Chelsea by joining Como 1907 this summer, Trevoh Chalobah credits his time at Stamford Bridge with building his resilience.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Inside Man Utd’s pre-season with £48m signing a hit and stars bonding over party game but big questions still remain",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40083346/man-utd-pre-season-carrick-rashford/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-17T13:13:01+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Dublin",
+        "Inside",
+        "season",
+        "signing"
+      ],
+      "summary": "MANCHESTER UNITED'S pre-season truly hit its stride in its final weeks - but there are still too many loose ends. After quiet pit-stops in Helsinki, Trondheim, Stockholm, and Gothenburg, matches in Wroclaw and Dublin restored the full weight of the club's massive global status.&nbsp; Hundreds gather",
       "summary_cn": ""
     },
     {
@@ -36,102 +55,44 @@
         "chooses",
         "favourite"
       ],
-      "summary": "COLE PALMER is no stranger to becoming a meme. But often there is a shroud of mystery surrounding the Chelsea number 10, which is perhaps, in a way, what makes him so loveable. It's also part of the reason that when he takes part in a rare sit-down interview, that Chelsea fans grab the popcorn...",
+      "summary": "COLE PALMER is no stranger to becoming a meme. But often there is a shroud of mystery surrounding the Chelsea No10, which is perhaps, in a way, what makes him so loveable. It's also part of the reason that when he takes part in a rare sit-down interview Chelsea fans grab the popcorn and wait...",
       "summary_cn": ""
     },
     {
-      "title": "Former Arsenal star Jen Beattie hails team-mates for incredible support during brave battle with breast cancer",
+      "title": "MCC Female Young Broadcaster of the Year joins Hundred final coverage",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081318/jen-beattie-arsenal-breast-cancer-millie-bright/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T10:59:10+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Beattie",
-        "Former",
-        "star",
-        "hails",
-        "team"
-      ],
-      "summary": "FORMER Arsenal star Jen Beattie MBE praised her team-mates for their incredible support during her breast cancer journey – and claimed her experience led to lasting change among the players. The Scottish defender was left in “complete shock” when she was diagnosed in October 2020, aged 29, while the",
-      "summary_cn": ""
-    },
-    {
-      "title": "See Jose Mourinho and Real Madrid with hotel and ticket packages for La Liga games at Bernabeu from just £359pp",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39805767/real-madrid-tickets-la-liga-santiago-bernabeu-mourinho-bellingham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:04:57+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Jose",
-        "Mourinho",
-        "Real",
-        "Madrid",
-        "hotel",
-        "ticket"
-      ],
-      "summary": "FOOTBALL fans can look forward to the ultimate Spanish getaway this season to see Jose Mourinho's return to Real Madrid. We have teamed up with one of the UK's top sports travel operators to offer official ticket and hotel packages to watch Real Madrid live this season. See Real Madrid in the Bernab",
-      "summary_cn": ""
-    },
-    {
-      "title": "Paris Saint-Germain ticket and hotel deals for Ligue 1 games in new season from just £319pp at Parc des Princes",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39584577/psg-ticket-hotel-packages-ligue-1-parc-des-princes/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:04:51+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Paris",
-        "Saint",
-        "Germain",
-        "ticket",
-        "hotel",
-        "deals"
-      ],
-      "summary": "FOOTBALL fans can look forward to the ultimate city break in Paris with a trip to the French capital to see Champions League winners PSG. Official ticket and hotel packages to watch the European champions Paris Saint-Germain have gone on sale. See PSG live Supporters have a golden opportunity to exp",
-      "summary_cn": ""
-    },
-    {
-      "title": "See Barcelona live in the Nou Camp with official match ticket and 2-night hotel deals from only £309pp",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39805720/barcelona-live-spain-match-ticket-hotel-nou-camp/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:04:47+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Barcelona",
-        "live",
-        "Camp",
-        "official",
-        "match",
-        "ticket"
-      ],
-      "summary": "FOOTBALL fans can look forward to the ultimate Spanish city break this season to see Barcelona in the iconic Nou Camp stadium. Supporters have a golden opportunity to experience the amazing stadium and witness some of the world's most exciting football talent, including Lamine Yamal, Pedri, Raphinha",
-      "summary_cn": ""
-    },
-    {
-      "title": "Dean to captain England against Ireland in ODI series",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13573983/charlie-dean-to-captain-england-women-against-ireland-in-three-match-odi-series",
+      "url": "https://www.skysports.com/cricket/news/12040/13574033/rosa-simkin-2026-mcc-female-young-broadcaster-of-the-year-winner-joins-sky-sports-for-the-hundred-final-at-lords",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-17T11:35:00+00:00",
+      "published": "2026-08-17T13:31:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Ireland",
-        "Dean",
-        "captain",
-        "England",
-        "against",
-        "series"
+        "Young",
+        "Female",
+        "Broadcaster",
+        "Year",
+        "joins",
+        "Hundred"
       ],
-      "summary": "Charlie Dean will captain England Women against Ireland Women in September for the three-match ODI series.",
+      "summary": "The MCC Female Young Broadcaster of the Year for 2026, Rosa&#160;Simkin,&#160;received the ultimate competition prize when joining Sky Sports' live coverage of The Hundred final at Lord's on Sunday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "No Draper as Fery named in GB's Davis Cup squad",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13574042/davis-cup-arthur-fery-named-in-great-britains-squad-with-jack-draper-absent",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-17T13:48:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Davis",
+        "Draper",
+        "Fery",
+        "named",
+        "squad"
+      ],
+      "summary": "Arthur Fery has been named in the Great Britain Davis Cup team for the home qualifying tie against Ecuador next month.",
       "summary_cn": ""
     },
     {
@@ -144,8 +105,8 @@
       "score": 26.0,
       "keywords": [
         "Shearer",
-        "March",
         "Alan Shearer",
+        "March",
         "Alan",
         "gives",
         "word"
@@ -211,40 +172,78 @@
       "summary_cn": ""
     },
     {
-      "title": "Premier League 2026-27 preview No 12: Ipswich",
+      "title": "Man City in advanced talks for £85m Bouaddi, 18",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/premier-league-2026-27-preview-no-12-ipswich",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-17T11:00:53+00:00",
+      "published": "2026-08-17T13:44:43+00:00",
       "score": 25.0,
       "keywords": [
-        "Ipswich",
         "Manchester City",
-        "Premier",
-        "League",
-        "preview"
+        "Man City",
+        "City",
+        "advanced",
+        "talks",
+        "Bouaddi"
       ],
-      "summary": "They have a new manager and a higher net spend than Manchester City, but will that be enough for Ipswich to avoid another yo-yoing relegation? Guardian writers’ predicted position: 19th (NB: this is not necessarily Will Unwin’s prediction but the average of our writers’ tips) Last season’s position:",
+      "summary": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
       "summary_cn": ""
     },
     {
-      "title": "Martin Ødegaard happy with Arsenal’s new duo and says team hungry for title defence",
+      "title": "£2.14bn and counting - why Premier League spending could set new record",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/martin-odegaard-arsenal-new-signings-premier-league-title-defence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-17T13:07:16+00:00",
+      "score": 25.0,
+      "keywords": [
+        "counting",
+        "Premier",
+        "League",
+        "spending",
+        "record"
+      ],
+      "summary": "Premier League clubs have spent £2.14bn this summer, with huge sums moving between top-flight rivals. BBC Sport examines the possibility of a new spending record.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal hammer Manchester City and the EFL kicks off | Football Weekly video",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/video/2026/aug/17/arsenal-hammer-manchester-city-and-the-efl-kicks-off-football-weekly-video",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-17T11:00:52+00:00",
+      "published": "2026-08-17T12:46:55+00:00",
       "score": 25.0,
       "keywords": [
         "Arsenal",
         "Manchester City",
-        "Martin",
-        "happy",
-        "team",
-        "hungry"
+        "hammer",
+        "Manchester",
+        "City",
+        "kicks"
       ],
-      "summary": "Captain’s praise for new signings Guimarães and Tzolis Arsenal kick off new season against Coventry on Friday Martin Ødegaard has praised the instant impact made by new signings Bruno Guimarães and Christos Tzolis in Arsenal’s Community Shield victory over Manchester City on Sunday and believes the ",
+      "summary": "Max Rushden is joined by Will Unwin, Sanny Rudravajhala and Ben Fisher as Arsenal coast past Manchester City to win the Community Shield. Continue reading...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sergio Busquets, 38, gets first job in coaching as he becomes assistant to Chelsea title winner",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40083021/sergio-busquets-coaching-job-chelsea-assistant/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-17T12:59:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Sergio",
+        "Busquets",
+        "gets",
+        "first",
+        "coaching"
+      ],
+      "summary": "BARCELONA legend Sergio Busquets has taken up his first role in coaching. The iconic Spanish midfielder, 38, retired from professional football last December after a two-year stint at Inter Miami. But now he is beginning the next chapter of his footballing story as he looks to move into coaching. It",
       "summary_cn": ""
     },
     {
@@ -305,117 +304,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Christos Tzolis looks like £34m bargain for Arsenal as man who brought him to England reveals why he flopped at Norwich",
+      "title": "New Scotland head coach Pocognoli vows to make fans 'smile'",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40082008/christos-tzolis-looks-like-34m-bargain-for-arsenal-ch/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:41:03+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Christos",
-        "Tzolis",
-        "looks",
-        "like"
-      ],
-      "summary": "CHRISTOS TZOLIS is looking like a £34million bargain for Arsenal. The Greek international, a summer arrival from Club Brugge, continued his promising pre-season form with two assists in Sunday’s 3-0 win over Manchester City in the Community Shield. Tzolis, 24, will be hoping to start Friday’s Premie",
-      "summary_cn": ""
-    },
-    {
-      "title": "Premier League club launch £900 Michelin-recommended hospitality experience for fans at their stadium",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081970/fulham-craven-cottage-hospitality-michelin-star/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:37:46+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "Premier",
-        "League",
-        "club",
-        "launch"
-      ],
-      "summary": "FULHAM are set to launch a £900 Michelin-recognised hospitality package at Craven Cottage this season. The swanky experience is expected to debut at their Premier League season opener against Chelsea next Monday. Alvaro Arbeloa's side have welcomed hospitality company Constance into Craven Cottage. ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Forgotten Liverpool star dubbed ‘next Sergio Busquets’ offered escape route after last playing for club 834 days ago",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081586/stefan-bajcetic-liverpool-getafe-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:15:38+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Forgotten",
-        "star",
-        "dubbed",
-        "next",
-        "Sergio"
-      ],
-      "summary": "FORGOTTEN Liverpool star Stefan Bajcetic could be set for a return to Spain after an injury-plagued few years. The midfielder burst onto the scene in late 2022 making his debut as an 18-year-old and going on to play 19 times that season. But a long-term hamstring issue has forced him down the peckin",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Big struggle’ – Martin Odegaard opens up over horror injury nightmare after inspiring Arsenal to Man City thrashing",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081306/odegaard-horror-injury-nightmare-arsenal-thrash-man-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:14:34+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Man City",
-        "struggle",
-        "Martin",
-        "Odegaard",
-        "opens"
-      ],
-      "summary": "MARTIN ODEGAARD believes he is back to his best after a “big struggle” with injuries last season. The Arsenal captain led his side to the Premier League title, but knee and shoulder problems restricted him to just 23 starts. The Norwegian, 27, recovered to shine at the World Cup this summer and he c",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea ‘demand nearly £100MILLION to sell Pedro Neto’ with Man City boss Enzo Maresca keen on transfer reunion",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081548/chelsea-pedro-neto-man-city-enzo-maresca-transfer-news/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:04:42+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "Man City",
-        "demand",
-        "nearly",
-        "sell"
-      ],
-      "summary": "CHELSEA have told Manchester City to cough up almost £100MILLION for Pedro Neto, according to reports. SunSport revealed earlier this month that City were planning to launch a formal bid for the flying winger. But Chelsea are said to have made it clear that Neto, 26, will not be sold on the cheap. T",
-      "summary_cn": ""
-    },
-    {
-      "title": "Hussain: Quality of Hundred players a lot better than Blast",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13573973/the-hundred-nasser-hussain-praises-quality-of-2026-tournament-but-criticises-packed-schedule-ahead-of-pakistan-test-series",
+      "url": "https://www.skysports.com/football/news/12040/13573947/sebastien-pocognoli-scotlands-new-head-coach-vows-to-make-tartan-army-smile-by-bringing-more-success",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-17T10:59:00+00:00",
+      "published": "2026-08-17T12:00:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Hussain",
-        "Quality",
-        "Hundred",
-        "players",
-        "better",
-        "Blast"
+        "Scotland",
+        "head",
+        "coach",
+        "Pocognoli",
+        "vows",
+        "make"
       ],
-      "summary": "Nasser Hussain has praised the quality of both domestic and international players in the Hundred, highlighting its strength compared with the Vitality Blast.",
+      "summary": "\"I will be one of yours, and I will do my best to make the supporters smile.\"",
       "summary_cn": ""
     },
     {
@@ -456,6 +360,24 @@
       "summary_cn": ""
     },
     {
+      "title": "Send us your Scotland World Cup memories of Boston",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04k6nqgxdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-17T13:33:23+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Send",
+        "Scotland",
+        "World",
+        "memories",
+        "Boston"
+      ],
+      "summary": "BBC Scotland is looking for Scotland supporters to send us their videos, audio and memories of that magical week or so in Boston at the World Cup.",
+      "summary_cn": ""
+    },
+    {
       "title": "Bet £5 on football and Get £5 free bet every month of the season with Sky Bet",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40081687/bet-football-get-free-bet-every-month-sky-bet/",
@@ -471,44 +393,6 @@
         "season"
       ],
       "summary": "SKY BET have a beauty of an offer if you're looking for free bets throughout this new season.... New customers who sign-up and stake £5 on football before September 30th will receive a £5 free bet every month of the new season until May 1st! Bet £5, Get a £5 free bet every month! Sky...",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Such a classy woman’ – Glamorous football presenter Eva Murati wows fans in smouldering summer bikini",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081664/eva-murati-wows-fans-bikini-greece/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:20:26+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Such",
-        "classy",
-        "woman",
-        "Glamorous",
-        "football",
-        "presenter"
-      ],
-      "summary": "GORGEOUS football presenter Eva Murati wowed fans as she celebrated a special day in the sun in a flattering bikini. The Albanian journalist and model is a regular fixture on Champions League coverage in her home country. But she is enjoying her time off this summer by taking a trip to Paxos in Gree",
-      "summary_cn": ""
-    },
-    {
-      "title": "Cardiff vs Wrexham: Bet £10 & Get £50 in free bets for football, plus 63/1 BuildABet tip",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081803/cardiff-vs-wrexham-free-bets-buildabet-tip/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:05:12+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Cardiff",
-        "Wrexham",
-        "free",
-        "bets",
-        "football",
-        "plus"
-      ],
-      "summary": "CARDIFF CITY and Wrexham collide in the Championship tonight, kicking off their campaigns against a fellow Welsh side. New customers who sign-up and stake just £10 on football - including tonight's game, will be credited with £30 in free BuildABets and £20 in free accumulator bets! BuildABet tips He",
       "summary_cn": ""
     }
   ]
