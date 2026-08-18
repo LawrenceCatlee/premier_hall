@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Barcelona sign Rodri from Man City in £65m deal",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-18T16:57:18+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Rodri",
+        "Barcelona",
+        "sign",
+        "City"
+      ],
+      "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-18T17:34:17.533968+00:00"
+    },
+    {
+      "title": "Newcastle in talks to sign Man City star Nico Gonzalez as Matthias Jaissle desperately looks to add to squad",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40097933/newcastle-transfer-man-city-nico-gonzalez/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-18T17:12:34+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Newcastle",
+        "Man City",
+        "talks",
+        "sign",
+        "City"
+      ],
+      "summary": "NEWCASTLE are in talks to sign Nico Gonzalez from Manchester City, reports suggest. The Magpies are looking to add reinforcements after a number of their best players were poached by rival clubs. Toon have seen star midfielders Sandro Tonali and Bruno Guimaraes depart for north London, going to Tott",
+      "summary_cn": "",
+      "fetched_at": "2026-08-18T17:34:17.533968+00:00"
+    },
+    {
       "title": "Maguire: I want to be greedy about winning trophies",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13574426/harry-maguire-man-utd-defender-on-winning-trophies-new-signings-michael-carrick-and-the-future-with-ayden-heaven-and-leny-yoro",
@@ -39575,46 +39615,6 @@
         "putt"
       ],
       "summary": "Charley Hull races up the leaderboard after holing a birdie putt from off the green at the AIG Women's Open.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-30T18:23:20.366457+00:00"
-    },
-    {
-      "title": "Players guilty of discrimination face 10-game ban under new FA rules",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13568548/players-found-guilty-of-discrimination-face-10-game-ban-under-new-fa-rules",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-07-30T18:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Players",
-        "guilty",
-        "discrimination",
-        "face",
-        "game",
-        "under"
-      ],
-      "summary": "Players found guilty of discrimination face serving at least 10-game bans under enhanced Football Association rules.",
-      "summary_cn": "",
-      "fetched_at": "2026-07-30T18:23:20.366457+00:00"
-    },
-    {
-      "title": "FA raises minimum ban for racism and other forms of discrimination to 10 matches",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/jul/30/fa-raise-minimum-ban-for-discrimination-to-10-matches",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-07-30T16:34:53+00:00",
-      "score": 20.0,
-      "keywords": [
-        "raises",
-        "minimum",
-        "racism",
-        "other",
-        "forms",
-        "discrimination"
-      ],
-      "summary": "Discrimination ‘continues to be challenge’ Current minimum ban is six matches The FA is to increase the minimum punishment for discriminatory behaviour to 10 matches, in an attempt to counteract behaviour it says “continues to be a challenge across the game”. The changes will come into force at the ",
       "summary_cn": "",
       "fetched_at": "2026-07-30T18:23:20.366457+00:00"
     }
