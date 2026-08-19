@@ -1,63 +1,6 @@
 {
-  "updated_at": "2026-08-19T15:38:57.999619+00:00",
+  "updated_at": "2026-08-19T16:39:09.705383+00:00",
   "items": [
-    {
-      "title": "Sainz signs multi-year contract extension with Williams",
-      "title_cn": "",
-      "url": "https://www.skysports.com/f1/news/12040/13574716/carlos-sainz-williams-driver-signs-multi-year-contract-extension-to-remain-with-team-in-2027-and-beyond",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-19T14:10:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Williams",
-        "Sainz",
-        "signs",
-        "multi",
-        "year",
-        "contract"
-      ],
-      "summary": "Carlos Sainz has signed a multi-year contract extension with Williams that will keep him with the team for the 2027 Formula 1 season and beyond.",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-19T13:42:13+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Rodri",
-        "doubted",
-        "Mourinho",
-        "Real",
-        "Madrid",
-        "want"
-      ],
-      "summary": "Mourinho: Madrid made midfielder ‘a very good offer’ Spain captain chose to join Barcelona instead for £65.4m José Mourinho has confirmed Real Madrid made Rodri an offer and that he spoke to him about joining the club, but claimed the player’s doubts about the transfer made him unsure about signing ",
-      "summary_cn": ""
-    },
-    {
-      "title": "West Ham star who ‘refused to play in relegation decider after confronting boss Nuno’ finally agrees transfer exit",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40102897/west-ham-transfer-todibo-marseille/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T13:57:39+00:00",
-      "score": 33.0,
-      "keywords": [
-        "West Ham",
-        "West",
-        "star",
-        "refused",
-        "play",
-        "relegation"
-      ],
-      "summary": "JEAN-CLAIR TODIBO is on the move after months of speculation and absence from the West Ham squad. The French defender notably refused to be a part of the Hammers squad for the final game of the Premier League season at home to Leeds. Despite a 3-0 victory, West Ham were relegated to the Championship",
-      "summary_cn": ""
-    },
     {
       "title": "Arsenal agree £51m deal to sign Aston Villa's Konsa",
       "title_cn": "",
@@ -78,81 +21,6 @@
       "summary_cn": ""
     },
     {
-      "title": "Liverpool latest: Inter Milan in advanced talks over Jones",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-19T14:20:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Jones",
-        "latest",
-        "Inter",
-        "Milan",
-        "advanced"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-19T13:55:18+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Konsa",
-        "Ezri Konsa",
-        "agree",
-        "plus"
-      ],
-      "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd's decision to make Baleba their 'third midfielder'",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clylk1wexgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-19T14:35:36+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Michael Carrick",
-        "Carrick",
-        "decision",
-        "make"
-      ],
-      "summary": "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Inter close in on £30m deal for Liverpool's Jones",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-19T14:23:20+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Jones",
-        "Inter",
-        "close",
-        "deal"
-      ],
-      "summary": "Italian champions Inter Milan are closing in on a deal worth 35m euros (£30m) for Liverpool midfielder Curtis Jones.",
-      "summary_cn": ""
-    },
-    {
       "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
@@ -164,30 +32,68 @@
         "Arsenal",
         "Aston Villa",
         "Konsa",
+        "Ollie Watkins",
         "Watkins",
-        "Ezri Konsa",
-        "Ollie Watkins"
+        "Ezri Konsa"
       ],
       "summary": "Defender to provide cover for injured Saliba and Timber Villa braced for fresh bid from Al-Hilal for Ollie Watkins Arsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are o",
       "summary_cn": ""
     },
     {
-      "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
+      "title": "Inter hold talks with Liverpool over deal for £30m-rated Curtis Jones",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez",
+      "url": "https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-19T14:23:22+00:00",
+      "published": "2026-08-19T15:32:15+00:00",
       "score": 31.0,
       "keywords": [
-        "Martínez",
-        "Emiliano Martínez",
-        "Japan",
-        "Zion",
-        "Suzuki",
-        "takes"
+        "Liverpool",
+        "Jones",
+        "Inter",
+        "hold",
+        "talks",
+        "deal"
       ],
-      "summary": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawag",
+      "summary": "Midfielder has been a target for Italians since January Jones in the final year of his contract at Anfield Inter are in talks with Liverpool over a deal for Curtis Jones, with the 25-year-old expected to leave his boyhood club should the Italian champions offer around £30m. Jones has been a target f",
+      "summary_cn": ""
+    },
+    {
+      "title": "Nicolas Jackson and Liam Delap among TWELVE players training away from Chelsea first-team with futures unclear",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40107950/nicolas-jackson-liam-delap-train-chelsea-aston-villa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T15:50:48+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Delap",
+        "Nicolas",
+        "Jackson",
+        "Liam",
+        "among"
+      ],
+      "summary": "LIAM DELAP and Nicolas Jackson are training separately from the main Chelsea squad with their futures unclear. A group of up to 12 Blues players are working away from Xabi Alonso's main squad, either ahead of moves away or as they build up fitness. Having been heavily criticised for their 'bomb squa",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal have flexed their muscles by signing Ezri Konsa, the boyhood Tottenham fan who is best pals with Bukayo Saka",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40107975/arsenal-sign-ezri-konsa-bukayo-saka-tottenham/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T15:46:51+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Tottenham",
+        "Konsa",
+        "Mikel Arteta",
+        "Ezri Konsa",
+        "Arteta"
+      ],
+      "summary": "ARSENAL had the meanest defence in the Premier League last season. But if their rivals were hoping for a chink in the champions’ armour this term, then they need to think again. Mikel Arteta has responded to William Saliba being ruled out for months with a back injury by dipping into the transfer ma",
       "summary_cn": ""
     },
     {
@@ -210,22 +116,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Jose Mourinho reveals how he convinced Vinicus Jr to reject record Arsenal tranfer and sign new Real Madrid contract",
+      "title": "Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40104503/jose-mourinho-vinicius-jr-reject-arsenal-real-madrid-transfer/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-19T13:58:33+00:00",
-      "score": 31.0,
+      "published": "2026-08-19T16:05:18+00:00",
+      "score": 26.0,
       "keywords": [
-        "Arsenal",
-        "Mikel Arteta",
-        "Arteta",
-        "Mikel",
-        "Jose",
-        "Mourinho"
+        "Howard",
+        "Referees",
+        "chief",
+        "Webb",
+        "really",
+        "troubled"
       ],
-      "summary": "JOSE MOURINHO reveals how he convinced Vinicius Jr to snub a mega-money move to Arsenal and stay at Real madrid. The Brazil forward's contract was running low at the Bernabeu, leading to interest from top clubs, including Mikel Arteta's Gunners. The Premier League champions had their sights set on t",
+      "summary": "USA striker missed no matches after sending-off ‘Far too often now decisions are viewed as corrupt’ Howard Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief in refereeing consp",
       "summary_cn": ""
     },
     {
@@ -248,60 +154,41 @@
       "summary_cn": ""
     },
     {
-      "title": "Serie A to be shown live for FREE on UK TV – but commentary may not be in English",
+      "title": "Reijnders leaves Man City for Al-Qadsiah in £52m deal",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40106216/serie-a-shown-live-free-bbc/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-19T14:27:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Serie",
-        "shown",
-        "live",
-        "FREE",
-        "commentary",
-        "English"
-      ],
-      "summary": "BIG-NAME Premier League stars have flocked to Serie A this summer - and football fans will now have the chance to watch them in action for FREE. The BBC, which is at risk of a mass exodus from Match of the Day due to tension behind the scenes, is set to broadcast 38 clashes in...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Manchester City Dream Team preview: Top stars, smart options & potential flops",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40105846/manchester-city-dream-team-preview-stars-flops/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T14:13:11+00:00",
+      "published": "2026-08-19T16:01:32+00:00",
       "score": 25.0,
       "keywords": [
         "Manchester City",
-        "Manchester",
+        "Man City",
+        "Reijnders",
+        "leaves",
         "City",
-        "Dream",
-        "Team",
-        "preview"
+        "Qadsiah"
       ],
-      "summary": "ENZO MARESCA has the unenviable task of following in Pep Guardiola's footsteps at Manchester City this season. The Etihad has been the primary source of Dream Team points over the last decade and managers have come to expect a lot from their assets in sky blue. PLAY DREAM TEAM NOW: £100,000 PRIZE PO",
+      "summary": "Netherlands midfielder Tijjani Reijnders completes a £52m move to Saudi Arabian side Al-Qadsiah from Manchester City.",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal, Man City or Man Utd to win the title? Premier League 2026/27 final table predicted by SunSport reporters",
+      "title": "Rangers eye striker after Nedeljkovic joins from Villa",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40097018/premier-league-table-prediction-sunsport-reporters/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2mz3j402zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-19T14:01:00+00:00",
+      "published": "2026-08-19T15:52:49+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
-        "Man City",
-        "Man Utd",
-        "City",
-        "title",
-        "Premier"
+        "Aston Villa",
+        "Rangers",
+        "striker",
+        "Nedeljkovic",
+        "joins",
+        "Villa"
       ],
-      "summary": "THE Premier League is back, but who will come out on top this time around? Title talk has already swept across the nation as football fever seeps back into the national psyche after an emotional England World Cup journey. There are the defending champions Arsenal who are the team to beat this year, ",
+      "summary": "Kosta Nedeljkovic joins Rangers on a season-long loan from Aston Villa, with the Ibrox club holding a \"conditional obligation\" to buy the 20-year-old Serbia defender.",
       "summary_cn": ""
     },
     {
@@ -320,6 +207,43 @@
         "glory"
       ],
       "summary": "Item delivered for Andrew Balding and the sponsors to land a 10-1 surprise in the Juddmonte International at York &#8211; with the big two of Constitution River and Ombudsman only third and fourth respectively.",
+      "summary_cn": ""
+    },
+    {
+      "title": "McInnes backs Shankland for 'big influence' at Rangers",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddj835v4gno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-19T15:39:47+00:00",
+      "score": 20.0,
+      "keywords": [
+        "McInnes",
+        "backs",
+        "Shankland",
+        "influence",
+        "Rangers"
+      ],
+      "summary": "Lawrence Shankland is \"too good not to score regularly\" and is sure to have a \"big influence\" at Rangers whether or not he starts games, insists manager Derek McInnes.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-19T14:51:57+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Football",
+        "Daily",
+        "Sensible",
+        "soccer",
+        "football",
+        "clubs"
+      ],
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only rem",
       "summary_cn": ""
     }
   ]
