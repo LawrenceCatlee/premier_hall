@@ -1,79 +1,212 @@
 {
-  "updated_at": "2026-08-19T13:00:47.196455+00:00",
+  "updated_at": "2026-08-19T14:41:14.270891+00:00",
   "items": [
     {
-      "title": "Arsenal in advanced talks to sign Villa's Konsa",
+      "title": "Sainz signs multi-year contract extension with Williams",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender",
+      "url": "https://www.skysports.com/f1/news/12040/13574716/carlos-sainz-williams-driver-signs-multi-year-contract-extension-to-remain-with-team-in-2027-and-beyond",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-19T11:36:00+00:00",
-      "score": 31.0,
+      "published": "2026-08-19T14:10:00+00:00",
+      "score": 34.0,
       "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Ezri Konsa",
-        "Konsa",
-        "advanced",
-        "talks"
+        "Williams",
+        "Sainz",
+        "signs",
+        "multi",
+        "year",
+        "contract"
       ],
-      "summary": "Arsenal are in advanced talks with Aston Villa to sign Ezri Konsa.",
+      "summary": "Carlos Sainz has signed a multi-year contract extension with Williams that will keep him with the team for the 2027 Formula 1 season and beyond.",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal pushing on with deal to sign Villa's Konsa",
+      "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-19T13:42:13+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Rodri",
+        "doubted",
+        "Mourinho",
+        "Real",
+        "Madrid",
+        "want"
+      ],
+      "summary": "Mourinho: Madrid made midfielder ‘a very good offer’ Spain captain chose to join Barcelona instead for £65.4m José Mourinho has confirmed Real Madrid made Rodri an offer and that he spoke to him about joining the club, but claimed the player’s doubts about the transfer made him unsure about signing ",
+      "summary_cn": ""
+    },
+    {
+      "title": "West Ham star who ‘refused to play in relegation decider after confronting boss Nuno’ finally agrees transfer exit",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40102897/west-ham-transfer-todibo-marseille/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:57:39+00:00",
+      "score": 33.0,
+      "keywords": [
+        "West Ham",
+        "West",
+        "star",
+        "refused",
+        "play",
+        "relegation"
+      ],
+      "summary": "JEAN-CLAIR TODIBO is on the move after months of speculation and absence from the West Ham squad. The French defender notably refused to be a part of the Hammers squad for the final game of the Premier League season at home to Leeds. Despite a 3-0 victory, West Ham were relegated to the Championship",
+      "summary_cn": ""
+    },
+    {
+      "title": "Premier League club to transform 32,609-seater stadium in bid to ‘attract world’s best talent’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104720/coventry-city-stadium-investment-legends-global/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:34:07+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "club",
+        "transform",
+        "seater",
+        "stadium"
+      ],
+      "summary": "COVENTRY CITY chief Doug King vowed to \"attract the world's best talent\" after announcing huge investment into the club's Coventry Building Society Arena home. The Sky Blues today announced that they have teamed up with Legends Global to invest more than £15million over the next three years. Coventr",
+      "summary_cn": ""
+    },
+    {
+      "title": "Joao Pedro ‘snubs Arsenal interest as he agrees lucrative new six-year Chelsea deal’ after incredible pre-season form",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104905/joao-pedro-snubs-arsenal-agrees-chelsea-deal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:01:42+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Joao",
+        "Pedro",
+        "snubs",
+        "interest"
+      ],
+      "summary": "JOAO PEDRO has signed a new extension with Chelsea - killing transfer interest from Arsenal. The Brazilian forward enjoyed a stellar campaign with the Blues last season. And now the 24-year-old has been rewarded with a new contract that will see him get a pay rise, according to Fabrizio Romano. The ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool latest: Inter Milan in advanced talks over Jones",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-19T14:20:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Jones",
+        "latest",
+        "Inter",
+        "Milan",
+        "advanced"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-19T11:06:20+00:00",
+      "published": "2026-08-19T13:55:18+00:00",
       "score": 31.0,
       "keywords": [
         "Arsenal",
         "Aston Villa",
-        "Ezri Konsa",
         "Konsa",
-        "pushing",
-        "deal"
+        "Ezri Konsa",
+        "agree",
+        "plus"
       ],
-      "summary": "Arsenal refocus their efforts on negotiating a deal with Aston Villa to sign defender Ezri Konsa.",
+      "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
       "summary_cn": ""
     },
     {
-      "title": "Is Haaland worth the £15.5m price tag on FPL?",
+      "title": "Man Utd's decision to make Baleba their 'third midfielder'",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgx0dngdl0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clylk1wexgno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-19T11:32:34+00:00",
+      "published": "2026-08-19T14:35:36+00:00",
       "score": 31.0,
       "keywords": [
-        "Manchester City",
-        "Haaland",
-        "Erling Haaland",
-        "worth",
-        "price"
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "decision",
+        "make"
       ],
-      "summary": "FPL expert Gianni Buttice weighs up whether Manchester City striker Erling Haaland is worth his £15.5m price tag on the game.",
+      "summary": "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
       "summary_cn": ""
     },
     {
-      "title": "‘He hesitated’ – Jose Mourinho reveals Rodri had ‘doubts’ about Real Madrid before sealing transfer to Barcelona",
+      "title": "Inter close in on £30m deal for Liverpool's Jones",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40103823/mourinho-rodri-doubted-real-madrid-barcelona/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-19T11:33:13+00:00",
+      "published": "2026-08-19T14:23:20+00:00",
       "score": 31.0,
       "keywords": [
-        "Manchester City",
-        "Rodri",
-        "hesitated",
-        "Jose",
-        "Mourinho",
-        "reveals"
+        "Liverpool",
+        "Jones",
+        "Inter",
+        "close",
+        "deal"
       ],
-      "summary": "REAL MADRID boss Jose Mourinho has opened up on the reasons behind Rodri's snub of the Spanish giants. The World Cup winner departed Manchester City for Barcelona after a glittering career in the north west. But things might have ended up very differently for the midfielder, who just days earlier ha",
+      "summary": "Italian champions Inter Milan are closing in on a deal worth 35m euros (£30m) for Liverpool midfielder Curtis Jones.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-19T14:23:22+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Martínez",
+        "Emiliano Martínez",
+        "Japan",
+        "Zion",
+        "Suzuki",
+        "takes"
+      ],
+      "summary": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawag",
+      "summary_cn": ""
+    },
+    {
+      "title": "Jose Mourinho reveals how he convinced Vinicus Jr to reject record Arsenal tranfer and sign new Real Madrid contract",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104503/jose-mourinho-vinicius-jr-reject-arsenal-real-madrid-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:58:33+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel",
+        "Arteta",
+        "Mikel Arteta",
+        "Jose",
+        "Mourinho"
+      ],
+      "summary": "JOSE MOURINHO reveals how he convinced Vinicius Jr to snub a mega-money move to Arsenal and stay at Real madrid. The Brazil forward's contract was running low at the Bernabeu, leading to interest from top clubs, including Mikel Arteta's Gunners. The Premier League champions had their sights set on t",
       "summary_cn": ""
     },
     {
@@ -96,209 +229,117 @@
       "summary_cn": ""
     },
     {
-      "title": "PLATINUM DUCK! Robinson strikes with very first ball of the Test!",
+      "title": "Chelsea latest: Badiashile set to complete Napoli move",
       "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13574659/platinum-duck-robinson-strikes-with-very-first-ball-of-the-test",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-19T11:18:00+00:00",
-      "score": 26.0,
+      "published": "2026-08-19T14:41:00+00:00",
+      "score": 25.0,
       "keywords": [
-        "Robinson",
-        "PLATINUM",
-        "DUCK",
-        "strikes",
-        "very",
-        "first"
+        "Chelsea",
+        "latest",
+        "Badiashile",
+        "complete",
+        "Napoli",
+        "move"
       ],
-      "summary": "Ollie Robinson took a wicket with the very first ball of England's Test match against Pakistan.",
+      "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "Savinho, Gakpo, Neto, Marmoush! Spurs in market to sign THREE new forwards",
+      "title": "Serie A to be shown live for FREE on UK TV – but commentary may not be in English",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574668/tottenham-transfer-news-spurs-considering-cody-gakpo-savinho-omar-marmoush-and-pedro-neto-in-search-for-three-new-forwards",
-      "source": "Sky Sports",
+      "url": "https://www.thesun.co.uk/sport/40106216/serie-a-shown-live-free-bbc/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-19T11:49:00+00:00",
+      "published": "2026-08-19T14:27:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Serie",
+        "shown",
+        "live",
+        "FREE",
+        "commentary",
+        "English"
+      ],
+      "summary": "BIG-NAME Premier League stars have flocked to Serie A this summer - and football fans will now have the chance to watch them in action for FREE. The BBC, which is at risk of a mass exodus from Match of the Day due to tension behind the scenes, is set to broadcast 38 clashes in...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Manchester City Dream Team preview: Top stars, smart options & potential flops",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40105846/manchester-city-dream-team-preview-stars-flops/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T14:13:11+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Manchester",
+        "City",
+        "Dream",
+        "Team",
+        "preview"
+      ],
+      "summary": "ENZO MARESCA has the unenviable task of following in Pep Guardiola's footsteps at Manchester City this season. The Etihad has been the primary source of Dream Team points over the last decade and managers have come to expect a lot from their assets in sky blue. PLAY DREAM TEAM NOW: £100,000 PRIZE PO",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal, Man City or Man Utd to win the title? Premier League 2026/27 final table predicted by SunSport reporters",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40097018/premier-league-table-prediction-sunsport-reporters/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T14:01:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Man City",
+        "Man Utd",
+        "City",
+        "title",
+        "Premier"
+      ],
+      "summary": "THE Premier League is back, but who will come out on top this time around? Title talk has already swept across the nation as football fever seeps back into the national psyche after an emotional England World Cup journey. There are the defending champions Arsenal who are the team to beat this year, ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Thomas Frank and three Premier League icons join MOTD coverage as BBC announce launch of FOUR new football shows",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104384/thomas-frank-toby-alderweireld-robbie-keane-ashley-young-motd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:14:46+00:00",
       "score": 25.0,
       "keywords": [
         "Tottenham",
         "Spurs",
-        "Savinho",
-        "Gakpo",
-        "Neto",
-        "Marmoush"
+        "Thomas",
+        "Frank",
+        "Premier",
+        "League"
       ],
-      "summary": "Tottenham&#160;hope to sign as many as three new forwards before the transfer deadline.",
+      "summary": "FORMER Tottenham chief Thomas Frank has been named among four new Match of the Day pundits ahead of the Premier League's return. The Dane, 52, was sacked by Spurs in February and has been out of management since. But Frank has now penned a deal to join the BBC's flagship show, which is under threat.",
       "summary_cn": ""
     },
     {
-      "title": "Man Utd's new midfielder? | Baleba's Premier League best bits for Brighton!",
+      "title": "Man Utd, Arsenal and Liverpool kits for DOGS go on sale as adidas release amazing photos from model pooch shoot",
       "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13574661/manchester-uniteds-new-midfielder-carlos-balebas-premier-league-best-bits-for-brighton",
-      "source": "Sky Sports",
+      "url": "https://www.thesun.co.uk/sport/40104401/man-utd-arsenal-liverpool-kits-dogs-adidas/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-19T11:24:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Man Utd",
-        "midfielder",
-        "Baleba",
-        "Premier"
-      ],
-      "summary": "With Manchester United edging closer to reaching a full agreement with Brighton for Cameroon midfielder Carlos Baleba, take a look at his Premier League best bits.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Everyone wants clarity' over Man City charges, says Arsenal chief",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-19T12:30:11+00:00",
+      "published": "2026-08-19T13:02:46+00:00",
       "score": 25.0,
       "keywords": [
         "Arsenal",
-        "Manchester City",
-        "Man City",
-        "Everyone",
-        "wants",
-        "clarity"
+        "Liverpool",
+        "Man Utd",
+        "kits",
+        "DOGS",
+        "sale"
       ],
-      "summary": "Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Manchester United make £65m offer for Brighton’s Carlos Baleba",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-19T12:01:14+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Manchester",
-        "United",
-        "make",
-        "offer"
-      ],
-      "summary": "Bid short of Brighton’s valuation for midfielder Cameroon international was a United target last summer Manchester United are confident of signing Brighton’s Carlos Baleba for less than £75m, with the 22-year-old midfielder having agreed personal terms. United have made an initial offer of £60m plus",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea’s Tosin Adarabioyo offered transfer to European giants which would reunite him with former Premier League boss",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40104037/tosin-adarabioyo-chelsea-benfica-marco-silva-fofana/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T11:23:38+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Tosin",
-        "Adarabioyo",
-        "offered",
-        "transfer",
-        "European"
-      ],
-      "summary": "BENFICA have made contact with Chelsea over experienced defender Tosin Adarabioyo. The Blues are open to letting players leave this summer, and defender Tosin — who had looked certain to stay this season — is one who could now leave before the deadline. SunSport has been told this week that Benfica ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Hull KR sweating on Lewis after sin-binning on return from four-match ban",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13574634/mikey-lewis-hull-kr-left-sweating-as-star-man-sent-to-sin-bin-against-warrington-wolves-on-return-from-four-match-ban",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-19T12:40:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Hull",
-        "sweating",
-        "Lewis",
-        "binning",
-        "return",
-        "four"
-      ],
-      "summary": "After returning from a four-game ban, Mikey Lewis is now sweating on whether he will miss more crucial matches in Hull KR's run-in.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Coventry sign teenage Fenerbahce forward Cherif",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2v3721ykjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-19T12:38:14+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Coventry",
-        "sign",
-        "teenage",
-        "Fenerbahce",
-        "forward",
-        "Cherif"
-      ],
-      "summary": "Nineteen-year-old Sidiki Cherif joins the Sky Blues on a long‑term deal after finishing last season with two goals in 12 games in Turkey's top flight.",
-      "summary_cn": ""
-    },
-    {
-      "title": "BBC to show 38 live matches from Serie A",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7kyz1gykzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-19T11:40:35+00:00",
-      "score": 20.0,
-      "keywords": [
-        "show",
-        "live",
-        "matches",
-        "Serie"
-      ],
-      "summary": "BBC ALBA and BBC Sport are to provide a package of 38 live matches from Italy's Serie A this season, starting with Atalanta v Sassuolo on Sunday.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Leeds sign Elvedi from Borussia Monchengladbach",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-19T11:10:51+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Leeds",
-        "sign",
-        "Elvedi",
-        "Borussia",
-        "Monchengladbach"
-      ],
-      "summary": "Leeds United complete the signing of defender Nico Elvedi from Borussia Monchengladbach in an £8.5m deal.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Enzo Le Fee and other value-for-money midfielders who could bring your Dream Team together",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40103895/cheap-midfielders-fantasy-football-premier-league-tips/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T12:06:42+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Enzo",
-        "other",
-        "value",
-        "money",
-        "midfielders",
-        "bring"
-      ],
-      "summary": "NEED an affordable midfielder to bring your Dream Team together ahead of Friday's 8pm deadline for Gameweek 1? Allow us to present five value-for-money options (cheaper than £4m) for consideration. PLAY DREAM TEAM NOW: £100,000 PRIZE POT! Enzo Le Fee (£3m) Sunderland's technically-gifted playmaker i",
+      "summary": "EVERY football fan shows their loyal support by wearing their team’s kit. And now even their PETS can be decked out in club colours. That is because adidas have released their Clubs Pet Collection - aka kits for animals. So whether your dog is a Gooner or your cat loves the Red Devils, there is...",
       "summary_cn": ""
     }
   ]

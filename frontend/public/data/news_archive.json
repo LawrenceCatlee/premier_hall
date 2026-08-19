@@ -1,6 +1,325 @@
 {
   "items": [
     {
+      "title": "Sainz signs multi-year contract extension with Williams",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/news/12040/13574716/carlos-sainz-williams-driver-signs-multi-year-contract-extension-to-remain-with-team-in-2027-and-beyond",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-19T14:10:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Williams",
+        "Sainz",
+        "signs",
+        "multi",
+        "year",
+        "contract"
+      ],
+      "summary": "Carlos Sainz has signed a multi-year contract extension with Williams that will keep him with the team for the 2027 Formula 1 season and beyond.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-19T13:42:13+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Rodri",
+        "doubted",
+        "Mourinho",
+        "Real",
+        "Madrid",
+        "want"
+      ],
+      "summary": "Mourinho: Madrid made midfielder ‘a very good offer’ Spain captain chose to join Barcelona instead for £65.4m José Mourinho has confirmed Real Madrid made Rodri an offer and that he spoke to him about joining the club, but claimed the player’s doubts about the transfer made him unsure about signing ",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "West Ham star who ‘refused to play in relegation decider after confronting boss Nuno’ finally agrees transfer exit",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40102897/west-ham-transfer-todibo-marseille/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:57:39+00:00",
+      "score": 33.0,
+      "keywords": [
+        "West Ham",
+        "West",
+        "star",
+        "refused",
+        "play",
+        "relegation"
+      ],
+      "summary": "JEAN-CLAIR TODIBO is on the move after months of speculation and absence from the West Ham squad. The French defender notably refused to be a part of the Hammers squad for the final game of the Premier League season at home to Leeds. Despite a 3-0 victory, West Ham were relegated to the Championship",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Premier League club to transform 32,609-seater stadium in bid to ‘attract world’s best talent’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104720/coventry-city-stadium-investment-legends-global/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:34:07+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "club",
+        "transform",
+        "seater",
+        "stadium"
+      ],
+      "summary": "COVENTRY CITY chief Doug King vowed to \"attract the world's best talent\" after announcing huge investment into the club's Coventry Building Society Arena home. The Sky Blues today announced that they have teamed up with Legends Global to invest more than £15million over the next three years. Coventr",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Joao Pedro ‘snubs Arsenal interest as he agrees lucrative new six-year Chelsea deal’ after incredible pre-season form",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104905/joao-pedro-snubs-arsenal-agrees-chelsea-deal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:01:42+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Joao",
+        "Pedro",
+        "snubs",
+        "interest"
+      ],
+      "summary": "JOAO PEDRO has signed a new extension with Chelsea - killing transfer interest from Arsenal. The Brazilian forward enjoyed a stellar campaign with the Blues last season. And now the 24-year-old has been rewarded with a new contract that will see him get a pay rise, according to Fabrizio Romano. The ",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Liverpool latest: Inter Milan in advanced talks over Jones",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-19T14:20:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Jones",
+        "latest",
+        "Inter",
+        "Milan",
+        "advanced"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Man Utd's decision to make Baleba their 'third midfielder'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clylk1wexgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-19T14:35:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "decision",
+        "make"
+      ],
+      "summary": "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Inter close in on £30m deal for Liverpool's Jones",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-19T14:23:20+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Jones",
+        "Inter",
+        "close",
+        "deal"
+      ],
+      "summary": "Italian champions Inter Milan are closing in on a deal worth 35m euros (£30m) for Liverpool midfielder Curtis Jones.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-19T14:23:22+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Martínez",
+        "Emiliano Martínez",
+        "Japan",
+        "Zion",
+        "Suzuki",
+        "takes"
+      ],
+      "summary": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawag",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Jose Mourinho reveals how he convinced Vinicus Jr to reject record Arsenal tranfer and sign new Real Madrid contract",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104503/jose-mourinho-vinicius-jr-reject-arsenal-real-madrid-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:58:33+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel",
+        "Arteta",
+        "Mikel Arteta",
+        "Jose",
+        "Mourinho"
+      ],
+      "summary": "JOSE MOURINHO reveals how he convinced Vinicius Jr to snub a mega-money move to Arsenal and stay at Real madrid. The Brazil forward's contract was running low at the Bernabeu, leading to interest from top clubs, including Mikel Arteta's Gunners. The Premier League champions had their sights set on t",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Chelsea latest: Badiashile set to complete Napoli move",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-19T14:41:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "latest",
+        "Badiashile",
+        "complete",
+        "Napoli",
+        "move"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Serie A to be shown live for FREE on UK TV – but commentary may not be in English",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40106216/serie-a-shown-live-free-bbc/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T14:27:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Serie",
+        "shown",
+        "live",
+        "FREE",
+        "commentary",
+        "English"
+      ],
+      "summary": "BIG-NAME Premier League stars have flocked to Serie A this summer - and football fans will now have the chance to watch them in action for FREE. The BBC, which is at risk of a mass exodus from Match of the Day due to tension behind the scenes, is set to broadcast 38 clashes in...",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Manchester City Dream Team preview: Top stars, smart options & potential flops",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40105846/manchester-city-dream-team-preview-stars-flops/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T14:13:11+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Manchester",
+        "City",
+        "Dream",
+        "Team",
+        "preview"
+      ],
+      "summary": "ENZO MARESCA has the unenviable task of following in Pep Guardiola's footsteps at Manchester City this season. The Etihad has been the primary source of Dream Team points over the last decade and managers have come to expect a lot from their assets in sky blue. PLAY DREAM TEAM NOW: £100,000 PRIZE PO",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Arsenal, Man City or Man Utd to win the title? Premier League 2026/27 final table predicted by SunSport reporters",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40097018/premier-league-table-prediction-sunsport-reporters/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T14:01:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Man City",
+        "Man Utd",
+        "City",
+        "title",
+        "Premier"
+      ],
+      "summary": "THE Premier League is back, but who will come out on top this time around? Title talk has already swept across the nation as football fever seeps back into the national psyche after an emotional England World Cup journey. There are the defending champions Arsenal who are the team to beat this year, ",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Thomas Frank and three Premier League icons join MOTD coverage as BBC announce launch of FOUR new football shows",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104384/thomas-frank-toby-alderweireld-robbie-keane-ashley-young-motd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:14:46+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "Thomas",
+        "Frank",
+        "Premier",
+        "League"
+      ],
+      "summary": "FORMER Tottenham chief Thomas Frank has been named among four new Match of the Day pundits ahead of the Premier League's return. The Dane, 52, was sacked by Spurs in February and has been out of management since. But Frank has now penned a deal to join the BBC's flagship show, which is under threat.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
+      "title": "Man Utd, Arsenal and Liverpool kits for DOGS go on sale as adidas release amazing photos from model pooch shoot",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104401/man-utd-arsenal-liverpool-kits-dogs-adidas/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-19T13:02:46+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Liverpool",
+        "Man Utd",
+        "kits",
+        "DOGS",
+        "sale"
+      ],
+      "summary": "EVERY football fan shows their loyal support by wearing their team’s kit. And now even their PETS can be decked out in club colours. That is because adidas have released their Clubs Pet Collection - aka kits for animals. So whether your dog is a Gooner or your cat loves the Red Devils, there is...",
+      "summary_cn": "",
+      "fetched_at": "2026-08-19T14:41:14.235096+00:00"
+    },
+    {
       "title": "Is Haaland worth the £15.5m price tag on FPL?",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/videos/cvgx0dngdl0o?at_medium=RSS&at_campaign=rss",
@@ -39295,321 +39614,6 @@
       "summary": "UEFA have hit out at Gianni Infantino's \"shabby, backroom\" plot to sell off the World Cup and declared a loss of confidence in the despised head of world football. Fifa president Infantino has come under fire after announcing plans to let private investors buy up a chunk of the global tournament. Th",
       "summary_cn": "",
       "fetched_at": "2026-08-01T12:06:37.291156+00:00"
-    },
-    {
-      "title": "Does Infantino have to go after being forced into U-turn over World Cup plot? VOTE NOW",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39935766/does-infantino-have-to-go-vote-now/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-01T09:55:13+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Infantino",
-        "being",
-        "forced",
-        "turn",
-        "World",
-        "plot"
-      ],
-      "summary": "FIFA president Gianni Infantino is under huge pressure after scrapping plans to flog the World Cup to private investors. The under-fire chief announced he was backtracking on his plan to allow private investors to buy up a chunk of the global tournament after sparking global fury. But he isn’t about",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T10:06:43.371665+00:00"
-    },
-    {
-      "title": "Shameless Infantino to cling on as Fifa chief after being forced into humiliating U-turn over plot to sell off World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39935290/gianni-infantino-fifa-president-world-cup-sale-statement-uturn/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-01T08:51:59+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Shameless",
-        "Infantino",
-        "cling",
-        "Fifa",
-        "chief",
-        "being"
-      ],
-      "summary": "GIANNI INFANTINO is set to cling on as Fifa president despite being forced into a humiliating U-turn over his plot to sell off the World Cup. The under-fire chief announced he was backtracking on his plan to allow private investors to buy up a chunk of the global tournament after sparking a global b",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T10:06:43.371665+00:00"
-    },
-    {
-      "title": "\"Offensive to call it a free shot!\" Dubois-Wardley rematch row erupts",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13568968/daniel-dubois-advisor-sam-jones-and-fabio-wardleys-manager-mike-ofo-clash-again-ahead-of-heavyweight-rematch",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-01T08:43:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Jones",
-        "Offensive",
-        "call",
-        "free",
-        "shot",
-        "Dubois"
-      ],
-      "summary": "Fabio Wardley's manager Mike Ofo has launched a scathing response after Daniel Dubois' advisor Sam Jones raised doubts about the heavyweight rematch.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T10:06:43.371665+00:00"
-    },
-    {
-      "title": "Chelsea vs Tottenham in pre-season LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13568971/chelsea-vs-tottenham-live-pre-season-fixture-score-live-updates-and-team-news",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-01T10:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Tottenham",
-        "season",
-        "LIVE"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T10:06:43.371665+00:00"
-    },
-    {
-      "title": "Uefa has 'lost confidence' in Fifa leadership",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-01T09:51:05+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Uefa",
-        "lost",
-        "confidence",
-        "Fifa",
-        "leadership"
-      ],
-      "summary": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T10:06:43.371665+00:00"
-    },
-    {
-      "title": "Gianni Infantino’s embarrassing statement in full as humiliated Fifa boss reveals he’s ditching World Cup sell-off plan",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39935360/gianni-infantino-statement-world-cup-sell-off-scrapped/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-01T09:10:50+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Gianni",
-        "Infantino",
-        "embarrassing",
-        "statement",
-        "full",
-        "humiliated"
-      ],
-      "summary": "GIANNI INFANTINO's scandalous plan to sell the World Cup to private investors was finally scrapped on Friday evening. The Fifa supremo was the target of global backlash after a plan was revealed to create a Fifa subsidiary, the Fifa Forward Enterprise, which would run the World Cup and be open to pr",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T10:06:43.371665+00:00"
-    },
-    {
-      "title": "Foden aims to repay Man City faith in fresh start",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx7g9x5n5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-01T06:05:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Foden",
-        "Phil Foden",
-        "aims",
-        "repay"
-      ],
-      "summary": "Manchester City midfielder Phil Foden is aiming to \"repay\" the faith shown to him by the club as he looks forward to a \"fresh start\" under new boss Enzo Maresca.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "Is building a new stadium a way around spending rules?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl70reg06no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-01T07:12:27+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Spurs",
-        "building",
-        "stadium",
-        "around",
-        "spending",
-        "rules"
-      ],
-      "summary": "Spurs only just avoided Premier League relegation last season, but off the pitch they are thriving. So is building a new stadium a good way around spending rules?",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "Who am I? Guess Premier League star No 12",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg34n43dl4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-01T06:12:25+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Guess",
-        "Premier",
-        "League",
-        "star"
-      ],
-      "summary": "Work out the identity of today's player in as few attempts as possible.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "Chelsea vs Tottenham live stream: How to watch Blues’ pre-season tour as Xabi Alonso takes charge of first London derby",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39901234/chelsea-vs-tottenham-live-stream-how-to-watch/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-01T06:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Tottenham",
-        "live",
-        "stream",
-        "watch",
-        "Blues"
-      ],
-      "summary": "CHELSEA continue their pre-season campaign TODAY, and they face bitter rivals Tottenham in Australia! Xabi Alonso got off to winning ways in his first match as Blues' manager against Western Sydney Wanderers to kick-off their pre-season tour. Joao Pedro netted a hat-trick against the Australian side",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "'Desperate attempt to save his job!' | Infantino scraps plan to sell-off World Cup",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13568962/fifa-president-gianni-infantino-scraps-plan-to-sell-off-world-cup",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-01T08:14:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Desperate",
-        "attempt",
-        "save",
-        "Infantino",
-        "scraps",
-        "plan"
-      ],
-      "summary": "Kaveh Solhekol provides the latest update as FIFA scrap plans to sell off part of the World Cup to private investments.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "Infantino abandons plan to sell off stake in World Cup",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13568949/fifa-president-gianni-infantino-abandons-plans-to-sell-world-cup-profits-to-private-equity-after-widespread-criticism",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-01T07:24:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Infantino",
-        "abandons",
-        "plan",
-        "sell",
-        "stake",
-        "World"
-      ],
-      "summary": "FIFA president Gianni Infantino has abandoned his controversial plan to sell a stake in future World Cup profits to private equity investors after fierce opposition from football's governing bodies.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/01/marketing-stunt-or-extraordinary-transfer-ravenna-fans-ronaldinho",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-01T07:00:46+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Marketing",
-        "stunt",
-        "extraordinary",
-        "transfer",
-        "Ravenna",
-        "fans"
-      ],
-      "summary": "Brazil legend’s decision to play in Serie C at 46 has divided fans – but the man who arranged the deal has high hopes On a scorching summer afternoon in Ravenna, a city far better known for its fifth-century Byzantine mosaics and Dante’s tomb than for footballing glory, eyes are peeled in the histor",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "Have you ever switched allegiance as a football fan? You are not alone | Luke McLaughlin",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/01/switch-allegiance-football-fan",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-01T07:00:47+00:00",
-      "score": 20.0,
-      "keywords": [
-        "ever",
-        "switched",
-        "allegiance",
-        "football",
-        "alone",
-        "Luke"
-      ],
-      "summary": "If professional athletes can represent more than one country, let alone multiple clubs, why shouldn’t fans change teams? “I was fanatically pro-German when the Germans were here to protect us against the Americans, and now that Americans are here to protect us against the Germans, I am fanatically p",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "Argentina World Cup wag labelled ‘divine’ as she goes braless and shows off cleavage in low cut dress",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39935136/agus-gandolfo-lautaro-martinez-argentina-wag-braless-dress/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-01T07:32:06+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Argentina",
-        "World",
-        "labelled",
-        "divine",
-        "goes",
-        "braless"
-      ],
-      "summary": "LAUTARO MARTINEZ's wife, Agustina Gandolfo has dazzled fans in a braless white dress. The Argentine Wag posed on holiday in Greece alongside Inter Milan star Martinez. They are enjoying some down time after the World Cup over the summer. And Agus looked her best in a busty low cut outfit showing off",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
-    },
-    {
-      "title": "Who is FIFA president Gianni Infantino’s wife Leena Al Ashqar and how many children do they have together?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/20444239/fifa-president-gianni-infantinos-wife-world-cup-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-01T07:03:38+00:00",
-      "score": 20.0,
-      "keywords": [
-        "FIFA",
-        "president",
-        "Gianni",
-        "Infantino",
-        "wife",
-        "Leena"
-      ],
-      "summary": "GIANNI INFANTINO has been in charge of FIFA since 2016, when he took over from Sepp Blatter. The Italian, who was re-elected in 2019, has courted controversy for his off-script comments at times. And his recent bid to sell off a chunk of a new sister company in charge of the World Cup collapsed foll",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T07:32:53.913680+00:00"
     }
   ]
 }
