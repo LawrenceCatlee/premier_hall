@@ -1,44 +1,6 @@
 {
-  "updated_at": "2026-08-19T11:32:31.279537+00:00",
+  "updated_at": "2026-08-19T13:00:47.196455+00:00",
   "items": [
-    {
-      "title": "'A game-changing signing!' | Man Utd's move for Baleba explained",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13574636/transfer-latest-man-utd-close-to-signing-carlos-baleba-from-brighton",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-19T10:25:00+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Man Utd",
-        "Tim Sherwood",
-        "Sherwood",
-        "game"
-      ],
-      "summary": "Sky Sports' Dan Khan and Tim Sherwood react to the breaking news that Manchester United are close to an agreement for the signing of Brighton's Carlos Baleba.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Merson's Premier League season preview: Who wins the title and who stays up?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574632/paul-mersons-premier-league-season-preview-who-wins-title-and-finishes-in-top-five-and-who-are-relegation-contenders",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-19T10:17:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Paul Merson",
-        "Merson",
-        "Premier",
-        "League",
-        "season",
-        "preview"
-      ],
-      "summary": "In his latest column, Paul Merson predicts the 2026/27 Premier League season at both ends of the table.",
-      "summary_cn": ""
-    },
     {
       "title": "Arsenal in advanced talks to sign Villa's Konsa",
       "title_cn": "",
@@ -50,8 +12,8 @@
       "keywords": [
         "Arsenal",
         "Aston Villa",
-        "Konsa",
         "Ezri Konsa",
+        "Konsa",
         "advanced",
         "talks"
       ],
@@ -69,8 +31,8 @@
       "keywords": [
         "Arsenal",
         "Aston Villa",
-        "Konsa",
         "Ezri Konsa",
+        "Konsa",
         "pushing",
         "deal"
       ],
@@ -78,98 +40,59 @@
       "summary_cn": ""
     },
     {
-      "title": "Premier League 2026-27 preview No 16: Manchester United",
+      "title": "Is Haaland worth the £15.5m price tag on FPL?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/19/premier-league-2026-27-preview-no-16-manchester-united",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgx0dngdl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-19T11:00:13+00:00",
+      "published": "2026-08-19T11:32:34+00:00",
       "score": 31.0,
       "keywords": [
-        "Manchester United",
-        "Michael Carrick",
-        "Tielemans",
-        "Carrick",
-        "Youri Tielemans",
-        "Bruno Fernandes"
+        "Manchester City",
+        "Haaland",
+        "Erling Haaland",
+        "worth",
+        "price"
       ],
-      "summary": "Bruno Fernandes and Youri Tielemans will be key to Michael Carrick’s chances of success over a full season and of healing the rift between club and fans Guardian writers’ predicted position: 5th (NB: this is not necessarily Jamie Jackson’s prediction but the average of our writers’ tips) Last season",
+      "summary": "FPL expert Gianni Buttice weighs up whether Manchester City striker Erling Haaland is worth his £15.5m price tag on the game.",
       "summary_cn": ""
     },
     {
-      "title": "Aston Villa expect another bid from Al Hilal for Ollie Watkins",
+      "title": "‘He hesitated’ – Jose Mourinho reveals Rodri had ‘doubts’ about Real Madrid before sealing transfer to Barcelona",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-19T10:57:58+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Ollie Watkins",
-        "Watkins",
-        "Aston",
-        "Villa",
-        "expect"
-      ],
-      "summary": "Offer of almost £40m rejected for England striker Watkins has two years left on his contract Aston Villa are braced for another bid from Al Hilal for Ollie Watkins, after rejecting an offer worth almost £40m for the striker. Al Hilal are pursuing a move for Villa’s all-time Premier League goalscorer",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal ‘on verge of signing Ezri Konsa from Aston Villa with transfer close for England World Cup star’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40103738/arsenal-transfer-news-ezri-konsa-deal-aston-villa/",
+      "url": "https://www.thesun.co.uk/sport/40103823/mourinho-rodri-doubted-real-madrid-barcelona/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-19T10:45:41+00:00",
+      "published": "2026-08-19T11:33:13+00:00",
       "score": 31.0,
       "keywords": [
-        "Arsenal",
-        "Aston Villa",
+        "Manchester City",
+        "Rodri",
+        "hesitated",
+        "Jose",
+        "Mourinho",
+        "reveals"
+      ],
+      "summary": "REAL MADRID boss Jose Mourinho has opened up on the reasons behind Rodri's snub of the Spanish giants. The World Cup winner departed Manchester City for Barcelona after a glittering career in the north west. But things might have ended up very differently for the midfielder, who just days earlier ha",
+      "summary_cn": ""
+    },
+    {
+      "title": "Transfer Centre LIVE! Fernandez, Konsa and Baleba latest",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-19T12:59:00+00:00",
+      "score": 26.0,
+      "keywords": [
         "Konsa",
-        "Ezri Konsa",
-        "verge",
-        "signing"
+        "Transfer",
+        "Centre",
+        "LIVE",
+        "Fernandez",
+        "Baleba"
       ],
-      "summary": "ARSENAL are reportedly closing in on Ezri Konsa as cover for the crocked William Saliba. The north Londoners had a £30million move for Aston Villa centre-back rejected earlier in the window. Villa knocked back the bid as they wanted £60m for the England international, who was one of their star perfo",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Between us now…’ – Frank Lampard makes secret call to Jose Mourinho over player eyed for Coventry transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40102668/frank-lampard-mourinho-coventry-chelsea-real-madrid/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T10:20:38+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Lampard",
-        "Frank Lampard",
-        "Between",
-        "Frank",
-        "makes"
-      ],
-      "summary": "FRANK LAMPARD has revealed he made a secret call to Jose Mourinho over a player Coventry are considering signing. The Sky Blues boss turned to his former Chelsea manager for advice earlier this summer as he continues to build his squad ahead of their return to the Premier League. Lampard and Mourinh",
-      "summary_cn": ""
-    },
-    {
-      "title": "Marcus Rashford ‘mentoring JJ Gabriel and Shea Lacey’ with Man Utd chiefs ‘seriously impressed’ after unlikely return",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40101236/marcus-rashford-mentoring-jj-gabriel-shea-lacey-man-utd/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T09:53:12+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Marcus Rashford",
-        "Rashford",
-        "Marcus",
-        "mentoring"
-      ],
-      "summary": "MARCUS RASHFORD has been working closely with teenage talents JJ Gabriel and Shea Lacey since his shock return to Manchester United. The forward, 28, headed back to Old Trafford after Barcelona brutally snubbed the chance to trigger a £26million option to turn his loan into a permanent deal. Rashfor",
+      "summary": "",
       "summary_cn": ""
     },
     {
@@ -192,60 +115,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Is Turkey home to savvy signings or a new retirement league? We’ll soon find out",
+      "title": "Savinho, Gakpo, Neto, Marmoush! Spurs in market to sign THREE new forwards",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/19/turkey-super-lig-signings-salah-retirement-league",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-19T10:00:12+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Lukaku",
-        "Leandro Trossard",
-        "Romelu Lukaku",
-        "Trossard",
-        "Nathan Aké",
-        "Salah"
-      ],
-      "summary": "Mohamed Salah’s arrival made a splash, but the Turkish Super Lig will probably become the latest league to end up as a bailout fund for Europe’s powerhouses Mohamed Salah plays in Turkey now. So do Romelu Lukaku and Leandro Trossard and Leroy Sané and Nathan Aké. Mason Greenwood and N’Golo Kanté and",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd close to full agreement with Brighton for Baleba",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574619/carlos-baleba-transfer-manchester-united-close-to-full-agreement-with-brighton-for-cameroon-midfielder",
+      "url": "https://www.skysports.com/football/news/12040/13574668/tottenham-transfer-news-spurs-considering-cody-gakpo-savinho-omar-marmoush-and-pedro-neto-in-search-for-three-new-forwards",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-19T10:02:00+00:00",
+      "published": "2026-08-19T11:49:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Man Utd",
-        "close",
-        "full",
-        "agreement"
+        "Tottenham",
+        "Spurs",
+        "Savinho",
+        "Gakpo",
+        "Neto",
+        "Marmoush"
       ],
-      "summary": "Manchester United are close to a full agreement with Brighton to sign Carlos Baleba.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Rangers sign Nedeljkovic from Aston Villa",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574334/kosta-nedeljkovic-rangers-sign-aston-villa-right-back-on-loan-with-4m-obligation-to-buy-serbia-international",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-19T10:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Rangers",
-        "sign",
-        "Nedeljkovic",
-        "Aston",
-        "Villa"
-      ],
-      "summary": "Rangers have signed right-back Kosta Nedeljkovic from Aston Villa.",
+      "summary": "Tottenham&#160;hope to sign as many as three new forwards before the transfer deadline.",
       "summary_cn": ""
     },
     {
@@ -268,44 +153,45 @@
       "summary_cn": ""
     },
     {
-      "title": "Man Utd close on deal for Brighton's Baleba",
+      "title": "'Everyone wants clarity' over Man City charges, says Arsenal chief",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7ev41nnvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-19T09:50:55+00:00",
+      "published": "2026-08-19T12:30:11+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester City",
+        "Man City",
+        "Everyone",
+        "wants",
+        "clarity"
+      ],
+      "summary": "Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Manchester United make £65m offer for Brighton’s Carlos Baleba",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-19T12:01:14+00:00",
       "score": 25.0,
       "keywords": [
         "Brighton",
         "Manchester United",
-        "Man Utd",
-        "close",
-        "deal",
-        "Baleba"
+        "Manchester",
+        "United",
+        "make",
+        "offer"
       ],
-      "summary": "Manchester United are in talks to sign Cameroon international Carlos Baleba having reignited their interest in the midfielder.",
+      "summary": "Bid short of Brighton’s valuation for midfielder Cameroon international was a United target last summer Manchester United are confident of signing Brighton’s Carlos Baleba for less than £75m, with the 22-year-old midfielder having agreed personal terms. United have made an initial offer of £60m plus",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal preference is for Nwaneri to leave on loan",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gd1r1nel2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-19T10:24:11+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "preference",
-        "Nwaneri",
-        "leave",
-        "loan"
-      ],
-      "summary": "Arsenal prioritise loan offers for Ethan Nwaneri with the Premier League champions keen to avoid selling their teenage attacker permanently.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Tosin Adarbioyo offered Chelsea escape route by European giants which would reunite him with former Premier League boss",
+      "title": "Chelsea’s Tosin Adarabioyo offered transfer to European giants which would reunite him with former Premier League boss",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40104037/tosin-adarabioyo-chelsea-benfica-marco-silva-fofana/",
       "source": "The Sun",
@@ -315,182 +201,67 @@
       "keywords": [
         "Chelsea",
         "Tosin",
-        "Adarbioyo",
+        "Adarabioyo",
         "offered",
-        "escape",
-        "route"
+        "transfer",
+        "European"
       ],
-      "summary": "BENFICA have made contact with Chelsea regarding experienced defender Tosin Adarabioyo just weeks before the transfer window shuts. Chelsea are open to letting players leave this summer and from a position of comfort, defender Tosin Adarabioyo, who looked certain to stay this season is one who could",
+      "summary": "BENFICA have made contact with Chelsea over experienced defender Tosin Adarabioyo. The Blues are open to letting players leave this summer, and defender Tosin — who had looked certain to stay this season — is one who could now leave before the deadline. SunSport has been told this week that Benfica ",
       "summary_cn": ""
     },
     {
-      "title": "Former Premier League striker who starred at World Cup reveals ‘I almost died TWICE’ in terrifying incidents",
+      "title": "Hull KR sweating on Lewis after sin-binning on return from four-match ban",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40103315/deniz-undav-stuttgart-germany-allergy/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T10:54:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Former",
-        "Premier",
-        "League",
-        "striker",
-        "starred"
-      ],
-      "summary": "DENIZ UNDAV \"almost died\" on two separate occasions due to a terrifying allergy. The Germany striker, 30, opened up his worrying ordeals during a recent podcast appearance. Undav, who played in the Premier League for Brighton between 2022 and 2024, was asked about his favourite foods. And when wheth",
-      "summary_cn": ""
-    },
-    {
-      "title": "Joao Palhinha ‘REJECTS Newcastle and Aston Villa to seal reunion with former manager at European giant’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40103153/joao-palhinha-rejects-newcastle-aston-villa-benfica-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T10:52:33+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Newcastle",
-        "Tottenham",
-        "Spurs",
-        "Joao",
-        "Palhinha"
-      ],
-      "summary": "JOAO PALHINHA is set to join Benfica after brutally snubbing moves to Newcastle and Aston Villa, according to reports. The midfielder, 31, played a key role in Tottenham avoiding a humiliating relegation to the Championship last season. And Palhinha wanted to stay at Spurs permanently at the end of ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Newcastle vs Liverpool: Get £40 free bets, plus win a share of £200,000 with BOYLE Sports’ new free-to-play game",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40103251/newcastle-vs-liverpool-free-bets-boyle-sports-game/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T10:49:56+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "free",
-        "bets",
-        "plus",
-        "share"
-      ],
-      "summary": "BOYLE SPORTS have launched a new, free-to-play game for punters to win a share of £200,000 - starting with Newcastle vs Liverpool this weekend! And if new to BOYLE Sports, they are offering new customers £40 in free bets when they register and stake £10 on football. How the Matchday Challenge works:",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘He’s our best player’ – Diego Simeone fires final transfer warning to Arsenal over Atletico Madrid star Julian Alvarez",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40101335/simeone-arsenal-transfer-news-warning-julian-alvarez/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T10:34:34+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "best",
-        "player",
-        "Diego",
-        "Simeone",
-        "fires"
-      ],
-      "summary": "DIEGO SIMEONE is sticking to his guns as he doubles down on keeping Julian Alvarez at Atletico Madrid. The LaLiga boss, 56, left little room for Arsenal fans hoping to secure the Argentine forward this window. Atleti are holding firm and refusing to sell, having already rejected a&nbsp;£130MILLION&n",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal U21s suffer 5-1 humbling to League Two side as new boss gets off to worst possible start to new season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40102906/arsenal-u21s-humiliation-league-two-side-new-boss-nightmare/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T10:28:12+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "suffer",
-        "humbling",
-        "League",
-        "side",
-        "boss"
-      ],
-      "summary": "ARSENAL’S Under-21s kicked off the new season with a humbling 5-1 defat at the hands of Barnet. Winger Tom Knowles scored a hat-trick for the League Two side as they ran out comfortable winners in the EFL Trophy clash on Tuesday night. The match was David Horseman’s first game in charge of the Gunne",
-      "summary_cn": ""
-    },
-    {
-      "title": "Coventry ready to face ‘unplayable absolute monster’ they helped create in brutal Premier League bow against Arsenal",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40102587/coventry-monster-arsenal-premier-league-viktor-gyokeres/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T10:16:57+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Coventry",
-        "ready",
-        "face",
-        "unplayable",
-        "absolute"
-      ],
-      "summary": "COVENTRY will mark their return to the big time on Friday night fearing the “absolute monster” they helped create. The Sky Blues are travelling to the Emirates for their first Premier League game in 25 years - and that means a reunion with star Viktor Gyokeres. The striker fired Arsenal to the title",
-      "summary_cn": ""
-    },
-    {
-      "title": "Paul Pogba leaves Monaco after just six appearances with injury-plagued former Man Utd star’s future in doubt",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40102109/paul-pogba-monaco-contract-terminated/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-19T09:40:49+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Paul",
-        "Pogba",
-        "leaves",
-        "Monaco"
-      ],
-      "summary": "PAUL POGBA is a free agent after having his Monaco contract terminated. The former Manchester United star, 33, signed for the Ligue 1 side to much fanfare in June 2025. Pogba arrived in the south of France bidding to revive his career after completing an 18-month drugs ban. But he managed just six a",
-      "summary_cn": ""
-    },
-    {
-      "title": "Scorecard: England vs Pakistan, first Test",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/england-v-pakistan/scorecard/1a093279-f4f8-5f97-bd37-6b4e34b71262",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13574634/mikey-lewis-hull-kr-left-sweating-as-star-man-sent-to-sin-bin-against-warrington-wolves-on-return-from-four-match-ban",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-19T10:55:00+00:00",
+      "published": "2026-08-19T12:40:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Scorecard",
-        "England",
-        "Pakistan",
-        "first",
-        "Test"
+        "Hull",
+        "sweating",
+        "Lewis",
+        "binning",
+        "return",
+        "four"
       ],
-      "summary": "Latest score from the first Test of the three-match series between England and Pakistan at Headingley. Watch on Sky Sports Cricket.",
+      "summary": "After returning from a four-game ban, Mikey Lewis is now sweating on whether he will miss more crucial matches in Hull KR's run-in.",
       "summary_cn": ""
     },
     {
-      "title": "Welsh FA chief calls for Infantino to step down",
+      "title": "Coventry sign teenage Fenerbahce forward Cherif",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywnpg45xzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2v3721ykjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-19T10:21:24+00:00",
+      "published": "2026-08-19T12:38:14+00:00",
       "score": 20.0,
       "keywords": [
-        "Welsh",
-        "chief",
-        "calls",
-        "Infantino",
-        "step",
-        "down"
+        "Coventry",
+        "sign",
+        "teenage",
+        "Fenerbahce",
+        "forward",
+        "Cherif"
       ],
-      "summary": "Football Association of Wales chief executive Noel Mooney says Fifa president Gianni Infantino should step down.",
+      "summary": "Nineteen-year-old Sidiki Cherif joins the Sky Blues on a long‑term deal after finishing last season with two goals in 12 games in Turkey's top flight.",
+      "summary_cn": ""
+    },
+    {
+      "title": "BBC to show 38 live matches from Serie A",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7kyz1gykzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-19T11:40:35+00:00",
+      "score": 20.0,
+      "keywords": [
+        "show",
+        "live",
+        "matches",
+        "Serie"
+      ],
+      "summary": "BBC ALBA and BBC Sport are to provide a package of 38 live matches from Italy's Serie A this season, starting with Atalanta v Sassuolo on Sunday.",
       "summary_cn": ""
     },
     {
@@ -512,22 +283,22 @@
       "summary_cn": ""
     },
     {
-      "title": "England vs Spain – Nations League tickets: Where can I buy them and how much do they cost?",
+      "title": "Enzo Le Fee and other value-for-money midfielders who could bring your Dream Team together",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40101681/england-spain-nations-league-tickets-where-to-buy-price/",
+      "url": "https://www.thesun.co.uk/sport/40103895/cheap-midfielders-fantasy-football-premier-league-tips/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-19T10:31:51+00:00",
+      "published": "2026-08-19T12:06:42+00:00",
       "score": 20.0,
       "keywords": [
-        "England",
-        "Spain",
-        "Nations",
-        "League",
-        "tickets",
-        "them"
+        "Enzo",
+        "other",
+        "value",
+        "money",
+        "midfielders",
+        "bring"
       ],
-      "summary": "ENGLAND face Spain in a mouthwatering Nations League match - and fans are desperate to get tickets for the showpiece game. The Three Lions suffered heartbreak at yet another major tournament this summer. Thomas Tuchel's men got dumped out at the semi-final stage of the World Cup 2026 by Argentina de",
+      "summary": "NEED an affordable midfielder to bring your Dream Team together ahead of Friday's 8pm deadline for Gameweek 1? Allow us to present five value-for-money options (cheaper than £4m) for consideration. PLAY DREAM TEAM NOW: £100,000 PRIZE POT! Enzo Le Fee (£3m) Sunderland's technically-gifted playmaker i",
       "summary_cn": ""
     }
   ]
