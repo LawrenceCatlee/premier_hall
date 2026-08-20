@@ -1,25 +1,6 @@
 {
-  "updated_at": "2026-08-20T07:49:56.721035+00:00",
+  "updated_at": "2026-08-20T08:48:52.396536+00:00",
   "items": [
-    {
-      "title": "St Helens appoint Australia boss Walters as head coach",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13574884/st-helens-appoint-australia-boss-kevin-walters-as-head-coach-for-next-three-super-league-seasons",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-20T06:09:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Walters",
-        "Helens",
-        "appoint",
-        "Australia",
-        "boss",
-        "head"
-      ],
-      "summary": "St Helens have announced the appointment of Australia boss Kevin Walters as their head coach on a three-year deal from the start of the 2027 Super League season.",
-      "summary_cn": ""
-    },
     {
       "title": "How does Arteta deliver step five of his Arsenal plan?",
       "title_cn": "",
@@ -40,22 +21,40 @@
       "summary_cn": ""
     },
     {
-      "title": "Brooks on fatherhood, Ronaldo and European nights",
+      "title": "Inter Milan agree £30m deal for Liverpool's Jones",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3w02nv14pqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/football/news/12040/13574174/curtis-jones-transfer-news-inter-milan-agree-30m-deal-to-sign-liverpool-midfielder",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-20T05:59:41+00:00",
+      "published": "2026-08-20T08:00:00+00:00",
       "score": 31.0,
       "keywords": [
-        "Bournemouth",
-        "Ronaldo",
-        "Brooks",
-        "fatherhood",
-        "European",
-        "nights"
+        "Liverpool",
+        "Jones",
+        "Inter",
+        "Milan",
+        "agree",
+        "deal"
       ],
-      "summary": "The new football season promises to be one of both little steps and giant steps for Bournemouth and Wales midfielder David Brooks.",
+      "summary": "Inter Milan have agreed a &#163;30m (&#8364;35m) deal with Liverpool for Curtis Jones.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Inter agree £30m deal for Liverpool's Jones",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T07:57:12+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Jones",
+        "Inter",
+        "agree",
+        "deal"
+      ],
+      "summary": "Curtis Jones is set to join Inter Milan after the Italian side agreed a deal worth 35m euros (£30m) with Liverpool.",
       "summary_cn": ""
     },
     {
@@ -78,6 +77,44 @@
       "summary_cn": ""
     },
     {
+      "title": "Premier League season preview: Hull City to Tottenham – Football Weekly",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-20T07:44:16+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "Barry",
+        "Premier",
+        "League",
+        "season",
+        "preview"
+      ],
+      "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jordan Jarrett-Bryan for the second of our Premier League preview podcasts Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: part two of our big Premier League preview ( listen to part one he",
+      "summary_cn": ""
+    },
+    {
+      "title": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-20T07:35:41+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Newcastle",
+        "James",
+        "Football",
+        "transfer",
+        "rumours"
+      ],
+      "summary": "Today’s fluff awaits the rainbow A Manchester City clearout is in the offing, which could aid Newcastle’s search for a new central midfielder to replace the departed Sandro Tonali and Bruno Guimarães. Nico González could be packing his bags to head up to St James’ Park, having never quite proven him",
+      "summary_cn": ""
+    },
+    {
       "title": "Premier League: nine newcomers to watch in the top flight this season",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window",
@@ -97,22 +134,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
+      "title": "Premier League season preview: Hull City to Spurs | Football Weekly video",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa",
+      "url": "https://www.theguardian.com/football/video/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly-video",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-20T07:35:41+00:00",
+      "published": "2026-08-20T07:59:09+00:00",
       "score": 31.0,
       "keywords": [
-        "Manchester City",
-        "Newcastle",
-        "James",
-        "Football",
-        "transfer",
-        "rumours"
+        "Spurs",
+        "Barry",
+        "Premier",
+        "League",
+        "season",
+        "preview"
       ],
-      "summary": "Today’s fluff awaits the rainbow A Manchester City clearout is in the offing, which could aid Newcastle’s search for a new central midfielder to replace the departed Sandro Tonali and Bruno Guimarães. Nico González could be packing his bags to head up to St James’ Park, having never quite proved him",
+      "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jordan Jarrett-Bryan for the second of our Premier League preview podcasts. Continue reading...",
       "summary_cn": ""
     },
     {
@@ -129,7 +166,26 @@
         "Bull",
         "contract"
       ],
-      "summary": "Max Verstappen has signed a new long-term Red Bull contract to end speculation over his future.",
+      "summary": "Max Verstappen has signed a new long-term Red Bull contract until 2030 to end speculation over his future.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Robinson and Tongue cut match ball in half after each getting five-fors!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13574921/england-vs-pakistan-ollie-robinson-and-josh-tongue-cut-match-ball-in-half-after-each-getting-five-fors",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-20T08:41:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Robinson",
+        "Tongue",
+        "match",
+        "ball",
+        "half",
+        "each"
+      ],
+      "summary": "Incredible scenes as the groundsman was able to cut the match ball in half so that Ollie Robinson and Josh Tongue could share it after each getting five-wicket hauls.",
       "summary_cn": ""
     },
     {
@@ -190,23 +246,6 @@
       "summary_cn": ""
     },
     {
-      "title": "Who am I? Guess Premier League star No 31",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj36grvmrz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-20T05:57:38+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Guess",
-        "Premier",
-        "League",
-        "star"
-      ],
-      "summary": "Work out the identity of today's player in as few attempts as possible.",
-      "summary_cn": ""
-    },
-    {
       "title": "St Mirren agree loan deal for Ramsay - gossip",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/c89nzne3v4go?at_medium=RSS&at_campaign=rss",
@@ -223,6 +262,63 @@
         "Ramsay"
       ],
       "summary": "St Mirren agree deal for Liverpool right-back as Scotland forward set for big money move.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-20T08:00:46+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Opening",
+        "half",
+        "hour",
+        "Sports",
+        "Premier"
+      ],
+      "summary": "Early Kick Off show on before Hull v Manchester United Match previews available free-to-air for the first time TNT Sports will make the first 30 minutes of their live Premier League broadcasts available on YouTube this season starting with Manchester United’s visit to Hull on Saturday. The pre-Premi",
+      "summary_cn": ""
+    },
+    {
+      "title": "TNT Sports launch new FREE-TO-AIR football show ahead of Hull vs Man Utd with Olivia Buzaglo hosting",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40112093/tnt-sports-football-early-kick-off-olivia-buzaglo/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-20T08:02:11+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Man Utd",
+        "Sports",
+        "launch",
+        "FREE",
+        "football",
+        "show"
+      ],
+      "summary": "TNT SPORTS are launching a new football show this weekend which will be FREE for fans. 'Early Kick-Off' will be streamed live on YouTube in the 30-minute slot before TNT's traditional hour-long match build-up. Olivia Buzaglo and Liam MacDevitt will host the show, which will also feature input from b",
+      "summary_cn": ""
+    },
+    {
+      "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-20T08:50:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "FREE",
+        "STREAM",
+        "Good",
+        "Morning",
+        "Transfers",
+        "Sports"
+      ],
+      "summary": "",
       "summary_cn": ""
     },
     {
@@ -245,19 +341,39 @@
       "summary_cn": ""
     },
     {
-      "title": "Five in Five: Football quiz No 4",
+      "title": "Damaged pitch forces PSG to switch season opener",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yr3w58qnlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dwdxqylwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-20T06:19:41+00:00",
+      "published": "2026-08-20T07:48:29+00:00",
       "score": 20.0,
       "keywords": [
-        "Five",
-        "Football",
-        "quiz"
+        "Damaged",
+        "pitch",
+        "forces",
+        "switch",
+        "season",
+        "opener"
       ],
-      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "summary": "Paris St-Germain's opening Ligue 1 game will now be played in Rennes after hot weather \"severely damaged\" the Parc des Princes pitch.",
+      "summary_cn": ""
+    },
+    {
+      "title": "When is the Champions League draw and who is in each pot?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v0q3r554xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T07:27:59+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Champions",
+        "League",
+        "draw",
+        "each"
+      ],
+      "summary": "BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
       "summary_cn": ""
     },
     {
@@ -296,25 +412,6 @@
         "pitch"
       ],
       "summary": "JUVENTUS defender Federico Gatti missed training after being tackled by a FAN during a pitch invasion. The bizarre incident happened during the club's traditional friendly against their Next Gen side at the Allianz Stadium in Turin. The fixture rarely reaches the full 90 minutes, with supporters tra",
-      "summary_cn": ""
-    },
-    {
-      "title": "Nou Camp CHAOS as Al Ahly fans are kicked out of stadium by police after fighting Barcelona supporters",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40111696/al-ahly-fans-kicked-out-nou-camp-barcelona-fight/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T06:38:39+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Camp",
-        "CHAOS",
-        "Ahly",
-        "fans",
-        "kicked",
-        "stadium"
-      ],
-      "summary": "BARCELONA's pre-season friendly with Egyptian side Al Ahly descended into chaos as fans scrapped inside the Nou Camp. The Spanish champions were looking for a relaxed tune up against the north African outfit, with the La Liga season just days away. But the visiting fans apparently didn't get the mem",
       "summary_cn": ""
     }
   ]
