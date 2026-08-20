@@ -1,44 +1,6 @@
 {
-  "updated_at": "2026-08-20T11:34:11.325374+00:00",
+  "updated_at": "2026-08-20T13:03:08.221235+00:00",
   "items": [
-    {
-      "title": "Lewis banned for two matches for dangerous contact",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13574955/mikey-lewis-hull-kr-playmaker-banned-for-two-matches-for-dangerous-contact-with-warrington-wolves-ewan-irwin",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-20T10:43:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Wolves",
-        "Irwin",
-        "Lewis",
-        "banned",
-        "matches",
-        "dangerous"
-      ],
-      "summary": "Hull KR's Mikey Lewis has been banned for two matches for dangerous contact with Warrington Wolves' Ewan Irwin during their rearranged round two Super League match on Tuesday night.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Konsa set for Arsenal medical before £50m-plus move",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-20T10:25:40+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Konsa",
-        "Ezri Konsa",
-        "medical",
-        "plus"
-      ],
-      "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
-      "summary_cn": ""
-    },
     {
       "title": "Who replaces Salah as Africa's Premier League king?",
       "title_cn": "",
@@ -49,8 +11,8 @@
       "score": 31.0,
       "keywords": [
         "Liverpool",
-        "Salah",
         "Mohamed Salah",
+        "Salah",
         "replaces",
         "Africa",
         "Premier"
@@ -59,22 +21,79 @@
       "summary_cn": ""
     },
     {
-      "title": "Frank Lampard wants Coventry to play without fear in Premier League",
+      "title": "Gary Neville reckons Arsenal have ALREADY sealed title defence thanks to epic transfer raid on Premier League rivals",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/40116301/gary-neville-arsenal-bruno-guimaraes-mikel-arteta/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-20T10:44:59+00:00",
+      "published": "2026-08-20T12:34:41+00:00",
       "score": 31.0,
       "keywords": [
         "Arsenal",
-        "Lampard",
-        "Frank Lampard",
-        "Frank",
-        "wants",
-        "Coventry"
+        "Manchester United",
+        "Newcastle",
+        "Mikel Arteta",
+        "Arteta",
+        "Mikel"
       ],
-      "summary": "Promoted club have targeted players 6ft and above ‘Physicality is a big part of what you need to compete’ Frank Lampard has urged his Coventry players to impose themselves on the Premier League, calling on his side to ensure they have no regrets after Friday’s curtain-raiser against Arsenal. Coventr",
+      "summary": "GARY NEVILLE has made a huge claim about Arsenal’s Premier League title chances after hailing their £75million swoop for Bruno Guimaraes. The Manchester United legend believes the Brazilian midfielder’s arrival from Newcastle has strengthened Mikel Arteta’s side so much that he has already backed th",
+      "summary_cn": ""
+    },
+    {
+      "title": "Will Christos Tzolis start for Arsenal? Gunners team news predictions as champions open up against Coventry",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40115508/will-christos-tzolis-start-arsenal-team-news-predictions-coventry/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-20T12:31:41+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Trossard",
+        "Leandro Trossard",
+        "Christos",
+        "Tzolis",
+        "start"
+      ],
+      "summary": "ARSENAL open up their Premier League title defence with a tough test against last season's Championship winners Coventry - and summer signing Christos Tzolis could be key in securing a perfect start. The Greek international arrived from Club Brugge in a £34million deal to replace Leandro Trossard. A",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal legend backs Mikel Arteta to match rarely-seen title feat already achieved by Man Utd and Chelsea",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40042045/lee-dixon-backs-arsenal-consecutive-titles/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-20T11:45:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Man Utd",
+        "DIXON",
+        "Mikel Arteta",
+        "Arteta"
+      ],
+      "summary": "LEE DIXON has backed his former club Arsenal to achieve back-to-back Premier League titles for the first time ever. And the Gunners legend is convinced Mikel Arteta’s side hasn't even hit its peak yet. Dixon, 62, won the league four times during his 14-year stint at Arsenal, but never managed to ach",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wayne Rooney and Coleen drop Kai off at Man Utd training as Rashford and stars arrive at Carrington ahead of Hull clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40114548/wayne-rooney-coleen-kai-man-utd-training-carrington-rashford/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-20T11:36:54+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Rashford",
+        "young",
+        "Wayne Rooney",
+        "Rooney"
+      ],
+      "summary": "MANCHESTER UNITED legend Wayne Rooney was behind the wheel as his son Kai arrived for training at Carrington this morning. The talented youngster, 16, was rewarded with a scholarship after shining at youth level last season. And Kai, who has been building muscle in the gym ahead of the new campaign,",
       "summary_cn": ""
     },
     {
@@ -88,10 +107,10 @@
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Michael Carrick",
-        "Roy Keane",
         "Keane",
-        "Carrick"
+        "Roy Keane",
+        "Carrick",
+        "Michael Carrick"
       ],
       "summary": "ROY KEANE has warned Manchester United that their summer spending will not be enough to turn them into Premier League title contenders. The Red Devils have made strengthening their midfield a major priority this summer as Michael Carrick looks to build on last season’s progress. United have already ",
       "summary_cn": ""
@@ -106,32 +125,13 @@
       "score": 31.0,
       "keywords": [
         "Chelsea",
+        "Terry",
+        "Hazard",
         "John Terry",
         "Eden Hazard",
-        "Bridge",
-        "Terry",
-        "Hazard"
+        "Bridge"
       ],
       "summary": "EDEN HAZARD left Chelsea club shop workers stunned as he made an 'incognito' appearance in the Blues' megastore. Well, about as incognito as he can be in a stadium that was often referred to as 'The Garden of Eden' during his time at Stamford Bridge. He went to the store to buy the new season's...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea ‘slap £25million price tag on Marc Guiu’ as former Barcelona striker left without a shirt number for new season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40113747/chelsea-marc-guiu-price-barcelona-transfer-news/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T10:19:59+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "slap",
-        "price",
-        "Marc",
-        "Guiu"
-      ],
-      "summary": "CHELSEA are demanding £25million for Marc Guiu this summer, according to reports - despite leaving him without a shirt number. The No38 that Guiu wore last season has now been assigned to Tosin Adarabioyo. That may be a sign that the end of the 20-year-old's stint at Stamford Bridge is nigh, with Xa",
       "summary_cn": ""
     },
     {
@@ -154,22 +154,40 @@
       "summary_cn": ""
     },
     {
-      "title": "Your views on how England should replace Stokes as rain delays play in Leeds",
+      "title": "Premier League reset: Record manager upheaval leaves 2026/27 wide open",
       "title_cn": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13574925/england-vs-pakistan-first-test-day-two-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
+      "url": "https://www.skysports.com/football/news/12040/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-20T10:30:00+00:00",
+      "published": "2026-08-20T13:00:00+00:00",
       "score": 25.0,
       "keywords": [
-        "views",
-        "England",
-        "replace",
-        "Stokes",
-        "rain",
-        "delays"
+        "Premier",
+        "League",
+        "reset",
+        "Record",
+        "manager",
+        "upheaval"
       ],
-      "summary": "",
+      "summary": "There's a sense of unpredictability surrounding the new Premier League campaign.",
+      "summary_cn": ""
+    },
+    {
+      "title": "The Premier League's new plan to end corner chaos",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl03lv775o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T12:53:03+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "plan",
+        "corner",
+        "chaos"
+      ],
+      "summary": "Holding, pushing, shoving, jostling and grappling. It became something of an epidemic in the Premier League last season - here's what's being done to fix it.",
       "summary_cn": ""
     },
     {
@@ -192,41 +210,60 @@
       "summary_cn": ""
     },
     {
-      "title": "Trippier suffers knee injury on Wolves league debut",
+      "title": "Former Man Utd star ‘in shock talks with Wrexham to join Ryan Reynolds’ star-studded Hollywood project’",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgd5x38p74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/40116407/man-utd-axel-tuanzebe-transfer-talks-wrexham-ryan-reynolds/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-20T09:58:50+00:00",
+      "published": "2026-08-20T13:01:35+00:00",
       "score": 25.0,
       "keywords": [
-        "Wolves",
-        "Trippier",
-        "suffers",
-        "knee",
-        "injury",
-        "league"
+        "Man Utd",
+        "Former",
+        "star",
+        "shock",
+        "talks",
+        "Wrexham"
       ],
-      "summary": "Wolverhampton Wanderers confirm right-back Kieran Trippier suffered a knee ligament injury during his league debut for the club against Blackburn.",
+      "summary": "WREXHAM are reportedly showing interest in handing Axel Tuanzebe a Championship lifeline. The defender, 28, skippered DR Congo to the World Cup last-32 before being knocked out by England. But Tuanzebe was released by Burnley following their relegation from the Premier League last season. And the fr",
       "summary_cn": ""
     },
     {
-      "title": "Premier League 2026-27 preview No 18: Nottingham Forest",
+      "title": "Neil Warnock tears into VAR in Premier League and how to fix it – as he reveals referee he’ll ‘remember on my deathbed’",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/40115735/neil-warnock-slams-var-referee-pawson-deathbed/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-20T11:00:50+00:00",
+      "published": "2026-08-20T12:10:03+00:00",
       "score": 25.0,
       "keywords": [
-        "Nottingham Forest",
-        "Forest",
+        "Neil",
+        "Warnock",
+        "tears",
         "Premier",
         "League",
-        "preview",
-        "Nottingham"
+        "reveals"
       ],
-      "summary": "After a chaotic season under four different coaches, Forest fans will be hoping Oliver Glasner can bring some stability Guardian writers’ predicted position: 11th (NB: this is not necessarily Will Unwin’s prediction but the average of our writers’ tips) Last season’s position: 16th Continue reading.",
+      "summary": "NEIL WARNOCK has slammed VAR's implementation in the Premier League - and referees that use them. The iconic former Prem boss has enjoyed a more than four-decade long career in football management, but he says he can barely recognise the state of the game under VAR's watchful eye. And though he has ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea flop Axel Disasi on verge of stunning Crystal Palace loan transfer after brutal Xabi Alonso snub",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40115702/chelsea-axel-disasi-crystal-palace-transfer-news/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-20T11:51:22+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Chelsea",
+        "Crystal Palace",
+        "West Ham",
+        "flop",
+        "Axel"
+      ],
+      "summary": "CHELSEA outcast Axel Disasi is closing in on a loan move to Crystal Palace. Disasi, 28, has not played a first-team game for the Blues since January last year. He joined Aston Villa for the second half of the 2024/25 season, and then West Ham for the latter part of last campaign. The Hammers have...",
       "summary_cn": ""
     },
     {
@@ -249,173 +286,60 @@
       "summary_cn": ""
     },
     {
-      "title": "Premier League stadium leaks as water pours from roof onto seats just days before new season",
+      "title": "PSG’s Ligue 1 home opener moved to Rennes after pitch damaged by heat",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40114298/aston-villa-park-stadium-water-leak-premier-league-season/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T10:53:44+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Premier",
-        "League",
-        "stadium",
-        "leaks",
-        "water"
-      ],
-      "summary": "UNLUCKY Aston Villa fans may be set for a soggy seat this season after a viral clip showed a major downpour streaming off the roof of Villa Park. Footage posted on social media showed rain hitting rows and rows of seats inside the ground. One eager fan was quick to slam the structure and their...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Manchester United Dream Team preview: Top stars, smart options & potential flops",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40114744/manchester-united-fantasy-football-premier-league-preview-fernandes/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T10:48:09+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Ipswich",
-        "Manchester United",
-        "Manchester",
-        "United",
-        "Dream",
-        "Team"
-      ],
-      "summary": "DREAM TEAM managers are intensely interested in Manchester United ahead of the new season because they are scheduled to face Hull and Ipswich in their first two games. With that in mind, let’s take a closer look at the Red Devils’ top stars, smart options and potential flops. PLAY DREAM TEAM NOW: £1",
-      "summary_cn": ""
-    },
-    {
-      "title": "Barcelona ‘in talks with Inter Milan captain Lautaro Martinez as alternative to Arsenal transfer target Julian Alvarez’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40114011/barcelona-talks-lautaro-martinez-julian-alvarez-alternative/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T10:40:31+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Barcelona",
-        "talks",
-        "Inter",
-        "Milan",
-        "captain"
-      ],
-      "summary": "BARCELONA are in talks over a transfer swoop for Inter Milan forward Lautaro Martinez, according to reports. The Spanish champions are in the market for a new No9 this season, and previously identified Arsenal target Julian Alvarez as their first choice. But a deal for the Atletico Madrid man has pr",
-      "summary_cn": ""
-    },
-    {
-      "title": "When does the summer transfer window 2026 close?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40110401/when-does-summer-transfer-window-close-2026/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T10:07:54+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "summer",
-        "transfer",
-        "window",
-        "close"
-      ],
-      "summary": "ONCE again this summer we have seen Premier League clubs splashing the cash across Europe, but they don't have long left to finalise new signings. As we approach the end of August, football clubs around the continent scramble to get last minute deals done for the new season. Chelsea have broken the ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Carlos Baleba bounced back from Man Utd heartbreak and personal tragedy to brink of sealing dream Old Trafford transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40106822/carlos-baleba-man-united-brighton-camerooon-old-trafford/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T09:49:15+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Carlos",
-        "Baleba",
-        "bounced",
-        "back"
-      ],
-      "summary": "CARLOS BALEBA was left fighting for his career after his failed move to Manchester United last season. Now, the heartbreak could finally work out for the Cameroon star. The 22-year-old has never hidden his ambition of becoming the best midfielder in the world. And this summer, he is on the verge of ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Anthony Gordon misses penalty on Nou Camp debut in just second Barcelona match since transfer from Newcastle",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40112459/anthony-gordon-misses-penalty-barcelona-debut/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T09:36:38+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "Anthony",
-        "Gordon",
-        "misses",
-        "penalty",
-        "Camp"
-      ],
-      "summary": "ANTHONY GORDON had a day to forget as he missed a penalty in just his second Barcelona appearance - and his first in front of a home crowd. The England star made the switch to the Spanish giants from Newcastle ahead of the World Cup earlier this summer. But it has not quite been the...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Curran to have groin surgery as England Test return put on hold",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13574958/sam-curran-england-all-rounder-to-undergo-groin-surgery-as-test-return-put-on-hold",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-20T10:54:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Curran",
-        "groin",
-        "surgery",
-        "England",
-        "Test",
-        "return"
-      ],
-      "summary": "Sam Curran's hopes of a Test comeback have been put on hold as he undergoes surgery on a groin injury.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli",
+      "url": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-20T11:00:51+00:00",
+      "published": "2026-08-20T12:41:01+00:00",
       "score": 20.0,
       "keywords": [
-        "managerial",
-        "merry",
-        "round",
-        "Serie",
-        "stop",
-        "Inter"
+        "Ligue",
+        "home",
+        "opener",
+        "moved",
+        "Rennes",
+        "pitch"
       ],
-      "summary": "Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlight And so, calcio’s “ third apocalypse ” has passed. A lot of Italians enjoyed it more than they expected to. Without a team to cheer for, again, in the men’s World Cup, a nation turned its attenti",
+      "summary": "Sunday’s match against Rennes moved at short notice Parc des Princes surface poses risk to ‘safety of players’ Paris Saint-Germain’s Ligue 1 opener against Rennes has been relocated at short notice, because of damage to their pitch following extreme heat this summer. Sunday’s match will now take pla",
       "summary_cn": ""
     },
     {
-      "title": "Lionel Messi in tribute to late father as he scores first goal since dad’s death in emotional moment",
+      "title": "‘He must resign’: Fans’ petition calls for Infantino to quit as Fifa president",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40113038/lionel-messi-tribute-father-jorge-first-goal-inter-miami/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/football/2026/aug/20/fans-petition-infantino-resignation-fifa-president",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-20T10:00:34+00:00",
+      "published": "2026-08-20T11:13:15+00:00",
       "score": 20.0,
       "keywords": [
-        "Lionel",
-        "Messi",
-        "tribute",
-        "late",
-        "father",
-        "scores"
+        "must",
+        "resign",
+        "Fans",
+        "petition",
+        "calls",
+        "Infantino"
       ],
-      "summary": "LIONEL MESSI paid an emotional tribute to his late father after finding the net in Inter Miami's stalemate with Philadelphia Union last night. The Argentine legend's dad, Jorge, passed away following a long illness earlier this month. And Messi, 39, hinted he could retire soon after struggling to co",
+      "summary": "Fans say Infantino has ‘lost the right to lead’ Statement also calls for Fifa to be reformed Fans’ groups worldwide have launched a petition calling for the resignation of Gianni Infantino as Fifa president and for wholesale reform of the organisation. Infantino is under mounting pressure after bein",
+      "summary_cn": ""
+    },
+    {
+      "title": "Double-elimination, reseeding and 20 teams: MLS plans potential overhaul of playoffs",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/20/mls-playoff-format-overhaul",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-20T12:00:52+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Double",
+        "elimination",
+        "reseeding",
+        "teams",
+        "plans",
+        "potential"
+      ],
+      "summary": "Format would resemble that of Australian rules football League will ditch conferences for five-division setup Major League Soccer is planning a significant overhaul of its playoff format, multiple league and club sources told the Guardian this week. The changes, which would debut in 2028 alongside t",
       "summary_cn": ""
     }
   ]
