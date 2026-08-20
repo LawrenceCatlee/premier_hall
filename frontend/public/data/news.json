@@ -1,61 +1,98 @@
 {
-  "updated_at": "2026-08-20T20:36:52.337250+00:00",
+  "updated_at": "2026-08-20T21:34:57.228692+00:00",
   "items": [
     {
-      "title": "Confident Matthias Jaissle asks Newcastle to ‘avoid the negativity from outside’",
+      "title": "Mikel Arteta’s KIDS are quizzing him on Arsenal transfers as he gives update on Man Utd target Myles Lewis-Skelly",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/20/confident-matthias-jaissle-asks-newcastle-to-avoid-the-negativity-from-outside",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/40121055/arteta-quizzed-arsenal-transfers-man-utd-target-kids/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-20T18:48:35+00:00",
+      "published": "2026-08-20T21:30:55+00:00",
       "score": 39.0,
       "keywords": [
-        "Newcastle",
-        "young",
-        "Confident",
-        "Matthias",
-        "Jaissle",
-        "asks"
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Man Utd",
+        "kelly",
+        "Mikel Arteta"
       ],
-      "summary": "German coach says he has ‘full confidence’ in his squad Plans for new £190m training facility also announced Matthias Jaissle has insisted that Newcastle’s new crop of “under pressure” young players command his “full confidence” and hopes that supporters and reporters will start exhibiting similar b",
+      "summary": "MIKEL ARTETA is blocking out the noise of the transfer window - except when his kids quiz him on the latest rumours. The Arsenal boss has confirmed “100 per cent” that the club will not sell Myles Lewis-Skelly, amid interest from Chelsea and Manchester United. But the Gunners do still want to add a ",
       "summary_cn": ""
     },
     {
-      "title": "Villa £18m bid for Harwood-Bellis rejected by Southampton",
+      "title": "Papers: Two PL clubs interested in Arsenal's Jesus",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx27w8kv9lvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/football/news/12040/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-20T19:14:08+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Southampton",
-        "Taylor",
-        "Villa",
-        "Harwood",
-        "Bellis"
-      ],
-      "summary": "Aston Villa have bid worth around £18m plus add-ons rejected by Southampton for defender Taylor Harwood-Bellis.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Premier League returns and Arsenal sense opportunity with rivals in flux",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-20T19:00:13+00:00",
+      "published": "2026-08-20T22:20:00+00:00",
       "score": 31.0,
       "keywords": [
         "Arsenal",
-        "Mikel Arteta",
-        "Mikel",
-        "Arteta",
-        "Premier",
-        "League"
+        "Jesus",
+        "Papers",
+        "clubs",
+        "interested"
       ],
-      "summary": "New managers galore suggest many of the usual suspects will struggle to dethrone the champions, but their own hunger could be the key Mikel Arteta wants to get his messaging absolutely right. According to him, Arsenal are not about to defend their Premier League title. They are set to attack another",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Is Lawrence England's next all-rounder? Could Cox replace Smith?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13575182/england-vs-pakistan-stuart-broad-says-jordan-cox-could-replace-jamie-smith-as-england-wicketkeeper-after-impressive-second-test-73",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-20T20:37:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Stuart",
+        "Smith",
+        "Lawrence",
+        "England",
+        "next",
+        "rounder"
+      ],
+      "summary": "Stuart Broad has heaped praise on Jordan Cox and says he could replace Jamie Smith as England's future wicketkeeper after the Essex batter made an impressive 73 off 100 balls in the first Test against Pakistan.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hull owner hits out at pundits over 'laughable' criticism",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39eg04p08eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T21:22:34+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Carlton Cole",
+        "Joe Cole",
+        "Hull",
+        "owner",
+        "hits",
+        "pundits"
+      ],
+      "summary": "Hull City owner Acun Ilicali criticises pundits Joe Cole and Carlton Cole after they mock his side's chances of Premier League survival on a podcast.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd ‘make contact with Barcelona star Alejandro Balde’ as they target Lewis Hall transfer alternative",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40121956/man-utd-alejandro-balde-lewis-hall-transfer-barcelona/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-20T20:49:34+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Carrick",
+        "Michael Carrick",
+        "Luke Shaw",
+        "make"
+      ],
+      "summary": "MANCHESTER UNITED have reportedly approached Barcelona star Alejandro Balde as Michael Carrick looks for a new left-back. United have been chasing a long-term successor to Luke Shaw this summer and Lewis Hall has been on the club's wishlist for some time. SunSport revealed last week that United were",
       "summary_cn": ""
     },
     {
@@ -88,50 +125,12 @@
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Tielemans",
         "Carrick",
-        "Youri Tielemans",
-        "Michael Carrick"
+        "Tielemans",
+        "Michael Carrick",
+        "Youri Tielemans"
       ],
       "summary": "MANCHESTER UNITED need their own version of Martin Odegaard to open up defences, claims ex-Red Devils star Gordon Strachan. United have already brought in six new signings this summer to strengthen Michael Carrick's squad. Midfielders like Youri Tielemans and Andrey Santos have come in from Aston Vi",
-      "summary_cn": ""
-    },
-    {
-      "title": "From mega-spending to even MORE transfers and ‘De Zerbi factor’… here’s why Tottenham can get back in Champions League",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40119442/zerbi-tottenham-spurs-champions-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T19:03:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Tottenham",
-        "given",
-        "mega",
-        "spending",
-        "even",
-        "transfers"
-      ],
-      "summary": "TOTTENHAM have too often been the butt of the jokes in the Premier League these past two years following back-to-back 17th-placed finishes. But this term they look like they could be a serious outfit again, after relegation escape artist Roberto De Zerbi was given free reign in the transfer market. ",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Here we go!' - Romano helps Alcaraz announce US Open comeback",
-      "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13575157/carlos-alcaraz-fabrizio-romano-breaks-news-us-open-champion-is-to-make-comeback-from-wrist-injury-at-flushing-meadows",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-20T19:00:00+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Romano",
-        "helps",
-        "Alcaraz",
-        "announce",
-        "Open",
-        "comeback"
-      ],
-      "summary": "Carlos Alcaraz will make his comeback from a wrist injury at the US Open as he seeks to defend his title at Flushing Meadows.",
       "summary_cn": ""
     },
     {
@@ -192,97 +191,78 @@
       "summary_cn": ""
     },
     {
-      "title": "Joao Pedro set to extend Chelsea deal to 2034",
+      "title": "Arsenal exploring Yildiz move - Friday's gossip",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxqvllyg72o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-20T19:06:34+00:00",
+      "published": "2026-08-20T20:47:42+00:00",
       "score": 25.0,
       "keywords": [
-        "Chelsea",
-        "Joao",
-        "Pedro",
-        "extend",
-        "deal"
+        "Arsenal",
+        "Manchester City",
+        "exploring",
+        "Yildiz",
+        "move",
+        "Friday"
       ],
-      "summary": "Chelsea are set to renew striker Joao Pedro's contract until 2034 before the start of the Premier League season.",
+      "summary": "Arsenal explore move for Kenan Yildiz, Atletico Madrid trying to finalise Nicolas Jackson signing and Manchester City in talks over Allan Elias, plus more.",
       "summary_cn": ""
     },
     {
-      "title": "Man Utd’s £150million midfield transfer overhaul is shrewd move that could be another step towards 2028 Prem title goal",
+      "title": "Atletico Madrid ‘willing to sell Julian Alvarez to Arsenal but wantaway striker holding out on Barcelona transfer’",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40095722/man-utd-transfer-news-summer-signings-carlos-baleba-midfielders/",
+      "url": "https://www.thesun.co.uk/sport/40122289/atletico-madrid-arsenal-julian-alvarez-transfer/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-20T19:28:01+00:00",
+      "published": "2026-08-20T20:50:12+00:00",
       "score": 25.0,
       "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "midfield",
-        "transfer",
-        "overhaul",
-        "shrewd"
+        "Arsenal",
+        "Atletico",
+        "Madrid",
+        "willing",
+        "sell",
+        "Julian"
       ],
-      "summary": "MANCHESTER UNITED’S new look midfield might not get many pulses racing ahead of the new season. But the Old Trafford hierarchy will be quietly pleased with their new £150 million trio. They know from experience this summer that top quality operators in that area do not come cheap these days. The Red",
+      "summary": "ATLETICO MADRID are willing to sell Julian Alvarez to Arsenal, according to reports. But the Argentine forward is not interested in moving to the Emirates. Alvarez's Atletico future has come under the microscope this summer amid major interest from Real Madrid and Barcelona. And Arsenal are also tho",
       "summary_cn": ""
     },
     {
-      "title": "Watch: Late Larne double seals first-leg win over 10-man Red Imps",
+      "title": "Naderi keeps Rangers' Conference League hopes alive as Devlin sent off",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5y3ny87r84o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.skysports.com/football/rangers-vs-fk-jablonec/report/577502",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-20T21:35:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Naderi",
+        "keeps",
+        "Rangers",
+        "Conference",
+        "League",
+        "hopes"
+      ],
+      "summary": "Ryan Naderi gave Rangers a crucial &#8211; but slender &#8211; lead in their Conference League play-off against Jablonec.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ronaldinho seeks 300th goal with comeback aged 46",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lq5dk0gneo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-20T19:03:06+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Watch",
-        "Late",
-        "Larne",
-        "double",
-        "seals",
-        "first"
-      ],
-      "summary": "Watch highlights as Irish Premiership champions Larne defeat 10-man Lincoln Red Imps 2-0 in the first leg of their Uefa Conference League play-off.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Gianni Infantino eyes junior tournament in Dominican Republic as potential route out of crisis",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/20/gianni-infantino-eyes-junior-tournament-dominican-republic-route-out-of-fifa-crisis",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-20T19:03:08+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Gianni",
-        "Infantino",
-        "eyes",
-        "junior",
-        "tournament",
-        "Dominican"
-      ],
-      "summary": "Meetings around event seen as chance to lobby for votes Fifa president may meet his most credible challenger Gianni Infantino wants to split the European and North American coalition that is seeking to oust him by attending a junior tournament in the Dominican Republic this weekend in another gamble",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ronaldinho, 46, lands in Italy ahead of presentation as new signing for third-tier minnows 11 years after retirement",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40121342/ronaldinho-retirement-ravenna-owner-match/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-20T19:08:40+00:00",
+      "published": "2026-08-20T20:58:57+00:00",
       "score": 20.0,
       "keywords": [
         "Ronaldinho",
-        "lands",
-        "Italy",
-        "ahead",
-        "presentation",
-        "signing"
+        "seeks",
+        "goal",
+        "comeback",
+        "aged"
       ],
-      "summary": "RONALDINHO is set to come out of retirement aged 46 with Italian minnows Ravenna. The Brazilian legend is returning to professional action 11 years after initially hanging up his boots. The former World Cup winner part-owns Ravenna, who play in Serie C, the third tier of Italian football. And he has",
+      "summary": "Brazil great Ronaldinho says he hopes he can score his 300th career goal after announcing a comeback at the age of 46 at Italian third-tier side Ravenna.",
       "summary_cn": ""
     }
   ]
