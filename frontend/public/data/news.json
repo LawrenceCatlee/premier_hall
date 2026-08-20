@@ -1,4 +1,62 @@
 {
-  "updated_at": "2026-08-20T04:44:53.272230+00:00",
-  "items": []
+  "updated_at": "2026-08-20T05:37:43.103556+00:00",
+  "items": [
+    {
+      "title": "St Helens appoint Australia boss Walters as head coach",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13574884/st-helens-appoint-australia-boss-kevin-walters-as-head-coach-for-next-three-super-league-seasons",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-20T06:09:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Walters",
+        "Helens",
+        "appoint",
+        "Australia",
+        "boss",
+        "head"
+      ],
+      "summary": "St Helens have announced the appointment of Australia boss Kevin Walters as their head coach on a three-year deal from the start of the 2027 Super League season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Aguero and Shearer star in best opening-round debuts",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T05:22:10+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Alan Shearer",
+        "Shearer",
+        "Aguero",
+        "star",
+        "best",
+        "opening"
+      ],
+      "summary": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T05:24:16+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "predictions",
+        "Sport",
+        "pundits",
+        "pick"
+      ],
+      "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+      "summary_cn": ""
+    }
+  ]
 }
