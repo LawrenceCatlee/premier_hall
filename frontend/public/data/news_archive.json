@@ -1,6 +1,101 @@
 {
   "items": [
     {
+      "title": "Spirited Gesture and Angel In My Heart clash at Newcastle",
+      "title_cn": "",
+      "url": "https://www.skysports.com/racing/news/12040/13574643/today-on-sky-sports-racing-lingfield-park-and-newcastle",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-20T07:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Spirited",
+        "Gesture",
+        "Angel",
+        "Heart",
+        "clash"
+      ],
+      "summary": "We have a busy day&#8217;s racing on Thursday with flat action from Lingfield Park and Newcastle, live on Sky Sports Racing ...",
+      "summary_cn": "",
+      "fetched_at": "2026-08-20T06:57:32.011142+00:00"
+    },
+    {
+      "title": "Who am I? Guess Premier League star No 31",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj36grvmrz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T05:57:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Guess",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-20T06:57:32.011142+00:00"
+    },
+    {
+      "title": "St Mirren agree loan deal for Ramsay - gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89nzne3v4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T06:49:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Mirren",
+        "agree",
+        "loan",
+        "deal",
+        "Ramsay"
+      ],
+      "summary": "St Mirren agree deal for Liverpool right-back as Scotland forward set for big money move.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-20T06:57:32.011142+00:00"
+    },
+    {
+      "title": "Five in Five: Football quiz No 4",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yr3w58qnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-20T06:19:41+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Five",
+        "Football",
+        "quiz"
+      ],
+      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "summary_cn": "",
+      "fetched_at": "2026-08-20T06:57:32.011142+00:00"
+    },
+    {
+      "title": "Nou Camp CHAOS as Al Ahly fans are kicked out of stadium by police after fighting Barcelona supporters",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40111696/al-ahly-fans-kicked-out-nou-camp-barcelona-fight/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-20T06:38:39+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Camp",
+        "CHAOS",
+        "Ahly",
+        "fans",
+        "kicked",
+        "stadium"
+      ],
+      "summary": "BARCELONA's pre-season friendly with Egyptian side Al Ahly descended into chaos as visiting fans clashed with home support at the Nou Camp. The Spanish champions looked for a tune up against the north African outfit, with the La Liga season just days away. But the visiting fans apparently didn't get",
+      "summary_cn": "",
+      "fetched_at": "2026-08-20T06:57:32.011142+00:00"
+    },
+    {
       "title": "St Helens appoint Australia boss Walters as head coach",
       "title_cn": "",
       "url": "https://www.skysports.com/rugby-league/news/12040/13574884/st-helens-appoint-australia-boss-kevin-walters-as-head-coach-for-next-three-super-league-seasons",
@@ -39518,102 +39613,6 @@
       "summary": "FIKAYO TOMORI is being lined up by Liverpool as they battle a mini defensive crisis. The AC Milan defender has several English clubs interested, having bounced back from a patchy 2024/25 season. Premier League newcomers Coventry City were among the first to flirt with a move, but they were sensation",
       "summary_cn": "",
       "fetched_at": "2026-08-01T20:13:06.851544+00:00"
-    },
-    {
-      "title": "Hearts concede two late goals to lose at Aberdeen",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/aberdeen-vs-hearts/report/558334",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-01T19:20:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Hearts",
-        "concede",
-        "late",
-        "goals",
-        "lose",
-        "Aberdeen"
-      ],
-      "summary": "Hearts&#8217; miserable summer continued as they conceded two late goals to lose 2-1 to Aberdeen in their Scottish Premiership opener at Pittodrie.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T20:13:06.851544+00:00"
-    },
-    {
-      "title": "Staveley-led consortium agrees deal for minority stake in West Ham",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13569061/west-ham-vanessa-gold-agrees-to-sell-stake-in-championship-club-to-former-newcastle-co-owner-amanda-staveley-led-consortium",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-01T17:08:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Newcastle",
-        "West Ham",
-        "Staveley",
-        "consortium",
-        "agrees",
-        "deal"
-      ],
-      "summary": "Vanessa Gold has confirmed she has agreed to sell her stake in the club to a consortium led by former Newcastle co-owner Amanda Staveley.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T18:04:31.181975+00:00"
-    },
-    {
-      "title": "Brentford sign Sangare for club record fee",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-01T16:48:26+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Brentford",
-        "sign",
-        "Sangare",
-        "club",
-        "record"
-      ],
-      "summary": "Brentford confirmed the signing of Mali midfielder Mamadou Sangare from Lens for a club record fee.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T18:04:31.181975+00:00"
-    },
-    {
-      "title": "All done deals in August 2026",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-01T16:53:33+00:00",
-      "score": 33.0,
-      "keywords": [
-        "done",
-        "deals",
-        "August"
-      ],
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T18:04:31.181975+00:00"
-    },
-    {
-      "title": "Chelsea confirm Welbeck signing from Brighton",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5g1vy3p3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-01T16:22:18+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brighton",
-        "Chelsea",
-        "Danny Welbeck",
-        "Welbeck",
-        "confirm",
-        "signing"
-      ],
-      "summary": "Chelsea complete the signing of Brighton striker Danny Welbeck.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-01T18:04:31.181975+00:00"
     }
   ]
 }
