@@ -1,23 +1,80 @@
 {
-  "updated_at": "2026-08-21T14:42:22.146481+00:00",
+  "updated_at": "2026-08-21T15:40:45.551472+00:00",
   "items": [
     {
-      "title": "Arsenal complete £51m Konsa deal; Emery says Watkins could leave Villa; Iraola on ‘thin squad’: football – live",
+      "title": "'I'm here to win' - Arsenal announce £55m Konsa deal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-21T16:00:00+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Ezri Konsa",
+        "Konsa",
+        "announce",
+        "deal"
+      ],
+      "summary": "Arsenal have completed the &#163;55m deal to sign defender Ezri Konsa from Aston Villa.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Konsa joins Arsenal; Shakhtar to play European home games at Chelsea; Paredes gets 10-match ban: football – live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-21T14:20:39+00:00",
+      "published": "2026-08-21T15:13:10+00:00",
       "score": 39.0,
       "keywords": [
         "Arsenal",
-        "Watkins",
+        "Chelsea",
         "Konsa",
-        "complete",
-        "deal",
-        "Emery"
+        "joins",
+        "Shakhtar",
+        "play"
       ],
       "summary": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Nothing like a bit of exclusive news to kick off the shift. Can we keep this momentum going? We shall see! Uefa and Concacaf have begun talks about setting up a combined Nations League tou",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal CONFIRM £55m transfer for Ezri Konsa as England star, 28, signs four-year deal",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40123796/arsenal-complete-51m-transfer-ezri-konsa-aston-villa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T15:00:00+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Ezri Konsa",
+        "Konsa",
+        "CONFIRM",
+        "transfer"
+      ],
+      "summary": "ARSENAL have completed a £55million deal to sign Aston Villa’s England star Ezri Konsa. The Three Lions defender, 28, has signed a four-year contract - which contains the option to extend it by a further 12 months. The Gunners are paying Villa an upfront fee of £51m, with a further £4m in add-ons. K",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City announce DUREX as official partner as fans all make same Rodri joke",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40129923/manchester-city-durex-deal-rodri-fans-joke-china/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T14:54:35+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Rodri",
+        "City",
+        "announce",
+        "DUREX"
+      ],
+      "summary": "MANCHESTER CITY have confirmed condom brand Durex as a new partner - and fans still think they need more protection. A surprise announcement was released online for the safe sex company to be City's Official Health and Wellness Partner in China. And supporters are convinced that it will take more th",
       "summary_cn": ""
     },
     {
@@ -37,6 +94,25 @@
       "summary_cn": ""
     },
     {
+      "title": "'If I replicate that, everyone is stuffed!' - Wade makes dream start in Aus",
+      "title_cn": "",
+      "url": "https://www.skysports.com/darts/news/12040/13575441/australian-darts-masters-james-wade-dominates-tournament-opener-as-ross-smith-stunned-by-brody-klinge-in-wollongong",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-21T15:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Smith",
+        "replicate",
+        "everyone",
+        "stuffed",
+        "Wade",
+        "makes"
+      ],
+      "summary": "Brody Klinge set up a quarter-final showdown against Gian van Veen at the KenoGo Australian Darts Masters after a shock victory over Ross Smith in Wollongong.",
+      "summary_cn": ""
+    },
+    {
       "title": "Villa expected to make Jackson move if Watkins sold to Al Hilal",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13575424/aston-villa-transfer-news-unai-emerys-side-expected-to-make-nicolas-jackson-approach-if-ollie-watkins-sold-to-al-hilal",
@@ -53,6 +129,25 @@
         "make"
       ],
       "summary": "Aston Villa are expected to make a move for Nicolas Jackson if they sell Ollie Watkins to Al Hilal.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-21T15:20:45+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Ezri Konsa",
+        "Konsa",
+        "Hungry",
+        "Villa"
+      ],
+      "summary": "Arsenal complete the £50m-plus signing of England defender Ezri Konsa from Aston Villa.",
       "summary_cn": ""
     },
     {
@@ -94,22 +189,41 @@
       "summary_cn": ""
     },
     {
-      "title": "Aston Villa’s Rachel Daly: ‘It’s given me more of a focus: club football is my one job’",
+      "title": "Dream Team superfan Robbie Williams reveals his team for 2026/27 — featuring FOUR Manchester United stars",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/21/aston-villa-rachel-daly-womens-super-league-england-lionesses",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/40129749/robbie-williams-reveals-dream-team-premier-league-fantasy/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-21T12:48:49+00:00",
+      "published": "2026-08-21T15:03:11+00:00",
       "score": 31.0,
       "keywords": [
-        "Aston Villa",
-        "Chelsea",
-        "given",
-        "Aston",
-        "Villa",
-        "Rachel"
+        "Manchester United",
+        "Carrick",
+        "Williams",
+        "Michael Carrick",
+        "Dream",
+        "Team"
       ],
-      "summary": "Former England striker on retiring from the Lionesses, being a role model, and taking on Chelsea in the WSL A year after taking up golf, Rachel Daly has already reached a handicap of 19. “I think that’s too generous, I was playing really well in the summer,” she point outs before politely declaring ",
+      "summary": "ROBBIE WILLIAMS has selected his Dream Team ahead of tonight's season opener. The pop music icon is backing Manchester United to start strong against newly-promoted Hull with no fewer than FOUR of Michael Carrick's men making the cut. PLAY DREAM TEAM NOW: £100,000 PRIZE POT! \"The thing is, you can’t",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea confirm Ukrainian giants Shakhtar Donetsk WILL play Champions League home games at Stamford Bridge this season",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40130445/chelsea-shakhtar-donetsk-champions-league-stamford-bridge/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T15:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Bridge",
+        "confirm",
+        "Ukrainian",
+        "giants",
+        "Shakhtar"
+      ],
+      "summary": "CHAMPIONS LEAGUE football will be at Stamford Bridge this season, despite Chelsea not qualifying. Ukrainian giants Shakhtar Donetsk will play their Champions League home matches at the famous old ground. Following the update, Chelsea said: \"FC Shakhtar have played in countries across Europe and we l",
       "summary_cn": ""
     },
     {
@@ -132,41 +246,59 @@
       "summary_cn": ""
     },
     {
-      "title": "'Typical of Rory!' - Westwood hits back at McIlroy's LIV Golf comments",
+      "title": "Argentina slapped with huge fine for Falklands banner and racist abuse and discrimination after England World Cup clash",
       "title_cn": "",
-      "url": "https://www.skysports.com/golf/news/12040/13575381/lee-westwood-hits-back-at-rory-mcilroys-typical-comments-questioning-the-value-of-liv-golf-players-to-pga-tour",
-      "source": "Sky Sports",
+      "url": "https://www.thesun.co.uk/sport/40130179/argentina-world-cup-england-fine-fifa-football/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-21T13:10:00+00:00",
-      "score": 26.0,
+      "published": "2026-08-21T14:28:17+00:00",
+      "score": 31.0,
       "keywords": [
-        "Westwood",
-        "Typical",
-        "Rory",
-        "hits",
-        "back",
-        "McIlroy"
+        "Tottenham",
+        "matic",
+        "Argentina",
+        "slapped",
+        "huge",
+        "fine"
       ],
-      "summary": "Lee Westwood hit back at Rory McIlroy questioning the value of LIV golfers and claimed the comments were \"typical\" of the reigning Masters champion.",
+      "summary": "ARGENTINA have been slapped with a £237,000 fine by FIFA for their disgusting banner claiming the Falklands after their World Cup win over England. Following their dramatic victory over the Three Lions, former Tottenham star Giovani Lo Celso was among the Argentina players involved in celebrations f",
       "summary_cn": ""
     },
     {
-      "title": "Speed-dating, sharks & Hunted - unique pre-season tales from WSL 2",
+      "title": "Partey signs for Al-Shabab in Saudi Pro League",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cevmky1vgzzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyq4vyxzxwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T13:22:35+00:00",
+      "published": "2026-08-21T15:10:27+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Partey",
+        "signs",
+        "Shabab",
+        "Saudi",
+        "League"
+      ],
+      "summary": "Saudi Pro League side Al-Shabab confirm the signing of Ghana midfielder Thomas Partey.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Paredes given TEN-game ban; Argentina fined for Falklands banner",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13575465/leandro-paredes-given-huge-10-game-ban-after-world-cup-final-fighting-as-argentina-punished-for-falklands-banner",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-21T15:16:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Speed",
-        "dating",
-        "sharks",
-        "Hunted",
-        "unique",
-        "season"
+        "given",
+        "Paredes",
+        "game",
+        "Argentina",
+        "fined",
+        "Falklands"
       ],
-      "summary": "BBC Sport looks into some of the unique ways Women's Super League 2 clubs have been preparing during pre-season.",
+      "summary": "FIFA have issued Leandro Paredes a 10-game ban for fighting after the World Cup final and handed Argentina an &#163;235,647 fine for displaying a Falklands banner after beating England in the semi-finals.",
       "summary_cn": ""
     },
     {
@@ -183,6 +315,25 @@
         "Daily"
       ],
       "summary": "John Murray, Ian Dennis & Ali Bruce-Ball return for The Commentators' View.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Spurs agree £85m Savinho deal and close in on Marmoush",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-tottenham-agree-85m-deal-to-sign-man-city-winger-as-spurs-close-in-on-omar-marmoush",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-21T15:51:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Tottenham",
+        "Spurs",
+        "agree",
+        "Savinho",
+        "deal"
+      ],
+      "summary": "Tottenham are closing in on signing Manchester City pair Savinho and Omar Marmoush.",
       "summary_cn": ""
     },
     {
@@ -205,39 +356,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Gyokeres proud of impact at Arsenal last season",
+      "title": "Chelsea reject initial Leeds loan bid for Mudryk",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy5dxg3kv6eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T12:46:52+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Gyokeres",
-        "proud",
-        "impact",
-        "last",
-        "season"
-      ],
-      "summary": "Striker Viktor Gyokeres says he is proud of his contribution to Arsenal last season as they begin the defence of their Premier League title at home to his former side Coventry City on Friday.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why don't Chelsea or Sunderland have a shirt sponsor?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/articles/cn0r9xk94l9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-21T13:18:43+00:00",
+      "published": "2026-08-21T15:22:37+00:00",
       "score": 25.0,
       "keywords": [
         "Chelsea",
-        "Sunderland",
-        "shirt",
-        "sponsor"
+        "reject",
+        "initial",
+        "Leeds",
+        "loan",
+        "Mudryk"
       ],
-      "summary": "BBC Sport's Ask Me Anything team look at why Chelsea and Sunderland are the only Premier League clubs without a front-of-shirt sponsor.",
+      "summary": "Chelsea reject an initial season-long loan offer from Leeds United for winger Mykhailo Mudryk.",
       "summary_cn": ""
     },
     {
@@ -276,44 +410,6 @@
         "names"
       ],
       "summary": "ROBERTO DE ZERBI has revealed Micky van de Ven will be Tottenham's new captain. But the Spurs chief has ruled the Dutchman out of Saturday's season-opener at Brentford due to injury. De Zerbi has handed the armband to Van de Ven, who signed a new five-year deal this summer, following the sale of Cri",
-      "summary_cn": ""
-    },
-    {
-      "title": "Bruno Guimaraes ‘facing weeks out as Arsenal suffer huge injury blow ahead of Coventry clash’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40128652/bruno-guimaraes-arsenal-suffer-huge-injury-blow/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T13:16:39+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "Bruno",
-        "Guimaraes",
-        "facing",
-        "weeks"
-      ],
-      "summary": "ARSENAL have reportedly been dealt a major blow with Bruno Guimaraes facing several weeks on the sidelines. The Brazilian midfielder has picked up an injury coming into the new Premier League season. Guimaraes arrived at the Emirates this summer following his switch from Newcastle. But his early Ars",
-      "summary_cn": ""
-    },
-    {
-      "title": "Former Liverpool star, 30, becomes unemployed as contract is terminated just two days before start of season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40125272/arthur-melo-transfer-contract-terminated-juventus-liverpool/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T12:54:42+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Former",
-        "star",
-        "becomes",
-        "unemployed",
-        "contract"
-      ],
-      "summary": "ARTHUR MELO has had his Juventus contract TORN UP just days before their Serie A opener. The former Liverpool midfielder, 30 has been under contract with the Italian giants since 2020, but now finds himself without a club. Loan spells at Liverpool, Fiorentina, Girona and Gremio in the last four year",
       "summary_cn": ""
     },
     {
@@ -359,7 +455,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T14:20:26+00:00",
+      "published": "2026-08-21T15:26:05+00:00",
       "score": 20.0,
       "keywords": [
         "Argentina",
@@ -373,22 +469,21 @@
       "summary_cn": ""
     },
     {
-      "title": "England Women U20s squad named amid boycott threat",
+      "title": "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2el8j10vl3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T13:00:06+00:00",
+      "published": "2026-08-21T15:17:27+00:00",
       "score": 20.0,
       "keywords": [
-        "England",
-        "Women",
-        "squad",
-        "named",
-        "amid",
-        "boycott"
+        "Bellingham",
+        "Vinicius",
+        "Mbappe",
+        "incompatible",
+        "Mourinho"
       ],
-      "summary": "Manager Lydia Bedford has named her England squad for the upcoming Fifa U20s Women's World Cup amid ongoing threat of a boycott from European nations.",
+      "summary": "Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same team successfully, new head coach Jose Mourinho says.",
       "summary_cn": ""
     },
     {
@@ -406,25 +501,6 @@
         "summer"
       ],
       "summary": "From Morgan Rogers to Ismael Saibari, BBC Sport lists the 20 biggest transfers of the summer so far.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Argentina slapped with huge fine for Falklands banner and racist abuse and discrimination after England World Cup clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40130179/argentina-world-cup-england-fine-fifa-football/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T14:28:17+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Argentina",
-        "slapped",
-        "huge",
-        "fine",
-        "Falklands",
-        "banner"
-      ],
-      "summary": "ARGENTINA have been hit with a huge fine following a series of disciplinary breaches at the World Cup, including the controversial Falklands banner displayed after their semi-final victory over England. FIFA's Disciplinary Committee has fined the Argentine Football Association around £250,000 ($321,",
       "summary_cn": ""
     },
     {
@@ -462,26 +538,7 @@
         "MATCH",
         "player"
       ],
-      "summary": "ARGENTINA star Leandro Paredes has been banned for TEN matches for brawling with Spain stars in the World Cup final. The midfielder is one of FOUR stars punished by Fifa over the ugly scenes after Spain's 1-0 win at the MetLife Stadium last month. Paredes was the centre of the heated bust-up as he s",
-      "summary_cn": ""
-    },
-    {
-      "title": "England to bid for World Cup 2038 or 2042 as Andy Burnham eyes huge tourism boost with Great Britain tournament",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40128384/england-andy-burnham-world-cup-fifa/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T12:49:07+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "World",
-        "Andy",
-        "Burnham",
-        "eyes",
-        "huge"
-      ],
-      "summary": "GREAT BRITAIN is set to enter the race to host the World Cup in either 2038 or 2042. A bid backed by Prime Minister Andy Burnham is being considered as part of a plan to bring football's biggest tournament back to the UK for the first time since 1966. England hosted the World Cup 60...",
+      "summary": "ARGENTINA World Cup Final thug Leandro Paredes has been banned for 10 matches - effectively ruling him out of international football for a year. The midfielder is one of FOUR stars punished by Fifa over the ugly scenes after their extra-time defeat to Spain at the MetLife Stadium last month. Paredes",
       "summary_cn": ""
     }
   ]
