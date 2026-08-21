@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-08-21T09:44:41.459204+00:00",
+  "updated_at": "2026-08-21T10:37:26.758618+00:00",
   "items": [
+    {
+      "title": "Arsenal complete £51m Konsa deal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-21T11:24:00+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Konsa",
+        "Ezri Konsa",
+        "complete",
+        "deal"
+      ],
+      "summary": "Arsenal have completed the &#163;51m deal to sign defender Ezri Konsa from Aston Villa.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Premier League returns, Wan-Bissaka joins Villa, Iraola on Liverpool’s ‘thin squad’: football – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-21T10:15:51+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Liverpool",
+        "Wan-Bissaka",
+        "Premier",
+        "League",
+        "returns",
+        "Bissaka"
+      ],
+      "summary": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Will Nothing like a bit of exclusive news to kick off the shift. Can we keep this momentum going? We shall see! Uefa and Concacaf have begun talks about setting up a combined Nations League to",
+      "summary_cn": ""
+    },
     {
       "title": "Carlos Baleba could be set for shock position change under Michael Carrick once £65m Man Utd transfer is completed",
       "title_cn": "",
@@ -13,30 +51,30 @@
         "Brighton",
         "Manchester United",
         "Man Utd",
-        "Carrick",
         "Michael Carrick",
+        "Carrick",
         "Carlos"
       ],
       "summary": "CARLOS BALEBA could be handed a shock new role under Michael Carrick if he completes his £65million move to Manchester United. The Brighton star is closing in on an Old Trafford switch as Carrick looks to put the finishing touches to his squad. And while Baleba is being brought in to bolster United’",
       "summary_cn": ""
     },
     {
-      "title": "Premier League returns with Arsenal v Coventry; transfer news and more: football – live",
+      "title": "Angry Atletico Madrid ultras plaster ‘Julian Alvarez OUT’ posters outside training ground as Arsenal get transfer boost",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/40125204/atletico-madrid-fans-plaster-julian-alvarez-out-poster-arsenal/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-21T09:34:40+00:00",
+      "published": "2026-08-21T10:03:53+00:00",
       "score": 33.0,
       "keywords": [
         "Arsenal",
-        "Premier",
-        "League",
-        "returns",
-        "Coventry",
-        "transfer"
+        "Angry",
+        "Atletico",
+        "Madrid",
+        "ultras",
+        "plaster"
       ],
-      "summary": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Will Nothing like a bit of exclusive news to kick off the shift. Can we keep this momentum going? We shall see! Uefa and Concacaf have begun talks about setting up a combined Nations League to",
+      "summary": "JULIAN ALVAREZ has been targeted by furious Atletico Madrid ultras as uncertainty continues to swirl around his future. Posters calling for the Argentina superstar to leave the club have been plastered outside Atletico’s training complex. Pictures shared by Atletico Universe showed signs carrying th",
       "summary_cn": ""
     },
     {
@@ -59,78 +97,97 @@
       "summary_cn": ""
     },
     {
-      "title": "SunSport launches revolutionary AI-enhanced Match Centre and Live Blogs as new Premier League season returns TONIGHT",
+      "title": "The inside story of how Trabzonspor pulled off Salah deal",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40094872/sunsport-premier-league-season-ai-live/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T07:45:14+00:00",
-      "score": 33.0,
-      "keywords": [
-        "SunSport",
-        "launches",
-        "revolutionary",
-        "enhanced",
-        "Match",
-        "Centre"
-      ],
-      "summary": "IT HAS been a painful and slow 89 days since the last day of Premier League action. Okay fine, yes I know we’ve had the small matters of the Champions League final, a 48-team 104-match World Cup and record-breaking transfers since then. But tonight, at long last, the Premier League is BACK. Thankful",
-      "summary_cn": ""
-    },
-    {
-      "title": "Spurs agree £85m deal to sign Savinho from Man City",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazi-forward-from-manchester-city",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-21T07:56:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Tottenham",
-        "Man City",
-        "Spurs",
-        "agree",
-        "deal"
-      ],
-      "summary": "Tottenham Hotspur have agreed an &#163;85m deal with Manchester City to sign Savinho.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Could Tottenham Hotspur's Sarr be heading to Galatasaray?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13575263/paper-talk-could-spurs-pape-matar-sarr-be-heading-to-galatasaray",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-21T08:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Hotspur",
-        "Sarr",
-        "heading",
-        "Galatasaray"
-      ],
-      "summary": "Sky Sports rounds up the best of the headlines from the Friday's back pages.",
-      "summary_cn": ""
-    },
-    {
-      "title": "I missed being valued as a footballer - Walti",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdrv86006r4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0jgy929do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T08:10:18+00:00",
+      "published": "2026-08-21T09:41:46+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Salah",
+        "Mohamed Salah",
+        "inside",
+        "story",
+        "Trabzonspor"
+      ],
+      "summary": "Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfer window.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rio Ferdinand’s wife Kate stuns in Burberry bikini as couple party through day at Ibiza beach club",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40125638/rio-ferdinand-wife-kate-burberry-bikini-ibiza/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T10:13:43+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Rio Ferdinand",
+        "Ferdinand",
+        "wife",
+        "Kate",
+        "stuns"
+      ],
+      "summary": "RIO FERDINAND and wife Kate have been living it up in Ibiza. The Manchester United legend and his other half attended a daytime party at the famous O Beach club to watch Burna Boy perform. And Kate marked the occasion with a feel-good Instagram post. In it, she sizzled in a Burberry bikini with Rio.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sex-mad former Barcelona wag stuns in blue and white bikini as fans label her ‘the most beautiful of all’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40124771/barcelona-wag-melissa-satta-kevin-prince-boateng/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T10:11:17+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Boateng",
+        "former",
+        "Barcelona",
+        "stuns",
+        "blue",
+        "white"
+      ],
+      "summary": "A FORMER Barcelona Wag has wowed fans with a set of new bikini pictures. Melissa Satta, 40, is&nbsp;the glamorous former bride&nbsp;of superstar forward Kevin Prince Boateng. And though she is no longer&nbsp;with the 39-year-old ex-Ghana international, she has not lost an ounce of that stardom. The ",
+      "summary_cn": ""
+    },
+    {
+      "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-21T10:24:16+00:00",
       "score": 25.0,
       "keywords": [
-        "Brighton",
-        "missed",
-        "being",
-        "valued",
-        "footballer",
-        "Walti"
+        "Aston Villa",
+        "West Ham",
+        "West",
+        "Bissaka",
+        "joins",
+        "Aston"
       ],
-      "summary": "Brighton midfielder Lia Walti says she \"missed the feeling of being valued as a footballer\" at Juventus and craved a return to the WSL.",
+      "summary": "DR Congo right-back Aaron Wan‑Bissaka arrives at Villa Park on an initial loan deal with a \"conditional obligation to buy\".",
+      "summary_cn": ""
+    },
+    {
+      "title": "Joao Pedro set to sign new Chelsea deal",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-21T10:03:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Joao",
+        "Pedro",
+        "sign",
+        "deal"
+      ],
+      "summary": "Chelsea striker Joao Pedro is set to sign a new contract with the club until 2032, with the option of two further years.",
       "summary_cn": ""
     },
     {
@@ -153,22 +210,58 @@
       "summary_cn": ""
     },
     {
-      "title": "Crysencio Summerville’s panenka penalty goes horribly wrong as he is berated by team-mate after blunder",
+      "title": "Why don't Chelsea or Sunderland have a shirt sponsor?",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40123644/crysencio-summerville-panenka-penalty-al-hilal-saudi-pro-league/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/articles/cn0r9xk94l9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T08:10:10+00:00",
+      "published": "2026-08-21T10:11:58+00:00",
       "score": 25.0,
       "keywords": [
-        "West Ham",
-        "Crysencio",
-        "Summerville",
-        "panenka",
-        "penalty",
-        "goes"
+        "Chelsea",
+        "Sunderland",
+        "shirt",
+        "sponsor"
       ],
-      "summary": "CRYSENCIO SUMMERVILLE fumbled the chance to open his Al-Hilal account as his cheeky panenka went horribly wrong. The £60million summer signing from West Ham was handed the chance to convert from 12 yards after the Saudi side were awarded a penalty while 2-0 up at Al-Fayha on Thursday night. He took ",
+      "summary": "BBC Sport's Ask Me Anything team look at why Chelsea and Sunderland are the only Premier League clubs without a front-of-shirt sponsor.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool ‘make shock Endrick transfer enquiry’ after having £50m Minteh bid rejected by Brighton",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40125754/liverpool-endrick-real-madrid-transfer-news-minteh-bid-rejected/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T10:30:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Liverpool",
+        "make",
+        "shock",
+        "Endrick",
+        "transfer"
+      ],
+      "summary": "LIVERPOOL have reportedly made a shock enquiry for Real Madrid wonderkid Endrick. The Reds are hunting for more attacking reinforcements after seeing a whopping £50million bid for Brighton star Yankuba Minteh knocked back. And Endrick has now emerged as another name on Andoni Iraola’s radar. Accordi",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rise of Espanyol's English winger Dolan: 'I am not the player I was a year ago'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13574143/tyrhys-dolan-interview-espanyol-winger-scored-against-levante-in-laliga-opener-and-is-ready-to-face-real-madrid-next",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-21T11:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Rise",
+        "Espanyol",
+        "English",
+        "winger",
+        "Dolan",
+        "player"
+      ],
+      "summary": "Tyrhys Dolan made an explosive start to the season in LaLiga with a goal in Espanyol&#8217;s 3-0 win over Levante. The English forward looked particularly sharp. Something has changed. &#8220;I am not the person or player I was a year ago,&#8221; Dolan tells Sky Sports .",
       "summary_cn": ""
     },
     {
@@ -207,6 +300,25 @@
         "League"
       ],
       "summary": "Biennial tournament could launch as early as 2028 Confederations are seeking to oust Gianni Infantino Uefa and Concacaf have begun talks about setting up a combined Nations League tournament featuring all 96 European and North and Central American and Caribbean countries, in another direct challenge",
+      "summary_cn": ""
+    },
+    {
+      "title": "Micky van de Ven and other overrated Dream Team players ahead of season opener",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40124355/micky-van-de-ven-overrated-fantasy-football-players/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T10:03:03+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Micky",
+        "other",
+        "overrated",
+        "Dream",
+        "Team",
+        "players"
+      ],
+      "summary": "THE wait is finally over! Dream Team 2026/27 gets underway later today but there's still time for managers to make use of their unlimited transfers to get their XI in shape for Gameweek 1. PLAY DREAM TEAM NOW: £100,000 PRIZE POT! Generally, we prefer to wax lyrical about strong options but it is als",
       "summary_cn": ""
     }
   ]
