@@ -1,23 +1,41 @@
 {
-  "updated_at": "2026-08-21T17:36:15.955142+00:00",
+  "updated_at": "2026-08-21T18:48:20.924827+00:00",
   "items": [
     {
-      "title": "'I'm here to win' - Arsenal announce £55m Konsa deal",
+      "title": "Inter Milan sign Jones from Liverpool",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
+      "url": "https://www.skysports.com/football/news/12040/13575215/curtis-jones-transfer-news-inter-milan-sign-midfielder-from-liverpool-in-30m-deal-with-sell-on-clause-included",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-21T16:00:00+00:00",
+      "published": "2026-08-21T19:30:00+00:00",
       "score": 39.0,
       "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Konsa",
-        "Ezri Konsa",
-        "announce",
-        "deal"
+        "Liverpool",
+        "Jones",
+        "Inter",
+        "Milan",
+        "sign"
       ],
-      "summary": "Arsenal have completed the &#163;55m deal to sign defender Ezri Konsa from Aston Villa.",
+      "summary": "Inter Milan have confirmed the signing of Curtis Jones in a &#163;30m (&#8364;35m) deal from Liverpool.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Strasbourg ‘in TRIPLE raid on Chelsea with Dario Essugo, Deivid Washington and Omari Kellyman set to join sister side’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40132467/strasbourg-raid-chelsea-essugo-washington-kellyman/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T17:57:50+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Chelsea",
+        "Kelly",
+        "Strasbourg",
+        "TRIPLE",
+        "raid",
+        "Dario"
+      ],
+      "summary": "STRASBOURG are set to raid sister club Chelsea for three additions to their first team. The French outfit are owned by the Todd Boehly-fronted BlueCo consortium, who also back Chelsea. Transfer business between the pair has been prolific in recent years, and that trend shows no signs of slowing down",
       "summary_cn": ""
     },
     {
@@ -56,41 +74,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Chelsea to host Shakhtar's Champions League home games amid ongoing exile",
+      "title": "Mohamed Salah: Inside his move to Trabzonspor",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13575487/why-are-shakhtar-playing-at-chelsea-stamford-bridge-to-host-exiled-ukrainian-sides-champions-league-home-games",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-21T16:30:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "host",
-        "Shakhtar",
-        "Champions",
-        "League"
-      ],
-      "summary": "Shakhtar&#160;Donetsk will play their Champions League home games at&#160;Stamford Bridge&#160;this season after coming to an agreement with&#160;Chelsea&#160;to host their European matches while they remain in exile from their Donbas Arena home.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Shakhtar agree to play Champions League ties at Chelsea",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpw9e1dz9kko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2reg4knn5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T15:40:04+00:00",
+      "published": "2026-08-21T17:44:55+00:00",
       "score": 31.0,
       "keywords": [
-        "Chelsea",
-        "Bridge",
-        "Shakhtar",
-        "agree",
-        "play",
-        "Champions"
+        "Liverpool",
+        "Mohamed Salah",
+        "Salah",
+        "Mohamed",
+        "Inside",
+        "move"
       ],
-      "summary": "Ukrainian club Shakhtar Donetsk agree to play Champions League home games at Chelsea's Stamford Bridge this season.",
+      "summary": "Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfer window.",
       "summary_cn": ""
     },
     {
@@ -103,13 +102,89 @@
       "score": 31.0,
       "keywords": [
         "Chelsea",
-        "Delap",
         "Bridge",
+        "Delap",
         "next",
         "bounce",
         "back"
       ],
       "summary": "Chelsea striker Liam Delap has been made available for sale just a year into his Stamford Bridge career. Where will he go and can he bounce back?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal v Coventry City: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-21T18:36:29+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel Arteta",
+        "Arteta",
+        "Mikel",
+        "Coventry",
+        "City"
+      ],
+      "summary": "First game of new Premier League season, 8pm kick-off Arsenal’s opportunity | Football Daily | Mail Scott Plenty of debutants in the cast tonight. Every single one of them will have been dreaming of something like this … Mikel Arteta’s turn to talk pitchside to Sky. “The players need that desire to ",
+      "summary_cn": ""
+    },
+    {
+      "title": "How long does a player have to take a throw-in in the Premier League?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40101321/how-long-throw-in-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T18:40:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "speed",
+        "long",
+        "player",
+        "take",
+        "throw",
+        "Premier"
+      ],
+      "summary": "THE Premier League has returned with numerous rule changes for players and fans to get their heads around. Many new laws have been introduced by the International Football Association Board (IFAB) to tackle tempo disruption and speed up the game. A time limit has now been implemented for how long a ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Why are incorrectly awarded corners not reviewed by VAR in the Premier League?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40117801/var-fails-review-incorrect-corners-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T18:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "given",
+        "incorrectly",
+        "awarded",
+        "corners",
+        "reviewed",
+        "Premier"
+      ],
+      "summary": "Football's lawmakers, the International Football Association Board (IFAB), handed leagues around the world a brand-new option for 2026. They were given the option to implement a rule giving Video Assistant Referees (VAR) the power to overturn wrongly awarded corners. FIFA was quick to embrace the te",
+      "summary_cn": ""
+    },
+    {
+      "title": "How long does an injured player have to stay off the pitch after treatment in Premier League?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40104490/how-long-injured-player-off-pitch-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T18:15:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "speed",
+        "long",
+        "injured",
+        "player",
+        "stay",
+        "pitch"
+      ],
+      "summary": "THE Premier League has returned with stricter rules to ensure the speed of the game is not disrupted. Various new laws have been introduced by the International Football Association Board (IFAB) to prevent scenarios where time-wasting could occur. The rules around injured players have been tightened",
       "summary_cn": ""
     },
     {
@@ -123,124 +198,12 @@
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Cristiano Ronaldo",
         "Ronaldo",
+        "Cristiano Ronaldo",
         "Lionel",
         "Messi"
       ],
       "summary": "A LIONEL MESSI shirt he gave to a Manchester United masseur at the peak of his powers has sold for SIX TIMES as much as a Cristiano Ronaldo one in the same auction. Former Red Devils masseur Rod Thornley has been selling off his incredible collection of football shirts, which included a stunning col",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea REJECT Leeds bid for Mykhailo Mudryk with Brentford and Coventry also keen on loan transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40131767/chelsea-reject-leeds-bid-mykhailo-mudryk/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T16:22:34+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brentford",
-        "Chelsea",
-        "Frank Lampard",
-        "Lampard",
-        "REJECT",
-        "Leeds"
-      ],
-      "summary": "LEEDS UNITED have had a bid rejected by Chelsea to take Mykhailo Mudryk on loan in a three way Premier League battle for the Ukrainian winger. Leeds, managed by Daniel Farke, are joined by Frank Lampard's Coventry in being keen on having Mudryk in their ranks, while Brentford previously showed an in",
-      "summary_cn": ""
-    },
-    {
-      "title": "Aston Villa ‘to launch transfer move for Nicolas Jackson if Ollie Watkins leaves as Chelsea slap £65m tag on striker’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40130888/aston-villa-ollie-watkins-chelsea-nicolas-jackson-transfer-saudi-arabia/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T16:02:55+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Chelsea",
-        "Watkins",
-        "Ollie Watkins",
-        "Aston",
-        "Villa"
-      ],
-      "summary": "ASTON VILLA will try to replace Ollie Watkins with Nicolas Jackson late on in the transfer window if their star striker leaves, according to reports. Watkins, 30, is set on a move to Saudi Arabia and Al-Hilal - who have had a bid of nearly £40million rejected. And Jackson, who played under boss Unai",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal vs Coventry live stream: How to watch as Gunners start Premier League title defence against Sky Blues",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40079762/arsenal-vs-coventry-tv-channel-how-to-watch-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T16:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Man City",
-        "Arteta",
-        "Mikel Arteta",
-        "Mikel",
-        "Coventry"
-      ],
-      "summary": "ARSENAL and Coventry are set to raise the curtain on a new Premier League season at the Emirates! The Gunners have already got their season off to a perfect start, beating Man City 3-0 to claim the Community Shield in Cardiff. For the first time since 2004/05, Mikel Arteta's side come into the openi",
-      "summary_cn": ""
-    },
-    {
-      "title": "Marcus Rashford’s Man Utd return is a dangerous threat to Carrick’s rebuild – he is a problem waiting to explode",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40128420/rashford-man-utd-return-threatens-carricks-rebuild/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T16:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Carrick",
-        "Rashford",
-        "Michael Carrick",
-        "Marcus Rashford"
-      ],
-      "summary": "THERE is a lot of excitement around Marcus Rashford being back in a Manchester United shirt. But I reckon it is a dangerous thing to be adding back into the club’s cultural reset. The Red Devils had a decent run under Michael Carrick last season and, in midfield at least, have done some decent busin",
-      "summary_cn": ""
-    },
-    {
-      "title": "Troy Deeney reveals tips for new Premier League season with huge fears for Man City – and Haaland won’t win Golden Boot",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40129243/troy-deeney-premier-league-man-city-maresca-haaland/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T16:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Haaland",
-        "Troy",
-        "Deeney",
-        "reveals"
-      ],
-      "summary": "DOES anyone know where this idea Enzo Maresca is a serial winner has come from? There seems to be a feeling that Manchester City have appointed a Chosen One&nbsp;with a track record to lead them into the post-Pep Guardiola era. Maresca? A winner? He cannot even be called a top coach yet, there is ve",
-      "summary_cn": ""
-    },
-    {
-      "title": "What does Heggebo's deception ban mean for football?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c05q3946r6ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-21T15:45:19+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Heggebo",
-        "deception",
-        "mean",
-        "football"
-      ],
-      "summary": "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two matches for \"successfully deceiving a match official\".",
       "summary_cn": ""
     },
     {
@@ -261,7 +224,7 @@
       "summary_cn": ""
     },
     {
-      "title": "The Premier League is back! Arsenal vs Coventry LIVE on Sky!",
+      "title": "Bruno absent for Arsenal vs Coventry on Sky!",
       "title_cn": "",
       "url": "https://www.skysports.com/football/arsenal-vs-coventry-city/live/559444",
       "source": "Sky Sports",
@@ -270,11 +233,9 @@
       "score": 25.0,
       "keywords": [
         "Arsenal",
-        "Premier",
-        "League",
-        "back",
-        "Coventry",
-        "LIVE"
+        "Bruno",
+        "absent",
+        "Coventry"
       ],
       "summary": "",
       "summary_cn": ""
@@ -297,41 +258,136 @@
       "summary_cn": ""
     },
     {
-      "title": "Arsenal v Coventry City: Premier League – live",
+      "title": "Why do Coventry City have an elephant on their badge? Club crest explained",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/40130673/why-do-coventry-city-have-an-elephant-on-badge/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-21T17:20:14+00:00",
+      "published": "2026-08-21T18:42:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
         "Coventry",
         "City",
-        "Premier",
-        "League",
-        "live"
+        "elephant",
+        "badge",
+        "Club",
+        "crest"
       ],
-      "summary": "First game of new Premier League season, 8pm kick-off Arsenal’s opportunity | Football Daily | Mail Scott … so let’s start at the very beginning. One step before the beginning, in fact. The Guardian presents, for your edification, the Premier League 2026-27 previews for Arsenal and Coventry City. Ju",
+      "summary": "COVENTRY CITY are back in the Premier League for the first time in 26 years. As the Sky Blues kick off their 2026/27 campaign, millions around the world will be seeing their badge for the first time. For many football fans tuning in to watch the action, one question will spring to mind: \"Why is...",
       "summary_cn": ""
     },
     {
-      "title": "The Premier League returns, F1’s Dutch Grand Prix and The Greatest Rivalry – follow with us",
+      "title": "When can a substitute come on if a player does not leave the pitch in ten seconds in Premier League?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/sport/2026/aug/21/the-premier-league-returns-f1s-dutch-grand-prix-and-the-greatest-rivalry-follow-with-us",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/40102386/premier-league-substitute-how-long-when/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-21T16:03:02+00:00",
+      "published": "2026-08-21T18:25:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Premier",
-        "League",
-        "returns",
-        "Dutch",
-        "Grand",
-        "Prix"
+        "substitute",
+        "come",
+        "player",
+        "leave",
+        "pitch",
+        "seconds"
       ],
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "summary": "SUBSTITUTES may have to wait even longer to get on the pitch in the Premier League this season. The International Football Association Board (IFAB) have introduced several new rules to prevent tempo disruption. Here we look at the new time-limited substitutions and what they mean for the game. When ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Why does an outfield player have to go off for a goalkeeper injury in Premier League?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39910174/why-outfield-player-off-goalkeeper-injury-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T18:05:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "outfield",
+        "player",
+        "goalkeeper",
+        "injury",
+        "Premier",
+        "League"
+      ],
+      "summary": "THE Premier League is BACK and there are several new rule changes for fans to get used to. A new trial has been introduced in English football's top leagues to prevent goalkeeper tactical timeouts. Last season saw plenty of instances in which keepers were attended to by a physio on the pitch, allowi",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham star’s Wag stuns in see-through outfit and bikini top as she shows off summer snaps",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40132764/tottenham-micky-van-de-ven-wag-ella-buffin-instagram/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T18:02:19+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "star",
+        "stuns",
+        "through",
+        "outfit",
+        "bikini"
+      ],
+      "summary": "PREMIER LEAGUE WAG Ella Buffin is welcoming in the return of the English top flight by remembering her lavish summer. The Sun first revealed how Ella was dating Tottenham defender Micky van de Ven in June. And after going Dutch their blossoming romance has seen Ella go all blue next to her man. In a",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ex-Arsenal star Jack Wilshere keeps bed in his Luton office and relies on power naps to cope with 24/7 management graft",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40129240/jack-wilshere-arsenal-luton/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T17:39:29+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "star",
+        "Jack",
+        "Wilshere",
+        "keeps",
+        "Luton"
+      ],
+      "summary": "JACK WILSHERE has a BED in his office — because life in the dugout never stops. Having played at the highest level for Arsenal and England, the ex-midfielder thought he knew true fatigue. Taking charge at Kenilworth Road last October, Wilshere quickly realised playing is instinct, coaching is 24-hou",
+      "summary_cn": ""
+    },
+    {
+      "title": "Why is Bruno Guimaraes not playing for Arsenal vs Coventry in Premier League opening game?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40128562/bruno-guimaraes-not-playing-arsenal-vs-coventry-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T17:38:50+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Newcastle",
+        "Bruno",
+        "Guimaraes",
+        "playing",
+        "Coventry"
+      ],
+      "summary": "ARSENAL host Coventry in the opening game of the new Premier League season tonight - but summer signing Bruno Guimaraes will not feature for the Gunners. The former Newcastle captain signed a four-year deal at the Emirates in a deal worth £75million. ARSENAL VS COVENTRY: LIVE COVERAGE Arsenal are be",
+      "summary_cn": ""
+    },
+    {
+      "title": "Stoke keeper Viktor Johansson targets Premier League & promises fans the drinks are on him if they conquer Championship",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40130622/viktor-johansson-championship-efl-stoke-city-beers/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T17:37:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Stoke",
+        "keeper",
+        "Viktor",
+        "Johansson",
+        "targets",
+        "Premier"
+      ],
+      "summary": "VIKTOR JOHANSSON is hoping the beers will be on him come May as he sets his sights on a dream Premier League promotion. The Stoke keeper famously bought SIX HUNDRED pints for Rotherham supporters at the Cutlers Arms two years ago to thank them for standing by him through tough times before his move ",
       "summary_cn": ""
     },
     {
@@ -389,25 +445,6 @@
         "league"
       ],
       "summary": "Eight-time Olympic champion sprinter Usain Bolt has registered to play for a veterans' Sunday league football team in Manchester.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Leandro Paredes receives 10-match ban as Argentina punished for World Cup final brawl",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-21T16:14:16+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Leandro",
-        "Paredes",
-        "receives",
-        "match",
-        "Argentina",
-        "punished"
-      ],
-      "summary": "Nahuel Molina, Thiago Almada and Gavi also suspended Fifa issue $321,000 fine for Falkland Islands banner Three Argentina players have been banned for their part in a brawl at the end of last month’s World Cup final against Spain , but they have only been fined for displaying a Falkland Islands bann",
       "summary_cn": ""
     }
   ]
