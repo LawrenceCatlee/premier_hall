@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-08-21T05:39:00.452902+00:00",
+  "updated_at": "2026-08-21T06:58:55.738911+00:00",
   "items": [
+    {
+      "title": "Sutton's opening weekend predictions v Courteeners frontman Liam Fray",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-21T06:46:11+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Sutton",
+        "Chris Sutton",
+        "opening",
+        "weekend",
+        "predictions",
+        "Courteeners"
+      ],
+      "summary": "BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend of the new Premier League season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Spurs agree £75m deal to sign Man City's Savinho",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-21T06:30:48+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Tottenham",
+        "Man City",
+        "Spurs",
+        "agree",
+        "deal"
+      ],
+      "summary": "Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons.",
+      "summary_cn": ""
+    },
     {
       "title": "Break-up of Villa's Europa heroes leaves cracks for Emery to fill",
       "title_cn": "",
@@ -18,6 +56,62 @@
         "leaves"
       ],
       "summary": "Aston Villa have already sold three key players this summer, a figure that could potentially double by the end of the transfer window.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham agree £85m deal with Man City for Brazil winger Savinho as talks for Marmoush continue",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40123260/tottenham-man-city-savinho-omar-marmoush-transfer-news/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T05:56:03+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Tottenham",
+        "Man City",
+        "Spurs",
+        "agree",
+        "deal"
+      ],
+      "summary": "TOTTENHAM have struck an £85million deal with Manchester City for Savinho. City only paid £30.8m to sign Savinho from City Football Group-owned Troyes in 2024. And the Brazilian winger, 22, has hardly set the world alight, with just two goals in his 53 Premier League appearances. But Spurs have agre",
+      "summary_cn": ""
+    },
+    {
+      "title": "Swiatek to face Pegula in Cincinnati Open semis after Rybakina injury",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13575234/cincinnati-open-iga-swiatek-to-face-jessica-pegula-in-semi-finals-after-elena-rybakina-suffers-injury",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-21T06:13:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Swiatek",
+        "face",
+        "Pegula",
+        "Cincinnati",
+        "Open",
+        "semis"
+      ],
+      "summary": "Elena Rybakina was forced to retire from her quarter-final against Iga Swiatek at the Cincinnati Open due to an ankle injury.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Flex your football brain with our daily quizzes",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gxxyyn8yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-21T06:29:11+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Flex",
+        "football",
+        "brain",
+        "daily",
+        "quizzes"
+      ],
+      "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
       "summary_cn": ""
     }
   ]
