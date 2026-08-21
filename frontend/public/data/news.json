@@ -1,31 +1,13 @@
 {
-  "updated_at": "2026-08-21T20:33:05.938242+00:00",
+  "updated_at": "2026-08-21T21:31:28.550979+00:00",
   "items": [
-    {
-      "title": "Inter Milan sign Jones from Liverpool",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13575215/curtis-jones-transfer-news-inter-milan-sign-midfielder-from-liverpool-in-30m-deal-with-sell-on-clause-included",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-21T19:30:00+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Liverpool",
-        "Jones",
-        "Inter",
-        "Milan",
-        "sign"
-      ],
-      "summary": "Inter Milan have confirmed the signing of Curtis Jones in a &#163;30m (&#8364;35m) deal from Liverpool.",
-      "summary_cn": ""
-    },
     {
       "title": "Inter complete £30m deal for Liverpool's Jones",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/czdm9pjd0ero?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T18:48:15+00:00",
+      "published": "2026-08-21T21:23:29+00:00",
       "score": 31.0,
       "keywords": [
         "Liverpool",
@@ -38,22 +20,136 @@
       "summary_cn": ""
     },
     {
-      "title": "Arsenal v Coventry City: Premier League – live",
+      "title": "Arsenal sweep Coventry aside to start Premier League title defence in style",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+      "url": "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-21T20:23:42+00:00",
+      "published": "2026-08-21T21:07:53+00:00",
       "score": 31.0,
       "keywords": [
         "Arsenal",
         "Mikel",
-        "Mikel Arteta",
         "Arteta",
-        "Coventry",
-        "City"
+        "Mikel Arteta",
+        "sweep",
+        "Coventry"
       ],
-      "summary": "First game of new Premier League season, 8pm kick-off Arsenal’s opportunity | Football Daily | Mail Scott Plenty of debutants in the cast tonight. Every single one of them will have been dreaming of something like this … Mikel Arteta’s turn to talk pitchside to Sky. “The players need that desire to ",
+      "summary": "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side scraped to a 1-0 victory over already relegated Burnley. Ninety-five days on and, Arsenal having ended their long wait to be crowned c",
+      "summary_cn": ""
+    },
+    {
+      "title": "Michael Carrick reckons Man Utd have a ‘good spine’ as his side launch Premier League title assault",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40133568/manchester-united-michael-carrick-premier-league-title-hull/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T21:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Tielemans",
+        "Youri Tielemans",
+        "Carrick"
+      ],
+      "summary": "MICHAEL CARRICK reckons Manchester United have a “good spine” as his side launch a Prem title assault. The Red Devils aim to show they have the backbone to challenge for a first crown since 2013. Boss Carrick has added central midfielder Youri Tielemans to his spine of goalkeeper Senne Lammens, cent",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City’s Phil Foden enjoys caravan park break with family ahead of season alongside Sun readers on our £9.50 holidays",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40133372/phil-foden-enjoys-caravan-break-with-family/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T21:29:12+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man City",
+        "Phil Foden",
+        "Foden",
+        "City",
+        "Phil",
+        "enjoys"
+      ],
+      "summary": "FOOTIE ace Phil Foden and his family have enjoyed a caravan park break along with Sun readers on our amazing £9.50 holidays. The £230,000-a-week Man City and England international took his partner and kids to the coast before the new season starts. Foden, 26, Rebecca Cooke and children Ronnie, seven",
+      "summary_cn": ""
+    },
+    {
+      "title": "Former England star slams ‘shambles’ broadcasting rules after feature is used on Sky Sports during Arsenal vs Coventry",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40134514/england-lennon-slams-shambles-broadcast-interview-saka/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T21:19:15+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Bukayo Saka",
+        "Former",
+        "England",
+        "star",
+        "slams"
+      ],
+      "summary": "A FORMER England star has blasted the moment Arsenal star Bukayo Saka was interviewed at half-time. The Gunners winger had just scored one of the defending Prem champions' two first-half goals against newly-romoted Coventry City. But his half-time recovery was interrupted by an interview as the game",
+      "summary_cn": ""
+    },
+    {
+      "title": "How new Man City £116m golden boy Elliot Anderson’s ex-team-mate is in jail for brutal MURDER of stranger",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40132498/man-city-elliot-anderson-ex-teammate-jailed-murder/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T21:06:40+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Anderson",
+        "young",
+        "City",
+        "golden"
+      ],
+      "summary": "DREAMING of footballing stardom, two ­promising youngsters pose for their academy’s team photo. But while one will kick off the new season aiming for Premier League glory with Manchester City, the other will be in a prison cell. The different paths taken by England and City midfielder Elliot Anderso",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal 3 Coventry 0: Champions fly out of the traps as Havertz, Saka and Odegaard inflict misery on Frank Lampard",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40134389/arsenal-coventry-report-havertz-saka-odegaard-arteta-lampard/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T20:52:14+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Lampard",
+        "MIKEL",
+        "Frank Lampard",
+        "ARTETA",
+        "MIKEL ARTETA"
+      ],
+      "summary": "MIKEL ARTETA claims Arsenal do not see themselves as defending the Premier League but are actually “attacking” another title. Although this was the latest example of Arteta-speak, it does sort of make sense. The Spaniard looks a different person now the weight has been lifted off his shoulders after",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal player ratings: Christos Tzolis leaves Emirates breathless with stunning Prem debut but Gabriel Magalhaes quiet",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40133261/arsenal-ratings-coventry-christos-tzolis-gabriel/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-21T20:52:03+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Lampard",
+        "Frank Lampard",
+        "player",
+        "ratings",
+        "Christos"
+      ],
+      "summary": "ARSENAL started their title defence in style as they brushed newly promoted Coventry City aside with ease. The Gunners cruised to a 3-0 victory over Frank Lampard's Sky Blues to start the new season exactly where they ended the last one - top of the league. Kai Havertz opened the scoring with a swee",
       "summary_cn": ""
     },
     {
@@ -66,51 +162,70 @@
       "score": 31.0,
       "keywords": [
         "Arsenal",
-        "Jamie Carragher",
-        "Carragher",
         "Lampard",
         "Frank Lampard",
+        "Jamie Carragher",
+        "Carragher",
         "future"
       ],
       "summary": "JAMIE CARRAGHER has insisted Frank Lampard will be a future manager of England. Speaking ahead of the Premier League curtain-raiser between Arsenal and Lampard's Coventry, Carragher gushed with praise for his former England team-mate. Lampard's last visit to the Emirates as boss came during his seco",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal ‘set conditions for Victor Osimhen transfer with Mikel Arteta keen to sign superstar",
+      "title": "Ex-snooker star Dott 'subjected young children to worst kind of abuse'",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40133334/arsenal-victor-osimhen-transfer-decision-galatasaray-wages-julian-alvarez/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/snooker/news/12040/13575637/graeme-dott-former-world-snooker-champion-subjected-young-children-to-worst-kind-of-abuse-court-told",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-21T19:02:39+00:00",
-      "score": 31.0,
+      "published": "2026-08-21T21:46:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Arsenal",
-        "Mikel",
-        "Mikel Arteta",
-        "Arteta",
-        "conditions",
-        "Victor"
+        "young",
+        "snooker",
+        "star",
+        "Dott",
+        "subjected",
+        "children"
       ],
-      "summary": "ARSENAL are desperate to sign Victor Osimhen this summer - but they don't want to pay his enormous wages, reports say. The Gunners are still looking for another big-name forward to add to Mikel Arteta's frontline after missing out on Vinicius Jr. They would love to make that man Julian Alvarez but h",
+      "summary": "Former snooker world champion Graeme Dott \"subjected young children to the worst kind of abuse\", a court has heard.",
       "summary_cn": ""
     },
     {
-      "title": "How long does a player have to take a throw-in in the Premier League?",
+      "title": "Arsenal kick off title defence with thumping win over Coventry",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40101321/how-long-throw-in-premier-league/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/arsenal-vs-coventry-city/report/559444",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-21T18:40:00+00:00",
-      "score": 31.0,
+      "published": "2026-08-21T21:50:00+00:00",
+      "score": 25.0,
       "keywords": [
-        "speed",
-        "long",
-        "player",
-        "take",
-        "throw",
-        "Premier"
+        "Arsenal",
+        "kick",
+        "title",
+        "defence",
+        "thumping",
+        "Coventry"
       ],
-      "summary": "THE Premier League has returned with numerous rule changes for players and fans to get their heads around. Many new laws have been introduced by the International Football Association Board (IFAB) to tackle tempo disruption and speed up the game. A time limit has now been implemented for how long a ",
+      "summary": "Arsenal made a flying start to their Premier League title defence with a 3-0 thumping of newly-promoted Coventry City in the season opener at the Emirates Stadium.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal cruise to victory over Coventry on Premier League return",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13575642/arsenal-3-0-coventry-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-21T21:58:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "cruise",
+        "victory",
+        "Coventry",
+        "Premier",
+        "League"
+      ],
+      "summary": "Highlights from the Premier League match between Arsenal and Coventry.",
       "summary_cn": ""
     },
     {
@@ -130,6 +245,25 @@
         "Baleba"
       ],
       "summary": "Manchester United have agreed a &#163;70m deal for Brighton midfielder Carlos Baleba.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-21T20:52:32+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Tzolis",
+        "shines",
+        "Premier",
+        "League",
+        "debut"
+      ],
+      "summary": "How Arsenal and Coventry's players rated following their Premier League match.",
       "summary_cn": ""
     },
     {
@@ -227,79 +361,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Olympics legend Usain Bolt joins unique SUNDAY LEAGUE team as he follows in footsteps of multiple Prem icons",
+      "title": "Bavidge earns Inverness CT a point against Partick Thistle",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40133219/usain-bolt-joins-sunday-league-wythenshawe/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/videos/cvgl2zz12xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-21T19:19:21+00:00",
-      "score": 25.0,
+      "published": "2026-08-21T20:42:09+00:00",
+      "score": 20.0,
       "keywords": [
-        "Olympics",
-        "legend",
-        "Usain",
-        "Bolt",
-        "joins",
-        "unique"
+        "Bavidge",
+        "earns",
+        "Inverness",
+        "point",
+        "against",
+        "Partick"
       ],
-      "summary": "USAIN BOLT has followed the lead of a number of Premier League icons by joining Sunday league side Wythenshawe Vets. The former world's fastest man, 40, is a footy fanatic who even had a stint with a professional club in Australia's top tier, scoring for the Central Coast Mariners in a friendly. He ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd AGREE £70m Carlos Baleba transfer just hours before first game of season as they finally land Brighton star",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40133505/man-utd-agree-carlos-baleba-transfer-brighton/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T19:04:56+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Man Utd",
-        "AGREE",
-        "Carlos",
-        "Baleba"
-      ],
-      "summary": "MANCHESTER UNITED have agreed a £70m deal for Brighton midfielder Carlos Baleba. The midfielder, 22, has long been linked with Old Trafford and the Red Devils have finally got their man. United's second bid of £65 plus £5m in add-ons has been accepted by the Amex and the player travelled to Manchest",
-      "summary_cn": ""
-    },
-    {
-      "title": "Premier League time wasting rules 2026/27: What has changed this season?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40124356/premier-league-time-wasting-rules-changed/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T19:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Premier",
-        "League",
-        "time",
-        "wasting",
-        "rules",
-        "changed"
-      ],
-      "summary": "THE Premier League is back for what promises to be an exciting 2026/27 season. And with the new campaign come new rules, with the majority of changes this year focused on reducing time-wasting. But exactly what will be different about this season? What are the new Premier League time-wasting rules? ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why do Coventry City have an elephant on their badge? Club crest explained",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40130673/why-do-coventry-city-have-an-elephant-on-badge/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T18:42:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Coventry",
-        "City",
-        "elephant",
-        "badge",
-        "Club",
-        "crest"
-      ],
-      "summary": "COVENTRY CITY are back in the Premier League for the first time in 26 years. As the Sky Blues kick off their 2026/27 campaign, millions around the world will be seeing their badge for the first time. For many football fans tuning in to watch the action, one question will spring to mind: \"Why is...",
+      "summary": "Watch the goals as Alfie Bavidge's late goal earns Inverness Caledonian Thistle a draw against Partick Thistle in the Scottish Championship.",
       "summary_cn": ""
     },
     {
