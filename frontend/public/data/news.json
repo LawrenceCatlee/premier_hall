@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-08-22T05:34:15.640878+00:00",
+  "updated_at": "2026-08-22T06:52:25.615609+00:00",
   "items": [
+    {
+      "title": "Second set of twins a good distraction from injury - Maddison",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-22T05:28:50+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "James",
+        "Second",
+        "twins",
+        "good",
+        "distraction"
+      ],
+      "summary": "Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season.",
+      "summary_cn": ""
+    },
     {
       "title": "My family got me through injury - Maddison",
       "title_cn": "",
@@ -18,6 +37,62 @@
         "Maddison"
       ],
       "summary": "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury.",
+      "summary_cn": ""
+    },
+    {
+      "title": "England player ratings: Tongue, Robinson share top spot and a ball",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13575577/england-player-ratings-ollie-robinson-and-josh-tongue-take-top-marks-after-three-day-victory-over-pakistan-in-first-test",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-22T07:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Robinson",
+        "England",
+        "player",
+        "ratings",
+        "Tongue",
+        "share"
+      ],
+      "summary": "We rate England's players after the thumping innings win over Pakistan at Headingley as Joe Root's side took a 1-0 lead in the three-match Test series...",
+      "summary_cn": ""
+    },
+    {
+      "title": "'I'm not ashamed' - Ellison on mental health and playing at 47",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k78nk1n34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-22T06:19:35+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Leicester",
+        "ashamed",
+        "Ellison",
+        "mental",
+        "health",
+        "playing"
+      ],
+      "summary": "Striker Kevin Ellison, who once signed for Premier League Leicester City, opens up about playing at 47 - and why it's important to talk about mental health.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Flex your football brain with our daily quizzes",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2llxl79y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-22T06:00:53+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Flex",
+        "football",
+        "brain",
+        "daily",
+        "quizzes"
+      ],
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
       "summary_cn": ""
     }
   ]
