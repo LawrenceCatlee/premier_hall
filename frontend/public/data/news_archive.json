@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "My family got me through injury - Maddison",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4g30ewkx75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-22T05:20:29+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "James",
+        "family",
+        "through",
+        "injury",
+        "Maddison"
+      ],
+      "summary": "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-22T05:34:15.610542+00:00"
+    },
+    {
       "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass",
@@ -39595,23 +39615,6 @@
         "Inter"
       ],
       "summary": "CRISTIAN ROMERO'S proposed move to Inter Milan looks set to be hijacked by Atletico Madrid after the Tottenham skipper made the Spanish giants his preferred destination. According to reports in Spain, the Argentine defender has emerged as Diego Simeone's top transfer target once again, with Atletico",
-      "summary_cn": "",
-      "fetched_at": "2026-08-05T15:21:05.977760+00:00"
-    },
-    {
-      "title": "Why is the EFL Cup being played on a weekend?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r44gx5prvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-05T15:04:08+00:00",
-      "score": 20.0,
-      "keywords": [
-        "being",
-        "played",
-        "weekend"
-      ],
-      "summary": "The bulk of the EFL cup's first round fixtures will take place on a weekend, despite traditionally being a midweek cup competition.",
       "summary_cn": "",
       "fetched_at": "2026-08-05T15:21:05.977760+00:00"
     }
