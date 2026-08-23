@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T05:36:00.577744+00:00",
+  "updated_at": "2026-08-23T06:53:06.668585+00:00",
   "items": [
     {
       "title": "Relive: Keegan's Newcastle lose thriller to Liverpool",
@@ -18,6 +18,62 @@
         "lose"
       ],
       "summary": "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribute to Keegan before their Premier League opener at St James' Park.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T06:31:21+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Salah",
+        "Mohamed Salah",
+        "Life",
+        "Isak",
+        "Wirtz"
+      ],
+      "summary": "Liverpool are preparing to begin a season without Mohamed Salah for the first time in a decade - but they haven't replaced him yet. This is why.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Today on Sky Sports Racing: Diamond Necklace headlines at Deauville",
+      "title_cn": "",
+      "url": "https://www.skysports.com/racing/news/12040/13575564/today-on-sky-sports-racing-brighton-worcester-and-deauville-feature-live-on-sunday",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-23T07:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Today",
+        "Sports",
+        "Racing",
+        "Diamond",
+        "Necklace"
+      ],
+      "summary": "We have a busy day's racing on Sunday with action from Brighton, Worcester and Deauville, live on Sky Sports Racing...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Flex your football brain with our daily quizzes",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gddy77ev3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T05:59:40+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Flex",
+        "football",
+        "brain",
+        "daily",
+        "quizzes"
+      ],
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
       "summary_cn": ""
     }
   ]
