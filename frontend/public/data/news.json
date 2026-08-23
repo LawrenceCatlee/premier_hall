@@ -1,23 +1,61 @@
 {
-  "updated_at": "2026-08-23T09:34:55.627489+00:00",
+  "updated_at": "2026-08-23T10:31:30.953117+00:00",
   "items": [
     {
-      "title": "What does Savinho's £75m move reveal about Man City's multi-club model?",
+      "title": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-23T07:43:38+00:00",
-      "score": 25.0,
+      "published": "2026-08-23T10:05:27+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Alexander-Arnold",
+        "Trent Alexander-Arnold",
+        "hurts",
+        "Alexander",
+        "Arnold"
+      ],
+      "summary": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Erling Haaland unveils incredible new look for start of season as he cuts of famous long locks – ‘short hair don’t care’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40143869/erling-haaland-new-look-short-hair-man-city/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-23T10:12:28+00:00",
+      "score": 31.0,
       "keywords": [
         "Manchester City",
-        "Tottenham",
-        "Man City",
-        "Savinho",
-        "move",
-        "reveal"
+        "Haaland",
+        "Erling Haaland",
+        "Erling",
+        "unveils",
+        "incredible"
       ],
-      "summary": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
+      "summary": "ERLING HAALAND sent the internet into meltdown by revealing his shock haircut. The Manchester City striker, 26, is synonymous with his luscious long blonde locks. But just hours before his new Premier League season gets underway, Haaland dropped that he had chopped it all off. He took to X on Sunday",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Faint disgust’ – Jose Mourinho fuming as Trent Alexander-Arnold ‘doesn’t do himself any favours’ in Real Madrid cameo",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40143579/real-madrid-jose-mourinho-trent-alexander-arnold/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-23T09:40:19+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Alexander-Arnold",
+        "Trent Alexander-Arnold",
+        "Faint",
+        "disgust",
+        "Jose",
+        "Mourinho"
+      ],
+      "summary": "JOSE MOURINHO struggled to hide his frustration after Trent Alexander-Arnold whacked a pass straight out of play last night. The Portuguese boss took charge of a competitive Real Madrid match for the first time in 4,380 days as they travelled to Espanyol. Jude Bellingham fired the Spanish giants in ",
       "summary_cn": ""
     },
     {
@@ -26,7 +64,7 @@
       "url": "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-23T09:22:13+00:00",
+      "published": "2026-08-23T10:13:17+00:00",
       "score": 25.0,
       "keywords": [
         "Liverpool",
@@ -37,44 +75,6 @@
         "Premier"
       ],
       "summary": "⚽ Three Premier League matches and much more ahead ⚽ Today’s games | Sign up for Football Daily | Get in touch And last but not least, Leeds snatched a one-nil win away to Forest. Another match with late drama to kick-off opening weekend. This time the excellently named Anton Stach doing the snatchi",
-      "summary_cn": ""
-    },
-    {
-      "title": "Every angle of Ballard's OUTRAGEOUS backheel goal!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13576191/every-angle-of-dom-ballards-outrageous-backheel-goal",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T08:11:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Every",
-        "angle",
-        "Ballard",
-        "OUTRAGEOUS",
-        "backheel",
-        "goal"
-      ],
-      "summary": "Check out all the angles to Dom Ballard's incredible backheel goal for Bristol City.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Celtic pursue Serie A midfielder Gineitis - gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxjg5r0kyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T08:08:17+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Celtic",
-        "pursue",
-        "Serie",
-        "midfielder",
-        "Gineitis",
-        "gossip"
-      ],
-      "summary": "Celtic continue their pursuit of midfield options as Rangers prepare for a big name departure...",
       "summary_cn": ""
     }
   ]
