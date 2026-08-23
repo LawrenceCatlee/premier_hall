@@ -1,6 +1,165 @@
 {
   "items": [
     {
+      "title": "'It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T22:39:24+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Brighton",
+        "Danny Murphy",
+        "Joe Hart",
+        "Watkins",
+        "Murphy"
+      ],
+      "summary": "After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of leaving the club for Al Hilal.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-23T23:28:11.122896+00:00"
+    },
+    {
+      "title": "How the Guehi gamble paid off for Maresca",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cdewe13009do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T23:02:43+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Bournemouth",
+        "Joe Hart",
+        "Guehi",
+        "gamble",
+        "paid"
+      ],
+      "summary": "Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-23T23:28:11.122896+00:00"
+    },
+    {
+      "title": "'Energy, pace, passion' - Newcastle's dynamic performance against Liverpool",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr595yvrevjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T23:01:50+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Newcastle",
+        "Danny Murphy",
+        "Joe Hart",
+        "Murphy",
+        "Energy"
+      ],
+      "summary": "Match of the Day's Joe Hart, Danny Murphy and Gabby Logan analyse Newcastle's energetic performance in their Premier League opener against Liverpool.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-23T23:28:11.122896+00:00"
+    },
+    {
+      "title": "Why 'woeful' Villa crumbled against Brighton",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c39e9gvxznro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T23:03:23+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Brighton",
+        "Danny Murphy",
+        "Joe Hart",
+        "Murphy",
+        "woeful"
+      ],
+      "summary": "Match of the Day's Danny Murphy, Gabby Logan and Joe Hart analyse Aston Villa's \"woeful\" performance against Brighton, which saw them lose 4-0.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-23T23:28:11.122896+00:00"
+    },
+    {
+      "title": "Leeds THRASH York to top Super League",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13576435/york-knights-16-66-leeds-rhinos-super-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-24T00:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Knight",
+        "Leeds",
+        "THRASH",
+        "York",
+        "Super",
+        "League"
+      ],
+      "summary": "Highlights of the Super League clash between the York Knights and Leeds Rhinos.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-23T23:28:11.122896+00:00"
+    },
+    {
+      "title": "How Hull kept plan to stun Man Utd secret",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce343r7245no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T23:12:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Hull",
+        "kept",
+        "plan",
+        "stun"
+      ],
+      "summary": "Hull City boss Sergej Jakirovic kept his plan to topple Manchester United on their Premier League return under wraps for weeks, assistant head coach Dean Holden tells Match of the Day.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-23T23:28:11.122896+00:00"
+    },
+    {
+      "title": "Infantino must remember he is European - Ceferin",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp878rp71v2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T23:20:31+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Infantino",
+        "must",
+        "remember",
+        "European",
+        "Ceferin"
+      ],
+      "summary": "Uefa president Aleksander Ceferin says his Fifa counterpart Gianni Infantino's attempt to sell off a stake in the World Cup was \"worse than the Super League\".",
+      "summary_cn": "",
+      "fetched_at": "2026-08-23T23:28:11.122896+00:00"
+    },
+    {
+      "title": "Ceferin brands Infantino’s failed World Cup plan as ‘even worse than the Super League’",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/24/aleksander-ceferin-gianni-infantino-world-cup-fifa-uefa-super-league",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-23T23:01:44+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Ceferin",
+        "brands",
+        "Infantino",
+        "failed",
+        "World",
+        "plan"
+      ],
+      "summary": "Fifa president will face opponent if he seeks re-election Ceferin: ‘We stopped another try to steal the sport’ The Uefa president, Aleksander Ceferin, has described Gianni Infantino’s doomed attempt to sell stakes in the World Cup as “even worse than the Super League plan” and warned his embattled F",
+      "summary_cn": "",
+      "fetched_at": "2026-08-23T23:28:11.122896+00:00"
+    },
+    {
       "title": "Papers: Palace prepare audacious £50m bid for West Ham captain Bowen",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13576453/crystal-palace-transfer-news-eagles-prepare-audacious-50m-bid-to-lure-jarrod-bowen-back-to-premier-league-paper-talk",
@@ -39467,165 +39626,6 @@
       "summary": "LIONEL MESSI'S father Jorge has died aged 68 after a long illness. Jorge passed away at around 10pm yesterday at a clinic in Rosario, where he had been receiving medical treatment. The news will come as a devastating blow to Messi, who has always maintained a close relationship with his father and a",
       "summary_cn": "",
       "fetched_at": "2026-08-08T14:39:06.930753+00:00"
-    },
-    {
-      "title": "Why does new Arsenal signing Bruno Guimaraes wear the number 39 on the back of his shirt?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40002456/bruno-guimaraes-wear-number-39-shirt/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T11:52:50+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "signing",
-        "Bruno",
-        "Guimaraes",
-        "wear"
-      ],
-      "summary": "BRUNO GUIMARAES has completed a £75million move to Arsenal this summer. The Brazilian midfielder has been one of Newcastle's standout performers since his arrival from Lyon in 2022 - and he leaves as a legend on Tyneside. Guimaraes played 195 times for the Magpies, helping them to Carabao Cup glory ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T13:04:05.769474+00:00"
-    },
-    {
-      "title": "Guimaraes reveals hilarious Rice and Gabriel messages!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13570945/bruno-guimaraes-reveals-hilarious-declan-rice-and-gabriel-messages-no-fights-now-were-friends",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-08T13:21:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Declan Rice",
-        "Guimaraes",
-        "reveals",
-        "hilarious",
-        "Rice"
-      ],
-      "summary": "Bruno Guimaraes reveals hilarious Declan Rice and Gabriel messages before signing for Arsenal. Credit: Arsenal.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T13:04:05.769474+00:00"
-    },
-    {
-      "title": "Former England star puts £3.3million Cheshire mansion with golf simulator, home cinema, gym and steam room up for sale",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40002754/michael-keane-everton-england-sells-cheshire-mansion-home-cinema/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T13:00:07+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Everton",
-        "Michael Keane",
-        "Keane",
-        "Former",
-        "England",
-        "star"
-      ],
-      "summary": "EVERTON ace Michael Keane has put in a transfer request at home by putting his £3.3million Cheshire mansion up for sale – complete with a golf simulator. The Toffees' defender's luxury six-bed pad boasts a stunning split-level cinema with raised seating, gym, steam room and games room. There's also ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T13:04:05.769474+00:00"
-    },
-    {
-      "title": "Man Utd striker scores twice in secret pre-season win for U21s against Ipswich with ‘cheat code’ wonderkid also netting",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40002549/man-utd-u21-ipswich-chido-obi-jim-thwaites/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T12:59:27+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Ipswich",
-        "Manchester United",
-        "Man Utd",
-        "young",
-        "striker",
-        "scores"
-      ],
-      "summary": "MANCHESTER UNITED wonderkids Chido Obi and Jim Thwaites shone bright during a behind-closed-doors friendly. Man Utd's Under-21s destroyed Ipswich's U21s with a score of 5-1 on Friday without any fans in attendance. United's young star Obi, 18, scored a brace against the Tractor Boys in the friendly.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T13:04:05.769474+00:00"
-    },
-    {
-      "title": "Why Arsenal fans will immediately fall in love with Bruno Guimaraes like Geordies who were won over by his passion",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39996920/arsenal-fans-bruno-guimaraes-newcastle-signing/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T12:01:38+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "James",
-        "fans",
-        "immediately",
-        "fall"
-      ],
-      "summary": "BRUNO GUIMARAES has finally signed on the dotted line as a new Arsenal player. The Gunners have sealed a £75million deal to snap up Newcastle's talisman and he will boost what is already a world class midfield. He was a cult figure at St James' Park after making nearly 195 appearances and winning Ne",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T13:04:05.769474+00:00"
-    },
-    {
-      "title": "QPR host Millwall with ALL Carabao Cup first-round games on Sky LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13570685/carabao-cup-first-round-live-scores-match-updates-and-free-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-08T13:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "host",
-        "Millwall",
-        "Carabao",
-        "first",
-        "round",
-        "games"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T13:04:05.769474+00:00"
-    },
-    {
-      "title": "Scotland closing in on head coach to replace Clarke",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07rx4npmpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-08T11:48:24+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Scotland",
-        "closing",
-        "head",
-        "coach",
-        "replace",
-        "Clarke"
-      ],
-      "summary": "The Scottish FA is closing in on the appointment of a new head coach to succeed Steve Clarke.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T13:04:05.769474+00:00"
-    },
-    {
-      "title": "Wolves legend Parkes dies aged 79",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y3d1l0236o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-08T12:28:38+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Wolves",
-        "legend",
-        "Parkes",
-        "dies",
-        "aged"
-      ],
-      "summary": "Former Wolverhampton Wanderers goalkeeper Phil Parkes dies at the age of 79.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T13:04:05.769474+00:00"
     }
   ]
 }
