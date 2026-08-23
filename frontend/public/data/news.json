@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-08-23T10:31:30.953117+00:00",
+  "updated_at": "2026-08-23T11:27:23.958265+00:00",
   "items": [
+    {
+      "title": "Where's it all gone? Haaland reveals new shaven haircut",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13576220/erling-haaland-haircut-manchester-city-forward-reveals-fresh-shaven-style-ahead-of-new-premier-league-season",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-23T11:19:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Bournemouth",
+        "Haaland",
+        "Erling Haaland",
+        "gone",
+        "reveals"
+      ],
+      "summary": "Erling Haaland revealed a fresh haircut before Manchester City's Premier League curtain raiser against Bournemouth on Sunday afternoon, live on Sky Sports.",
+      "summary_cn": ""
+    },
     {
       "title": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
       "title_cn": "",
@@ -11,13 +30,32 @@
       "score": 31.0,
       "keywords": [
         "Liverpool",
-        "Alexander-Arnold",
         "Trent Alexander-Arnold",
+        "Alexander-Arnold",
         "hurts",
         "Alexander",
         "Arnold"
       ],
       "summary": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Youri Tielemans’ pre-season interview admission that left Rio Ferdinand in shock resurfaces after awful Man Utd defeat",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40144008/man-utd-youri-tielemans-rio-ferdinand/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-23T11:06:29+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Ferdinand",
+        "Rio Ferdinand",
+        "Tielemans",
+        "Youri Tielemans"
+      ],
+      "summary": "YOURI TIELEMANS left Rio Ferdinand shocked with an admission about Manchester United's fitness work last month. And the interview clip swiftly resurfaced following the Red Devils' sluggish performance in losing 2-0 at Hull on Saturday. Tielemans, 29, joined United in a £35million move from Aston Vil",
       "summary_cn": ""
     },
     {
@@ -48,8 +86,8 @@
       "published": "2026-08-23T09:40:19+00:00",
       "score": 26.0,
       "keywords": [
-        "Alexander-Arnold",
         "Trent Alexander-Arnold",
+        "Alexander-Arnold",
         "Faint",
         "disgust",
         "Jose",
@@ -59,12 +97,31 @@
       "summary_cn": ""
     },
     {
+      "title": "Brighton vs Aston Villa team news LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/live/559450",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-23T12:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Brighton",
+        "Aston",
+        "Villa",
+        "team",
+        "news"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
       "title": "Isak returns to Newcastle with Liverpool, Premier League buildup, and more – matchday live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-08-23T10:13:17+00:00",
+      "published": "2026-08-23T11:13:28+00:00",
       "score": 25.0,
       "keywords": [
         "Liverpool",
@@ -75,6 +132,43 @@
         "Premier"
       ],
       "summary": "⚽ Three Premier League matches and much more ahead ⚽ Today’s games | Sign up for Football Daily | Get in touch And last but not least, Leeds snatched a one-nil win away to Forest. Another match with late drama to kick-off opening weekend. This time the excellently named Anton Stach doing the snatchi",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-23T10:49:06+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Mateta",
+        "Palace",
+        "dispute",
+        "deepens",
+        "losing"
+      ],
+      "summary": "Striker wants move and said final year of deal was invalid 29-year-old took his case to tribunal and Fifa but lost Jean-Philippe Mateta is in dispute with Crystal Palace over the final year of his contract but failed in an attempt to have it ruled invalid by an independent Premier League tribunal an",
+      "summary_cn": ""
+    },
+    {
+      "title": "Off The Ball with more petty and ill-informed football views",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T13:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Ball",
+        "petty",
+        "informed",
+        "football",
+        "views"
+      ],
+      "summary": "The most petty and ill-informed football show on radio.",
       "summary_cn": ""
     }
   ]
