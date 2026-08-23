@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-08-23T11:27:23.958265+00:00",
+  "updated_at": "2026-08-23T12:54:23.823944+00:00",
   "items": [
+    {
+      "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-23T13:02:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "City",
+        "agree",
+        "record",
+        "breaking"
+      ],
+      "summary": "Manchester City have agreed a deal with Lille for Morocco international midfielder Ayyoub Bouaddi worth up to &#163;86m (&#8364;100m).",
+      "summary_cn": ""
+    },
     {
       "title": "Where's it all gone? Haaland reveals new shaven haircut",
       "title_cn": "",
@@ -21,22 +40,117 @@
       "summary_cn": ""
     },
     {
-      "title": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
+      "title": "Rooney says Man Utd must become feared - but what went wrong at Hull?",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgxg1g8nkro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-23T10:05:27+00:00",
+      "published": "2026-08-23T11:43:19+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Rooney",
+        "must",
+        "become",
+        "feared"
+      ],
+      "summary": "Manchester United made an awful start to their Premier League campaign at newly-promoted Hull. What went wrong?",
+      "summary_cn": ""
+    },
+    {
+      "title": "'New season, new trim' - Haaland reveals buzzcut",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-23T12:36:54+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Haaland",
+        "Erling Haaland",
+        "season",
+        "trim",
+        "reveals"
+      ],
+      "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Best reactions to Erling Haaland new haircut as Noel Gallagher, Guardiola, Zlatan and his girlfriend give their verdict",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40144324/erling-haaland-man-city-haircut-gallagher-guardiola/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-23T12:48:46+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Haaland",
+        "Erling Haaland",
+        "Best",
+        "reactions",
+        "Erling"
+      ],
+      "summary": "ERLING HAALAND stunned the football world by chopping off his mane of blond hair on Saturday. The Manchester City striker, 26, had become synonymous with his long flowing locks throughout his four-year stint in the Premier League. On the eve of the new season, however, Haaland decided to get a drama",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ollie Watkins OUT of Aston Villa squad to face Brighton as talks continue over shock Al Hilal transfer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40144771/ollie-watkins-aston-villa-squad-al-hilal-transfer-talks/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-23T12:32:22+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Brighton",
+        "Watkins",
+        "Ollie Watkins",
+        "Ollie",
+        "Aston"
+      ],
+      "summary": "OLLIE WATKINS has been left out of Aston Villa's matchday squad for the showdown against Brighton - after being heavily linked with a shock exit. The striker, 30, missed the Midlands giants' Super Cup loss to Paris Saint-Germain last week. And Watkins was not part of the travelling party to the sout",
+      "summary_cn": ""
+    },
+    {
+      "title": "Michael Owen blasts those who mocked his ‘brave’ apple throwing story as ‘muppets living with parents when they’re 40’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40144355/michael-owen-blasts-apple-story/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-23T12:09:35+00:00",
       "score": 31.0,
       "keywords": [
         "Liverpool",
-        "Trent Alexander-Arnold",
-        "Alexander-Arnold",
-        "hurts",
-        "Alexander",
-        "Arnold"
+        "Manchester United",
+        "young",
+        "Michael Owen",
+        "Michael",
+        "Owen"
       ],
-      "summary": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
+      "summary": "MICHAEL OWEN has lashed out after being ridiculed for tossing apple cores into bins in a desperate bid to build confidence as a youngster. The legendary striker, 46, enjoyed a trophy-laden career with the likes of Liverpool, Real Madrid and Manchester United. But Owen has now blasted his critics whi",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City agree stunning £85million transfer for Ayyoub Bouaddi after Rodri and Reijnders exits",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40144609/man-city-agree-ayyoub-bouaddi-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-23T12:06:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Rodri",
+        "City",
+        "agree",
+        "stunning"
+      ],
+      "summary": "MANCHESTER CITY have reached an agreement for World Cup wonderkid Ayyoub Bouaddi. The 18-year-old midfielder impressed for Morocco during the international competition in the US earlier this summer. The teenager, who made 30 appearances for Ligue 1 outfit Lille last season, was monitored by a number",
       "summary_cn": ""
     },
     {
@@ -50,54 +164,16 @@
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Ferdinand",
-        "Rio Ferdinand",
         "Tielemans",
-        "Youri Tielemans"
+        "Rio Ferdinand",
+        "Youri Tielemans",
+        "Ferdinand"
       ],
       "summary": "YOURI TIELEMANS left Rio Ferdinand shocked with an admission about Manchester United's fitness work last month. And the interview clip swiftly resurfaced following the Red Devils' sluggish performance in losing 2-0 at Hull on Saturday. Tielemans, 29, joined United in a £35million move from Aston Vil",
       "summary_cn": ""
     },
     {
-      "title": "Erling Haaland unveils incredible new look for start of season as he cuts of famous long locks – ‘short hair don’t care’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40143869/erling-haaland-new-look-short-hair-man-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T10:12:28+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Haaland",
-        "Erling Haaland",
-        "Erling",
-        "unveils",
-        "incredible"
-      ],
-      "summary": "ERLING HAALAND sent the internet into meltdown by revealing his shock haircut. The Manchester City striker, 26, is synonymous with his luscious long blonde locks. But just hours before his new Premier League season gets underway, Haaland dropped that he had chopped it all off. He took to X on Sunday",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Faint disgust’ – Jose Mourinho fuming as Trent Alexander-Arnold ‘doesn’t do himself any favours’ in Real Madrid cameo",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40143579/real-madrid-jose-mourinho-trent-alexander-arnold/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T09:40:19+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Trent Alexander-Arnold",
-        "Alexander-Arnold",
-        "Faint",
-        "disgust",
-        "Jose",
-        "Mourinho"
-      ],
-      "summary": "JOSE MOURINHO struggled to hide his frustration after Trent Alexander-Arnold whacked a pass straight out of play last night. The Portuguese boss took charge of a competitive Real Madrid match for the first time in 4,380 days as they travelled to Espanyol. Jude Bellingham fired the Spanish giants in ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Brighton vs Aston Villa team news LIVE!",
+      "title": "Vuskovic makes PL debut for Brighton as Villa leave out star names LIVE!",
       "title_cn": "",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/live/559450",
       "source": "Sky Sports",
@@ -105,52 +181,107 @@
       "published": "2026-08-23T12:00:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Aston Villa",
         "Brighton",
-        "Aston",
+        "Vuskovic",
+        "makes",
+        "debut",
         "Villa",
-        "team",
-        "news"
+        "leave"
       ],
       "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "Isak returns to Newcastle with Liverpool, Premier League buildup, and more – matchday live",
+      "title": "Man City agree £86m deal for teen midfielder Bouaddi",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-23T11:13:28+00:00",
+      "published": "2026-08-23T12:41:05+00:00",
       "score": 25.0,
       "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "Forest",
-        "Isak",
-        "returns",
-        "Premier"
+        "Manchester City",
+        "Man City",
+        "City",
+        "agree",
+        "deal",
+        "teen"
       ],
-      "summary": "⚽ Three Premier League matches and much more ahead ⚽ Today’s games | Sign up for Football Daily | Get in touch And last but not least, Leeds snatched a one-nil win away to Forest. Another match with late drama to kick-off opening weekend. This time the excellently named Anton Stach doing the snatchi",
+      "summary": "Manchester City agree a deal in principle for 18-year-old Lille midfielder Ayyoub Bouaddi worth 100m euros (£86m).",
       "summary_cn": ""
     },
     {
-      "title": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
+      "title": "The maths whizz turned £86m teenage star heading to Man City",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-23T10:49:06+00:00",
+      "published": "2026-08-23T12:44:36+00:00",
       "score": 25.0,
       "keywords": [
-        "Crystal Palace",
-        "Mateta",
-        "Palace",
-        "dispute",
-        "deepens",
-        "losing"
+        "Manchester City",
+        "Man City",
+        "maths",
+        "whizz",
+        "turned",
+        "teenage"
       ],
-      "summary": "Striker wants move and said final year of deal was invalid 29-year-old took his case to tribunal and Fifa but lost Jean-Philippe Mateta is in dispute with Crystal Palace over the final year of his contract but failed in an attempt to have it ruled invalid by an independent Premier League tribunal an",
+      "summary": "Manchester City have agreed a deal in principle with Lille to sign midfielder Ayyoub Bouaddi - what makes him such a highly rated talent?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Manchester City v Bournemouth: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/aug/23/manchester-city-v-bournemouth-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-23T12:45:16+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Bournemouth",
+        "Manchester",
+        "City",
+        "Premier",
+        "League"
+      ],
+      "summary": "⚽ Premier League updates from the 2pm BST kick-off ⚽ Live scores | Sign up for Football Daily | Mail Emillia More on City’s move for Ayyoub Bouaddi here: Marco Rose spoke positively before his first competitive match in charge of Bournemouth, at Manchester City on Sunday. The German head coach was u",
+      "summary_cn": ""
+    },
+    {
+      "title": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-23T12:32:43+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Manchester",
+        "City",
+        "agree",
+        "deal",
+        "worth"
+      ],
+      "summary": "Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club’s summer spend to n",
+      "summary_cn": ""
+    },
+    {
+      "title": "How hot does it have to be for hydration breaks in the Premier League?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40123635/premier-league-hydration-breaks-temperature-guide/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-23T12:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "hydration",
+        "breaks",
+        "Premier",
+        "League"
+      ],
+      "summary": "THE Premier League has returned for the 2026/27 season after an exciting summer of World Cup football. One feature from the international tournament in North America was its controversial hydration breaks, but will we see them introduced to England's top flight? What are hydration breaks? Hydration ",
       "summary_cn": ""
     },
     {
