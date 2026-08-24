@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-08-24T20:39:23.434317+00:00",
+  "updated_at": "2026-08-24T21:36:30.815372+00:00",
   "items": [
+    {
+      "title": "Premier League’s 11,000-capacity stadium NOT READY for weekend clash as builders work round clock on new additions",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40159825/bournemouth-vitality-stadium-not-ready-everton-clash/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-24T20:46:22+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Everton",
+        "Bournemouth",
+        "Premier",
+        "League",
+        "capacity",
+        "stadium"
+      ],
+      "summary": "BOURNEMOUTH builders are working around the clock to get the revamped Vitality Stadium ready for Saturday’s home kick-off against Everton. The Cherries announced last week their home will be open for business intime with sections of the stadium closed. But exclusive SunSport photos show huge lifting",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea's electric front three edge out Fulham in pulsating MNF opener",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/fulham-vs-chelsea/report/559453",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-24T21:45:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Fulham",
+        "Palmer",
+        "electric",
+        "front",
+        "edge"
+      ],
+      "summary": "Cole Palmer was back to his best to get Xabi Alonso's Chelsea career off to a winning start in a chaotic 3-2 victory at Fulham on Monday Night Football.",
+      "summary_cn": ""
+    },
     {
       "title": "Wirtz and a worst-ever transfer window? Carra's damning Liverpool verdict",
       "title_cn": "",
@@ -21,60 +59,98 @@
       "summary_cn": ""
     },
     {
-      "title": "Forest working on deal for Chelsea striker Delap",
+      "title": "Rogers & Palmer star but Sanchez struggles - Fulham v Chelsea player ratings",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8xkl50ylweo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w7z190o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-24T19:12:07+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Nottingham Forest",
-        "Forest",
-        "Delap",
-        "working",
-        "deal"
-      ],
-      "summary": "Nottingham Forest are working on a deal to sign Chelsea striker Liam Delap.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Villa in talks with Club Brugge for defender Ordonez",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0469r217q5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T18:41:46+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Southampton",
-        "Taylor",
-        "Villa",
-        "talks",
-        "Club"
-      ],
-      "summary": "Aston Villa are working on a move for Club Brugge central defender Joel Ordonez after failing to agree a deal with Southampton for Taylor Harwood-Bellis.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Fulham v Chelsea: Premier League – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/24/fulham-v-chelsea-premier-league-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-24T20:35:23+00:00",
+      "published": "2026-08-24T20:54:09+00:00",
       "score": 31.0,
       "keywords": [
         "Chelsea",
         "Fulham",
         "Palmer",
-        "Premier",
-        "League",
-        "live"
+        "Rogers",
+        "star",
+        "Sanchez"
       ],
-      "summary": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Sign up for the Football Daily email | Follow on TikTok Joao Pedro, Chelsea’s new No9, has scored after 30 seconds. Cuenca’s driven ball out of defence was headed whence it came by one of the Chelsea centre-backs. Palmer slipped a simple* first-ti",
+      "summary": "Morgan Rogers scores on his Chelsea debut as Xabi Alonso's side beat Fulham at Craven Cottage - here are BBC Sport's player ratings.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City enter race for Gakpo - Tuesday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddv72gj7qro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-24T20:48:21+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Manchester United",
+        "Newcastle",
+        "Man City",
+        "kelly",
+        "City"
+      ],
+      "summary": "Manchester City emerge as surprise Cody Gakpo suitors, Newcastle agree to sign Nico Gonzalez, and Manchester United are confident of signing Myles Lewis-Skelly, plus more.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea’s front three dazzle as they edge out Fulham in derby thriller",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/24/fulham-chelsea-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-24T21:05:48+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Fulham",
+        "Palmer",
+        "front",
+        "dazzle",
+        "edge"
+      ],
+      "summary": "This was a crash course for Xabi Alonso in life at Chelsea. His new side thrilled in possession at Craven Cottage. The front three of João Pedro, Cole Palmer and Morgan Rogers combined to devastating effect and there was even an assist for the new £52m centre-back, Maxence Lacroix. At times the only",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea player ratings: Joao Pedro makes mockery of No9 curse as Sanchez shows new keeper needed after win over Fulham",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40159055/chelsea-fulham-player-ratings-cole-palmer-joao-pedro-sanchez/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-24T20:54:41+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Fulham",
+        "Bernd Leno",
+        "Palmer",
+        "player",
+        "ratings"
+      ],
+      "summary": "Chelsea might be a little cold, after all. Joao Pedro got Chelsea's season off to the perfect start after just 31 seconds with a delightful chip over Bernd Leno, having been set up by Cole Palmer in a 3-2 win at Craven Cottage. But with the lead in their hands, Chelsea showed the same signals...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fulham 2 Chelsea 3: Cole Palmer back to his best as he, Joao Pedro and Morgan Rogers win thriller at Craven Cottage",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40159883/chelsea-fulham-cole-palmer-joao-pedro-morgan-rogers/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-24T20:53:51+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Fulham",
+        "Palmer",
+        "Cole",
+        "back",
+        "best"
+      ],
+      "summary": "CHELSEA’S front three decided a brilliant game with a performance to send shivers down the spines of their rivals. But Blues goalkeeper Robert Sanchez had the same effect on his own supporters as another gaffe-filled display helped Fulham play a full part in a classic derby. There is rarely a dull m",
       "summary_cn": ""
     },
     {
@@ -94,44 +170,6 @@
         "ignores"
       ],
       "summary": "MORGAN ROGERS showed he wouldn't be intimidated by his £117m transfer fee - or his team-mate's warning - as he scored 41 minutes into his Chelsea debut. The England star, who joined from Aston Villa, then performed the iconic 'ice-cold' celebration, shared by himself and Cole Palmer. In pre-season, ",
-      "summary_cn": ""
-    },
-    {
-      "title": "JJ Gabriel, 15, scores and assists in breathtaking Man Utd U21 debut in front of Carrick as amazing rise continues",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40158951/jj-gabriel-man-utd-debut-michael-carrick/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T19:27:57+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Ipswich",
-        "Manchester United",
-        "Man Utd",
-        "Carrick",
-        "given",
-        "Gabriel"
-      ],
-      "summary": "JJ GABRIEL had a night to remember after making his first competitive start for the Manchester United Under-21s. The up-and-coming talent, 15, was given the nod in the Red Devils' season-opening Premier League 2 clash against Ipswich Town. And Gabriel, who has been told he is going nowhere in the fi",
-      "summary_cn": ""
-    },
-    {
-      "title": "Joao Pedro breaks Chelsea’s No9 curse in just 31 seconds with historic goal in blistering start to season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40159113/joao-pedro-breaks-chelsea-no9-curse-31-seconds-fulham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T19:08:50+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "Palmer",
-        "Joao",
-        "Pedro",
-        "breaks"
-      ],
-      "summary": "JOAO PEDRO broke Chelsea's No9 curse after just 31 SECONDS. The striker gave new boss Xabi Alonso the dream start in their Premier League opener at Fulham. After winning the ball, Chelsea swept through the Cottagers' defence. Cole Palmer fed Pedro and the Brazilian - who signed a new eight-year cont",
       "summary_cn": ""
     },
     {
@@ -192,6 +230,25 @@
       "summary_cn": ""
     },
     {
+      "title": "Man City interested in Gakpo",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13576800/cody-gakpo-transfer-news-man-city-interested-in-signing-tottenham-target-from-liverpool-but-reds-dont-want-to-sell",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-24T21:50:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester City",
+        "Tottenham",
+        "Man City",
+        "City",
+        "interested"
+      ],
+      "summary": "Manchester City are interested in signing Tottenham target Cody Gakpo from Liverpool.",
+      "summary_cn": ""
+    },
+    {
       "title": "Leeds latest: Elvedi could make debut in rotated team at Forest, says Farke",
       "title_cn": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -208,82 +265,6 @@
         "debut"
       ],
       "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man City latest: Agreement reached for Brazilian winger",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T19:24:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Man City",
-        "City",
-        "latest",
-        "Agreement",
-        "reached",
-        "Brazilian"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Brighton latest: Seagulls work on Hadjam deal and exploring Hernandez move",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T19:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "latest",
-        "Seagulls",
-        "work",
-        "Hadjam",
-        "deal"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Brentford latest: Carra explains how Bees battered Spurs",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T18:57:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "Spurs",
-        "latest",
-        "Carra",
-        "explains",
-        "Bees"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man City agree deal for Palmeiras winger Allan",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpveylz0n8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T19:27:47+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "agree",
-        "deal",
-        "Palmeiras"
-      ],
-      "summary": "Manchester City agree to sign winger Allan Elias from Palmeiras in a deal worth up to £34.2m.",
       "summary_cn": ""
     },
     {
@@ -306,22 +287,22 @@
       "summary_cn": ""
     },
     {
-      "title": "Post-Pep Premier League era begins with blast of hyper-managed shock and awe | Barney Ronay",
+      "title": "Ruben Dias’ romance with model exposed after she shares videos from Man City star’s BED months after Maya Jama split",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/24/post-pep-premier-league-era-begins-with-blast-of-hyper-managed-shock-and-awe",
-      "source": "The Guardian",
+      "url": "https://www.thesun.co.uk/sport/40158891/ruben-dias-girlfiend-bed-videos-maya-jama-split/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-08-24T19:30:15+00:00",
+      "published": "2026-08-24T21:00:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Post",
-        "Premier",
-        "League",
-        "begins",
-        "blast",
-        "hyper"
+        "Manchester City",
+        "Man City",
+        "Ruben",
+        "Dias",
+        "romance",
+        "model"
       ],
-      "summary": "Possession numbers, the intense physicality and the pure rhythm of games all felt noticeably new as the season began There has been something oddly narcotic and moreish about the drip‑drip of fresh Pep Guardiola content either side of the start of the new Premier League season. Eras come and go. Eve",
+      "summary": "RUBEN Dias’ new romance with a model has been rumbled after she posted videos from his BED. The Manchester City defender invited Valentina Best, known as Vally, to stay the night at the home he shared with ex Maya Jama until April. Fans recognised the bedroom decor from Maya’s previous shots and the",
       "summary_cn": ""
     },
     {
@@ -359,23 +340,7 @@
         "demand",
         "star"
       ],
-      "summary": "CHELSEA fans made a desperate plea for Robert Sanchez to be SOLD after being guilty of a huge blunder in the season opener against Fulham. Blues boss Xabi Alonso has spent big on reinforcements this summer, with Morgan Rogers becoming the most expensive signing in the West Londoners' history. But Sa",
-      "summary_cn": ""
-    },
-    {
-      "title": "BBC Women's Football Weekly",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p63gnz?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T19:06:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Women",
-        "Football",
-        "Weekly"
-      ],
-      "summary": "Featuring Eder Maestre, Godfrey, Goodwin, Fernandez, Kennedy and new signing Mary Earps!",
+      "summary": "CHELSEA fans made a desperate plea for Robert Sanchez to be SOLD after being guilty of a huge blunder in the season-opening win over Fulham. Blues boss Xabi Alonso has spent big on reinforcements this summer, with Morgan Rogers becoming the most expensive signing in the West Londoners' history. But ",
       "summary_cn": ""
     }
   ]
