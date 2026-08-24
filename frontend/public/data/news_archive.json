@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title": "Today on Sky Sports Racing: Exciting Camarda Rc returns at Windsor",
+      "title_cn": "",
+      "url": "https://www.skysports.com/racing/news/12040/13576203/today-on-sky-sports-racing-exciting-debut-winner-camarda-rc-returns-at-windsor",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-24T06:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Today",
+        "Sports",
+        "Racing",
+        "Exciting",
+        "Camarda"
+      ],
+      "summary": "Brighton and Windsor play host to Monday's action, live on Sky Sports Racing.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-24T05:44:58.350595+00:00"
+    },
+    {
+      "title": "Flex your football brain with our daily quizzes",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrrzn1dnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-24T05:35:37+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Flex",
+        "football",
+        "brain",
+        "daily",
+        "quizzes"
+      ],
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-24T05:44:58.350595+00:00"
+    },
+    {
       "title": "'It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o?at_medium=RSS&at_campaign=rss",
@@ -39584,46 +39623,6 @@
         "OPEN"
       ],
       "summary": "CRISTIAN ROMERO wants to sign for Arsenal - but Tottenham have NO intention of selling to their bitter rivals. World Cup finalist Romero, 28, is set to leave Spurs this summer after five seasons in N17. Arch enemies Arsenal are understood to be interested in the Argentine, along with Atletico Madrid",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T14:39:06.930753+00:00"
-    },
-    {
-      "title": "Australia survive late Japan rally as new coach Kiss makes winning start",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13570951/australia-edge-japan-35-32-to-give-les-kiss-winning-start-in-first-match-as-head-coach",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-08T13:44:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Australia",
-        "survive",
-        "late",
-        "Japan",
-        "rally",
-        "coach"
-      ],
-      "summary": "Australia held on for a tight 35-32 victory over Japan, despite a first-half red card for Miles Amatosero, as they made a winning start in head coach Les Kiss' first match in charge.&#160;",
-      "summary_cn": "",
-      "fetched_at": "2026-08-08T14:39:06.930753+00:00"
-    },
-    {
-      "title": "Lionel Messi’s dad Jorge dies aged 68 after battle with illness that reduced Argentina star to tears at World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40002387/lionel-messi-dad-jorge-dies-illness-argentina/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-08T13:26:35+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Lionel",
-        "Messi",
-        "Jorge",
-        "dies",
-        "aged",
-        "battle"
-      ],
-      "summary": "LIONEL MESSI'S father Jorge has died aged 68 after a long illness. Jorge passed away at around 10pm yesterday at a clinic in Rosario, where he had been receiving medical treatment. The news will come as a devastating blow to Messi, who has always maintained a close relationship with his father and a",
       "summary_cn": "",
       "fetched_at": "2026-08-08T14:39:06.930753+00:00"
     }
