@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-08-25T20:37:16.705171+00:00",
+  "updated_at": "2026-08-25T21:35:43.428478+00:00",
   "items": [
+    {
+      "title": "Ipswich star Marcelino Nunez scores from halfway line as Leicester’s misery continues in Carabao Cup defeat",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40172481/ipswich-star-marcelino-nunez-scores-halfway-line-leicesters-misery/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-25T21:33:38+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Ipswich",
+        "Leicester",
+        "star",
+        "Marcelino",
+        "Nunez",
+        "scores"
+      ],
+      "summary": "IPSWICH star Marcelino Nunez scored from the halfway line to compound yet more misery on pitiful Leicester City. The Tractor Boys led 2-1 heading into injury time at Portman Road in round two. And Nunez confirmed their place in the hat for the third round with a sensational strike. The Chilean colle",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wilson scores on full debut as Brentford hit Birmingham for six",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/birmingham-city-vs-brentford/report/577421",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-25T22:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brentford",
+        "Callum Wilson",
+        "Collins",
+        "Wilson",
+        "scores",
+        "full"
+      ],
+      "summary": "Callum Wilson scored just six minutes into his full debut and captain Nathan Collins converted two headers as Brentford routed Championship side Birmingham 6-1.",
+      "summary_cn": ""
+    },
     {
       "title": "Brighton latest: Left-back Hadjam joins from Young Boys",
       "title_cn": "",
@@ -31,31 +69,12 @@
       "keywords": [
         "Manchester City",
         "Manchester United",
-        "Fernandes",
         "Bruno Fernandes",
+        "Fernandes",
         "crowned",
         "Players"
       ],
       "summary": "Manchester United captain Bruno Fernandes has been crowned the men's PFA Players' Player of the Year for the 2025/26 season, as Manchester City's Bunny Shaw won the women's award for a second time.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Forest agree club-record deal for Chelsea's Delap",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13577090/liam-delap-transfer-nottingham-forest-agree-club-record-deal-to-sign-chelsea-striker",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-25T18:45:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Nottingham Forest",
-        "Forest",
-        "Delap",
-        "agree",
-        "club"
-      ],
-      "summary": "Nottingham Forest have agreed a club-record &#163;50m deal to sign Liam Delap from Chelsea.",
       "summary_cn": ""
     },
     {
@@ -87,8 +106,8 @@
       "score": 31.0,
       "keywords": [
         "Brentford",
-        "Wilson",
         "Callum Wilson",
+        "Wilson",
         "scores",
         "minutes",
         "first"
@@ -107,8 +126,8 @@
       "keywords": [
         "Manchester City",
         "Manchester United",
-        "Fernandes",
         "Bruno Fernandes",
+        "Fernandes",
         "Shaw",
         "player"
       ],
@@ -116,22 +135,79 @@
       "summary_cn": ""
     },
     {
-      "title": "Delap heads to Forest for £50m as Chelsea open talks to sell Jackson to Aston Villa",
+      "title": "'I'm very proud of this' - Fernandes wins PFA player of the year",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/25/liam-delap-nottingham-forest-chelsea-nicholas-jackson-aston-villa-transfer-window",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjdv55g4871o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-25T18:42:42+00:00",
+      "published": "2026-08-25T21:29:08+00:00",
       "score": 31.0,
       "keywords": [
-        "Aston Villa",
-        "Brentford",
-        "Chelsea",
-        "Nottingham Forest",
-        "West Ham",
-        "Forest"
+        "Manchester United",
+        "Bruno Fernandes",
+        "Fernandes",
+        "very",
+        "proud",
+        "wins"
       ],
-      "summary": "Forest to pay club-record £45m plus £5m in add-ons West Ham’s Diouf likely to join Brentford soon Nottingham Forest have agreed a deal worth £50m to sign Liam Delap from Chelsea, who have also opened talks over selling Nicolas Jackson to Aston Villa. Xabi Alonso has made João Pedro and Danny Welbeck",
+      "summary": "Manchester United captain Bruno Fernandes reacts to winning the men's 2026 PFA player of the year award.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'A huge award' - O'Reilly named PFA young player of the year",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn74yyepggmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-25T21:02:32+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "young",
+        "huge",
+        "award",
+        "Reilly",
+        "named"
+      ],
+      "summary": "Manchester City and England full-back Nico O'Reilly says \"it feels amazing\" after receiving the 2026 PFA young player of the year award.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Victor Torp seals Coventry’s Carabao Cup win at Plymouth in six-goal thriller",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/25/plymouth-coventry-carabao-cup-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-25T20:59:03+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Frank Lampard",
+        "Lampard",
+        "Victor",
+        "Torp",
+        "seals",
+        "Coventry"
+      ],
+      "summary": "A midweek trip to Devon always had the makings of an awkward trip for a Coventry side focused on Premier League survival. Such feelings evaporated when Frank Lampard’s side raced into a two-goal lead inside five minutes, Taiwo Awoniyi opening his account for his new club before Jack Rudoni added Cov",
+      "summary_cn": ""
+    },
+    {
+      "title": "James Maddison suffers fractured shoulder in Tottenham’s horror defeat to Brentford as injury update issued",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40172346/james-maddison-fractured-shoulder-tottenham-defeat-brentford-injury-update/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-25T21:00:38+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brentford",
+        "Tottenham",
+        "James",
+        "Maddison",
+        "suffers",
+        "fractured"
+      ],
+      "summary": "TOTTENHAM midfielder James Maddison has suffered a fractured shoulder. Maddison, 29, missed almost all of last season after and ACL tear. And the unlucky playmaker was crocked yet again in the horror opening day defeat to Brentford. Maddison came on as a 68th-minute sub in the mauling at the Gtech. ",
       "summary_cn": ""
     },
     {
@@ -183,87 +259,144 @@
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Fernandes",
+        "Carrick",
         "Michael Carrick",
         "Bruno Fernandes",
-        "Carrick"
+        "Fernandes"
       ],
       "summary": "BRUNO FERNANDES' PFA Player of the Year crown is a staggering achievement at a club that has frequently looked lost. But let’s be clear: without Fernandes' profound influence at Manchester United, Michael Carrick would not be in a job today. Fernandes was the catalyst for United's resurgence under C",
       "summary_cn": ""
     },
     {
-      "title": "Bruno Fernandes WINS PFA players’ player of the year to become first Man Utd star in 16 years to land coveted award",
+      "title": "Leeds earn second win at Forest in three days in Carabao Cup",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40168763/bruno-fernandes-pfa-player-year-man-utd/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-25T19:35:16+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Fernandes",
-        "Erling Haaland",
-        "Bruno Fernandes",
-        "Declan Rice"
-      ],
-      "summary": "BRUNO FERNANDES has delivered a clean sweep of awards after being voted the PFA players’ player of the year. The Manchester United midfielder picked up the Premier League and FWA awards last season. And he pipped the likes of Declan Rice and Erling Haaland to the PFA award, which was voted for by hi",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal to shatter club record sale as Gabriel Martinelli closes in on £50m Al-Hilal transfer after being axed by Arteta",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40171341/arsenal-record-sale-gabriel-martinelli-50m-al-hilal-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-25T18:57:12+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Martinelli",
-        "Arteta",
-        "Gabriel Martinelli",
-        "shatter",
-        "club"
-      ],
-      "summary": "ARSENAL are closing in on a deal to sell Gabriel Martinelli to Saudi side Al Hilal. The Gunners are set to bank over £50million, which would make it a club-record sale, and talks over a fee are in the final stages. Martinelli, 25, will receive a pay rise on his £180,000-a-week wages if he gives...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Alvarez left with two options: Atletico or Arsenal",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-leeds-united/report/577433",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-08-25T19:00:00+00:00",
+      "published": "2026-08-25T22:00:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
-        "Alvarez",
-        "left",
-        "options",
-        "Atletico"
-      ],
-      "summary": "Julian Alvarez must take one of two paths before the transfer deadline: stay at Atletico Madrid and try to rebuild his connection with the fans or get his head around a potential move to Arsenal.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Carabao Cup: Brentford, Leeds & Coventry all lead LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13577036/carabao-cup-round-two-live-commentary-updates-scores-streams-and-team-news-with-leeds-brentford-west-ham-in-action",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-25T18:55:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "Carabao",
+        "Nottingham Forest",
+        "Forest",
         "Leeds",
-        "Coventry",
-        "lead",
-        "LIVE"
+        "earn",
+        "second",
+        "days"
+      ],
+      "summary": "Leeds United registered a second win at Nottingham Forest in three days as they booked their spot in the Carabao Cup third round.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ipswich latest: Bid made for Leverkusen midfielder",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-25T21:53:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "latest",
+        "made",
+        "Leverkusen",
+        "midfielder"
       ],
       "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Coventry survive Plymouth scare to progress in Carabao Cup",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-25T21:35:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Coventry",
+        "survive",
+        "Plymouth",
+        "scare",
+        "progress",
+        "Carabao"
+      ],
+      "summary": "Premier League new boys Coventry survived an EFL Cup second-round scare at League One Plymouth before easing through 4-2 at Home Park.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hull require penalties to overcome stubborn Stoke",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/stoke-city-vs-hull-city/report/577438",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-25T21:35:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Hull",
+        "require",
+        "penalties",
+        "overcome",
+        "stubborn"
+      ],
+      "summary": "Premier League new boys Hull followed up their 2-0 win over Manchester United on Saturday by knocking Stoke out of the Carabao Cup on penalties after a 1-1 draw at the bet365 Stadium.",
+      "summary_cn": ""
+    },
+    {
+      "title": "West Ham hit back to thump four past Southampton",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/southampton-vs-west-ham-united/report/577436",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-25T21:35:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "West Ham",
+        "West",
+        "back",
+        "thump",
+        "four"
+      ],
+      "summary": "Teenager Josh Ayala scored twice on his full professional debut as West Ham came from behind to thrash Championship rivals Southampton 4-1 in the Carabao Cup.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Nunez's halfway stunner helps Ipswich past Leicester",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/ipswich-town-vs-leicester-city/report/577431",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-25T21:35:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "Leicester",
+        "Nunez",
+        "halfway",
+        "stunner",
+        "helps"
+      ],
+      "summary": "Marcelino Nunez scored a sensational goal from the halfway line to help Ipswich claim a hard-fought 3-1 win over Leicester in the Carabao Cup.",
+      "summary_cn": ""
+    },
+    {
+      "title": "STUNNING! Nunez scores from near halfway line to seal Ipswich win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13577168/ipswich-v-leciester-marcelino-nunez-scores-from-near-the-halfway-line-in-stunning-strike-for-ipswich-against-leicester-in-the-carabao-cup",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-25T21:46:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "Leicester",
+        "STUNNING",
+        "Nunez",
+        "scores",
+        "near"
+      ],
+      "summary": "Marcelino Nunez scores from near the halfway line in a stunning strike for Ipswich against Leicester in the Carabao Cup.",
       "summary_cn": ""
     },
     {
@@ -321,82 +454,6 @@
         "boozer"
       ],
       "summary": "A COUPLE have won Pub Shed of the Year for their Wolverhampton Wanderers- themed boozer. Tina and Rich Hibbs have spent £25,000 over eight years crafting the backyard bolthole. Packed with Wolves shirts and memorabilia, it boasts a bar with draught lager and cider, TV, Pac-Man machine and beer garde",
-      "summary_cn": ""
-    },
-    {
-      "title": "Carabao Cup 2026/27 round dates: When are 3rd round matches played?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40153990/carabao-cup-2026-27-round-dates/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-25T19:27:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Carabao",
-        "round",
-        "dates",
-        "matches"
-      ],
-      "summary": "FANS are dreaming of a trip to Wembley in the Carabao Cup. Manchester City won the trophy last year, beating Arsenal 2-0 in the final. The nine Premier League teams playing in Europe enter the competition in round three, with the others in the hat from round two. SunSport bring you all the key dates",
-      "summary_cn": ""
-    },
-    {
-      "title": "PFA Premier League team of the year revealed with only TWO stars who don’t play for Arsenal or Man City",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40169289/pfa-premier-league-team-year-arsenal-man-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-25T19:04:55+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Man City",
-        "Premier",
-        "League",
-        "team"
-      ],
-      "summary": "THE PFA Premier League Team of the Year has been revealed - with just two players not at Arsenal or Manchester City. The gala evening took place at Manchester Opera House on Tuesday. And in the vote among fellow professionals, they picked five of the Gunners' title-winning squad. Goalkeeper David Ra",
-      "summary_cn": ""
-    },
-    {
-      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-25T18:50:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "FREE",
-        "STREAM",
-        "Transfer",
-        "Show",
-        "Sports",
-        "News"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "LASK holds silence for Celtic fan who died during Champions League match",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/news/articles/cj642ld8px1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-25T19:03:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "LASK",
-        "holds",
-        "silence",
-        "Celtic",
-        "died",
-        "during"
-      ],
-      "summary": "The 65-year-old supporter took ill during the first leg of the Champions League play-off in Glasgow last week.",
       "summary_cn": ""
     },
     {
