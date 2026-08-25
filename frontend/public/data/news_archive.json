@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "title": "Flex your football brain with our daily quizzes",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd7llw7yzggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-25T05:24:31+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Flex",
+        "football",
+        "brain",
+        "daily",
+        "quizzes"
+      ],
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-25T05:38:11.272049+00:00"
+    },
+    {
       "title": "Tottenham Hotspur ticket and hotel deals for games in the Premier League season from just £135 per person",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39228834/tottenham-hotspur-premier-league-ticket-hotel-packages/",
@@ -39609,26 +39628,6 @@
       "summary": "CHELSEA fans have fumed at the club for letting academy hero Trevoh Chalobah complete a move to Como. Chalobah joined the club at the age of eight and worked hard to become a key first team player. The 27-year-old ended up making 151 appearances for the Blues but the England star clearly wasn't in X",
       "summary_cn": "",
       "fetched_at": "2026-08-09T18:52:31.080113+00:00"
-    },
-    {
-      "title": "Digne completes move to PSG from Aston Villa",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-09T17:12:56+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Aston Villa",
-        "Lucas Digne",
-        "Digne",
-        "completes",
-        "move",
-        "Aston"
-      ],
-      "summary": "France international Lucas Digne has completed his move from Aston Villa to European champions Paris St-Germain.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-09T17:37:48.173156+00:00"
     }
   ]
 }
