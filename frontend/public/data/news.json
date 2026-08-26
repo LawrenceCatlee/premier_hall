@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-08-26T05:40:50.803987+00:00",
+  "updated_at": "2026-08-26T07:00:33.211744+00:00",
   "items": [
+    {
+      "title": "Taekwondo, stats and £1m record - the rise of Arsenal striker Smith",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8jdl0n0r7mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-26T05:16:06+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Smith",
+        "Taekwondo",
+        "stats",
+        "record",
+        "rise"
+      ],
+      "summary": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Former England star Dion Dublin launches new business venture alongside presenting Homes Under The Hammer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40173414/dion-dublin-launches-business-venture-52north/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-26T06:57:58+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Dublin",
+        "Dion Dublin",
+        "Former",
+        "England",
+        "star",
+        "Dion"
+      ],
+      "summary": "PREMIER LEAGUE icon Dion Dublin has taken on another shock role away from football - after becoming the co-owner of a spirits producer. The former England striker, 57, has been among Match of the Day's star-studded pundits for a number of years since hanging up his boots. And Dublin raised eyebrows ",
+      "summary_cn": ""
+    },
     {
       "title": "Carlos Baleba is final piece of Man Utd’s midfield jigsaw – now he needs to ‘do a Carrick’ and guide them to the title",
       "title_cn": "",
@@ -21,22 +59,96 @@
       "summary_cn": ""
     },
     {
-      "title": "Taekwondo, stats, painful goodbyes - how Smith became women's first £1m player",
+      "title": "River Card and Cloud Forest clash at Newbury",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8jdl0n0r7mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.skysports.com/racing/news/12040/13576760/today-on-sky-sports-racing-newbury-and-wolverhampton",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-26T07:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Forest",
+        "River",
+        "Card",
+        "Cloud",
+        "clash",
+        "Newbury"
+      ],
+      "summary": "We have a busy day&#8217;s racing on Wednesday with flat action from Newbury and Wolverhampton, live on Sky Sports Racing...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool's midfield is fragile - will they act in the window?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-08-26T05:16:06+00:00",
-      "score": 26.0,
+      "published": "2026-08-26T06:04:34+00:00",
+      "score": 25.0,
       "keywords": [
-        "Smith",
-        "Taekwondo",
-        "stats",
-        "painful",
-        "goodbyes",
-        "became"
+        "Liverpool",
+        "Newcastle",
+        "midfield",
+        "fragile",
+        "window"
       ],
-      "summary": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
+      "summary": "Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-26T05:41:12+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Joao",
+        "Pedro",
+        "ready",
+        "break",
+        "called"
+      ],
+      "summary": "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mayer: I feel unbeatable - Cameron fight won't be close!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13576259/mayer-vs-cameron-mikaela-mayer-feels-unbeatable-ahead-of-title-unification-fight-against-chantelle-cameron",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-26T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Mayer",
+        "feel",
+        "unbeatable",
+        "Cameron",
+        "fight",
+        "close"
+      ],
+      "summary": "Mikaela Mayer says she feels \"unbeatable\" and that her blockbuster unification fight against Chantelle Cameron for the world super welterweight titles won't be close.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wolff 'not at all' disappointed by Verstappen's new Red Bull deal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/news/12040/13577061/max-verstappen-mercedes-boss-toto-wolff-says-he-is-not-at-all-disappointed-by-dutchmans-new-red-bull-contract",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-26T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Wolff",
+        "disappointed",
+        "Verstappen",
+        "Bull",
+        "deal"
+      ],
+      "summary": "Mercedes chief Toto Wolff says he is \"not at all\" disappointed by Max Verstappen having committed to Red Bull with a new contract that runs until 2030.",
       "summary_cn": ""
     },
     {
@@ -55,6 +167,25 @@
         "quizzes"
       ],
       "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'Celtic deficiencies laid bare on another night of Champions League pain'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-26T06:52:56+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Celtic",
+        "deficiencies",
+        "laid",
+        "bare",
+        "another",
+        "night"
+      ],
+      "summary": "When Callum McGregor eviscerated his own teammates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a spineless night, writes Tom English.",
       "summary_cn": ""
     }
   ]
