@@ -1,6 +1,384 @@
 {
   "items": [
     {
+      "title": "Alan Shearer announces he is scaling back Match of the Day appearances as BBC fear ‘mass exodus’ of star pundits",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40185724/alan-shearer-match-of-the-day-appearances-reduce/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-27T08:01:22+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Newcastle",
+        "Alan Shearer",
+        "Shearer",
+        "Alan",
+        "announces",
+        "scaling"
+      ],
+      "summary": "ALAN SHEARER has confirmed his Match of the Day appearances will be getting scaled back. The Newcastle icon has been a stalwart on the flagship BBC programme for 20 years, providing the show with his punditry since retiring from football. However, before the start of the season, Shearer confirmed hi",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Villa close to £65m move for Chelsea's Jackson as Watkins nears exit",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-27T08:48:20+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Watkins",
+        "Villa",
+        "close",
+        "move",
+        "Jackson"
+      ],
+      "summary": "Senegal striker striker is nearing a move to Villa Park after three years at Chelsea.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Plight of Pogba, Sancho and others is cautionary tale for any Carrick rebuild",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/27/manchester-united-michael-carrick-paul-pogba-jadon-sancho-cautionary-tale",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-27T07:00:07+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Bruno Fernandes",
+        "Fernandes",
+        "bridge",
+        "Carrick",
+        "Plight"
+      ],
+      "summary": "Bruno Fernandes is the only surviving attacker from Ole Gunnar Solskjær’s attempt to bridge gap to rivals in 2021 Five years is a long time in football. Manchester United’s summer of 2021 is now remembered as the turning point in Ole Gunnar Solskjær’s reign; the sentimental decision to sign Cristian",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "The big transfer stories to follow in the final week of the summer window",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/who-scored-blog/2026/aug/27/transfer-window-barcola-alvarez-fernandez-gakpo-liverpool-arsenal-manchester-city-spurs",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-27T07:00:07+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Given",
+        "transfer",
+        "stories",
+        "follow",
+        "final"
+      ],
+      "summary": "Bradley Barcola, Julián Alvarez, Enzo Fernández and Cody Gakpo could be on the move in the next few days By WhoScored Every transfer window has at least one saga that dominates the headlines. Barcola’s potential move to Liverpool has been that story this summer. Given that Liverpool are crying out f",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/27/football-transfer-rumour-mill-crystal-palace-hijack-aston-villa-move-joel-ordonez",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-27T07:43:15+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Crystal Palace",
+        "Ollie Watkins",
+        "Watkins",
+        "Football",
+        "transfer"
+      ],
+      "summary": "Today’s fluff knows how to live Ollie Watkins is on his way out and Nicolas Jackson is about to arrive but not all is straightforward in the world of Aston Villa’s transfer plans . Crystal Palace are doing their level best to hijack a move for Club Brugge centre-back Joel Ordóñez and have entered in",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "‘It would be game over for everyone’ – Alan Shearer names transfer that would send shockwaves through Premier League",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40186195/alan-shearer-julian-alvarez-arsenal-transfer-shockwaves/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-27T08:44:47+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Alan Shearer",
+        "Shearer",
+        "game",
+        "everyone",
+        "Alan"
+      ],
+      "summary": "ARSENAL adding Julian Alvarez would mean it was \"game over\" for any Premier League challengers this season. Alan Shearer, the Premier League's all-time top goalscorer, reckons the Gunners would blow away any competition for the title with the signing of Alvarez. Arsenal are closely monitoring the sa",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Are Mercedes in title trouble after ‘front-loading’ upgrades?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/news/12040/13577386/toto-wolffs-claims-that-mercedes-cant-afford-to-match-rivals-2026-upgrades-assessed-by-bernie-collins-on-the-f1-show-podcast",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-27T07:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Collins",
+        "Mercedes",
+        "title",
+        "trouble",
+        "front",
+        "loading"
+      ],
+      "summary": "Mercedes could be left \"hanging on\" to win this year's titles after appearing to have front-loaded the development of their 2026 car, according to Sky Sports F1's Bernie Collins.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Jude Bellingham inspires wicked Real Madrid turnaround in Jose Mourinho’s first home game back after defensive howler",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40185426/jude-bellingham-real-madrid-win-mourinho-first-home-game/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-27T06:59:05+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "Jude",
+        "Bellingham",
+        "inspires",
+        "wicked",
+        "Real"
+      ],
+      "summary": "JOSE MOURINHO'S Real Madrid homecoming proved to be quite dramatic, though that would be the only fitting return for The Special One. Los Blancos kicked off their La Liga campaign last week with a 2-1 win away at Espanyol, courtesy of a 90th-minute winner from Carlos Espi. Mourinho's first home game",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Barcola's rise explained but is he actually right for Liverpool?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13565590/bradley-barcola-to-liverpool-or-arsenal-psg-and-france-forward-is-quick-strong-versatile-intelligent-8211-and-in-demand",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-27T09:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Barcola",
+        "rise",
+        "explained",
+        "actually",
+        "right"
+      ],
+      "summary": "Bradley Barcola could be the most expensive transfer of this summer window but why is he so prized? He has achieved plenty already. But there is more to come.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Liverpool agree £120m deal in principle for Barcola",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13577569/bradley-barcola-transfer-news-liverpool-reach-120m-deal-in-principle-for-psg-forward",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-27T08:55:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "agree",
+        "deal",
+        "principle",
+        "Barcola"
+      ],
+      "summary": "Liverpool have an agreement in principle with Paris Saint-Germain to sign Bradley Barcola for a package worth&#160;&#163;120m.&#160;",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Liverpool close in on signing PSG forward Barcola",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-27T08:10:13+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "close",
+        "signing",
+        "forward",
+        "Barcola"
+      ],
+      "summary": "Liverpool are close to agreeing a deal with Paris St-Germain for Bradley Barcola for a fee that is expected to be in excess of £100m.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Chelsea in talks to sign Atalanta defender Ahanor",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-27T07:28:01+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "talks",
+        "sign",
+        "Atalanta",
+        "defender",
+        "Ahanor"
+      ],
+      "summary": "Chelsea are in talks to sign 18-year-old Atalanta and Italy defender Honest Ahanor for £34.3m.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Liverpool set to sign Bradley Barcola for £120m after breakthrough talks with PSG",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/aug/27/liverpool-bradley-barcola-psg-transfer-window",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-08-27T08:26:17+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "sign",
+        "Bradley",
+        "Barcola",
+        "breakthrough",
+        "talks"
+      ],
+      "summary": "Liverpool to pay £100m plus £2om in add-ons France winger has been main summer transfer target Liverpool are closing in on a £120m deal for Bradley Barcola following a breakthrough in talks with Paris Saint-Germain. Barcola has been Liverpool’s main transfer target all summer only for PSG’s £145m va",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Crystal Palace vs Manchester City: Get £40 free bets with BOYLE Sports, plus 50% bet builder boost",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40186328/crystal-palace-vs-man-city-free-bets-boyle-sports/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-27T08:55:56+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Manchester City",
+        "Crystal",
+        "Palace",
+        "Manchester",
+        "City"
+      ],
+      "summary": "ENZO MARESCA takes his Manchester City side to London on Friday night for a Premier League clash with Crystal Palace. BOYLE Sports are offering new customers £40 in free bets when they register and stake £10 on football, including on the Selhurst Park clash! That's not all, as they're offering a 50%",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Bradley Barcola’s starting Dream Team price revealed ahead of Liverpool transfer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40180210/bradley-barcola-fantasy-premier-league-price-liverpool-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-27T08:37:04+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bradley",
+        "Barcola",
+        "starting",
+        "Dream",
+        "Team"
+      ],
+      "summary": "LIVERPOOL are set to announce the signing of Bradley Barcola any moment now. Reports suggest the Reds have forked out as much as £120million to acquire the 23-year-old from PSG but the big question is: how much will he cost in Dream Team? Those who have coached Barcola have occasionally deployed him",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Liverpool AGREE stunning £120million Bradley Barcola transfer from PSG in move that could spark Cody Gakpo fight",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40185955/liverpool-transfer-news-bradley-barcola-deal-agreed/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-27T07:48:24+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "AGREE",
+        "stunning",
+        "Bradley",
+        "Barcola",
+        "transfer"
+      ],
+      "summary": "LIVERPOOL have reportedly agreed a sensational deal for Bradley Barcola. The Reds have been hot on the heels of the PSG and France star for the last few weeks. And according to The Athletic, they've agreed a deal in principle for the winger. They claim the Reds have struck terms with the French gian",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "US Open men's title up for grabs as Sinner injury throws field wide open",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13576337/us-open-this-years-mens-tournament-is-up-for-grabs-with-carlos-alcaraz-and-novak-djokovic-leading-way",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-08-27T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Open",
+        "title",
+        "grabs",
+        "Sinner",
+        "injury",
+        "throws"
+      ],
+      "summary": "This year's US Open men's singles tournament appears to be up for grabs with Carlos Alcaraz and Novak Djokovic joined by a whole host of players in the mix.",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Glory for Hearts - will Rangers, Motherwell or Hibs qualify too?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p6hm58?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-08-27T07:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Glory",
+        "Hearts",
+        "Rangers",
+        "Motherwell",
+        "Hibs",
+        "qualify"
+      ],
+      "summary": "Will any of Rangers, Motherwell, or Hibs reach the Conference League?",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
+      "title": "Non-league club risk expulsion from National League with entire future uncertain as two more matches called off",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40185480/national-league-news-ebbsfleet-united-explusion/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-08-27T07:09:05+00:00",
+      "score": 20.0,
+      "keywords": [
+        "league",
+        "club",
+        "risk",
+        "expulsion",
+        "National",
+        "League"
+      ],
+      "summary": "A NON-LEAGUE side is facing expulsion from the National League due to tax troubles. Ebbsfleet United have been in financial disarray for the last few months. The Kent club's outstanding tax debt resulted in the postponement of their first FOUR GAMES of the season. The Fleet, who are currently suspen",
+      "summary_cn": "",
+      "fetched_at": "2026-08-27T08:56:10.311052+00:00"
+    },
+    {
       "title": "Savio steals show on debut as Spurs thrash Charlton",
       "title_cn": "",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-charlton-athletic/report/577440",
@@ -39271,381 +39649,6 @@
       "summary": "Highlights of the Greatest Rivalry tour match between the Sharks and New Zealand in Durban.",
       "summary_cn": "",
       "fetched_at": "2026-08-11T22:54:26.193122+00:00"
-    },
-    {
-      "title": "Hamer rejoins Coventry City on 'long-term' deal",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c629lp48ykwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-11T22:18:07+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Hamer",
-        "rejoins",
-        "Coventry",
-        "City",
-        "long",
-        "term"
-      ],
-      "summary": "Coventry City re-sign midfielder Gustavo Hamer from Sheffield United on a \"long-term\" contract for an undisclosed fee.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T22:54:26.193122+00:00"
-    },
-    {
-      "title": "Doku 'not against' journalist who criticised him at World Cup",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20e3q4l4pgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-11T22:21:56+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Doku",
-        "against",
-        "journalist",
-        "criticised",
-        "World"
-      ],
-      "summary": "Jeremy Doku says he is \"not against\" the journalist who criticised his plan to leave the Belgium camp during the World Cup to attend the birth of his first child.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T22:54:26.193122+00:00"
-    },
-    {
-      "title": "Pogba expected to have Monaco contract terminated",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-11T21:59:39+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Pogba",
-        "expected",
-        "Monaco",
-        "contract",
-        "terminated"
-      ],
-      "summary": "Paul Pogba is expected to leave Monaco amid talks over a possible contract termination.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T22:54:26.193122+00:00"
-    },
-    {
-      "title": "Papers: Chelsea and Man Utd turn down Lewis-Skelly opportunity",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13572089/myles-lewis-skelly-transfer-news-chelsea-and-man-utd-turn-down-intermediary-offer-to-sign-arsenal-teenager-paper-talk",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-11T22:30:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Man Utd",
-        "kelly",
-        "Papers",
-        "turn",
-        "down"
-      ],
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T21:56:58.237699+00:00"
-    },
-    {
-      "title": "Coventry eye Mudryk on loan - Wednesday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5d127gv0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-11T21:16:52+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "Manchester United",
-        "Rodri",
-        "Coventry",
-        "Mudryk"
-      ],
-      "summary": "Coventry City interested in signing Chelsea winger Mykhaylo Mudryk on loan, Barcelona still chasing Manchester City midfielder Rodri and Manchester United make a move for Real Madrid striker Endrick.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T21:56:58.237699+00:00"
-    },
-    {
-      "title": "Chelsea Files: How The Avengers convinced club legend to join Blues, Xabi Alonso set to cull 40-man squad",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40031301/chelsea-files-gianluca-vialli-mahdi-nicoll-jazuli-reggie-watson/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-11T21:36:29+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "Files",
-        "Avengers",
-        "convinced",
-        "club"
-      ],
-      "summary": "DID you know that The Avengers had a part to play in one of Chelsea's greatest ever players joining them in 1996? Apart from it wasn't Spider-Man, The Hulk and Iron Man convincing Gianluca Vialli to leave Juventus for Stamford Bridge, it was a 1960s TV show with the same name. Vialli's move to Chels",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T21:56:58.237699+00:00"
-    },
-    {
-      "title": "Marcus Rashford trains with Man Utd for first time in 19 months as England star makes transfer decision",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40032406/rashford-trains-man-utd-makes-transfer-decision/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-11T21:29:13+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Carrick",
-        "Marcus Rashford",
-        "Rashford",
-        "Ireland"
-      ],
-      "summary": "MARCUS RASHFORD was seen training with Manchester United for the first time in 19 months. The England winger, 28, returned to his boyhood club as part of Michael Carrick’s squad in Ireland. Open training plans were shelved so there will be no added spotlight as the forward beds into the group in May",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T21:56:58.237699+00:00"
-    },
-    {
-      "title": "Roy Keane’s son-in-law ‘in advanced talks’ over stunning £17m transfer to two-time European champions",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40032126/harwood-bellis-benfica-transfer-roy-keane/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-11T21:05:45+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Southampton",
-        "Keane",
-        "Taylor",
-        "Roy Keane",
-        "advanced",
-        "talks"
-      ],
-      "summary": "SOUTHAMPTON defender Taylor Harwood-Bellis has reportedly emerged as a target for Benfica. The 24-year-old endured heartache with the Saints at the end of last season after being kicked out of the Championship play-offs. Southampton were axed from the play-offs despite reaching the final after being",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T21:56:58.237699+00:00"
-    },
-    {
-      "title": "Mount set to miss Man Utd's Dublin game with Leeds",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y3v4ldlllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-11T20:37:43+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Dublin",
-        "Mount",
-        "miss",
-        "game"
-      ],
-      "summary": "Manchester United midfielder Mason Mount is expected to miss the club's penultimate pre-season encounter with Leeds at Croke Park.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "England star Djed Spence ‘in talks to complete stunning £30m Inter Milan transfer’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40031735/djed-spence-eyes-inter-milan-transfer-tottenham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-11T20:15:54+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Tottenham",
-        "Robertson",
-        "Andy Robertson",
-        "England",
-        "star",
-        "Djed"
-      ],
-      "summary": "INTER MILAN are reportedly in talks to sign Djed Spence from Tottenham. Spence has been heavily linked with a move away from north London in recent months. Pedro Porro remains the clear first choice at right-back for head coach Roberto De Zerbi, with Andy Robertson and Destiny Udogie providing compe",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "Ronaldo marries long-time girlfriend",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13572078/cristiano-ronaldo-marries-long-time-girlfriend-georgina-rodriguez-in-portugal",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-11T21:09:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Rodriguez",
-        "Cristiano Ronaldo",
-        "Rodri",
-        "Ronaldo",
-        "marries",
-        "long"
-      ],
-      "summary": "Cristiano Ronaldo has married his long-time girlfriend Georgina Rodriguez at a civil ceremony in Portugal.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "Football Daily",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p3yxzk?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-11T20:04:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Taylor",
-        "Football",
-        "Daily"
-      ],
-      "summary": "Aaron Paul is joined by Andy Woodman, Luke Chambers and Lyle Taylor.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "Cristiano Ronaldo and Georgina Rodriguez get married in ‘intimate and private ceremony’ as footie legend posts ring",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40031727/cristiano-ronaldo-georgina-rodriguez-married-ring-finger/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-11T19:30:39+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Rodriguez",
-        "Cristiano Ronaldo",
-        "Rodri",
-        "Ronaldo",
-        "Cristiano",
-        "Georgina"
-      ],
-      "summary": "CRISTIANO RONALDO and Georgina Rodriguez have finally tied the knot. The pair dropped the bombshell in a joint-Instagram post on Tuesday evening which flaunted their matching gold rings. It was captioned \"C❤️G\" and surpassed a million likes in a matter of minutes. The civil ceremony in Cascais, Port",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "‘I am quite optimistic’: Newcastle’s Jaissle on leading club after turbulent summer",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/11/matthias-jaissle-eddie-howe-newcastle-united-manager-unveiling-st-james-park",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-11T19:15:09+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "quite",
-        "optimistic",
-        "Jaissle",
-        "leading",
-        "club"
-      ],
-      "summary": "The former Al-Ahli head coach, chosen by the Saudi owners to replace Eddie Howe, admits ‘vacuum’ after sale of three key players Matthias Jaissle has been described as “fire” and a “rock star”, but his formal “unveiling” as Newcastle’s manager revealed a rather more considered and conservative chara",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "Emery vows to keep Aston Villa moving forward as they take on PSG",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/11/emery-vows-to-keep-aston-villa-moving-forward-as-they-take-on-psg",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-11T20:14:18+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Emery",
-        "vows",
-        "keep",
-        "Aston",
-        "Villa"
-      ],
-      "summary": "Ebullient manager takes his side to Salzburg to cross swords with the European champions in the Super Cup One thing was almost instantly detectable as Unai Emery walked into a stuffy room inside the Red&nbsp;Bull&nbsp;Arena on the eve of Wednesday’s Super Cup against Paris&nbsp;Saint-Germain. After ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "Pep Guardiola agreed to feature in Jose Mourinho’s Netflix doc but backed out after his one condition was not met",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40025032/pep-guardiola-jose-mourinho-netflix-documentary-arsene-wenger/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-11T20:42:33+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Guardiola",
-        "agreed",
-        "feature",
-        "Jose",
-        "Mourinho"
-      ],
-      "summary": "JOSE MOURINHO’S biggest rivals are conspicuous by their absence from his new Netflix documentary. The three-part series about the former Chelsea and Real Madrid boss has already got football fans talking, with Mourinho revealing a number of fascinating stories from his remarkable career. One of the ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "Portland Thorns and USWNT star Olivia Moultrie out for season with ACL injury",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/11/olivia-moultrie-acl-injury-portland-thorns-uswnt-soccer",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-11T20:10:05+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Portland",
-        "Thorns",
-        "USWNT",
-        "star",
-        "Olivia",
-        "Moultrie"
-      ],
-      "summary": "20-year-old injured right knee during Thorns training Midfielder had five goals and five assists this season Moultrie likely to miss Concacaf W Championship Portland Thorns midfielder Olivia Moultrie has been placed on the season-ending injury list because of an ACL injury, the National Women’s Socc",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T20:55:36.016883+00:00"
-    },
-    {
-      "title": "England star Kyle Walker, 36, lined up for instant Premier League return after relegation with Burnley",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40031161/kyle-walker-premier-league-return-after-burnley-relegation/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-11T19:01:06+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Everton",
-        "Manchester City",
-        "Walker",
-        "Kyle Walker",
-        "England",
-        "star"
-      ],
-      "summary": "KYLE WALKER is a target for Everton. The Burnley right-back has come close to joining the Merseyside club on two occasions but he could finally make the move with manager David Moyes interested. Walker, 36, joined Burnley on a two-year contract from Manchester City in a £5million deal last summer. T",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T19:12:42.547982+00:00"
-    },
-    {
-      "title": "Cole Palmer’s girlfriend labelled ‘the Pilates Princess’ as she shows off curves in birthday workout",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40030948/cole-palmer-girlfriend-olivia-holder-instagram-chelsea/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-11T18:02:54+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Palmer",
-        "Cole",
-        "girlfriend",
-        "labelled",
-        "Pilates"
-      ],
-      "summary": "OLIVIA HOLDER was celebrated as \"The Pilates Princess\" for her 24th birthday. The blonde bombshell girlfriend of Chelsea star Cole Palmer shared eight snaps of the party to her 29,000 Instagram followers. In them, Holder posed for pics on a state-of-the-art reformer machine, in front of pink '24' ba",
-      "summary_cn": "",
-      "fetched_at": "2026-08-11T19:12:42.547982+00:00"
     }
   ]
 }
