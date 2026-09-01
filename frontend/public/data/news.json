@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-09-01T21:41:43.443370+00:00",
+  "updated_at": "2026-09-01T23:57:25.063812+00:00",
   "items": [
+    {
+      "title": "Sunderland complete Fofana signing after dramatic saga",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13580106/malick-fofana-sunderland-finally-complete-signing-of-lyon-winger-after-deadline-day-drama-with-crystal-palace",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T00:15:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "matic",
+        "Sunderland",
+        "complete",
+        "Fofana",
+        "signing",
+        "dramatic"
+      ],
+      "summary": "Sunderland have finally completed the signing of Lyon winger Malick Fofana after a dramatic Deadline Day transfer saga involving two private jets and the player changing his mind multiple times.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Record-breaking transfer spend but is anyone really happy?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13580082/transfer-deadline-day-brings-record-spending-but-will-any-money-be-enough-for-these-premier-league-clubs",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T00:00:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Record",
+        "breaking",
+        "transfer",
+        "spend"
+      ],
+      "summary": "It sums up a wild Transfer Deadline Day that the British transfer record was matched in the final hours of the window. Enzo Fernandez's move from Chelsea to Manchester City completed an extraordinary summer in which spending went stratospheric.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fulham latest: Three Deadline Day signings confirmed",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T00:01:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Fulham",
+        "latest",
+        "Deadline",
+        "signings",
+        "confirmed"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
     {
       "title": "Every done deal on transfer deadline day",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-01T21:39:08+00:00",
+      "published": "2026-09-01T23:48:37+00:00",
       "score": 33.0,
       "keywords": [
         "Every",
@@ -20,229 +76,212 @@
       "summary_cn": ""
     },
     {
-      "title": "Chelsea outcast Mykhailo Mudryk completes shock Tottenham loan transfer on deadline day as he’s reunited with De Zerbi",
+      "title": "Jadon Sancho ‘agrees shock free transfer to BRAZIL as ex-Man Utd and Chelsea winger links up with former Prem stars’",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40243192/transfer-news-mykhailo-mudryk-tottenham-chelsea-loan/",
+      "url": "https://www.thesun.co.uk/sport/40243656/transfer-news-jadon-sancho-palmeiras-deal/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-01T21:10:02+00:00",
+      "published": "2026-09-01T22:59:34+00:00",
       "score": 33.0,
       "keywords": [
         "Chelsea",
-        "Tottenham",
-        "Spurs",
-        "outcast",
-        "Mykhailo",
-        "Mudryk"
-      ],
-      "summary": "TOTTENHAM have announced the signing of Mykhailo Mudryk from Chelsea. The Ukraine international has joined Spurs from their bitter rivals on loan until the end of the season. Mudryk joins the north Londoners after being deemed surplus to requirements by new Blues boss Xabi Alonso. And he's champing ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man City complete stunning £65million transfer for Iliman Ndiaye after hijacking Arsenal and Tottenham talks",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40240249/man-city-iliman-ndiaye-arsenal-tottenham-transfer-deadline-day/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-01T20:10:44+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Arsenal",
-        "Everton",
-        "Tottenham",
-        "Man City",
-        "City",
-        "complete"
-      ],
-      "summary": "MAN CITY have completed a stunning deadline day transfer for Everton winger Iliman Ndiaye. The Senegalese playmaker becomes the latest ace to join Enzo Maresca's star-studded squad in a deal worth £65million. City will pay £60m up front for Ndiaye, with £5m in add-ons. The forward has signed a five-",
-      "summary_cn": ""
-    },
-    {
-      "title": "Fulham latest: Midfielder Larsson joins from Frankfurt",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-01T22:03:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Fulham",
-        "Larsson",
-        "latest",
-        "Midfielder",
-        "joins",
-        "Frankfurt"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Everton agree to re-sign Grealish on loan as Beto leaves",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-01T20:12:05+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Everton",
-        "Manchester City",
-        "Jack Grealish",
-        "Grealish",
-        "agree",
-        "sign"
-      ],
-      "summary": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City and Beto leaves for Fiorentina.",
-      "summary_cn": ""
-    },
-    {
-      "title": "How Man Utd ‘de-cluttered’ their attack to expose Ipswich and finally kickstart Premier League title challenge",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40241891/man-utd-declutter-attack-ipswich-tactics-exposed/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-01T20:56:34+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Ipswich",
         "Manchester United",
         "Man Utd",
-        "Bruno Fernandes",
-        "Fernandes",
-        "cluttered"
+        "Jadon",
+        "Sancho",
+        "agrees"
       ],
-      "summary": "MANCHESTER UNITED finally kick-started their Premier League campaign by beating Ipswich at Old Trafford in a thrilling 5-2 victory. And while Bruno Fernandes will rightly get much of the praise due to his hat-trick and assist, the underlying factor for the win came down to a tactical masterclass by ",
+      "summary": "JADON SANCHO has reportedly agreed a shock move to Brazil. The former England international is currently a free agent following the expiration of his contract with Manchester United. The winger was linked with moves to Fiorentina and Roma throughout the summer. The moves to Florence and Rome, howeve",
       "summary_cn": ""
     },
     {
-      "title": "Former Premier League star released on his BIRTHDAY just 90 minutes before game starts as he becomes free transfer agent",
+      "title": "Premier League’s most expensive summer transfer XI revealed as English clubs set new record by splurging over £3BILLION",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40242160/premier-league-jack-robinson-released-birthday-birmingham-city/",
+      "url": "https://www.thesun.co.uk/sport/40241767/premier-league-transfer-news-most-expensive-signings-xi/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-01T19:45:24+00:00",
+      "published": "2026-09-01T22:50:19+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "most",
+        "expensive",
+        "summer",
+        "transfer"
+      ],
+      "summary": "THE summer transfer window is officially CLOSED. And Tuesday's 11pm deadline closed the book on an incredible spending spree from Premier League clubs. The 20 clubs in England's top flight spent over a jaw-dropping £3BILLION bolstering their squads for the season ahead. The biggest spenders of the w",
+      "summary_cn": ""
+    },
+    {
+      "title": "Alvarez stays at Atletico - so are Arsenal too short in attack?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13579965/arsenal-fail-to-sign-julian-alvarez-and-with-no-elite-attacker-in-are-mikel-artetas-team-short-in-the-forward-options",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:00:00+00:00",
       "score": 31.0,
       "keywords": [
-        "Nottingham Forest",
-        "Southampton",
-        "Forest",
-        "Robinson",
-        "Former",
-        "Premier"
+        "Arsenal",
+        "Arteta",
+        "Mikel",
+        "Mikel Arteta",
+        "Alvarez",
+        "stays"
       ],
-      "summary": "FORMER Premier League star Jack Robinson has certainly had a birthday to remember. The ex-Sheffield United and Nottingham Forest star turned 33 on Tuesday. He was set to celebrate by watching his Birmingham side take on promotion hopefuls Southampton in the Championship. But the fixture was overshad",
+      "summary": "No Julian Alvarez to Arsenal. He joins Morgan Rogers and Vinicius Junior in not moving to the Premier League champions this summer. And Mikel Arteta has missed out on the star attacker he wanted.",
       "summary_cn": ""
     },
     {
-      "title": "See Barcelona on official ticket and 2-night hotel packages from just £309pp on amazing trip to the Nou Camp",
+      "title": "Sunderland finally sign Lyon’s Malick Fofana after dramatic transfer deadline day tug-of-war with Crystal Palace",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39805720/barcelona-live-spain-match-ticket-hotel-nou-camp/",
+      "url": "https://www.thesun.co.uk/sport/40243291/sunderland-malick-fofana-kevin-danso/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-01T21:24:23+00:00",
-      "score": 28.0,
+      "published": "2026-09-01T23:23:54+00:00",
+      "score": 31.0,
       "keywords": [
-        "Barcelona",
-        "official",
-        "ticket",
-        "night",
-        "hotel",
-        "packages"
+        "Crystal Palace",
+        "matic",
+        "Sunderland",
+        "finally",
+        "sign",
+        "Lyon"
       ],
-      "summary": "FOOTBALL fans can enjoy the ultimate football city break to Barcelona and see a match inside the spectacular Nou Camp stadium. Supporters have a golden opportunity to experience the amazing stadium and witness some of the world's most exciting football talent, including Lamine Yamal, Pedri, Raphinha",
+      "summary": "SUNDERLAND were the eventual winners of the dramatic deadline day tug-of-war with Crystal Palace for Lyon’s Malick Fofana. He penned a five-year contract with Regis Le Bris’ side after a deal worth £25.7m plus a potential £5.3m in add-ons, a new club-record, was finally agreed following the transfer",
       "summary_cn": ""
     },
     {
-      "title": "See Real Madrid with ticket and hotel packages for La Liga games at Bernabeu from only £359pp",
+      "title": "Leeds sign fastest player in Bundesliga history as £25.7m Jean-Matteo Bahoya seals deadline line day transfer",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39805767/real-madrid-tickets-la-liga-santiago-bernabeu-mourinho-bellingham/",
+      "url": "https://www.thesun.co.uk/sport/40242263/leeds-jean-matteo-bahoya-gnonto-ramazani/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-01T21:23:17+00:00",
-      "score": 28.0,
+      "published": "2026-09-01T23:47:37+00:00",
+      "score": 26.0,
       "keywords": [
-        "Real",
-        "Madrid",
-        "ticket",
-        "hotel",
-        "packages",
-        "Liga"
+        "Matteo",
+        "Leeds",
+        "sign",
+        "fastest",
+        "player",
+        "Bundesliga"
       ],
-      "summary": "FOOTBALL fans can look forward to an 'special' Spanish getaway this season to see the Special One's second coming to Real Madrid. We have teamed up with one of the UK's top sports travel operators to offer official ticket and hotel packages to watch Jose Mourinho's Real Madrid live this season. See ",
+      "summary": "LEEDS have snapped up the fastest player in Bundesliga history to bolster Daniel Farke’s squad. Jean-Matteo Bahoya, 21, arrived at Elland Road from Eintracht Frankfurt on an initial season long loan with an obligation to buy for £25.7m. The signing of the electric French U21 winger, the only player ",
       "summary_cn": ""
     },
     {
-      "title": "Birmingham fight back to hold Southampton",
+      "title": "Balogun walks away from Everton deal - after move scuppered Camara to Chelsea",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/birmingham-city-vs-southampton/report/560534",
+      "url": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-01T21:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "Birmingham",
-        "fight",
-        "back",
-        "hold"
-      ],
-      "summary": "August Priske earned Birmingham a 1-1 draw against Southampton in a breathless Sky Bet Championship encounter.",
-      "summary_cn": ""
-    },
-    {
-      "title": "West Ham beat Wolves to claim first league win of the season",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-wolverhampton-wanderers/report/560541",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-01T21:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "Wolves",
-        "West",
-        "beat",
-        "claim",
-        "first"
-      ],
-      "summary": "Divine Mukasa scored twice as West Ham beat Wolves 4-2 to pick up their first three points since last season's relegation to the Championship.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chelsea agree £47m deal to sign Monaco's Camara",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13579974/lamine-camara-chelsea-agree-deal-to-sign-monaco-midfielder-as-enzo-fernandez-replacement",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-01T21:30:00+00:00",
+      "published": "2026-09-02T00:21:00+00:00",
       "score": 25.0,
       "keywords": [
         "Chelsea",
-        "agree",
-        "deal",
-        "sign",
-        "Monaco",
-        "Camara"
+        "Everton",
+        "Balogun",
+        "walks",
+        "away",
+        "deal"
       ],
-      "summary": "Chelsea have agreed a &#163;47m deal to sign Monaco midfielder Lamine Camara.",
+      "summary": "Everton's move for Monaco striker Folarin Balogun has fallen through after a change of heart from the player - after the deal scuppered Chelsea's chances of signing Lamine Camara.",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea agree £47.1m move for Monaco's Camara",
+      "title": "'Very unhappy' - Why Chelsea still sold Fernandez despite Camara drama",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T00:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Very",
+        "unhappy",
+        "still",
+        "sold"
+      ],
+      "summary": "Sky Sports chief correspondent Kaveh Solhekol explains why Chelsea sold Enzo Fernandez to rivals Manchester City despite the last-minute collapse of their deal to sign Lamine Camara from Monaco.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Deal off! Monaco pull out of selling Fernandez replacement Camara to Chelsea",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Deal",
+        "Monaco",
+        "pull",
+        "selling",
+        "Fernandez"
+      ],
+      "summary": "Monaco have pulled out of the deal to sell Lamine Camara to Chelsea - who feel the French club have acted in an extraordinary and deeply unprofessional way.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City sign Fernandez in British-record-equalling deal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Man City",
+        "City",
+        "sign",
+        "Fernandez"
+      ],
+      "summary": "Manchester City have signed Enzo Fernandez from Chelsea for a joint-British-record fee of &#163;125m.",
+      "summary_cn": ""
+    },
+    {
+      "title": "How much did your club spend? Premier League breaks transfer record",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "much",
+        "club",
+        "spend",
+        "Premier",
+        "League",
+        "breaks"
+      ],
+      "summary": "How much have clubs spent on transfers during the summer window? We crunch the numbers...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-01T20:50:42+00:00",
+      "published": "2026-09-01T23:16:59+00:00",
       "score": 25.0,
       "keywords": [
         "Chelsea",
-        "agree",
-        "move",
-        "Monaco",
-        "Camara"
+        "Manchester City",
+        "Man City",
+        "Deadlines",
+        "acrimony",
+        "record"
       ],
-      "summary": "Chelsea have moved to replace outgoing midfielder Enzo Fernandez with Monaco's Lamine Camara.",
+      "summary": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
       "summary_cn": ""
     },
     {
@@ -251,7 +290,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-01T20:17:17+00:00",
+      "published": "2026-09-01T23:04:06+00:00",
       "score": 25.0,
       "keywords": [
         "Premier",
@@ -265,78 +304,171 @@
       "summary_cn": ""
     },
     {
-      "title": "Ndiaye's journey from non-league football to £65m Man City move",
+      "title": "Fernandez joins Man City for joint-British record £125m",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-01T20:57:48+00:00",
+      "published": "2026-09-01T22:52:22+00:00",
       "score": 25.0,
       "keywords": [
-        "Everton",
+        "Chelsea",
         "Manchester City",
         "Man City",
-        "Ndiaye",
-        "journey",
-        "league"
+        "Fernandez",
+        "joins",
+        "City"
       ],
-      "summary": "Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to £65m.",
+      "summary": "Manchester City pay a joint-British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.",
       "summary_cn": ""
     },
     {
-      "title": "Tottenham sign Chelsea's Mudryk on loan",
+      "title": "Camara's £47.1m move from Monaco to Chelsea collapses",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:34:53+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Camara",
+        "move",
+        "Monaco",
+        "collapses"
+      ],
+      "summary": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Balogun's Everton deal collapses after he walks away",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:41:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Balogun",
+        "deal",
+        "collapses",
+        "walks",
+        "away"
+      ],
+      "summary": "Everton's pursuit of Folarin Balogun from Monaco collapses after Balogun decides against move.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham sign Chelsea pair Mudryk and Tosin",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-01T21:22:03+00:00",
+      "published": "2026-09-01T22:27:24+00:00",
       "score": 25.0,
       "keywords": [
         "Chelsea",
         "Tottenham",
         "sign",
+        "pair",
         "Mudryk",
-        "loan"
+        "Tosin"
       ],
-      "summary": "Tottenham sign Chelsea winger Mykhailo Mudryk on loan until the end of the season.",
+      "summary": "Tottenham sign Chelsea winger Mykhailo Mudryk on loan until the end of the season and complete a permanent move for Tosin Adarabioyo.",
       "summary_cn": ""
     },
     {
-      "title": "Sunderland sign Spurs defender Danso on loan",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-01T19:50:58+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Sunderland",
-        "sign",
-        "defender",
-        "Danso"
-      ],
-      "summary": "Sunderland have signed Austria defender Kevin Danso from Tottenham on a loan deal until the end of the season.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Sunderland to beat Palace to Lyon's £30m winger Fofana",
+      "title": "Fofana seals £30m move to Sunderland",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-01T21:13:41+00:00",
+      "published": "2026-09-01T23:34:50+00:00",
       "score": 25.0,
       "keywords": [
         "Crystal Palace",
-        "Sunderland",
-        "beat",
-        "Palace",
-        "Lyon",
-        "winger"
+        "Fofana",
+        "seals",
+        "move",
+        "Sunderland"
       ],
-      "summary": "Sunderland are expected to sign Lyon winger Malick Fofana, despite Crystal Palace's attempts to hijack the deal",
+      "summary": "Sunderland have beaten Crystal Palace to the signing of Malick Fofana from Lyon.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Palace sign Chilwell and Timber after deadline",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crr4d0x0175o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:44:52+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Palace",
+        "sign",
+        "Chilwell",
+        "Timber",
+        "deadline"
+      ],
+      "summary": "Crystal Palace have signed internationals Ben Chilwell and Quinten Timber on permanent deals",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ipswich sign Burnley forward Flemming for £20m",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e37d6w6w0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T22:28:54+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "sign",
+        "Burnley",
+        "forward",
+        "Flemming"
+      ],
+      "summary": "Ipswich sign Burnley forward Zian Flemming on a four-year deal for a reported £20m.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hull sign six players including £22m Iroegbunam from Everton",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:04:13+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Hull",
+        "sign",
+        "players",
+        "including",
+        "Iroegbunam"
+      ],
+      "summary": "Hull City sign six players on transfer deadline day including midfielder Tim Iroegbunam from Everton and forward Robinio Vaz from Roma.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool tried to sign Gusto - Wednesday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T22:40:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Liverpool",
+        "Manchester United",
+        "tried",
+        "sign",
+        "Gusto"
+      ],
+      "summary": "Football gossip: Liverpool made a late move for Chelsea defender Malo Gusto and Manchester United defenders on \"trial\" this season",
       "summary_cn": ""
     },
     {
@@ -345,7 +477,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-01T21:19:42+00:00",
+      "published": "2026-09-01T23:19:22+00:00",
       "score": 25.0,
       "keywords": [
         "Fulham",
@@ -359,210 +491,79 @@
       "summary_cn": ""
     },
     {
-      "title": "Chelsea goalkeeper Sanchez joins Como on loan",
+      "title": "Brighton sign midfielder Chema Andres from Stuttgart",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yww04ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-01T19:50:05+00:00",
+      "published": "2026-09-01T23:13:16+00:00",
       "score": 25.0,
       "keywords": [
-        "Chelsea",
-        "goalkeeper",
-        "Sanchez",
-        "joins",
-        "Como",
-        "loan"
+        "Brighton",
+        "sign",
+        "midfielder",
+        "Chema",
+        "Andres",
+        "Stuttgart"
       ],
-      "summary": "Chelsea goalkeeper Robert Sanchez joins Como on a season-long loan after losing his starting spot to new arrival Emi Martinez.",
+      "summary": "Brighton secure deadline day deal to sign former Real Madrid midfielder Chema Andres from Stuttgart for £15.5m",
       "summary_cn": ""
     },
     {
-      "title": "Man Utd fail in attempt to sign Ait-Nouri from Man City",
+      "title": "Fernández completes record-equalling £125m move from Chelsea to Manchester City",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-01T21:04:30+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Manchester United",
-        "Man City",
-        "Man Utd",
-        "fail",
-        "attempt"
-      ],
-      "summary": "Manchester United approached Manchester City in the final hours of the transfer window in an attempt to sign Algeria defender Rayan Ait-Nouri on loan",
-      "summary_cn": ""
-    },
-    {
-      "title": "Football transfer deadline day: Man City sign Ndiaye and agree Fernández deal, Chelsea close on Camara – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
+      "url": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-01T21:24:26+00:00",
+      "published": "2026-09-01T23:12:28+00:00",
       "score": 25.0,
       "keywords": [
         "Chelsea",
-        "Man City",
-        "Football",
-        "transfer",
-        "deadline",
-        "City"
+        "Manchester City",
+        "completes",
+        "record",
+        "equalling",
+        "move"
       ],
-      "summary": "Chelsea to sign Monaco’s Lamine Camara in £47m move Men’s transfer interactive : all the deadline-day deals You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste manageme",
+      "summary": "Midfielder reunited with former manager Maresca Chelsea’s move for Monaco’s Camara falls through Manchester City have equalled the British transfer record with a £125m deal to sign Enzo Fernández from Chelsea, who were left raging after their attempts to replace the Argentina midfielder were dashed ",
       "summary_cn": ""
     },
     {
-      "title": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
+      "title": "Sunderland pip Crystal Palace in battle of the private jets to land Malick Fofana",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/01/west-ham-wolves-championship-match-report",
+      "url": "https://www.theguardian.com/football/2026/sep/01/sunderland-pip-crystal-palace-in-battle-of-the-private-jets-to-land-malick-fofana",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-01T21:01:15+00:00",
+      "published": "2026-09-01T22:15:29+00:00",
       "score": 25.0,
       "keywords": [
-        "West Ham",
-        "Wolves",
-        "West",
-        "fight",
-        "Divine",
-        "Mukasa"
+        "Crystal Palace",
+        "Sunderland",
+        "Crystal",
+        "Palace",
+        "battle",
+        "private"
       ],
-      "summary": "It was a match between two disjointed sides, two sides trying to carve out new identities following the drop into the Championship. West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno ",
+      "summary": "Both clubs send planes to France to acquire Lyon winger Sunderland submit deal sheet for £31m transfer Sunderland and Crystal Palace were involved in an extraordinary deadline-day tug of war that concluded with Malick Fofana agreeing to swap Lyon for the Stadium of Light in a club-record £31m move. ",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea agree £47million transfer for Monaco’s Lamine Camara in stunning deadline day U-turn after failed medical drama",
+      "title": "Women’s Super League 2026-27 preview No 12: Manchester United",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40242850/chelsea-agree-lamine-camara-transfer-failed-medical-drama/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-01T20:29:49+00:00",
+      "published": "2026-09-01T23:01:15+00:00",
       "score": 25.0,
       "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "agree",
-        "transfer",
-        "Monaco",
-        "Lamine"
-      ],
-      "summary": "CHELSEA have agreed a deadline day deal for Senegalese talent Lamine Camara. The Blues needed midfield reinforcements after selling Enzo Fernandez to Manchester City. The club have been pursuing Camara throughout the window. But the Blues were shut down as Monaco resolved not to allow another big st",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd REJECT Rayan Ait-Nouri deadline day loan transfer from rivals Man City to fill problem left-back position",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40242469/man-utd-shock-transfer-raid-man-city-ait-nouri/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-01T19:50:24+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
         "Manchester United",
-        "Wolves",
-        "Man City",
-        "Man Utd",
-        "REJECT"
+        "Women",
+        "Super",
+        "League",
+        "preview",
+        "Manchester"
       ],
-      "summary": "MANCHESTER UNITED rejected the chance to sign Manchester City left back Rayan Ait-Nouri. The 25-year-old’s agent made United aware that Ait-Nouri could be available last week but the club did not want to buy the former Wolves full back. During discussions with City on Tuesday afternoon, it was stres",
-      "summary_cn": ""
-    },
-    {
-      "title": "Szmodics strikes as Derby win at Portsmouth",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/portsmouth-vs-derby-county/report/560536",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-01T21:30:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Szmodics",
-        "strikes",
-        "Derby",
-        "Portsmouth"
-      ],
-      "summary": "Derby secured their first win of the season with a 2-0 victory at Portsmouth thanks to goals from Sammie Szmodics and Lars-Jorgen Salvesen.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Sheff Utd hit back to edge Bolton in five-goal thriller",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/sheffield-united-vs-bolton-wanderers/report/560538",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-01T21:30:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Sheff",
-        "back",
-        "edge",
-        "Bolton",
-        "five",
-        "goal"
-      ],
-      "summary": "Romelle Donovan grabbed the winner in time added on to give Sheffield United a 3-2 victory over Bolton at Bramall Lane.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Bristol City win piles more misery on struggling Preston",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/preston-north-end-vs-bristol-city/report/560537",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-01T21:30:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Bristol",
-        "City",
-        "piles",
-        "misery",
-        "struggling",
-        "Preston"
-      ],
-      "summary": "Two late goals helped Bristol City secure back-to-back Championship wins as they saw off spirited Preston 3-1 at Deepdale.",
-      "summary_cn": ""
-    },
-    {
-      "title": "How did that stay out?! Opoku misses sitter after manic goalmouth scramble",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13580015/swansea-vs-watford-joseph-opoku-misses-sitter-after-manic-goalmouth-scramble",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-01T20:05:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "stay",
-        "Opoku",
-        "misses",
-        "sitter",
-        "manic",
-        "goalmouth"
-      ],
-      "summary": "Joseph Opoku missed a great opportunity to put Swansea ahead against Watford after a hectic goalmouth scramble",
-      "summary_cn": ""
-    },
-    {
-      "title": "Boss Goodwin leaves hospital but still absent from Dundee Utd role",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m31m2191lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-01T20:23:03+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Boss",
-        "Goodwin",
-        "leaves",
-        "hospital",
-        "still",
-        "absent"
-      ],
-      "summary": "Dundee United manager Jim Goodwin has been released from hospital after a health scare but it remains unclear when he will resume his duties.",
+      "summary": "The departure of Marc Skinner and senior squad members leaves new manager Eva Olid to guide United into new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
       "summary_cn": ""
     }
   ]

@@ -1,6 +1,485 @@
 {
   "items": [
     {
+      "title": "Sunderland complete Fofana signing after dramatic saga",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13580106/malick-fofana-sunderland-finally-complete-signing-of-lyon-winger-after-deadline-day-drama-with-crystal-palace",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T00:15:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "matic",
+        "Sunderland",
+        "complete",
+        "Fofana",
+        "signing",
+        "dramatic"
+      ],
+      "summary": "Sunderland have finally completed the signing of Lyon winger Malick Fofana after a dramatic Deadline Day transfer saga involving two private jets and the player changing his mind multiple times.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Record-breaking transfer spend but is anyone really happy?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13580082/transfer-deadline-day-brings-record-spending-but-will-any-money-be-enough-for-these-premier-league-clubs",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T00:00:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Record",
+        "breaking",
+        "transfer",
+        "spend"
+      ],
+      "summary": "It sums up a wild Transfer Deadline Day that the British transfer record was matched in the final hours of the window. Enzo Fernandez's move from Chelsea to Manchester City completed an extraordinary summer in which spending went stratospheric.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Jadon Sancho ‘agrees shock free transfer to BRAZIL as ex-Man Utd and Chelsea winger links up with former Prem stars’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40243656/transfer-news-jadon-sancho-palmeiras-deal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-01T22:59:34+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Man Utd",
+        "Jadon",
+        "Sancho",
+        "agrees"
+      ],
+      "summary": "JADON SANCHO has reportedly agreed a shock move to Brazil. The former England international is currently a free agent following the expiration of his contract with Manchester United. The winger was linked with moves to Fiorentina and Roma throughout the summer. The moves to Florence and Rome, howeve",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Premier League’s most expensive summer transfer XI revealed as English clubs set new record by splurging over £3BILLION",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40241767/premier-league-transfer-news-most-expensive-signings-xi/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-01T22:50:19+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "most",
+        "expensive",
+        "summer",
+        "transfer"
+      ],
+      "summary": "THE summer transfer window is officially CLOSED. And Tuesday's 11pm deadline closed the book on an incredible spending spree from Premier League clubs. The 20 clubs in England's top flight spent over a jaw-dropping £3BILLION bolstering their squads for the season ahead. The biggest spenders of the w",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Alvarez stays at Atletico - so are Arsenal too short in attack?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13579965/arsenal-fail-to-sign-julian-alvarez-and-with-no-elite-attacker-in-are-mikel-artetas-team-short-in-the-forward-options",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Arteta",
+        "Mikel",
+        "Mikel Arteta",
+        "Alvarez",
+        "stays"
+      ],
+      "summary": "No Julian Alvarez to Arsenal. He joins Morgan Rogers and Vinicius Junior in not moving to the Premier League champions this summer. And Mikel Arteta has missed out on the star attacker he wanted.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Sunderland finally sign Lyon’s Malick Fofana after dramatic transfer deadline day tug-of-war with Crystal Palace",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40243291/sunderland-malick-fofana-kevin-danso/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-01T23:23:54+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Crystal Palace",
+        "matic",
+        "Sunderland",
+        "finally",
+        "sign",
+        "Lyon"
+      ],
+      "summary": "SUNDERLAND were the eventual winners of the dramatic deadline day tug-of-war with Crystal Palace for Lyon’s Malick Fofana. He penned a five-year contract with Regis Le Bris’ side after a deal worth £25.7m plus a potential £5.3m in add-ons, a new club-record, was finally agreed following the transfer",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Leeds sign fastest player in Bundesliga history as £25.7m Jean-Matteo Bahoya seals deadline line day transfer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40242263/leeds-jean-matteo-bahoya-gnonto-ramazani/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-01T23:47:37+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Matteo",
+        "Leeds",
+        "sign",
+        "fastest",
+        "player",
+        "Bundesliga"
+      ],
+      "summary": "LEEDS have snapped up the fastest player in Bundesliga history to bolster Daniel Farke’s squad. Jean-Matteo Bahoya, 21, arrived at Elland Road from Eintracht Frankfurt on an initial season long loan with an obligation to buy for £25.7m. The signing of the electric French U21 winger, the only player ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Balogun walks away from Everton deal - after move scuppered Camara to Chelsea",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T00:21:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Everton",
+        "Balogun",
+        "walks",
+        "away",
+        "deal"
+      ],
+      "summary": "Everton's move for Monaco striker Folarin Balogun has fallen through after a change of heart from the player - after the deal scuppered Chelsea's chances of signing Lamine Camara.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "'Very unhappy' - Why Chelsea still sold Fernandez despite Camara drama",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T00:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Very",
+        "unhappy",
+        "still",
+        "sold"
+      ],
+      "summary": "Sky Sports chief correspondent Kaveh Solhekol explains why Chelsea sold Enzo Fernandez to rivals Manchester City despite the last-minute collapse of their deal to sign Lamine Camara from Monaco.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Deal off! Monaco pull out of selling Fernandez replacement Camara to Chelsea",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Deal",
+        "Monaco",
+        "pull",
+        "selling",
+        "Fernandez"
+      ],
+      "summary": "Monaco have pulled out of the deal to sell Lamine Camara to Chelsea - who feel the French club have acted in an extraordinary and deeply unprofessional way.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Man City sign Fernandez in British-record-equalling deal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Man City",
+        "City",
+        "sign",
+        "Fernandez"
+      ],
+      "summary": "Manchester City have signed Enzo Fernandez from Chelsea for a joint-British-record fee of &#163;125m.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "How much did your club spend? Premier League breaks transfer record",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "much",
+        "club",
+        "spend",
+        "Premier",
+        "League",
+        "breaks"
+      ],
+      "summary": "How much have clubs spent on transfers during the summer window? We crunch the numbers...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:16:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Man City",
+        "Deadlines",
+        "acrimony",
+        "record"
+      ],
+      "summary": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Fernandez joins Man City for joint-British record £125m",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T22:52:22+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "Man City",
+        "Fernandez",
+        "joins",
+        "City"
+      ],
+      "summary": "Manchester City pay a joint-British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Balogun's Everton deal collapses after he walks away",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:41:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Balogun",
+        "deal",
+        "collapses",
+        "walks",
+        "away"
+      ],
+      "summary": "Everton's pursuit of Folarin Balogun from Monaco collapses after Balogun decides against move.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Palace sign Chilwell and Timber after deadline",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crr4d0x0175o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:44:52+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Palace",
+        "sign",
+        "Chilwell",
+        "Timber",
+        "deadline"
+      ],
+      "summary": "Crystal Palace have signed internationals Ben Chilwell and Quinten Timber on permanent deals",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Ipswich sign Burnley forward Flemming for £20m",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e37d6w6w0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T22:28:54+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "sign",
+        "Burnley",
+        "forward",
+        "Flemming"
+      ],
+      "summary": "Ipswich sign Burnley forward Zian Flemming on a four-year deal for a reported £20m.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Hull sign six players including £22m Iroegbunam from Everton",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:04:13+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Hull",
+        "sign",
+        "players",
+        "including",
+        "Iroegbunam"
+      ],
+      "summary": "Hull City sign six players on transfer deadline day including midfielder Tim Iroegbunam from Everton and forward Robinio Vaz from Roma.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Liverpool tried to sign Gusto - Wednesday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T22:40:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Liverpool",
+        "Manchester United",
+        "tried",
+        "sign",
+        "Gusto"
+      ],
+      "summary": "Football gossip: Liverpool made a late move for Chelsea defender Malo Gusto and Manchester United defenders on \"trial\" this season",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Fernández completes record-equalling £125m move from Chelsea to Manchester City",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-01T23:12:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester City",
+        "completes",
+        "record",
+        "equalling",
+        "move"
+      ],
+      "summary": "Midfielder reunited with former manager Maresca Chelsea’s move for Monaco’s Camara falls through Manchester City have equalled the British transfer record with a £125m deal to sign Enzo Fernández from Chelsea, who were left raging after their attempts to replace the Argentina midfielder were dashed ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Sunderland pip Crystal Palace in battle of the private jets to land Malick Fofana",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/01/sunderland-pip-crystal-palace-in-battle-of-the-private-jets-to-land-malick-fofana",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-01T22:15:29+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Sunderland",
+        "Crystal",
+        "Palace",
+        "battle",
+        "private"
+      ],
+      "summary": "Both clubs send planes to France to acquire Lyon winger Sunderland submit deal sheet for £31m transfer Sunderland and Crystal Palace were involved in an extraordinary deadline-day tug of war that concluded with Malick Fofana agreeing to swap Lyon for the Stadium of Light in a club-record £31m move. ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Women’s Super League 2026-27 preview No 12: Manchester United",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-01T23:01:15+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Women",
+        "Super",
+        "League",
+        "preview",
+        "Manchester"
+      ],
+      "summary": "The departure of Marc Skinner and senior squad members leaves new manager Eva Olid to guide United into new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Koivun handed shock Team USA debut as Presidents Cup picks revealed",
+      "title_cn": "",
+      "url": "https://www.skysports.com/golf/news/12040/13580066/presidents-cup-2026-jackson-koivun-handed-shock-team-usa-debut-as-brandt-snedeker-geoff-ogilvy-reveal-captains-picks",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-01T23:10:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Koivun",
+        "handed",
+        "shock",
+        "Team",
+        "debut",
+        "Presidents"
+      ],
+      "summary": "Jackson Koivun has been handed a Team USA debut for this month's Presidents Cup, just months after turning professional, as former world No 1 Jason Day missed out on a spot in the International Team.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
+      "title": "Celtic sign Parma's Sorensen as Hatate and Kenny are sold",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-01T23:03:28+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Celtic",
+        "sign",
+        "Parma",
+        "Sorensen",
+        "Hatate",
+        "Kenny"
+      ],
+      "summary": "Celtic sign Parma midfielder Oliver Sorensen on loan as Reo Hatate is sold to Burnley and Johnny Kenny heads back to Bolton Wanderers.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-01T23:57:25.037520+00:00"
+    },
+    {
       "title": "Chelsea outcast Mykhailo Mudryk completes shock Tottenham loan transfer on deadline day as he’s reunited with De Zerbi",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40243192/transfer-news-mykhailo-mudryk-tottenham-chelsea-loan/",
@@ -39179,479 +39658,6 @@
       "summary": "CHANNEL 4 have secured a last-minute deal to broadcast the Women's Africa Cup of Nations final. The historic match will see tournament debutants Malawi face three-time runners-up Cameroon in Rabat, Morocco. Malawi have been one of the stories of WAFCON, having reached the final in their first attemp",
       "summary_cn": "",
       "fetched_at": "2026-08-14T11:51:23.524802+00:00"
-    },
-    {
-      "title": "Jeff Stelling teases new TV show three years after Sky Sports legend, 71, left Soccer Saturday",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40059589/jeff-stelling-new-tv-show-sky-sports-soccer-saturday/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T11:29:11+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Jeff",
-        "Stelling",
-        "teases",
-        "show",
-        "years",
-        "Sports"
-      ],
-      "summary": "JEFF STELLING has hinted he is set to host a new football show three years after leaving Soccer Saturday. The TV host, 71, helmed the iconic football results programme for an incredible 29 years before standing down in May 2023. Stelling's voice became a staple of living rooms across the country on ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T11:51:23.524802+00:00"
-    },
-    {
-      "title": "Bowen: As long as West Ham get back to the PL, I don't care how we do it",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13572527/jarrod-bowen-exclusive-west-ham-captain",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T10:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Jarrod Bowen",
-        "Bowen",
-        "long",
-        "West",
-        "back"
-      ],
-      "summary": "When West Ham were relegated from the Premier League after 15 years back in May, it seemed inevitable Jarrod Bowen would not be there to join them as they returned to the Sky Bet Championship.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Arsenal in talks over shock transfer for England star Jarell Quansah amid fears over William Saliba injury",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40058386/arsenal-jarell-quansah-transfer-leverkusen/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T09:38:03+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Ezri Konsa",
-        "Konsa",
-        "talks",
-        "shock"
-      ],
-      "summary": "JARELL QUANSAH has emerged as a target for Arsenal and SunSport understands the Bayer Leverkusen defender is keen on a return to England. Arsenal have had a strong interest in Aston Villa’s Ezri Konsa but it seems they are not willing to meet the club’s £60million demands and a deal is looking less ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Liverpool Dream Team preview: Top stars, smart options & potential flops",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40057754/liverpool-fantasy-premier-league-preview-players-alexander-isak/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T09:16:11+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Salah",
-        "Mohamed Salah",
-        "Dream",
-        "Team",
-        "preview"
-      ],
-      "summary": "LIVERPOOL have replaced Arne Slot with Andoni Iraola and club legend Mohamed Salah has moved onto pastures new. It feels like another reset for the Reds and most Dream Team managers will be fascinated to see how they fare once the campaign begins; let’s run through their top stars, smart options and",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Fans stunned as World Cup winner Rodri takes budget Ryanair flight to Liverpool with personalised luggage",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40057222/rodri-manchester-city-flight-transfer-ryanair/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T09:05:42+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester City",
-        "Rodri",
-        "Fans",
-        "stunned",
-        "World"
-      ],
-      "summary": "HUMBLE Rodri boarded a Ryanair flight back to England amid speculation surrounding his Manchester City future. The World Cup-winning midfielder has been heavily linked with both Real Madrid and Barcelona this summer. With his future still up in the air, Rodri headed back to England to report back to",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Cherry-Evans opens up on Hull FC move: 'It's where the connections felt right'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13572891/daly-cherry-evans-nrl-legend-opens-up-on-hull-fc-move-its-where-the-connections-felt-right",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T10:10:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Evans",
-        "Cherry",
-        "opens",
-        "Hull",
-        "move",
-        "connections"
-      ],
-      "summary": "NRL legend Daly Cherry-Evans has opened up on his shock move to sign a one-year deal with Hull FC in the Super League in 2027 and says it is the club with which the \"connections felt right\".",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "How much do you know about the Football League? Find out with our quiz",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/14/football-league-efl-new-season-quiz-championship-league-one-league-two",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-14T09:22:36+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Foster",
-        "much",
-        "know",
-        "Football",
-        "League",
-        "Find"
-      ],
-      "summary": "Kick off the new season in the Championship, League One and League Two with our 16-question quiz By The Football Mine This is a quiz by Richard Foster, who presents the It Started With A Kick podcast and edits The Football Mine . Continue reading...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Cristiano Ronaldo’s family ‘found out he was marrying Georgina Rodriguez 30 SECONDS before wedding,’ TV host claims",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40057363/ronaldo-family-found-out-georgina-wedding-seconds-before/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T08:58:31+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ronaldo",
-        "Rodriguez",
-        "Cristiano Ronaldo",
-        "Rodri",
-        "Cristiano",
-        "family"
-      ],
-      "summary": "A PORTUGUESE TV presenter has claimed Cristiano Ronaldo’s family found out he was marrying his long-term girlfriend Georgina Rodriguez “30 seconds” before he tied the knot. Respected newspaper Jornal de Noticias published a copy of the couple’s marriage certificate late on Thursday. It is claimed on",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Spurs agree £30m deal with Inter for Spence",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13572315/djed-spence-transfer-news-tottenham-and-inter-milan-agree-30m-deal-for-england-defender",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T11:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "agree",
-        "deal",
-        "Inter",
-        "Spence"
-      ],
-      "summary": "Inter Milan have agreed a &#163;30m deal to sign England defender Djed Spence from Tottenham.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Arsenal in talks with Leverkusen over Quansah",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13572821/jarell-quansah-arsenal-in-talks-with-bayer-leverkusen-over-signing-england-and-former-liverpool-defender",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T10:28:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "talks",
-        "Leverkusen",
-        "Quansah"
-      ],
-      "summary": "Arsenal are in talks with Bayer Leverkusen over a possible deal for England defender Jarell Quansah.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Man City must act like champions as WSL rivals grow stronger",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwkl58xgvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-14T08:33:42+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "must",
-        "like",
-        "champions"
-      ],
-      "summary": "Manchester City have bolstered their squad this summer - but will they have enough to defend their Women's Super League crown?",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "European Cup winner Rimmer dies aged 78",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20eyww3vyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-14T09:50:51+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Manchester United",
-        "European",
-        "winner",
-        "Rimmer",
-        "dies"
-      ],
-      "summary": "European Cup winner and former Aston Villa and Manchester United goalkeeper Jimmy Rimmer dies at the age of 78.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Liverpool's Lundgaard joins Eintracht Frankfurt",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlx1023wd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-14T10:00:53+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Lundgaard",
-        "joins",
-        "Eintracht",
-        "Frankfurt"
-      ],
-      "summary": "Liverpool midfielder Sofie Lundgaard completes a permanent transfer to Eintracht Frankfurt for an undisclosed fee.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Burnley forced to replace hundreds of shirts as they rip up contract with sponsor hours before season begins",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40057992/burnley-kit-sponsor-change-championship-efl/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T10:00:01+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "Wolves",
-        "Burnley",
-        "forced",
-        "replace",
-        "hundreds"
-      ],
-      "summary": "BURNLEY have been forced to replace hundreds of shirts after ripping up their contract with the sponsor. The Championship season begins in just hours with Wolves hosting Blackburn tonight. Burnley get their campaign underway on Sunday afternoon as they host West Ham at Turf Moor. However, the club h",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Jimmy Rimmer dead at 78: Former Man Utd and Aston Villa star who won European Cup twice dies as tributes flood in",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40057446/jimmy-rimmer-dead-man-utd-aston-villa-star-dies/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T08:30:49+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Manchester United",
-        "Man Utd",
-        "Jimmy",
-        "Rimmer",
-        "dead"
-      ],
-      "summary": "MANCHESTER UNITED and Aston Villa icon Jimmy Rimmer has died at the age of 78. The veteran goalkeeper helped the sides to a European Cup each during his more-than 20-year career. A Lancashire native, the star came through the youth system for United and was on the bench for their triumph in the 1968",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T10:12:18.793680+00:00"
-    },
-    {
-      "title": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-14T07:48:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "Martinelli",
-        "Gabriel Martinelli",
-        "Football",
-        "transfer"
-      ],
-      "summary": "Today’s fluff has sought shade As these glorious pages reported on Thursday, Galatasaray wanted Gabriel Martinelli . In the following 24 hours things changed a bit, creating greater complexity, something we do not approve of. Arsenal have supposedly been offered the chance to involve the Nigeria str",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
-    },
-    {
-      "title": "Steelers rookie Allar stars as McCarthy beats Packers on debut",
-      "title_cn": "",
-      "url": "https://www.skysports.com/nfl/news/12040/13572834/nfl-preseason-steelers-rookie-allar-stars-against-packers-as-mccarthy-era-starts-with-win",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T08:06:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Green",
-        "McCarthy",
-        "Steelers",
-        "rookie",
-        "Allar",
-        "stars"
-      ],
-      "summary": "Rookie Drew Allar starred in Mike McCarthy's first game as Pittsburgh Steelers head coach, throwing two touchdown passes and running for another in a 28-9 preseason win over the Green Bay Packers.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
-    },
-    {
-      "title": "Championship kicks off, Fifa latest and Community Shield buildup: football – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/14/championship-kicks-off-fifa-latest-and-community-shield-buildup-football-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-14T08:10:49+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Hughes",
-        "Championship",
-        "kicks",
-        "Fifa",
-        "latest",
-        "Community"
-      ],
-      "summary": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom First up, big news in the murky world of football politics from Matt Hughes this morning: Continue reading...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
-    },
-    {
-      "title": "Cristiano Ronaldo’s mum MISSED Georgina Rodriguez wedding with just 4 witnesses and kids at ceremony at £30m mansion",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40056616/cristiano-ronaldo-mum-georgina-rodriguez-wedding/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T07:16:12+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Rodri",
-        "Rodriguez",
-        "Cristiano",
-        "MISSED"
-      ],
-      "summary": "CRISTIANO RONALDO and Georgina Rodriguez got married at their new £30MILLION mansion near Lisbon in front of just FOUR witnesses and their children. Cristiano’s doting mum Dolores Aveiro and his three siblings Hugo, Elma and Katia, were NOT present at the intimate civil ceremony which took place at ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
-    },
-    {
-      "title": "Cristiano Ronaldo wears ring to Al Nassr training as he is congratulated on Georgina Rodriguez wedding by Postecoglou",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40056448/cristiano-ronaldo-wears-wedding-ring-al-nassr-ange-postecoglou/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T06:53:17+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Cristiano Ronaldo",
-        "given",
-        "Ronaldo",
-        "Rodri",
-        "Rodriguez",
-        "Cristiano"
-      ],
-      "summary": "CRISTIANO RONALDO was given a heartfelt welcome back to Al-Nassr after marrying Georgina Rodriguez. The Portuguese superstar, 41, and Argentine model tied the knot in a private ceremony earlier this week. And Ronaldo, sporting a new look after dying his hair, was spotted wearing his wedding band whe",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
-    },
-    {
-      "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T07:57:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "latest",
-        "transfers",
-        "Thomas",
-        "Tuchel",
-        "England"
-      ],
-      "summary": "Sky Sports News takes you through a selection of the back page headlines from Friday morning's papers.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
-    },
-    {
-      "title": "Can Chelsea go from 10th to title again?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-14T06:34:57+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "title",
-        "again"
-      ],
-      "summary": "With a new manager at the helm in Xabi Alonso, can Chelsea go from 10th to the Premier League title like they did a decade ago?",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
-    },
-    {
-      "title": "Who to pick, who to avoid - your team's FPL assets ranked",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qv21egpneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-14T07:14:05+00:00",
-      "score": 25.0,
-      "keywords": [
-        "pick",
-        "avoid",
-        "team",
-        "assets",
-        "ranked"
-      ],
-      "summary": "Our team of FPL experts rank the best and worst picks for 2026-27 from each of the 20 Premier League teams.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
-    },
-    {
-      "title": "Arsenal vs Man City – Community Shield offer: Get £30 in free bets with Midnite",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40046175/arsenal-man-city-community-shield-free-bets/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T08:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Man City",
-        "City",
-        "Community",
-        "Shield"
-      ],
-      "summary": "ARSENAL and Manchester City compete for the first piece of silverware of the season in Sunday's Community Shield. Midnite are stepping things up ahead of the Wembley showdown, rewarding brand new customers who bet £10 on their sportsbook with £30 in free bets to spend on football! Midnite new custom",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T08:22:20.839421+00:00"
     }
   ]
 }
