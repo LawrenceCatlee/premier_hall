@@ -1,6 +1,340 @@
 {
   "items": [
     {
+      "title": "Papers: Wantaway Spurs striker Richarlison agrees Trabzonspor terms",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13580536/richarlison-transfer-news-tottenham-striker-agrees-terms-with-trabzonspor-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T21:45:00+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Spurs",
+        "Richarlison",
+        "Papers",
+        "Wantaway",
+        "striker",
+        "agrees"
+      ],
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Man Utd sign Bernal from Washington Spirit",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-02T19:47:24+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "sign",
+        "Bernal",
+        "Washington",
+        "Spirit"
+      ],
+      "summary": "Manchester United have completed the signing of Mexico international Rebeca Bernal from Washington Spirit.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Chelsea and Tottenham leave Arsenal and Man Utd in their wake as winners and losers of summer transfer window revealed",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40252376/transfer-window-winners-chelsea-spurs-losers-arsenal-man-utd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-02T19:47:09+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Everton",
+        "Tottenham",
+        "Man Utd",
+        "leave"
+      ],
+      "summary": "IT was the maddest, biggest, most astonishing summer transfer window of all time. Record-breaking sums and huge squad overhauls, with the drama extending to two hours after the deadline as Everton’s big striker signing changed his mind after the last minute. As the dust settles, the debates on who w",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Ollie Watkins’ wife Ellie chokes up as she bids Aston Villa farewell before England star scores on Al-Hilal debut",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40253454/ollie-watkins-wife-ellie-aston-villa-al-hilal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-02T21:13:49+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Ollie Watkins",
+        "Watkins",
+        "Ollie",
+        "wife",
+        "Ellie"
+      ],
+      "summary": "OLLIE WATKINS' wife Ellie fought back tears as she issued an emotional farewell to Aston Villa after moving to Saudi Arabia. Watkins, 30, moved to Al-Hilal after six glittering years at Villa that saw him registering 108 goals and 47 assists in 278 appearances that included Champions League outings ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Man Utd fans call for Jason Wilcox to QUIT after Red Devils failed to sign new left back in poor end to transfer window",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40253746/man-utd-jason-wilcox-resign-christopher-vivell-exit/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-02T21:10:44+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Wilcox",
+        "Jason Wilcox",
+        "Tielemans",
+        "Youri Tielemans"
+      ],
+      "summary": "DISGRUNTLED Manchester United fans have called for Jason Wilcox to RESIGN after the club's underwhelming transfer window. The Red Devils revamped their midfield by bringing in Youri Tielemans, Andrey Santos and Carlos Baleba for a combined £149million. However, issues in defence and attack, includin",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Charlton hit back to hold West Brom",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T21:35:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Charlton",
+        "Campbell",
+        "back",
+        "hold",
+        "West",
+        "Brom"
+      ],
+      "summary": "Charlton's 100 per cent record was brought to and end but they remain unbeaten as Tyreece Campbell's second-half strike earned a 1-1 draw against West Brom.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "St Johnstone secure Tayside derby draw after late drama at Dundee",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/dundee-vs-st-johnstone/report/558358",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T21:35:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "stone",
+        "Johnstone",
+        "secure",
+        "Tayside",
+        "derby"
+      ],
+      "summary": "St Johnstone claimed a 1-1 draw in the Tayside derby after a dramatic conclusion at Dens Park.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Kilmarnock remain without a point after loss to high-flying St Mirren",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/kilmarnock-vs-st-mirren/report/558361",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T21:35:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Taylor",
+        "Kilmarnock",
+        "remain",
+        "without",
+        "point",
+        "loss"
+      ],
+      "summary": "Fraser Taylor's maiden goal for St Mirren helped them to their first league win at Rugby Park in over 13 years - heaping more pressure on struggling Kilmarnock.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "BBC Women's Football Weekly",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p7mkv4?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-02T20:23:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Taylor",
+        "Women",
+        "Football",
+        "Weekly"
+      ],
+      "summary": "Gareth Taylor, Khiara Keating, Sam Kerr and Sara Agrež join Em Sanders!",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Walsh winner helps send Chelsea through in Women’s Champions League",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/real-sociedad-women-vs-chelsea-women/report/577459",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T20:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Walsh",
+        "winner",
+        "helps",
+        "send",
+        "through"
+      ],
+      "summary": "Chelsea booked their spot in the Women's Champions League league phase after a 1-0 win over Real Sociedad in the second leg of their third qualifying round tie.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-02T21:36:32+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Everton",
+        "Liverpool",
+        "Bournemouth",
+        "make"
+      ],
+      "summary": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Walsh caps Champions League progress for Chelsea despite Real Sociedad grind",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/02/walsh-caps-champions-league-progress-for-chelsea-despite-real-sociedad-grind",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-02T19:54:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Walsh",
+        "caps",
+        "Champions",
+        "League",
+        "progress"
+      ],
+      "summary": "Real Sociedad 0-1 Chelsea (agg 2-6) Keira Walsh scores at corner to settle tie Chelsea ensured there will be three Women’s Super League teams in the league phase of the Champions League as Keira Walsh’s second-half strike against Real Sociedad extended their three-goal margin from the first leg of t",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Burnley battle back to hold Middlesbrough",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/burnley-vs-middlesbrough/report/560542",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T21:35:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Burnley",
+        "battle",
+        "back",
+        "hold",
+        "Middlesbrough"
+      ],
+      "summary": "Ugo Raghouber's first goal for Burnley earned only their second point from their opening four Championship matches as they came from behind to draw 1-1 with Middlesbrough.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Burrell double steers QPR to victory",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/queens-park-rangers-vs-cardiff-city/report/560544",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T21:35:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Burrell",
+        "double",
+        "steers",
+        "victory"
+      ],
+      "summary": "Rumarn Burrell scored both QPR goals as they beat Cardiff 2-1 at Loftus Road to continue their impressive start to the Championship season.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Burrell brace sees QPR beat Cardiff",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13580544/qpr-2-1-cardiff-city-championship-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T21:46:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Burrell",
+        "brace",
+        "sees",
+        "beat",
+        "Cardiff"
+      ],
+      "summary": "Highlights of the Sky Bet Championship match between QPR and Cardiff City.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Wrexham breeze past Millwall to claim first win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13580547/millwall-0-3-wrexham-championship-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-02T21:48:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Wrexham",
+        "breeze",
+        "past",
+        "Millwall",
+        "claim",
+        "first"
+      ],
+      "summary": "Highlights of the Sky Bet Championship match between Millwall and Wrexham.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
+      "title": "Aasgaard makes Anderlecht switch as Rangers reject Raskin bid",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-02T21:18:23+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Aasgaard",
+        "makes",
+        "Anderlecht",
+        "switch",
+        "Rangers",
+        "reject"
+      ],
+      "summary": "Rangers midfielder Thelo Aasgaard is on the verge of a loan move to Anderlecht, while the Ibrox club have knocked back an loan bid from Besiktas for Belgium midfielder Nicolas Raskin.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-02T21:43:20.497951+00:00"
+    },
+    {
       "title": "Enzo Fernandez’s new Man City squad number revealed after £125m Chelsea transfer exit as he’s DENIED old top by ex-Blue",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40251463/enzo-fernandez-man-city-shirt-number-revealed/",
@@ -39320,345 +39654,6 @@
       "summary": "AMAZON chief Jeff Bezos has officially bought a stake in Liverpool Football Club. The Reds put weeks of rumours to bed, as they announced the news via a statement this afternoon. Multi-billionaire Bezos will team up with ex-QPR chief Amit Bhatia, as part of a consortium called \"1892 Holdings\". FSG P",
       "summary_cn": "",
       "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Xabi Alonso was right to pick Chelsea over Liverpool – it’s an easier job for him, says Glen Johnson",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40062607/xabi-alonso-chelsea-glen-johnson-liverpool-arsenal-rogers/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T17:10:40+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Liverpool",
-        "Bridge",
-        "Johnson",
-        "Glen Johnson",
-        "Xabi"
-      ],
-      "summary": "EX-LIVERPOOL and Chelsea ace Glen Johnson claims Xabi Alonso was right to take over at Stamford Bridge rather than Anfield. Johnson, 41, spent four years with the Blues as former owner Roman Abramovich's first ever signing in 2003 before his move to the Reds where he underwent a six-year stint until",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Kim Hellberg relishing Boro Championship promotion battle against ‘ridiculous’ West Ham & Wolves after draining Spygate",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40058547/kim-hellberg-boro-transfer-spygate/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T17:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Wolves",
-        "matic",
-        "Hellberg",
-        "relishing",
-        "Boro"
-      ],
-      "summary": "KIM HELLBERG is ready to rock and roll again with Middlesbrough in the Championship. The Swede, 38, looked drained after debut campaign on Teesside finished by missing out on automatic promotion, the whole Spygate drama and then a play-off final defeat to Hull. But Boro have been one of the biggest ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "See Barcelona live in the Nou Camp with official match ticket and 2-night hotel deals from only £309pp",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39805720/barcelona-live-spain-match-ticket-hotel-nou-camp/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T17:50:57+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Barcelona",
-        "live",
-        "Camp",
-        "official",
-        "match",
-        "ticket"
-      ],
-      "summary": "FOOTBALL fans can look forward to the ultimate Spanish city break this season to see Barcelona in the iconic Nou Camp stadium. Supporters have a golden opportunity to experience the amazing stadium and witness some of the world's most exciting football talent, including Lamine Yamal, Pedri, Raphinha",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Alan Shearer’s daughter Hollie stuns in white bikini and changes name after marrying England rugby star",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40064896/hollie-shearer-england-rugby-joe-marchant-honeymoon-alan-shearer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T17:54:52+00:00",
-      "score": 26.0,
-      "keywords": [
-        "March",
-        "Alan Shearer",
-        "Shearer",
-        "Alan",
-        "daughter",
-        "Hollie"
-      ],
-      "summary": "ALAN SHEARER'S daughter Hollie has wowed fans in a white bikini after marrying England rugby star Joe Marchant. She also seems to have changed her name to Hollie Marchant following the celebrations last week. Hollie posted on Instagram for the first time since the wedding, as she and rugby star Joe ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T18:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "takeover",
-        "know",
-        "Bezos",
-        "consortium"
-      ],
-      "summary": "Liverpool's owners Fenway Sports Group have sold a stake in Liverpool Football Club to a consortium including Amazon founder Jeff Bezos.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Man City miss Chelsea's deadline to bid for Fernandez",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13572838/enzo-fernandez-transfer-news-man-city-miss-chelseas-deadline-to-bid-for-midfielder",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T17:27:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Man City",
-        "City",
-        "miss",
-        "deadline",
-        "Fernandez"
-      ],
-      "summary": "The&#160;5pm Friday deadline set by&#160;Chelsea&#160;for&#160;Man City&#160;to make their bid for&#160;Enzo Fernandez&#160;has passed with no offer made for the midfielder.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "FSG sell minority stake in Liverpool to Bezos-backed consortium",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13573040/liverpool-fsg-sell-minority-stake-to-amazon-founder-jeff-bezos-backed-consortium-led-by-amit-bhatia",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T17:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "sell",
-        "minority",
-        "stake",
-        "Bezos",
-        "backed"
-      ],
-      "summary": "Liverpool's owners have agreed to sell around a third of the club to a consortium including Amazon founder Jeff Bezos.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Bezos-backed consortium buys a third of Liverpool",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-14T16:00:16+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Bezos",
-        "backed",
-        "consortium",
-        "buys",
-        "third"
-      ],
-      "summary": "Liverpool's owners agree to sell around a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Burnley drop shirt sponsor after 42 days",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-14T16:20:40+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "Burnley",
-        "drop",
-        "shirt",
-        "sponsor",
-        "days"
-      ],
-      "summary": "Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Arsenal v Manchester City in Community Shield and athletics gold – follow with us",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/sport/2026/aug/14/arsenal-v-manchester-city-in-community-shield-and-athletics-gold-follow-with-us",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-14T16:09:45+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Manchester",
-        "City",
-        "Community",
-        "Shield"
-      ],
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Enzo Fernandez set to be forced to STAY at Chelsea as Blues’ £120m deadline passes without any transfer bids",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40064154/enzo-fernandez-maresca-chelsea-manchester-city-transfer-gossip/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T16:28:08+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "Enzo",
-        "Fernandez",
-        "forced",
-        "STAY"
-      ],
-      "summary": "CHELSEA expect Enzo Fernandez to stay for this season after receiving no bids before their Friday deadline. New Manchester City boss Enzo Maresca has been keen on a reunion with the Argentina international at The Etihad. However, City do not value the midfielder at Chelsea's £120million asking price",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "Gay bags pair in Test warm-up as Pakistan captain Babar suffers injury scare",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13573038/england-batter-emilio-gay-bags-second-duck-of-test-warm-up-as-pakistan-captain-babar-azam-suffers-injury-scare",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T18:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "bags",
-        "pair",
-        "Test",
-        "warm",
-        "Pakistan",
-        "captain"
-      ],
-      "summary": "England opener Emilio Gay bagged a pair and Pakistan captain Babar Azam suffered an injury scare on an eventful second day of the Test match-warm up in Beckenham.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T17:56:41.351895+00:00"
-    },
-    {
-      "title": "O'Neill 'disappointed' to lose Engels but offer 'hard to turn down'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13573008/celtic-arne-engels-set-for-west-ham-and-alistair-johnston-injured-as-martin-oneill-expects-more-signings",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-14T15:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Neill",
-        "disappointed",
-        "lose",
-        "Engels",
-        "offer"
-      ],
-      "summary": "Celtic manager Martin O'Neill says he is disappointed to be losing Arne Engels to West Ham, but accepts it is a move he has to make.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T16:01:22.560076+00:00"
-    },
-    {
-      "title": "Jose Mourinho reveals Roman Abramovich vetoed his dream Chelsea transfer in favour of flop Andriy Shevchenko",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40062464/jose-mourinho-roman-abramovich-samuel-eto-chelsea-andriy-shevchenko/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T15:04:08+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "Samuel",
-        "Jose",
-        "Mourinho",
-        "reveals"
-      ],
-      "summary": "JOSE MOURINHO has revealed ex-Chelsea chief Roman Abramovich vetoed his bid to sign Samuel Eto'o in 2006. The legendary former Blues boss was part of a golden era at Stamford Bridge after winning back to back Prem titles in 2005 and 2006. The Special One oversaw a host of big-name transfers during h",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T16:01:22.560076+00:00"
-    },
-    {
-      "title": "Help or hindrance? How Elliot Anderson’s big-money move to Manchester City will impact his Dream Team returns",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40062773/elliot-anderson-manchester-city-fantasy-premier-league-bonus/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T15:01:29+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Nottingham Forest",
-        "Forest",
-        "Anderson",
-        "Help",
-        "hindrance"
-      ],
-      "summary": "THIS time last year Elliot Anderson (£4.5m) was viewed as a serviceable workhorse for Nottingham Forest. Now he’s a starter for England and Manchester City’s £116million marquee midfielder. PLAY DREAM TEAM NOW: £100,000 PRIZE POT! Many Dream Team managers monitored Anderson’s rapid rise in relevance",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T16:01:22.560076+00:00"
-    },
-    {
-      "title": "Georgina Rodriguez posts without wedding ring as she takes to Instagram for first time since marrying Cristiano Ronaldo",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40063232/georgina-rodriguez-wedding-ring-cristiano-ronaldo-marriage/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T15:59:08+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ronaldo",
-        "Rodriguez",
-        "Cristiano Ronaldo",
-        "Rodri",
-        "Georgina",
-        "posts"
-      ],
-      "summary": "CRISTIANO RONALDO'S wife Georgina Rodriguez has posted on Instagram without her wedding ring, despite the pair's recent marriage. The couple, who have been together since 2016, tied the knot earlier this week in Cascais, Portugal. However, Georgina has already been spotted not wearing her ring in an",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T16:01:22.560076+00:00"
-    },
-    {
-      "title": "Annie Kilner and Kyle Walker reveal unique name of baby girl after welcoming fifth child together",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40063258/annie-kilner-kyle-walker-baby-girl-name/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-14T15:55:04+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Kyle Walker",
-        "Walker",
-        "Annie",
-        "Kilner",
-        "Kyle",
-        "reveal"
-      ],
-      "summary": "KYLE Walker and missus Annie Kilner have named their new baby girl Royal Wish Walker, The Sun can reveal. The England legend told pals the tot will be known as Wish, but the married couple wanted to keep the ‘R’ theme going - their four sons are called Roman, Riaan, Reign and Rezon. A friend...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-14T16:01:22.560076+00:00"
     }
   ]
 }
