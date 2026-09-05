@@ -1,23 +1,251 @@
 {
-  "updated_at": "2026-09-05T04:10:24.011279+00:00",
+  "updated_at": "2026-09-05T08:56:20.967064+00:00",
   "items": [
     {
-      "title": "Serena and Venus Williams suffer agonising US Open doubles defeat",
+      "title": "Premier League side complete shock transfer THREE DAYS after window closed thanks to little-known Fifa rule",
       "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13581587/us-open-serena-and-venus-williams-suffer-agonising-defeat-to-maya-joint-and-chan-hao-ching-in-a-womens-doubles-first-round-epic",
+      "url": "https://www.thesun.co.uk/sport/40278233/coventry-transfer-yann-gboho-premier-league-rule/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-05T08:00:25+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "side",
+        "complete",
+        "shock",
+        "transfer"
+      ],
+      "summary": "COVENTRY have announced the signing of Yann Ghobo THREE DAYS after the transfer window shut. The Sky Blues have added the winger from Toulouse in what has turned out to be one of the more surprising deals of the summer. The shock factor comes simply from the lateness of the transfer, with the window",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Reverse bucket list’: Arteta channels Wenger in defence of Arsenal window",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/05/premier-league-arsenal-transfers-reverse-bucket-list-mikel-arteta-channels-arsene-wenger-defence-window",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-05T07:00:29+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Arteta",
+        "Reverse",
+        "bucket",
+        "list",
+        "channels"
+      ],
+      "summary": "The champions’ manager echoed his illustrious predecessor and urged fans unhappy at the lack of a deadline-day arrival to see the bigger picture For many people connected to Arsenal, it has been a time to remember the old line from Arsène Wenger. “We live in a society of ‘news’,” the club’s former m",
+      "summary_cn": ""
+    },
+    {
+      "title": "I started for Man Utd in Rashford’s famous debut.. now I play in seventh tier & have completely different full-time job",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40278094/man-utd-marcus-rashford-joe-riley-different-career/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-05T07:17:34+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "MARCUS RASHFORD",
+        "Rashford",
+        "started",
+        "famous"
+      ],
+      "summary": "MARCUS RASHFORD made his Manchester United debut a decade ago and has gone on to forge an incredible career in football. The forward marked the Europa League 5-1 win against Midtjylland with a brace in 2016. The match was memorable to someone else on the team as Joe Riley made his first-ever start f",
+      "summary_cn": ""
+    },
+    {
+      "title": "St Helens 'need a clear out' as recruitment questioned after Leigh defeat",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13581438/super-league-st-helens-need-a-big-clear-out-as-teams-recruitment-questioned-after-missing-play-offs",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-05T03:20:00+00:00",
+      "published": "2026-09-05T07:00:00+00:00",
       "score": 26.0,
       "keywords": [
-        "Williams",
-        "Serena",
-        "Venus",
-        "suffer",
-        "agonising",
-        "Open"
+        "Jones",
+        "Carroll",
+        "Helens",
+        "need",
+        "clear",
+        "recruitment"
       ],
-      "summary": "Serena and Venus Williams turn back the clock to defeat Maya Joint and Chan Hao-Ching in a US Open women's doubles first-round epic.",
+      "summary": "Jamie Jones-Buchanan believes St Helens need a big rebuild as Eamon O&#8217;Carroll&#8217;s side missed out on making the Super League play-offs for the first time in the club's history.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rangers failed to pursue Ferguson despite agreement - gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj07vkyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-05T08:25:11+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ferguson",
+        "Rangers",
+        "failed",
+        "pursue",
+        "despite",
+        "agreement"
+      ],
+      "summary": "Rangers failed to pursue their interest in Lewis Ferguson as Gordon Strachan lauds Celtic's transfer business.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Heyzoom looks to bounce back to winning ways at Ascot",
+      "title_cn": "",
+      "url": "https://www.skysports.com/racing/news/12040/13580934/today-on-sky-sports-racing-flat-action-from-ascot-and-newcastle",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-05T07:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Heyzoom",
+        "looks",
+        "bounce",
+        "back",
+        "winning"
+      ],
+      "summary": "We have a busy day&#8217;s racing on Saturday with flat action from Ascot and Newcastle, live on Sky Sports Racing...",
+      "summary_cn": ""
+    },
+    {
+      "title": "I've never spoken to Everton owner Friedkin - Moyes",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-05T08:40:13+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "never",
+        "spoken",
+        "owner",
+        "Friedkin",
+        "Moyes"
+      ],
+      "summary": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Has there been a changing of guard for London sides in the WSL?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7837gnn4ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-05T07:22:42+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "changing",
+        "guard",
+        "London",
+        "sides"
+      ],
+      "summary": "With the Women's Super League season starting up, are Arsenal in a better position than Chelsea to challenge for the title?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Premier League buildup, WSL opening weekend news, and more – matchday live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/05/news-buildup-premier-league-newcastle-v-bournemouth-kicks-off-matchday-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-05T08:37:12+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Premier",
+        "League",
+        "buildup",
+        "opening",
+        "weekend"
+      ],
+      "summary": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts Back to the WSL and here’s Tom Garry with a morning message. Sonia Bompastor says she expects a competitive, open title race this season, as she prepares to lead her Chelsea side into their home",
+      "summary_cn": ""
+    },
+    {
+      "title": "Betting column: SunSport picks for a big weekend of Premier League action",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40278249/sunsport-weekend-betting-picks-premier-league-week-3/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-05T07:28:34+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Betting",
+        "column",
+        "SunSport",
+        "picks",
+        "weekend"
+      ],
+      "summary": "THERE’S the Havertz and the Havertz nots and it turns out Viktor Gyokeres falls into the latter category. Arsenal’s showcase signing from last summer has now been reduced to the role of £64million benchwarmer, after being an unused sub in the Gunners’ opening two Premier League wins. Displaced by Ge",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal vs Chelsea: Get £50 in free bets with Betfred, plus 23/1 Bet Builder tips",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40256981/arsenal-chelsea-betfred-free-bets-builder-tips/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-05T07:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "free",
+        "bets",
+        "Betfred",
+        "plus"
+      ],
+      "summary": "ARSENAL and Chelsea collide at the Emirates on Sunday when putting their 100% winning starts on the line. To mark the game, our team of betting experts has put together a 23/1 Bet Builder, courtesy of Betfred. New customers who sign up with Betfred and place a £10 bet on football will receive £50 in",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘There’s no selling Chelsea’ – Katie McCabe reveals why she left Arsenal to join rivals after 11 years in north London",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40167518/katie-mccabe-reveals-why-she-left-arsenal-chelsea/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-05T07:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "selling",
+        "Katie",
+        "McCabe",
+        "reveals"
+      ],
+      "summary": "WHEN Chelsea came calling, Katie McCabe needed no persuading. After spending 11 years with Arsenal and winning every club trophy available, she decided at the end of last season that it was time to move on. Only that move saw her join the Gunners’ biggest rivals. The 30-year-old says it was an easy ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-05T07:00:29+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Uefa",
+        "legal",
+        "case",
+        "beginning",
+        "Infantino",
+        "Trump"
+      ],
+      "summary": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit “Tell Mike it was just business. I always liked him.” “He understands.” Continue reading...",
       "summary_cn": ""
     }
   ]
