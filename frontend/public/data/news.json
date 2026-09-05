@@ -1,433 +1,286 @@
 {
-  "updated_at": "2026-09-05T18:06:18.003647+00:00",
+  "updated_at": "2026-09-05T21:05:28.237262+00:00",
   "items": [
     {
-      "title": "Glasner claims VAR was ‘guessing’ after Forest are denied winner against Spurs",
+      "title": "Seven points from three games - are Hull on track to avoid relegation?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/05/nottingham-forest-tottenham-premier-league-match-report",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-05T17:59:25+00:00",
-      "score": 39.0,
+      "published": "2026-09-05T20:56:25+00:00",
+      "score": 31.0,
       "keywords": [
-        "Nottingham Forest",
-        "Tottenham",
-        "Spurs",
-        "Forest",
-        "Williams",
-        "Glasner"
+        "given",
+        "Seven",
+        "points",
+        "games",
+        "Hull",
+        "track"
       ],
-      "summary": "Oliver Glasner argued there was insufficient evidence to disallow Neco Williams’s goal against Tottenham, accusing the video assistant referee Peter Bankes of guessing that the Nottingham Forest defender handled and said ruling it out weakens the officials’ authority. Midway through the second half,",
+      "summary": "It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
       "summary_cn": ""
     },
     {
-      "title": "Fulham 2 Crystal Palace 3: Alvaro Arbeloa sinks to another dismal defeat as new Eagle Ben Chilwell bags late winner",
+      "title": "Liverpool may make January move for Sarr - Sunday's gossip",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40282976/arbeloa-suffers-defeat-chilwell-scores-late-winner/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-05T16:38:23+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Crystal",
-        "Palace",
-        "Alvaro"
-      ],
-      "summary": "BEN CHILWELL announced his return to English football with the goal that earned his new manager his first Premier League win. The former Chelsea left back had only been on for three minutes when he slammed home the winner as Palace mounted a dogged comeback fight in the battle of the rookie bosses. ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chilwell seals Crystal Palace comeback win after Mitchell double at Fulham",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/05/fulham-crystal-palace-premier-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-05T16:13:47+00:00",
+      "published": "2026-09-05T20:24:26+00:00",
       "score": 31.0,
       "keywords": [
         "Crystal Palace",
-        "Fulham",
-        "Mitchell",
-        "matic",
-        "Chilwell",
-        "seals"
+        "Liverpool",
+        "Tottenham",
+        "Richarlison",
+        "make",
+        "January"
       ],
-      "summary": "The managers may have changed but the result stays the same. For the fourth successive trip to this part of west London, Crystal Palace returned over the river with three points as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilwell, the former England left-back who",
+      "summary": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
       "summary_cn": ""
     },
     {
-      "title": "European football: Nwaneri forces late own goal to cap dramatic Dortmund comeback",
+      "title": "Man City flats to be built in Gulf hols hotspot with surprising starting price and rising to £6m",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40283364/man-city-fans-abu-dhabi-homes-private-beach/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-05T20:08:49+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Man United",
+        "Ferguson",
+        "City",
+        "flats"
+      ],
+      "summary": "MANCHESTER City fans after a big-money transfer can buy club-themed luxury homes in Abu Dhabi. The minted Prem giants, once branded “noisy neighbours” by former Man United boss Sir Alex Ferguson, are to open their first residential complex in their owners’ home country. Buyers can even join a footba",
+      "summary_cn": ""
+    },
+    {
+      "title": "Taylor faces Pili in final fight of career at packed Croke Park LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/live-blog/12040/13582083/taylor-vs-pili-live-updates-and-result-as-katie-taylor-faces-flora-pili-in-final-fight-of-career-at-croke-park",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-05T21:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Taylor",
+        "faces",
+        "Pili",
+        "final",
+        "fight",
+        "career"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hits and misses: Gakpo steals Barcola's thunder as Anderson passes like Rodri",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13581444/cody-gakpo-outshines-new-liverpool-signing-bradley-barcola-as-elliot-anderson-gives-his-best-rodri-impression-pl-hits-and-misses",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-05T20:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Anderson",
+        "Rodri",
+        "Hits",
+        "misses",
+        "Gakpo",
+        "steals"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "European football: Martínez seals thrilling comeback for unbeaten Inter",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/sep/05/european-football-ethan-nwaneri-dortmund-hoffenheim-athletic-bilbao-atletico-madrid-inter-napoli",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-05T16:45:01+00:00",
-      "score": 31.0,
+      "published": "2026-09-05T19:50:21+00:00",
+      "score": 26.0,
       "keywords": [
-        "Arsenal",
-        "matic",
+        "Martínez",
         "European",
         "football",
-        "Nwaneri",
-        "forces"
+        "seals",
+        "thrilling",
+        "comeback"
       ],
-      "summary": "Arsenal loanee inspires late goal in 3-2 win at Hoffenheim Athletic Bilbao thump Atlético Madrid 3-0 in La Liga Arsenal loanee Ethan Nwaneri caused a late own goal in Borussia Dortmund ’s favour, as his side came from two down to win 3-2 at Hoffenheim in a topsy-turvy Bundesliga clash. Hoffenheim we",
+      "summary": "Serie A champions rally to beat Napoli in added time Schalke 0-0 Bayern Munich; Hoffenheim 2-3 Dortmund Lautaro Martínez scored in the 91st minute as Inter rallied from two goals down ⁠to secure a stunning 3-2 home victory over Napoli , continuing their 100% start to their ⁠Serie A title defence. Na",
       "summary_cn": ""
     },
     {
-      "title": "Brentford 1 Sunderland 1: Bees hit by double blow as goal ruled out before Sunderland get controversial penalty leveller",
+      "title": "Championship clash explodes into chaos as TWO stars are sent off after huge brawl involving subs from bench",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40281992/brentford-sunderland-le-fee/",
+      "url": "https://www.thesun.co.uk/sport/40284180/championship-millwall-cardiff-brawl-jenson-metcalfe-josh-sheehan/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-05T16:21:25+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brentford",
-        "Fulham",
-        "WILSON",
-        "Sunderland",
-        "Bees",
-        "double"
-      ],
-      "summary": "WILSON ISIDOR might not like it, but he has turned into quite the super-sub. Last weekend he rose from the bench and bagged the winner against Fulham at the Stadium of Light. This time he won the penalty that was confidently converted by Enzo Le Fee as Sunderland scraped a point at Brentford. And it",
-      "summary_cn": ""
-    },
-    {
-      "title": "Bradley Barcola sets stunning new Premier League season record on Liverpool debut just days after £123million transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40282169/bradley-barcola-premier-league-liverpool-psg-cody-gakpo/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-05T16:12:34+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Ipswich",
-        "Liverpool",
-        "speed",
-        "Bradley",
-        "Barcola",
-        "sets"
-      ],
-      "summary": "BRADLEY BARCOLA has wasted no time making his mark at Liverpool after setting a stunning new Premier League record just 31 minutes into his debut. The £123million summer signing clocked a top speed of 35.9km/h during the Reds' 2-0 victory over Ipswich. That made the French winger the fastest player ",
-      "summary_cn": ""
-    },
-    {
-      "title": "'You guys can go now' | Lawrence frustrated after failed attempt from water",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13581942/thriston-lawrence-fails-with-attempt-from-water-at-omega-masters",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T17:23:00+00:00",
+      "published": "2026-09-05T20:24:44+00:00",
       "score": 26.0,
       "keywords": [
-        "hazard",
-        "guys",
-        "Lawrence",
-        "frustrated",
-        "failed",
-        "attempt"
+        "Taylor",
+        "Championship",
+        "clash",
+        "explodes",
+        "chaos",
+        "stars"
       ],
-      "summary": "South Africa's Thriston Lawrence looks frustrated as he fails to play his ball out of a water hazard at the Omega Masters.",
+      "summary": "MILLWALL and Bolton players got involved in a heated brawl after two red cards in an intense Championship match. The Lions picked up a decisive 4-0 victory thanks to goals by Caleb Taylor and Camiel Neghli as well as a brace by Lyndon Dykes at The Den. However, the game also made headlines after tem",
       "summary_cn": ""
     },
     {
-      "title": "Georgina Rodriguez goes braless in daring outfit on red carpet at Venice Film Festival",
+      "title": "Villa take first point but rue missed chances in Hull stalemate",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40283367/georgina-rodriguez-goes-braless-in-daring-outifit/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-05T17:41:32+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ronaldo",
-        "Rodri",
-        "Cristiano Ronaldo",
-        "matic",
-        "Rodriguez",
-        "Georgina"
-      ],
-      "summary": "GEORGINA RODRIGUEZ stole the show as she stepped out in a revealing outfit at the Venice Film Festival. Cristiano Ronaldo’s long-term partner turned heads on the red carpet in a plunging black ensemble. Georgina went braless beneath the sharply-tailored look, which featured a dramatic neckline and l",
-      "summary_cn": ""
-    },
-    {
-      "title": "Le Fee penalty rescues draw for Sunderland at Brentford",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/brentford-vs-sunderland/report/559465",
+      "url": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-05T17:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "penalty",
-        "rescues",
-        "draw",
-        "Sunderland"
-      ],
-      "summary": "Enzo Le Fee rescued a point for Sunderland after dispatching his late penalty to secure a 1-1 draw at Brentford.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Leeds made to pay for missed chances as Brighton fight back to draw",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-leeds-united/report/559466",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T17:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Leeds",
-        "made",
-        "missed",
-        "chances",
-        "fight"
-      ],
-      "summary": "Leeds were made to pay for countless missed chances as Brighton fought back to claim 1-1 draw - and continue the Whites' struggles down at the south coast.",
-      "summary_cn": ""
-    },
-    {
-      "title": "West Ham cruise past Derby",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-derby-county/report/560557",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T17:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "West",
-        "cruise",
-        "past",
-        "Derby"
-      ],
-      "summary": "Two late goals underscored West Ham's second home victory in the space of five days and a 3-0 win over Derby that was less decisive than the scoreline suggests.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-05T17:56:55+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Football",
-        "Manager",
-        "Zerbi",
-        "misfiring"
-      ],
-      "summary": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-      "summary_cn": ""
-    },
-    {
-      "title": "We played 'ugly side of the game' - Andrews proud of Brentford display",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckg7dqkgyplo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-05T17:59:27+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "played",
-        "ugly",
-        "side",
-        "game",
-        "Andrews"
-      ],
-      "summary": "Brentford manager Keith Andrews reacts to Brentford's 1-1 draw at home to Sunderland at the Gtech Community Stadium.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'One of our best first halves' - Le Bris pleased despite Brentford draw",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckgxzygyd3ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-05T18:04:16+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "best",
-        "first",
-        "halves",
-        "Bris",
-        "pleased"
-      ],
-      "summary": "Sunderland manager Regis Le Bris claims his side played \"one of their best halves\" in the Premier League, but rued the opportunity to take all three points following their 1-1 draw at Brentford.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Hull City v Aston Villa: Premier League – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-05T18:02:08+00:00",
+      "published": "2026-09-05T19:30:00+00:00",
       "score": 25.0,
       "keywords": [
         "Aston Villa",
-        "Hull",
-        "City",
-        "Aston",
         "Villa",
-        "Premier"
+        "take",
+        "first",
+        "point",
+        "missed"
       ],
-      "summary": "Updates from 5.30pm BST kick-off at MKM Stadium Live scoreboard | Clockwatch | Mail Billy 4 min: Hull settle into some possession. The place is bouncing. 2 min: Jackson heads wide! Early chance for Villa as Maatsen crosses from the left, Jackson rises between the Hull centre-backs and heads it back ",
+      "summary": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
       "summary_cn": ""
     },
     {
-      "title": "Enzo Le Fée penalty redemption rescues point for Sunderland at Brentford",
+      "title": "Chilwell scores on Palace return in victory at Fulham",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/05/brentford-sunderland-premier-league-match-report",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cg59dgn7jm9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-05T16:14:24+00:00",
+      "published": "2026-09-05T19:22:17+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Fulham",
+        "Chilwell",
+        "scores",
+        "Palace",
+        "return"
+      ],
+      "summary": "Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Le Fee penalty saves point for Sunderland at Brentford",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4g70vn2r9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-05T19:31:31+00:00",
       "score": 25.0,
       "keywords": [
         "Brentford",
-        "Enzo",
         "penalty",
-        "redemption",
-        "rescues",
-        "point"
+        "saves",
+        "point",
+        "Sunderland"
       ],
-      "summary": "True redemption, perhaps, would have been to score with a Panenka, but Enzo Le Fée didn’t quite have the chutzpah for that. His duffed dink at Brentford in January was the low point of one of Sunderland’s two worst performances of the season, but he converted from the spot with eight minutes remaini",
+      "summary": "Enzo le Fee scored a late penalty to rescue a point for Sunderland in a hard-fought draw with Brentford.",
       "summary_cn": ""
     },
     {
-      "title": "Championship roundup: Bristol City add to Burnley’s woes, West Ham beat Derby",
+      "title": "Aston Villa still winless after stalemate at Hull",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/05/championship-roundup-southampton-lincoln-burnley-west-ham-wrexham",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w48xp5g14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-05T17:01:04+00:00",
+      "published": "2026-09-05T19:17:00+00:00",
       "score": 25.0,
       "keywords": [
-        "West Ham",
-        "Championship",
-        "roundup",
-        "Bristol",
-        "City",
-        "Burnley"
+        "Aston Villa",
+        "Aston",
+        "Villa",
+        "still",
+        "winless",
+        "stalemate"
       ],
-      "summary": "Burnley 1-2 Bristol City, West Ham 3-0 Derby Middlesbrough defeat QPR, Norwich and West Brom win Nicky Hayen has told his under-fire Burnley players they need to dig deep to come through “a really difficult situation” after a 2-1 defeat at home by Bristol City left them rock bottom of the Championsh",
+      "summary": "Aston Villa remain winless three games into the new Premier League season after they were held to a goalless draw by newly promoted Hull City.",
       "summary_cn": ""
     },
     {
-      "title": "Portsmouth see off Cardiff",
+      "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/portsmouth-vs-cardiff-city/report/560550",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T17:15:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Portsmouth",
-        "Cardiff"
-      ],
-      "summary": "Goals from defender Conor Shaughnessy and Marezi earned Portsmouth their first home win of the season as they beat Cardiff 2-0 on an emotional afternoon at Fratton Park.",
-      "summary_cn": ""
-    },
-    {
-      "title": "West Brom edge past Watford",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/west-bromwich-albion-vs-watford/report/560556",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T17:15:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "West",
-        "Brom",
-        "edge",
-        "past",
-        "Watford"
-      ],
-      "summary": "Jimmy-Jay Morgan's fifth goal of the season extended West Brom's bright start with a 1-0 home win over Watford in the Championship.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Millwall thump four past Bolton",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/millwall-vs-bolton-wanderers/report/560549",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T17:15:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Millwall",
-        "thump",
-        "four",
-        "past",
-        "Bolton"
-      ],
-      "summary": "Lyndon Dykes scored his first two goals for injury-hit Millwall as they returned to winning ways in the Sky Bet Championship in some style with a 4-0 victory over Bolton at The Den.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Pompey boss apologises to Cardiff players over fan incident",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-05T17:33:25+00:00",
-      "score": 20.0,
+      "published": "2026-09-05T19:08:30+00:00",
+      "score": 25.0,
       "keywords": [
-        "Pompey",
-        "boss",
-        "apologises",
-        "Cardiff",
+        "Arsenal",
         "players",
-        "incident"
+        "shortlist",
+        "capitalise",
+        "title"
       ],
-      "summary": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
+      "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
       "summary_cn": ""
     },
     {
-      "title": "Rangers captain Shankland suffers 'significant' injury",
+      "title": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxzyyvk24po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-05T17:05:02+00:00",
-      "score": 20.0,
+      "published": "2026-09-05T20:23:01+00:00",
+      "score": 25.0,
       "keywords": [
-        "Rangers",
-        "captain",
-        "Shankland",
-        "suffers",
-        "significant",
-        "injury"
+        "Leicester",
+        "Foxes",
+        "pain",
+        "Burnley",
+        "suffer",
+        "hangover"
       ],
-      "summary": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
+      "summary": "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
       "summary_cn": ""
     },
     {
-      "title": "Scottish Premiership: Naderi strikes for Rangers win after fresh Shankland injury blow",
+      "title": "'That's a sackable performance' - what next for Martin at Leicester?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyqvjjq923o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-05T17:59:53+00:00",
-      "score": 20.0,
+      "published": "2026-09-05T19:17:29+00:00",
+      "score": 25.0,
       "keywords": [
-        "Scottish",
-        "Premiership",
-        "Naderi",
-        "strikes",
-        "Rangers",
-        "fresh"
+        "Leicester",
+        "sackable",
+        "performance",
+        "next",
+        "Martin"
       ],
-      "summary": "Dundee United score late in 1-1 draw with Falkirk Kilmarnock secure first point after Aberdeen stalemate Rangers striker Ryan Naderi accepted a gift to score the only goal against Motherwell at Ibrox, but they fear their captain Lawrence Shankland faces a lengthy spell on the sidelines after a hamst",
+      "summary": "Tipped for a turnaround in fortunes, the Foxes and their boss continue to falter in the third tier.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Where Arsenal vs Chelsea will be won as we predict winner of early Premier League title decider",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40275548/arsenal-chelsea-alonso-arteta-caicedo-saka-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-05T19:35:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "predict",
+        "winner",
+        "early",
+        "Premier"
+      ],
+      "summary": "ARSENAL and Chelsea are set for the first big derby of the Premier League season that will pose as a major challenge for the titleholders' ability to retain the crown for the first time ever. The Gunners finally ended their long journey back to the top of the Prem last term after 22 arduous years...",
       "summary_cn": ""
     }
   ]
