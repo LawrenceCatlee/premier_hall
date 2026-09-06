@@ -1,6 +1,485 @@
 {
   "items": [
     {
+      "title": "90+5! Maitland-Niles stuns Man Utd as Everton salvage dramatic draw",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/everton-vs-manchester-united/report/559467",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T16:15:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Manchester United",
+        "Man Utd",
+        "matic",
+        "Maitland",
+        "Niles"
+      ],
+      "summary": "Manchester United were held to a pulsating 2-2 draw with Everton at the Hill Dickinson after leading twice but conceding to an outrageous 95th-minute leveller from Ainsley Maitland-Niles on his Toffees debut.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Carrick 'disappointed' that Man Utd could not see game out",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5ye5178e62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T16:02:19+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Manchester United",
+        "Man Utd",
+        "Carrick",
+        "Michael Carrick",
+        "disappointed"
+      ],
+      "summary": "Manchester United boss Michael Carrick says his side made decisions that made the game more difficult as Everton rescued a point with a stoppage-time equaliser at Hill Dickinson Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "‘Don’t disrespect him’ – Gary Neville berates Jamie Carragher for comparing Arsenal star to Roberto Firmino",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40289717/gary-neville-slams-jamie-carragher-roberto-firmino-kai-havertz/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T16:29:40+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Carragher",
+        "Roberto Firmino",
+        "Gary Neville",
+        "Neville"
+      ],
+      "summary": "KAI HAVERTZ was at the centre of a heated row on Sky Sports - before going on to bag a stunning goal in Arsenal's clash with Chelsea. The striker, 27, played a key role in the Gunners clinching the Premier League title last season. And Havertz cancelled out former Arsenal transfer target Morgan Roge",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Gary Neville stunned by Xabi Alonso’s tactic to nullify Arsenal’s corner threat during clash with Chelsea",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40290127/gary-neville-stunned-xabi-alonso-tactic-nullifies-arsenal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T16:24:19+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "march",
+        "Gary Neville",
+        "Arteta",
+        "Mikel"
+      ],
+      "summary": "CHELSEA boss Xabi Alonso might have found the blueprint for cancelling out Arsenal’s corner threat. Mikel Arteta’s set-piece prowess was a feature of their march to the title last term. This season the Gunners have to deal with new laws, designed to cut out illegal blocking. And Chelsea chief Alonso",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "World’s highest-paid managers revealed with Arsenal and Chelsea splashing cash on Mikel Arteta and Xabi Alonso",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40289183/worlds-highest-paid-managers-arsenal-chelsea-arteta-alonso/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T15:27:40+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Arteta",
+        "Mikel",
+        "Mikel Arteta",
+        "World"
+      ],
+      "summary": "THE world's highest-paid managers have been revealed with the Premier League boasting four of the top ten. Taking charge of a football team is seemingly one of the most thankless tasks in the sport. Managers are often the first to be blamed for poor form and can lose their jobs at the drop of a...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Man Utd player ratings: Kobbie Mainoo and Marcus Rashford work in perfect harmony but Matheus Cunha cuts solitary figure",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40288251/mainoo-rashford-man-utd-ratings-perfect-harmony/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T15:02:22+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Everton",
+        "Manchester United",
+        "Man Utd",
+        "Marcus Rashford",
+        "Rashford"
+      ],
+      "summary": "MANCHESTER UNITED were stunned by Everton on the road thanks to a stunner of a strike from Ainsley Maitland-Niles Super sub Benjamin Sesko thought he had given his side all three points before the ex-Arsenal star's 25-yard stunner. The Red Devils defence had survived a pummelling for most of the mat",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Everton 2 Man Utd 2: Ainsley Maitland-Niles stuns Red Devils with last-gasp screamer in first goal in over SEVEN YEARS",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40289221/everton-man-utd-ainsley-maitland-niles-late-equaliser/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T15:00:11+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Everton",
+        "Manchester United",
+        "Man Utd",
+        "matic",
+        "Ainsley"
+      ],
+      "summary": "AINSLEY MAITLAND-NILES stunned Manchester United with his first goal in SEVEN YEARS to become an instant Everton hero. The former Arsenal star, signed for £3million from Lyon on deadline day, rifled in from 25 yards with almost the last kick of the game to earn his new side a dramatic point. It ende",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Fowler at the double as St Johnstone beat Hibs",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/st-johnstone-vs-hibernian/report/558367",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T16:50:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Fowler",
+        "double",
+        "Johnstone",
+        "beat",
+        "Hibs"
+      ],
+      "summary": "Josh Fowler's first-half double secured St Johnstone a 2-1 win over Hibernian and moved them above their opponents in the table.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Itoje back in England squad but Lawes and Marchant made to wait",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13582424/england-rugby-squad-captain-maro-itoje-returns-but-courtney-lawes-and-joe-marchant-made-to-wait-after-prem-returns",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T16:50:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "March",
+        "Itoje",
+        "back",
+        "England",
+        "squad",
+        "Lawes"
+      ],
+      "summary": "Maro Itoje has been named in England's first squad since the summer tour but Courtney Lawes and Joe Marchant must prove themselves for Sale before being recalled.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/06/jamie-vardy-signs-for-burnley-championship-football",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-06T15:16:08+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Jamie Vardy",
+        "Vardy",
+        "Jamie",
+        "takes",
+        "party",
+        "Burnley"
+      ],
+      "summary": "Vardy a free agent after departing Cremonese Plans to play on despite burgeoning media career Jamie Vardy has returned to English football after signing for Burnley in the Championship as a free agent. Vardy, who will be 40 in January, has signed a contract until the end of the season, having spent ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Cavan Sullivan channels LeBron James celebration after scoring: MLS roundup",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/06/cavan-sullivan-lebron-james-celebration-mls",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-06T16:38:03+00:00",
+      "score": 26.0,
+      "keywords": [
+        "James",
+        "Sullivan",
+        "young",
+        "Cavan",
+        "channels",
+        "LeBron"
+      ],
+      "summary": "16-year-old welcomes LeBron to 76ers Vincent Janssen scores Timbers’ first MLS hat-trick Embolo scores, Messi assists in charged match Philadelphia Union midfielder Cavan Sullivan became the youngest player in MLS history ⁠to record a five-match goal contribution streak on Saturday. At 16 years and ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Middlesbrough left fuming as trip to Burnley turns their white kits GREEN in chemical blunder",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40289715/middlesbrough-burnley-championship-kit-colour/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T16:10:08+00:00",
+      "score": 26.0,
+      "keywords": [
+        "GREEN",
+        "Middlesbrough",
+        "left",
+        "fuming",
+        "trip",
+        "Burnley"
+      ],
+      "summary": "MIDDLESBROUGH were left fuming after a chemical blunder at Burnley ruined their away kit. Boro visited Turf Moor on Wednesday and had to wear their white away kit for the Championship clash. The club's kitmen would have been prepared for the odd grass stain but were not ready for what happened to th",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Late SCENES! Maitland-Niles' incredible last-gasp goal nicks point for Everton",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13582401/everton-2-2-man-united-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T16:19:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Manchester United",
+        "Late",
+        "SCENES",
+        "Maitland",
+        "Niles"
+      ],
+      "summary": "FREE TO WATCH: Highlights from Everton&#8217;s match against Manchester United in the Premier League.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "'Utter precision' as Havertz levels for Gunners",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13582433/goal-k-havertz-25-arsenal-1-1-chelsea",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T17:02:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Utter",
+        "precision",
+        "Havertz",
+        "levels"
+      ],
+      "summary": "Kai Havertz finds a gap at the near post and levels for Arsenal vs Chelsea.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "'Instinct and precision!' | Rogers fires Chelsea ahead inside 2 mins",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13582414/goal-m-rogers-2-arsenal-0-1-chelsea",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T16:39:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Instinct",
+        "precision",
+        "Rogers",
+        "fires"
+      ],
+      "summary": "Morgan Rogers gives Chelsea an early lead inside 2 mins vs Arsenal.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Which sub had biggest impact? Everton v Man Utd player ratings",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T15:11:29+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Manchester United",
+        "Man Utd",
+        "biggest",
+        "impact",
+        "player"
+      ],
+      "summary": "How Everton and Manchester United's players rated at Hill Dickinson Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Baum scores on debut as Arsenal edge Brighton",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czxz0j29eg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T16:42:05+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "Baum",
+        "scores",
+        "debut",
+        "edge"
+      ],
+      "summary": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Tottenham ease to WSL opening-game win over West Ham",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqxven59511o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T16:40:01+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "West Ham",
+        "ease",
+        "opening",
+        "game",
+        "West"
+      ],
+      "summary": "Kirsty Hanson scores twice on her debut as Tottenham ease to a Women's Super League opening-game win over West Ham.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Arsenal v Chelsea: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-06T16:39:14+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Premier",
+        "League",
+        "live"
+      ],
+      "summary": "Minute-by-minute updates from the action at the Emirates Stadium Arsenal bank on continuity after window closes And now a third goal… There’s been a second goal at Hill Dickinson Stadium. Clickity click click click! Continue reading...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Maitland-Niles stunner rescues late point for Everton against Manchester United",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/06/everton-manchester-united-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-06T15:22:16+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Manchester United",
+        "Maitland",
+        "Niles",
+        "stunner",
+        "rescues"
+      ],
+      "summary": "It would be putting it mildly to say Everton’s exhaustive search for a new right-back met an underwhelming response when it concluded with the signing of Ainsley Maitland-Niles on Monday. But there was an overwhelmingly positive reaction to the £4.3m recruit’s Everton debut as his stunning 25-yard s",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Chelsea star Emi Martinez KICKED in face by Gabriel Magalhaes after goalmouth scramble as Arsenal ace avoids punishment",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40289804/chelsea-emi-martinez-kicked-in-face-by-gabriel-magalhaes1/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T15:48:07+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "star",
+        "Martinez",
+        "KICKED",
+        "face"
+      ],
+      "summary": "CHELSEA goalkeeper Emiliano&nbsp;Martinez was left clutching his face after being caught by Gabriel Magalhaes’ boot during a frantic goalmouth scramble against Arsenal. The nasty-looking clash came just minutes into Sunday’s blockbuster Premier League showdown at the Emirates. Arsenal piled bodies f",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Morgan Rogers in cheeky gesture to Arsenal fans as former transfer target takes just seconds to score for Chelsea",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40289738/morgan-rogers-chelsea-arsenal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T15:39:58+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Morgan",
+        "Rogers",
+        "cheeky"
+      ],
+      "summary": "MORGAN ROGERS scored for Chelsea and stuck his TONGUE out at Arsenal fans after snubbing the Gunners in the transfer window. The cheeky gesture will have stung Gooners after they watched Emirates chiefs fail to land the former Aston Villa star in the summer. Arsenal were hot on the England man's hee",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Michael Oliver lands elite Champions League game after chaotic World Cup including unfortunate injury and clattering ace",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40289515/michael-oliver-champions-league-real-madrid-juventus-world-cup/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T15:49:56+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Michael",
+        "Oliver",
+        "lands",
+        "elite",
+        "Champions",
+        "League"
+      ],
+      "summary": "MICHAEL OLIVER is set to referee Real Madrid's Champions League tie against Inter Milan. The 41-year-old referee will be in the middle at the Bernabeu for Tuesday's group stage game after a chaotic World Cup. It has been reported that Oliver will referee Los Blancos in Europe for the sixth time in h",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
+      "title": "Match suspended as player collapses and is carried off on stretcher before being rushed to hospital in worrying scenes",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40289353/match-suspended-as-pisa-rosen-bozhinov-stretchered-off/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T15:04:50+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Match",
+        "suspended",
+        "player",
+        "collapses",
+        "carried",
+        "stretcher"
+      ],
+      "summary": "PISA star Rosen Bozhinov was rushed to hospital after collapsing on the pitch during a Serie B clash with Juve Stabia. The worrying incident happened around the 40th minute of Sunday’s away game at the Stadio Romeo Menti in Castellammare di Stabia. Bozhinov, 21, suddenly went down while play was sto",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T16:51:30.660816+00:00"
+    },
+    {
       "title": "Fifa president Infantino will stand for re-election",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
@@ -39190,483 +39669,6 @@
       "summary": "Max Rushden is joined by Will Unwin, Sanny Rudravajhala and Ben Fisher as Arsenal coast past Manchester City to win the Community Shield. Continue reading...",
       "summary_cn": "",
       "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "Sergio Busquets, 38, gets first job in coaching as he becomes assistant to Chelsea title winner",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40083021/sergio-busquets-coaching-job-chelsea-assistant/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T12:59:28+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Sergio",
-        "Busquets",
-        "gets",
-        "first",
-        "coaching"
-      ],
-      "summary": "BARCELONA legend Sergio Busquets has taken up his first role in coaching. The iconic Spanish midfielder, 38, retired from professional football last December after a two-year stint at Inter Miami. But now he is beginning the next chapter of his footballing story as he looks to move into coaching. It",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "New Scotland head coach Pocognoli vows to make fans 'smile'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13573947/sebastien-pocognoli-scotlands-new-head-coach-vows-to-make-tartan-army-smile-by-bringing-more-success",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T12:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Scotland",
-        "head",
-        "coach",
-        "Pocognoli",
-        "vows",
-        "make"
-      ],
-      "summary": "\"I will be one of yours, and I will do my best to make the supporters smile.\"",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "Send us your Scotland World Cup memories of Boston",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04k6nqgxdpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T13:33:23+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Send",
-        "Scotland",
-        "World",
-        "memories",
-        "Boston"
-      ],
-      "summary": "BBC Scotland is looking for Scotland supporters to send us their videos, audio and memories of that magical week or so in Boston at the World Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-17T11:42:09+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Tottenham",
-        "Spurs",
-        "Martínez",
-        "Emiliano Martínez",
-        "goalkeeper"
-      ],
-      "summary": "Vicario has lost No 1 slot at Spurs to Antonin Kinsky Move could become permanent for £8.6m next year Juventus have agreed a deal with Tottenham for Guglielmo Vicario to join on an initial loan after the Italian side decided against a move for Aston Villa’s Emiliano Martínez. Vicario is set to leave",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Chelsea star Cole Palmer chooses favourite meme of HIMSELF and reveals hilarious advice he gave to fan before proposing",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40083434/chelsea-cole-palmer-favourite-meme-hilarious-advice-girlfriend/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T12:55:25+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Palmer",
-        "star",
-        "Cole",
-        "chooses",
-        "favourite"
-      ],
-      "summary": "COLE PALMER is no stranger to becoming a meme. But often there is a shroud of mystery surrounding the Chelsea number 10, which is perhaps, in a way, what makes him so loveable. It's also part of the reason that when he takes part in a rare sit-down interview, that Chelsea fans grab the popcorn...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Alan Shearer gives two-word response as daughter Hollie posts video of England legend letting loose at wedding",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40083029/alan-shearer-daughter-hollie-wedding/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T12:47:43+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Shearer",
-        "March",
-        "Alan Shearer",
-        "Alan",
-        "gives",
-        "word"
-      ],
-      "summary": "HOLLIE SHEARER has shared a brilliant video from her wedding earlier this month. And the amazing clip features her legendary dad Alan, 55, beaming as he clapped along to the music. Hollie, 31, married England rugby star Joe Marchant. In the clip, the happy couple can be seen running together hand-in",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Jose Mourinho left with black eye after Real Madrid training ground incident",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40082669/jose-mourinho-real-madrid-black-eye-training/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T12:22:11+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Antonio",
-        "Jose",
-        "Mourinho",
-        "left",
-        "black",
-        "Real"
-      ],
-      "summary": "JOSE MOURINHO has explained how he came away with a black eye from a Real Madrid training session. It's no secret the Los Blancos training ground was not the friendliest place last season. Antonio Rudiger found himself in hot water after a training ground incident with Alvaro Carreras and then Aurel",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Maresca's Man City problems are more than a missing midfield",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T12:50:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Man City",
-        "Maresca",
-        "City",
-        "problems"
-      ],
-      "summary": "Enzo Maresca spoke of his desire to \"close the gap\" between Manchester City and Arsenal before watching his side suffer a painful 3-0 defeat in the Community Shield on Sunday. Perhaps the gaping holes through the spine of his team should be more of an immediate area of focus.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "‘Hard to say it’ – France legend fears Paul Pogba’s career is over with Monaco set to tear up ex-Man Utd star’s contract",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40082451/france-paul-pogba-monaco-emmanuel-petit-man-utd/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T12:22:15+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Hard",
-        "France",
-        "legend",
-        "fears"
-      ],
-      "summary": "EMMANUEL PETIT fears \"broken\" Paul Pogba will retire once his Monaco contract has been ripped up. The Ligue 1 side are set to terminate Pogba's deal a year early after he managed just 115 minutes of football last season. The former Manchester United star, 33, has been ravaged by injuries and off-the",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Barcelona ‘want Viktor Gyokeres transfer from Arsenal with champs to bid for flop striker as Julian Alvarez alternative’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40082287/barcelona-viktor-gyokeres-julian-alvarez-arsenal-atletico-madrid/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T12:05:52+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Barcelona",
-        "want",
-        "Viktor",
-        "Gyokeres",
-        "transfer"
-      ],
-      "summary": "BARCELONA are targeting Arsenal ace Viktor Gyokeres as an alternative to Atletico Madrid star Julian Alvarez, according to reports. Barca have been prioritising Alvarez, 26, throughout the summer transfer window and the striker is reportedly keen to move to the Nou Camp. However, Atletico are not wi",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Luis Enrique abruptly walks out of interview following question about Liverpool targets after dropping BOTH from squad",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40082131/transfer-news-liverpool-barcola-mbaye-luis-enrique/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:51:04+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Luis",
-        "Enrique",
-        "abruptly",
-        "walks",
-        "interview"
-      ],
-      "summary": "LUIS ENRIQUE stormed out of an interview after being quizzed about the futures of two PSG stars. Bradley Barcola and Ibrahim Mbaye are both on the radar of Premier League big boys Liverpool. Speculation over their respective futures at the Parc des Princes ramped up last weekend when they were left ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Christos Tzolis looks like £34m bargain for Arsenal as man who brought him to England reveals why he flopped at Norwich",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40082008/christos-tzolis-looks-like-34m-bargain-for-arsenal-ch/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:41:03+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Christos",
-        "Tzolis",
-        "looks",
-        "like"
-      ],
-      "summary": "CHRISTOS TZOLIS is looking like a £34million bargain for Arsenal. The Greek international, a summer arrival from Club Brugge, continued his promising pre-season form with two assists in Sunday’s 3-0 win over Manchester City in the Community Shield. Tzolis, 24, will be hoping to start Friday’s Premie",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Premier League club launch £900 Michelin-recommended hospitality experience for fans at their stadium",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081970/fulham-craven-cottage-hospitality-michelin-star/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:37:46+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "Premier",
-        "League",
-        "club",
-        "launch"
-      ],
-      "summary": "FULHAM are set to launch a £900 Michelin-recognised hospitality package at Craven Cottage this season. The swanky experience is expected to debut at their Premier League season opener against Chelsea next Monday. Alvaro Arbeloa's side have welcomed hospitality company Constance into Craven Cottage. ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Hussain: Quality of Hundred players a lot better than Blast",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13573973/the-hundred-nasser-hussain-praises-quality-of-2026-tournament-but-criticises-packed-schedule-ahead-of-pakistan-test-series",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T10:59:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Hussain",
-        "Quality",
-        "Hundred",
-        "players",
-        "better",
-        "Blast"
-      ],
-      "summary": "Nasser Hussain has praised the quality of both domestic and international players in the Hundred, highlighting its strength compared with the Vitality Blast.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Scottish FA withdraws support for Fifa president Infantino",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T12:43:23+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Scottish",
-        "withdraws",
-        "support",
-        "Fifa",
-        "president",
-        "Infantino"
-      ],
-      "summary": "The Scottish Football Association has lost confidence in Gianni Infantino and will not be voting for his re-election as president of Fifa, chief executive Ian Maxwell has told BBC Sport.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Bet £5 on football and Get £5 free bet every month of the season with Sky Bet",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081687/bet-football-get-free-bet-every-month-sky-bet/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T12:52:31+00:00",
-      "score": 20.0,
-      "keywords": [
-        "football",
-        "free",
-        "every",
-        "month",
-        "season"
-      ],
-      "summary": "SKY BET have a beauty of an offer if you're looking for free bets throughout this new season.... New customers who sign-up and stake £5 on football before September 30th will receive a £5 free bet every month of the new season until May 1st! Bet £5, Get a £5 free bet every month! Sky...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T12:58:02.443951+00:00"
-    },
-    {
-      "title": "Former Arsenal star Jen Beattie hails team-mates for incredible support during brave battle with breast cancer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081318/jen-beattie-arsenal-breast-cancer-millie-bright/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T10:59:10+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Beattie",
-        "Former",
-        "star",
-        "hails",
-        "team"
-      ],
-      "summary": "FORMER Arsenal star Jen Beattie MBE praised her team-mates for their incredible support during her breast cancer journey – and claimed her experience led to lasting change among the players. The Scottish defender was left in “complete shock” when she was diagnosed in October 2020, aged 29, while the",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T11:32:57.009994+00:00"
-    },
-    {
-      "title": "Paris Saint-Germain ticket and hotel deals for Ligue 1 games in new season from just £319pp at Parc des Princes",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39584577/psg-ticket-hotel-packages-ligue-1-parc-des-princes/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:04:51+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Paris",
-        "Saint",
-        "Germain",
-        "ticket",
-        "hotel",
-        "deals"
-      ],
-      "summary": "FOOTBALL fans can look forward to the ultimate city break in Paris with a trip to the French capital to see Champions League winners PSG. Official ticket and hotel packages to watch the European champions Paris Saint-Germain have gone on sale. See PSG live Supporters have a golden opportunity to exp",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T11:32:57.009994+00:00"
-    },
-    {
-      "title": "Dean to captain England against Ireland in ODI series",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13573983/charlie-dean-to-captain-england-women-against-ireland-in-three-match-odi-series",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T11:35:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "Dean",
-        "captain",
-        "England",
-        "against",
-        "series"
-      ],
-      "summary": "Charlie Dean will captain England Women against Ireland Women in September for the three-match ODI series.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T11:32:57.009994+00:00"
-    },
-    {
-      "title": "Why captain Tierney stayed as relegated Leicester look to rebuild",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl6wqg6d3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T10:44:26+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Leicester",
-        "captain",
-        "Tierney",
-        "stayed",
-        "relegated",
-        "look"
-      ],
-      "summary": "When Leicester City were relegated from the Women's Super League in May, it was the catalyst for a mass exodus from the club. But Sam Tierney stayed.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T11:32:57.009994+00:00"
-    },
-    {
-      "title": "Martin Ødegaard happy with Arsenal’s new duo and says team hungry for title defence",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/martin-odegaard-arsenal-new-signings-premier-league-title-defence",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-17T11:00:52+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Martin",
-        "happy",
-        "team",
-        "hungry"
-      ],
-      "summary": "Captain’s praise for new signings Guimarães and Tzolis Arsenal kick off new season against Coventry on Friday Martin Ødegaard has praised the instant impact made by new signings Bruno Guimarães and Christos Tzolis in Arsenal’s Community Shield victory over Manchester City on Sunday and believes the ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T11:32:57.009994+00:00"
-    },
-    {
-      "title": "Premier League 2026-27 preview No 12: Ipswich",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/premier-league-2026-27-preview-no-12-ipswich",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-17T11:00:53+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Ipswich",
-        "Manchester City",
-        "Premier",
-        "League",
-        "preview"
-      ],
-      "summary": "They have a new manager and a higher net spend than Manchester City, but will that be enough for Ipswich to avoid another yo-yoing relegation? Guardian writers’ predicted position: 19th (NB: this is not necessarily Will Unwin’s prediction but the average of our writers’ tips) Last season’s position:",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T11:32:57.009994+00:00"
-    },
-    {
-      "title": "Forgotten Liverpool star dubbed ‘next Sergio Busquets’ offered escape route after last playing for club 834 days ago",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081586/stefan-bajcetic-liverpool-getafe-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:15:38+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Forgotten",
-        "star",
-        "dubbed",
-        "next",
-        "Sergio"
-      ],
-      "summary": "FORGOTTEN Liverpool star Stefan Bajcetic could be set for a return to Spain after an injury-plagued few years. The midfielder burst onto the scene in late 2022 making his debut as an 18-year-old and going on to play 19 times that season. But a long-term hamstring issue has forced him down the peckin",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T11:32:57.009994+00:00"
-    },
-    {
-      "title": "‘Big struggle’ – Martin Odegaard opens up over horror injury nightmare after inspiring Arsenal to Man City thrashing",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40081306/odegaard-horror-injury-nightmare-arsenal-thrash-man-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T11:14:34+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Man City",
-        "struggle",
-        "Martin",
-        "Odegaard",
-        "opens"
-      ],
-      "summary": "MARTIN ODEGAARD believes he is back to his best after a “big struggle” with injuries last season. The Arsenal captain led his side to the Premier League title, but knee and shoulder problems restricted him to just 23 starts. The Norwegian, 27, recovered to shine at the World Cup this summer and he c",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T11:32:57.009994+00:00"
     }
   ]
 }
