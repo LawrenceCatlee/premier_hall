@@ -1,6 +1,500 @@
 {
   "items": [
     {
+      "title": "Man Utd cannot ignore more dropped points despite positives",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T17:18:32+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Manchester United",
+        "Man Utd",
+        "Carrick",
+        "Michael Carrick",
+        "cannot"
+      ],
+      "summary": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Liverpool beat newly-promoted Charlton 4-0",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T18:53:52+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Charlton",
+        "beat",
+        "newly",
+        "promoted"
+      ],
+      "summary": "Grace Fisk scores twice as Liverpool beat newly-promoted Charlton in the Women's Super League at The Valley.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Manchester United’s front four show flashes but need more time to become fantastic | Will Unwin",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/06/manchester-uniteds-front-four-show-flashes-but-need-more-time-to-become-fantastic",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-06T18:00:11+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Fernandes",
+        "Carrick",
+        "Michael Carrick",
+        "Rashford",
+        "Manchester"
+      ],
+      "summary": "Mbeumo’s goal was a moment of individual inspiration but Michael Carrick will want more from Fernandes, Cunha and Rashford Tunnel vision allowed Bryan Mbeumo seconds of focus, ignoring everyone in red around him, while those in blue provided a guard of honour. In a team game, it was an act of selfis",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Arsenal ratings: Kai Havertz reminds Chelsea of what they let go with ANOTHER goal but Myles Lewis-Skelly in second gear",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40290367/arsenal-ratings-kai-havertz-myles-lewis-skelly-chelsea/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T17:59:32+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "kelly",
+        "ratings",
+        "Havertz",
+        "reminds"
+      ],
+      "summary": "KAI HAVERTZ inspired an Arsenal fight-back as they beat London rivals Chelsea to continue their perfect start. The Gunners were chasing the game after their former transfer target, Morgan Rogers, volleyed the visitors ahead after just 77 seconds. But Arsenal kept their cool and equalised when Havert",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Chelsea ratings: Steadfast Wes Fofana holds his ground despite Arsenal scoring twice as Cole Palmer bullied out of game",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40290684/chelsea-player-ratings-against-arsenal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T17:50:18+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Palmer",
+        "ratings",
+        "Steadfast",
+        "Fofana"
+      ],
+      "summary": "CHELSEA suffered their first Premier League defeat of the season as Arsenal came from behind to win 2-1 at the Emirates. Morgan Rogers handed Xabi Alonso's side a dream start by firing the Blues ahead after just 77 seconds. But former Chelsea star Kai Havertz hit back before half-time to drag the ch",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Sky Sports cameras reveal what was on note Xabi Alonso sent to Reece James during Arsenal’s win over Chelsea",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40290742/sky-sports-xabi-alonso-reece-james-arsenal-chelsea/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T17:43:26+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "James",
+        "Danny Welbeck",
+        "Welbeck",
+        "Sports"
+      ],
+      "summary": "XABI ALONSO passed a note to Reece James in the crunch moments of Chelsea's defeat to Arsenal. And Sky Sports cameras revealed exactly what was on it. Alonso sent a folded-up piece of paper on with late substitute Danny Welbeck as Chelsea trailed 2-1 at the Emirates. Blues skipper James was seen ana",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Arsenal 2 Chelsea 1: Gunners win early Premier League title showdown as Havertz and Odegaard seal huge comeback win",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40290205/arsenal-chelsea-morgan-rogers-kai-havertz/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T17:27:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Arteta",
+        "Mikel",
+        "Mikel Arteta",
+        "Gunners"
+      ],
+      "summary": "THEY’RE not just “Set Piece FC” any&nbsp;more. But they’re still the best in the land, perhaps by a country mile. And while Xabi Alonso and Chelsea were not humiliated at the Emirates, the gap between champions and early-season pretenders still seems a chasm. Last term, acclamation for Mikel Arteta’",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Declan Rice and Morgan Rogers in furious bust-up as England team-mates turn on each other during Arsenal vs Chelsea",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40290669/declan-rice-morgan-rogers-england-arsenal-chelsea/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T17:24:03+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Declan Rice",
+        "Declan",
+        "Rice",
+        "Morgan"
+      ],
+      "summary": "ENGLAND team-mates Declan Rice and Morgan Rogers locked horns in a furious row during Arsenal's 2-1 derby win over Chelsea. Rice, 27, and Rogers, 24, exchanged stern words in the second half after the former purposely tripped the Blues' new signing off the ball as they mounted an attack in search of",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Michael Carrick claims Man Utd have NOT had ‘bad start’ to new season despite just one win after latest Everton setback",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40290416/michael-carrick-man-utd-everton-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T17:16:58+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Ipswich",
+        "Manchester United",
+        "Man Utd",
+        "Carrick",
+        "Michael Carrick"
+      ],
+      "summary": "MICHAEL CARRICK extraordinarily claimed Manchester United have not had a “bad start” to the season - despite one win in three games against Hull, Ipswich and Everton. United were denied victory at Everton by a 95th-minute equaliser from debutant Ainsley Maitland-Niles, having taken the lead twice at",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Fans spot Jordan Pickford’s wild 60-yard sprint as he starts move for Maitland-Niles’ stunner vs Man Utd",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40290178/jordan-pickfords-wild-celebration-everton-vs-manchester-united/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-06T17:13:05+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Manchester United",
+        "Man Utd",
+        "Jordan Pickford",
+        "matic",
+        "Pickford"
+      ],
+      "summary": "JORDAN PICKFORD went for a wild 60-yard sprint as Everton snatched a dramatic last-gasp point against Manchester United. The Toffees keeper helped get one final attack moving as his team chased an equaliser deep into stoppage time. And his gamble paid off spectacularly when Ainsley Maitland-Niles co",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "INCREDIBLE SCENES! | GB & I claim first Walker Cup win since 2015 on final hole",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13582521/great-britain-ireland-claim-first-walker-cup-win-since-2015-on-final-hole",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T19:16:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Walker",
+        "Ireland",
+        "INCREDIBLE",
+        "SCENES",
+        "claim",
+        "first"
+      ],
+      "summary": "Josh Hill claims the Walker Cup for Great Britain & Ireland for the first time since 2015 on the final hole.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Sabalenka edges Townsend to reach US Open quarters and retain No 1 spot",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13582495/us-open-2026-aryna-sabalenka-beats-taylor-townsend-to-reach-quarter-finals-and-retain-world-no-1-spot",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T18:18:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Townsend",
+        "Taylor",
+        "Sabalenka",
+        "edges",
+        "reach",
+        "Open"
+      ],
+      "summary": "Aryna Sabalenka is clinging on to her US Open title and the world No 1 spot after an unconvincing win over Taylor Townsend.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Barcelona dominate with FIVE goals at Valencia",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13582483/valencia-0-5-barcelona-la-liga-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T18:02:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Valencia",
+        "Barcelona",
+        "dominate",
+        "FIVE",
+        "goals"
+      ],
+      "summary": "Highlights of the La Liga match between Valencia and Barcelona.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Martindale interim boss as Livingston dismiss Whelan after nine games",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gvkd530dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T18:26:51+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Glenn Whelan",
+        "Whelan",
+        "Martindale",
+        "interim",
+        "boss",
+        "Livingston"
+      ],
+      "summary": "Livingston sack Glenn Whelan after just nine games, with David Martindale returning to the head coach position on a temporary basis.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-06T18:41:21+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Valencia",
+        "European",
+        "football",
+        "Lamine",
+        "Yamal",
+        "double"
+      ],
+      "summary": "Fermín, Raphinha and Pedri also score in 5-0 victory Augsburg go to top of Bundesliga with Frankfurt win Lamine Yamal struck twice for Barcelona as they demolished Valencia 5-0 on Sunday to maintain their 100% start in La Liga. The reigning champions moved three points clear at the top of La Liga af",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Arsenal come from behind to beat Chelsea in thrilling derby",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13582508/arsenal-2-1-chelsea-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T18:43:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "come",
+        "behind",
+        "beat",
+        "thrilling"
+      ],
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Arsenal and Chelsea.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Arsenal edge out Chelsea in pulsating London derby",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/report/559464",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T18:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "edge",
+        "pulsating",
+        "London",
+        "derby"
+      ],
+      "summary": "Arsenal came from behind to beat Chelsea 2-1 in the first real major Premier League heavyweight clash of the new campaign - in an early contender for game of the season.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "New contenders emerge on WSL return - but Man City start strong",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9x3wlg11po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T18:34:54+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Man City",
+        "contenders",
+        "emerge",
+        "return",
+        "City",
+        "start"
+      ],
+      "summary": "The Women’s Super League returned this weekend and with it a host of new signings, improved squads and unexpected results.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T17:31:56+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Odegaard",
+        "Saka",
+        "star",
+        "player"
+      ],
+      "summary": "How Arsenal and Chelsea's players rated following their Premier League match.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Shaw double leads Man City to victory over Birmingham",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T18:47:15+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Shaw",
+        "double",
+        "leads",
+        "City"
+      ],
+      "summary": "Manchester City's defence of their Women's Super League title gets off to the perfect start with a victory over newly promoted Birmingham City.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Chelsea defeat by Arsenal hurts - Alonso",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-06T18:35:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "defeat",
+        "hurts",
+        "Alonso"
+      ],
+      "summary": "Chelsea manager Xabi Alonso reacts to their 2-1 defeat by rivals Arsenal in a thrilling London derby at the Emirates Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Ødegaard fires winner as Arsenal complete comeback win over Chelsea",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-06T17:53:08+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "fires",
+        "winner",
+        "complete",
+        "comeback"
+      ],
+      "summary": "The first heavyweight encounter of the Premier League season was previewed in some quarters as the immovable object versus the irresistible force. Arsenal do not give an inch. Chelsea have been fun and free-scoring under Xabi Alonso. Yet that overlooked something pretty fundamental. The percussive f",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Women’s Super League: Shaw doubles up to give Manchester City winning start",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/06/womens-super-league-wsl-roundup-khadija-shaw-manchester-city-birmingham",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-06T18:35:01+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Liverpool",
+        "Manchester City",
+        "Spurs",
+        "Women",
+        "Super"
+      ],
+      "summary": "Striker scores twice to sink Birmingham Arsenal, Palace, Spurs and Liverpool win Some things just feel inevitable. Some strikers just feel inevitable. Despite a new season, a fresh start and new opponents, it is still the same storyline for Manchester City : Khadija Shaw wins them the game. The Jama",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "Unlucky or unfair? Did Mercedes strategy cost Russell Monza win?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/news/12040/13582219/italian-gp-did-mercedes-strategy-cost-george-russell-win-at-monza-against-kimi-antonelli",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T18:55:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Unlucky",
+        "unfair",
+        "Mercedes",
+        "strategy",
+        "cost",
+        "Russell"
+      ],
+      "summary": "George Russell feels Mercedes were correct to split strategies despite losing out to Kimi Antonelli in a thrilling Italian Grand Prix.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
+      "title": "What did we learn from opening weekend in WSL?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13582432/wsl-talking-points-london-city-arsenal-and-man-city-make-winning-starts-on-opening-weekend-but-chelsea-and-man-utd-stutter",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-06T18:30:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "learn",
+        "opening",
+        "weekend"
+      ],
+      "summary": "After an opening weekend that saw new contenders arrive on the scene and old ones flatter to deceive, Sky Sports analyses the key talking points from the opening fixtures of the 2026/27 Women's Super League.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-06T19:00:50.717080+00:00"
+    },
+    {
       "title": "90+5! Maitland-Niles stuns Man Utd as Everton salvage dramatic draw",
       "title_cn": "",
       "url": "https://www.skysports.com/football/everton-vs-manchester-united/report/559467",
@@ -39174,501 +39668,6 @@
       "summary": "CHELSEA have set an asking price of close to £100m for any club interested in signing Pedro Neto this summer. A rip-off, right? Wrong. With a range of suitors for Neto, 26, including Manchester City and beyond, the Blues heavy asking price will certainly be enough to put some clubs off. And while no",
       "summary_cn": "",
       "fetched_at": "2026-08-17T16:36:20.408602+00:00"
-    },
-    {
-      "title": "Barcelona star to give up shirt number for Rodri after Man City legend’s request",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40085122/barcelona-fermin-lopez-shirt-number-rodri-man-city-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T15:26:03+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Man City",
-        "Rodri",
-        "Barcelona",
-        "star",
-        "give",
-        "shirt"
-      ],
-      "summary": "RODRI will wear his iconic No16 at Barcelona after fellow Spaniard Fermin Lopez agreed to switch. With the transfer all but confirmed, it is just a matter of time before the 2024 Ballon d'Or winner holds up the 16 shirt for Barcelona. The news has been reported by Italian reporter Fabrizio Romano, w",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "Man Utd captain Fernandes not for sale despite Galatasaray interest",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T16:01:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Bruno Fernandes",
-        "Fernandes",
-        "captain",
-        "sale"
-      ],
-      "summary": "Manchester United captain Bruno Fernandes is not for sale at any price despite interest from Galatasaray.&#160;",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "Man Utd stance on Bruno Fernandes transfer made clear as three teams circle and special contract clause expires",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40085002/man-utd-bruno-fernandes-transfer-galatasaray/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T14:50:28+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Bruno Fernandes",
-        "Fernandes",
-        "stance",
-        "Bruno"
-      ],
-      "summary": "MANCHESTER UNITED plan to reject any offer for Bruno Fernandes before the end of the window. Turkish giants Galatasaray are ready to make an audacious bid to sign the Old Trafford skipper and double his wages. Meanwhile, Italian outfits Juventus and AC Milan, managed by former United boss Ruben Amor",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "How Penrice's dream debut helped ignite McInnes' Rangers reign",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9q9r418v0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T14:37:33+00:00",
-      "score": 26.0,
-      "keywords": [
-        "James",
-        "Penrice",
-        "dream",
-        "debut",
-        "helped",
-        "ignite"
-      ],
-      "summary": "Amid a four-game winless start to the season, the arrival of James Penrice came with little fanfare, but the left-back played an unlikely role in igniting Rangers' season.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "How are Man Utd shaping up ahead of the new season?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574077/manchester-uniteds-pre-season-analysed-joshua-zirkzee-resurgent-and-marcus-rashford-reunited-but-they-still-need-a-left-back",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T15:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "shaping",
-        "ahead",
-        "season"
-      ],
-      "summary": "Manchester United ended their pre-season with a 4-2 defeat to AC Milan, and the question is what kind of condition they are in as they go into the new season?",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "Ipswich sign midfielder Ouattara from Strasbourg",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T14:51:19+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Ipswich",
-        "sign",
-        "midfielder",
-        "Ouattara",
-        "Strasbourg"
-      ],
-      "summary": "Ipswich Town complete the signing of midfielder Abdoul Ouattara from French club Strasbourg.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "Enzo Maresca’s Manchester City opener was startlingly bad",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-17T15:00:02+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Enzo",
-        "Maresca",
-        "Manchester",
-        "City"
-      ],
-      "summary": "The Community Shield isn’t always a sign of things to come, but City’s form in their defeat to Arsenal is concerning in the wake of Pep Guardiola’s departure Sign up for our free newsletter here There are caveats. It was only the Community Shield – and no side has gone on to win the league after lif",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "Chelsea flop Christopher Nkunku ‘close to Premier League return with £25million Newcastle transfer’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40084567/christopher-nkunku-close-to-premier-league-return-with-newcastle/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T15:02:50+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Newcastle",
-        "flop",
-        "Christopher",
-        "Nkunku",
-        "close"
-      ],
-      "summary": "CHRISTOPHER NKUNKU is reportedly closing in on a sensational Premier League return with Newcastle United. The former Chelsea forward is said to be wanted by the Magpies after being pushed towards the exit door at AC Milan. According to Football Italia, Newcastle are now favourites to land Nkunku in ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-17T14:33:16+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Football",
-        "Daily",
-        "Pocognoli",
-        "looks",
-        "part",
-        "Scotland"
-      ],
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction . “When we are playing,” he said, “you can call me Berti McVogts!” Scotland fans preferred a slightly courser sobriquet when, six months la",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T15:32:28.041391+00:00"
-    },
-    {
-      "title": "Premier League announce 25 fixture changes including four Man Utd clashes and huge Liverpool vs Arsenal match",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40084544/premier-league-fixture-changes-man-utd-liverpool-arsenal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T14:18:42+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Arsenal",
-        "Liverpool",
-        "Man Utd",
-        "Premier",
-        "League",
-        "announce"
-      ],
-      "summary": "THE PREMIER LEAGUE has announced 25 fixture changes in October and early November. Fans first clapped eye on the 2026/27 fixture list in mid-June. And by early July, punters had the full picture of when those matches would be played, and how they could watch them, leading up to the first internation",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "Man Utd will reject any bid for Fernandes",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T13:55:54+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Bruno Fernandes",
-        "Fernandes",
-        "reject"
-      ],
-      "summary": "Manchester United have no intention of selling captain Bruno Fernandes despite Turkish club Galatasaray being prepared to lodge a bid for the 31-year-old later this week.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "‘I drove my agents crazy’ – Serie A captain, 28, lifts lid on REJECTING Arsenal transfer with ‘choice made from heart’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40083786/serie-a-captain-manuel-locatelli-rejected-arsenal-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T13:53:56+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Mikel Arteta",
-        "Arteta",
-        "Mikel",
-        "drove",
-        "agents"
-      ],
-      "summary": "JUVENTUS captain Manuel Locatelli revealed that he had to fly in the face of his agents to reject a move to Arsenal. The Italy international was the subject of strong transfer interest from Mikel Arteta's side following Italy's Euros triumph in 2021. But despite a number of bids from the Gunners, th",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "England Lionesses icon Hannah Hampton shows off stunning summer holiday photos as fans say ‘looking great’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40083911/englands-hannah-hampton-shows-off-stunning-summer-holiday-photos/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T13:54:04+00:00",
-      "score": 26.0,
-      "keywords": [
-        "given",
-        "England",
-        "Lionesses",
-        "icon",
-        "Hannah",
-        "Hampton"
-      ],
-      "summary": "ENGLAND hero Hannah Hampton has given fans another glimpse inside her sun-soaked summer getaway. The Lionesses goalkeeper, 25, shared a string of snaps from her holiday travels with her 408,000 Instagram followers. Hampton posed in a black bikini while enjoying a stunning beach setting, with crystal",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "Arsenal's trip to Liverpool and Leeds vs Man Utd live on Sky Sports",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574076/premier-league-fixtures-on-sky-sports-liverpool-vs-man-city-and-arsenal-plus-leeds-vs-man-utd-live-in-october-and-november",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T15:05:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Man Utd",
-        "trip"
-      ],
-      "summary": "Liverpool's home matches against Manchester City and Arsenal, plus Manchester United's trip to rivals Leeds United, are among the 21 Premier League games being shown live on Sky Sports in October and November.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "Martinez in limbo, with Villa future uncertain",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yvdwkr710o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T14:19:56+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Martinez",
-        "limbo",
-        "Villa",
-        "future",
-        "uncertain"
-      ],
-      "summary": "Aston Villa goalkeeper Emi Martinez is facing an uncertain future after his proposed move to Juventus collapsed.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-17T14:00:56+00:00",
-      "score": 25.0,
-      "keywords": [
-        "remember",
-        "rest",
-        "life",
-        "footballers",
-        "whose",
-        "biggest"
-      ],
-      "summary": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital funds By Playing in the Shadows Premier League footballers are gearing up for the start of the season, but some of their fellow profession",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "First look at Arsenal’s new midfield with £75m Bruno Guimaraes is ominous for rivals as Man City look in shambles",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40082601/arsenal-bruno-guimaraes-midfield-ominous-man-city-shambles/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T14:23:34+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Man City",
-        "First",
-        "look",
-        "midfield"
-      ],
-      "summary": "MARTIN ODEGAARD can remember the days when he had “big fights” with Bruno Guimaraes. But now the pair have been united in the heart of Arsenal’s midfield, they look like a match made in heaven. It is early days, yet the way Guimaraes and Odegaard combined on Sunday to boss Manchester City was ominou",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "Fans face huge shake-up to Premier League coverage with iconic show axed, Netflix and Disney rivalry and legend on TNT",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40083839/premier-league-sky-sports-tnt-netflix-disney-lineker-neville/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T14:04:21+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Fans",
-        "face",
-        "huge",
-        "shake",
-        "Premier",
-        "League"
-      ],
-      "summary": "PREMIER LEAGUE coverage will have a different look about it this season. Sky Sports and TNT Sports are still the two big hitters in terms of live matches, with Sky showing at least 215 and TNT broadcasting at least 52. But those looking for extra chatter around the country's top division now have a ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "More punters betting on Man City to get RELEGATED than win the title after dismal showing against Arsenal",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40083888/man-city-title-odds-relegation/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T13:48:18+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Man City",
-        "punters",
-        "betting",
-        "City"
-      ],
-      "summary": "MORE punters are betting on Manchester City to be RELEGATED than win the title. Enzo Maresca's reign as Pep Guardiola's successor got off to a nightmare start on Sunday as City were thumped 3-0 in the Community Shield. Only one Community Shield winner has gone on to win the title since 2011, City in",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T14:35:34.339028+00:00"
-    },
-    {
-      "title": "From Chelsea bomb squad to new chapter at Como for Chalobah",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c141dl0l0p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T13:30:18+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "bomb",
-        "squad",
-        "chapter",
-        "Como"
-      ],
-      "summary": "After ending his near 20-year association with Chelsea by joining Como 1907 this summer, Trevoh Chalobah credits his time at Stamford Bridge with building his resilience.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "Inside Man Utd’s pre-season with £48m signing a hit and stars bonding over party game but big questions still remain",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40083346/man-utd-pre-season-carrick-rashford/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-17T13:13:01+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Dublin",
-        "Inside",
-        "season",
-        "signing"
-      ],
-      "summary": "MANCHESTER UNITED'S pre-season truly hit its stride in its final weeks - but there are still too many loose ends. After quiet pit-stops in Helsinki, Trondheim, Stockholm, and Gothenburg, matches in Wroclaw and Dublin restored the full weight of the club's massive global status.&nbsp; Hundreds gather",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "MCC Female Young Broadcaster of the Year joins Hundred final coverage",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13574033/rosa-simkin-2026-mcc-female-young-broadcaster-of-the-year-winner-joins-sky-sports-for-the-hundred-final-at-lords",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T13:31:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Young",
-        "Female",
-        "Broadcaster",
-        "Year",
-        "joins",
-        "Hundred"
-      ],
-      "summary": "The MCC Female Young Broadcaster of the Year for 2026, Rosa&#160;Simkin,&#160;received the ultimate competition prize when joining Sky Sports' live coverage of The Hundred final at Lord's on Sunday.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "No Draper as Fery named in GB's Davis Cup squad",
-      "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13574042/davis-cup-arthur-fery-named-in-great-britains-squad-with-jack-draper-absent",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-17T13:48:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Davis",
-        "Draper",
-        "Fery",
-        "named",
-        "squad"
-      ],
-      "summary": "Arthur Fery has been named in the Great Britain Davis Cup team for the home qualifying tie against Ecuador next month.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "£2.14bn and counting - why Premier League spending could set new record",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-17T13:07:16+00:00",
-      "score": 25.0,
-      "keywords": [
-        "counting",
-        "Premier",
-        "League",
-        "spending",
-        "record"
-      ],
-      "summary": "Premier League clubs have spent £2.14bn this summer, with huge sums moving between top-flight rivals. BBC Sport examines the possibility of a new spending record.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
-    },
-    {
-      "title": "Arsenal hammer Manchester City and the EFL kicks off | Football Weekly video",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/video/2026/aug/17/arsenal-hammer-manchester-city-and-the-efl-kicks-off-football-weekly-video",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-17T12:46:55+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "hammer",
-        "Manchester",
-        "City",
-        "kicks"
-      ],
-      "summary": "Max Rushden is joined by Will Unwin, Sanny Rudravajhala and Ben Fisher as Arsenal coast past Manchester City to win the Community Shield. Continue reading...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-17T13:47:42.124714+00:00"
     }
   ]
 }
