@@ -1,6 +1,345 @@
 {
   "items": [
     {
+      "title": "Porto v Manchester City: Champions League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-08T19:32:07+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester City",
+        "Porto",
+        "Manchester",
+        "City",
+        "Champions",
+        "League"
+      ],
+      "summary": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scores | Real Madrid v Inter and more | Email Niall Jamie Jackson has noticed something strange on Uefa’s official team sheet … It’s also finished AEK Athens 1-0 LASK Linz in the battle of the acronyms* – you can follow all the other Champi",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Carabao Cup 4th round draw: Date, start time, TV channel, live stream and ball numbers for next stage",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40305568/carabao-cup-4th-round-draw-date-time-live-stream-ball-numbers/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-08T18:45:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United"
+      ],
+      "summary": "DETAILS for the Carabao Cup fourth round draw have been confirmed! Chelsea and Newcastle are among the teams looking to progress this week, while Manchester United, Liverpool, Arsenal, Manchester City and Aston Villa begin their campaigns a week later. The third round has been split across two weeks",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-08T18:54:02+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "John McGinn",
+        "McGinn",
+        "First",
+        "half",
+        "treble"
+      ],
+      "summary": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener against Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against B",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Air traffic chaos delays Arsenal flight to Naples for Champions League",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/08/air-traffic-chaos-delays-arsenal-flight-to-naples-for-champions-league",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-08T18:38:24+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel",
+        "traffic",
+        "chaos",
+        "delays",
+        "flight"
+      ],
+      "summary": "Team arriving late at their hotel in southern Italy Jurriën Timber in squad for first time since May Arsenal’s preparations for their opening Champions League game against Napoli have been disrupted after they were caught up in the travel chaos that affected airports across the United Kingdom. Mikel",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Man Utd legend Paul Scholes urges Michael Carrick to drop £62.5m star to accommodate Benjamin Sesko vs Man City",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40313812/scholes-carrick-drop-sesko-man-city-united-cunha/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-08T19:19:07+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Man City",
+        "Man Utd",
+        "Scholes",
+        "Paul Scholes",
+        "Carrick"
+      ],
+      "summary": "PAUL SCHOLES believes Michael Carrick must shuffle his pack so he can start Benjamin Sesko. The Slovenian came off the bench to score what looked like it would be the winner against Everton on Sunday. Unfortunately for the Red Devils, Ainsley Maitland-Niles would equalise for the home side deep into",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Trent Alexander-Arnold handed surprise new position by Jose Mourinho for Real Madrid vs Inter Milan",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40313717/trent-alexander-arnold-real-madrid-position-champions-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-08T19:08:35+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Alexander-Arnold",
+        "Trent Alexander-Arnold",
+        "Trent",
+        "Alexander",
+        "Arnold"
+      ],
+      "summary": "TRENT ALEXANDER-ARNOLD has been handed a surprise new position by Jose Mourinho. The Real Madrid star was selected in the starting XI of the Champions League fixture against Inter Milan. Trent, 27, made his name at Liverpool playing at right-back and was one of the most creative in his role in Europ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Wigglesworth explains Lawes and Marchant’s England absence",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13583267/england-rugby-squad-courtney-lawes-and-joe-marchant-told-to-go-above-gallagher-prem-rivals-to-earn-spot-back",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-08T19:18:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "March",
+        "Wigglesworth",
+        "explains",
+        "Lawes",
+        "Marchant",
+        "England"
+      ],
+      "summary": "Courtney Lawes and Joe Marchant must &#8220;go and play well&#8221; for Sale Sharks before earning a spot in England&#8217;s autumn squad.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Jamie Vardy BLOCKED from making Burnley debut vs Wrexham as he’s suspended due to little-known rule",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40314073/jamie-vardy-blocked-burnley-debut-wrexham-suspended/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-08T19:36:41+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Jamie Vardy",
+        "Vardy",
+        "Jamie",
+        "BLOCKED",
+        "making",
+        "Burnley"
+      ],
+      "summary": "JAMIE VARDY has been blocked from making his Burnley debut versus Wrexham after picking up a suspension in Italy. A little-known rule means that the 39-year-old will serve a one-match ban for picking up too many yellow cards for Cremonese. Vardy had been expected to feature against the Red Dragons j",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Champions League club chiefs make incredible gesture to fans ahead of first game in the competition",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40312510/champions-league-como-stadium-tickets-leipzig-man-utd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-08T18:20:46+00:00",
+      "score": 26.0,
+      "keywords": [
+        "given",
+        "Champions",
+        "League",
+        "club",
+        "chiefs",
+        "make"
+      ],
+      "summary": "COMO chiefs have given away their tickets for the club’s Champions League debut to allow long-serving fans to attend. Cesc Fabregas’ Serie A side have qualified for Europe’s top competition for the first time in their 119-year history and host RB Leipzig on Thursday night. The Italians' home venue o",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Aston Villa attack clicks in thrilling win over Club Brugge",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/club-brugge-vs-aston-villa/report/577599",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-08T19:45:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Aston",
+        "Villa",
+        "attack",
+        "clicks",
+        "thrilling"
+      ],
+      "summary": "Aston Villa produced a superb attacking display to end their scoring concerns and begin their Champions League campaign with a thrilling 3-2 win over Club Brugge.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Carabao Cup LIVE on Sky! Bournemouth, Palace ahead - FIVE PL teams in action",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13582785/carabao-cup-third-round-live-scores-updates-and-free-match-highlights-with-newcastle-sunderland-crystal-palace-in-action",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-08T19:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Bournemouth",
+        "Carabao",
+        "LIVE",
+        "Palace",
+        "ahead",
+        "FIVE"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "West Ham hit back at Bolton; Burnley, Saints ahead - Championship on Sky LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/live/560559",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-08T19:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "West",
+        "back",
+        "Bolton",
+        "Burnley",
+        "Saints"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "How are Man City not ahead at FC Porto? LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/live/577600",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-08T18:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Man City",
+        "City",
+        "ahead",
+        "Porto",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-08T19:34:16+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Real",
+        "Madrid",
+        "Inter",
+        "Millwall",
+        "Champions"
+      ],
+      "summary": "Champions League: Lille v Betis, Dortmund v Villarreal Carabao Cup: Palace v Middlesbrough, Sunderland v Hull Live scores | Read Football Daily | And email Daniel Inter, meanwhile, look solid. They’ve won three from three in Serie A, and will, I think, look to clutter the centre of the pitch. That’s",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Club Brugge 2 Aston Villa 3: Villans edge five-goal thriller for first win of the season as World Cup star has nightmare",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40313671/mcginn-double-gives-villans-first-win/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-08T18:44:53+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Club",
+        "Brugge",
+        "Aston",
+        "Villa",
+        "Villans"
+      ],
+      "summary": "THERE are far less stressful ways to finally get your season going. But if you had offered Unai Emery three goals, three points and the first win of his new Aston Villa chapter - he would have snapped your hand off, regardless of how it came about. What should have been straightforward at one point.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Porto vs Man City live stream free: How to watch Champions League clash without paying a penny",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40304071/porto-vs-man-city-live-stream-free-how-to-watch-champions-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-08T18:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Porto",
+        "City",
+        "live",
+        "stream"
+      ],
+      "summary": "MANCHESTER CITY begin their Champions League campaign TONIGHT with a trip to Porto. SunSport brings you all the details on how you can watch the huge European clash without paying a penny! PORTO VS MAN CITY LIVE COVERAGE How to watch Porto vs Man City for FREE Porto vs Man City kicks off at 8pm...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
+      "title": "Inter Milan keeper ‘does a Karius’ with horror blunder vs Mourinho’s Real Madrid as fans say ‘what have you done?’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40314723/inter-milan-keeper-martinez-karius-horror-blunder-mourinho/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-08T19:48:59+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Inter",
+        "Milan",
+        "keeper",
+        "Karius",
+        "horror",
+        "blunder"
+      ],
+      "summary": "JOSEP MARTINEZ has made another entry into the all-time Champions League howlers, to put Inter Milan 2-0 down against Real Madrid. The Inter Milan stopper did his best to join the illustrious errors of Loris Karius back in 2018 by gifting Madrid their second of the night. After receiving the ball ba",
+      "summary_cn": "",
+      "fetched_at": "2026-09-08T19:49:20.589202+00:00"
+    },
+    {
       "title": "Full list of Ballon d’Or nominees revealed including five Premier League stars as Harry Kane favourite for coveted award",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40311280/harry-kane-ballon-dor-premier-league-nominees-full-list/",
@@ -39338,344 +39677,6 @@
       "summary": "BENJAMIN SESKO and Matthijs de Ligt were spotted back in full training with Manchester United ahead of the Premier League kick-off. De Ligt returned to a full session for the first time since undergoing May surgery for a back injury sustained last November. The Dutchman was involved in the first 15 ",
       "summary_cn": "",
       "fetched_at": "2026-08-18T13:51:43.223479+00:00"
-    },
-    {
-      "title": "'Prognosis remains guarded' - Serie A's Trepy on ventilator",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8xdx7ypr6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-18T13:17:01+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Prognosis",
-        "remains",
-        "guarded",
-        "Serie",
-        "Trepy",
-        "ventilator"
-      ],
-      "summary": "Serie A striker Yael Trepy will stay in hospital under \"pharmacological sedation\", but appears to be improving.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T13:51:43.223479+00:00"
-    },
-    {
-      "title": "Aston Villa ticket and hotel deals for Premier League games at Villa Park for 2026/27 season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39504960/aston-villa-tickets-hotel-premier-league-villa-park/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T12:58:49+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Aston Villa",
-        "Aston",
-        "Villa",
-        "ticket",
-        "hotel",
-        "deals"
-      ],
-      "summary": "ASTON Villa fans can enjoy the unique thrill of matchday live with these ticket and hotel packages to see their heroes at Villa Park. Perfect for die-hard Villans or anyone wanting to enjoy top-tier Premier League action, this exclusive travel offer lets you secure your seat with ease. Aston Villa t",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "Everton ‘lining up sensational transfer return for Richarlison but Tottenham hold secret weapon in fee demands’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40093321/everton-transfer-return-richarlison-tottenham-fee-demands/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T12:10:17+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Everton",
-        "Tottenham",
-        "Spurs",
-        "Richarlison",
-        "lining",
-        "sensational"
-      ],
-      "summary": "EVERTON are plotting a stunning swoop for Richarlison - but Tottenham are not prepared to sell him on the cheap, according to reports. The striker, 29, is facing an uncertain future after Spurs narrowly escaped a humiliating relegation to the Championship last season. And Everton, who flogged Richar",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "How can I watch the Pep Guardiola Man City documentary? Schedule and episode guide",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40091462/watch-pep-guardiola-man-city-documentary-guide/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T12:23:31+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "watch",
-        "Guardiola",
-        "City",
-        "documentary"
-      ],
-      "summary": "PEP Guardiola quit Manchester City at the end of the 2025/26 season after 10 successful years at the club. A new documentary detailing his last two years at the club is about to be released, here's all you need to know about it and how you can watch. How can I watch the documentary? Viewers...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "Chelsea academy teams WON’T be called Chelsea anymore after unprecedented name change",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40093850/chelsea-academy-teams-name-change-cng-cobham-under-21s/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T12:13:13+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "academy",
-        "teams",
-        "called",
-        "anymore",
-        "unprecedented"
-      ],
-      "summary": "CHELSEA's academy teams will no longer be called Chelsea. The Blues have re-named their Academy setups, moving away from being known as the Chelsea Under-21's and Under 19's. Instead, from the start of this season, the two sides will now be known as 'Cobham Next Gen' or 'CNG' for short. Cobham is th",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "Premier League makes three major changes to VAR with fans set to listen to referee conversations on matchday",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40093827/premier-league-var-changes-fans-referee-howard-webb/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T12:12:14+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Premier",
-        "League",
-        "makes",
-        "major",
-        "changes",
-        "fans"
-      ],
-      "summary": "PREM TV viewers will be able to listen to referees' on-field interactions with players on match day for the first time this season - as League chiefs bid to reduce VAR controversy. The move to broadcast some ref-cam discussions soon after the final whistle is part of a trio of new measures being int",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "Kevin Blake's tips for opening day of York's Ebor Festival",
-      "title_cn": "",
-      "url": "https://www.skysports.com/racing/news/12040/13574345/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-looks-ahead-to-yorks-opening-day-with-three-selections",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-18T12:31:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Kevin",
-        "Blake",
-        "tips",
-        "opening",
-        "York",
-        "Ebor"
-      ],
-      "summary": "Kevin Blake has three picks for day one of the York Ebor Festival, an afternoon headlined by the Juddmonte International Stakes.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "Dream Team Tips: 5 hidden gems who currently feature in fewer than 2% of teams",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40094336/fantasy-football-premier-league-differentials-reinildo-kluivert-frimpong/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T12:45:04+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Dream",
-        "Team",
-        "Tips",
-        "hidden",
-        "gems",
-        "currently"
-      ],
-      "summary": "THERE is no better feeling for a Dream Team manager than unearthing a hidden gem. Successful players who appear in very few teams - known as ‘differentials’ - are incredibly important throughout the season as they are often the individuals who make a difference. PLAY DREAM TEAM NOW: £100,000 PRIZE P",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "Get £40 in free bets to use on any sport when you bet £5 with Paddy Power",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40090872/paddy-power-free-bets-football-racing/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T12:24:24+00:00",
-      "score": 20.0,
-      "keywords": [
-        "free",
-        "bets",
-        "sport",
-        "Paddy",
-        "Power"
-      ],
-      "summary": "PADDY POWER are offering punters £40 in free bets when signing up today! Brand-new Paddy Power customers who register and stake just a fiver on their sportsbook will be rewarded with £40 in free bets to use on any sport! Paddy Power new customer offer New to Paddy Power? Here's how to bag yourself a",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "Mad transfer saga sees top flight fans occupy stadium and confront gun-toting owner over £27m sale of star player",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40091535/paok-borussia-dortmund-giannis-konstantelias-ivan-savvidis/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T11:43:18+00:00",
-      "score": 20.0,
-      "keywords": [
-        "transfer",
-        "saga",
-        "sees",
-        "flight",
-        "fans",
-        "occupy"
-      ],
-      "summary": "PAOK fans occupied their club's stadium and demanded to speak to controversial owner Ivan Savvidis after star player Giannis Konstantelias was sold to Borussia Dortmund. Konstantelias, 23, is one of the Greek club's brightest academy products who went on to register a total of 44 goals and 26 assist",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T12:59:35.558014+00:00"
-    },
-    {
-      "title": "Inside Pep’s 35-year marriage with ‘most beautiful woman on the planet’ & how ‘losing the passion’ lead to secret split",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40091125/pep-wife-secret-split/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T10:57:23+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Man City",
-        "Inside",
-        "year",
-        "marriage",
-        "most",
-        "beautiful"
-      ],
-      "summary": "HE was with her from the age of 18 and has described her as the \"most beautiful woman on the planet\", but Pep Guardiola's marriage was crumbling behind the scenes long before he announced his split. The Man City boss, 55, who's been with the club since 2016, is expected to speak about his marriage..",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T11:32:13.555142+00:00"
-    },
-    {
-      "title": "Premier League 2026-27 preview No 14: Liverpool",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-18T11:00:44+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Salah",
-        "Premier",
-        "League",
-        "preview"
-      ],
-      "summary": "Andoni Iraola has his hands full – replacing Mo Salah and restoring faith at Anfield – and will hope big name investors bring stability not disharmony Guardian writers’ predicted position: 4th (NB: this is not necessarily Andy Hunter’s prediction but the average of our writers’ tips) Last season’s p",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T11:32:13.555142+00:00"
-    },
-    {
-      "title": "Ex-Man Utd legend Paul Scholes banned from road after clocking up two driving convictions in TWO days",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40092628/paul-scholes-banned-driving-convictions-manchester-united/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T11:13:50+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Man Utd",
-        "March",
-        "Paul Scholes",
-        "speed",
-        "Scholes",
-        "legend"
-      ],
-      "summary": "FORMER Man Utd legend Paul Scholes has been banned from the road after clocking up two driving offences in two days. The midfielder, 51, was caught speeding at 37mph in a Range Rover in March while on a 30mph road in Cleckheaton in West Yorkshire. Scholes was also rapped by Greater Manchester Police",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T11:32:13.555142+00:00"
-    },
-    {
-      "title": "Rio Ferdinand’s wife Kate labelled ‘Ibiza Queen’ as she parties in see-through outfit on wild night with Man Utd icon",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40092111/rio-ferdinand-wife-kate-ibiza-queen-man-utd-icon/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T11:05:22+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Ferdinand",
-        "Rio Ferdinand",
-        "wife",
-        "Kate"
-      ],
-      "summary": "RIO FERDINAND showed off his dance moves at a nightclub in Ibiza ahead of the new Premier League season - and his wife Kate caught the eye with her choice of outfit. The Manchester United icon, 47, has been enjoying some free time after working for Fox Sports at the World Cup. Ferdinand and his...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T11:32:13.555142+00:00"
-    },
-    {
-      "title": "Champions League winner, 30, looks unrecognisable as he scores on debut for ninth-tier club",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40092053/champions-league-niklas-sule-unrecognisable-scores/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-18T11:19:07+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Champions",
-        "League",
-        "winner",
-        "looks",
-        "unrecognisable",
-        "scores"
-      ],
-      "summary": "A FORMER Champions League winner looked unrecognisable as he came out of retirement. The star only announced his retirement from football in May. That came off the back of a third major ACL injury. However, still only 30, he is back in football - playing for a ninth-tier club. The German was part of",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T11:32:13.555142+00:00"
-    },
-    {
-      "title": "Why Fernandez uncertainty has echoes of Isak saga",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-18T10:46:17+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "Fernandez",
-        "uncertainty",
-        "echoes",
-        "Isak"
-      ],
-      "summary": "Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T11:32:13.555142+00:00"
-    },
-    {
-      "title": "Middleton-Patel joins Watford on loan from Man Utd",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y479ez74zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-18T10:30:07+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Middleton",
-        "Patel",
-        "joins",
-        "Watford"
-      ],
-      "summary": "Wales goalkeeper Safia Middleton-Patel has secured a return to Watford having rejoined the Hornets on a season-long loan deal from Manchester United.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-18T11:32:13.555142+00:00"
     }
   ]
 }
