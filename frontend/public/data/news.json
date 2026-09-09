@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-08T22:31:56.705122+00:00",
+  "updated_at": "2026-09-09T01:09:46.637561+00:00",
   "items": [
     {
-      "title": "Papers: Hammer blow for Man Utd as target agrees new contract",
+      "title": "Papers: Blow for Man Utd as top target agrees new contract",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
       "source": "Sky Sports",
@@ -12,277 +12,31 @@
       "keywords": [
         "Man Utd",
         "Papers",
-        "Hammer",
-        "blow",
+        "Blow",
         "target",
-        "agrees"
+        "agrees",
+        "contract"
       ],
       "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
       "summary_cn": ""
     },
     {
-      "title": "Bowen at the double as West Ham climb top of the Championship",
+      "title": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-08T22:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Bowen",
-        "Jarrod Bowen",
-        "double",
-        "West",
-        "climb"
-      ],
-      "summary": "Captain Jarrod Bowen scored twice as West Ham's 3-2 win over Bolton took them top of the Sky Bet Championship on goal difference and earned a first ever win at the Toughsheet Community Stadium.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Haaland scores twice in win over Porto but Man City struggle to impress",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-08T22:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Erling Haaland",
-        "Haaland",
-        "scores",
-        "twice"
-      ],
-      "summary": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal latest: Will Arteta rotate vs Napoli as fixture schedule piles up?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-08T21:30:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Arteta",
-        "latest",
-        "rotate",
-        "Napoli",
-        "fixture"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Liverpool monitoring Thiaw - Wednesday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0jrdvxnvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-08T20:45:07+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Fulham",
-        "Liverpool",
-        "Manchester United",
-        "James",
-        "Rodri",
-        "Rodriguez"
-      ],
-      "summary": "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Haaland double gives Manchester City ideal Champions League start in Porto",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-08T21:08:19+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Haaland",
-        "double",
-        "gives",
-        "Manchester",
-        "City"
-      ],
-      "summary": "Enzo Maresca admitted a liking for the “boom-boom” of house music, then oversaw a gritty performance that ended with Manchester City enjoying the sweet notes of victory. They had lost six of their past nine away games in the competition and also lost the 2021 Champions League final at this venue, so",
-      "summary_cn": ""
-    },
-    {
-      "title": "Championship roundup: West Ham go top after Bowen double sinks Bolton",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/08/championship-roundup-west-ham-go-top-after-bowen-double-sinks-bolton",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-08T21:40:32+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Southampton",
-        "West Ham",
-        "Bowen",
-        "Jarrod Bowen",
-        "Championship",
-        "roundup"
-      ],
-      "summary": "England forward scores twice in 3-2 victory Southampton 3-1 Swansea; Watford 2-1 Preston Captain Jarrod Bowen scored twice as West Ham ’s 3-2 win over Bolton took them top of the Championship on goal difference. The England international opened the scoring after 13 minutes and earned his side a firs",
-      "summary_cn": ""
-    },
-    {
-      "title": "Putellas, Russo, Greenwood, Shaw among 11 WSL players in Ballon d'Or running",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-08T20:47:00+00:00",
+      "published": "2026-09-08T23:14:36+00:00",
       "score": 26.0,
       "keywords": [
-        "Green",
-        "Putellas",
-        "Russo",
-        "Greenwood",
-        "Shaw",
-        "among"
+        "Trent Alexander-Arnold",
+        "Alexander-Arnold",
+        "middle",
+        "again",
+        "Mourinho",
+        "Alexander"
       ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Willock grabs late goal as Newcastle edge Millwall",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-08T22:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "Willock",
-        "grabs",
-        "late",
-        "goal",
-        "edge"
-      ],
-      "summary": "Joe Willock's late goal sent a relieved Newcastle into the fourth round of the Carabao Cup as the Premier League side scraped to a 1-0 victory at Sky Bet Championship outfit Millwall.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Christie nets hat-trick as Bournemouth blitz Championship Lincoln",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/bournemouth-vs-lincoln-city/report/577572",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-08T21:35:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Bournemouth",
-        "Christie",
-        "nets",
-        "trick",
-        "blitz",
-        "Championship"
-      ],
-      "summary": "Ryan Christie scored a hat-trick to give Marco Rose his first win as Bournemouth manager as the Cherries swept aside Sky Bet Championship side Lincoln 4-0.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Southampton knock Swansea off Championship top spot",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/southampton-vs-swansea-city/report/560563",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-08T21:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "knock",
-        "Swansea",
-        "Championship",
-        "spot"
-      ],
-      "summary": "Cyle Larin scored his fifth goal of the season as Southampton beat Swansea 3-1 to humble a table-topper for the second home match in a row.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Bouaddi impresses on first start - have Man City found 'a gem'?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-08T22:09:47+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Bouaddi",
-        "impresses",
-        "first",
-        "start"
-      ],
-      "summary": "Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.",
-      "summary_cn": ""
-    },
-    {
-      "title": "From shot-shy to shoot on sight - Villa find a way to win",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j655pe81o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-08T20:55:18+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "shot",
-        "shoot",
-        "sight",
-        "Villa",
-        "find"
-      ],
-      "summary": "Aston Villa finally found their shooting boots with three goals at Club Brugge - but their win was not straightforward.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Newcastle progress as Joe Willock strikes late to see off Millwall",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-08T21:07:57+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "progress",
-        "Willock",
-        "strikes",
-        "late",
-        "Millwall"
-      ],
-      "summary": "Newcastle United did just enough in south-east London to progress to the next round of the Carabao Cup. Joe Willock scored the only goal of this boisterous, fun, slightly vague cup tie against a spirited Millwall team that wasn’t so much down to the bare bones, as the bones beneath the bones. By the",
-      "summary_cn": ""
-    },
-    {
-      "title": "Real Madrid cling on to beat Inter on Mourinho’s big Champions League night",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-08T21:18:12+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Real",
-        "Madrid",
-        "cling",
-        "beat",
-        "Inter",
-        "Mourinho"
-      ],
-      "summary": "Sometimes football is silly and sometimes it is more fun for it. On a night when there were 37 shots and the goalkeepers shared thirteen saves between them, some of them absurd, José Mourinho’s Real Madrid found a way to beat his former team Inter in his first Champions League night of his second sp",
+      "summary": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
       "summary_cn": ""
     }
   ]
