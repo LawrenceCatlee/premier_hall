@@ -1,289 +1,213 @@
 {
-  "updated_at": "2026-09-10T14:14:55.851801+00:00",
+  "updated_at": "2026-09-10T18:16:59.998064+00:00",
   "items": [
     {
-      "title": "Premier League fixtures: Bumper festive period announced",
+      "title": "De Zerbi 'was the key' - Fernandes on his Spurs switch and trophy ambitions",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13583921/premier-league-christmas-fixtures-boxing-day-and-festive-schedule-announced-as-29-matches-shown-live-on-sky-sports",
+      "url": "https://www.skysports.com/football/news/12040/13584072/matheus-fernandes-interview-spurs-midfielder-on-the-passion-of-head-coach-roberto-de-zerbi-and-trophy-ambitions",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-10T15:00:00+00:00",
-      "score": 33.0,
+      "published": "2026-09-10T17:11:00+00:00",
+      "score": 31.0,
       "keywords": [
-        "Premier",
-        "League",
-        "fixtures",
-        "Bumper",
-        "festive",
-        "period"
+        "Spurs",
+        "Fernandes",
+        "Zerbi",
+        "switch",
+        "trophy",
+        "ambitions"
       ],
-      "summary": "The Premier League's festive fixtures have been announced for this season - with 29 matches available to watch live on Sky Sports between Boxing Day and January 7.",
+      "summary": "Spurs may have failed to win any of their first three Premier League games this season, but summer signing Matheus Fernandes is convinced he has joined a squad set to start fighting for trophies.",
       "summary_cn": ""
     },
     {
-      "title": "Bournemouth latest: Can Rose celebrate turning 50 with milestone win?",
+      "title": "Manchester United v Sabah: Champions League – live",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "url": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-10T18:08:13+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Carrick",
+        "Manchester",
+        "United",
+        "Sabah",
+        "Champions"
+      ],
+      "summary": "⚽️ Champions League updates from the 8pm BST kick-off ⚽️ Live scoreboard | Read Football Daily | And mail Daniel Carrick tells TNT they’ll give Sabah maximum respect. They’ve won a lot of matches, play attractive, attacking football, and they’ll be a challenge, but he’s mainly focused on United. Sha",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd icon and BBC star opens up on living with Jason Statham at 17 before they became famous",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40338453/man-utd-bbc-dion-dublin-living-with-jason-statham/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-10T17:09:06+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Dion Dublin",
+        "Dublin",
+        "icon",
+        "star"
+      ],
+      "summary": "MANCHESTER UNITED icon Dion Dublin has opened up on living with Jason Statham as a teenager. The unlikely duo lived together in Norfolk while Dublin, now 57, was coming through the Norwich academy. He has explained that Statham, 59, was close friends with his brother, Ash, who worked as a DJ in Grea",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newcastle boss Matthias Jaissle reveals which star he has fallen in ‘love’ with after hitting Man Utd with transfer blow",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40338544/newcastle-matthias-jaissle-lewis-hall/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-10T16:38:18+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Newcastle",
+        "Man Utd",
+        "Luke Shaw",
+        "boss",
+        "Matthias"
+      ],
+      "summary": "MATTHIAS JAISSLE has fallen in “love” with Lewis Hall. Manchester United have suffered a hammer blow with the news their top target to replace Luke Shaw has agreed a new five-year contract at Newcastle. The 22-year-old left-back’s stunning form has been rewarded with the package making him one of th",
+      "summary_cn": ""
+    },
+    {
+      "title": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-10T17:03:47+00:00",
+      "score": 28.0,
+      "keywords": [
+        "French",
+        "accuses",
+        "Infantino",
+        "seriously",
+        "damaging",
+        "football"
+      ],
+      "summary": "‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support f",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Perfect start!’ Robinson takes TWO wickets in opening over!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13584045/england-vs-pakistan-ollie-robinson-gets-two-wickets-for-no-runs-in-opening-over",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-10T14:27:00+00:00",
-      "score": 31.0,
+      "published": "2026-09-10T16:25:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Bournemouth",
-        "stone",
-        "latest",
-        "Rose",
-        "celebrate",
-        "turning"
+        "Robinson",
+        "Perfect",
+        "start",
+        "takes",
+        "wickets",
+        "opening"
       ],
-      "summary": "",
+      "summary": "Ollie Robinson took two wickets for no runs in the opening over of Pakistan&#8217;s second innings in the third Test against England.",
       "summary_cn": ""
     },
     {
-      "title": "‘They’re terrible’ – Former Man City ace Rodri forced into grovelling apology after being caught on camera blasting club",
+      "title": "EFL manager, 46, opens up on getting shock cancer diagnosis in emotional interview as fans send support",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40334862/barcelona-rodri-blasts-man-city-forced-valencia-apology/",
+      "url": "https://www.thesun.co.uk/sport/40338625/grant-mccann-skin-cancer-doncaster-rovers-interview/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-10T14:02:08+00:00",
-      "score": 31.0,
+      "published": "2026-09-10T17:50:47+00:00",
+      "score": 26.0,
       "keywords": [
-        "Manchester City",
-        "Man City",
-        "Rodri",
-        "Valencia",
-        "terrible",
-        "Former"
+        "McCann",
+        "manager",
+        "opens",
+        "getting",
+        "shock",
+        "cancer"
       ],
-      "summary": "RODRI's comments have caused a stir after he was caught slamming Barcelona’s LaLiga opponents from the bench. Last Sunday, the £65.4million midfielder was subbed off in the 62nd minute with Barca 3-0 up against Valencia.&nbsp; The former Manchester City man, 30, was spotted discussing the Los Che se",
+      "summary": "DONCASTER ROVERS boss Grant McCann has revealed he was diagnosed with skin cancer last year. The 46-year-old made the shock claims amid his side's difficult start to the season that has seen them fail to win a game in League One. McCann was asked about the pressure of being a football manager and in",
       "summary_cn": ""
     },
     {
-      "title": "I won 13 Premier League titles for Man Utd… Pep Guardiola once told me the shock star he’d ‘take tomorrow’",
+      "title": "Man Utd vs Man City | Premier League offer: Get £30 in free bets with Midnite",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40335945/man-utd-pep-guardiola-ryan-giggs-marcus-rashford/",
+      "url": "https://www.thesun.co.uk/sport/40332000/man-utd-vs-man-city-midnite-free-bets-offer/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-10T13:45:19+00:00",
-      "score": 31.0,
+      "published": "2026-09-10T18:01:15+00:00",
+      "score": 25.0,
       "keywords": [
         "Manchester City",
         "Manchester United",
-        "Man Utd",
-        "Marcus Rashford",
-        "Rashford",
-        "Ferguson"
-      ],
-      "summary": "RYAN GIGGS has revealed Pep Guardiola once hailed Marcus Rashford asManchester United's best player. And the ex-Manchester City boss said he would sign the Red Devilsforward \"tomorrow\". Giggs recalled a chat he had with Guardiola at a dinner hosted by SirAlex Ferguson almost a decade ago. Giggs, 52,",
-      "summary_cn": ""
-    },
-    {
-      "title": "How Cesc Fabregas guided Como to Champions League by copying tactics of all his ex-managers, except former Chelsea boss",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40334311/cesc-fabregas-arsene-wenger-pep-guardiola-jose-mourinho/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-10T13:43:53+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "young",
-        "Cesc",
-        "Fabregas",
-        "guided",
-        "Como"
-      ],
-      "summary": "CESC FABREGAS is remembered as one of the best midfielders in the history of football, and is already one of the brightest young managers in the world. Fab, 39, needed less than two seasons since taking his first coaching job to lead Italian minnows Como to the Champions League for the first time in",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal files: Fans urged to avoid Naples and cook up ‘cover story’ to avoid trouble as Emerson Nwaneri makes CL squad",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40334860/arsenal-files-fan-trouble-napoli-emerson-nwaneri/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-10T13:00:40+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "merson",
-        "files",
-        "Fans",
-        "urged",
-        "avoid"
-      ],
-      "summary": "GUNNERS supporters were advised to have a “cover story” to avoid being caught up in fan trouble during their time in Naples. The Arsenal Supporters’ Trust (AST) posted that recommendation on social media the night before Wednesday’s match. There was also advice from the club, who urged fans not to w",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man Utd star Matheus Cunha AXED by Brazil boss Carlo Ancelotti as Chelsea ace Joao Pedro returns after World Cup snub",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40334550/man-utd-matheus-cunha-axed-brazil-chelsea-joao-pedro/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-10T12:15:46+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Man Utd",
-        "given",
-        "star",
-        "Matheus",
-        "Cunha"
-      ],
-      "summary": "BRAZIL chief Carlo Ancelotti has brutally snubbed Matheus Cunha ahead of the international break - and called up Joao Pedro instead. The South American giants made a shock early exit from the World Cup after being dumped out by Norway in the last-16. And Ancelotti, 67, has given his squad a shake-up",
-      "summary_cn": ""
-    },
-    {
-      "title": "World’s biggest stadium with 115,000 capacity and cost £9BILLION to build ‘leaked’ as host of 2030 World Cup final",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40335896/morocco-spain-portugal-stadium-host-2030-world-cup-final/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-10T13:47:21+00:00",
-      "score": 28.0,
-      "keywords": [
-        "World",
-        "biggest",
-        "stadium",
-        "capacity",
-        "cost",
-        "build"
-      ],
-      "summary": "MOROCCO have seemingly leaked where they expect the 2030 World Cup final to be played, despite FIFA yet to make an official announcement. Royal Moroccan Football Federation president Fouzi Lekjaa has confidently claimed the Grand Stade Hassan II in Benslimane will host the biggest game in world foot",
-      "summary_cn": ""
-    },
-    {
-      "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-10T13:55:43+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Tottenham",
-        "make",
-        "case",
-        "being",
-        "stripped"
-      ],
-      "summary": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/10/kai-havertz-arsenal-max-rushden-comment",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-10T13:00:36+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Havertz",
-        "dummy",
-        "perhaps",
-        "pleasing",
-        "Lionel"
-      ],
-      "summary": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough abo",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal could inflict SECOND Serie A sacking of new season after just three games as Napoli ‘prepare to axe Max Allegri’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40335978/napoli-prepare-axe-massimiliano-allegri-arsenal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-10T14:10:48+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "inflict",
-        "SECOND",
-        "Serie",
-        "sacking",
-        "season"
-      ],
-      "summary": "MASSIMILIANO ALLEGRI is reportedly fighting to save his job at Napoli - after the giants' woeful start to the season continued. The Italian heavyweights suffered a 1-0 defeat to Arsenal in the Champions League on Wednesday. It came after Allegri, 59, steered Napoli to back-to-back Serie A defeats ag",
-      "summary_cn": ""
-    },
-    {
-      "title": "Wrexham star Elliot Lee reveals surreal Ryan Reynolds phonecall & warns West Ham face Championship shock",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40335639/elliot-lee-ryan-reynolds-phonecall-warns-west-ham-shock/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-10T13:26:28+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "Wrexham",
-        "star",
-        "Elliot",
-        "reveals",
-        "surreal"
-      ],
-      "summary": "ELLIOT LEE has warned his boyhood club West Ham that Hollywood-backed Wrexham are heading to London to deliver a brutal Championship reality check. The free-agent midfielder knows both clubs inside out after coming through the Hammers' youth ranks before driving Wrexham's sensational rise from non-l",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ex-Man City star sentenced to two years but dodges prison after cocaine addiction saw him scam pals out of £30,000",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40335296/man-city-eike-immel-dodges-prison-cocaine-scam/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-10T13:16:45+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
         "Man City",
+        "Man Utd",
         "City",
-        "star",
-        "sentenced",
-        "years"
+        "Premier"
       ],
-      "summary": "FORMER Manchester City star Eike Immel has dodged a prison sentence - after a court heard his cocaine addiction led him to scam pals out of £30,000. The German keeper spent two years with City, making 50 senior appearances before retiring in 1997. Immel, 65, won a Bundesliga title with Stuttgart and",
+      "summary": "PREMIER LEAGUE heavyweights Manchester United and Manchester City do battle in the first Manchester derby of the season at Old Trafford today. To celebrate, bookmaker Midnite have a special offer for the huge game, rewarding brand new customers who bet £10 on their sportsbook with £30 in free bets t",
       "summary_cn": ""
     },
     {
-      "title": "France wants to transform Fifa after withdrawing Infantino support",
+      "title": "Diletta Leotta puts on busty display in elegant black dress as she returns to screens for Champions League",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-10T13:04:31+00:00",
-      "score": 20.0,
-      "keywords": [
-        "France",
-        "wants",
-        "transform",
-        "Fifa",
-        "withdrawing",
-        "Infantino"
-      ],
-      "summary": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Awkward moment Jose Mourinho is forced to correct reporter on live TV after monumental Champions League error",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40335555/jose-mourinho-corrects-reporter-champions-league-error/",
+      "url": "https://www.thesun.co.uk/sport/40338673/diletta-leotta-champions-league-instagram/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-10T13:50:36+00:00",
+      "published": "2026-09-10T17:26:34+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Diletta",
+        "Leotta",
+        "puts",
+        "busty",
+        "display"
+      ],
+      "summary": "DILETTA LEOTTA has stunned fans with a busty display for her Champions League return. The TV presenter and wife of former Liverpool star Loris Karius regularly wows her followers. Diletta, 35, lives a glamorous lifestyle as a presenter for Dazn in Italy and as a model. She has built up an enormous f",
+      "summary_cn": ""
+    },
+    {
+      "title": "Joshua's driver in fatal car crash has trial adjourned",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13584095/anthony-joshua-car-crash",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-10T18:19:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Awkward",
-        "moment",
-        "Jose",
-        "Mourinho",
-        "forced",
-        "correct"
+        "Joshua",
+        "driver",
+        "fatal",
+        "crash",
+        "trial",
+        "adjourned"
       ],
-      "summary": "JOSE MOURINHO had to awkwardly correct a TV reporter mid-interview after his first Champions League win back at Real Madrid. The Portuguese boss oversaw Real's 2-1 win over Inter, courtesy of goals from Kylian Mbappe and Federico Valverde. After the game, a journalist interviewing the Special One fo",
+      "summary": "The trial of Adeniyi Mobolaji Kayode, the driver involved in the&#160;crash that injured boxer Anthony Joshua and killed two members of his team, has been adjourned until November 17.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Europa League team forced to stay in another COUNTRY for Uefa match due to clash with major sporting event",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40337690/stade-rennais-slovenia-hotel-europa-league-sturm-graz/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-10T16:17:04+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Europa",
+        "League",
+        "team",
+        "forced",
+        "stay",
+        "another"
+      ],
+      "summary": "STADE RENNAIS have been forced to stay in Slovenia ahead of their Europa League clash against Austrian side Sturm Graz due to a lack of hotel rooms. The French outfit travel to Austria next week for the opening match of their European campaign. The team were due to book accommodation in the Austrian",
       "summary_cn": ""
     }
   ]
