@@ -1,360 +1,421 @@
 {
-  "updated_at": "2026-09-13T16:05:53.748688+00:00",
+  "updated_at": "2026-09-13T19:17:48.344712+00:00",
   "items": [
     {
-      "title": "Manchester United v Manchester City: Premier League – live",
+      "title": "Keane disagrees with Foden red card as pundits criticise Fernandes' role",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "source": "The Guardian",
+      "url": "https://www.skysports.com/football/news/12040/13585509/phil-foden-sent-off-in-manchester-derby-bruno-fernandes-role-criticised-by-roy-keane-and-micah-richards",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-13T15:58:51+00:00",
-      "score": 31.0,
+      "published": "2026-09-13T17:54:00+00:00",
+      "score": 39.0,
       "keywords": [
-        "Brighton",
+        "Man City",
+        "Man Utd",
+        "Phil Foden",
+        "Roy Keane",
+        "Fernandes",
+        "Bruno Fernandes"
+      ],
+      "summary": "Roy Keane believes Phil Foden should not have been sent off in the Manchester derby and criticised Man Utd captain Bruno Fernandes' role in the Man City forward's red card.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Neville: Officials got Haaland winner wrong - Man Utd can expect apology",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13585530/gary-neville-man-utd-can-expect-apology-from-pro-ref-for-erling-haalands-winner-in-manchester-derby",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-13T18:15:00+00:00",
+      "score": 39.0,
+      "keywords": [
         "Manchester City",
         "Manchester United",
-        "Lewis Dunk",
-        "Manchester",
-        "United"
+        "Man Utd",
+        "Haaland",
+        "Neville",
+        "Gary Neville"
       ],
-      "summary": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Dunk showstopper helps Brighton rout Coventry ⚽️ Today’s scores | Drop Rob an email Brighton’s fourth goal was a screamer from Lewis Dunk , of all people, prompting this email from Steve Bradfield. Is Brighton’s fourth goal a slam Dunk for goal of month",
+      "summary": "Gary Neville believes the VAR officials were \"wrong\" to award Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
       "summary_cn": ""
     },
     {
-      "title": "Lewis Dunk’s showstopper helps five-star Brighton to rout 10-man Coventry",
+      "title": "Carrick 'baffled' by decision to award controversial Man City goal",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ceq81nz02ddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-13T15:10:47+00:00",
+      "published": "2026-09-13T18:13:04+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Manchester United",
+        "Man City",
+        "Michael Carrick",
+        "Haaland",
+        "Erling Haaland",
+        "Carrick"
+      ],
+      "summary": "Manchester United manager Michael Carrick was unhappy with the match officials for the decision to award Erling Haaland's controversial goal in the Manchester derby.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Haaland scores controversial derby winner for Man City after Foden red",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/manchester-united-vs-manchester-city/report/559481",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-13T18:30:00+00:00",
       "score": 31.0,
       "keywords": [
-        "Brighton",
-        "Lewis Dunk",
-        "Lampard",
-        "Frank Lampard",
-        "Lewis",
-        "Dunk"
+        "Manchester City",
+        "Man City",
+        "Haaland",
+        "Phil Foden",
+        "Erling Haaland",
+        "Foden"
       ],
-      "summary": "The bare statistic is bleak: Coventry City are only the second team in Premier League history to lose their first four games of the season without scoring in any of them. “And yet …” will be the enduring message from Frank Lampard. And yet they have caused problems for opposition teams – even at poi",
+      "summary": "Erling Haaland's contentious winner earned 10-man Manchester City a derby win over rivals United at Old Trafford - after Phil Foden's controversial first-half red card.",
       "summary_cn": ""
     },
     {
-      "title": "Phil Foden sent off for moment of madness in Manchester derby as England star lashes out at Bruno Fernandes",
+      "title": "'Superb strike' - Fowler doubles Man City's lead against Aston Villa",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40367697/phil-foden-sent-off-man-city-united-bruno-fernandes/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/watch/video/13585558/mary-fowler-doubles-man-citys-lead-against-aston-villa",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-13T15:57:52+00:00",
+      "published": "2026-09-13T19:09:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Man City",
+        "Fowler",
+        "Superb",
+        "strike",
+        "doubles"
+      ],
+      "summary": "Mary Fowler doubles Man City's lead with a superb strike against Aston Villa.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Was Haaland's winner a VAR error? Man Utd fury at 'injustice'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-13T19:13:19+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Manchester United",
+        "Man Utd",
+        "Haaland",
+        "Erling Haaland",
+        "winner"
+      ],
+      "summary": "Manchester City celebrate a remarkable derby win over Manchester United but questions remain over whether Erling Haaland's winning goal should have stood in a match fraught with controversy.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Haaland scores controversial winner as Man City win derby despite Foden red",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-13T19:06:08+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Manchester United",
+        "Man City",
+        "Haaland",
+        "Erling Haaland",
+        "Foden"
+      ],
+      "summary": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Foden sees red as Mainoo impresses - Manchester derby ratings",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2kwpk5zy23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-13T17:27:07+00:00",
       "score": 31.0,
       "keywords": [
         "Manchester City",
         "Manchester United",
         "Foden",
-        "Fernandes",
+        "sees",
+        "Mainoo",
+        "impresses"
+      ],
+      "summary": "How Manchester United and Manchester City players rated in the derby clash at Old Trafford.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fernandes and Foden should have been sent off - Maresca",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj061413lmqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-13T18:26:24+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Manchester United",
         "Phil Foden",
-        "Bruno Fernandes"
+        "Fernandes",
+        "Bruno Fernandes",
+        "Foden"
       ],
-      "summary": "PHIL FODEN was sent off for Manchester City against rivals Manchester United after kicking out at Bruno Fernandes. The Manchester Derby was only in the 22nd minute when Foden was dismissed after reacting angrily to a challenge from the United playmaker. Fernandes bundled Foden over initially, which ",
+      "summary": "Enzo Maresca believes both Phil Foden and Bruno Fernandes should have been sent off in Manchester City's derby victory against Manchester United.",
       "summary_cn": ""
     },
     {
-      "title": "Coventry 0 Brighton 5: Lampard’s side still yet to score as ruthless Seagulls make them pay for controversial red card",
+      "title": "Manchester City recover from Foden red card as Haaland wins derby at United",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40366761/coventry-lose-brighton-match-report-frank-lampard/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-13T14:54:33+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brighton",
-        "Lampard",
-        "Frank Lampard",
-        "Coventry",
-        "side",
-        "still"
-      ],
-      "summary": "COVENTRY’S horror start to the season continued against rampant Brighton as they equalled a 107-YEAR record and continued their dreadful drought in front of goal. Frank Lampard’s side have now lost all four of their opening games, becoming the first Coventry side to do so since their very first leag",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal wonderkid Marli Salmon, 17, braced for Carabao Cup bow after Ben White injury as Arteta faces selection dilemma",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40366117/arsenal-marli-salmon-set-cup-debut-after-ben-white-injury/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-13T14:08:59+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Ipswich",
-        "Arteta",
-        "wonderkid",
-        "Marli",
-        "Salmon"
-      ],
-      "summary": "ARSENAL wonderkid Marli Salmon could be handed a surprise Carabao Cup start after Ben White picked up a groin problem. SunSport understands White will be assessed ahead of Tuesday night's trip to Ipswich after being forced off at half-time during yesterday's 2-0 win over Sunderland. Jurrien Timber r",
-      "summary_cn": ""
-    },
-    {
-      "title": "Woad claims vital Solheim Cup point for Europe to spark victory celebrations!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13585434/solheim-cup-lottie-woad-claims-vital-point-for-europe-to-spark-victory-celebrations",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-13T15:48:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "green",
-        "Woad",
-        "claims",
-        "vital",
-        "Solheim",
-        "point"
-      ],
-      "summary": "Lottie Woad moved Team Europe on the brink of Solheim Cup glory with an impressive victory over Auston Kim, sparking wild celebrations on the 17th green.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Spaniards collide! Sainz handed five-second penalty for Alonso crash",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13585393/spanish-grand-prix-carlos-sainz-handed-five-second-penalty-for-fernando-alonso-crash",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-13T14:46:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "given",
-        "Spaniards",
-        "collide",
-        "Sainz",
-        "handed",
-        "five"
-      ],
-      "summary": "Carlos Sainz was given a five-second time penalty for causing a collision with Fernando Alonso.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Valencia sack Corberan and chief executive",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly43w61lnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-13T15:21:18+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Valencia",
-        "sack",
-        "Corberan",
-        "chief",
-        "executive"
-      ],
-      "summary": "Valencia sack head coach Carlos Corberan and their football chief executive Ron Gourlay after a winless start to the season.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Off The Ball with Tam & Stuart",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/m0031gwn?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-13T16:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Stuart",
-        "Ball"
-      ],
-      "summary": "The most petty and ill-informed football show on radio.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/13/cristiano-ronaldo-diogo-jota-ruben-neves-chants-saudi-pro-league",
+      "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-13T14:52:54+00:00",
-      "score": 26.0,
+      "published": "2026-09-13T17:32:15+00:00",
+      "score": 31.0,
       "keywords": [
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Cristiano",
-        "calls",
-        "lifetime",
-        "bans"
+        "Manchester City",
+        "Haaland",
+        "Erling Haaland",
+        "Foden",
+        "Manchester",
+        "City"
       ],
-      "summary": "Al-Hilal’s Rúben Neves subjected to chants at Al-Taawoun Neves was close friend of Jota and pallbearer at funeral Cristiano Ronaldo said that fans who appeared to ⁠make chants referencing his former teammate Diogo Jota at Rúben Neves during a Saudi ⁠Pro League ⁠match ​should be banned for life from ",
+      "summary": "“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández who after a star role in a memorable victory surely has instant cult hero status. This 199th derby was won by Erling Haaland’s ninth strike in the fixture but the visitors’ totem was their new No 17. He wa",
       "summary_cn": ""
     },
     {
-      "title": "Valencia rip up former Championship manager’s contract as fallen European giants’ demise hits worrying new low",
+      "title": "Three things we learned from Man Utd defeat to Man City as transfer issue becomes clear and Fernandes theatrics fail",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40366861/valencia-sack-carlos-corberan-championship-manager-barcelona-la-liga/",
+      "url": "https://www.thesun.co.uk/sport/40368926/man-utd-defeat-man-city-transfer-fernandes-theatrics-learned/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-13T15:30:55+00:00",
-      "score": 26.0,
+      "published": "2026-09-13T18:54:03+00:00",
+      "score": 31.0,
       "keywords": [
-        "Valencia",
-        "former",
-        "Championship",
-        "manager",
-        "contract",
-        "fallen"
+        "Manchester United",
+        "Man City",
+        "Man Utd",
+        "Haaland",
+        "Phil Foden",
+        "Fernandes"
       ],
-      "summary": "VALENCIA have sacked former Championship boss Carlos Corberán as the fallen Spanish giants' nightmare continues. Corberan took Huddersfield and West Brom to the play-offs in 2022 and 2024, and served as Marcelo Bielsa's assistant at Leeds. The Spanish giants have also terminated the contract of foot",
+      "summary": "MANCHESTER UNITED played 70 minutes against ten men in their derby clash with Man City and still left with nothing. A Phil Foden red card isn't even the main talking point after the Manchester derby - it's should Erling Haaland's winning goal have stood? Even so, United played better while they were",
       "summary_cn": ""
     },
     {
-      "title": "Nathan Jones is right. Ditch the Nations League, trim the Championship to 20 teams and stop treating players like robots",
+      "title": "Furious Michael Carrick blasts ‘staggering’ explanation given as to why Haaland winner vs Man Utd wasn’t chalked off",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40365195/nathan-jones-efl-fixture-madness-nations-league/",
+      "url": "https://www.thesun.co.uk/sport/40369029/michael-carrick-blasts-explanation-city-haaland-winner-man-utd/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-13T15:14:47+00:00",
-      "score": 26.0,
+      "published": "2026-09-13T18:52:36+00:00",
+      "score": 31.0,
       "keywords": [
-        "Jones",
-        "Charlton",
-        "Nathan",
-        "right",
-        "Ditch",
-        "Nations"
+        "Manchester City",
+        "Man Utd",
+        "Michael Carrick",
+        "Haaland",
+        "given",
+        "Erling Haaland"
       ],
-      "summary": "NATHAN JONES is right — international breaks are out of control. The Charlton boss has never been one to hide his feelings but, as domestic football grinds to yet another halt, his fiery warnings over player welfare are impossible to ignore. We have only just had a bloated World Cup that stretched a",
+      "summary": "LIVID Michael Carrick fumed at the controversial call to overturn Manchester City's offside decision. City talisman Erling Haaland notched his fourth Premier League goal this season after his effort rippled into the back of the net. While the linesman drew it as offside, VAR reviewed the footage and",
       "summary_cn": ""
     },
     {
-      "title": "Brighton hit FIVE to leave Coventry without point or goal",
+      "title": "Man Utd ratings: Diogo Dalot and Patrick Dorgu prove costly at the back as Kobbie Mainoo impressive in the middle",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/coventry-city-vs-brighton-and-hove-albion/report/559477",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-13T16:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "FIVE",
-        "leave",
-        "Coventry",
-        "without",
-        "point"
-      ],
-      "summary": "Coventry remain pointless on their Premier League return as they were dismantled 5-0 by brilliant Brighton at the CBS Arena.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Hundreds of Man Utd fans protest against owners Glazers and Sir Jim Ratcliffe after Red Devils ‘crossed a line’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40366862/man-utd-glazers-sir-jim-ratcliffe-man-city-derby/",
+      "url": "https://www.thesun.co.uk/sport/40368707/man-utd-ratings-city-dalot-dorgu-mainoo/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-13T15:10:14+00:00",
-      "score": 25.0,
+      "published": "2026-09-13T18:11:50+00:00",
+      "score": 31.0,
       "keywords": [
         "Manchester City",
         "Manchester United",
         "Man Utd",
-        "Hundreds",
-        "fans",
-        "protest"
+        "Haaland",
+        "Erling Haaland",
+        "ratings"
       ],
-      "summary": "HUNDREDS of furious Manchester United fans have gathered outside Old Trafford to protest against the club's owners ahead of the Manchester derby. Supporters carrying protest banners descended on the stadium before Sunday's huge clash with Manchester City. The latest demonstration is aimed at the Gla",
+      "summary": "MANCHESTER UNITED were handed a controversial 1-0 home defeat by ten-man Manchester City after Erling Haaland's goal was bizarrely awarded. Haaland looked well offside when he tapped home from Josko Gvardiol's crossed but it was deemed Patrick Dorgu's boot played him on. Enzo Fernandez was also deem",
       "summary_cn": ""
     },
     {
-      "title": "‘What are they thinking’ – Horror Coventry vs Brighton kit clash making fans ‘want to turn it off’",
+      "title": "Gary Neville trolls Noel Gallagher live on Sky Sports in Manchester derby… but made to eat his words within minutes",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40366384/coventry-brighton-kit-clash-fans-premier-league-tv/",
+      "url": "https://www.thesun.co.uk/sport/40368511/gary-neville-trolls-noel-gallagher-sky-sports-manchester/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-13T14:26:50+00:00",
+      "published": "2026-09-13T17:45:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man United",
+        "Haaland",
+        "Neville",
+        "Erling Haaland",
+        "Gary Neville",
+        "Gary"
+      ],
+      "summary": "GARY NEVILLE couldn't resist a trolling pun when Noel Gallagher was forced to cut his celebration short for Erling Haaland's goal against Man United. Initially, the back-post effort was ruled offside, meaning the Oasis member had to stop his wild celebrations in his tracks. Neville remarked: \"Don't ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd 0 Man City 1: Erling Haaland’s hugely controversial winner the difference after Foden sent off for lashing out",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40368621/man-utd-man-city-report-haaland-foden-red/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-13T17:29:03+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Man City",
+        "Man Utd",
+        "Haaland",
+        "Erling Haaland",
+        "Foden"
+      ],
+      "summary": "THERE are games that define a season and a team. Matches that bring a sense of belief and conviction, results that are bigger than the points they earn. Famously, Arsenal’s “Invincibles” looked back with their 10-man goalless draw at Old Trafford at the start of that remarkable campaign. And if Enzo",
+      "summary_cn": ""
+    },
+    {
+      "title": "Premier League release statement on Erling Haaland goal with fans convinced offside rule not applied correctly",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40368597/premier-league-statement-erling-haaland-goal-offside-fury/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-13T17:22:12+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Haaland",
+        "Erling Haaland",
+        "Premier",
+        "League",
+        "release",
+        "statement"
+      ],
+      "summary": "THE Premier League was forced to make a statement to explain how Erling Haaland's controversial goal was ruled onside in the Manchester derby. The City striker bundled the ball into the back of the net on the hour mark, before it was quickly ruled offside. Soon after, VAR reviewed the footage and ov",
+      "summary_cn": ""
+    },
+    {
+      "title": "SNL UK do Weekly Update US Open special",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13585559/snl-uk-do-weekly-update-us-open-special",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-13T19:10:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Young",
+        "Weekly",
+        "Update",
+        "Open",
+        "special"
+      ],
+      "summary": "SNL UK's Ania Magliano and Paddy Young make a Weekly Update US Open special, including segments from Jeff Goldblum and Carlos Alcaraz's nipple...",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Bruno’s the violent one!’ - Keane and Micah DEBATE Foden red",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13585506/man-utd-vs-man-city-roy-keane-and-micah-richards-debate-phil-foden-red-bruno-fernandes-is-the-violent-one",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-13T17:33:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Phil Foden",
+        "Roy Keane",
+        "Keane",
+        "Foden",
+        "Bruno",
+        "violent"
+      ],
+      "summary": "Roy Keane and Micah Richards debate the Phil Foden red card.",
+      "summary_cn": ""
+    },
+    {
+      "title": "European football: Lamine Yamal keeps Barcelona perfect, Leipzig rout Hamburg",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-13T17:21:35+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Valencia",
+        "European",
+        "football",
+        "Lamine",
+        "Yamal",
+        "keeps"
+      ],
+      "summary": "Teenager hits two in 4-2 victory at Levante Lepizig smash five past struggling Hamburg Barcelona continued their perfect start to the ⁠season with a hard-fought 4-2 La Liga victory over Levante in Valencia ⁠on Sunday. Levante ⁠found ​themselves two goals down within 19 minutes after swift play from ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wayne Rooney ‘gearing up’ for public war after ex-teammate Andy Carroll releases bombshell autobiography",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40368270/wayne-rooney-andy-carroll-book-war/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-13T18:00:13+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Vardy",
+        "Wayne Rooney",
+        "Andy Carroll",
+        "Rooney",
+        "Carroll",
+        "Wayne"
+      ],
+      "summary": "WAYNE ROONEY appears to be facing his own version of the Wagatha Christie saga. But while the former footie ace’s wife Coleen faced off with fellow Wag Rebekah Vardy, Wayne appears to be gearing up for a rather public war of words with his old England teammate Andy Carroll. In his new autobiography,",
+      "summary_cn": ""
+    },
+    {
+      "title": "'A HUGE error!' - Okuma gifts Man City the opener against Villa!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13585549/aston-villa-vs-manchester-city-akane-okuma-gifts-manchester-city-the-opener-against-aston-villa",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-13T18:50:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester City",
+        "Man City",
+        "HUGE",
+        "error",
+        "Okuma"
+      ],
+      "summary": "Take a look as Akane Okuma's error gifted Manchester City the opener against Aston Villa.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Dunk scores screamer as Brighton thrash 10-man Coventry",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cly7408jg0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-13T19:00:21+00:00",
       "score": 25.0,
       "keywords": [
         "Brighton",
-        "thinking",
-        "Horror",
-        "Coventry",
-        "clash",
-        "making"
+        "Dunk",
+        "scores",
+        "screamer",
+        "thrash",
+        "Coventry"
       ],
-      "summary": "SKY SPORTS' Super Sunday coverage did not start as they might have expected after fans slated a kit clash in the early kick-off. Coventry hosted Brighton but a lot of fans couldn't tell who was who, with questions being asked of Premier League organisers. Brighton's new third kit, featuring a solid ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal ‘monitoring’ Como star Nico Paz but Real Madrid hold first refusal on £68.7million January transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40366187/arsenal-nico-paz-real-madrid-cesc-fabregas-bernabeu/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-13T14:15:10+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "monitoring",
-        "Como",
-        "star",
-        "Nico",
-        "Real"
-      ],
-      "summary": "ARSENAL are reportedly monitoring Como star Nico Paz ahead of a potential January swoop. But the Gunners could face a major obstacle in their pursuit of the highly-rated Argentina international, with Real Madrid retaining significant control over his future. Paz, 22, has established himself as one o",
-      "summary_cn": ""
-    },
-    {
-      "title": "Crystal Palace must sort out their leaky defence or face relegation as Pierre Sage issues rallying cry to his players",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40365864/crystal-palace-face-relegation-leaky-defence/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-13T14:14:02+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Crystal",
-        "Palace",
-        "must",
-        "sort",
-        "leaky"
-      ],
-      "summary": "AFTER just four Premier League games it is Crystal clear that Palace must sort out their leaky defence - or face relegation. The Eagles have been flying high over the last two seasons with historic FA Cup and Conference League victories. Those title-winning cup runs were built on a solid foundation ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Sam Surridge in stoppage time denies Messi and Miami a win: MLS roundup",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/13/mls-lionel-messi-nashville-sc-sporting-kc-antoine-griezmann",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-13T15:44:15+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Surridge",
-        "stoppage",
-        "time",
-        "denies",
-        "Messi",
-        "Miami"
-      ],
-      "summary": "Sporting KC end a long winless run v LAFC Charlotte and Cincy play a six-goal thriller Griezmann on target in Orlando City win Sam Surridge scored an equalizer in the first minute of second-half stoppage time for visiting Nashville SC, ⁠who played Inter Miami to a 2-2 draw on Saturday evening. Surri",
-      "summary_cn": ""
-    },
-    {
-      "title": "Preston sack manager Paul Heckingbottom after woeful start to Championship season sees them in relegation zone",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40366500/preston-sack-paul-heckingbottom-woeful-championship-start/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-13T14:13:34+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Preston",
-        "sack",
-        "manager",
-        "Paul",
-        "Heckingbottom",
-        "woeful"
-      ],
-      "summary": "PRESTON North End have parted ways with boss Paul Heckingbottom. The Championship side lost 1-0 to Lincoln City on Saturday, making it six defeats in seven games. Heckingbottom - the first Championship sacking of the season - will leave Deepdale after their woeful start left them second-bottom in th",
+      "summary": "Coventry's poor start to the Premier League season continues after they're thrashed 5-0 at home to Brighton, having played most of the second half with ten men after having Taiwo Awoniyi sent off at the CBS Arena.",
       "summary_cn": ""
     }
   ]
