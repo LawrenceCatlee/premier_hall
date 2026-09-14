@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "'Why not have go?!' - Dunk's wonder goal against Coventry",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgyree8zpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-13T22:59:21+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brighton",
+        "Lewis Dunk",
+        "Murphy",
+        "Rooney",
+        "Wayne Rooney",
+        "Danny Murphy"
+      ],
+      "summary": "Match of the Day pundits Danny Murphy and Wayne Rooney take a look at Lewis Dunk's incredible long-range strike in Brighton's 5-0 win against Coventry, praising the defender for his technique.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-14T00:54:18.234404+00:00"
+    },
+    {
+      "title": "OUCH! Cameraman taken out in Packers-Vikings game!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13585646/nfl-cameraman-taken-out-in-packers-vikings-game",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-13T22:56:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Green",
+        "OUCH",
+        "Cameraman",
+        "taken",
+        "Packers",
+        "Vikings"
+      ],
+      "summary": "A cameraman was wiped out in the first quarter of Green Bay's NFL clash at Minnesota!",
+      "summary_cn": "",
+      "fetched_at": "2026-09-14T00:54:18.234404+00:00"
+    },
+    {
+      "title": "Getting goal decision so wrong is 'baffling' - Rooney",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w4755n70wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-13T22:59:17+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Murphy",
+        "Foden",
+        "Rooney",
+        "Erling Haaland",
+        "Phil Foden",
+        "Wayne Rooney"
+      ],
+      "summary": "Match of the Day pundits Wayne Rooney and Danny Murphy finds it \"baffling\" that Erling Haaland's winning goal in the Manchester derby was not ruled out by VAR, but think Phil Foden's red card was the correct decision.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-14T00:54:18.234404+00:00"
+    },
+    {
       "title": "Man Utd vs Man City officials were ordered to get Haaland decision WRONG – something’s seriously off with VAR",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40369578/man-utd-man-city-haaland-var-decision-wrong/",
@@ -39627,66 +39687,6 @@
         "Courteeners"
       ],
       "summary": "BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend of the new Premier League season.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-21T06:58:55.701356+00:00"
-    },
-    {
-      "title": "Spurs agree £75m deal to sign Man City's Savinho",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-21T06:30:48+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Tottenham",
-        "Man City",
-        "Spurs",
-        "agree",
-        "deal"
-      ],
-      "summary": "Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-21T06:58:55.701356+00:00"
-    },
-    {
-      "title": "Tottenham agree £85m deal with Man City for Brazil winger Savinho as talks for Marmoush continue",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40123260/tottenham-man-city-savinho-omar-marmoush-transfer-news/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T05:56:03+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Tottenham",
-        "Man City",
-        "Spurs",
-        "agree",
-        "deal"
-      ],
-      "summary": "TOTTENHAM have struck an £85million deal with Manchester City for Savinho. City only paid £30.8m to sign Savinho from City Football Group-owned Troyes in 2024. And the Brazilian winger, 22, has hardly set the world alight, with just two goals in his 53 Premier League appearances. But Spurs have agre",
-      "summary_cn": "",
-      "fetched_at": "2026-08-21T06:58:55.701356+00:00"
-    },
-    {
-      "title": "Swiatek to face Pegula in Cincinnati Open semis after Rybakina injury",
-      "title_cn": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13575234/cincinnati-open-iga-swiatek-to-face-jessica-pegula-in-semi-finals-after-elena-rybakina-suffers-injury",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-21T06:13:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Swiatek",
-        "face",
-        "Pegula",
-        "Cincinnati",
-        "Open",
-        "semis"
-      ],
-      "summary": "Elena Rybakina was forced to retire from her quarter-final against Iga Swiatek at the Cincinnati Open due to an ankle injury.",
       "summary_cn": "",
       "fetched_at": "2026-08-21T06:58:55.701356+00:00"
     }
