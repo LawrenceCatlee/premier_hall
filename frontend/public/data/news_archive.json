@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "Man City maintain perfect WSL start with win at Villa",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c86x0e0v042o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-14T05:12:52+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester City",
+        "Man City",
+        "City",
+        "maintain",
+        "perfect"
+      ],
+      "summary": "Manchester City become the only side to win both of their opening two Women's Super League fixtures with an impressive performance against Aston Villa.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-14T06:01:56.477556+00:00"
+    },
+    {
+      "title": "'Pietersen will add spark' as he begins England white-ball coaching role",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13585312/kevin-pietersen-buzzing-at-england-white-ball-coaching-role-as-specialist-mentor-says-marcus-trescothick",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-14T06:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Pietersen",
+        "spark",
+        "begins",
+        "England",
+        "white",
+        "ball"
+      ],
+      "summary": "Kevin Pietersen is &#8220;buzzing&#8221; to be back with the England set-up, having joined the white-ball coaching staff for the series against Sri Lanka, according to interim head coach Marcus Trescothick.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-14T06:01:56.477556+00:00"
+    },
+    {
+      "title": "Flex your football brain with our daily quizzes",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq82914rdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-14T05:46:04+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Flex",
+        "football",
+        "brain",
+        "daily",
+        "quizzes"
+      ],
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-14T06:01:56.477556+00:00"
+    },
+    {
       "title": "'Why not have go?!' - Dunk's wonder goal against Coventry",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/videos/cvgyree8zpro?at_medium=RSS&at_campaign=rss",
@@ -39629,66 +39688,6 @@
       "summary": "BRENTFORD host Tottenham in an all-London clash in the Premier League's first Saturday teatime clash this week. New PricedUp customers can claim £20 in free bets to use on football this week when betting on the game! Punters who register using promo code ACCA20, deposit at least £10 and place a £40 ",
       "summary_cn": "",
       "fetched_at": "2026-08-21T07:52:15.968335+00:00"
-    },
-    {
-      "title": "Arsenal vs Coventry: Get £20 in football free bets for Premier League opener with PricedUp",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40093129/arsenal-coventry-football-free-bets-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-21T07:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Coventry",
-        "football",
-        "free",
-        "bets",
-        "Premier"
-      ],
-      "summary": "ARSENAL begin the defence of their Premier League title against new boys Coventry City on Friday night. New customers who register an account with PricedUp using promo code ACCA20, deposit at least £10 and place a £40 pre-match sportsbook bet at minimum odds of Evens within 24 hours of signing up wi",
-      "summary_cn": "",
-      "fetched_at": "2026-08-21T07:52:15.968335+00:00"
-    },
-    {
-      "title": "Inverness dream big after dark days - watch Partick Thistle match on BBC",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87nz9dwlddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-21T07:19:37+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Inverness",
-        "dream",
-        "dark",
-        "days",
-        "watch",
-        "Partick"
-      ],
-      "summary": "Inverness Caledonian Thistle have been through a lot in 12 months and now harbour ambitions of returning to the top flight. Watch their Friday BBC Scotland live match with Partick Thistle.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-21T07:52:15.968335+00:00"
-    },
-    {
-      "title": "Sutton's opening weekend predictions v Courteeners frontman Liam Fray",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-21T06:46:11+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Sutton",
-        "Chris Sutton",
-        "opening",
-        "weekend",
-        "predictions",
-        "Courteeners"
-      ],
-      "summary": "BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend of the new Premier League season.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-21T06:58:55.701356+00:00"
     }
   ]
 }
