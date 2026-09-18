@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "title": "Leaden, stale, disheartening - where do Celtic & O'Neill go from here?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-17T23:51:07+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Neill",
+        "Leaden",
+        "stale",
+        "disheartening",
+        "Celtic"
+      ],
+      "summary": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-18T01:12:00.109513+00:00"
+    },
+    {
+      "title": "From -17 points to dream European start for Bournemouth",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-17T23:30:34+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Bournemouth",
+        "points",
+        "dream",
+        "European",
+        "start"
+      ],
+      "summary": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-18T01:12:00.109513+00:00"
+    },
+    {
       "title": "Gary O’Neil shares heartbreaking statement announcing death of his ‘incredible’ dad as Ipswich lead tributes",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40414515/gary-oneil-dad-dead-heartbreaking-tribute-ipswich/",
@@ -39661,46 +39699,6 @@
       "summary": "Usain Bolt is registered to play for a Sunday league team in Manchester, with the Olympic champion set to make another foray into football.",
       "summary_cn": "",
       "fetched_at": "2026-08-22T17:27:22.478891+00:00"
-    },
-    {
-      "title": "‘Goal of the season already’ – EFL star scores Puskas contender with outrageous backheeled volley into top bins",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40138775/efl-star-puskas-contender-backheeled-volley-bristol-birmingham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-22T16:52:03+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Goal",
-        "season",
-        "already",
-        "star",
-        "scores",
-        "Puskas"
-      ],
-      "summary": "BRISTOL CITY striker Dom Ballard scored a Puskas Award contender in the late stages of a Championship thriller against Birmingham. The 21-year-old sent a backheeled volley flying into the top-left corner in the 85th minute of the match to put City 2-1 up at St Andrew's. Ballard pounced onto a cross ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-22T17:27:22.478891+00:00"
-    },
-    {
-      "title": "Everton outclass wasteful Palace in Premier League opener",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-22T17:05:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Crystal Palace",
-        "Everton",
-        "Barry",
-        "outclass",
-        "wasteful",
-        "Palace"
-      ],
-      "summary": "Everton made a winning start to the new Premier League campaign by beating Crystal Palace 2-0 thanks to classy goals from Kiernan Dewsbury-Hall and Thierno Barry.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-22T16:33:03.025685+00:00"
     }
   ]
 }
