@@ -1,306 +1,401 @@
 {
-  "updated_at": "2026-09-18T17:02:31.780122+00:00",
+  "updated_at": "2026-09-18T20:48:15.320790+00:00",
   "items": [
     {
-      "title": "England recalls for Alexander-Arnold and Palmer; Carrick dismisses ‘ridiculous’ speculation – live",
+      "title": "'What a disaster' - Frisk own goal and Hemp strike seal comeback win",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "source": "The Guardian",
+      "url": "https://www.skysports.com/watch/video/13589482/wsl-grace-frisk-own-goal-and-lauren-hemp-strike-seal-comeback-win",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-18T16:48:31+00:00",
+      "published": "2026-09-18T20:59:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester City",
+        "disaster",
+        "Frisk",
+        "goal",
+        "Hemp"
+      ],
+      "summary": "Grace Fisk scored a late own goal and Lauren Hemp struck in the 95th minute as Manchester City completed the comeback win against Liverpool in the WSL.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tuchel admits Maguire World Cup snub reaction left career in tatters & Trent warned final chance to prove he can defend",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40425326/tuchel-maguire-world-cup-snub-trent-final-chance/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-18T20:17:45+00:00",
       "score": 31.0,
       "keywords": [
+        "Chelsea",
         "Trent Alexander-Arnold",
         "Alexander-Arnold",
-        "Carrick",
-        "Palmer",
-        "Phil Foden",
-        "Foden"
+        "Harry Maguire",
+        "Maguire",
+        "Palmer"
       ],
-      "summary": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email John with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
+      "summary": "THOMAS TUCHEL has handed Trent Alexander-Arnold a final chance to prove he should be a part of England’s future. But outcast Harry Maguire was told he had effectively wrecked his chances of playing under the Three Lions boss. Real Madrid right-back Alexander-Arnold and Chelsea forward Cole Palmer we",
       "summary_cn": ""
     },
     {
-      "title": "Morgan Gibbs-White’s glam Wag Britney De Villiers appears to slam Thomas Tuchel over latest England squad snub",
+      "title": "Coventry conned me into believing they’d survive.. they’ll go down for not signing some big, ugly b******s in summer",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40423105/gibbs-white-wag-villiers-thomas-tuchel-england-snub/",
+      "url": "https://www.thesun.co.uk/sport/40425357/coventry-troy-deeney-frank-lampard-premier-league-chelsea/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-18T16:40:20+00:00",
+      "published": "2026-09-18T19:58:26+00:00",
       "score": 31.0,
-      "keywords": [
-        "Nottingham Forest",
-        "Forest",
-        "Palmer",
-        "Morgan",
-        "Gibbs",
-        "White"
-      ],
-      "summary": "MORGAN GIBBS-WHITE's Wag has appeared to take aim at Thomas Tuchel following his England snub. The Nottingham Forest midfielder, 26, was harshly left out of the German tactician's 27-man squad for four Nations League clashes in the coming weeks. Fans were fuming with the decision, with Cole Palmer, ",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Wow, I think you exaggerate’ – Mario Balotelli fires back at James Milner after ex-Man City mate’s dressing room dig",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40422398/mario-balotelli-james-milner-manchester-city-uae/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-18T15:33:22+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "James Milner",
-        "James",
-        "Milner",
-        "think"
-      ],
-      "summary": "MARIO BALOTELLI has hit back at former Manchester City team-mate James Milner after the ex-England star compared him to an 11-year-old. Milner opened up about what it was like sharing a dressing room with the Italian during an appearance on The Good, The Bad and The Football podcast. And his descrip",
-      "summary_cn": ""
-    },
-    {
-      "title": "Will Celtic ease the pressure or Rangers narrow the gap?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13589047/celtic-vs-rangers-old-firm-talking-points-ahead-first-premiership-clash-of-season-live-on-sky-sports-on-sunday",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-18T16:25:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Neill",
-        "Celtic",
-        "ease",
-        "pressure",
-        "Rangers",
-        "narrow"
-      ],
-      "summary": "Will Derek McInnes complete the double against Celtic, or can Martin O'Neill recover from a nightmare week to move eight points clear of Rangers?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm750e2ek0n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-18T16:40:11+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "Uefa",
-        "rejected",
-        "request",
-        "keep",
-        "Republic"
-      ],
-      "summary": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Celtic seek spark as Rangers aim for further derby joy",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9x8k9294jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-18T16:15:47+00:00",
-      "score": 26.0,
       "keywords": [
         "matic",
-        "Celtic",
-        "seek",
-        "spark",
-        "Rangers",
-        "further"
+        "Coventry",
+        "conned",
+        "believing",
+        "survive",
+        "down"
       ],
-      "summary": "Early season momentum has shifted dramatically going into the first Old Firm league derby of the season on Sunday at Celtic Park.",
+      "summary": "COVENTRY impressed me so much over the summer — but after all their talk, I now feel like I’ve been lied to. There was so much chat after their promotion about being pragmatic, adapting to opponents — and that meant I tipped them to stay up. Their start, four Premier League games without a point,...",
       "summary_cn": ""
     },
     {
-      "title": "Gabriel edging closer to Man Utd exit after Barca talks",
+      "title": "Hodgkinson wins final race of season in new hooded speed suit",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13589387/jj-gabriel-edging-closer-to-manchester-united-exit-amid-barcelona-talks-about-a-potential-move-for-the-forward",
+      "url": "https://www.skysports.com/athletics/news/12040/13589458/keely-hodgkinson-wins-final-race-of-2026-season-at-athlos-in-london-in-full-length-hooded-nike-speed-suit",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-18T17:20:00+00:00",
-      "score": 25.0,
+      "published": "2026-09-18T21:30:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Man Utd",
-        "Gabriel",
-        "edging",
-        "closer",
-        "exit",
-        "Barca"
+        "speed",
+        "Hodgkinson",
+        "wins",
+        "final",
+        "race",
+        "season"
       ],
-      "summary": "JJ Gabriel and his representatives are in Barcelona for talks about a potential move to the Catalan club.",
+      "summary": "Keely Hodgkinson dominated the final race of her 2026 season by winning the 800m at Athlos in London as she debuted a new full-length, hooded speed suit.",
       "summary_cn": ""
     },
     {
-      "title": "London City's new training centre 'better than most Premier League clubs' - Kang",
+      "title": "Anthony heads Brentford in front against Chelsea",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/watch/video/13589497/jaidon-anthony-heads-brentford-in-front-against-chelsea",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-18T16:03:14+00:00",
+      "published": "2026-09-18T21:26:00+00:00",
       "score": 25.0,
       "keywords": [
-        "London",
+        "Brentford",
+        "Chelsea",
+        "Anthony",
+        "heads",
+        "front",
+        "against"
+      ],
+      "summary": "Jaidon Anthony heads Brentford in front against Chelsea.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City complete impressive comeback win to maintain perfect start",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589490/manchester-city-4-2-liverpool-wsl-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-18T21:12:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester City",
+        "Man City",
         "City",
-        "training",
-        "centre",
-        "better",
-        "most"
+        "complete",
+        "impressive"
       ],
-      "summary": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier League clubs.",
+      "summary": "Highlights of Manchester City against Liverpool in the WSL.",
       "summary_cn": ""
     },
     {
-      "title": "'Living legend' Gray advanced Hibs, says Newell",
+      "title": "Hemp double ensures Man City maintain winning start to WSL title defence",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/articles/ck3wjlv00dn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/report/575769",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-18T15:29:42+00:00",
+      "published": "2026-09-18T21:15:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Living",
-        "legend",
-        "Gray",
-        "advanced",
-        "Hibs",
-        "Newell"
+        "Liverpool",
+        "Manchester City",
+        "Man City",
+        "Hemp",
+        "double",
+        "ensures"
       ],
-      "summary": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success this season.",
+      "summary": "Lauren Hemp bookended a 4-2 victory for Manchester City against Liverpool as the WSL champions maintained a winning start to their title defence.",
       "summary_cn": ""
     },
     {
-      "title": "Premier League action, Celtic v Rangers, T20 cricket and NFL – follow with us",
+      "title": "Shaw capitalises on Keating error to equalise for Man City",
       "title_cn": "",
-      "url": "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us",
+      "url": "https://www.skysports.com/watch/video/13589445/wsl-bunny-shaw-capitalises-on-khiara-keating-error-to-equalise-for-manchester-city",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-18T19:53:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester City",
+        "Man City",
+        "Shaw",
+        "capitalises",
+        "Keating"
+      ],
+      "summary": "Bunny Shaw capitalised on Khiara Keating's calamitous mistake as Manchester City equalised against Liverpool late in the first half.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bergstrom and Endemann on target as Liverpool come from behind to lead Man City",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589441/wsl-alice-bergstrom-and-vivien-endemann-on-target-as-liverpool-come-from-behind-to-lead-manchester-city",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-18T19:33:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester City",
+        "Man City",
+        "Bergstrom",
+        "Endemann",
+        "target"
+      ],
+      "summary": "Alice Bergstrom and Vivien Endemann both scored as Liverpool came from 1-0 down to lead Manchester City after 29 minutes.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hemp scores first goal since November as Man City take lead!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589437/wsl-lauren-hemp-scores-first-goal-since-november-as-manchester-city-take-lead",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-18T19:17:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester City",
+        "Man City",
+        "Hemp",
+        "scores",
+        "first"
+      ],
+      "summary": "Lauren Hemp scored her first goal since November as Manchester City took the lead early against Liverpool in the WSL.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-18T20:35:52+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Tottenham",
+        "watch",
+        "rated",
+        "Smit",
+        "Saturday"
+      ],
+      "summary": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Brentford v Chelsea: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-18T16:05:45+00:00",
+      "published": "2026-09-18T20:39:08+00:00",
       "score": 25.0,
       "keywords": [
+        "Brentford",
+        "Chelsea",
         "Premier",
         "League",
-        "action",
-        "Celtic",
-        "Rangers",
-        "cricket"
+        "live"
       ],
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "summary": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott 2 min: Schade advances menacingly down the left, chasing after a long ball by Lewis-Potter. He enters the box ahead of Fofana, but the Chelsea defender does magnificently well to catch up, t",
       "summary_cn": ""
     },
     {
-      "title": "JJ Gabriel, 15, travels to Barcelona as Man Utd wonderkid targets free transfer.. and has already spoken to Real Madrid",
+      "title": "Women’s Super League: Lauren Hemp hits double as Manchester City see off lively Liverpool",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40422945/jj-gabriel-travels-barcelona-transfer-man-utd-exit/",
+      "url": "https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-18T20:10:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester City",
+        "Women",
+        "Super",
+        "League",
+        "Lauren"
+      ],
+      "summary": "Manchester City continued their winning start to the new Women’s Super League season but the defending champions needed a 90th-minute own goal from Grace Fisk to help them edge past an ever-improving Liverpool side after an entertaining game in which Lauren Hemp scored twice. Fisk inadvertently turn",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hull City’s self-confessed maths geek could have been a high jump star but is now crunching the numbers to seal safety",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40414747/hull-city-tzolakis-maths-highjump/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-18T16:16:38+00:00",
+      "published": "2026-09-18T20:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Hull",
+        "City",
+        "self",
+        "confessed",
+        "maths"
+      ],
+      "summary": "SELF-CONFESSED maths geek Konstantinos Tzolakis has already crunched the numbers to work out Hull's survival plan. And the Greek goalkeeper, 23, could be halfway to completing his part in that mission if he shuts out Newcastle. Tzolakis swapped a shot at the Champions League with Olympiakos to join ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea fans stunned to see Blues legend sitting on Brentford’s bench for Premier League clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40425384/chelsea-fans-stunned-damien-duff-brentford-bench/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-18T19:48:46+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brentford",
+        "Chelsea",
+        "fans",
+        "stunned",
+        "Blues",
+        "legend"
+      ],
+      "summary": "CHELSEA fans watching their clash with Brentford were shocked to notice a club legend sat on the Bees' bench. The Blues travelled to the Gtech Community stadium for an all-West London affair on Friday night. But eagle-eyed fans noticed a Chelsea cult hero sitting in the Brentford dugout - Damien Duf",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ex-Man Utd boss Ruben Amorim ‘summoned for emergency talks with AC Milan chiefs after struggles in Italy’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40424747/man-utd-ruben-amorim-ac-milan-europa-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-18T19:18:49+00:00",
       "score": 25.0,
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Gabriel",
-        "travels",
-        "Barcelona",
-        "wonderkid"
+        "boss",
+        "Ruben",
+        "Amorim",
+        "summoned"
       ],
-      "summary": "JJ GABRIEL has flown to Barcelona to hold talks as he continues to push for a Manchester United exit. Several other Euro giants are interested in the 15-year-old prodigy nicknamed 'Kid Messi' and signed by Nike, with a move to another Prem club unlikely. United turned down Gabriel's formal request t",
+      "summary": "EX-MANCHESTER UNITED boss Ruben Amorim was summoned for showdown talks with AC Milan's owner after a poor start with his new team. Amorim, 41, was sacked by United in January following 14 turbulent months on and off the pitch. The Portuguese tactician won a mere 25 out of 63 matches — of which he lo",
       "summary_cn": ""
     },
     {
-      "title": "Julian Alvarez ‘set to DITCH agent after failed transfer move with Arsenal and Barcelona still keen on Atletico star’",
+      "title": "Prem must stop turning every goal into forensic investigation.. AI might be death of us but I’ll take it if it fixes VAR",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40422409/julian-alvarez-ditch-agent-arsenal-barcelona-keen/",
+      "url": "https://www.thesun.co.uk/sport/40425009/karren-brady-column-ai-horror-var-fix/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-18T15:43:20+00:00",
+      "published": "2026-09-18T19:08:49+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
-        "Julian",
-        "Alvarez",
-        "DITCH",
-        "agent",
-        "failed"
+        "Prem",
+        "must",
+        "stop",
+        "turning",
+        "every",
+        "goal"
       ],
-      "summary": "JULIAN ALVAREZ is reportedly weighing up a change of representation after his summer window fiasco. The Atletico Madrid and Argentina star was one of football's most sought after attacking prospects this summer. Arsenal, Real Madrid and Barcelona were all desperate for his signature, with the latter",
+      "summary": "LAST Sunday, the Premier League gave us another VAR controversy. Another goal that should not have stood. Another explanation afterwards. Another reminder that football has somehow made getting the right decision more complicated by giving referees more information. Then came the League Cup, where V",
       "summary_cn": ""
     },
     {
-      "title": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
+      "title": "Tottenham vs Aston Villa: Get goal in 1st half at EVENS, plus £50 free bets | Betfred",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.thesun.co.uk/sport/40421154/tottenham-aston-villa-goal-betfred-free-bets/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-18T19:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Aston",
+        "Villa",
+        "goal",
+        "half"
+      ],
+      "summary": "TOTTENHAM and Aston Villa chase their first league wins of the campaign when meeting in North London for Saturday's lunchtime game. Betfred are marking the contest with a cracker of a turbo boost for new and existing customers to claim: A goal to be scored in the first half at Evens, boosted from 1/",
+      "summary_cn": ""
+    },
+    {
+      "title": "Watch the goals as Ayr United win at Queen's Park",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/videos/cqly70l5m7djo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-18T16:26:56+00:00",
+      "published": "2026-09-18T20:42:29+00:00",
       "score": 20.0,
       "keywords": [
-        "Uefa",
-        "Concacaf",
-        "demand",
-        "Fifa",
-        "pays",
-        "members"
+        "Watch",
+        "goals",
+        "United",
+        "Queen",
+        "Park"
       ],
-      "summary": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
+      "summary": "Dylan Watret and Josh Landers are on target as Ayr United end a six-game run without a win.",
       "summary_cn": ""
     },
     {
-      "title": "Goodwin in 'good health' but needs 'simple procedure'",
+      "title": "Fury as footie fans face £330k ‘holiday tax’ bill each week for following their teams away",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c54g7jnjj2mxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/40425027/fury-footie-fans-face-holiday-tax-bill/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-18T15:50:56+00:00",
+      "published": "2026-09-18T20:07:35+00:00",
       "score": 20.0,
       "keywords": [
-        "Goodwin",
-        "good",
-        "health",
-        "needs",
-        "simple",
-        "procedure"
+        "Fury",
+        "footie",
+        "fans",
+        "face",
+        "holiday",
+        "bill"
       ],
-      "summary": "Dundee United manager Jim Goodwin is not for going into detail about his recent hospital scare that requires \"a simple procedure\" but is \"pleased to say I am back to full health and raring to go\" after a three-game absence from the dugout.",
+      "summary": "FOOTBALL supporters going to away games may have to pay hundreds of thousands of pounds in Holiday Tax per week, hospitality chiefs say. The levy could have meant fans at eight recent night fixtures having to fork out an extra £328,000 in total, with some paying £15 more each, analysis suggests. And",
       "summary_cn": ""
     },
     {
-      "title": "What are the key questions in Saturday's Scottish Premiership?",
+      "title": "Germany FA chief reveals shock plot to hire England boss Thomas Tuchel after World Cup exit",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9e4xg31j0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/40424314/germany-chief-watzke-plot-hire-england-thomas-tuchel/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-18T16:40:30+00:00",
+      "published": "2026-09-18T19:16:15+00:00",
       "score": 20.0,
       "keywords": [
-        "questions",
-        "Saturday",
-        "Scottish",
-        "Premiership"
+        "Germany",
+        "chief",
+        "reveals",
+        "shock",
+        "plot",
+        "hire"
       ],
-      "summary": "What are the key questions on Saturday in the final Scottish Premiership games before the international break?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-18T15:43:17+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Tuchel",
-        "listen",
-        "learn",
-        "England",
-        "World",
-        "mistakes"
-      ],
-      "summary": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As Tuchel unveiled his first England squad since the World Cup, he said 99.9% of supporters he bumped into did not talk about his substitution",
+      "summary": "THE GERMAN FA's vice-president has revealed he once planned to hire Thomas Tuchel as head coach of the German national team. Han-Joachim Watzke, 67, was elected vice-president in late 2021, and was in position to see the national side crumble at the 2022 Qatar World Cup. Under now-Barcelona manager ",
       "summary_cn": ""
     }
   ]
