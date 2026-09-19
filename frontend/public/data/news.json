@@ -1,118 +1,373 @@
 {
-  "updated_at": "2026-09-19T09:21:33.748421+00:00",
+  "updated_at": "2026-09-19T13:50:49.974849+00:00",
   "items": [
     {
-      "title": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
+      "title": "Grealish starts for Everton vs Ipswich LIVE!",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-19T09:06:02+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Spurs",
-        "Alexander-Arnold",
-        "Trent Alexander-Arnold",
-        "Police",
-        "high"
-      ],
-      "summary": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alexander Arnold had enj",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Former Ivory Coast boss Fae eyes Hibs job' - gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9x4379emwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-19T08:17:18+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Neill",
-        "Former",
-        "Ivory",
-        "Coast",
-        "boss",
-        "eyes"
-      ],
-      "summary": "Former Ivory Coast head coach Emerse Fae is reportedly interested in the Hibernian job as speculation abounds over Martin O'Neill's future with Celtic.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Spurs vs Aston Villa team news LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
+      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-19T10:00:00+00:00",
-      "score": 25.0,
+      "published": "2026-09-19T13:23:00+00:00",
+      "score": 31.0,
       "keywords": [
-        "Aston Villa",
-        "Spurs",
-        "Aston",
-        "Villa",
-        "team",
-        "news"
+        "Everton",
+        "Ipswich",
+        "Grealish",
+        "starts",
+        "LIVE"
       ],
       "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "‘We’ve been bullied’ – Chelsea star makes shock admission as stats reveal Xabi Alonso has made Blues defence WORSE",
+      "title": "Brighton vs Arsenal LIVE!",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40427889/chelsea-star-bullied-xabi-alonso-defence-worse-brentford-loss/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-19T09:12:40+00:00",
+      "published": "2026-09-19T13:00:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Brentford",
-        "Chelsea",
-        "bullied",
-        "star",
-        "makes",
-        "shock"
+        "Arsenal",
+        "Brighton",
+        "LIVE"
       ],
-      "summary": "RED-FACED Chelsea were shown up in their shocking Brentford defeat as one Blues star admits they were BULLIED. Stand-in skipper Levi Colwill revealed that his West London side were battered and bruised after their 3-0 Premier League loss on Sunday. The Bees did not inflict their sting until after th",
+      "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "Millwall vs West Ham tickets: Where to buy LAST MINUTE seats for fierce London derby with everywhere else sold out",
+      "title": "Malard gets her first goal in blue as Chelsea see off Birmingham",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40382797/millwall-vs-west-ham-tickets-buy-cost/",
+      "url": "https://www.skysports.com/watch/video/13589644/chelsea-2-0-birmingham-city-womens-super-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:41:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Malard",
+        "gets",
+        "first",
+        "goal",
+        "blue"
+      ],
+      "summary": "Highlights of the Women's Super League match between Chelsea and Birmingham City.",
+      "summary_cn": ""
+    },
+    {
+      "title": "WSL: Chelsea see off Birmingham to move second LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T12:11:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Birmingham",
+        "move",
+        "second",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Spurs drop into relegation zone after Villa claim first win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/report/559493",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Spurs",
+        "drop",
+        "relegation",
+        "zone"
+      ],
+      "summary": "Tottenham head into the international break without a win in the Premier League after losing 3-2 at home to Aston Villa.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newcastle make two changes as Thomas starts for Hull LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/live/559491",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T12:45:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "make",
+        "changes",
+        "Thomas",
+        "starts",
+        "Hull"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Live on Sky: Wolves vs West Brom",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-west-bromwich-albion/live/560592",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T12:14:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "Live",
+        "West",
+        "Brom"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Malard comes off the bench to snatch Chelsea's second!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589621/melvine-malard-comes-off-the-bench-to-snatch-chelseas-second",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:18:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Malard",
+        "comes",
+        "bench",
+        "snatch",
+        "second"
+      ],
+      "summary": "Melvine Malard comes off the bench to score Chelsea's second goal against Birmingham City.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wrexham vs Southampton LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/wrexham-vs-southampton/live/560593",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "Wrexham",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Manzambi catches eye as Villa beat Spurs - player ratings",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T13:32:46+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "Manzambi",
+        "catches",
+        "Villa",
+        "beat"
+      ],
+      "summary": "Tottenham are still looking for their first Premier League goal of the season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham 2-3 Aston Villa: Premier League – live reaction",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T13:37:56+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Spurs",
+        "Aston",
+        "Villa",
+        "Premier"
+      ],
+      "summary": "Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi Buendía earned the win for Villa ⚽️ Today’s fixtures | Send Daniel your thoughts via email This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been",
+      "summary_cn": ""
+    },
+    {
+      "title": "Brighton v Arsenal, Newcastle v Hull as Hammers hit back at Millwall: clockwatch – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T13:36:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Brighton",
+        "Newcastle",
+        "West Ham",
+        "Spurs"
+      ],
+      "summary": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 78). Another leveller in the Championship, thanks to Jack McGlynn at the bet365. GOAL! Millwall 2-2 West Ham United (Mavropanos 80). ",
+      "summary_cn": ""
+    },
+    {
+      "title": "West Ham star Mohamadou Kante CONGRATULATED by team-mates for getting sent off in Millwall clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429981/west-ham-mohamadou-kante-red-card-millwall/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-19T09:00:22+00:00",
+      "published": "2026-09-19T13:36:33+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "West",
+        "star",
+        "Mohamadou",
+        "Kante",
+        "CONGRATULATED"
+      ],
+      "summary": "MOHAMADOU KANTE was congratulated by team-mates and clapped off by West Ham fans after being red-carded against Millwall. The unusual scene unfolded in the 89th minute of Saturday's fiery London derby. With the match finely poised at 2-2, Kante was the closest man in the chase for Kyrell Lisbie, who",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham 2 Aston Villa 3: Spurs finally score but still end up being beaten by Villans in strugglers’ battle",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429748/tottenham-lose-aston-villa-de-zerbi-scoreless/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T13:34:30+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Spurs",
+        "Aston",
+        "Villa",
+        "finally"
+      ],
+      "summary": "NO ONE at Spurs expected to be back in another relegation battle this season after splashing more than £350million this summer. But alarm bells are surely ringing now after being slain by fellow strugglers Aston Villa. They certainly will be among the fans, many of whom walked out in disgust when Em",
+      "summary_cn": ""
+    },
+    {
+      "title": "Millwall 2 West Ham 2: Mavropanos earns point as London derby sees red card, spitting accusation and epic comeback",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429252/millwall-west-ham-championship-dockers-derby/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T13:27:26+00:00",
       "score": 25.0,
       "keywords": [
         "West Ham",
         "Millwall",
         "West",
-        "tickets",
-        "LAST",
-        "MINUTE"
+        "Mavropanos",
+        "earns",
+        "point"
       ],
-      "summary": "WEST HAM travel to Millwall this afternoon in what is one of English football's fiercest derbies - and you can get LAST MINUTE tickets below. These two bitter rivals have not met since 2012 and supporters of both clubs could not be more up for it. After an initial slow start, West Ham have won...",
+      "summary": "WEST HAM came from behind to salvage a point away at arch-rivals Millwall. It had been 14 years since the two clubs faced off last and there has been no change to the feelings between the rivals. The Hammers wilted in the opening stages and could not contain their hosts as they fell behind to...",
       "summary_cn": ""
     },
     {
-      "title": "Man Utd’s billionaire owner Sir Jim Ratcliffe fumes UK ‘on the slide’ – blaming immigration & high taxes under Labour",
+      "title": "West Ham star Taty Castellanos accused of SPITTING at Millwall goalkeeper during derby clash",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40427640/jim-ratcliffe-fumes-uk-immigration-blame/",
+      "url": "https://www.thesun.co.uk/sport/40429746/west-ham-taty-castellanos-accused-spitting-millwall-keeper/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-19T08:35:52+00:00",
+      "published": "2026-09-19T13:16:59+00:00",
       "score": 25.0,
       "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "billionaire",
-        "owner",
-        "Ratcliffe",
-        "fumes"
+        "West Ham",
+        "West",
+        "star",
+        "Taty",
+        "Castellanos",
+        "accused"
       ],
-      "summary": "MANCHESTER United owner Sir Jim Ratcliffe has claimed the UK is \"on the slide\" - blaming immigration and high taxes. The billionaire INEOS founder, 73, also fumed no one was \"tough enough\" to tackle the \"benefits problem\". He said Britain was once \"a fantastic place\", but blasted politicians for the",
+      "summary": "WEST Ham's Taty Castellanos has been accused of spitting at Millwall goalkeeper Filip Marschall. The Hammers met their London rivals at the Den for their FIRST Championship meeting since 2012. In the 65th minute of the blockbuster derby, the keeper had kept ahold of the ball longer than the alotted ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Non-league manager, 35, quits to take charge of opposition just hours before FA Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429130/non-league-aveley-brentwood-town-fa-cup-brett-munyard/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T12:52:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "league",
+        "manager",
+        "quits",
+        "take",
+        "charge",
+        "opposition"
+      ],
+      "summary": "BRETT MUNYARD has sensationally quit Aveley to take charge of their FA Cup opponents Brentwood Town,&nbsp; just days before the two clubs meet. The 35-year-old left Aveley after a year in charge to become Brentwood's new boss ahead of Saturday's second qualifying round clash. And Aveley chairman Cra",
+      "summary_cn": ""
+    },
+    {
+      "title": "England face Canada in WXV Global Series in World Cup final repeat LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13589613/england-vs-canada-live-wxv-global-series-score-updates-analysis-from-sandy-park",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T13:51:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "face",
+        "Canada",
+        "Global",
+        "Series",
+        "World"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Scorecard: England vs Sri Lanka, third T20, Old Trafford",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/05056d5d-7b69-5f86-91b6-a5bdeb4474bc",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:25:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scorecard",
+        "England",
+        "Lanka",
+        "third",
+        "Trafford"
+      ],
+      "summary": "Latest score from the third T20 international between England and Sri Lanka at Emirates Old Trafford. Watch live on Sky Sports Cricket.",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Is this in our DNA?’ – Thomas Tuchel admits he may never be able to fix England’s biggest issue over lack of ‘heritage’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429310/thomas-tuchel-england-possession-heritage-nations-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T13:07:17+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Thomas",
+        "Tuchel",
+        "admits",
+        "never",
+        "able",
+        "England"
+      ],
+      "summary": "THOMAS TUCHEL has claimed he \"doesn't have time\" to coach England how to keep the ball and claimed possession play might not be in their \"DNA\". The German is preparing for England's first set of games since getting knocked out of the World Cup semi-finals by Argentina. Tuchel came under fire in that",
       "summary_cn": ""
     }
   ]

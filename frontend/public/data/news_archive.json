@@ -1,6 +1,395 @@
 {
   "items": [
     {
+      "title": "Grealish starts for Everton vs Ipswich LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T13:23:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Ipswich",
+        "Grealish",
+        "starts",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Brighton vs Arsenal LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T13:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Malard gets her first goal in blue as Chelsea see off Birmingham",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589644/chelsea-2-0-birmingham-city-womens-super-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:41:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Malard",
+        "gets",
+        "first",
+        "goal",
+        "blue"
+      ],
+      "summary": "Highlights of the Women's Super League match between Chelsea and Birmingham City.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "WSL: Chelsea see off Birmingham to move second LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T12:11:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Birmingham",
+        "move",
+        "second",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Spurs drop into relegation zone after Villa claim first win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/report/559493",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Spurs",
+        "drop",
+        "relegation",
+        "zone"
+      ],
+      "summary": "Tottenham head into the international break without a win in the Premier League after losing 3-2 at home to Aston Villa.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Newcastle make two changes as Thomas starts for Hull LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/live/559491",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T12:45:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "make",
+        "changes",
+        "Thomas",
+        "starts",
+        "Hull"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Live on Sky: Wolves vs West Brom",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-west-bromwich-albion/live/560592",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T12:14:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "Live",
+        "West",
+        "Brom"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Malard comes off the bench to snatch Chelsea's second!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589621/melvine-malard-comes-off-the-bench-to-snatch-chelseas-second",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:18:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Malard",
+        "comes",
+        "bench",
+        "snatch",
+        "second"
+      ],
+      "summary": "Melvine Malard comes off the bench to score Chelsea's second goal against Birmingham City.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Wrexham vs Southampton LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/wrexham-vs-southampton/live/560593",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "Wrexham",
+        "LIVE"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Manzambi catches eye as Villa beat Spurs - player ratings",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T13:32:46+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "Manzambi",
+        "catches",
+        "Villa",
+        "beat"
+      ],
+      "summary": "Tottenham are still looking for their first Premier League goal of the season.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Tottenham 2-3 Aston Villa: Premier League – live reaction",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T13:37:56+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Spurs",
+        "Aston",
+        "Villa",
+        "Premier"
+      ],
+      "summary": "Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi Buendía earned the win for Villa ⚽️ Today’s fixtures | Send Daniel your thoughts via email This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Brighton v Arsenal, Newcastle v Hull as Hammers hit back at Millwall: clockwatch – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T13:36:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Aston Villa",
+        "Brighton",
+        "Newcastle",
+        "West Ham",
+        "Spurs"
+      ],
+      "summary": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 78). Another leveller in the Championship, thanks to Jack McGlynn at the bet365. GOAL! Millwall 2-2 West Ham United (Mavropanos 80). ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "West Ham star Mohamadou Kante CONGRATULATED by team-mates for getting sent off in Millwall clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429981/west-ham-mohamadou-kante-red-card-millwall/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T13:36:33+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "West",
+        "star",
+        "Mohamadou",
+        "Kante",
+        "CONGRATULATED"
+      ],
+      "summary": "MOHAMADOU KANTE was congratulated by team-mates and clapped off by West Ham fans after being red-carded against Millwall. The unusual scene unfolded in the 89th minute of Saturday's fiery London derby. With the match finely poised at 2-2, Kante was the closest man in the chase for Kyrell Lisbie, who",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Tottenham 2 Aston Villa 3: Spurs finally score but still end up being beaten by Villans in strugglers’ battle",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429748/tottenham-lose-aston-villa-de-zerbi-scoreless/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T13:34:30+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Spurs",
+        "Aston",
+        "Villa",
+        "finally"
+      ],
+      "summary": "NO ONE at Spurs expected to be back in another relegation battle this season after splashing more than £350million this summer. But alarm bells are surely ringing now after being slain by fellow strugglers Aston Villa. They certainly will be among the fans, many of whom walked out in disgust when Em",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Millwall 2 West Ham 2: Mavropanos earns point as London derby sees red card, spitting accusation and epic comeback",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429252/millwall-west-ham-championship-dockers-derby/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T13:27:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Millwall",
+        "West",
+        "Mavropanos",
+        "earns",
+        "point"
+      ],
+      "summary": "WEST HAM came from behind to salvage a point away at arch-rivals Millwall. It had been 14 years since the two clubs faced off last and there has been no change to the feelings between the rivals. The Hammers wilted in the opening stages and could not contain their hosts as they fell behind to...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "West Ham star Taty Castellanos accused of SPITTING at Millwall goalkeeper during derby clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429746/west-ham-taty-castellanos-accused-spitting-millwall-keeper/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T13:16:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "West",
+        "star",
+        "Taty",
+        "Castellanos",
+        "accused"
+      ],
+      "summary": "WEST Ham's Taty Castellanos has been accused of spitting at Millwall goalkeeper Filip Marschall. The Hammers met their London rivals at the Den for their FIRST Championship meeting since 2012. In the 65th minute of the blockbuster derby, the keeper had kept ahold of the ball longer than the alotted ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Non-league manager, 35, quits to take charge of opposition just hours before FA Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429130/non-league-aveley-brentwood-town-fa-cup-brett-munyard/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T12:52:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "league",
+        "manager",
+        "quits",
+        "take",
+        "charge",
+        "opposition"
+      ],
+      "summary": "BRETT MUNYARD has sensationally quit Aveley to take charge of their FA Cup opponents Brentwood Town,&nbsp; just days before the two clubs meet. The 35-year-old left Aveley after a year in charge to become Brentwood's new boss ahead of Saturday's second qualifying round clash. And Aveley chairman Cra",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "England face Canada in WXV Global Series in World Cup final repeat LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13589613/england-vs-canada-live-wxv-global-series-score-updates-analysis-from-sandy-park",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T13:51:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "face",
+        "Canada",
+        "Global",
+        "Series",
+        "World"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "Scorecard: England vs Sri Lanka, third T20, Old Trafford",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/05056d5d-7b69-5f86-91b6-a5bdeb4474bc",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T14:25:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scorecard",
+        "England",
+        "Lanka",
+        "third",
+        "Trafford"
+      ],
+      "summary": "Latest score from the third T20 international between England and Sri Lanka at Emirates Old Trafford. Watch live on Sky Sports Cricket.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
+      "title": "‘Is this in our DNA?’ – Thomas Tuchel admits he may never be able to fix England’s biggest issue over lack of ‘heritage’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40429310/thomas-tuchel-england-possession-heritage-nations-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T13:07:17+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Thomas",
+        "Tuchel",
+        "admits",
+        "never",
+        "able",
+        "England"
+      ],
+      "summary": "THOMAS TUCHEL has claimed he \"doesn't have time\" to coach England how to keep the ball and claimed possession play might not be in their \"DNA\". The German is preparing for England's first set of games since getting knocked out of the World Cup semi-finals by Argentina. Tuchel came under fire in that",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T13:50:49.941808+00:00"
+    },
+    {
       "title": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
@@ -39301,404 +39690,6 @@
       "summary": "ASTON VILLA suffered a nightmare start to the Premier League season after conceding FOUR goals in their opening 30 minutes. Unai Emery's side are looking to build on their fourth-place finish from last season.",
       "summary_cn": "",
       "fetched_at": "2026-08-23T13:37:57.804718+00:00"
-    },
-    {
-      "title": "Marc Guehi handed shock new position for Man City in Enzo Maresca’s first game in charge against Bournemouth",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40145196/marc-guehi-shock-position-man-city-bournemouth-enzo-maresca/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T13:15:33+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Bournemouth",
-        "Man City",
-        "Marc",
-        "Guehi",
-        "handed"
-      ],
-      "summary": "ENZO MARESCA sprung a huge surprise in his opening Premier League showdown in charge of Manchester City - after handing Marc Guehi a start in midfield. The Italian tactician, 46, was appointed as the title challengers' new boss following Pep Guardiola's exit at the end of last season. And, having su",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T13:37:57.804718+00:00"
-    },
-    {
-      "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T13:02:00+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "agree",
-        "record",
-        "breaking"
-      ],
-      "summary": "Manchester City have agreed a deal with Lille for Morocco international midfielder Ayyoub Bouaddi worth up to &#163;86m (&#8364;100m).",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Rooney says Man Utd must become feared - but what went wrong at Hull?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgxg1g8nkro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T11:43:19+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Rooney",
-        "must",
-        "become",
-        "feared"
-      ],
-      "summary": "Manchester United made an awful start to their Premier League campaign at newly-promoted Hull. What went wrong?",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "'New season, new trim' - Haaland reveals buzzcut",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T12:36:54+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Haaland",
-        "Erling Haaland",
-        "season",
-        "trim",
-        "reveals"
-      ],
-      "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Best reactions to Erling Haaland new haircut as Noel Gallagher, Guardiola, Zlatan and his girlfriend give their verdict",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144324/erling-haaland-man-city-haircut-gallagher-guardiola/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T12:48:46+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Haaland",
-        "Erling Haaland",
-        "Best",
-        "reactions",
-        "Erling"
-      ],
-      "summary": "ERLING HAALAND stunned the football world by chopping off his mane of blond hair on Saturday. The Manchester City striker, 26, had become synonymous with his long flowing locks throughout his four-year stint in the Premier League. On the eve of the new season, however, Haaland decided to get a drama",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Ollie Watkins OUT of Aston Villa squad to face Brighton as talks continue over shock Al Hilal transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144771/ollie-watkins-aston-villa-squad-al-hilal-transfer-talks/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T12:32:22+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Watkins",
-        "Ollie Watkins",
-        "Ollie",
-        "Aston"
-      ],
-      "summary": "OLLIE WATKINS has been left out of Aston Villa's matchday squad for the showdown against Brighton - after being heavily linked with a shock exit. The striker, 30, missed the Midlands giants' Super Cup loss to Paris Saint-Germain last week. And Watkins was not part of the travelling party to the sout",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Michael Owen blasts those who mocked his ‘brave’ apple throwing story as ‘muppets living with parents when they’re 40’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144355/michael-owen-blasts-apple-story/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T12:09:35+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester United",
-        "young",
-        "Michael Owen",
-        "Michael",
-        "Owen"
-      ],
-      "summary": "MICHAEL OWEN has lashed out after being ridiculed for tossing apple cores into bins in a desperate bid to build confidence as a youngster. The legendary striker, 46, enjoyed a trophy-laden career with the likes of Liverpool, Real Madrid and Manchester United. But Owen has now blasted his critics whi",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Man City agree stunning £85million transfer for Ayyoub Bouaddi after Rodri and Reijnders exits",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144609/man-city-agree-ayyoub-bouaddi-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T12:06:36+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Rodri",
-        "City",
-        "agree",
-        "stunning"
-      ],
-      "summary": "MANCHESTER CITY have reached an agreement for World Cup wonderkid Ayyoub Bouaddi. The 18-year-old midfielder impressed for Morocco during the international competition in the US earlier this summer. The teenager, who made 30 appearances for Ligue 1 outfit Lille last season, was monitored by a number",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Man City agree £86m deal for teen midfielder Bouaddi",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T12:41:05+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "agree",
-        "deal",
-        "teen"
-      ],
-      "summary": "Manchester City agree a deal in principle for 18-year-old Lille midfielder Ayyoub Bouaddi worth 100m euros (£86m).",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "The maths whizz turned £86m teenage star heading to Man City",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T12:44:36+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "maths",
-        "whizz",
-        "turned",
-        "teenage"
-      ],
-      "summary": "Manchester City have agreed a deal in principle with Lille to sign midfielder Ayyoub Bouaddi - what makes him such a highly rated talent?",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Manchester City v Bournemouth: Premier League – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/23/manchester-city-v-bournemouth-premier-league-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T12:45:16+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Bournemouth",
-        "Manchester",
-        "City",
-        "Premier",
-        "League"
-      ],
-      "summary": "⚽ Premier League updates from the 2pm BST kick-off ⚽ Live scores | Sign up for Football Daily | Mail Emillia More on City’s move for Ayyoub Bouaddi here: Marco Rose spoke positively before his first competitive match in charge of Bournemouth, at Manchester City on Sunday. The German head coach was u",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T12:32:43+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Manchester",
-        "City",
-        "agree",
-        "deal",
-        "worth"
-      ],
-      "summary": "Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club’s summer spend to n",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "How hot does it have to be for hydration breaks in the Premier League?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40123635/premier-league-hydration-breaks-temperature-guide/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T12:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "hydration",
-        "breaks",
-        "Premier",
-        "League"
-      ],
-      "summary": "THE Premier League has returned for the 2026/27 season after an exciting summer of World Cup football. One feature from the international tournament in North America was its controversial hydration breaks, but will we see them introduced to England's top flight? What are hydration breaks? Hydration ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T12:54:23.793152+00:00"
-    },
-    {
-      "title": "Where's it all gone? Haaland reveals new shaven haircut",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13576220/erling-haaland-haircut-manchester-city-forward-reveals-fresh-shaven-style-ahead-of-new-premier-league-season",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T11:19:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Bournemouth",
-        "Haaland",
-        "Erling Haaland",
-        "gone",
-        "reveals"
-      ],
-      "summary": "Erling Haaland revealed a fresh haircut before Manchester City's Premier League curtain raiser against Bournemouth on Sunday afternoon, live on Sky Sports.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T11:27:23.925189+00:00"
-    },
-    {
-      "title": "Youri Tielemans’ pre-season interview admission that left Rio Ferdinand in shock resurfaces after awful Man Utd defeat",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144008/man-utd-youri-tielemans-rio-ferdinand/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T11:06:29+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Ferdinand",
-        "Rio Ferdinand",
-        "Tielemans",
-        "Youri Tielemans"
-      ],
-      "summary": "YOURI TIELEMANS left Rio Ferdinand shocked with an admission about Manchester United's fitness work last month. And the interview clip swiftly resurfaced following the Red Devils' sluggish performance in losing 2-0 at Hull on Saturday. Tielemans, 29, joined United in a £35million move from Aston Vil",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T11:27:23.925189+00:00"
-    },
-    {
-      "title": "Brighton vs Aston Villa team news LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/live/559450",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T12:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Aston",
-        "Villa",
-        "team",
-        "news"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T11:27:23.925189+00:00"
-    },
-    {
-      "title": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T10:49:06+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Mateta",
-        "Palace",
-        "dispute",
-        "deepens",
-        "losing"
-      ],
-      "summary": "Striker wants move and said final year of deal was invalid 29-year-old took his case to tribunal and Fifa but lost Jean-Philippe Mateta is in dispute with Crystal Palace over the final year of his contract but failed in an attempt to have it ruled invalid by an independent Premier League tribunal an",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T11:27:23.925189+00:00"
-    },
-    {
-      "title": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T10:05:27+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Alexander-Arnold",
-        "Trent Alexander-Arnold",
-        "hurts",
-        "Alexander",
-        "Arnold"
-      ],
-      "summary": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T10:31:30.920245+00:00"
-    },
-    {
-      "title": "Erling Haaland unveils incredible new look for start of season as he cuts of famous long locks – ‘short hair don’t care’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40143869/erling-haaland-new-look-short-hair-man-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T10:12:28+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Haaland",
-        "Erling Haaland",
-        "Erling",
-        "unveils",
-        "incredible"
-      ],
-      "summary": "ERLING HAALAND sent the internet into meltdown by revealing his shock haircut. The Manchester City striker, 26, is synonymous with his luscious long blonde locks. But just hours before his new Premier League season gets underway, Haaland dropped that he had chopped it all off. He took to X on Sunday",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T10:31:30.920245+00:00"
-    },
-    {
-      "title": "‘Faint disgust’ – Jose Mourinho fuming as Trent Alexander-Arnold ‘doesn’t do himself any favours’ in Real Madrid cameo",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40143579/real-madrid-jose-mourinho-trent-alexander-arnold/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T09:40:19+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Alexander-Arnold",
-        "Trent Alexander-Arnold",
-        "Faint",
-        "disgust",
-        "Jose",
-        "Mourinho"
-      ],
-      "summary": "JOSE MOURINHO struggled to hide his frustration after Trent Alexander-Arnold whacked a pass straight out of play last night. The Portuguese boss took charge of a competitive Real Madrid match for the first time in 4,380 days as they travelled to Espanyol. Jude Bellingham fired the Spanish giants in ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T10:31:30.920245+00:00"
     }
   ]
 }
