@@ -1,6 +1,639 @@
 {
   "items": [
     {
+      "title": "Former Premier League star, 53, resigns as manager of National League side with immediate effect",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40431320/premier-league-resigns-manager-hartlepool-lee-clark/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T16:00:09+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Fulham",
+        "Newcastle",
+        "Former",
+        "Premier",
+        "League",
+        "star"
+      ],
+      "summary": "A FORMER Premier League star resigned as a National League manager during his press conference. The ex-midfielder spent nine seasons in the top flight with Newcastle and Fulham. But just four months after being appointed Hartlepool United boss, Lee Clark has walked away from the job. Pools beat Barr",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Everton beat 10-man Ipswich despite VAR interference to deny Barry",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/report/559487",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T16:45:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Ipswich",
+        "Barry",
+        "beat",
+        "despite",
+        "interference"
+      ],
+      "summary": "Thierno Barry settled a match largely devoid of quality with a deflected effort as Everton beat Ipswich 1-0 at the Hill Dickinson, with VAR intervening to deny the Toffees forward what looked to be a legitimate second goal.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Arsenal's winning start ended by brilliant Brighton",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/report/559486",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T17:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "Mikel",
+        "Arteta",
+        "Mikel Arteta",
+        "winning"
+      ],
+      "summary": "Arsenal's winning start to the season came to a brutal end as brilliant Brighton secured a stunning 3-0 victory - and even that scoreline flattered Mikel Arteta's side.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Willock and Hall on target as Newcastle end Hull's unbeaten start",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/report/559491",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T17:25:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Newcastle",
+        "James",
+        "Willock",
+        "Hall",
+        "target",
+        "Hull"
+      ],
+      "summary": "Joe Willock and Lewis Hall's goals inside the opening 10 minutes were enough to steer Newcastle to a thrilling 2-1 victory at St James' Park and end Hull's unbeaten Premier League start.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T16:50:50+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "Mikel",
+        "Arteta",
+        "Mikel Arteta",
+        "lesson"
+      ],
+      "summary": "Arsenal manager Mikel Arteta says Arsenal were \"very far\" from the standards required to compete after the Gunners lost 3-0 to Brighton - their first defeat in the Premier League this season.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Arsenal v Manchester United: Women’s Super League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T16:55:22+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Liverpool",
+        "Manchester United",
+        "Man City",
+        "Smith",
+        "Manchester"
+      ],
+      "summary": "⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball forward, but their a",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Everton hold off Ipswich thanks to Thierno Barry goal despite VAR controversy",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/19/everton-ipswich-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T16:26:44+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Ipswich",
+        "Barry",
+        "hold",
+        "thanks",
+        "Thierno"
+      ],
+      "summary": "After the trials and tribulations of the transfer window Everton can be content to reach the international break unbeaten and up to fifth courtesy of victory over Ipswich. David Moyes, and Pro Ref, will also be relieved that another controversial call from a video assistant referee did not determine",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "England star and Champions League winner, 30, scores first goal in FIVE years for Championship club",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40430658/kalvin-phillips-sheffield-united-first-goal-in/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T16:42:42+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Phillips",
+        "England",
+        "star",
+        "Champions",
+        "League"
+      ],
+      "summary": "SHEFFIELD United's Kalvin Phillips bagged his first goal in an entire year. The former Manchester City midfielder handed the Blades the lead in their Championship clash at Stoke. Phillips, who stepped up to take the free-kick, beat the wall from 30 yards out as the ball skimmed past Viktor Johansson",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Arsenal player ratings: Bruno Guimaraes the worst of Gunners flops with only one player emerging with any credit",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40431608/arsenal-player-ratings-brighton/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T16:01:39+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "Bukayo Saka",
+        "player",
+        "ratings",
+        "Bruno"
+      ],
+      "summary": "ARSENAL players were outplayed on the South Coast as they fell to their first defeat of the season. Brighton looked by far the better as they took a three-goal lead at the Amex Stadium. Bukayo Saka was unable to make an impact. His failure to score allowed the hosts to break back and net their...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Clark resigns as Hartlepool boss in post-match interview",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T15:14:10+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Clark",
+        "resigns",
+        "Hartlepool",
+        "boss",
+        "post",
+        "match"
+      ],
+      "summary": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Burnley still winless after Derby strike late to earn point",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/burnley-vs-derby-county/report/560584",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T17:15:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "Burnley",
+        "still",
+        "winless",
+        "Derby",
+        "strike"
+      ],
+      "summary": "Burnley were denied a first league victory since February as Mohammed Fuseini's dramatic stoppage-time equaliser earned Derby a 1-1 draw at Turf Moor in the Championship.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Learning English, finding connections - Putellas settles at London City",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyvz180lmq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T15:21:33+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Williams",
+        "Charlton",
+        "Learning",
+        "English",
+        "finding",
+        "connections"
+      ],
+      "summary": "BBC Sport's Alex Scott, Fara Williams and Anita Asante speak to London City Lionesses star Alexia Putellas, to discuss the 4-1 win at Charlton and how she is settling at her new club.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Michael van Gerwen says his ‘balls are on the chopping block’ after blowing six match darts in World Series Finals",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40432230/michael-van-gerwen-world-series-darts-daryl-gurney/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T17:05:25+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "Michael",
+        "Gerwen",
+        "balls",
+        "chopping",
+        "block"
+      ],
+      "summary": "MICHAEL VAN GERWEN admits his “balls are on the chopping block” after blowing SIX match darts in a shock World Series Finals exit.&nbsp; The defending champion suffered his earliest-ever exit at the event after Daryl Gurney capitalised on a dramatic collapse to win 6-5 in Amsterdam on Thursday night",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Thierno Barry strike secures Toffees win as Tractor Boys star Fatawu is sent off for diving",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40431488/thierno-barry-abdul-fatawu-everton-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T16:03:18+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Barry",
+        "Thierno",
+        "strike",
+        "secures",
+        "Toffees",
+        "Tractor"
+      ],
+      "summary": "THIERNO BARRY kept the good times rolling for the side that is fast turning crisis into celebration. The Toffees began the campaign in a doom loop after a shambolic close to the transfer window that left boss David Moyes with only 18 senior outfield players and Barry as the only striker. Moyes was n",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Wrexham beat Southampton after late own goal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/wrexham-vs-southampton/report/560593",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T17:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "Wrexham",
+        "beat",
+        "late",
+        "goal"
+      ],
+      "summary": "Wrexham secured a smash-and-grab 2-1 victory against wasteful Southampton courtesy of Keven Schlotterbeck's late own goal.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T15:33:20+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Spurs",
+        "revival",
+        "sight",
+        "fragile"
+      ],
+      "summary": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T16:41:34+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "near",
+        "oblivion",
+        "Europe",
+        "celebrate",
+        "anniversary"
+      ],
+      "summary": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Suzuki proves worthy replacement for Martinez at Villa",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T16:58:29+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Suzuki",
+        "proves",
+        "worthy",
+        "replacement"
+      ],
+      "summary": "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first Premier League win of the season at struggling Tottenham.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Castellanos spitting claim overshadows West Ham's show of character",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T16:18:21+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Castellanos",
+        "spitting",
+        "claim",
+        "overshadows",
+        "West"
+      ],
+      "summary": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T16:43:38+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "Stay",
+        "humble",
+        "Hurzeler",
+        "plea"
+      ],
+      "summary": "Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Brighton demolish champions Arsenal 3-0 to mark anniversary in style",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T16:06:47+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "demolish",
+        "champions",
+        "mark",
+        "anniversary"
+      ],
+      "summary": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion will end up being col",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Newcastle bounce back from Leeds rout as Willock and Hall see off Hull",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T16:14:51+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "bounce",
+        "back",
+        "Leeds",
+        "rout",
+        "Willock"
+      ],
+      "summary": "Hull always knew that, sooner or later, they would lose a Premier League game but no one can say that Sergej Jakirovic’s team did not do everything in their power to try and delay that inaugural top tier defeat. After conceding two goals in the opening seven minutes Hull could easily have folded but",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "European football: Frankfurt clip high-flying Freiburg’s wings",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T16:35:46+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "European",
+        "football",
+        "Frankfurt",
+        "clip",
+        "high"
+      ],
+      "summary": "Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held to a 2-2 draw at Eintracht Frankfurt . Bayern Munich’s ruthless 7-0 win over Union Berlin on Friday put the Bavarians ahead of Fre",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Roberto de Zerbi refuses to SPEAK to Tottenham flops after Aston Villa loss as winless start continues",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40431647/roberto-de-zerbi-tottenham-aston-villa-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T16:24:44+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "Spurs",
+        "Roberto",
+        "Zerbi",
+        "refuses"
+      ],
+      "summary": "ROBERTO DE ZERBI refused to speak to his “fragile” Tottenham flops after their latest home horrorshow. Fans walked out when Spurs went 3-0 down thanks to goals from Johan Manzambi in first-half stoppage time plus strikes after the break from Nicolas Jackson and Emi Buendia. It took their miserable r",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Newcastle 2 Hull 1: Toon cling on to hand Tigers first defeat of season despite Wissa penalty miss",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40430653/newcastle-2-hull-1-toon-cling-on-wissa-penalty/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T15:57:37+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Hull",
+        "Toon",
+        "cling",
+        "hand",
+        "Tigers"
+      ],
+      "summary": "NEWCASTLE desperately clung on and survived a late onslaught to end Hull City’s unbeaten run. A bad-tempered clash ended with Tigers boss Sergej Jakirovic confronting Toon’s coaching staff after his side’s 2-1 defeat. But despite the post-game confrontations, opposite number Matthias Jaissle breathe",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Brighton 3 Arsenal 0: Dreadful Gunners suffer shocking defeat as Gross, Kostoulas and Chema net in Seagulls rout",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40431500/arsenal-lose-brighton-gross-kostoulas-chema-seagulls/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T15:55:50+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "Dreadful",
+        "Gunners",
+        "suffer",
+        "shocking"
+      ],
+      "summary": "ON the day Brighton celebrated their 125th anniversary, their brilliant team delivered a performance for the ages. In their entire history, Brighton will not have had many weeks like this and battering the champions was the cherry on top of their cake on what was a fabulous occasion. The club was fo",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Six fans arrested at Millwall vs West Ham after fiery derby draw as cops deploy 400 officers to police clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40428517/millwall-west-ham-six-fans-arrested-hundreds-cops/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T15:48:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "fans",
+        "arrested",
+        "Millwall",
+        "West",
+        "fiery"
+      ],
+      "summary": "COPS have arrested six people at the heated Dockers derby clash between fierce rivals Millwall and West Ham today. The points were shared between the two London clubs who had not met in a competitive fixture since February 2012. Konstantinos Mavropanos rescued a point late on for West Ham to make it",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Fans claim Brighton have turned up in ‘golf kit’ for Arsenal clash as one-off shirt divides opinion",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40430635/brighton-kit-shirt-golf-arsenal-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T15:29:31+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "Fans",
+        "claim",
+        "turned",
+        "golf"
+      ],
+      "summary": "FANS joked Brighton's kit looked like a 'golf shirt' for their home clash against Arsenal on Saturday. The Seagulls secured an impressive 3-0 win over the Premier League champions at the Amex but their strange-looking shirt raised eyebrows before kick-off. Brighton wore a collared pale blue shirt fe",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Preston denied by comeback from 10-man QPR",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/queens-park-rangers-vs-preston-north-end/report/560590",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T17:15:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Preston",
+        "denied",
+        "comeback"
+      ],
+      "summary": "Paul Smyth scored a 90th-minute equaliser for 10-man QPR as they came back from two goals down to draw 2-2 with struggling Preston.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Swansea go top after victory at Lincoln",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/lincoln-city-vs-swansea-city/report/560586",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T17:15:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Swansea",
+        "victory",
+        "Lincoln"
+      ],
+      "summary": "Swansea moved to the top of the Sky Bet Championship after Stephen Eustaquio's first goal for the club earned a 2-1 victory at Lincoln at the ProAmpac Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Celtic vs Rangers: Get £60 in football free bets when betting £10 on Old Firm with SBK",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40410713/celtic-rangers-old-firm-free-bets-sbk/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T17:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Celtic",
+        "Rangers",
+        "football",
+        "free",
+        "bets",
+        "betting"
+      ],
+      "summary": "CELTIC are looking to make amends for last week's dismal Ibrox defeat when they play host to Rangers on Sunday - this time in the Scottish Premiership. And bookmaker SBK are marking the huge occasion north of the border with a fantastic offer for brand new customers. Punters who register and bet £20",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
+      "title": "Iconic World Cup stadium could be made smaller under redevelopment plans with fans left fuming",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40430892/world-cup-stadium-genoa-stadio-luigi-ferraris/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-19T15:34:57+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Iconic",
+        "World",
+        "stadium",
+        "made",
+        "smaller",
+        "under"
+      ],
+      "summary": "AN iconic stadium used during the 1990 Italy World Cup could be reduced in capacity under major redevelopment plans, leaving fans furious. Three Group C games plus one Round of 16 tie were played at the Stadio Luigi Ferraris in Genoa. It was rebuilt ahead of the tournament specifically to serve as o",
+      "summary_cn": "",
+      "fetched_at": "2026-09-19T17:09:32.110265+00:00"
+    },
+    {
       "title": "Grealish starts for Everton vs Ipswich LIVE!",
       "title_cn": "",
       "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
@@ -39051,645 +39684,6 @@
       "summary": "Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27 season.",
       "summary_cn": "",
       "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "Guéhi and Gvardiol late show earns Manchester City dramatic win against Bournemouth",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T15:14:19+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Bournemouth",
-        "matic",
-        "Gvardiol",
-        "late",
-        "show"
-      ],
-      "summary": "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging loss became a memorable win due to Marc Guéhi’s 84th-minute equaliser and Josko Gvardiol’s added-time winner. Until then, Marco Rose had be",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T15:07:39+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Carrick",
-        "Hull",
-        "punished",
-        "United",
-        "defence"
-      ],
-      "summary": "Manchester United again struggled against a back five as their newly promoted hosts exploited a set-piece weakness Hull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a famous victory over Manchester United on Saturday. It",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "Jamieson claims first win in 14 years as Norris stumbles after penalty drama",
-      "title_cn": "",
-      "url": "https://www.skysports.com/golf/news/12040/13576323/dp-world-tour-scott-jamieson-wins-nexo-championship-as-overnight-leader-shaun-norris-falls-short-after-penalty-drama",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T17:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "given",
-        "Jamieson",
-        "claims",
-        "first",
-        "years",
-        "Norris"
-      ],
-      "summary": "Scott Jamieson ended a 14-year wait for a DP World Tour title with an emotional home victory at the Nexo Championship, as overnight leader Shaun Norris faded after being given a mid-round penalty.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "Brighton blow Villa away in first-half masterclass at The Amex",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13576325/brighton-4-0-aston-villa-premier-league-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T16:13:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "blow",
-        "Villa",
-        "away",
-        "first"
-      ],
-      "summary": "Highlights from the Premier League match between Brighton and Aston Villa.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "'Brilliant finish!' Elanga puts Newcastle ahead inside FIVE minutes",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13576346/goal-a-elanga-5-newcastle-1-0-liverpool",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T16:45:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "Brilliant",
-        "finish",
-        "Elanga",
-        "puts"
-      ],
-      "summary": "Matthias Jaissle's new Newcastle United side go ahead against Liverpool thanks to Anthony Elanga's early goal.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T15:53:38+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "united",
-        "tribute",
-        "legend",
-        "Keegan"
-      ],
-      "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "'Up front next week?' Guehi proves Maresca's midfield masterstroke",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T16:26:44+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "front",
-        "next",
-        "week",
-        "Guehi",
-        "proves"
-      ],
-      "summary": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "Aston Villa 'must accept everything' - Emery after Brighton thrashing",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c78g8y8vxpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T16:20:57+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Aston",
-        "Villa",
-        "must",
-        "accept"
-      ],
-      "summary": "Aston Villa manager Unai Emery reacts to a difficult opening day after a thrashing at the hands of Brighton, having conceding four goals in the first half.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "FIFA president Infantino defiant after joint Nordic no-confidence statement",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T17:20:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "FIFA",
-        "president",
-        "Infantino",
-        "defiant",
-        "joint",
-        "Nordic"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "Is Sevilla's 'all-round striker' Ure ready to lead Scotland's attack?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86n6d07825o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T15:35:33+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Sevilla",
-        "round",
-        "striker",
-        "ready",
-        "lead",
-        "Scotland"
-      ],
-      "summary": "Over the past decade, Sevilla's number nine jersey has been adorned by internationals from Spain, France, Argentina, Mexico and the Netherlands. Now, it is an uncapped Scotsman.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T16:34:14.733103+00:00"
-    },
-    {
-      "title": "Man City survive huge Bournemouth scare in Maresca's first game",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/manchester-city-vs-bournemouth/report/559451",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T15:45:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Bournemouth",
-        "Man City",
-        "matic",
-        "City",
-        "survive"
-      ],
-      "summary": "Manchester City survived a serious scare in Enzo Maresca's first Premier League game in charge, forced to come from behind to earn a dramatic, late 2-1 victory over Bournemouth.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Brighton hammer Aston Villa and João Gomes red adds to Unai Emery’s pain",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/23/brighton-aston-villa-premier-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T14:56:43+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Ezri Konsa",
-        "Konsa",
-        "hammer",
-        "Aston"
-      ],
-      "summary": "Brighton’s Jack Hinshelwood scored twice in a matter of seconds as Albion raced into a 4-0 lead by the 31st minute, before João Gomes was sent off before half-time for violent conduct to make it a disastrous start to the season for Aston Villa. Unai Emery, who has had Morgan Rogers, Ezri Konsa and Y",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Why are Newcastle and Liverpool players wearing black armbands?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40140402/why-newcastle-liverpool-players-black-armbands-kevin-keegan/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T15:29:03+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "James",
-        "players",
-        "wearing",
-        "black"
-      ],
-      "summary": "NEWCASTLE and Liverpool kick off their Premier League campaigns with a huge clash at St James' Park this afternoon. Both sides are wearing black armbands in memory of footballing great Kevin Keegan. Why are Newcastle and Liverpool players wearing black armbands? Players and staff from both Newcastle",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Crystal Palace prepare audacious £50m transfer bid to lure Jarrod Bowen back to Premier League amid West Ham nightmare",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40145079/crystal-palace-transfer-bid-jarrod-bowen-west-ham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T15:27:07+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Crystal Palace",
-        "West Ham",
-        "Bowen",
-        "Jarrod Bowen",
-        "Crystal",
-        "Palace"
-      ],
-      "summary": "CRYSTAL PALACE are preparing to launch an audacious £50million bid to lure Jarrod Bowen back to the Premier League. The West Ham skipper, 29, pledged to stay at the club this season despite relegation to the Championship - and signed a new contract. But that is not putting off Palace, who are prepar",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Man City 2 Bournemouth 1: Josko Gvardiol scores dramatic injury-time winner as Maresca’s men complete late comeback",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40146111/man-city-bournemouth-guehi-gvardiol-maresca/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T14:59:05+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Bournemouth",
-        "Man City",
-        "matic",
-        "City",
-        "Josko",
-        "Gvardiol"
-      ],
-      "summary": "NICK it at the death, after a nightmare afternoon. Maybe Enzo Maresca has got the magic touch needed to deal with the shadow of Pep. For 84 minutes at the Etihad, Maresca looked like a man who had walked into a deeper pool than he had ever imagined. Hot on the heels of the embarrassment...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Michael Carrick snaps ‘that’s ridiculous’ and gives reporter death stare in tense interview after Man Utd’s loss to Hull",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144704/michael-carrick-man-utd-reporter-death-stare/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T14:36:07+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Michael Carrick",
-        "Carrick",
-        "Michael",
-        "snaps"
-      ],
-      "summary": "MICHAEL CARRICK snapped \"that's ridiculous\" and gave reporter Jan Aage Fjortoft a death stare in a tense interview. The Manchester United boss suffered the worst-possible start to the new Premier League season. His dreadful Red Devils side lost 2-0 at newly-promoted Hull City on Saturday. Semi Ajayi",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Unai Emery ‘becomes a meme’ with bizarre reply when asked about Ollie Watkins’ squad omission for Villa vs Brighton",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40145429/unai-emery-meme-ollie-watkins-squad-aston-villa-brighton/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T14:32:13+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Ollie Watkins",
-        "Watkins",
-        "Unai",
-        "Emery"
-      ],
-      "summary": "ASTON VILLA boss Unai Emery has wasted no time in becoming a meme once again, as he gave a bizarre response in his pre-match interview ahead of his team's opening day clash at Brighton. When quizzed on Saudi-linked Ollie Watkins' absence from the squad, the Spanish gaffer opted for \"silence\". After ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Nightmare start! Aston Villa concede four first-half goals in thumping by Brighton",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/report/559450",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T15:55:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Nightmare",
-        "start",
-        "Aston",
-        "Villa"
-      ],
-      "summary": "Aston Villa produced one of the worst opening 45 minutes in Premier League history on their way to a heavy 4-0 defeat at Brighton.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T15:05:14+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Bournemouth",
-        "Man City",
-        "Gvardiol",
-        "rescues",
-        "result",
-        "Maresca"
-      ],
-      "summary": "How Man City and Bournemouth players rated following their Premier League match.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Manchester Utd midfielder Devaney joins Hibs on loan",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce343p742v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T15:01:52+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Manchester",
-        "midfielder",
-        "Devaney",
-        "joins",
-        "Hibs"
-      ],
-      "summary": "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Newcastle United v Liverpool: Premier League – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T15:10:25+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "United",
-        "Premier",
-        "League",
-        "live"
-      ],
-      "summary": "⚽ Premier League updates from the 4.30pm (BST) kick-off ⚽ Live scores | Get the Football Daily email | Drop us a line Newcastle’s new head coach , Matthias Jaissle, speaks to Sky Sports: It’s a transition phase. It’s a huge challenge. There will be some activities – hopefully – in the transfer marke",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Non-league star suffers horror facial fractures and left needing surgery after sickening challenge",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40145858/joe-tennent-surgery-nahum-melvin-lambert-dartford-welling/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T15:08:32+00:00",
-      "score": 25.0,
-      "keywords": [
-        "league",
-        "star",
-        "suffers",
-        "horror",
-        "facial",
-        "fractures"
-      ],
-      "summary": "A NON-LEAGUE star is set to go under the knife after suffering a horror facial injury. Dartford, who hosted a music event to celebrate 20 years at Princes Park, were condemned to a thumping 3-0 defeat by Welling United in the Isthmian Premier League yesterday. And Joe Tennent had to be substituted i",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Newcastle and Liverpool pay tribute to Kevin Keegan as they say goodbye to football legend at Premier League clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144914/newcastle-liverpool-tribute-kevin-keegan-football-legend/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T14:45:15+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "tribute",
-        "Kevin",
-        "Keegan",
-        "goodbye"
-      ],
-      "summary": "NEWCASTLE and Liverpool came together with a touching tribute to legendary football star Kevin Keegan. The two-time Ballon d'Or winner sadly died last month after a brave battle with stomach cancer. Follow the latest updates from Newcastle vs Liverpool on our live blog here He had been diagnosed wit",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T15:29:35.354887+00:00"
-    },
-    {
-      "title": "Kane first Englishman to win Germany's player of the year award",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-23T14:16:55+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Kane",
-        "first",
-        "Englishman",
-        "Germany",
-        "player"
-      ],
-      "summary": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T14:30:26.431472+00:00"
-    },
-    {
-      "title": "European football: Bayern Munich’s Harry Kane named player of the year in Germany",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T14:12:28+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "European",
-        "football",
-        "Bayern",
-        "Munich",
-        "Harry"
-      ],
-      "summary": "Striker becomes first Englishman to win the award Teammate Michael Olise finishes second Bayern Munich striker Harry Kane was voted the 2026 player of the year in Germany by an association of sports journalists on Sunday, finishing ahead of teammate Michael Olise. Kicker magazine revealed the result",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T14:30:26.431472+00:00"
-    },
-    {
-      "title": "Joao Gomes sent off for moment of madness just 40 minutes into horror Aston Villa debut with new team 4-0 down",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40145609/joao-gomes-aston-villa-brighton-sent-off/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T13:46:48+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Joao",
-        "Gomes",
-        "sent",
-        "moment"
-      ],
-      "summary": "NEW Aston Villa signing Joao Gomes has been sent off just 40 minutes into a horror debut, while his team trailed 4-0 to Brighton. The Brazilian gave away possession and kicked out at Brighton man Georginio Rutter. Gomes was originally shown a yellow for the challenge, but VAR rightfully stepped in. ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T14:30:26.431472+00:00"
-    },
-    {
-      "title": "Alejandro Balde ‘excited by Man Utd transfer’ but Red Devils face battle to land Barcelona left-back",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40145108/man-utd-alejandro-balde-barcelona-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T13:41:45+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Alejandro",
-        "Balde",
-        "excited",
-        "transfer"
-      ],
-      "summary": "ALEJANDRO BALDE is \"excited\" by the prospect of signing for Manchester United before the transfer deadline. But the Red Devils face a battle to agree a fee with Barcelona. Balde, 22, is a product of Barca's academy but could depart amid competition at left-back from Gerard Martin and new signing Joa",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T14:30:26.431472+00:00"
-    },
-    {
-      "title": "Dan Burn out for weeks with ankle injury – just days after Newcastle star was slammed by fans over wedding spin video",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40145047/dan-burn-out-weeks-ankle-injury-newcastle-liverpool/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T13:06:25+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "Dan Burn",
-        "Burn",
-        "weeks",
-        "ankle"
-      ],
-      "summary": "NEWCASTLE captain Dan Burn is set to miss the next few weeks with an ankle injury, according to Sky Sports. The huge defender suffered the injury in training, just days after he caused controversy with a wedding stunt. The news came ahead of Newcastle's Premier League opener at home to Liverpool. It",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T13:37:57.804718+00:00"
-    },
-    {
-      "title": "Arsenal in talks with Al Hilal over Gabriel Martinelli transfer which would see Gunners make highest-ever sale",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144983/arsenal-al-hilal-gabriel-martinelli-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T13:02:35+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Gabriel Martinelli",
-        "Martinelli",
-        "talks",
-        "Hilal",
-        "Gabriel"
-      ],
-      "summary": "GABRIEL MARTINELLI is open to a stunning move to Saudi Arabia with Al-Hilal reportedly in talks with Arsenal over a £60million deal for the winger. The Saudi Pro League giants have opened negotiations with the Gunners over a move for the Brazil international. No agreement has yet been reached betwee",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T13:37:57.804718+00:00"
-    },
-    {
-      "title": "West Brom surge back to floor Flemming-less Burnley amid transfer speculation",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/23/west-brom-burnley-championship-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-23T13:24:14+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "West",
-        "Brom",
-        "surge",
-        "back",
-        "floor"
-      ],
-      "summary": "Isaac Price inspired West Bromwich Albion to a 3-1 comeback win against promotion favourites Burnley in the Championship at the Hawthorns. The Northern Ireland international scored twice in the second half after setting up Harry Whitwell’s equaliser to cancel out Callum Styles’s early own goal. Burn",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T13:37:57.804718+00:00"
-    },
-    {
-      "title": "Newcastle vs Liverpool team news LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/newcastle-united-vs-liverpool/live/559452",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-23T14:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "team",
-        "news",
-        "LIVE"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T13:37:57.804718+00:00"
-    },
-    {
-      "title": "Aston Villa concede FOUR in just 30 minutes vs Brighton as new-look side capitulate after they are ‘decimated by PSR’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40145518/aston-villa-concede-four-brighton-capitulate-psr/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-23T13:37:08+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Aston",
-        "Villa",
-        "concede",
-        "FOUR"
-      ],
-      "summary": "ASTON VILLA suffered a nightmare start to the Premier League season after conceding FOUR goals in their opening 30 minutes. Unai Emery's side are looking to build on their fourth-place finish from last season.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-23T13:37:57.804718+00:00"
     }
   ]
 }
