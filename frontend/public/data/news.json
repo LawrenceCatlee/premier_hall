@@ -1,573 +1,531 @@
 {
-  "updated_at": "2026-09-19T17:09:32.142412+00:00",
+  "updated_at": "2026-09-19T20:28:54.987640+00:00",
   "items": [
     {
-      "title": "Former Premier League star, 53, resigns as manager of National League side with immediate effect",
+      "title": "Olid's Man Utd take big step forward after 'intense week'",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40431320/premier-league-resigns-manager-hartlepool-lee-clark/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z7ev28zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-19T16:00:09+00:00",
+      "published": "2026-09-19T20:21:11+00:00",
       "score": 33.0,
       "keywords": [
-        "Fulham",
-        "Newcastle",
-        "Former",
-        "Premier",
-        "League",
-        "star"
-      ],
-      "summary": "A FORMER Premier League star resigned as a National League manager during his press conference. The ex-midfielder spent nine seasons in the top flight with Newcastle and Fulham. But just four months after being appointed Hartlepool United boss, Lee Clark has walked away from the job. Pools beat Barr",
-      "summary_cn": ""
-    },
-    {
-      "title": "Everton beat 10-man Ipswich despite VAR interference to deny Barry",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/report/559487",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-19T16:45:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Everton",
-        "Ipswich",
-        "Barry",
-        "beat",
-        "despite",
-        "interference"
-      ],
-      "summary": "Thierno Barry settled a match largely devoid of quality with a deflected effort as Everton beat Ipswich 1-0 at the Hill Dickinson, with VAR intervening to deny the Toffees forward what looked to be a legitimate second goal.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal's winning start ended by brilliant Brighton",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/report/559486",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-19T17:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
         "Arsenal",
-        "Brighton",
-        "Mikel",
-        "Arteta",
-        "Mikel Arteta",
-        "winning"
+        "Manchester United",
+        "Man Utd",
+        "Olid",
+        "take",
+        "step"
       ],
-      "summary": "Arsenal's winning start to the season came to a brutal end as brilliant Brighton secured a stunning 3-0 victory - and even that scoreline flattered Mikel Arteta's side.",
+      "summary": "A week ago, the picture at Manchester United looked bleak. Then on Saturday, victory was snatched away from them at Arsenal. But have we seen signs of improvement from Eva Olid's side?",
       "summary_cn": ""
     },
     {
-      "title": "Willock and Hall on target as Newcastle end Hull's unbeaten start",
+      "title": "Warrington beat Hull KR to set up semi against Leeds as Hiku sees red",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/report/559491",
+      "url": "https://www.skysports.com/rugby-league/warrington-vs-hull-k-r/report/63346",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-19T17:25:00+00:00",
+      "published": "2026-09-19T19:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Wolves",
+        "Jones",
+        "Warrington",
+        "beat",
+        "Hull",
+        "semi"
+      ],
+      "summary": "Warrington Wolves set up a Super League semi-final with Leeds Rhinos after a 35-12 victory over reigning champions Hull KR in their eliminator showdown at the Halliwell Jones Stadium.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T19:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Nottingham Forest",
+        "Forest",
+        "silva",
+        "Coventry",
+        "seal",
+        "first"
+      ],
+      "summary": "Coventry earned their first Premier League victory in 25 years after Jay Dasilva's winner and a controversial disallowed Nottingham Forest equaliser saw the promoted side win 1-0 at the City Ground.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Coventry win first points of season in dramatic win over Forest",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T19:14:53+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Forest",
+        "matic",
+        "silva",
+        "Coventry",
+        "first",
+        "points"
+      ],
+      "summary": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newcastle hold off Hull at St James' Park",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T19:00:14+00:00",
       "score": 31.0,
       "keywords": [
         "Newcastle",
         "James",
-        "Willock",
-        "Hall",
-        "target",
-        "Hull"
+        "hold",
+        "Hull",
+        "Park"
       ],
-      "summary": "Joe Willock and Lewis Hall's goals inside the opening 10 minutes were enough to steer Newcastle to a thrilling 2-1 victory at St James' Park and end Hull's unbeaten Premier League start.",
+      "summary": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
       "summary_cn": ""
     },
     {
-      "title": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
+      "title": "Everton's unbeaten run continues with win over 10-man Ipswich",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-19T16:50:50+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Brighton",
-        "Mikel",
-        "Arteta",
-        "Mikel Arteta",
-        "lesson"
-      ],
-      "summary": "Arsenal manager Mikel Arteta says Arsenal were \"very far\" from the standards required to compete after the Gunners lost 3-0 to Brighton - their first defeat in the Premier League this season.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal v Manchester United: Women’s Super League – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-19T16:55:22+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Liverpool",
-        "Manchester United",
-        "Man City",
-        "Smith",
-        "Manchester"
-      ],
-      "summary": "⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball forward, but their a",
-      "summary_cn": ""
-    },
-    {
-      "title": "Everton hold off Ipswich thanks to Thierno Barry goal despite VAR controversy",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/19/everton-ipswich-premier-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-19T16:26:44+00:00",
+      "published": "2026-09-19T19:00:21+00:00",
       "score": 31.0,
       "keywords": [
         "Everton",
         "Ipswich",
         "Barry",
-        "hold",
-        "thanks",
-        "Thierno"
+        "unbeaten",
+        "continues"
       ],
-      "summary": "After the trials and tribulations of the transfer window Everton can be content to reach the international break unbeaten and up to fifth courtesy of victory over Ipswich. David Moyes, and Pro Ref, will also be relieved that another controversial call from a video assistant referee did not determine",
+      "summary": "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
       "summary_cn": ""
     },
     {
-      "title": "England star and Champions League winner, 30, scores first goal in FIVE years for Championship club",
+      "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40430658/kalvin-phillips-sheffield-united-first-goal-in/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-19T16:42:42+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Phillips",
-        "England",
-        "star",
-        "Champions",
-        "League"
-      ],
-      "summary": "SHEFFIELD United's Kalvin Phillips bagged his first goal in an entire year. The former Manchester City midfielder handed the Blades the lead in their Championship clash at Stoke. Phillips, who stepped up to take the free-kick, beat the wall from 30 yards out as the ball skimmed past Viktor Johansson",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal player ratings: Bruno Guimaraes the worst of Gunners flops with only one player emerging with any credit",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40431608/arsenal-player-ratings-brighton/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-19T16:01:39+00:00",
+      "published": "2026-09-19T19:05:18+00:00",
       "score": 31.0,
       "keywords": [
         "Arsenal",
         "Brighton",
-        "Bukayo Saka",
-        "player",
-        "ratings",
-        "Bruno"
+        "Arteta",
+        "humbling",
+        "lesson"
       ],
-      "summary": "ARSENAL players were outplayed on the South Coast as they fell to their first defeat of the season. Brighton looked by far the better as they took a three-goal lead at the Amex Stadium. Bukayo Saka was unable to make an impact. His failure to score allowed the hosts to break back and net their...",
+      "summary": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
       "summary_cn": ""
     },
     {
-      "title": "Clark resigns as Hartlepool boss in post-match interview",
+      "title": "Coventry need to 'keep feet on the ground' after 'landmark' win - Lampard",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kgw17vqk98o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-09-19T15:14:10+00:00",
-      "score": 28.0,
+      "published": "2026-09-19T19:24:35+00:00",
+      "score": 31.0,
       "keywords": [
-        "Clark",
-        "resigns",
-        "Hartlepool",
-        "boss",
-        "post",
-        "match"
+        "Nottingham Forest",
+        "Forest",
+        "Lampard",
+        "Frank Lampard",
+        "Coventry",
+        "need"
       ],
-      "summary": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
+      "summary": "Frank Lampard reacts to Coventry's \"landmark\" day after they earned their first top flight win in 25 years, beating Nottingham Forest 1-0 at the City Ground in the Premier League.",
       "summary_cn": ""
     },
     {
-      "title": "Burnley still winless after Derby strike late to earn point",
+      "title": "Coventry delight in Jay Dasilva winner but ruled-out goal riles Nottingham Forest",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/burnley-vs-derby-county/report/560584",
-      "source": "Sky Sports",
+      "url": "https://www.theguardian.com/football/2026/sep/19/nottingham-forest-coventry-premier-league-match-report",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-19T17:15:00+00:00",
-      "score": 26.0,
+      "published": "2026-09-19T18:40:46+00:00",
+      "score": 31.0,
       "keywords": [
-        "matic",
-        "Burnley",
-        "still",
-        "winless",
-        "Derby",
-        "strike"
+        "Nottingham Forest",
+        "Forest",
+        "Lampard",
+        "Frank Lampard",
+        "silva",
+        "Coventry"
       ],
-      "summary": "Burnley were denied a first league victory since February as Mohammed Fuseini's dramatic stoppage-time equaliser earned Derby a 1-1 draw at Turf Moor in the Championship.",
+      "summary": "No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously, victory an object lesson in unsettling opponents for whom confidence can waver. Jay Dasilva’s excellent goal was built on the founda",
       "summary_cn": ""
     },
     {
-      "title": "Learning English, finding connections - Putellas settles at London City",
+      "title": "Wayne Rooney poised to join I’m A Celeb in show’s biggest ever signing two years after wife Coleen was runner-up",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyvz180lmq9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-19T15:21:33+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Williams",
-        "Charlton",
-        "Learning",
-        "English",
-        "finding",
-        "connections"
-      ],
-      "summary": "BBC Sport's Alex Scott, Fara Williams and Anita Asante speak to London City Lionesses star Alexia Putellas, to discuss the 4-1 win at Charlton and how she is settling at her new club.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Michael van Gerwen says his ‘balls are on the chopping block’ after blowing six match darts in World Series Finals",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40432230/michael-van-gerwen-world-series-darts-daryl-gurney/",
+      "url": "https://www.thesun.co.uk/sport/40433407/wayne-rooney-join-im-a-celeb-biggest-signing/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-19T17:05:25+00:00",
-      "score": 26.0,
+      "published": "2026-09-19T20:00:02+00:00",
+      "score": 31.0,
       "keywords": [
-        "matic",
-        "Michael",
-        "Gerwen",
-        "balls",
-        "chopping",
-        "block"
+        "Manchester United",
+        "Wayne Rooney",
+        "Rooney",
+        "Wayne",
+        "poised",
+        "join"
       ],
-      "summary": "MICHAEL VAN GERWEN admits his “balls are on the chopping block” after blowing SIX match darts in a shock World Series Finals exit.&nbsp; The defending champion suffered his earliest-ever exit at the event after Daryl Gurney capitalised on a dramatic collapse to win 6-5 in Amsterdam on Thursday night",
+      "summary": "WAYNE Rooney is poised to sign up for I’m A Celebrity . . . Get Me Out Of Here! The former Manchester United and England star, 40, is in advanced talks to follow wife Coleen, who was runner-up on the ITV show in 2024. Insiders said Wayne is keen to impress his four sons by taking on the...",
       "summary_cn": ""
     },
     {
-      "title": "Sunderland Europa League travel packages and flight details for historic European away days to AC Milan and Anderlecht",
+      "title": "Fans fume ‘VAR must’ve had a tea break’ as Arsenal star Declan Rice avoids red card for hacking down Brighton ace",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40395674/sunderland-europa-league-travel-milan-anderlecht-torreense-lech-poznan/",
+      "url": "https://www.thesun.co.uk/sport/40433235/arsenal-brighton-declan-rice-red-card-malick-yalcouye/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-19T17:04:51+00:00",
-      "score": 26.0,
-      "keywords": [
-        "march",
-        "Sunderland",
-        "Europa",
-        "League",
-        "travel",
-        "packages"
-      ],
-      "summary": "THE long, long wait is finally over and Sunderland are marching back into Europe. The devoted fans have had to wait 53 YEARS for a chance to play some of the finest clubs on the Continent. Follow Sunderland in Europe The long-suffering Black Cats fans can finally get to follow their heroes on the ul",
-      "summary_cn": ""
-    },
-    {
-      "title": "Thierno Barry strike secures Toffees win as Tractor Boys star Fatawu is sent off for diving",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40431488/thierno-barry-abdul-fatawu-everton-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-19T16:03:18+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Barry",
-        "Thierno",
-        "strike",
-        "secures",
-        "Toffees",
-        "Tractor"
-      ],
-      "summary": "THIERNO BARRY kept the good times rolling for the side that is fast turning crisis into celebration. The Toffees began the campaign in a doom loop after a shambolic close to the transfer window that left boss David Moyes with only 18 senior outfield players and Barry as the only striker. Moyes was n",
-      "summary_cn": ""
-    },
-    {
-      "title": "West Ham latest: Spitting allegation made as Nuno backs Kante red-card foul",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-19T16:23:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "West",
-        "latest",
-        "Spitting",
-        "allegation",
-        "made"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Wrexham beat Southampton after late own goal",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/wrexham-vs-southampton/report/560593",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-19T17:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "Wrexham",
-        "beat",
-        "late",
-        "goal"
-      ],
-      "summary": "Wrexham secured a smash-and-grab 2-1 victory against wasteful Southampton courtesy of Keven Schlotterbeck's late own goal.",
-      "summary_cn": ""
-    },
-    {
-      "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-19T15:33:20+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Tottenham",
-        "Spurs",
-        "revival",
-        "sight",
-        "fragile"
-      ],
-      "summary": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-      "summary_cn": ""
-    },
-    {
-      "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-19T16:41:34+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "near",
-        "oblivion",
-        "Europe",
-        "celebrate",
-        "anniversary"
-      ],
-      "summary": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Suzuki proves worthy replacement for Martinez at Villa",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-19T16:58:29+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Tottenham",
-        "Suzuki",
-        "proves",
-        "worthy",
-        "replacement"
-      ],
-      "summary": "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first Premier League win of the season at struggling Tottenham.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Castellanos spitting claim overshadows West Ham's show of character",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-19T16:18:21+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "Castellanos",
-        "spitting",
-        "claim",
-        "overshadows",
-        "West"
-      ],
-      "summary": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-19T16:43:38+00:00",
-      "score": 25.0,
+      "published": "2026-09-19T19:29:27+00:00",
+      "score": 31.0,
       "keywords": [
         "Arsenal",
         "Brighton",
-        "Stay",
-        "humble",
-        "Hurzeler",
-        "plea"
+        "Declan Rice",
+        "Fans",
+        "fume",
+        "must"
       ],
-      "summary": "Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.",
+      "summary": "PREMIER LEAGUE fans were left seething after Arsenal star Declan Rice escaped a red card following a controversial off-the-ball challenge with Brighton ace Malick Yalcouye. The Gunners suffered their first defeat across all competitions at the Amex Stadium as the Seragulls picked up a 3-0 victory wi",
       "summary_cn": ""
     },
     {
-      "title": "Brighton demolish champions Arsenal 3-0 to mark anniversary in style",
+      "title": "Celtic win 'changes game' - but can they reverse Rangers' derby dominance?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c607l0xdm8xro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T19:19:06+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Neill",
+        "Brown",
+        "Celtic",
+        "changes",
+        "game",
+        "reverse"
+      ],
+      "summary": "Former Celtic captain Scott Brown believes a win for the Scottish champions against Rangers on Sunday \"changes the game\" after a turbulent week for Martin O'Neill's side.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Evans committed to Bristol Rovers amid Hibs links",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm624j085qxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T19:43:27+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Evans",
+        "committed",
+        "Bristol",
+        "Rovers",
+        "amid",
+        "Hibs"
+      ],
+      "summary": "Bristol Rovers manager Steve Evans says he is 'not going anywhere' amid speculation linking him with the vacant role at Hibernian.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-19T16:06:47+00:00",
-      "score": 25.0,
+      "published": "2026-09-19T19:00:54+00:00",
+      "score": 26.0,
       "keywords": [
-        "Arsenal",
-        "Brighton",
-        "demolish",
-        "champions",
-        "mark",
-        "anniversary"
+        "matic",
+        "Wilson",
+        "Zidane",
+        "next",
+        "move",
+        "France"
       ],
-      "summary": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion will end up being col",
+      "summary": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what",
       "summary_cn": ""
     },
     {
-      "title": "Newcastle bounce back from Leeds rout as Willock and Hall see off Hull",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-19T16:14:51+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "bounce",
-        "back",
-        "Leeds",
-        "rout",
-        "Willock"
-      ],
-      "summary": "Hull always knew that, sooner or later, they would lose a Premier League game but no one can say that Sergej Jakirovic’s team did not do everything in their power to try and delay that inaugural top tier defeat. After conceding two goals in the opening seven minutes Hull could easily have folded but",
-      "summary_cn": ""
-    },
-    {
-      "title": "European football: Frankfurt clip high-flying Freiburg’s wings",
+      "title": "European football: Martínez double gives Inter comeback draw at Roma",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-09-19T16:35:46+00:00",
-      "score": 25.0,
+      "published": "2026-09-19T19:24:33+00:00",
+      "score": 26.0,
       "keywords": [
-        "West Ham",
+        "Salah",
+        "Martínez",
         "European",
         "football",
-        "Frankfurt",
-        "clip",
-        "high"
+        "double",
+        "gives"
       ],
-      "summary": "Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held to a 2-2 draw at Eintracht Frankfurt . Bayern Munich’s ruthless 7-0 win over Union Berlin on Friday put the Bavarians ahead of Fre",
+      "summary": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from 2-0 down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Ko",
       "summary_cn": ""
     },
     {
-      "title": "Roberto de Zerbi refuses to SPEAK to Tottenham flops after Aston Villa loss as winless start continues",
+      "title": "Ashton hat-trick fires Warrington into Super League semi-finals",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40431647/roberto-de-zerbi-tottenham-aston-villa-premier-league/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/watch/video/13589928/warrington-35-12-hull-kr-matty-ashton-hat-trick-sends-wolves-into-super-league-semi-finals",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-09-19T16:24:44+00:00",
+      "published": "2026-09-19T19:43:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "Ashton",
+        "trick",
+        "fires",
+        "Warrington",
+        "Super"
+      ],
+      "summary": "Highlights of the Super League eliminator between Warrington Wolves and Hull KR as Matty Ashton's hat-trick helped the hosts book a semi-final against Leeds Rhinos.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Coventry survive late Forest VAR controversy to claim first PL win in 25 years",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589936/nottingham-forest-0-1-coventry-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T19:46:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Nottingham Forest",
+        "Forest",
+        "Coventry",
+        "survive",
+        "late",
+        "controversy"
+      ],
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Coventry.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Holmberg breaks Man Utd hearts with 95th-minute equaliser!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589925/arsenal-1-1-manchester-united-wsl-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T19:33:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester United",
+        "Man Utd",
+        "Holmberg",
+        "breaks",
+        "hearts"
+      ],
+      "summary": "Highlights of the WSL game between Arsenal and Manchester United.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Holmberg equalises LATE on for Arsenal!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589917/arsenal-1-1-manchester-united-smilla-holmberg-equalises-late-on-for-gunners",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T19:24:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester United",
+        "Holmberg",
+        "equalises",
+        "LATE"
+      ],
+      "summary": "Smilla Holmberg rescues draw for Arsenal with late goal against Manchester United.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Zigiotti capitalises on Arsenal error to give Man Utd shock lead!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589906/arsenal-0-1-manchester-united-julia-zigiotti-captialises-on-error-to-give-man-utd-shock-lead",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T18:58:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester United",
+        "Man Utd",
+        "Zigiotti",
+        "capitalises",
+        "error"
+      ],
+      "summary": "Julia Zigiotti gives Manchester United a 1-0 lead in their WSL clash with Arsenal.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rabbit punch leads to RED card! Hiku sent off in eliminator",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13589905/warrington-v-hull-kr-peta-hiku-sent-off-for-punch",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-19T18:51:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "Rabbit",
+        "punch",
+        "leads",
+        "card",
+        "Hiku"
+      ],
+      "summary": "Peta Hiku is shown a straight red card for throwing a rabbit punch, leaving Hull KR down to 12-men in their Super League eliminator against Warrington Wolves.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Brighton cruise past Arsenal to end champions' perfect start",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T19:00:09+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Brighton",
+        "cruise",
+        "past",
+        "champions",
+        "perfect"
+      ],
+      "summary": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Spurs lose again as Villa hold on for first league win",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T19:00:02+00:00",
       "score": 25.0,
       "keywords": [
         "Aston Villa",
         "Tottenham",
         "Spurs",
-        "Roberto",
-        "Zerbi",
-        "refuses"
+        "lose",
+        "again",
+        "Villa"
       ],
-      "summary": "ROBERTO DE ZERBI refused to speak to his “fragile” Tottenham flops after their latest home horrorshow. Fans walked out when Spurs went 3-0 down thanks to goals from Johan Manzambi in first-half stoppage time plus strikes after the break from Nicolas Jackson and Emi Buendia. It took their miserable r",
+      "summary": "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.",
       "summary_cn": ""
     },
     {
-      "title": "Newcastle 2 Hull 1: Toon cling on to hand Tigers first defeat of season despite Wissa penalty miss",
+      "title": "Moyes demands more from Everton - but don't mention Europe",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40430653/newcastle-2-hull-1-toon-cling-on-wissa-penalty/",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye7z7q5r7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-19T19:48:28+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Everton",
+        "Moyes",
+        "demands",
+        "mention",
+        "Europe"
+      ],
+      "summary": "Fifth in the Premier League table and yet to lose this season, Everton are on the up, but boss David Moyes wants further improvements - and don't mention Europe.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-19T18:42:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester City",
+        "Manchester United",
+        "Holmberg",
+        "rescues",
+        "point"
+      ],
+      "summary": "Arsenal were mightily relieved as a 95th-minute equaliser from Smilla Holmberg rescued them a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate concerns about how far behind the leaders Manchester City they are slipping already. A defiant Mancheste",
+      "summary_cn": ""
+    },
+    {
+      "title": "Sergej Jakirovic claims Hull star could have been sent off if he didn’t get involved in touchline spat at Newcastle",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40433764/sergej-jakirovic-newcastle-row-mcburnie/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-19T15:57:37+00:00",
+      "published": "2026-09-19T20:16:55+00:00",
       "score": 25.0,
       "keywords": [
         "Newcastle",
+        "Sergej",
+        "Jakirovic",
+        "claims",
         "Hull",
-        "Toon",
-        "cling",
-        "hand",
-        "Tigers"
+        "star"
       ],
-      "summary": "NEWCASTLE desperately clung on and survived a late onslaught to end Hull City’s unbeaten run. A bad-tempered clash ended with Tigers boss Sergej Jakirovic confronting Toon’s coaching staff after his side’s 2-1 defeat. But despite the post-game confrontations, opposite number Matthias Jaissle breathe",
+      "summary": "SERGEJ JAKIROVIC warned everyone not to mess with Oli McBurnie after Hull’s bad-tempered defeat. Newcastle ended the Tigers’ unbeaten run with early strikes from Joe Willock and Lewis Hall. And Tigers boss Jakirovic — whose side pulled one back through Mohamed-Ali Cho — told the Toon’s coaching staf",
       "summary_cn": ""
     },
     {
-      "title": "Brighton 3 Arsenal 0: Dreadful Gunners suffer shocking defeat as Gross, Kostoulas and Chema net in Seagulls rout",
+      "title": "Southampton boss Tonda Eckert reveals he is set to learn Spygate ban fate during international break",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40431500/arsenal-lose-brighton-gross-kostoulas-chema-seagulls/",
+      "url": "https://www.thesun.co.uk/sport/40432963/southampton-tonda-eckert-spygate-ban-punishment-verdict/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-19T15:55:50+00:00",
+      "published": "2026-09-19T18:42:23+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
-        "Brighton",
-        "Dreadful",
-        "Gunners",
-        "suffer",
-        "shocking"
+        "Southampton",
+        "boss",
+        "Tonda",
+        "Eckert",
+        "reveals",
+        "learn"
       ],
-      "summary": "ON the day Brighton celebrated their 125th anniversary, their brilliant team delivered a performance for the ages. In their entire history, Brighton will not have had many weeks like this and battering the champions was the cherry on top of their cake on what was a fabulous occasion. The club was fo",
+      "summary": "SOUTHAMPTON boss Tonda Eckert has revealed he is expecting a verdict from the FA over his Spygate probe during the&nbsp;international break.&nbsp; The German, 33, was charged by the FA over his role in the scandal which saw the Saints thrown out of the Championship play-offs. Southampton admitted to",
       "summary_cn": ""
     },
     {
-      "title": "Six fans arrested at Millwall vs West Ham after fiery derby draw as cops deploy 400 officers to police clash",
+      "title": "Leeds legend reveals why Jayden Bogle should be knocking on Daniel Farke’s door after England omission",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40428517/millwall-west-ham-six-fans-arrested-hundreds-cops/",
+      "url": "https://www.thesun.co.uk/sport/40428401/leeds-danny-mills-jayden-bogle/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-09-19T15:48:26+00:00",
-      "score": 25.0,
+      "published": "2026-09-19T20:00:00+00:00",
+      "score": 20.0,
       "keywords": [
-        "West Ham",
-        "fans",
-        "arrested",
-        "Millwall",
-        "West",
-        "fiery"
+        "Leeds",
+        "legend",
+        "reveals",
+        "Jayden",
+        "Bogle",
+        "knocking"
       ],
-      "summary": "COPS have arrested six people at the heated Dockers derby clash between fierce rivals Millwall and West Ham today. The points were shared between the two London clubs who had not met in a competitive fixture since February 2012. Konstantinos Mavropanos rescued a point late on for West Ham to make it",
-      "summary_cn": ""
-    },
-    {
-      "title": "Fans claim Brighton have turned up in ‘golf kit’ for Arsenal clash as one-off shirt divides opinion",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40430635/brighton-kit-shirt-golf-arsenal-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-19T15:29:31+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Brighton",
-        "Fans",
-        "claim",
-        "turned",
-        "golf"
-      ],
-      "summary": "FANS joked Brighton's kit looked like a 'golf shirt' for their home clash against Arsenal on Saturday. The Seagulls secured an impressive 3-0 win over the Premier League champions at the Amex but their strange-looking shirt raised eyebrows before kick-off. Brighton wore a collared pale blue shirt fe",
+      "summary": "LEEDS legend Danny Mills told Jayden Bogle to get over his England snub by asking Daniel Farke for a pay rise! That is despite the 26-year-old only signing a new four-year contract in August.&nbsp; Whites boss Farke issued a plea to Three Lions manager Thomas Tuchel to call-up his wing-back after hi",
       "summary_cn": ""
     }
   ]
