@@ -1,6 +1,506 @@
 {
   "items": [
     {
+      "title": "Semenyo helps chaotic Manchester City beat Sunderland 5-3 after Brobbey hat-trick",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-20T14:59:02+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester City",
+        "Arteta",
+        "Mikel",
+        "Mikel Arteta",
+        "Semenyo"
+      ],
+      "summary": "Manchester City sent a message to Arsenal with this chaotic victory that takes Enzo Maresca’s team three points clear as leaders for the three-week international break. Until the Premier League resumes on 10 October City can enjoy their view from the top while Mikel Arteta’s champions have to stew f",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Man Utd legend Roy Keane looks absolutely fuming as he watches former club in dismal derby defeat",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40438022/roy-keane-fuming-man-utd-derby-defeat/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T16:04:59+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Roy Keane",
+        "Keane",
+        "legend",
+        "looks"
+      ],
+      "summary": "FUMING Roy Keane watched Celtic succumb to a gut-wrenching 1-0 Old Firm defeat. The Manchester United legend sat gloomy-faced in the stands of Celtic Park as his former side and boyhood club failed to score. This comes a week after United saw the same fate in their Manchester derby. Ryan Naderi’s fi",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Championship star, 30, heads to Singapore in bid to become an international footballer",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40437783/championship-perry-ng-singapore-international-cardiff-city/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T15:40:58+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Perry",
+        "Championship",
+        "star",
+        "heads",
+        "Singapore"
+      ],
+      "summary": "CARDIFF star Perry Ng is jetting out to Singapore to pursue his international football dream. The 30-year-old defender, who was born in Liverpool, is still awaiting clearance to play for the country of his grandad's birth. And he hopes that spending a week in Asia and forcing through the last remain",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Leeds 0 Crystal Palace 0: Eagles denied crucial win by VAR as sides are forced to settle for bore draw",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40438095/leeds-crystal-palace-var-denies-eagles-win/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T15:07:02+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Crystal Palace",
+        "CALVERT-LEWIN",
+        "DOMINIC CALVERT-LEWIN",
+        "Leeds",
+        "Crystal",
+        "Palace"
+      ],
+      "summary": "DOMINIC CALVERT-LEWIN'S goal-den run came to a frustrating end as Leeds were held by struggling Crystal Palace. The in-form striker was chasing a sixth successive goal at Elland Road to match a record that had stood for 94 years. But Calvert-Lewin was kept out by a brilliant Walter Benitez save as t",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Man City 5 Sunderland 3: Erling Haaland sets unique record as Maresca’s men go three points clear after thriller",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40436945/man-city-erling-haaland-sets-record/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T14:59:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Haaland",
+        "Erling Haaland",
+        "City",
+        "Sunderland"
+      ],
+      "summary": "ERLING HAALAND had the last word as Manchester City went three points clear at the top on an afternoon of high drama. But spare a thought for Sunderland forward Brian Brobbey who scored at hat-trick but ended up on the losing side. You have to go back 19 years for the last time that happened...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Celtic are 'in big trouble' and told a 'reset' is needed",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13590096/celtic-0-1-rangers-neil-lennon-calls-for-hoops-reset-but-martin-oneill-insists-latest-old-firm-defeat-no-disaster",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-20T15:30:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Neill",
+        "Celtic",
+        "trouble",
+        "told",
+        "reset",
+        "needed"
+      ],
+      "summary": "The Sky Sports pundits were damning in their analysis of Martin O'Neill's Celtic after they lost to Rangers for the second time in eight days.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Cristian Romero only given yellow card for studs-up challenge on Bellingham as Atletico vs Real Madrid ref DEFIES VAR",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40438205/romero-studs-up-bellingham-atletico-real-madrid-var-defied/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T15:06:02+00:00",
+      "score": 26.0,
+      "keywords": [
+        "given",
+        "Cristian",
+        "Romero",
+        "only",
+        "yellow",
+        "card"
+      ],
+      "summary": "CRISTIAN ROMERO was fortunate to avoid a red card after a studs-up challenge on Jude Bellingham. The pair were both involved in their nations' feisty World Cup semi-final earlier this year. And it seemed like tempers had not calmed down since, as the pair threw themselves at a loose ball in the Madr",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Palace secure valuable point at unbeaten Leeds",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/leeds-united-vs-crystal-palace/report/559489",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-20T16:20:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Palace",
+        "secure",
+        "valuable",
+        "point",
+        "unbeaten"
+      ],
+      "summary": "Crystal Palace secured a useful point at in-form and unbeaten Leeds as Pierre Sage's side produced a much-improved defensive display to hold the hosts to a goalless draw at Elland Road.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Eight goals and complete CHAOS as Man City somehow beat Sunderland",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/manchester-city-vs-sunderland/report/559490",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-20T16:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Eight",
+        "goals",
+        "complete",
+        "CHAOS"
+      ],
+      "summary": "Manchester City head into the extended international break three points clear at the top of the Premier League after edging a completely bonkers, gloriously chaotic eight-goal thriller against Sunderland, winning 5-3.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Isak wins it for Liverpool on Iraola's return to Bournemouth",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/bournemouth-vs-liverpool/report/559484",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-20T15:50:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bournemouth",
+        "Isak",
+        "wins",
+        "Iraola",
+        "return"
+      ],
+      "summary": "Alexander Isak scored the winning goal as Liverpool beat Bournemouth 1-0 on Andoni Iraola's return to the Vitality Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Man City go top after winning EIGHT-goal thriller against Sunderland",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13590162/manchester-city-5-3-sunderland-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-20T16:34:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "City",
+        "winning",
+        "EIGHT",
+        "goal"
+      ],
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Manchester City and Sunderland.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Liverpool maintain unbeaten start as Isak hits winner at Bournemouth",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13590150/bournemouth-0-1-liverpool-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-20T16:05:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bournemouth",
+        "maintain",
+        "unbeaten",
+        "start",
+        "Isak"
+      ],
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Bournemouth and Liverpool.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-20T16:34:40+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester City",
+        "Man City",
+        "Perfect",
+        "hours",
+        "Maresca"
+      ],
+      "summary": "Manchester City head into the international break in a jubilant mood after enjoying the perfect 24 hours this weekend.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Jacquet and Alisson impress - Bournemouth v Liverpool ratings",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v4959g4zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-20T14:51:05+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bournemouth",
+        "Jacquet",
+        "Alisson",
+        "impress",
+        "ratings"
+      ],
+      "summary": "How Bournemouth and Liverpool's players rated during their Premier League match.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Brobbey hits hat-trick on losing side - player ratings for Man City v Sunderland",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgyzx4jqwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-20T14:59:44+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Brobbey",
+        "hits",
+        "trick",
+        "losing"
+      ],
+      "summary": "How Manchester City and Sunderland players rated in their eventful Premier League match on Sunday.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Fulham v Manchester United: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-20T16:24:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fulham",
+        "Manchester United",
+        "Manchester",
+        "United",
+        "Premier",
+        "League"
+      ],
+      "summary": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game Manchester United are rocking their all-blue number. They kick things off. Craven Cottage in the sun: where would you rather be? Continue reading...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-20T15:06:48+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bournemouth",
+        "Isak",
+        "pounces",
+        "give",
+        "victory"
+      ],
+      "summary": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola hopes they become but they did enough to claim three points here, Alexander Isak capp",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Leeds extend unbeaten start to season after stalemate with Crystal Palace",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-20T15:08:52+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Leeds",
+        "extend",
+        "unbeaten",
+        "start",
+        "season"
+      ],
+      "summary": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s side enter the prolonged international break in fifth and unbeaten, ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "‘I prefer 1-0, much better’ – Grinning Enzo Maresca blasts Man City stars after 5-3 goal rush against Sunderland",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40438685/enzo-maresca-man-city-stars-sunderland-premier-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T16:41:15+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Man City",
+        "prefer",
+        "much",
+        "better",
+        "Grinning",
+        "Enzo"
+      ],
+      "summary": "MAN CITY manager Enzo Maresca jokingly blasted his side's openness following the 5-3 goalfest against Sunderland on Sunday. City soared to the top of the table with their fifth Prem win of the season, maintaining their 100 per cent start to the campaign. After his team conceded three to Dutchman Bri",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Man Utd ace Lisandro Martinez booed by Fulham fans after holding Falklands flag in England World Cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40438723/lisandro-martinez-booed-fulham-man-utd-argentina-falklands-flag/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T16:33:49+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fulham",
+        "Manchester United",
+        "Man Utd",
+        "Lisandro",
+        "Martinez",
+        "booed"
+      ],
+      "summary": "LISANDRO MARTINEZ was BOOED by Fulham fans - weeks after flaunting a Falklands flag at the World Cup. The Argentine was heckled whenever he touched the ball in the early stages of Manchester United's trip to Craven Cottage on Sunday. Martinez had not been singled out by other teams' fans this season",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Diego Simeone left ‘livid’ as Atletico Madrid fans boo Julian Alvarez AGAIN during Real Madrid derby",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40438709/simeone-livid-atletico-fans-boo-julian-alvarez/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T16:01:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Diego",
+        "Simeone",
+        "left",
+        "livid",
+        "Atletico"
+      ],
+      "summary": "DIEGO SIMEONE was fuming after Julian Alvarez was booed by his own fans while being substituted on during the Madrid Derby. The Argentina star was involved in a chaotic transfer saga in the summer window which saw him try to secure a move to rivals Barcelona. Arsenal were also interested in his serv",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Bournemouth 0 Liverpool 1: Isak begins to justify huge price tag as Iraola picks up huge win at former club",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40437817/bournemouth-liverpool-isak-goal-iraola-return/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T14:56:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Bournemouth",
+        "Isak",
+        "begins",
+        "justify",
+        "huge"
+      ],
+      "summary": "IT WAS the perfect afternoon back on the south coast for Andoni Iraola. Hugs from his former players, applause even from the home fans, and another three points on the road. More crucially, too, for the new Anfield boss, evidence for the first time this season that his side have what it takes to gri",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Bolton prevail at Norwich in seven-goal thriller",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/norwich-city-vs-bolton-wanderers/report/560588",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-20T15:38:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Bolton",
+        "prevail",
+        "Norwich",
+        "seven",
+        "goal",
+        "thriller"
+      ],
+      "summary": "Norwich suffered their second successive 4-3 Sky Bet Championship defeat as Bolton came out on top in a thrilling encounter at Carrow Road.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Bolton edge Norwich in topsy-turvy seven-goal THRILLER!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13590134/norwich-city-3-4-bolton-wanderers-championship-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-20T15:50:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Bolton",
+        "edge",
+        "Norwich",
+        "topsy",
+        "turvy",
+        "seven"
+      ],
+      "summary": "Highlights from the Sky Bet Championship clash between Norwich City and Bolton Wanderers at Carrow Road.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
+      "title": "Fans evacuated as Celtic supporters’ bus goes up in flames short distance away from stadium moments after Rangers clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40438929/celtic-bus-flames-rangers-clash-fans-evacuated/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-20T15:45:09+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fans",
+        "evacuated",
+        "Celtic",
+        "supporters",
+        "goes",
+        "flames"
+      ],
+      "summary": "FANS had to be evacuated from a supporters' bus that went on fire near Celtic Park after today's Old Firm derby clash. On the park Rangers took all three points with a 1-0 victory thanks to a goal from Ryan Naderi in the first half. The Hoops supporters inside the ground booed their team off...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-20T16:44:47.870521+00:00"
+    },
+    {
       "title": "Andros Townsend avoids injury after bizarre pitch roller incident in Thailand",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/sep/20/andros-townsend-avoids-injury-after-bizarre-pitch-roller-incident-in-thailand",
@@ -39188,501 +39688,6 @@
       "summary": "MANCHESTER UNITED are still hopeful Arsenal could be persuaded to sell Myles Lewis-Skelly despite his recent starts. Lewis-Skelly, 19, has generated interest from United and Chelsea but lined up in Arsenal’s 3-0 Community Shield and Premier League triumphs against Manchester City and Coventry. Well-",
       "summary_cn": "",
       "fetched_at": "2026-08-24T10:47:09.582057+00:00"
-    },
-    {
-      "title": "Out-of-position gift Maxim De Cuyper dominates Dream Team on opening weekend",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40151259/maxim-de-cuyper-brighton-fantasy-football-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T10:11:02+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "position",
-        "gift",
-        "Maxim",
-        "Cuyper"
-      ],
-      "summary": "MAXIM DE CUYPER (£3.5m) earned more points than any other Dream Team player over the first weekend of the new Premier League season. The Belgium international banked 18 points as Brighton blitzed Aston Villa at the Amex on Sunday. De Cuyper's mega haul emphatically illustrates what is possible when ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T10:47:09.582057+00:00"
-    },
-    {
-      "title": "Fulham vs Chelsea | Premier League predictions, preview and free bets for Monday Night Football derby clash",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40129207/fulham-vs-chelsea-premier-league-predictions-free-bets/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T08:57:20+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "Premier",
-        "League",
-        "predictions",
-        "preview"
-      ],
-      "summary": "FULHAM and Chelsea collide in a West London derby in the Premier League's first Monday Night Football of the new season. SunSport’s betting experts have previewed the massive occasion and selected the best betting tips, odds and exclusive sign-up bonuses from our leading bookmaker partners. New cust",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T09:57:23.653788+00:00"
-    },
-    {
-      "title": "Arsenal ‘waiting on Julian Alvarez’s camp’ as transfer race hots up with Atletico refusing to sell to Barcelona",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40150844/arsenal-julian-alvarez-transfer-race-response/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T09:31:42+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Mikel Arteta",
-        "Mikel",
-        "Arteta",
-        "waiting",
-        "Julian"
-      ],
-      "summary": "ARSENAL are waiting to hear from Julian Alvarez's camp before making a move for the star. The Argentina and Atletico Madrid forward has been a key target of Mikel Arteta's this summer. Spanish giants Barcelona and Real Madrid are also interested in what he can bring to the table, with Alvarez himsel",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T09:57:23.653788+00:00"
-    },
-    {
-      "title": "Premier League weekend reaction with Ref Watch to come LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T09:47:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Premier",
-        "League",
-        "weekend",
-        "reaction",
-        "Watch",
-        "come"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T09:57:23.653788+00:00"
-    },
-    {
-      "title": "Premier League review: Hull glorious & Spurs dismal",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p60w5k?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T08:59:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Spurs",
-        "Premier",
-        "League",
-        "review",
-        "Hull",
-        "glorious"
-      ],
-      "summary": "Rick Edwards, Luke Edwards, Charlie Austin & Dean Holden discuss the opening weekend.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T09:57:23.653788+00:00"
-    },
-    {
-      "title": "When is the Champions League 2026/27 draw? Start time, FREE stream and pots as Arsenal and Man Utd learn fate",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39886013/champions-league-draw-arsenal-man-utd-free-live-strean/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T09:10:37+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Man Utd",
-        "Champions",
-        "League",
-        "draw",
-        "Start"
-      ],
-      "summary": "EUROPE'S footballing elite will attempt to dethrone back-to-back supremos PSG as the Champions League gears up for its next electrifying instalment. Last season's final saw the Parisian powerhouse sneak past Arsenal after an agonising penalty shoot-out in Budapest crushed the Gunners' bid to bag Nor",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T09:57:23.653788+00:00"
-    },
-    {
-      "title": "Fulham vs Chelsea: Bet £10 and Get £50 in free bets, plus 6/1 BuildABet tip with Sky Bet",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40150617/fulham-vs-chelsea-bet-get-free-bets-sky-bet/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T08:58:30+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "free",
-        "bets",
-        "plus",
-        "BuildABet"
-      ],
-      "summary": "CHELSEA make the short trip to Craven Cottage tonight to face Fulham in a Monday Night Football derby. Sky Bet's have a fantastic new customer offer ahead of the game, offering new punters £50 in free bets just for signing up and staking a tenner on the game! We've enlisted the help of our betting..",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T09:57:23.653788+00:00"
-    },
-    {
-      "title": "Fulham vs Chelsea | Premier League offer: Get £30 in free bets with Midnite",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40150548/fulham-vs-chelsea-premier-league-free-bets-midnite/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T08:57:35+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "Premier",
-        "League",
-        "offer",
-        "free"
-      ],
-      "summary": "FULHAM and Chelsea round off the opening weekend of Premier League fixtures with a tasty West London derby tonight. Midnite have a peach of an offer ahead of the Craven Cottage contest, rewarding brand new customers who bet £10 on their sportsbook with £30 in free bets to spend on football! Midnite ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T09:57:23.653788+00:00"
-    },
-    {
-      "title": "Barcelona fans give immediate Anthony Gordon verdict after LaLiga debut cameo and even want him to bench Lamine Yamal",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40151577/barcelona-fans-anthony-gordon-laliga-debut-marcus-rashford/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T09:50:26+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Barcelona",
-        "fans",
-        "give",
-        "immediate",
-        "Anthony",
-        "Gordon"
-      ],
-      "summary": "ANTHONY GORDON wasted no time making his mark on Barcelona, and fans have already been left dreaming about what he can do this season. The England winger came off the bench for his professional Barcelona debut and first La Liga appearance last night as the Catalan giants raced towards a huge 5-0 vic",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T09:57:23.653788+00:00"
-    },
-    {
-      "title": "Shocking moment Leandro Trossard is SLAPPED in face as Besiktas blast referees over ‘historically shameful’ performance",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40150038/leandro-trossard-slapped-besiktas-turkish-super-lig-arsenal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T08:40:20+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Leandro Trossard",
-        "Trossard",
-        "Shocking",
-        "moment",
-        "Leandro"
-      ],
-      "summary": "LEANDRO TROSSARD was SLAPPED in the face in just his second Turkish Super Lig game - and the culprit went unpunished. The former Arsenal winger's new club, Besiktas, called the refereeing \"disgraceful\" in a bitter statement after the culprit, Fidan Aliti, escaped a red card. In an off-the-ball incid",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T08:57:14.474620+00:00"
-    },
-    {
-      "title": "Kane and Bayern’s Ballon d’Or push: ‘It can only be Harry’",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13574308/harry-kanes-ballon-dor-push-why-bayern-munich-believe-winning-the-award-could-be-big-for-the-player-and-the-club",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T08:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Harry Kane",
-        "Kane",
-        "Bayern",
-        "Ballon",
-        "push",
-        "only"
-      ],
-      "summary": "Harry Kane is the favourite to win the Ballon d&#8217;Or. Having spent the past week talking to some of the key figures at Bayern Munich &#8211; as well as Kane himself &#8211; it is apparent that clinching this award is as important to the German club as it is the England captain.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T08:57:14.474620+00:00"
-    },
-    {
-      "title": "Fans convinced Cristiano Ronaldo revealed true feelings about Gianni Infantino after awkward video emerges",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40149832/cristiano-ronaldo-gianni-infantino-meeting-fifa-video/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T08:06:13+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Fans",
-        "convinced",
-        "Cristiano",
-        "revealed"
-      ],
-      "summary": "FANS believe Cristiano Ronaldo wasn't impressed with meeting Fifa president Gianni Infantino after a clip of his reaction went viral. Ronaldo was spotted at the Esports World Cup in Paris and was filmed greeting the Swiss chief. Infantino is under fire after his failed attempt to sell off chunks of ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T08:57:14.474620+00:00"
-    },
-    {
-      "title": "Could Balde be on his way to Man Utd?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13576530/paper-talk-could-alejandro-balde-be-on-his-way-to-man-utd",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T08:14:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Balde"
-      ],
-      "summary": "Sky Sports News takes you through the back pages of the morning papers, including possible ins and outs at Manchester United.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T08:57:14.474620+00:00"
-    },
-    {
-      "title": "Mateta's contract claim leaves Palace with transfer decision",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz6465pj4njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T08:06:26+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Mateta",
-        "contract",
-        "claim",
-        "leaves",
-        "Palace"
-      ],
-      "summary": "Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T08:57:14.474620+00:00"
-    },
-    {
-      "title": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atlético?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-24T07:23:45+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Football",
-        "transfer",
-        "rumours",
-        "Alvarez"
-      ],
-      "summary": "Today’s rumours laugh off heartburn Booing Julián Alvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentinian forward to consider joining Arsenal in the window. The former Manchester City man has been kept out of the reaches of Barcelona, who may not have ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T08:57:14.474620+00:00"
-    },
-    {
-      "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T08:50:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "FREE",
-        "STREAM",
-        "Good",
-        "Morning",
-        "Transfers",
-        "Sports"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T08:57:14.474620+00:00"
-    },
-    {
-      "title": "What does your Premiership club need in final 11 days of transfer window?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmkmpj03zmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T07:41:49+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Premiership",
-        "club",
-        "need",
-        "final",
-        "days",
-        "transfer"
-      ],
-      "summary": "BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T08:57:14.474620+00:00"
-    },
-    {
-      "title": "FA hammer a split-second handball but let West Ham’s Taty Castellanos off the hook despite blatant cheating — it’s crazy",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40144094/aune-heggebo-cheating-taty-castellanos-efl-west-ham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T06:46:23+00:00",
-      "score": 33.0,
-      "keywords": [
-        "West Ham",
-        "hammer",
-        "split",
-        "second",
-        "handball",
-        "West"
-      ],
-      "summary": "THE FA are living in cloud cuckoo land. And their latest absurd retrospective ban proves just how out of touch they really are. West Brom forward Aune Heggebo was slapped with a two-match suspension for “successfully deceiving a match official” after scoring against Norwich last weekend. The ball de",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T07:12:30.358424+00:00"
-    },
-    {
-      "title": "Nev on title race: Liverpool, Man City nowhere near levels required",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13576438/premier-league-title-race-liverpool-and-man-city-nowhere-near-arsenals-level-says-gary-neville",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T07:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester City",
-        "Man City",
-        "Gary Neville",
-        "Neville",
-        "title"
-      ],
-      "summary": "Liverpool and Manchester City are well below the level required to win the Premier League title this season, says Sky Sports pundit Gary Neville.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T07:12:30.358424+00:00"
-    },
-    {
-      "title": "Arbeloa v Alonso: Benitez on his former players turned managers",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckge725zy1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T06:59:58+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "Liverpool",
-        "Rafael",
-        "Arbeloa",
-        "Alonso"
-      ],
-      "summary": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T07:12:30.358424+00:00"
-    },
-    {
-      "title": "Quiz: Do you know these footballers from their haircuts?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyeye08929o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T05:50:50+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Erling Haaland",
-        "Haaland",
-        "Quiz",
-        "know",
-        "these",
-        "footballers"
-      ],
-      "summary": "Erling Haaland shaved off his flowing blond locks before the new Premier League season - but do you recognise these other footballers from their haircuts?",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T07:12:30.358424+00:00"
-    },
-    {
-      "title": "Premier League: 10 talking points from opening weekend of the season",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-24T07:00:54+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Brentford",
-        "Everton",
-        "Manchester United",
-        "Martinelli",
-        "Ian Wright"
-      ],
-      "summary": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. Martinelli turned dow",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T07:12:30.358424+00:00"
-    },
-    {
-      "title": "Chelsea change course with Alonso primed to banish the chaos of youth",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/24/chelsea-change-course-with-alonso-primed-to-banish-the-chaos-of-youth",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-24T07:00:54+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Henderson",
-        "Jordan Henderson",
-        "change",
-        "course",
-        "Alonso"
-      ],
-      "summary": "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer genuine hope It is a necessary reset. Although it would be pushing it to say that Chelsea have switched from development centre to retirement home, even after the signings of Jordan Henderson and Dann",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T07:12:30.358424+00:00"
-    },
-    {
-      "title": "Premier League cult hero’s son makes top-flight debut during Newcastle vs Liverpool",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40149519/hero-jason-lewis-koumas-son-debuts-newcastle-liverpool/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T06:53:03+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Newcastle",
-        "James",
-        "Premier",
-        "League",
-        "cult"
-      ],
-      "summary": "ANDONI IRAOLA handed a league debut against Newcastle to a rising star with a name that will be familiar to Prem fans. The Reds kicked off their competitive season with an emotionally-charged clash against Newcastle at St James' Park. The Magpies led the match twice but an injury-time penalty handed",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T07:12:30.358424+00:00"
-    },
-    {
-      "title": "Why are Australians thriving in WSL but not Premier League?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2v3yy9ed9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-24T06:51:10+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Australians",
-        "thriving",
-        "Premier",
-        "League"
-      ],
-      "summary": "The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the WSL.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T07:12:30.358424+00:00"
     }
   ]
 }
