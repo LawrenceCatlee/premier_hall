@@ -1,6 +1,64 @@
 {
   "items": [
     {
+      "title": "'Who would be a goalkeeper?' - Hart on Martinez own goal",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm74kdn054j9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-20T23:09:47+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Fulham",
+        "Manchester United",
+        "Joe Hart",
+        "goalkeeper",
+        "Hart",
+        "Martinez"
+      ],
+      "summary": "Match of the Day pundit Joe Hart reflects on the \"uncomfortable\" own goal by Manchester United defender Lisandro Martinez in their 1-1 draw with Fulham.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-21T00:58:49.107027+00:00"
+    },
+    {
+      "title": "'I think he's a genius' - Hart hails Cherki strike",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqkgwpr44re0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-20T23:09:44+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Joe Hart",
+        "think",
+        "genius",
+        "Hart",
+        "hails"
+      ],
+      "summary": "Match of the Day pundit Joe Hart hails Manchester City's Rayan Cherki as a \"genius\" after the forward scored in his side's 5-3 Premier League win over Sunderland.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-21T00:58:49.107027+00:00"
+    },
+    {
+      "title": "How Liverpool are getting more from Isak - Edwards",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv1j42x7nn9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-20T23:09:54+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "getting",
+        "Isak",
+        "Edwards"
+      ],
+      "summary": "With Alexander Isak betting his goal scoring tally from last year already Rob Edwards brakes down what Liverpool are doing to get him in to the game more this year on Match of the Day.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-21T00:58:49.107027+00:00"
+    },
+    {
       "title": "Middlesex beat Leicestershire to end 36-year List A trophy wait",
       "title_cn": "",
       "url": "https://www.skysports.com/cricket/news/12040/13590258/metro-bank-one-day-cup-mens-final-middlesex-beat-leicestershire-foxes-to-end-36-year-list-a-trophy-wait",
@@ -39620,66 +39678,6 @@
       "summary": "",
       "summary_cn": "",
       "fetched_at": "2026-08-24T16:47:22.280310+00:00"
-    },
-    {
-      "title": "Don't panic! Why Man Utd and Carrick get a pass after flat Hull defeat",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13576671/man-utd-why-there-shouldnt-be-panic-after-michael-carricks-side-suffered-premier-league-loss-at-hull-on-opening-day",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-24T15:28:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Carrick",
-        "panic",
-        "pass",
-        "flat"
-      ],
-      "summary": "I was at the game on Saturday and it was clear early on in the game that Manchester United were not at the races against Hull City.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T15:47:39.548086+00:00"
-    },
-    {
-      "title": "Is £130m Alvarez an upgrade on Gyokeres? In many ways yes, but Arsenal will miss parts of their current striker’s game",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40156037/alvarez-gyokeres-upgrade-arsenal-atletico-madrid-mikel-arteta-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T14:59:52+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Mikel Arteta",
-        "Arteta",
-        "Mikel",
-        "Alvarez",
-        "upgrade"
-      ],
-      "summary": "JULIAN ALVAREZ could be the final piece of Mikel Arteta's Arsenal jigsaw, but the stats suggest Viktor Gyokeres would leave some pretty big boots to fill. The Gunners are ready to make a move for the Atletico Madrid and Argentina star in the final week of the transfer window if they get encouragemen",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T15:47:39.548086+00:00"
-    },
-    {
-      "title": "Arsenal ‘plot ANOTHER raid on Dortmund for chief scout with ace behind Erling Haaland and Jude Bellingham transfers’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40155800/arsenal-raid-dortmund-sebastian-krug-scout-haaland-bellingham/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-24T14:50:46+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Erling Haaland",
-        "Haaland",
-        "young",
-        "plot",
-        "ANOTHER"
-      ],
-      "summary": "ARSENAL are hoping to poach Borussia Dortmund's chief scout Sebastian Krug, according to reports. The 43-year-old is highly rated after his impressive work snapping up players like Erling Haaland, Jude Bellingham and Jadon Sancho at a young age. In recent years he has masterminded deals for youngste",
-      "summary_cn": "",
-      "fetched_at": "2026-08-24T15:47:39.548086+00:00"
     }
   ]
 }
