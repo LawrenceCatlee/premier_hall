@@ -1,6 +1,346 @@
 {
   "items": [
     {
+      "title": "Keane disagrees with Gordon: There is a gap between Spain and England",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13592299/england-2-3-spain-anthony-gordon-and-roy-keane-disagree-over-gap-between-three-lions-and-world-champions",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-26T22:50:00+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Roy Keane",
+        "Keane",
+        "disagrees",
+        "Gordon",
+        "between",
+        "Spain"
+      ],
+      "summary": "Roy Keane disagreed with Anthony Gordon's assessment that England are at the same level as Spain after the World Cup winners came from behind to beat Thomas Tuchel's side 3-2 in their Nations League opener.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Liverpool rehire Julian Ward as sporting director to replace Richard Hughes",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/26/liverpool-rehire-julian-ward-sporting-director-replace-richard-hughes",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-26T22:08:31+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Hughes",
+        "rehire",
+        "Julian",
+        "Ward",
+        "sporting"
+      ],
+      "summary": "Club’s owners FSG move swiftly to fill key post Move comes amid upheaval in Anfield hierarchy Liverpool have appointed Julian Ward as their sporting director for a second time after the departure of Richard Hughes to Al-Hilal. Ward, who was Liverpool’s sporting director for the 2022-23 season, has s",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "From Arsenal freeze & World Cup snub to future of England midfield… Lewis-Skelly proves huge point to Thomas Tuchel",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40505616/myles-lewis-skelly-england-spain-thomas-tuchel/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-26T22:17:52+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "kelly",
+        "freeze",
+        "World",
+        "snub",
+        "future"
+      ],
+      "summary": "IT has been a hell of a four months for Myles Lewis-Skelly - and he did not even go to the World Cup. The Arsenal star only made his first start in midfield in the Premier League for his boyhood club in May. Fast forward to Saturday night and the 20-year-old was starting in the...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Major update in probe into £300k jewellery heist at Harry Redknapp’s £5million mansion",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40506163/harry-redknapp-mansion-jewellery-heist-probe/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-26T22:10:32+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Redknapp",
+        "Major",
+        "update",
+        "probe",
+        "jewellery",
+        "heist"
+      ],
+      "summary": "A PROBE into a £300,000 jewellery heist at Harry Redknapp’s £5million mansion has ended, with no arrests. The ex-Premier League boss’s home was targeted by a gang while the 79-year-old was visiting wife Sandra in hospital. It was for sale at the time and one ­theory is the gang noted details on the ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "‘Turned him into traffic cone’ – Fans stunned as Dani Olmo ‘cooks’ Elliot Anderson with simple skill in England vs Spain",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40506141/dani-olmo-elliot-anderson-england-spain-man-city/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-26T22:07:05+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Anderson",
+        "matic",
+        "Turned",
+        "traffic",
+        "cone"
+      ],
+      "summary": "MANCHESTER CITY'S £116million signing Elliot Anderson was left red faced during England's dramatic loss to Spain in the Nations League after Dani Olmo dribbled past him and made it look easy. The world champions came from behind - after surrendering their lead - to pick up a 3-2 win over the Three L",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Saved by the bell! Richards survives dramatic knockdown!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13592300/zuffa-boxing-11-saved-by-the-bell-craig-richards-survives-dramatic-knockdown",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-26T22:50:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "Saved",
+        "bell",
+        "Richards",
+        "survives",
+        "dramatic"
+      ],
+      "summary": "Craig Richards was saved by the bell after being knocked down in the dying seconds of the last round by Radivoje Kalajdzic.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Worm or caterpillar? Cutler hits outrageous celebration after win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13592291/worm-or-caterpillar-lee-cutler-hits-outrageous-celebration-after-win",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-26T22:02:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Green",
+        "Worm",
+        "caterpillar",
+        "Cutler",
+        "hits",
+        "outrageous"
+      ],
+      "summary": "Lee Cutler with the brilliant celebration after beating Louis Greene, but is it The Worm or Caterpillar?",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Clinical Cutler claims points win over Greene",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13592285/zuffa-boxing-11-clinical-lee-cutler-claims-convincing-points-win-over-louis-greene",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-26T21:50:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Green",
+        "Clinical",
+        "Cutler",
+        "claims",
+        "points",
+        "Greene"
+      ],
+      "summary": "Lee Cutler put in a clinical performance to claim a convincing points win over Louis Greene at Zuffa Boxing 11.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Wakefield hailed after stunning Wigan: 'No team would have competed!'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13592272/wakefield-trinity-hailed-after-stunning-win-over-wigan-warriors-to-reach-super-league-grand-final-no-team-would-have-competed-with-them",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-26T22:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Powell",
+        "Wakefield",
+        "hailed",
+        "stunning",
+        "Wigan",
+        "team"
+      ],
+      "summary": "Jon Wilkin believes some of the best teams in Super League history would not have beaten Wakefield Trinity on Saturday night, as Daryl Powell's side sealed a huge upset victory against Wigan Warriors to book a spot in the Grand Final.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Pickford or Trafford? The battle to be England's number one is now on",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-26T23:06:07+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Jordan Pickford",
+        "Pickford",
+        "James",
+        "Trafford",
+        "battle",
+        "England"
+      ],
+      "summary": "Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "USA thrash Peru as teenage newcomers shine in first step toward 2030",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/26/usmnt-peru-cavan-sullivan-2030-world-cup-cycle",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-26T22:42:32+00:00",
+      "score": 26.0,
+      "keywords": [
+        "young",
+        "Sullivan",
+        "thrash",
+        "Peru",
+        "teenage",
+        "newcomers"
+      ],
+      "summary": "Eleven players make US debuts in Orlando Sullivan, 16, starts in youngest US appearance in years Ellis and Hall score as Pochettino’s new faces impress Playing in their first match of the 2030 World Cup cycle, the US men’s national team crushed Peru 4-1 in at Orlando’s Inter&amp;Co Stadium on Saturd",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Andy Carroll reveals he’s been inundated with support from male sex assault victims after opening up about his ordeal",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40505843/andy-carroll-male-sex-assault-victims-support/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-26T22:06:54+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Andy Carroll",
+        "Carroll",
+        "Andy",
+        "reveals",
+        "inundated",
+        "support"
+      ],
+      "summary": "FOOTBALLER Andy Carroll says he has been inundated with messages of support from male sex assault victims after telling of his own ordeal. The former England striker, 37, said many had been in touch about their own experiences since he revealed his torment in autobiography Owning It. And he looked r",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-26T22:47:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Man City",
+        "Tuchel",
+        "rues",
+        "mistakes",
+        "City",
+        "charges"
+      ],
+      "summary": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Putellas scores first WSL goal as London City beat Brighton",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwr7dd0x245yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-26T22:00:53+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Putellas",
+        "scores",
+        "first",
+        "goal",
+        "London"
+      ],
+      "summary": "Alexia Putellas scores her first goal in the Women's Super League as London City Lionesses beat Brighton 2-0 at the Copperjax Community Stadium.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Internationals take shock lead over USA into singles after late drama",
+      "title_cn": "",
+      "url": "https://www.skysports.com/golf/news/12040/13592061/presidents-cup-international-team-take-historic-10-5-7-5-lead-over-team-usa-into-sunday-singles-and-chase-medinah-win",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-26T23:15:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Internationals",
+        "take",
+        "shock",
+        "lead",
+        "singles",
+        "late"
+      ],
+      "summary": "The International Team moved another step closer to a historic Presidents Cup win on American soil by taking a 10.5-7.5 lead over Team USA into the Sunday singles.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "England embrace the chaos - but control also needed to win big prizes",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-26T22:39:52+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "embrace",
+        "chaos",
+        "control",
+        "needed",
+        "prizes"
+      ],
+      "summary": "England embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
+      "title": "Meet the new 55 minute England collapse, not the same as the old 55 minute England collapse | Barney Ronay",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/27/england-spain-nations-league-meet-new-55-minute-collapse-not-same-as-old",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-26T23:19:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Meet",
+        "minute",
+        "England",
+        "collapse",
+        "same",
+        "Barney"
+      ],
+      "summary": "Things started to go wrong against Spain at the same time they did against Argentina, but for very different reasons and with far more cause for optimism You could feel it inside the stadium, one of those moments where the air starts to shift, the birds fly backwards through the sky, and outside on ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-26T23:31:48.717145+00:00"
+    },
+    {
       "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
@@ -39337,346 +39677,6 @@
       "summary": "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out there This week Central Cee launched his new Premier League song, called The Team. It owes its existence to a youth-centred, fist-bumping corporate tie-in with Coca-",
       "summary_cn": "",
       "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Aston Villa close on Jackson and Mbaye as Emery clears air with departing Watkins",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-28T16:09:46+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Watkins",
-        "Aston",
-        "Villa"
-      ],
-      "summary": "Chelsea’s Jackson and PSG’s Mbaye poised to join Saudi-bound Watkins says sorry for refusing to play Unai Emery is hopeful Nicolas Jackson will complete his £47.5m move from Chelsea in time to make his Aston Villa debut against Arsenal on Monday, while Villa are finalising a move for the Paris Saint",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Alexander Isak criticism is daft – I’m making a massive bet that he’ll outscore Newcastle’s Osula and Wissa COMBINED",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40205328/isak-criticism-daft-bet-outscore-osula-wissa/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-28T16:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Newcastle",
-        "Bournemouth",
-        "Haaland",
-        "Erling Haaland",
-        "James",
-        "Alexander"
-      ],
-      "summary": "ALEXANDER ISAK failed to score on his return to Newcastle, so apparently that makes him bang average. Did Erling Haaland not miss a sitter against Bournemouth? But he is still steaming towards the Golden Boot according to everyone. The criticism of Isak for his showing back at St James' Park, with a",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Man Utd player pens emotional letter on social media ahead of imminent Arsenal transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40206281/man-utd-habeeb-ogunneye-emotional-letter-arsenal-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-28T15:55:38+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester United",
-        "Man Utd",
-        "James",
-        "player",
-        "pens"
-      ],
-      "summary": "HABEEB OGUNNEYE has taken to social media to thank Manchester United after edging towards joining Arsenal. The defender, 20, is heading to North London in a deal which will see the Red Devils bag a significant sell-on clause. And fellow United wonderkid James Scanlon is expected to follow in Ogunney",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Trailblazer Taylor on 'strange' but 'amazing' England fielding coach role",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13578169/sarah-taylor-england-fielding-coach-says-role-has-been-strange-but-amazing-and-enjoying-working-with-jamie-smith",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-28T16:15:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Smith",
-        "Taylor",
-        "Trailblazer",
-        "strange",
-        "amazing",
-        "England"
-      ],
-      "summary": "Sarah Taylor says her landmark role as England men's fielding coach has been \"strange\" but \"amazing\" and that she is loving working with wicketkeeper Jamie Smith.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Tour Championship LIVE! Young on birdie charge as McIlroy makes mixed start",
-      "title_cn": "",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13578177/tour-championship-second-round-live-latest-scores-highlights-as-rory-mcilroy-scottie-scheffler-chase-min-woo-lee-at-fedexcup-finale",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-28T17:45:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Young",
-        "Tour",
-        "Championship",
-        "LIVE",
-        "birdie",
-        "charge"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Villa reach verbal agreement to sign PSG's Mbaye",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13578178/ibrahim-mbaye-transfer-news-aston-villa-reach-verbal-agreement-to-sign-psg-and-senegal-forward",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-28T17:38:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Villa",
-        "reach",
-        "verbal",
-        "agreement",
-        "sign"
-      ],
-      "summary": "Aston Villa&#160;have reached a verbal agreement with&#160;Paris Saint-Germain&#160;to sign winger&#160;Ibrahim Mbaye.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Ordonez's move to Palace in doubt after medical",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjg6w67g4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-28T15:35:11+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Ordonez",
-        "move",
-        "Palace",
-        "doubt",
-        "medical"
-      ],
-      "summary": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "US Open tennis, Premier League and Itauma v Hrgovic – follow with us",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/sport/2026/aug/28/us-open-tennis-premier-league-boxing-cricket-rugby-union-follow-with-us",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-28T16:51:02+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Open",
-        "tennis",
-        "Premier",
-        "League",
-        "Itauma",
-        "Hrgovic"
-      ],
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "What TV channel is Crystal Palace vs Man City on and can it be live streamed?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40188692/crystal-palace-man-city-tv-channel-live-stream-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-28T17:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Manchester City",
-        "Man City",
-        "channel",
-        "Crystal",
-        "Palace"
-      ],
-      "summary": "MANCHESTER CITY face Crystal Palace in their first away match of the Premier League season TONIGHT! SunSport brings you all the details you need on how to watch the huge clash in South London. What TV channel is Crystal Palace vs Man City on and can it be live streamed? Palace vs City takes place...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "McInnes backing himself to bring success to Rangers",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13578165/derek-mcinnes-rangers-manager-backing-himself-to-bring-success-after-european-failure-adds-to-difficult-start",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-28T16:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "McInnes",
-        "backing",
-        "himself",
-        "bring",
-        "success",
-        "Rangers"
-      ],
-      "summary": "\"I am a good manager, I back myself.\"",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Glamorous football presenter Eva Murati shows cleavage in lilac mini-dress as fans say ‘so cute’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40206229/eva-murati-cleavage-lilac-mini-dress-fans-cute/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-28T15:37:46+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Glamorous",
-        "football",
-        "presenter",
-        "Murati",
-        "shows",
-        "cleavage"
-      ],
-      "summary": "EVA MURATI has been hailed by fans after stunning in a lilac mini-dress. The star presenter was on duty for the Champions League qualifiers during the week. Murati, 31, is often labelled as the Albanian Laura Woods for her work presenting the UCL in her homeland. And she did not disappoint with her ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-28T17:19:07.397932+00:00"
-    },
-    {
-      "title": "Welbeck gives Chelsea lead vs Luton, Fulham 2-0 up on Wimbledon LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/chelsea-vs-luton-town/live/577427",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-27T18:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Fulham",
-        "Welbeck",
-        "gives",
-        "lead",
-        "Luton"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-27T19:47:52.150346+00:00"
-    },
-    {
-      "title": "Chelsea agree £7.5m deal to sign Emiliano Martínez from Aston Villa",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-27T18:19:59+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Chelsea",
-        "Manchester City",
-        "Emiliano Martínez",
-        "Martínez",
-        "agree"
-      ],
-      "summary": "Wantaway Enzo Fernández left out of Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa goalkeeper Emiliano Martínez and are expecting Manchester City to make an offer for Enzo Fernández in the next 48 hours. Xabi Alonso identi",
-      "summary_cn": "",
-      "fetched_at": "2026-08-27T19:47:52.150346+00:00"
-    },
-    {
-      "title": "Chelsea agree shock £7.5million Emi Martinez transfer with Aston Villa goalkeeper to undergo Stamford Bridge medical",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40195957/chelsea-agree-emi-martinez-transfer-aston-villa/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-27T18:04:22+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Chelsea",
-        "Bridge",
-        "agree",
-        "shock",
-        "Martinez"
-      ],
-      "summary": "CHELSEA have agreed a £7.5million fee to sign Emi Martinez. The Blues are desperate to land a new goalkeeper before Tuesday's deadline. And they are closing in on their man Martinez. It is understood the £7.5m fee is enough to land the Argentine stopper from Aston Villa. He is now set for a medical ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-27T19:47:52.150346+00:00"
-    },
-    {
-      "title": "'Fire burning within' for Smith following 'tough' Ashes winter",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13577908/jamie-smith-england-wicketkeeper-reflects-on-tough-ashes-as-he-welcomes-return-to-form-versus-pakistan-at-lords",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-27T19:11:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Smith",
-        "Fire",
-        "burning",
-        "within",
-        "following",
-        "tough"
-      ],
-      "summary": "England wicketkeeper Jamie Smith welcomed his return to form with the bat as he top-scored with 61 on day one of the second Test against Pakistan at Lord's.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-27T19:47:52.150346+00:00"
-    },
-    {
-      "title": "Remember me? Mayer quizzed by old foe Baumgardner at press conference",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13577884/mayer-vs-cameron-alycia-baumgardner-turns-reporter-as-mikaela-mayer-and-chantelle-cameron-eye-fight-of-the-year",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-27T18:40:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "gardner",
-        "Remember",
-        "Mayer",
-        "quizzed",
-        "Baumgardner",
-        "press"
-      ],
-      "summary": "There was a pause from Mikaela Mayer, so too an emerging, ironic smile upon realisation as to who had asked the question.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-27T19:47:52.150346+00:00"
-    },
-    {
-      "title": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-27T19:00:36+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Hughes",
-        "matic",
-        "Uefa",
-        "raises",
-        "stakes",
-        "criminal"
-      ],
-      "summary": "Uefa has begun a legal process against the embattled Fifa president in a dramatic new development Anyone who interpreted Uefa’s decision to withdraw a proposed boycott of Fifa competitions, revealed by the Guardian on Wednesday, as a backward step in the attempt to remove Gianni Infantino as Fifa’s ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-27T19:47:52.150346+00:00"
     }
   ]
 }
