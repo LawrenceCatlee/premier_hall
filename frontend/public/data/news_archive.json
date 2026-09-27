@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Papers: Barca monitoring as Estevao grows impatient with Chelsea role",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13592576/barcelona-closely-monitoring-as-estevao-grows-impatient-over-chelsea-role-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T23:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Papers",
+        "Barca",
+        "monitoring",
+        "Estevao",
+        "grows"
+      ],
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T23:44:33.903686+00:00"
+    },
+    {
+      "title": "KP promises to challenge McCullum as England push to be 'world's best'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13592509/kevin-pietersen-promises-to-challenge-brendon-mccullum-as-england-white-ball-head-coach-eyes-world-no-1-ranking",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T23:14:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "promises",
+        "challenge",
+        "McCullum",
+        "England",
+        "push",
+        "world"
+      ],
+      "summary": "Kevin Pietersen has promised to challenge England white-ball head coach Brendon McCullum in his new role as a specialist mentor to the team, saying it's precisely why he was brought in.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T23:44:33.903686+00:00"
+    },
+    {
+      "title": "Scheffler and Thomas shine for USA in incredible Presidents Cup victory!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13592589/presidents-cup-day-four-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-28T00:04:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scheffler",
+        "Thomas",
+        "shine",
+        "incredible",
+        "Presidents",
+        "victory"
+      ],
+      "summary": "Highlights from the final day of the Presidents Cup, where Team USA dominated the Sunday singles to close out a comeback victory over the International Team.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T23:44:33.903686+00:00"
+    },
+    {
+      "title": "Team USA snatch Presidents Cup thriller after epic singles fightback",
+      "title_cn": "",
+      "url": "https://www.skysports.com/golf/news/12040/13592440/presidents-cup-team-usa-beat-international-team-17-13-after-epic-sunday-singles-fightback-to-avoid-shock-medinah-loss",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T22:45:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Team",
+        "snatch",
+        "Presidents",
+        "thriller",
+        "epic",
+        "singles"
+      ],
+      "summary": "The United States snatched an 11th consecutive Presidents Cup victory after a remarkable final-day fightback saw claim a stunning 17-13 win over the Internationals.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T23:44:33.903686+00:00"
+    },
+    {
+      "title": "Seventeen titles in five years - why Spain are a dominant force",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T22:13:19+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Seventeen",
+        "titles",
+        "five",
+        "years",
+        "Spain",
+        "dominant"
+      ],
+      "summary": "We look at what's behind Spain's dominance of football with 17 titles in five years across all age groups and in the men's and women's game.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T23:44:33.903686+00:00"
+    },
+    {
+      "title": "Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/27/nations-league-germany-greece-serbia-netherlands-norway-portugal",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-27T22:03:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Nations",
+        "League",
+        "Greece",
+        "stun",
+        "Klopp",
+        "Germany"
+      ],
+      "summary": "Jürgen Klopp ‘unbothered’ despite 1-0 home defeat Gakpo goes off in 2-1 win, Portugal edge past Norway Greece stunned Germany 1-0 in Augsburg to go top of their Nations League group and spoil Jürgen Klopp’s debut in the home dugout. Dimitrios Kourbelis scored the only goal in the 74th minute, earnin",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T23:44:33.903686+00:00"
+    },
+    {
       "title": "Chelsea restore resilience - are they title contenders again?",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
@@ -39566,122 +39686,6 @@
         "start"
       ],
       "summary": "Charlton moved to the top of the Championship table after a 1-0 victory over struggling Preston.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Hearts hold on to see off St Johnstone",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/hearts-vs-st-johnstone/report/558354",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T16:50:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "stone",
-        "Hearts",
-        "hold",
-        "Johnstone"
-      ],
-      "summary": "Weary Hearts held firm at the end of a gruelling week to close out an unconvincing 2-1 home win over St Johnstone and climb to second in the Scottish Premiership.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Millar seals another Hull win as Coventry's wait for PL victory continues",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/coventry-city-vs-hull-city/report/559457",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T16:45:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Lampard",
-        "Frank Lampard",
-        "Millar",
-        "seals",
-        "another",
-        "Hull"
-      ],
-      "summary": "In a tale of two contrasting returns to the top flight, substitute Liam Millar scored late on to seal Hull's second straight victory in a 1-0 win at the CBS Arena while Frank Lampard's Coventry fell to a second consecutive league defeat.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "'We've got to do more' - Lampard frustrated by loss to Hull",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czjzdnj3l14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-29T16:59:54+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Lampard",
-        "Frank Lampard",
-        "frustrated",
-        "loss",
-        "Hull"
-      ],
-      "summary": "Coventry manager Frank Lampard believes his side controlled possession but were \"too slow\" with the ball as their first top-flight home game in 25 years ends in a 1-0 defeat by Hull City.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Scottish Premiership: on-song Durán lifts Celtic spirits in win over Falkirk",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-29T16:42:20+00:00",
-      "score": 26.0,
-      "keywords": [
-        "stone",
-        "Scottish",
-        "Premiership",
-        "song",
-        "lifts",
-        "Celtic"
-      ],
-      "summary": "Celtic fans’ banner mocks club’s ‘world class’ claims Hearts edge St Johnstone, Dundee United rout Killie Camilo Durán, in his preferred position of centre-forward, scored both goals for Celtic in their 2-1 win over Falkirk . The Colombian hit two striker’s goals in the opening 29 minutes and also s",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Southampton thump five past Millwall",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/southampton-vs-millwall/report/560530",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T17:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "thump",
-        "five",
-        "past",
-        "Millwall"
-      ],
-      "summary": "Cyle Larin proved why Southampton boss Tonda Eckert rates him as the best striker in the Championship as his double in a 5-1 victory shattered Millwall's perfect start to the season.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "West Ham still without a win after Watford draw",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/watford-vs-west-ham-united/report/560531",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T17:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "West Ham",
-        "West",
-        "still",
-        "without",
-        "Watford",
-        "draw"
-      ],
-      "summary": "Nuno Espirito Santo is still waiting for West Ham's first League win after they were held to a gritty 1-1 draw in front of Vicarage Road's biggest crowd for six years.",
       "summary_cn": "",
       "fetched_at": "2026-08-29T18:19:20.712521+00:00"
     }
