@@ -1,6 +1,445 @@
 {
   "items": [
     {
+      "title": "Chelsea restore resilience - are they title contenders again?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T19:46:44+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Chelsea",
+        "restore",
+        "resilience",
+        "title",
+        "contenders",
+        "again"
+      ],
+      "summary": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Man City chief in face-to-face confrontation with bitter rivals as LaLiga boss leads £100m compensation war over verdict",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40510851/man-city-charges-guilty-relegation-compensation-rivals/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-27T18:27:50+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "City",
+        "chief",
+        "face",
+        "confrontation"
+      ],
+      "summary": "MANCHESTER CITY chiefs will come face to face with some of their bitterest foes this week - as the waiting game into the official verdict into their Prem charges goes on. The Etihad leadership has vowed to respect the “confidential” process before the release of the potentially damning findings of t",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Swedish duo help Liverpool to derby win over Everton",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c65ywngpw59yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T18:49:13+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Everton",
+        "Liverpool",
+        "Olsson",
+        "Swedish",
+        "help",
+        "derby"
+      ],
+      "summary": "Swedish duo Beata Olsson and Cornelia Kapocs help Liverpool end a run of five consecutive home defeats in Merseyside derbies with a deserved win over Everton.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Late goal helps Birmingham snatch Palace draw in six-goal thriller",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckx2zq7elpgwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T18:51:44+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Crystal Palace",
+        "matic",
+        "Late",
+        "goal",
+        "helps",
+        "Birmingham"
+      ],
+      "summary": "Suzu Amano's dramatic 87th-minute equaliser helps Birmingham City secure a point after a six-goal thriller against Crystal Palace in the Women's Super League.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Cole Palmer’s girlfriend Olivia Holder stuns in tiny bikini as bronzed Chelsea Wag soaks up sunshine on the beach",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40510819/cole-palmer-girlfriend-olivia-holder-bikini-chelsea-wag/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-27T18:47:47+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Palmer",
+        "Cole",
+        "girlfriend",
+        "Olivia",
+        "Holder"
+      ],
+      "summary": "CHELSEA superstar Cole Palmer's girlfriend Olivia Holder took social media by storm as she enjoyed a day at the beach during the international break. Palmer, 24, withdrew from England duty which means he will get more quality time with Olivia, 24. The aesthetic clinic co-owner went on a sunny holida",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Michael Carrick has to use what happened to him vs Man City as turning point at Manchester United",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40501839/michael-carrick-man-utd-man-city/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-27T18:32:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Manchester United",
+        "Man City",
+        "Carrick",
+        "Michael Carrick",
+        "Edwin van der Sar"
+      ],
+      "summary": "THE BALL got rolling for Manchester City’s period of ‘dominance’ when Michael Carrick rolled the ball into the path of Yaya Toure in 2011. Carrick’s errant pass in the FA Cup semi-final was intercepted by the City midfielder, who charged into the area and slotted past Edwin van der Sar for the Wembl",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Young makes HUGE birdie at the 16th to defeat Hisatsune and win first singles point!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13592549/cameron-young-wins-first-singles-point-for-team-usa-after-beating-ryo-hisatsune-32",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T20:45:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Young",
+        "makes",
+        "HUGE",
+        "birdie",
+        "defeat",
+        "Hisatsune"
+      ],
+      "summary": "Cameron Young wins first singles point for Team USA after beating Ryo Hisatsune 3&2 at the Presidents Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "No handshakes between Republic of Ireland and Israel",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T18:58:35+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "handshakes",
+        "between",
+        "Republic",
+        "Israel"
+      ],
+      "summary": "The Republic of Ireland and Israel players do not shake hands with each other before Sunday's controversial Uefa Nations League game in Hungary.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Bellamy 'hurting' as Denmark outclass Wales",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T19:16:16+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Craig Bellamy",
+        "Bellamy",
+        "hurting",
+        "Denmark",
+        "outclass",
+        "Wales"
+      ],
+      "summary": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Fernandes, Gakpo & Dorgu join international break's injury list",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qxknzpn8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T19:05:33+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Bruno Fernandes",
+        "Fernandes",
+        "Gakpo",
+        "Dorgu",
+        "join",
+        "international"
+      ],
+      "summary": "Bruno Fernandes, Cody Gakpo and Patrick Dorgu all join the international break's high-profile injury list after suffering issues that have curtailed their involvement in Nations League matches.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-27T19:54:51+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "Israel",
+        "Republic",
+        "Norway",
+        "Portugal",
+        "Germany"
+      ],
+      "summary": "Updates from 7.45pm BST kick-offs in Nations League Live scores | Email John | And follow us over on TikTok The news from that Dutch win , Xavi’s first as coach, is that Cody Gakpo was forced off with an injury just 17 minutes in. Germany v Greece starting lineups: Continue reading...",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Thompson strike seals Chelsea win to end Arsenal's unbeaten run",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-arsenal-women/report/575779",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T18:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Thompson",
+        "strike",
+        "seals",
+        "unbeaten"
+      ],
+      "summary": "Alyssa Thompson scored the only goal as Chelsea secured a 1-0 win against Arsenal to end their unbeaten streak in the Women's Super League.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13592442/wsl-talking-points",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T19:06:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Liverpool",
+        "Man Utd",
+        "Medina",
+        "stars",
+        "Anfield"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Man Utd bag their first win of the season against West Ham",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm9qrzlqyz58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T18:03:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "West Ham",
+        "Man Utd",
+        "first",
+        "season",
+        "against"
+      ],
+      "summary": "Eva Olid claims her first Women's Super League victory as Manchester United manager, but they were made to work hard to beat West Ham.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Tottenham put four past Villa to continue their brilliant start to the season",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjr4vyrxql9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-09-27T18:50:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Tottenham",
+        "four",
+        "past",
+        "Villa",
+        "continue"
+      ],
+      "summary": "Victoria Pelova scores twice as Tottenham maintain their unbeaten start to the season with a 4-0 victory over Aston Villa.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Ex-Man City chief says old club must be punished with MORE than fines & fears for ‘league status’ after guilty verdict",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40511184/david-bernstein-man-city-punished-guilty-verdict-financial-rules/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-27T19:41:07+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "City",
+        "chief",
+        "club",
+        "must"
+      ],
+      "summary": "FORMER chairman David Bernstein reckons Manchester City should be handed a huge points deduction which jeopardises their Premier League future. Shockwaves were sent through English football when the Sky Blues were found guilty on almost all of their charges relating to breaching financial rules. Cit",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Kohli passes 15,000 ODI runs as hundred helps India beat West Indies",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13592513/india-vs-west-indies-virat-kohli-joins-sachin-tendulkar-in-passing-15000-odi-runs-as-his-55th-ton-fires-india-to-victory",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T18:41:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Kohli",
+        "passes",
+        "runs",
+        "hundred",
+        "helps",
+        "India"
+      ],
+      "summary": "Virat Kohli celebrated his return to the international arena by hitting his 55th ODI hundred as India beat West Indies by eight wickets in the series opener on Sunday.&#160;",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Australia suffer ODI series defeat to South Africa",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13592508/australia-suffer-odi-series-defeat-to-south-africa-as-david-miller-and-temba-bavuma-both-hit-hundreds",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T18:34:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Australia",
+        "suffer",
+        "series",
+        "defeat",
+        "South",
+        "Africa"
+      ],
+      "summary": "Australia fell to an ODI series defeat to South Africa with a game to spare as they were beaten by 32 runs in the second ODI match of three in&#160;Johannesburg on Sunday.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Scheffler and Echavarria confront crowd after mid-swing yell",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13592548/theres-no-place-for-that-scottie-scheffler-sticks-up-for-nico-echavarr237a-after-fan-shouts-out",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-09-27T20:44:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Scheffler",
+        "Echavarria",
+        "confront",
+        "crowd",
+        "swing",
+        "yell"
+      ],
+      "summary": "Scottie Scheffler defended Team International player Nico Echavarr&#237;a after a fan in the crowd shouted out.",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "Denmark dominate Wales in Nations League as Isaksen adds finishing touch",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/sep/27/denmark-wales-nations-league-group-a4-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-09-27T18:44:40+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Denmark",
+        "dominate",
+        "Wales",
+        "Nations",
+        "League",
+        "Isaksen"
+      ],
+      "summary": "Wales wilted in Copenhagen as a 2-0 defeat to Denmark left them bottom of their Nations League group with no points or goals from their first two games. After a first half in which Wales were very much second-best and fortunate to reach the break level, Denmark’s domination was rewarded by a Ben Dav",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "‘Incredible bit of s***housery’ – Fans in stitches over non-league star’s ‘unmatched commitment’ to cheeky celebration",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40510855/non-league-john-marquis-celebration-carlisle-woking/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-27T18:49:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Incredible",
+        "housery",
+        "Fans",
+        "stitches",
+        "league",
+        "star"
+      ],
+      "summary": "WOKING hat-trick hero John Marquis had fans bursting out laughing after hilariously mocking Carlisle keeper Adam Desbois. The former Millwall and Portsmouth striker, 34, spearheaded his side to a thumping 5-2 win in the National League on Saturday. Marquis, who was previously a model for Rio Ferdina",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
+      "title": "‘Red card baiting at its finest’ – Fans stunned as star gets TWO players sent off for pulling hair down to his ANKLES",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40510798/two-players-red-card-hair-pull/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-09-27T18:41:36+00:00",
+      "score": 20.0,
+      "keywords": [
+        "card",
+        "baiting",
+        "finest",
+        "Fans",
+        "stunned",
+        "star"
+      ],
+      "summary": "FOOTBALL fans were left stunned as TWO players got sent off for pulling a rival's hair that goes down to his ANKLES. Antigua and Barbuda faced Anguilla in the Concacaf Nations League. And the hosts ran out comfortable 5-0 winners, bouncing back from their 1-0 defeat to Aruba in Group H. They wasted ",
+      "summary_cn": "",
+      "fetched_at": "2026-09-27T20:01:17.289141+00:00"
+    },
+    {
       "title": "Chelsea v Arsenal: Women’s Super League – live",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/live/2026/sep/27/chelsea-v-arsenal-womens-super-league-live-score-updates",
@@ -39245,442 +39684,6 @@
       "summary": "Nuno Espirito Santo is still waiting for West Ham's first League win after they were held to a gritty 1-1 draw in front of Vicarage Road's biggest crowd for six years.",
       "summary_cn": "",
       "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Munoz magic salvages Liverpool point against Forest",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13578595/liverpool-2-2-nottingham-forest-premier-league-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T17:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Nottingham Forest",
-        "Forest",
-        "Munoz",
-        "magic",
-        "salvages"
-      ],
-      "summary": "Highlights from Liverpool against Nottingham Forest in the Premier League.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Hull clinch late victory over Coventry to continue winning start to PL return",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13578715/coventry-city-0-1-hull-city-premier-league-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T17:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Hull",
-        "clinch",
-        "late",
-        "victory",
-        "Coventry",
-        "continue"
-      ],
-      "summary": "Highlights from Coventry City against Hull City in the Premier League.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-29T18:03:52+00:00",
-      "score": 25.0,
-      "keywords": [
-        "worst",
-        "team",
-        "Premier",
-        "League",
-        "history",
-        "Hull"
-      ],
-      "summary": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Forest agree £22m deal with Palace for Munoz",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-29T16:43:25+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Nottingham Forest",
-        "Forest",
-        "agree",
-        "deal",
-        "Palace"
-      ],
-      "summary": "Nottingham Forest agree a deal worth a minimum of £22m to sign Daniel Munoz from Crystal Palace.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "'Slapstick' - Rose laments late Everton equaliser",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c7806jq0x02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-29T17:12:43+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Everton",
-        "Bournemouth",
-        "Slapstick",
-        "Rose",
-        "laments",
-        "late"
-      ],
-      "summary": "Bournemouth manager Marco Rose describes the injury-time goal his side conceded as \"slapstick\" as his side settle for a point in their 1-1 draw against Everton at the Vitality Stadium.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Jakirovic urges Hull to 'stay humble' after back-to-back wins",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3eq3vl7k8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-29T16:54:39+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Jakirovic",
-        "urges",
-        "Hull",
-        "stay",
-        "humble",
-        "back"
-      ],
-      "summary": "Hull City manager Sergej Jakirovic reminds his side to \"stay humble\" after beating Coventry City for their second win in two Premier League games on their return to the top division.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Duran's double eases Celtic's CL heartache with Falkirk win",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/celtic-vs-falkirk/report/558352",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T16:50:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Duran",
-        "double",
-        "eases",
-        "Celtic",
-        "heartache",
-        "Falkirk"
-      ],
-      "summary": "Camilo Duran's double saw Celtic recover from their Champions League heartache to maintain their winning Scottish Premiership start.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Lincoln claim first second-tier win in 65 years",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/bolton-wanderers-vs-lincoln-city/report/560523",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T17:15:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Lincoln",
-        "claim",
-        "first",
-        "second",
-        "tier",
-        "years"
-      ],
-      "summary": "Lincoln earned their first second-tier win for 65 years as Ben House's 66th-minute goal gave last season's SkyBet League One champions a 1-0 win at previously-unbeaten Bolton.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Watch Sportscene highlights of Saturday's Premiership action",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-29T19:15:08+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Watch",
-        "Sportscene",
-        "highlights",
-        "Saturday",
-        "Premiership",
-        "action"
-      ],
-      "summary": "Steven Thompson looks back at the afternoon's fixtures in the Scottish Premiership.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T18:19:20.712521+00:00"
-    },
-    {
-      "title": "Arsenal wonderkid Marli Salmon signs new Gunners contract on 17th birthday in huge coup for Mikel Arteta",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40212852/arsenal-marli-salmon-mikel-arteta-manchester-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-29T13:36:20+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Arsenal",
-        "young",
-        "Mikel",
-        "Arteta",
-        "Mikel Arteta",
-        "wonderkid"
-      ],
-      "summary": "MARLI SALMON has committed his future to Arsenal by signing his first professional contract. The highly-rated Hale End academy ace has put pen to paper on a pro deal after he turned 17 today. Salmon, who is thought of as one of the best young defenders in England, made his debut for the Arsenal firs",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Liam Delap makes immediate impact seconds into Forest debut as Liverpool boss Iraola left furious by technical blunder",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40212785/liam-delap-nottingham-forest-debut-liverpool-iraola-technical-blunder/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-29T13:11:23+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Liverpool",
-        "Nottingham Forest",
-        "Forest",
-        "Delap",
-        "Liam",
-        "makes"
-      ],
-      "summary": "LIAM DELAP made an immediate impact within minutes of coming on for his Nottingham Forest debut. But Andoni Iraola was left furious at a technical blunder which cost his team. The scores were level at 1-1 midway through the first half when Liverpool won a throw-in. But the fourth official's board wa",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Víctor Muñoz rescues Liverpool to deny Nottingham Forest another Anfield win",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-29T13:53:41+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Nottingham Forest",
-        "Forest",
-        "given",
-        "rescues",
-        "deny"
-      ],
-      "summary": "Some of the billionaires behind Liverpool were present for the opening match of Andoni Iraola’s Anfield reign but were given more food-for-thought than the feast they might have been expecting. Nottingham Forest were full value for the second 2-2 draw of Iraola’s tenure as Liverpool demonstrated the",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Who was given the toughest fixtures in the Champions League draw?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-08-29T12:24:41+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Aston Villa",
-        "Liverpool",
-        "Manchester City",
-        "given",
-        "toughest"
-      ],
-      "summary": "The draw was kind to Liverpool and Arsenal, but Manchester City and Aston Villa do not have it so good By Opta Analyst The 36 clubs in the Champions League know who they will play in the league phase , but which team has the kindest draw and who has the toughest assignment? Each side knows their eig",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "‘When I talk to him, he’s still traumatised’ – Luke Shaw’s Man Utd career ‘killed by injuries’ claims Patrice Evra",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40212704/luke-shaw-manchester-united-transfer-hull-patrice-evra-hall/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-29T14:05:01+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Man Utd",
-        "Patrice Evra",
-        "Luke Shaw",
-        "talk",
-        "still",
-        "traumatised"
-      ],
-      "summary": "PATRICE EVRA has claimed injuries TRAUMATISED Luke Shaw and that his time at the top is over. Shaw, 31, is coming off the back of his best season in four years at Old Trafford, but did not impress in the Prem opener against Hull. And Evra, 45, thinks it's time for him to go. Speaking...",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Julian Alvarez transfer to Arsenal OFF as star tells Mikel Arteta he has no interest in joining Premier League champions",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40212515/julian-alvarez-snubs-arsenal-mikel-arteta-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-29T13:01:01+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Mikel",
-        "Arteta",
-        "Mikel Arteta",
-        "Julian",
-        "Alvarez"
-      ],
-      "summary": "JULIAN ALVAREZ has reportedly told Mikel Arteta he does not want to join Arsenal in a bitter blow to the Premier League champions. The Gunners have spent most of the summer tracking the Atletico Madrid striker. Many view the Argentine forward, 26, as an upgrade on Viktor Gyokeres and a more suitable",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Swansea cruise to away win at struggling Derby",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/derby-county-vs-swansea-city/report/560527",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T14:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ji-sung",
-        "Swansea",
-        "cruise",
-        "away",
-        "struggling",
-        "Derby"
-      ],
-      "summary": "Swansea remained unbeaten in this season's Championship after goals from Joseph Opoku, Eom Ji-sung and Ronald secured a convincing 3-0 win at Derby.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Bizarre moment Sadio Mane appears to remind Cristiano Ronaldo to perform iconic celebration after CR7 sets new record",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40212318/cristiano-ronaldo-celebration-al-nassr-sadio-mane-sui-postecoglou/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-08-29T12:38:48+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Bizarre",
-        "moment",
-        "Sadio",
-        "Mane"
-      ],
-      "summary": "CRISTIANO RONALDO bizarrely had to be told by Sadio Mane to do his iconic celebration after scoring again for Al-Nassr. CR7 bagged his second of the season in a 2-1 comeback win over Al-Taawoun on Friday - and forgot his trademark jump and 'Sui.' But Mane, always alert, didn't miss a trick, running ",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Munoz rescues point for Liverpool as Iraola's wait for a win goes on",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/report/559460",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T14:38:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Nottingham Forest",
-        "Forest",
-        "Munoz",
-        "rescues",
-        "point"
-      ],
-      "summary": "Victor Munoz thumped in a deflected leveller to rescue a point for Liverpool in a 2-2 draw with Nottingham Forest.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Bournemouth vs Everton LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/bournemouth-vs-everton/live/559455",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T13:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Everton",
-        "Bournemouth",
-        "LIVE"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Wolves ease to victory against Stoke",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-stoke-city/report/560532",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T14:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Wolves",
-        "ease",
-        "victory",
-        "against",
-        "Stoke"
-      ],
-      "summary": "Wolves came from behind to beat Stoke 4-1 and continue their unbeaten start in the Sky Bet Championship.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Lankshear scores twice as Boro beat West Brom",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/middlesbrough-vs-west-bromwich-albion/report/560528",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-08-29T14:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Lankshear",
-        "scores",
-        "twice",
-        "Boro",
-        "beat"
-      ],
-      "summary": "Will Lankshear made it six goals in five games following his summer move from Tottenham as Middlesbrough's strong start to the season continued with a 3-1 home win over West Brom.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
-    },
-    {
-      "title": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-08-29T13:28:37+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Nottingham Forest",
-        "Forest",
-        "Gibbs",
-        "White",
-        "shines"
-      ],
-      "summary": "How Liverpool and Nottingham Forest's players rated following their Premier League match.",
-      "summary_cn": "",
-      "fetched_at": "2026-08-29T14:23:30.879147+00:00"
     }
   ]
 }
