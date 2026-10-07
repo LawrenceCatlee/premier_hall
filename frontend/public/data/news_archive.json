@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Papers: Arteta becomes Premier League's highest-paid boss on £20m-a-year",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13596325/arsenal-manager-mikel-arteta-becomes-premier-leagues-highest-paid-boss-on-20m-a-year-new-contract-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-07T22:46:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arteta",
+        "Papers",
+        "becomes",
+        "Premier",
+        "League",
+        "highest"
+      ],
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-10-07T22:59:28.293517+00:00"
+    },
+    {
+      "title": "Rice close to agreeing new Arsenal deal",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-07T22:21:44+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Declan Rice",
+        "Rice",
+        "close",
+        "agreeing",
+        "deal"
+      ],
+      "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-07T22:59:28.293517+00:00"
+    },
+    {
+      "title": "Mikel Arteta’s new £80m Arsenal deal is more bad news for Man City after he left club in sliding doors moment",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40615663/premier-league-news-arteta-new-arsenal-contract-man-city/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-07T21:59:55+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Manchester City",
+        "Man City",
+        "Mikel",
+        "Mikel Arteta",
+        "Arteta"
+      ],
+      "summary": "JUST when Manchester City fans thought things could not get any worse, Mikel Arteta has signed a new contract at Arsenal. The Spanish boss extending his seven-year stay at the Emirates until 2030 was the least surprising event of an extraordinary international break which saw City found GUILTY of br",
+      "summary_cn": "",
+      "fetched_at": "2026-10-07T22:59:28.293517+00:00"
+    },
+    {
+      "title": "Euro Leagues: Ronaldo's fallout with Jorge Jesus & is Zidane making his mark?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pfk3y1?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-07T21:49:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "Jesus",
+        "Euro",
+        "Leagues",
+        "fallout",
+        "Jorge"
+      ],
+      "summary": "Is Ronaldo's behaviour a surprise? And what've we learnt from Zidane's start?",
+      "summary_cn": "",
+      "fetched_at": "2026-10-07T22:59:28.293517+00:00"
+    },
+    {
       "title": "Do England already have their Kane replacement - or is he yet to emerge?",
       "title_cn": "",
       "url": "https://www.bbc.co.uk/sport/articles/cked39dp0476o?at_medium=RSS&at_campaign=rss",
@@ -39635,86 +39715,6 @@
         "venue"
       ],
       "summary": "Katie Taylor's glittering boxing career will draw to a close on Saturday night at her \"dream venue\" and with the message a simple one: \"Let's go one more time\".",
-      "summary_cn": "",
-      "fetched_at": "2026-09-04T21:21:10.800589+00:00"
-    },
-    {
-      "title": "Guendouzi and Greenwood banned after brawl",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7874vxzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-04T19:24:48+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Matteo",
-        "Green",
-        "Guendouzi",
-        "Greenwood",
-        "banned",
-        "brawl"
-      ],
-      "summary": "Fenerbahce midfielder Matteo Guendouzi gets a four-match European ban and is fined 50,000 euros after a brawl following the Champions League play-off win at Lyon.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-04T21:21:10.800589+00:00"
-    },
-    {
-      "title": "Star-studded London City cruise to win over Man Utd",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-04T21:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Star",
-        "studded",
-        "London",
-        "City"
-      ],
-      "summary": "London City Lionesses started their star-studded era and the new season with a comfortable 2-1 win over Manchester United.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-04T21:21:10.800589+00:00"
-    },
-    {
-      "title": "Iraola up and running at Liverpool as Isak nets double at Ipswich",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/report/559470",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-04T21:49:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Ipswich",
-        "Liverpool",
-        "Iraola",
-        "running",
-        "Isak",
-        "nets"
-      ],
-      "summary": "Andoni Iraola registered his first win as Liverpool head coach as Alexander Isak scored twice inside nine minutes to beat Ipswich 2-0.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-04T21:21:10.800589+00:00"
-    },
-    {
-      "title": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-04T20:54:30+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Ipswich",
-        "Liverpool",
-        "Isak",
-        "shines",
-        "last",
-        "Scherpen"
-      ],
-      "summary": "How Liverpool and Ipswich Town's players rated following their Premier League match.",
       "summary_cn": "",
       "fetched_at": "2026-09-04T21:21:10.800589+00:00"
     }
