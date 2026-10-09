@@ -1,118 +1,80 @@
 {
-  "updated_at": "2026-10-08T23:13:52.927219+00:00",
+  "updated_at": "2026-10-09T05:51:31.705720+00:00",
   "items": [
     {
-      "title": "Chelsea double winner, 35, announces retirement and reveals tears in emotional statement after EFL club released him",
+      "title": "Billam-Smith on Clarke revenge mission: 'I've got a lot of bitterness!'",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40626068/chelsea-fabio-borini-retirement-liverpool-sunderland-swansea-salford/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-08T21:55:30+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Chelsea",
-        "Manchester United",
-        "Beckham",
-        "Gary Neville",
-        "Neville",
-        "David Beckham"
-      ],
-      "summary": "CHELSEA cult hero Fabio Borini announced his retirement from football with a touching statement four months after his release from Salford. Borini, 35, was among nine players axed by the Ammies by club co-owners and Manchester United legends Sir David Beckham and Gary Neville. https://www.instagram.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Premier League: 10 things to look out for this weekend",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-10-08T23:01:31+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Tottenham",
-        "Declan Rice",
-        "Carrick",
-        "Michael Carrick",
-        "Premier"
-      ],
-      "summary": "Michael Carrick is wary of ‘Dr Tottenham’, Oliver Glasner returns to Selhurst Park and will Manchester City summon a siege mentality at Anfield? Premier League top scorers | View the league table Declan Rice’s future role in England’s midfield was questioned by Gary Lineker after Alex Scott’s impres",
-      "summary_cn": ""
-    },
-    {
-      "title": "How Man Utd’s cheat code and ‘shadow-boxing’ strategy will expose Tottenham – as long as they unleash two stars",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40624512/man-utd-tottenham-tactics-exposed/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-08T21:32:01+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Tottenham",
-        "Man Utd",
-        "Carrick",
-        "Michael Carrick",
-        "cheat"
-      ],
-      "summary": "MANCHESTER UNITED host Tottenham at Old Trafford this weekend in a mouth-watering Prem clash that is crucial for both teams. United are off to a poor start under Michael Carrick with just one win from their first five, while Roberto De Zerbi's side are winless and rock bottom. Carrick’s side enter t",
-      "summary_cn": ""
-    },
-    {
-      "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk",
+      "url": "https://www.skysports.com/boxing/news/12040/13596613/chris-billam-smith-on-revenge-mission-against-cheavon-clarke-ive-got-a-lot-of-bitterness-inside-me",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-08T22:30:00+00:00",
-      "score": 25.0,
+      "published": "2026-10-09T06:00:00+00:00",
+      "score": 26.0,
       "keywords": [
-        "Man Utd",
-        "Papers",
-        "receive",
-        "wantaway",
-        "Gabriel",
-        "revealed"
+        "Smith",
+        "Billam",
+        "Clarke",
+        "revenge",
+        "mission",
+        "bitterness"
       ],
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "summary": "Chris Billam-Smith is on a revenge mission when he fights Cheavon Clarke on November 7.",
       "summary_cn": ""
     },
     {
-      "title": "Spurs' Simons enrols at iconic university Harvard",
+      "title": "Nuno on West Ham's bright start and being back in the Championship",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckpqg9388e7wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.skysports.com/football/news/12040/13595822/nuno-espirito-santo-interview-west-ham-boss-on-their-bright-start-being-back-in-the-championship-and-facing-qpr",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-09T06:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Nuno",
+        "West",
+        "bright",
+        "start",
+        "being"
+      ],
+      "summary": "\"Life changes as you get older.\"",
+      "summary_cn": ""
+    },
+    {
+      "title": "Maresca will be demanding a siege mentality from Man City - Pulis",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x3908kpqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-08T22:21:25+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Simons",
-        "enrols",
-        "iconic",
-        "university"
-      ],
-      "summary": "Tottenham's Xavi Simons enrols at prestigious American university Harvard as he continues his recovery from a long-term injury.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Man City fans accuse Premier League of already airbrushing them from history after guilty verdict for serious breaches",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40625771/man-city-fans-accuse-premier-league-fans-erasure-charges/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-08T21:40:07+00:00",
+      "published": "2026-10-09T05:25:04+00:00",
       "score": 25.0,
       "keywords": [
         "Manchester City",
         "Man City",
-        "City",
-        "fans",
-        "accuse",
-        "Premier"
+        "Maresca",
+        "demanding",
+        "siege",
+        "mentality"
       ],
-      "summary": "MANCHESTER CITY fans have accused the Premier League of already trying to erase them from the history books in the wake of their financial scandal. City were last month found guilty of over 100 breaches of the Prem's financial rules during a nine-year period. The Etihad club have appealed the bombsh",
+      "summary": "BBC Sport columnist Tony Pulis explains why Manchester City players have a great chance to show unity and togetherness when they travel to Anfield on Sunday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Today's cricket scorecards, including South Africa vs Australia",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/scores-fixtures",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-09T06:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Today",
+        "cricket",
+        "scorecards",
+        "including",
+        "South",
+        "Africa"
+      ],
+      "summary": "Latest cricket scores from around the world, including Test matches, white-ball internationals, and a whole lot more.",
       "summary_cn": ""
     }
   ]

@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Billam-Smith on Clarke revenge mission: 'I've got a lot of bitterness!'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13596613/chris-billam-smith-on-revenge-mission-against-cheavon-clarke-ive-got-a-lot-of-bitterness-inside-me",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-09T06:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Smith",
+        "Billam",
+        "Clarke",
+        "revenge",
+        "mission",
+        "bitterness"
+      ],
+      "summary": "Chris Billam-Smith is on a revenge mission when he fights Cheavon Clarke on November 7.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-09T05:51:31.680180+00:00"
+    },
+    {
+      "title": "Nuno on West Ham's bright start and being back in the Championship",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13595822/nuno-espirito-santo-interview-west-ham-boss-on-their-bright-start-being-back-in-the-championship-and-facing-qpr",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-09T06:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Nuno",
+        "West",
+        "bright",
+        "start",
+        "being"
+      ],
+      "summary": "\"Life changes as you get older.\"",
+      "summary_cn": "",
+      "fetched_at": "2026-10-09T05:51:31.680180+00:00"
+    },
+    {
+      "title": "Maresca will be demanding a siege mentality from Man City - Pulis",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x3908kpqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-09T05:25:04+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Maresca",
+        "demanding",
+        "siege",
+        "mentality"
+      ],
+      "summary": "BBC Sport columnist Tony Pulis explains why Manchester City players have a great chance to show unity and togetherness when they travel to Anfield on Sunday.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-09T05:51:31.680180+00:00"
+    },
+    {
+      "title": "Today's cricket scorecards, including South Africa vs Australia",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/scores-fixtures",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-09T06:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Today",
+        "cricket",
+        "scorecards",
+        "including",
+        "South",
+        "Africa"
+      ],
+      "summary": "Latest cricket scores from around the world, including Test matches, white-ball internationals, and a whole lot more.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-09T05:51:31.680180+00:00"
+    },
+    {
       "title": "Chelsea double winner, 35, announces retirement and reveals tears in emotional statement after EFL club released him",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40626068/chelsea-fabio-borini-retirement-liverpool-sunderland-swansea-salford/",
@@ -39638,82 +39718,6 @@
         "role"
       ],
       "summary": "RICHARD HUGHES has STEPPED DOWN from his role as Liverpool's sporting director. He made the move to the Reds in June 2024 from Premier League rivals Bournemouth. Hughes, 47, helped Liverpool win their 20th Premier League title in his first year at Anfield. However, after just two years in the role h",
-      "summary_cn": "",
-      "fetched_at": "2026-09-05T12:35:26.447631+00:00"
-    },
-    {
-      "title": "Nottingham Forest vs Tottenham team news LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-tottenham-hotspur/live/559473",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T12:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Nottingham Forest",
-        "Tottenham",
-        "Forest",
-        "Nottingham",
-        "team",
-        "news"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-09-05T12:35:26.447631+00:00"
-    },
-    {
-      "title": "Live on Sky! Birmingham City vs Wolves",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/birmingham-city-vs-wolverhampton-wanderers/live/560546",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T12:14:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Wolves",
-        "Live",
-        "Birmingham",
-        "City"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-09-05T12:35:26.447631+00:00"
-    },
-    {
-      "title": "Brentford vs Sunderland team news LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/brentford-vs-sunderland/live/559465",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T13:08:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "Sunderland",
-        "team",
-        "news",
-        "LIVE"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-09-05T12:35:26.447631+00:00"
-    },
-    {
-      "title": "Brighton vs Leeds team news LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-leeds-united/live/559466",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-05T13:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Leeds",
-        "team",
-        "news",
-        "LIVE"
-      ],
-      "summary": "",
       "summary_cn": "",
       "fetched_at": "2026-09-05T12:35:26.447631+00:00"
     }
