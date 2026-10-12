@@ -1,6 +1,246 @@
 {
   "items": [
     {
+      "title": "'This could get very messy, very quickly!' - Carra on Man Utd's lack of intensity",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13598303/jamie-carragher-picks-apart-lack-of-intensity-from-man-utd-this-could-get-very-messy-very-quickly-for-all-involved",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-12T20:03:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "Man United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carragher",
+        "Carrick"
+      ],
+      "summary": "Jamie Carragher analysed Man United's lack of intensity in the press during their 1-1 draw with Tottenham Hotspur and suggested that if it continues then questions will continue to be asked about head coach Michael Carrick.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "Coventry City v Newcastle United: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-12T20:05:22+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Newcastle",
+        "silva",
+        "Coventry",
+        "City",
+        "United",
+        "Premier"
+      ],
+      "summary": "Premier League updates from the 8pm BST kick-off 10 talking points | Table | Top scorers | Email Daniel So where is our game? Coventry will want to use their wide attackers to get them up the pitch. Down their left in particular, I’d expect to see Dasilva and Mason-Clark ganging up on Miley, who isn",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "‘No negativity’: Carrick still confident at Manchester United despite ‘sticky’ start",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/12/michael-carrick-manchester-united-no-negativity-atletico-madrid",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-12T19:48:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Michael Carrick",
+        "Luke Shaw",
+        "Carrick",
+        "negativity",
+        "still"
+      ],
+      "summary": "United have endured worst league start since 1986-87 Trip to Atlético in Champions League awaits on Tuesday Manchester United have endured their worst league start in 40 years but Michael Carrick insists he is “loving it”. United arrived in Madrid without Kobbie Mainoo and Luke Shaw, who both picked",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "Man Utd hit by double injury blow as key duo ruled out of Atletico Madrid clash after missing training",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40662556/man-utd-injury-shaw-mainoo-out-atletico/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-12T18:31:51+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Luke Shaw",
+        "double",
+        "injury",
+        "blow"
+      ],
+      "summary": "MANCHESTER UNITED have been struck by a double injury blow ahead of their Champions League clash with Atletico Madrid. The Red Devils departed for the Spanish capital on Monday for their second game of the competition's league phase. But first-team duo Luke Shaw and Kobbie Mainoo will not be among t",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "Suljovic apologises but faces probe over inciting jeers and alleged sexist comments",
+      "title_cn": "",
+      "url": "https://www.skysports.com/darts/news/12040/13598173/mensur-suljovic-referred-to-darts-regulator-for-inciting-jeers-against-ross-smith-and-alleged-sexist-comments-as-austrian-issues-apology",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-12T18:15:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Smith",
+        "Suljovic",
+        "apologises",
+        "faces",
+        "probe",
+        "inciting"
+      ],
+      "summary": "Mensur Suljovic's crowd incitement during his match against Ross Smith and his alleged sexist comments in his on-stage interview regarding the incident have been referred to the Darts Regulation Authority.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "Andy Carroll says ‘high profile footballers’ told him they suffered similar sexual abuse following revelation",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40662896/andy-carroll-footballers-suffered-sexual-abuse/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-12T20:08:33+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "Carroll",
+        "Andy Carroll",
+        "Andy",
+        "high",
+        "profile"
+      ],
+      "summary": "ANDY Carroll has claimed high-profile footballers have confessed they suffered similar sexual abuse following his own revelations. The former England international, 37, first revealed he had been sexually assaulted in a \"traumatic\" attack in his autobiography, Owning It, last month. At the time, Car",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "Lovely Cherif strike doubles Coventry's lead against Newcastle LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/live/559497",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-12T18:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Lovely",
+        "Cherif",
+        "strike",
+        "doubles",
+        "Coventry"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "'A complete MESS!' - Rudoni gives Coventry lead from spot after Hornicek slow to challenge",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13598307/goal-j-rudoni-6-pen-coventry-1-0-newcastle",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-12T20:14:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "complete",
+        "MESS",
+        "Rudoni",
+        "gives",
+        "Coventry",
+        "lead"
+      ],
+      "summary": "Jack Rudoni scores Coventry's first Premier League home goal for more than 25 years!",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "Burnham’s meeting with City’s al-Mubarak and other contact with club disclosed",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/12/andy-burnham-meeting-manchester-city-contacts-disclosed",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-12T18:26:08+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Burnham",
+        "meeting",
+        "City",
+        "Mubarak",
+        "other"
+      ],
+      "summary": "Burnham had formal meeting with Khaldoon al-Mubarak Prime minister was also guest at ‘small number’ of games Andy Burnham had a formal meeting with Manchester City’s chair, ­Khaldoon al-Mubarak, at an investment summit, chatted to him in the stands at a star player’s testimonial game and was accompa",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "Man Utd loan watch: Ace back at club after season-ending injury as Onana stuns with clean sheet and Obi makes rare cameo",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40663116/man-utd-loan-devaney-onana-chido-obi/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-12T19:45:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "loan",
+        "watch",
+        "back",
+        "club"
+      ],
+      "summary": "MANCHESTER UNITED dropped more points against a 10-man side thanks to Dominic Solanke's stoppage time equaliser over the weekend. And it was a frustrating weekend for most of the 11 players the Red Devils have sent out on loan, too. Andre Onana The Cameroonian keeper's positive start to his second s",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "How Man Utd’s LAZY midfield saw ‘accordion press’ fall apart vs Tottenham.. but Carlos Baleba can offer instant solution",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40662045/man-utd-midfield-collapse-tottenham-carlos-baleba-solution/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-12T19:42:07+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Tottenham",
+        "Man Utd",
+        "LAZY",
+        "midfield",
+        "accordion"
+      ],
+      "summary": "MANCHESTER UNITED have suffered their worst start to a season in 40 years. The Red Devils dropped points in a 1-1 draw against Tottenham on Saturday after conceding a late equaliser at Old Trafford. Despite taking the lead through Bryan Mbeumo in the 73rd minute, United were arguably lucky to avoid ",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
+      "title": "Saracens sack academy player involved in Stokes-Atkinson fracas after new incident",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13598285/totoa-auvaa-saracens-sack-academy-forward-involved-in-nightclub-fracas-with-ben-stokes-and-gus-atkinson-after-new-incident",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-12T19:30:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Saracens",
+        "sack",
+        "academy",
+        "player",
+        "involved",
+        "Stokes"
+      ],
+      "summary": "Saracens have sacked Totoa Auvaa with immediate effect after an incident over the weekend - four months after the forward was involved in the nightclub altercation that preceded Ben Stokes' retirement from international cricket.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-12T20:13:12.863586+00:00"
+    },
+    {
       "title": "BREAKING: Man Utd hit with double injury blow as pair miss training ahead of Atletico Madrid clash",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40656266/man-utd-atletico-madrid-luke-shaw-kobbie-manu/",
@@ -39489,245 +39729,6 @@
         "angle"
       ],
       "summary": "New video footage shows the ball coming off Neco Williams' arm before his disallowed goal for Nottingham Forest in the 0-0 draw against Tottenham.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "‘Relief’ of Premier League title has given Arsenal confidence, says David Raya",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/07/david-raya-arsenal-confidence-premier-league-relief",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-07T11:00:49+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Arteta",
-        "given",
-        "David Raya",
-        "Relief",
-        "Premier"
-      ],
-      "summary": "Keeper says Gunners ‘can beat anybody in this league’ Arteta’s side have started title defence with three wins David Raya says Arsenal are playing with greater confidence after the “relief” of winning the Premier League. The champions continued their perfect start to the defence of their crown with ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "‘I was screaming’ – Gary Neville slams THREE Man Utd stars for role in Everton equaliser as he reveals ‘fear’ for season",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40296905/gary-neville-man-utd-everton-diogo-dalot-harry-maguire/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-07T12:13:53+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Everton",
-        "Manchester United",
-        "Man Utd",
-        "Gary Neville",
-        "Neville",
-        "screaming"
-      ],
-      "summary": "GARY NEVILLE has torn into three Manchester United stars over Everton's late equaliser, admitting he fears the defensive problems could haunt his former club all season. United surrendered a 2-1 lead at Goodison Park on Sunday as Ainsley Maitland-Niles produced a stunning late strike to earn Everton",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "Alex Iwobi and Emile Smith-Rowe wipe all trace of Fulham from Instagram after team-mate’s cryptic post hinted at chaos",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40295323/iwobi-smith-rowe-fulham-instagram-crystal-palace/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-07T10:28:55+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Fulham",
-        "Smith",
-        "Iwobi",
-        "Alex Iwobi",
-        "Alex",
-        "Emile"
-      ],
-      "summary": "ALEX IWOBI and Emile Smith Rowe have appeared to wipe Fulham-related content from their Instagram accounts. This comes just days after team-mate Kevin posted a cryptic message that sent fans into a frenzy. The social-media activity has sparked wild speculation among supporters that all may not be we",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "Official Barcelona ticket and 2-night hotel packages from just £309pp on amazing trip for games at the Nou Camp",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39805720/barcelona-live-spain-match-ticket-hotel-nou-camp/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-07T11:26:14+00:00",
-      "score": 28.0,
-      "keywords": [
-        "Official",
-        "Barcelona",
-        "ticket",
-        "night",
-        "hotel",
-        "packages"
-      ],
-      "summary": "FOOTBALL fans can enjoy the ultimate football city break to Barcelona and catch a game at the spectacular Nou Camp stadium. Supporters have a golden opportunity to experience the amazing stadium and witness some of the world's most exciting football talent, including Lamine Yamal, Pedri, Raphinha an",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "Aubameyang rolls back years as revamped ‘Super Dépor’ return to La Liga in style | Billy Munday",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/07/pierre-emerick-aubameyang-deportivo-a-coruna-la-liga",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-07T12:03:13+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Aubameyang",
-        "Pierre-Emerick Aubameyang",
-        "rolls",
-        "back",
-        "years",
-        "revamped"
-      ],
-      "summary": "Two assists and the winner for Deportivo A Coruña leave Gabonese striker with one club record and eyeing another Pierre-Emerick Aubameyang was already the best player on the pitch when he ran through to score Deportivo A Coruña’s winner on Saturday night. It was certainly not Ilias Akhomach, the Vil",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-07T11:20:32+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Crystal Palace",
-        "talking",
-        "points",
-        "Palace",
-        "result"
-      ],
-      "summary": "Promoted side’s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight. An impressive 1-0 v",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "Brundle's verdict on Antonelli fairytale, 'bruised' Russell and Ferrari 'skirmish'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/f1/news/12040/13582707/italian-gp-martin-brundles-verdict-on-kimi-antonelli-fairytale-bruised-george-russell-and-lewis-hamilton-charles-leclerc-incident",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-07T12:50:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Brundle",
-        "verdict",
-        "Antonelli",
-        "fairytale",
-        "bruised",
-        "Russell"
-      ],
-      "summary": "Whatever your feelings about the 2026 Formula 1 cars, that was a cracking Italian Grand Prix, one of the very best I've been lucky enough to commentate on in 30 years.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "NFL games live on Sky in Week One as 2026 season starts on Wednesday",
-      "title_cn": "",
-      "url": "https://www.skysports.com/nfl/news/12040/13582747/nfl-2026-season-live-on-sky-sports-fixtures-kick-off-times-tv-channel-for-games-this-week-and-weekend",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-07T11:41:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "games",
-        "live",
-        "Week",
-        "season",
-        "starts",
-        "Wednesday"
-      ],
-      "summary": "The 2026 NFL season gets under way with a Super Bowl rematch as defending champions Seattle Seahawks host New England Patriots on Wednesday night.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "England appoint Pietersen as specialist mentor for white-ball teams",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13582723/kevin-pietersen-england-appoint-former-captain-as-specialist-mentor-for-white-ball-teams",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-07T11:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "England",
-        "appoint",
-        "Pietersen",
-        "specialist",
-        "mentor",
-        "white"
-      ],
-      "summary": "Kevin Pietersen is to join the England men's white-ball teams as a specialist mentor in the build-up to next year's Cricket World Cup in Africa.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "Belgian FA still wants Balogun ban answers",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-07T10:32:29+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Belgian",
-        "still",
-        "wants",
-        "Balogun",
-        "answers"
-      ],
-      "summary": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "Karius keeps Kane at bay as Schalke nullify Bayern on Neuer’s return | Andy Brassell",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/07/loris-karius-manuel-neuer-harry-kane-schalke-bayern-munich-bundesliga",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-07T11:29:40+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Karius",
-        "keeps",
-        "Kane",
-        "Schalke",
-        "nullify",
-        "Bayern"
-      ],
-      "summary": "The often-derided Loris Karius upstaged Manuel Neuer as Schalke held Bayern to a rare goalless draw in a tale of two goalkeepers in Gelsenkirchen If one goalkeeper was going to dominate the discussion in this game, it actually felt as if it would be the less busy one. Schalke fans do not take kindly",
-      "summary_cn": "",
-      "fetched_at": "2026-09-07T12:17:24.950996+00:00"
-    },
-    {
-      "title": "Serie A’s hierarchy takes shape with wild night in Milan and flat draw in Turin | Nicky Bandini",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/07/inter-napoli-juventus-milan-serie-a-hierarchy",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-07T12:03:40+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Serie",
-        "hierarchy",
-        "takes",
-        "shape",
-        "wild",
-        "night"
-      ],
-      "summary": "Inter’s victory over Napoli had the feel of a title race classic, while Juventus and Milan exposed familiar shortcomings despite their summer spending Already as the words were being spoken, Cristian Chivu started to bristle. “ Scontri diretti ” translates to “head-to-head clashes”. The term is comm",
       "summary_cn": "",
       "fetched_at": "2026-09-07T12:17:24.950996+00:00"
     }
