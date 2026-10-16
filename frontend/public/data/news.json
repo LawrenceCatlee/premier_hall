@@ -1,23 +1,136 @@
 {
-  "updated_at": "2026-10-16T01:08:52.883219+00:00",
+  "updated_at": "2026-10-16T07:00:19.656435+00:00",
   "items": [
     {
-      "title": "Papers: Conte tells Man Utd he's ready to take over if Carrick sacked",
+      "title": "The rapid rise of a former art dealer to Europe's hottest young manager",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13599794/manchester-united-latest-antonio-conte-tells-man-utd-hes-ready-to-take-over-if-michael-carrick-is-sacked-paper-talk",
-      "source": "Sky Sports",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmde8l07569no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-15T23:53:00+00:00",
+      "published": "2026-10-16T06:28:10+00:00",
       "score": 31.0,
       "keywords": [
-        "Man Utd",
-        "Carrick",
-        "Papers",
-        "Conte",
-        "tells",
-        "ready"
+        "Brighton",
+        "Manchester United",
+        "young",
+        "rapid",
+        "rise",
+        "former"
       ],
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "summary": "How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Alan Shearer fears for Matthias Jaissle’s Newcastle future if Toon fail to bounce back from Coventry thumping vs Villa",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40705563/alan-shearer-fears-matthias-jaissle-newcastle-future/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-16T06:47:35+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Newcastle",
+        "Shearer",
+        "Alan Shearer",
+        "Alan",
+        "fears"
+      ],
+      "summary": "ALAN SHEARER says Matthias Jaissle will face the Toon Army’s fury if Newcastle fail to bounce back against Aston Villa. The Magpies were walloped 4-1 at Coventry on Monday after being thumped by the same scoreline at Leeds in their previous away match. Fans are already questioning the German’s 4-2-3",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal ‘line up Bayern Munich defender, 29, for shock winter transfer amid Piero Hincapie injury fears’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40705469/arsenal-target-bayern-defender-kim-min-jae-transfer/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-16T06:10:12+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Ezri Konsa",
+        "Konsa",
+        "line",
+        "Bayern",
+        "Munich"
+      ],
+      "summary": "ARSENAL could attempt to sign Bayern Munich defender Kim Min-jae in January, according to reports. The Gunners already have several top centre-backs at their disposal, including Gabriel Magalhaes and William Saliba - who is yet to make an appearance this term due to injury. They added Ezri Konsa to ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Does the Premier League 'Big Six' still exist?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-16T05:53:57+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Tottenham"
+      ],
+      "summary": "For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham Hotspur., but could this era be coming to an end?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Crane 'buzzing' at England recall, wants more than Insta celebrity",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13599691/mason-crane-buzzing-at-england-recall-as-glamorgan-leg-spinner-credits-richard-dawson-with-turnaround-in-fortunes",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-16T06:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Crane",
+        "buzzing",
+        "England",
+        "recall",
+        "wants",
+        "Insta"
+      ],
+      "summary": "Mason Crane said he was \"buzzing\" to be back in the England fold, adding that his ambitions go beyond being a \"highlights reel\" leg-spinner as he looks to make the most of his second bite at international cricket.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Team Wardley condemn Dubois tactics, call for 'strong referee' in rematch",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13599704/fabio-wardleys-team-criticise-daniel-dubois-tactics-in-first-fight-as-they-demand-a-strong-referee-for-rematch",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-16T06:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Team",
+        "Wardley",
+        "condemn",
+        "Dubois",
+        "tactics",
+        "call"
+      ],
+      "summary": "Fabio Wardley&#8217;s team have raised fresh concerns about Daniel Dubois&#8217; tactics in their first fight and called for a \"stronger referee\" in Saturday&#8217;s rematch.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Balikwisha blames Celtic for World Cup axe - gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm62y9yl2v66o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-16T06:07:34+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Balikwisha",
+        "blames",
+        "Celtic",
+        "World",
+        "gossip"
+      ],
+      "summary": "Michel-Ange Balikwisha blames Celtic for his failure to make DR Congo's World Cup squad, while Thelo Aasgaard reveals his delight at leaving Rangers for Anderlecht.",
       "summary_cn": ""
     }
   ]
