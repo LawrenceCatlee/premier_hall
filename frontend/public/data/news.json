@@ -1,136 +1,287 @@
 {
-  "updated_at": "2026-10-16T07:00:19.656435+00:00",
+  "updated_at": "2026-10-16T12:19:04.766543+00:00",
   "items": [
     {
-      "title": "The rapid rise of a former art dealer to Europe's hottest young manager",
+      "title": "James has knee surgery; Martínez sorry; Watford sacking reports ‘fake news’: football – live",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmde8l07569no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.theguardian.com/football/live/2026/oct/16/martinez-sorry-outburst-european-reaction-premier-league-latest-football-news-live",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-10-16T06:28:10+00:00",
-      "score": 31.0,
+      "published": "2026-10-16T12:00:36+00:00",
+      "score": 39.0,
       "keywords": [
-        "Brighton",
-        "Manchester United",
-        "young",
-        "rapid",
-        "rise",
-        "former"
+        "Chelsea",
+        "Fulham",
+        "James",
+        "Martínez",
+        "knee",
+        "surgery"
       ],
-      "summary": "How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United.",
+      "summary": "⚽ All the latest football news heading into the weekend ⚽ Ten things to look out for | Football Daily | Email Luke Sky are reporting that Reece James, who Chelsea confirmed this morning had undergone minor knee surgery, is expected to be out for three months. Fulham fans fretting about life under Ál",
       "summary_cn": ""
     },
     {
-      "title": "Alan Shearer fears for Matthias Jaissle’s Newcastle future if Toon fail to bounce back from Coventry thumping vs Villa",
+      "title": "Chelsea captain James out for around three months",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40705563/alan-shearer-fears-matthias-jaissle-newcastle-future/",
+      "url": "https://www.skysports.com/football/news/12040/13599896/reece-james-chelsea-captain-out-for-around-three-months-after-minor-surgery-on-knee-injury-picked-up-in-training",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-16T11:06:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "James",
+        "captain",
+        "around",
+        "months"
+      ],
+      "summary": "Chelsea captain Reece James is expected to be out for around three months after knee surgery.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd latest: Carrick to speak for first time since Martinez apology LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-16T13:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man Utd",
+        "Carrick",
+        "latest",
+        "speak",
+        "first",
+        "time"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "The 22 matches Chelsea captain Reece James set to miss after England star forced to undergo more surgery",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40708937/reece-james-misses-matches-surgery/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-16T06:47:35+00:00",
+      "published": "2026-10-16T11:59:33+00:00",
       "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "James",
+        "matches",
+        "captain",
+        "Reece",
+        "miss"
+      ],
+      "summary": "THE news that Chelsea captain Reece James had successful surgery came as a bitter-sweet update for Blues fans as they'll be without their skipper for a good while. James, who suffered a knee injury during training, looks set to miss the next 22 GAMES and the rest of the year following surgery. It's ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Leeds vs Man Utd tickets: Where to buy and how much are they as Red Devils travel to bitter rivals in huge clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40708422/leeds-vs-man-utd-tickets-premier-league-buy-cost/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-16T11:29:58+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "Leeds",
+        "tickets"
+      ],
+      "summary": "UNDER-FIRE Manchester United travel up the M62 this weekend to face fierce rivals Leeds in a blockbuster Super Sunday clash! Red Devils boss Michael Carrick is under huge pressure at Old Trafford after going winless in his last five games. The club has also been thrown into turmoil after Lisandro Ma",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Thank you for giving me the chance to live’ – Petr Cech opens up on horror head injury 20 years on",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40707761/petr-cech-head-injury-statement-20-years-chelsea-reading/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-16T10:59:24+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Petr Cech",
+        "matic",
+        "Thank",
+        "giving",
+        "chance"
+      ],
+      "summary": "PETR CECH has opened up on the traumatic head injury that changed his life, and the Premier League, forever - and remarkably for the better. On October 14, 2006, Chelsea goalkeeper Cech was in goal during the peak of Jose Mourinho's first stint at the club, when the then 24-year-old collided with Re",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd files: Lisandro Martinez fall-out, fresh team news leak and Sir Alex Ferguson gets involved in PADEL",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40707774/man-utd-lisandro-martinez-sir-alex-ferguson-padel/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-16T10:55:12+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Ferguson",
+        "files",
+        "Lisandro",
+        "Martinez"
+      ],
+      "summary": "LISANDRO MARTINEZ’S outburst “lit a fire”, in the words of one close Manchester United dressing room source. They noted how it overshadowed Amad’s Snapchat, which consisted of a picture of him and the caption, “F*****g disgrace I have no words.” A United source surmised Amad was trying to convey his",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘I’d struggle to get into a jog’ – Former Man Utd striker, 39, opens up on devastating spiral into snus addiction",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40707673/fraizer-campbell-man-utd-snus-addiction/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-16T10:26:29+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Crystal Palace",
+        "Man Utd",
+        "Campbell",
+        "struggle",
+        "Former",
+        "striker"
+      ],
+      "summary": "FORMER Premier League striker Fraizer Campbell has opened up about his addiction to snus. He admitted taking the smokeless tobacco product during his playing career. Speaking on The Sports Agents podcast, Campbell revealed that he started taking snus while playing for Crystal Palace to help him wind",
+      "summary_cn": ""
+    },
+    {
+      "title": "Haas boss Komatsu dismisses 'Ferrari B-team' label",
+      "title_cn": "",
+      "url": "https://www.skysports.com/f1/news/12040/13599707/haas-boss-ayao-komatsu-dismisses-ferrari-b-team-label-following-signing-of-second-academy-driver-rafael-camara",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-16T12:00:00+00:00",
+      "score": 28.0,
+      "keywords": [
+        "Haas",
+        "boss",
+        "Komatsu",
+        "dismisses",
+        "Ferrari",
+        "team"
+      ],
+      "summary": "Haas boss Ayao Komatsu has dismissed the suggestion that his squad have become a \"Ferrari B-team\" after they confirmed the signing of a second driver from the Italian outfit's academy.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Spain handed partial stadium closure after discriminatory chants v Egypt",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr86zg3w2lg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-16T11:48:33+00:00",
+      "score": 26.0,
+      "keywords": [
+        "March",
+        "Spain",
+        "handed",
+        "partial",
+        "stadium",
+        "closure"
+      ],
+      "summary": "Spain must play their next international friendly with a partial stadium closure after supporters sang a discriminatory chant about Muslims multiple times during a game against Egypt on 31 March.",
+      "summary_cn": ""
+    },
+    {
+      "title": "The rollercoaster that is the rebuild for Newcastle and Aston Villa",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13599266/newcastle-vs-aston-villa-both-clubs-enduring-a-rollercoaster-rebuild-ahead-of-meeting-at-st-james-park",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-16T12:00:00+00:00",
+      "score": 25.0,
       "keywords": [
         "Aston Villa",
         "Newcastle",
-        "Shearer",
-        "Alan Shearer",
-        "Alan",
-        "fears"
+        "rollercoaster",
+        "rebuild",
+        "Aston",
+        "Villa"
       ],
-      "summary": "ALAN SHEARER says Matthias Jaissle will face the Toon Army’s fury if Newcastle fail to bounce back against Aston Villa. The Magpies were walloped 4-1 at Coventry on Monday after being thumped by the same scoreline at Leeds in their previous away match. Fans are already questioning the German’s 4-2-3",
+      "summary": "Welcome aboard the rollercoaster that is a rebuild in the Premier League. Before we begin, please ensure your seatbelt is securely fastened and keep hands, arms and legs inside the vehicle at all times.",
       "summary_cn": ""
     },
     {
-      "title": "Arsenal ‘line up Bayern Munich defender, 29, for shock winter transfer amid Piero Hincapie injury fears’",
+      "title": "'Not about me' - Arbeloa dismisses future questions",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40705469/arsenal-target-bayern-defender-kim-min-jae-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-16T06:10:12+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Ezri Konsa",
-        "Konsa",
-        "line",
-        "Bayern",
-        "Munich"
-      ],
-      "summary": "ARSENAL could attempt to sign Bayern Munich defender Kim Min-jae in January, according to reports. The Gunners already have several top centre-backs at their disposal, including Gabriel Magalhaes and William Saliba - who is yet to make an appearance this term due to injury. They added Ezri Konsa to ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Does the Premier League 'Big Six' still exist?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615jw414vypo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-16T05:53:57+00:00",
+      "published": "2026-10-16T10:24:57+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Tottenham"
+        "Fulham",
+        "Arbeloa",
+        "dismisses",
+        "future",
+        "questions"
       ],
-      "summary": "For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham Hotspur., but could this era be coming to an end?",
+      "summary": "Fulham head coach Alvaro Arbeloa says the focus should not be on him as his side searches for a first Premier League win this season against Hull City this weekend.",
       "summary_cn": ""
     },
     {
-      "title": "Crane 'buzzing' at England recall, wants more than Insta celebrity",
+      "title": "Plymouth Parkway ready for their 'FA Cup final' in bid to reach first round",
       "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13599691/mason-crane-buzzing-at-england-recall-as-glamorgan-leg-spinner-credits-richard-dawson-with-turnaround-in-fortunes",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-16T06:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Crane",
-        "buzzing",
-        "England",
-        "recall",
-        "wants",
-        "Insta"
-      ],
-      "summary": "Mason Crane said he was \"buzzing\" to be back in the England fold, adding that his ambitions go beyond being a \"highlights reel\" leg-spinner as he looks to make the most of his second bite at international cricket.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Team Wardley condemn Dubois tactics, call for 'strong referee' in rematch",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13599704/fabio-wardleys-team-criticise-daniel-dubois-tactics-in-first-fight-as-they-demand-a-strong-referee-for-rematch",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-16T06:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Team",
-        "Wardley",
-        "condemn",
-        "Dubois",
-        "tactics",
-        "call"
-      ],
-      "summary": "Fabio Wardley&#8217;s team have raised fresh concerns about Daniel Dubois&#8217; tactics in their first fight and called for a \"stronger referee\" in Saturday&#8217;s rematch.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Balikwisha blames Celtic for World Cup axe - gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm62y9yl2v66o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzvpyd8qdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-16T06:07:34+00:00",
+      "published": "2026-10-16T10:30:39+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Plymouth",
+        "Parkway",
+        "ready",
+        "final",
+        "reach",
+        "first"
+      ],
+      "summary": "Plymouth's lesser known team, Plymouth Parkway, are bidding to reach round one of the FA Cup for the first time.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rugby League World Cup 2026: Samoa rout France in men's competition",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-16T11:00:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Balikwisha",
-        "blames",
-        "Celtic",
+        "Rugby",
+        "League",
         "World",
-        "gossip"
+        "Samoa",
+        "rout",
+        "France"
       ],
-      "summary": "Michel-Ange Balikwisha blames Celtic for his failure to make DR Congo's World Cup squad, while Thelo Aasgaard reveals his delight at leaving Rangers for Anderlecht.",
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Non-league kid, 18, called up to national team by World Cup hero despite playing for NINTH-TIER club",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40707609/non-league-mohammed-mahe-khan-moulton-bangladesh/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-16T10:27:55+00:00",
+      "score": 20.0,
+      "keywords": [
+        "league",
+        "called",
+        "national",
+        "team",
+        "World",
+        "hero"
+      ],
+      "summary": "A LITTLE-KNOWN non-league teenager is set to make his senior international debut after receiving a shock call-up. English-born Mohammed Mahe Khan, 18, plays his club football for Moulton in the United Counties League Premier Division South - the NINTH TIER of English football. But Bangladesh boss Th",
       "summary_cn": ""
     }
   ]
