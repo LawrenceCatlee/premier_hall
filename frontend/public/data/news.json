@@ -1,175 +1,422 @@
 {
-  "updated_at": "2026-10-18T14:27:31.028174+00:00",
+  "updated_at": "2026-10-18T17:58:53.574543+00:00",
   "items": [
     {
-      "title": "What awaits Everton hero Ferguson in shock Glens role?",
+      "title": "Man Utd held by Leeds as winless run continues",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.skysports.com/football/leeds-united-vs-manchester-united/report/559509",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-18T13:36:49+00:00",
+      "published": "2026-10-18T16:00:00+00:00",
       "score": 31.0,
       "keywords": [
-        "Everton",
-        "Ferguson",
-        "Duncan Ferguson",
-        "awaits",
-        "hero",
-        "shock"
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "held",
+        "Leeds"
       ],
-      "summary": "The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of the most surprising in Irish Premiership history.",
+      "summary": "Manchester United delivered a more committed performance in a changed formation but were held to a 1-1 draw by Leeds as pressure on Michael Carrick continues to grow.",
       "summary_cn": ""
     },
     {
-      "title": "James and Carpenter lead Chelsea surge as sorry Spurs hit for six in WSL again",
+      "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/oct/18/chelsea-tottenham-wsl-match-report",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-18T13:13:45+00:00",
+      "published": "2026-10-18T17:24:45+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "Mbeumo",
+        "offers"
+      ],
+      "summary": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+      "summary_cn": ""
+    },
+    {
+      "title": "James scores brilliant double as Chelsea put six past Spurs",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c962yd2ykejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-18T17:02:19+00:00",
       "score": 31.0,
       "keywords": [
         "Chelsea",
-        "Manchester City",
         "Tottenham",
         "Spurs",
         "James",
-        "Carpenter"
+        "scores",
+        "brilliant"
       ],
-      "summary": "Two goals each from a rampant Lauren James and battling Ellie Carpenter helped Chelsea cruise past Tottenham and keep the pressure on Manchester City at the top of the Women’s Super League table. It was a thrilling show and a statement from the home team, a game laden with stunning goals after a fru",
+      "summary": "Chelsea secure their fifth-consecutive Women's Super League win with victory over Tottenham in manager Sonia Bompastor's 50th game in the competition.",
       "summary_cn": ""
     },
     {
-      "title": "Davidovich Fokina beats rising star Jodar to claim maiden Masters title in Shanghai",
+      "title": "‘Like a fresh start’: Michael Carrick relieved by Manchester United’s draw at Leeds",
       "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13600566/alejandro-davidovich-fokina-vs-rafael-jodar-shanghai-masters-final-highlights",
-      "source": "Sky Sports",
+      "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-draw-leeds-fresh-start",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-10-18T12:41:00+00:00",
+      "published": "2026-10-18T16:50:54+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Michael Carrick",
+        "Carrick",
+        "Like",
+        "fresh",
+        "start"
+      ],
+      "summary": "Head coach insists ‘we can still have a really good season’ ‘We were the dominant side,’ says Farke After a week in which Michael Carrick had “the headphones on” to quieten the noise, Manchester United’s head coach claimed Sunday’s 1-1 draw at Leeds “felt like a fresh start” and insisted that the se",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal player ratings: Gabriel leads by example as embarrassing Eze moment shows why he was subbed at half time",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40726820/arsenal-player-ratings/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-18T17:37:56+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Nottingham Forest",
+        "Forest",
+        "Matz Sels",
+        "player",
+        "ratings"
+      ],
+      "summary": "NONI MADUEKE spared Arsenal's blushes as they squeezed three points out of Nottingham Forest. The defending champions didn't have their shooting boots on until Madueke's wicked deflected strike hit the target and went in past Matz Sels in the 80th minute - their first shot on target. The hosts had h",
+      "summary_cn": ""
+    },
+    {
+      "title": "Nottingham Forest 0 Arsenal 1: Deflected Madueke strike gives Gunners crucial victory with only shot on target",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40726669/nottingham-forest-arsenal-noni-madueke/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-18T17:24:48+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Nottingham Forest",
+        "Forest",
+        "Mikel",
+        "Arteta",
+        "Mikel Arteta"
+      ],
+      "summary": "SO much for Mikel Arteta saying Arsenal would attack the defence of their Premier League crown. The Gunners got the job done, but this was not a performance to strike fear into their title rivals. The winning goal was a fitting one and summed up a display where Arsenal never clicked into gear. It wa",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Quite aggressive’ – Harry Maguire reveals Michael Carrick tactical change as Red Devils battle to draw at Leeds",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40727346/harry-maguire-michael-carrick-tactical-manchester-united-draw-leeds/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-18T17:06:58+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Calvert-Lewin",
+        "Dominic Calvert-Lewin",
+        "Michael Carrick",
+        "Harry Maguire",
+        "Carrick"
+      ],
+      "summary": "HARRY MAGUIRE claims Manchester United lacked “bravery” in their 1-1 draw with Leeds United. United recorded a third successive 1-1 score in the Premier League after Dominic Calvert-Lewin’s 51st-minute equaliser. Michael Carrick sent on Mason Mount for Carlos Baleba and Matheus Cunha replaced Youri ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ex-Premier League goalkeeper scores stunning last minute equaliser to lead team to victory on penalties in cup clash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40726841/ex-prem-goalkeeper-scores-stunning-equaliser-cup-win/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-18T16:30:17+00:00",
+      "score": 31.0,
+      "keywords": [
+        "matic",
+        "Premier",
+        "League",
+        "goalkeeper",
+        "scores",
+        "stunning"
+      ],
+      "summary": "A FORMER Premier League goalkeeper scored a dramatic late equaliser to force penalties in a Welsh Cup clash on Saturday. Colwyn Bay goalkeeper Mark Halstead, formerly of the Premier League and EFL, smashed in a volley from close range in the dying stages before his team won on penalties. Having led ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Scottish Premiership: Osmand and Nygren at the double as Celtic thrash Hearts 7-1",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-18T16:15:36+00:00",
       "score": 26.0,
       "keywords": [
-        "Rafael",
-        "Davidovich",
-        "Fokina",
-        "beats",
-        "rising",
-        "star"
+        "Osman",
+        "Scottish",
+        "Premiership",
+        "Osmand",
+        "Nygren",
+        "double"
       ],
-      "summary": "Highlights of the Shanghai Masters final between Alejandro Davidovich Fokina and Rafael Jodar.",
+      "summary": "Celtic move four points clear of Rangers after win Rangers held to pulsating 2-2 draw against Dundee Callum Osmand was on target again as Celtic inflicted more misery on Hearts with a 7-1 thrashing at Parkhead. Osmand netted twice in three first-half minutes in the first meeting of the teams since h",
       "summary_cn": ""
     },
     {
-      "title": "Eze and Odegaard among Arsenal starters with Gibbs-White missing for Forest LIVE!",
+      "title": "Arsenal win with one shot on target as Forest sink into bottom three",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/live/559512",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/report/559512",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-18T14:55:00+00:00",
+      "published": "2026-10-18T18:30:00+00:00",
       "score": 25.0,
       "keywords": [
         "Arsenal",
+        "Manchester City",
+        "Nottingham Forest",
         "Forest",
-        "Odegaard",
-        "among",
-        "starters",
-        "Gibbs"
+        "shot",
+        "target"
+      ],
+      "summary": "Arsenal's only shot on target proved enough to snatch victory at Nottingham Forest through Noni Madueke's deflected strike, keeping the champions within touching distance of Premier League leaders Manchester City and condemning Forest to the relegation zone.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bournemouth latest: Rose reveals relief after ending wait for PL win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-18T17:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Bournemouth",
+        "latest",
+        "Rose",
+        "reveals",
+        "relief",
+        "ending"
       ],
       "summary": "",
       "summary_cn": ""
     },
     {
-      "title": "Leeds United v Manchester United: Premier League – live",
+      "title": "Man City maintain perfect WSL record as Chelsea, Man Utd, London City win",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live",
-      "source": "The Guardian",
+      "url": "https://www.skysports.com/football/news/12040/13600686/man-city-maintain-perfect-record-as-chelsea-man-utd-and-london-city-lionesses-all-win-womens-super-league-round-up",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-18T14:13:43+00:00",
+      "published": "2026-10-18T16:26:00+00:00",
       "score": 25.0,
       "keywords": [
-        "Manchester United",
-        "Leeds",
-        "United",
-        "Manchester",
-        "Premier",
-        "League"
+        "Brighton",
+        "Chelsea",
+        "Manchester City",
+        "Man City",
+        "Man Utd",
+        "City"
       ],
-      "summary": "⚽ Updates from the 2pm BST kick-off at Elland Road ⚽ The Joy of Six: Leeds v Manchester United matches ⚽ Scores | Tables | Read Football Daily | Mail Michael Daniel Farke , Leeds manager, is the next to speak to Sky Sports: We have to make sure we give them nothing. We want to make sure the ball bel",
+      "summary": "Manchester City held off a spirited fightback from Brighton to close out a 3-2 win and maintain their perfect start in the Women&#8217;s Super League.",
       "summary_cn": ""
     },
     {
-      "title": "Nottingham Forest v Arsenal: Premier League – live",
+      "title": "Arsenal breakthrough! Madueke's deflected strike sees visitors in front",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
-      "source": "The Guardian",
+      "url": "https://www.skysports.com/watch/video/13600732/noni-maduekes-deflected-strike-gives-arsenal-the-lead",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-18T14:00:01+00:00",
+      "published": "2026-10-18T18:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "breakthrough",
+        "Madueke",
+        "deflected",
+        "strike",
+        "sees"
+      ],
+      "summary": "Noni Madueke's deflected strike gives Arsenal the lead.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bournemouth beat 10-man Sunderland to pick up first league win of season",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/bournemouth-vs-sunderland/report/559504",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-18T16:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Bournemouth",
+        "beat",
+        "Sunderland",
+        "pick",
+        "first",
+        "league"
+      ],
+      "summary": "Marcus Tavernier and Evanilson both struck in a comfortable 2-0 win over 10-man Sunderland as Bournemouth picked up their first Premier League win of the season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Brighton score five in Palace dismantling as Gomez nets wondergoal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-crystal-palace/report/559506",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-18T16:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Crystal Palace",
+        "score",
+        "five",
+        "Palace",
+        "dismantling"
+      ],
+      "summary": "Brighton dismantled rivals Crystal Palace 5-0 as Diego Gomez scored from the halfway line in a very one-sided M23 derby.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Brighton put FIVE past rivals Palace to continue scintillating form",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13600677/brighton-5-0-crystal-palace-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-18T16:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Crystal Palace",
+        "FIVE",
+        "past",
+        "rivals",
+        "Palace"
+      ],
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Brighton and Crystal Palace.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn33jgx84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-18T17:35:44+00:00",
       "score": 25.0,
       "keywords": [
         "Arsenal",
         "Nottingham Forest",
         "Forest",
-        "Nottingham",
-        "Premier",
-        "League"
+        "Madueke",
+        "strikes",
+        "late"
       ],
-      "summary": "⚽ Updates from the City Ground; kick-off 4.30pm BST ⚽ Scores | Tables | Read Football Daily | Mail Daniel Arsenal spent the summer trying to by forwards and rightly so: they lack elite attacking quality, and well though they’ve done over the last few seasons, it has unarguably cost them. The best su",
+      "summary": "Noni Madueke struck late to earn Arsenal a victory at Nottingham Forest. Here's how the players rated.",
       "summary_cn": ""
     },
     {
-      "title": "Gomez scores stunning HALFWAY-LINE goal!",
+      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
       "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13600600/goal-d-gomez-brighton-2-0-crystal-palace",
-      "source": "Sky Sports",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-18T14:17:00+00:00",
-      "score": 20.0,
+      "published": "2026-10-18T16:13:45+00:00",
+      "score": 25.0,
       "keywords": [
-        "Gomez",
-        "scores",
-        "stunning",
-        "HALFWAY",
-        "LINE",
-        "goal"
+        "Brighton",
+        "Manchester City",
+        "Man City",
+        "City",
+        "remain",
+        "unbeaten"
       ],
-      "summary": "Diego Gomez STUNS The Amex with halfway line goal in the 7th minute!",
+      "summary": "Khadija Shaw scores twice as Manchester City made it six wins from six in the Women's Super League after a 3-2 victory over Brighton.",
       "summary_cn": ""
     },
     {
-      "title": "Two goals in 10 minutes! Celtic ahead vs Hearts LIVE!",
+      "title": "Madueke breaks Nottingham Forest’s resistance as dogged Arsenal edge to victory",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/celtic-vs-hearts/live/558382",
+      "url": "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-18T17:39:57+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Nottingham Forest",
+        "Forest",
+        "Madueke",
+        "breaks",
+        "Nottingham"
+      ],
+      "summary": "The theme before kick-off was blanks. Or, more precisely, whether either team could stop firing them at the City Ground. It is a detail to make Oliver Glasner extremely uncomfortable that his Nottingham Forest team had still to score at their home stadium. Arsenal, meanwhile, had drawn 0-0 on each o",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal tickets plus VIP hospitality to Premier League and Champions League games at The Emirates",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/39227637/arsenal-premier-league-champions-ticket-hotel-deal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-18T16:10:26+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Man City",
+        "tickets",
+        "plus",
+        "hospitality",
+        "Premier"
+      ],
+      "summary": "ARSENAL fans can watch the Premier League champions take on their challengers from the best seats in The Emirates. The Gunners lifted the prize last season after their gripping title race with Man City. See Arsenal this season And the absolute best way to lock in your place at the Emirates Stadium t",
+      "summary_cn": ""
+    },
+    {
+      "title": "Texans beat Jags in final seconds of Wembley thriller",
+      "title_cn": "",
+      "url": "https://www.skysports.com/nfl/news/12040/13600610/nfl-london-games-2026-houston-texans-beat-jacksonville-jaguars-after-kaimi-fairbairns-walk-off-field-goal",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-18T13:30:00+00:00",
+      "published": "2026-10-18T18:00:00+00:00",
       "score": 20.0,
       "keywords": [
-        "goals",
-        "minutes",
-        "Celtic",
-        "ahead",
+        "Texans",
+        "beat",
+        "Jags",
+        "final",
+        "seconds",
+        "Wembley"
+      ],
+      "summary": "Ka'imi Fairbairn kicked a 49-yard field goal as time expired to lift the Houston Texans to a 34-31 victory over the Jacksonville Jaguars in a thriller at Wembley Stadium on Sunday.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'Hearts defending was junior level... and that's disrespectful to the juniors'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0phcwb2?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-18T17:05:00+00:00",
+      "score": 20.0,
+      "keywords": [
         "Hearts",
-        "LIVE"
+        "defending",
+        "junior",
+        "level",
+        "disrespectful",
+        "juniors"
       ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Chacarra tops Race to Dubai standings after DP World India Championship win",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13600590/dp-world-india-championship-day-four-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-18T13:57:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Chacarra",
-        "tops",
-        "Race",
-        "Dubai",
-        "standings",
-        "World"
-      ],
-      "summary": "Highlights from day four of the DP World India Championship.",
+      "summary": "After Celtic's 7-1 thrashing of Hearts, we hear from the managers and the Sportsound team",
       "summary_cn": ""
     }
   ]
