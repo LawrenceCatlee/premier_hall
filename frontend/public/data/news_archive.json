@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "How 'dangerous' Man City maintained 100 per cent record",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-17T23:00:53+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Ipswich",
+        "Manchester City",
+        "Man City",
+        "Murphy",
+        "Danny Murphy",
+        "Joe Hart"
+      ],
+      "summary": "Match of the Day's Joe Hart and Danny Murphy analyse how Manchester City made it seven wins from seven in the Premier League with a 3-2 victory against Ipswich.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-18T00:49:26.985797+00:00"
+    },
+    {
+      "title": "Why Liverpool are still 'too easy' to play against",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-17T23:00:48+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brentford",
+        "Liverpool",
+        "Murphy",
+        "Danny Murphy",
+        "still",
+        "easy"
+      ],
+      "summary": "Match of the Day's Danny Murphy analyses how Liverpool are still to \"easy\" to play against despite their 2-1 victory over Brentford.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-18T00:49:26.985797+00:00"
+    },
+    {
+      "title": "Papers: Gyokeres keen to leave Arsenal",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13600491/viktor-gyokeres-keen-to-leave-arsenal-due-to-lack-of-first-team-opportunites-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-17T22:50:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Papers",
+        "Gyokeres",
+        "keen",
+        "leave"
+      ],
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-10-18T00:49:26.985797+00:00"
+    },
+    {
       "title": "Jimmy-Floyd Hasselbaink says returning Sunderland star Brian Brobbey is ‘unappreciated’ in Holland… just like he was",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40715581/brian-brobbey-sunderland-holland-hasselbaink/",
@@ -39667,66 +39726,6 @@
       "summary": "JOSE MOURINHO went on a bizarre rant in which he compared Vinicius Jr and Kylian Mbappe to FRUIT TREES. The Real Madrid stars were booed by their own fans this week following the defeat to Real Betis on Friday. The team responded with a 2-1 win over Inter Milan in the Champions League on Tuesday...",
       "summary_cn": "",
       "fetched_at": "2026-09-12T00:04:49.439664+00:00"
-    },
-    {
-      "title": "'Beautifully worked, perfectly finished!' | Bowen strike opens the scoring",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13584587/west-ham-vs-wrexham-jarrod-bowen-strike-opens-the-scoring",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-11T20:38:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "West Ham",
-        "Jarrod Bowen",
-        "Bowen",
-        "Beautifully",
-        "worked",
-        "perfectly"
-      ],
-      "summary": "Jarrod Bowen opens the scoring for West Ham against Wrexham.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-11T21:39:22.983436+00:00"
-    },
-    {
-      "title": "Alonso: Benzema-like Joao Pedro is on same level as Haaland",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13584444/joao-pedro-reminds-me-of-karim-benzema-and-is-on-same-level-as-erling-haaland-says-chelsea-boss-xabi-alonso",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-11T22:30:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Erling Haaland",
-        "Haaland",
-        "Alonso",
-        "Benzema",
-        "like"
-      ],
-      "summary": "Xabi Alonso has likened Joao Pedro to Karim Benzema and said the Chelsea striker is on the same level as Erling Haaland.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-11T21:39:22.983436+00:00"
-    },
-    {
-      "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-11T21:30:23+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Manchester City",
-        "Erling Haaland",
-        "Haaland",
-        "Like",
-        "Benzema"
-      ],
-      "summary": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-11T21:39:22.983436+00:00"
     }
   ]
 }
