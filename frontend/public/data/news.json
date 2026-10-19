@@ -1,282 +1,515 @@
 {
-  "updated_at": "2026-10-19T07:38:12.365730+00:00",
+  "updated_at": "2026-10-19T15:29:53.419303+00:00",
   "items": [
     {
-      "title": "When is the FA Cup first-round draw? Start time, TV channel, FREE live stream and ball numbers",
+      "title": "Premier League’s December TV fixtures CONFIRMED with Man Utd given rare Sunday night clash and North London derby moved",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40713924/fa-cup-first-round-draw-time-stream-ball-numbers/",
+      "url": "https://www.thesun.co.uk/sport/40735710/premier-league-december-tv-fixtures-man-utd-tottenham-arsenal/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-19T07:15:28+00:00",
+      "published": "2026-10-19T14:16:20+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Crystal Palace",
+        "Manchester United",
+        "Man Utd",
+        "given",
+        "Premier",
+        "League"
+      ],
+      "summary": "MANCHESTER UNITED have been handed a shock kick-off time for their trip to Crystal Palace - after the latest batch of TV picks were announced. The Red Devils are still searching for their first away win of the season thanks to being pegged back and having to settle for a 1-1 draw against fierce foes",
+      "summary_cn": ""
+    },
+    {
+      "title": "Premier League cult hero retires with emotional statement and immediately lands new job as national team’s coach",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40735802/premier-league-cult-hero-retires-with-emotional-statement/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T15:07:22+00:00",
       "score": 33.0,
+      "keywords": [
+        "Premier",
+        "League",
+        "cult",
+        "hero",
+        "retires",
+        "emotional"
+      ],
+      "summary": "SAIDO BERAHINO has announced his retirement from football aged 33 - after 15 years as a player. He will now focus on a new career coaching the Burundi national team. The former West Brom and Stoke striker confirmed he was hanging up his boots in an emotional social media statement entitled “A Letter",
+      "summary_cn": ""
+    },
+    {
+      "title": "Why Man Utd continue to divide opinion",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13599530/why-michael-carricks-man-utd-side-continue-to-divide-opinion-following-another-disjointed-display-at-elland-road",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-19T15:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man Utd",
+        "Carrick",
+        "stone",
+        "Michael Carrick",
+        "Gary Neville",
+        "Neville"
+      ],
+      "summary": "Michael Carrick called Sunday's draw at Leeds a 'fresh start'. Gary Neville described it as a 'stepping stone'. Most unattached observers came to another conclusion entirely.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-19T14:36:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Haaland",
+        "doubt",
+        "Semenyo",
+        "City"
+      ],
+      "summary": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-19T14:51:11+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brentford",
+        "Brighton",
+        "Bournemouth",
+        "Wilson",
+        "apex",
+        "club"
+      ],
+      "summary": "Diego Gómez’s wondergoal in a five-star demolition is just the latest in an impressive run of results for the south coast team Sign up for our free newsletter here For two or three years now, it’s been standard to nod approvingly at how well-run Brighton, Brentford and Bournemouth are, and to move o",
+      "summary_cn": ""
+    },
+    {
+      "title": "Crystal Palace to give Sage more time but manager under serious scrutiny",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/19/crystal-palace-pierre-sage-future-steve-parish-brighton-loss",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-19T15:00:18+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brighton",
+        "Crystal Palace",
+        "Kenna",
+        "Crystal",
+        "Palace",
+        "give"
+      ],
+      "summary": "Frenchman under pressure after Brighton thrashing McKenna and Frank among potential replacements Pierre Sage has been granted more time to fix Crystal Palace’s defensive issues but warned things must improve quickly after Sunday’s humiliating 5-0 defeat at Brighton . The Frenchman’s future was in se",
+      "summary_cn": ""
+    },
+    {
+      "title": "Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/19/ezri-konsa-arsenal-champions-league-bayern-munich",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-19T14:00:59+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Nottingham Forest",
+        "Forest",
+        "Konsa",
+        "Ezri Konsa",
+        "Delap"
+      ],
+      "summary": "Centre-back has settled right in at Arsenal and is looking ‘to win everything’, starting with Wednesday’s duel against Harry Kane For Ezri Konsa, it was just a wonderfully satisfying challenge. The Nottingham Forest striker Liam Delap had stolen in behind him up the inside left channel on Sunday. Th",
+      "summary_cn": ""
+    },
+    {
+      "title": "Brighton peck Palace and will a point silence the noise around Carrick? | Football Weekly – video",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/video/2026/oct/19/brighton-peck-palace-and-will-a-point-silence-the-noise-around-carrick-football-weekly-video",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-19T13:32:31+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brighton",
+        "Carrick",
+        "Wilson",
+        "peck",
+        "Palace",
+        "point"
+      ],
+      "summary": "Max Rushden is joined by Jonathan Wilson , Mark Langdon and Dan Bardell to discuss the weekend’s Premier League action Continue reading...",
+      "summary_cn": ""
+    },
+    {
+      "title": "Seven managers Arsenal ‘considered before appointing Arteta’ including ‘serious conversations with ex-Tottenham boss’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40735098/arsenal-mikel-arteta-ancelotti-allegri-pochettino-tottenham-nagelsmann/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T14:51:35+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Tottenham",
+        "Arteta",
+        "Mikel",
+        "Mikel Arteta",
+        "Seven"
+      ],
+      "summary": "ARSENAL considered SEVEN managers - including some elite options - before gambling on the then inexperienced Mikel Arteta in 2019. Arteta, 44, restored the Gunners to their former glory last season as he won their first Premier League title since their Invincibles triumph in 2004 and led them to the",
+      "summary_cn": ""
+    },
+    {
+      "title": "Premier League sack race hotting up from Carrick’s Man Utd struggles to boss who ‘doesn’t know’ if he’ll keep job",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40734362/premier-league-sack-race-sage-carrick-arbeloa-jaissle/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T14:32:31+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man Utd",
+        "Carrick",
+        "given",
+        "Premier",
+        "League",
+        "sack"
+      ],
+      "summary": "WE are yet to see a Premier League managerial sacking after seven games. But history tells us peace and quiet doesn't last long in English football. In eight of the last 13 seasons, at least one manager had already been given the chop by this point. The November international break is coming up in a",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Leaving England is scary but I’m here to win’: Charlie Cresswell on Ligue 1 life and his international dream",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/19/england-charlie-cresswell-ligue-1-england-france-leeds-juventus-europa-league",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-19T14:30:55+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Cresswell",
+        "Leaving",
+        "England",
+        "scary",
+        "Charlie",
+        "Ligue"
+      ],
+      "summary": "The centre-back could not see a way forward at Leeds so moved to France. Now he’s preparing for the biggest game of his life against Juventus By Get French Football News “Leaving England is such a scary, scary decision,” says Charlie Cresswell. It is a decision that he never thought he would make. H",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal vs Man Utd, NLD and Man City vs Chelsea live on Sky in December",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-19T15:16:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester City",
+        "Manchester United",
+        "Man City",
+        "Man Utd"
+      ],
+      "summary": "Arsenal's home match against Manchester United, the north London derby and Chelsea's trip to Manchester City will all feature live on Sky Sports in December.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Are free-scoring Brighton genuine title contenders?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwn8d48je057o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-19T14:52:01+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "free",
+        "scoring",
+        "genuine",
+        "title",
+        "contenders"
+      ],
+      "summary": "Brighton's start to the season has surprised many outsiders. But how high could they finish?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Arsenal loan watch: Ethan Nwaneri caught up in Borussia Dortmund red card fiasco & a tough afternoon for Tommy Setford",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40736652/arsenal-loan-watch-ethan-nwaneri-red-card-tommy-setford/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T15:27:51+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Nottingham Forest",
+        "Forest",
+        "loan",
+        "watch",
+        "Ethan"
+      ],
+      "summary": "ARSENAL made it three wins on the spin by beating Nottingham Forest - but it was a tough weekend for their players out on loan. From rescinded red cards to giving away penalties, there was plenty of drama for those plying their trade away from the Emirates this season. Here, SunSport Arsenal Reporte",
+      "summary_cn": ""
+    },
+    {
+      "title": "Leeds fan in critical condition after suffering medical emergency before Man Utd clash as club release statement",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40736681/leeds-fan-critical-condition-medical-emergency-man-utd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T15:13:11+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Leeds",
+        "critical",
+        "condition",
+        "suffering"
+      ],
+      "summary": "A LEEDS fan is in a \"critical condition\" after being taken ill before Sunday's clash with Manchester United. Fellow fans and stadium staff raced to help the supporter who was rapidly whisked away in an ambulance. Leeds have now shown their support and published an update on the fan, who remains in h",
+      "summary_cn": ""
+    },
+    {
+      "title": "Hairy Man Utd fan reaches 100 games WITHOUT getting a haircut, making for horror stats and league position timeline",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40731992/man-utd-fan-haircut-frank-ilett-utd-strand/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T15:08:44+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Hairy",
+        "reaches",
+        "games",
+        "WITHOUT"
+      ],
+      "summary": "IF you needed another horrifying stat to tell you about the state of Manchester United, then you needn't look further than the fan who isn't cutting his hair. Following the dismal 1-1 draw at Leeds, The United Strand - real name Frank Ilett - has reached 100 matchdays since he started his challenge ",
+      "summary_cn": ""
+    },
+    {
+      "title": "FA Cup first round draw ball numbers: Who is in the hat?",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40712336/fa-cup-first-round-draw-ball-numbers/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T15:00:00+00:00",
+      "score": 25.0,
       "keywords": [
         "first",
         "round",
         "draw",
-        "Start",
-        "time",
-        "channel"
+        "ball",
+        "numbers"
       ],
-      "summary": "English football's FA Cup competition may not involve the Premier League teams yet, but it is already in full swing! Teams currently in the FA Cup are eagerly awaiting the news of their next step on the road to Wembley. That will become clearer once the draw for the first round is announced. But whe",
+      "summary": "AFTER six qualifying rounds, we have reached the draw for the first round of this season's FA Cup - but what number is each team in the draw? Football fans up and down the country are anxiously awaiting their name to be pulled tonight. The first round is where League One and League Two sides...",
       "summary_cn": ""
     },
     {
-      "title": "Premier League: 10 talking points from the weekend’s action",
+      "title": "Como vs Man Utd: Our 7/1 bet builder tip, plus Get £50 in free bets | Paddy Power",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/oct/19/premier-league-10-talking-points-from-the-weekends-action",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-10-19T07:00:22+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Crystal Palace",
-        "Liverpool",
-        "Manchester United",
-        "Dominic Calvert-Lewin",
-        "Calvert-Lewin",
-        "Premier"
-      ],
-      "summary": "Florian Wirtz takes on more responsibility in Liverpool’s attack while Pierre Sage is under pressure at Crystal Palace Dominic Calvert-Lewin’s physicality overpowering Bryan Mbeumo in Manchester United’s area at a corner grabbed him a fifth goal in 10 outings for Leeds: a pretty respectable ratio. “",
-      "summary_cn": ""
-    },
-    {
-      "title": "Sir Jim Ratcliffe snubs Man Utd’s draw at Leeds for golf trip to Zimbabwe as Carrick’s men go six games without win",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40729893/sir-jim-ratcliffe-snubs-man-utd-zimbabwe-golf-trip/",
+      "url": "https://www.thesun.co.uk/sport/40731568/como-vs-man-utd-paddy-power-bet-builder-offer/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-19T07:00:54+00:00",
-      "score": 31.0,
+      "published": "2026-10-19T14:55:39+00:00",
+      "score": 25.0,
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Carrick",
-        "Ratcliffe",
-        "snubs",
-        "draw"
+        "Como",
+        "builder",
+        "plus",
+        "free"
       ],
-      "summary": "SIR JIM RATCLIFFE was not in attendance to watch his Manchester United side draw with Leeds as he embarked on a golf holiday. It has been a difficult start to the 2026/27 season for the Red Devils, who have now gone six games without a win in all competitions. But he was spared having to...",
+      "summary": "MANCHESTER UNITED head to Italy for a Champions League clash with Cesc Fabregas' Como on Wednesday, hoping to put last week's defeat to Atletico Madrid behind them. Brand-new Paddy Power customers who register and place a £10 football bet builder at odds of 1/2 or greater will be rewarded with £50 i",
       "summary_cn": ""
     },
     {
-      "title": "New angle shows spit that got Bills' Gardner-Johnson ejected",
+      "title": "Bayern Munich vs Arsenal: Get £30 free bets + 50% Bet Builder boost | BOYLE Sports",
       "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13600843/cj-gardner-johnson-spits-and-gets-ejected-against-raiders",
-      "source": "Sky Sports",
+      "url": "https://www.thesun.co.uk/sport/40736104/bayern-munich-vs-arsenal-boylesports-free-bets-offer/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-19T07:02:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Gardner",
-        "Johnson",
-        "angle",
-        "shows",
-        "spit",
-        "Bills"
-      ],
-      "summary": "CJ Gardner-Johnson spat during Bills' game against the Raiders, which saw the safety get ejected.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Highlights: Dallas Cowboys vs Green Bay Packers",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13600831/dallas-cowboys-green-bay-packers-week-six-nfl-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-19T06:13:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Green",
-        "Highlights",
-        "Dallas",
-        "Cowboys",
-        "Packers"
-      ],
-      "summary": "Highlights of the Dallas Cowboys at the Green Bay Packers from Week 6 of the NFL season.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Brighton latest: Hurzeler 'glad he got another opportunity to beat Palace'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-19T08:15:00+00:00",
+      "published": "2026-10-19T14:40:51+00:00",
       "score": 25.0,
       "keywords": [
-        "Brighton",
-        "latest",
-        "Hurzeler",
-        "glad",
-        "another",
-        "opportunity"
+        "Arsenal",
+        "Bayern",
+        "Munich",
+        "free",
+        "bets",
+        "Builder"
       ],
-      "summary": "",
+      "summary": "BAYERN MUNICH and Arsenal renew hostilities in Wednesday's Champions League showdown at the Allianz Arena. To mark the occasion, BOYLE Sports are offering new customers a fantastic £30 in free bets when they register an account and stake a tenner on this week's action. There's more on offer, too. BO",
       "summary_cn": ""
     },
     {
-      "title": "Beer & Blackpool beach was how British players bonded - Pulis",
+      "title": "Man Utd fans fume at ‘disgraceful’ Premier League TV fixtures for December as 7pm Palace clash one of three games moved",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/40735972/man-utd-fans-premier-league-fixtures-crystal-palace/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-19T06:23:48+00:00",
+      "published": "2026-10-19T14:39:07+00:00",
       "score": 25.0,
       "keywords": [
-        "Spurs",
-        "Beer",
-        "Blackpool",
-        "beach",
-        "British",
-        "players"
+        "Manchester United",
+        "Man Utd",
+        "fans",
+        "fume",
+        "disgraceful",
+        "Premier"
       ],
-      "summary": "BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day.",
+      "summary": "MANCHESTER UNITED fans are fuming with the nightmare kick-off time they have landed less than two weeks before Christmas. The Red Devils discovered the dates and times of their home and away Premier League games up to the end of the calendar year when the latest batch of fixtures were released on Mo",
       "summary_cn": ""
     },
     {
-      "title": "PL reaction LIVE! Vote for best-ever halfway-line goal plus your views",
+      "title": "Jose Mourinho’s Real Madrid replacement ‘already lined up by Florentino Perez’ just nine games into league season",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+      "url": "https://www.thesun.co.uk/sport/40733626/florentino-perez-lines-up-jose-mourinho-replacement/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T13:56:13+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Jose",
+        "Mourinho",
+        "Real",
+        "Madrid",
+        "replacement",
+        "already"
+      ],
+      "summary": "JOSE MOURINHO'S Real Madrid replacement is already being lined up according to sensational reports in Spain. Mourinho is one of the most decorated managers in the history of football and has had plenty of success at Madrid. 'The Special One' is the only manager in LaLiga history to win the league wi",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City ‘set for huge points deduction that will relegate them to Championship and keep them there for TWO SEASONS’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40735409/man-city-points-deduction-relegation-championship-guilty-charges/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T13:48:32+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "City",
+        "huge",
+        "points",
+        "deduction"
+      ],
+      "summary": "MANCHESTER CITY are set to be handed a \"huge\" points deduction that will keep them in the Championship for TWO YEARS, according to shock reports. City are awaiting an outcome on their case against the Premier League after being found guilty of over 100 charges in relation to breaches of financial ru",
+      "summary_cn": ""
+    },
+    {
+      "title": "Celtic winger Jota back stronger after wrestling 'demons' during injury lay-off",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13601009/jota-celtic-winger-insists-he-is-stronger-after-wrestling-demons-during-18-month-injury-absence",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-19T08:15:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "reaction",
-        "LIVE",
-        "Vote",
-        "best",
-        "ever",
-        "halfway"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "NBA on Sky Sports: Live matches and big moments in 2026/27",
-      "title_cn": "",
-      "url": "https://www.skysports.com/nba/news/12040/13599587/nba-on-sky-sports-dates-schedule-uk-start-times-and-how-to-watch-or-stream-live-regular-season-and-playoff-action",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-19T07:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Sports",
-        "Live",
-        "matches",
-        "moments"
-      ],
-      "summary": "The 2026/27 NBA season is here and Sky Sports viewers have lots to look forward to.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Mbappe stars with amazing goal and Panenka penalty as Real thump Sevilla",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13600836/real-madrid-4-1-sevilla-laliga-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-19T06:37:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Mbappe",
-        "stars",
-        "amazing",
-        "goal",
-        "Panenka",
-        "penalty"
-      ],
-      "summary": "Highlights of the LaLiga match between Real Madrid and Sevilla.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Not in our DNA' - will 3v3 change the future of English football?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3elveky53eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-19T05:38:47+00:00",
-      "score": 20.0,
-      "keywords": [
-        "change",
-        "future",
-        "English",
-        "football"
-      ],
-      "summary": "Changes have been implemented by the FA from this season with under-7s dropping from playing 5v5 to 3v3 in England - could it help to change the DNA of English football?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwkg57jpj3yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-19T05:47:12+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Plus",
-        "today",
-        "other",
-        "quizzes"
-      ],
-      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Celtic target rejects new deal - Monday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxdd83jq9y47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-19T07:05:32+00:00",
+      "published": "2026-10-19T16:00:00+00:00",
       "score": 20.0,
       "keywords": [
         "Celtic",
-        "target",
-        "rejects",
-        "deal",
-        "Monday",
-        "gossip"
+        "winger",
+        "Jota",
+        "back",
+        "stronger",
+        "wrestling"
       ],
-      "summary": "Celtic are on high alert for the January transfer window with summer target Balazs Toth resisting a new deal at Blackburn Rovers.",
+      "summary": "Celtic winger Jota says he has found extra gratitude and strength after wrestling with his \"demons\" during an 18-month lay-off.",
       "summary_cn": ""
     },
     {
-      "title": "DAZN host Diletta Leotta wows fans as she wears bold see-through outfit on live TV to present huge Serie A clash",
+      "title": "Colts fire GM Ballard after poor start to season",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40729911/diletta-leotta-see-through-outfit-serie-a-juventus/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/nfl/news/12040/13600992/indianapolis-colts-fire-general-manager-chris-ballard-following-loss-to-tennessee-titans-that-extended-poor-start-to-nfl-season",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-19T07:36:34+00:00",
+      "published": "2026-10-19T14:47:00+00:00",
       "score": 20.0,
       "keywords": [
-        "DAZN",
-        "host",
-        "Diletta",
-        "Leotta",
-        "wows",
-        "fans"
+        "Colts",
+        "fire",
+        "Ballard",
+        "poor",
+        "start",
+        "season"
       ],
-      "summary": "TV presenter Diletta Leotta took social media by storm as she presented the Serie A this past weekend. Diletta, 35, was on duty at DAZN's studio as she covered the big game between Juventus and Lazio in Turin. And the TV host stood out with her brand new black outfit that proved to be very...",
+      "summary": "The Indianapolis Colts have fired general manager Chris Ballard following the team's disappointing start to the 2026 NFL season.&#160;",
       "summary_cn": ""
     },
     {
-      "title": "Goalkeeper suffers horrific injury during European derby with foot left pointing wrong way as players plead for help",
+      "title": "Uefa gives Infantino two-week deadline to release key documents",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40695847/daniil-khudyakov-broken-leg-medical-update-sturm-graz/",
-      "source": "The Sun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-19T07:25:05+00:00",
+      "published": "2026-10-19T15:20:47+00:00",
       "score": 20.0,
       "keywords": [
-        "Goalkeeper",
-        "suffers",
-        "horrific",
-        "injury",
-        "during",
-        "European"
+        "Uefa",
+        "gives",
+        "Infantino",
+        "week",
+        "deadline",
+        "release"
       ],
-      "summary": "DANIIL KHUDYAKOV suffered a HORROR injury in the Graz derby after being on the receiving end of a nasty challenge. The Russian was between the sticks for Sturm Graz on Sunday as they took on bitter rivals Grazer AK. But he was stretchered off the pitch in the 28th minute with a broken leg after...",
+      "summary": "European governing body Uefa tells Fifa it must release key documents related to its governance and decision-making by 2 November.",
+      "summary_cn": ""
+    },
+    {
+      "title": "All the goals from the Women's Super League - matchweek six",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5y43049v0zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-19T13:36:31+00:00",
+      "score": 20.0,
+      "keywords": [
+        "goals",
+        "Women",
+        "Super",
+        "League",
+        "matchweek"
+      ],
+      "summary": "Watch every goal from matchweek six of the Women's Super League 2026-27 season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fallen Champions League giants score first goal in SIXTH TIER in front of 450 fans",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40731510/bordeaux-score-sixth-tier-goal-ligue-un/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-19T13:50:45+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Fallen",
+        "Champions",
+        "League",
+        "giants",
+        "score",
+        "first"
+      ],
+      "summary": "FORMER Champions League giants Bordeaux have scored their first goal in the SIXTH TIER of French football. Bordeaux were one of France's most successful clubs, winning the French top-flight six times, with the last title coming in 2009. The club currently sit 12th in the sixth tier and occupy the re",
       "summary_cn": ""
     }
   ]
