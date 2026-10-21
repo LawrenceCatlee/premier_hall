@@ -1,6 +1,265 @@
 {
   "items": [
     {
+      "title": "Papers: Brighton boss Hurzeler would be Shearer's pick to replace Carrick",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602091/manchester-united-should-appoint-fabio-hurzeler-if-they-replace-michel-carrick-says-former-premier-league-winner-alan-shearer-paper-talk",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-21T23:23:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brighton",
+        "Shearer",
+        "Carrick",
+        "Papers",
+        "boss",
+        "Hurzeler"
+      ],
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Arsenal fight back to draw against Bayern Munich",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/bayern-munich-vs-arsenal/report/577643",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-21T22:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Declan Rice",
+        "fight",
+        "back",
+        "draw",
+        "against"
+      ],
+      "summary": "Declan Rice scored a superb 82nd-minute equaliser as Arsenal fought back to draw 2-2 with Bayern Munich in a thrilling Champions League encounter at the Allianz Arena.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-21T22:51:56+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mikel Arteta",
+        "Mikel",
+        "Arteta",
+        "Bukayo Saka",
+        "Saka"
+      ],
+      "summary": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-21T23:11:06+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Harry Kane",
+        "Declan Rice",
+        "Goal",
+        "assist",
+        "goal"
+      ],
+      "summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "'Simply not good enough - Warnock on Man Utd's Como display",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-21T22:36:23+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Bruno Fernandes",
+        "Fernandes",
+        "Simply",
+        "good"
+      ],
+      "summary": "Match of the Day pundits Nedum Onuoha and Stephen Warnock analyse Manchester United's performance after their 4-1 Champions League defeat to Como, and discuss midfielder Bruno Fernandes' criticism of team tactics.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Steven Gerrard ‘bodies Martin Keown live on national TV’ as he brutally shuts down Arsenal legend over Declan Rice",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40768968/steven-gerrard-shuts-down-martin-keown-declan-rice-arsenal/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T22:58:19+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Martin Keown",
+        "Keown",
+        "Gerrard",
+        "Declan Rice",
+        "Steven Gerrard"
+      ],
+      "summary": "STEVEN GERRARD stunned fans when he sensationally hit out at Martin Keown live on TNT Sports. The pair were on punditry duties as Arsenal notched a 2-2 draw with Bayern Munich. And Gerrard, 46, brutally shut down Keown when they reacted to Declan Rice's late equaliser at the Allianz Arena. The Arsen",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Odds SLASHED on Michael Carrick to be next Premier League manager sacked after Man Utd horror show at Como",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40768774/michael-carrick-odds-slashed-sack-man-utd-sacked/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T22:25:58+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "Odds",
+        "SLASHED"
+      ],
+      "summary": "THE odds on Michael Carrick to be sacked as Manchester United manager have been SLASHED following the Red Devils' European disaster. United made it consecutive Champions League losses as they got smashed by competition debutants Como, managed by Cesc Fabregas, on Wednesday evening. Betfair have seen",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-21T22:41:53+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Harry Kane",
+        "phenomenal",
+        "Kane",
+        "year",
+        "lift",
+        "Ballon"
+      ],
+      "summary": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomenal\" season.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Champions League: Silva sparks Real Madrid’s demolition of Leipzig as Lask stun Sporting",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-21T22:25:12+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Silva",
+        "Bernardo Silva",
+        "Champions",
+        "League",
+        "sparks",
+        "Real"
+      ],
+      "summary": "Bernardo Silva opens scoring as Madrid win 4-1 Galatasaray sweep past Lille; 10-man Inter edge Shakhtar Real Madrid claimed a third Champions League victory in as many games by thrashing RB Leipzig 4-1 on Wednesday, with Kylian Mbappé and Yan Diomande among the goals for José Mourinho’s side. Bernar",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-21T23:50:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Man Utd",
+        "latest",
+        "Five",
+        "star",
+        "beat"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Alysson stars as Villa beat Viking to make it three wins from three in Europe",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/aston-villa-vs-viking/report/577642",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-21T22:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Alysson",
+        "stars",
+        "Villa",
+        "beat",
+        "Viking"
+      ],
+      "summary": "Aston Villa made it three wins from three in the Champions League with a 3-1 win over Viking at Villa Park.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Moment ‘football fans’ trade wild punches in chaotic Como bar brawl hours before Man United’s 4-1 thrashing",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40768289/fans-brawl-como-bar-before-united-match/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T22:34:22+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man United",
+        "Moment",
+        "football",
+        "fans",
+        "trade"
+      ],
+      "summary": "THIS is the moment \"football fans\" brawl in a chaotic Como punch-up just hours before Manchester United were thrashed by the Italians. Blood covers the ground of the bar as the drunk thugs punch each other - with one man even dropping to the floor after being knocked out cold. Disgraceful footage, s",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
+      "title": "Club Brugge ease to comfortable win over Lens",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c50me40n871zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-21T22:03:46+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Club",
+        "Brugge",
+        "ease",
+        "comfortable",
+        "Lens"
+      ],
+      "summary": "Club Brugge pick up their second straight win in the Champions League with an impressive 3-0 victory over Lens.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-21T23:58:01.703549+00:00"
+    },
+    {
       "title": "Miserable Man Utd ripped apart by Como",
       "title_cn": "",
       "url": "https://www.skysports.com/football/como-vs-manchester-united/report/577645",
@@ -39477,260 +39736,6 @@
       "summary": "Pro Ref chief Howard Webb says VAR missed Enzo Fernandez being offside for Erling Haaland's winning goal in the Manchester derby due to \"tunnel vision\".",
       "summary_cn": "",
       "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "Webb: Foden red justified but Fernandes escaped yellow for 'petulant' kick",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13586192/pro-ref-chief-howard-webb-agrees-with-phil-foden-red-card-in-manchester-derby-but-admits-bruno-fernandes-should-have-been-booked",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-15T17:00:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Foden",
-        "Fernandes",
-        "Phil Foden",
-        "Howard",
-        "Bruno Fernandes",
-        "Webb"
-      ],
-      "summary": "Pro Ref chief Howard Webb has backed the decision to send off Phil Foden in the Manchester derby but revealed VAR could not intervene to caution Bruno Fernandes for the \"petulant\" kick that sparked the altercation.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "VAR did not even consider if Fernandez was offside - Webb",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-15T17:42:20+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Erling Haaland",
-        "Howard",
-        "Haaland",
-        "even",
-        "consider",
-        "Fernandez"
-      ],
-      "summary": "Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even consider whether Enzo Fernandez was offside for Erling Haaland's controversial winner in Sunday's Manchester derby.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "Liverpool vs Tottenham LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/live/577579",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-15T18:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Tottenham",
-        "LIVE"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "West Ham vs Fulham LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-fulham/live/577587",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-15T18:15:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Fulham",
-        "West Ham",
-        "West",
-        "LIVE"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "Scorecard: England vs Sri Lanka, first T20, Southampton",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/f388f59d-e868-5eaf-b2ec-807169ed78b4",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-15T18:25:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Southampton",
-        "Scorecard",
-        "England",
-        "Lanka",
-        "first"
-      ],
-      "summary": "Latest score from the first T20 international between England and Sri Lanka at the Utilita Bowl in Southampton. Watch live on Sky Sports Cricket.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "Dowman starts as Arsenal make nine changes vs Ipswich LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/ipswich-town-vs-arsenal/live/577577",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-15T18:20:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Ipswich",
-        "Dowman",
-        "starts",
-        "make",
-        "nine"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-15T18:13:39+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Ipswich",
-        "Liverpool",
-        "Tottenham",
-        "Hotspur",
-        "Carabao"
-      ],
-      "summary": "⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield ⚽️ Ipswich v Arsenal – follow it live ⚽️ Live scoreboard | Send your thoughts to Scott via email Roberto De Zerbi speaks to Sky Sports. “I am lucky I have a great squad … many very good players … changing the first XI, I hope we don’t change t",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "Ipswich Town v Arsenal: Carabao Cup third round – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-15T18:34:37+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Ipswich",
-        "Liverpool",
-        "Tottenham",
-        "Town",
-        "Carabao"
-      ],
-      "summary": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Gary O’Neil says it was “a tough choice” between Zian Flemming and Chuba Akpom to start up front . The former will lead the line for Ipswich. Mike",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "JJ Gabriel is not Man Utd wonderkid’s real name with ex-Arsenal dad changing it to make star more marketable",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40390795/jj-gabriel-is-not-man-utd-wonderkids-real-name/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-15T18:22:07+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester United",
-        "Man Utd",
-        "Gabriel",
-        "wonderkid",
-        "real"
-      ],
-      "summary": "JJ GABRIEL is NOT the wantaway Manchester United wonderkid's real name. That's because he did CHANGED IT to make his son more marketable. 15-year-old sensation Gabriel's real name is Joseph Junior Andreou O’Cearuill. But a well-informed source told SunSport the name switch was to make the teenager m",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "Thomas Tuchel reveals biggest regret from World Cup after ‘painful’ England loss to Argentina",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40390889/thomas-tuchel-reveals-biggest-regret-england-argentina-world-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-15T17:25:51+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Thomas",
-        "Tuchel",
-        "reveals",
-        "biggest",
-        "regret",
-        "World"
-      ],
-      "summary": "THOMAS TUCHEL revealed he regrets not eating the GRASS from the Azteca pitch to mark England’s memorable win in Mexico at the World Cup. While the England boss reckons Euro 2028 will be easier to prepare for than the World Cup in North America. Tuchel was reflecting on this summer’s tournament with ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T18:52:13.923127+00:00"
-    },
-    {
-      "title": "Manchester United shocked as talented youngster JJ Gabriel asks to leave",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-15T14:18:24+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "young",
-        "Manchester",
-        "United",
-        "shocked"
-      ],
-      "summary": "15-year-old wants his registration to be cancelled He was to be in squad to face Brighton on Wednesday Manchester United have been left confused and shocked by the news that the talented 15-year-old JJ Gabriel has asked to leave the club, a day before he was to be included in the first-team squad to",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T14:52:49.861957+00:00"
-    },
-    {
-      "title": "Inside Richarlison’s messy Tottenham break-up, from failed transfer exits to Premier League axe and De Zerbi fallout",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40386862/richarlison-tottenham-break-up-de-zerbi-fallout/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-15T13:52:31+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Tottenham",
-        "Spurs",
-        "Richarlison",
-        "Inside",
-        "messy",
-        "break"
-      ],
-      "summary": "RICHARLISON is looking stuck on the sidelines at Spurs until January at least. The Brazilian’s escape routes have closed one by one, with the last remaining leagues that have transfer windows still open unlikely to appeal. They include the Saudi non-league - that country’s lucrative Pro League shut ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T14:52:49.861957+00:00"
-    },
-    {
-      "title": "‘Not even Bruno’ – Wayne Rooney makes brutal Man Utd admission as he claims ZERO stars get into Man City or Arsenal XI",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40386679/rooney-brutal-man-utd-zero-stars-man-city-arsenal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-15T13:20:57+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester City",
-        "Manchester United",
-        "Man City",
-        "Man Utd",
-        "Rooney"
-      ],
-      "summary": "WAYNE ROONEY has claimed that no Manchester United players would get into the current Manchester City or Arsenal matchday squad. The Red Devils have endured another underwhelming start to the Premier League season, managing just four points from their opening four games. Their latest defeat came at ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-15T14:52:49.861957+00:00"
     }
   ]
 }
