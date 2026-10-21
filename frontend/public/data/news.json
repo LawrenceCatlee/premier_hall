@@ -1,239 +1,267 @@
 {
-  "updated_at": "2026-10-21T09:59:43.786878+00:00",
+  "updated_at": "2026-10-21T15:07:35.276800+00:00",
   "items": [
     {
-      "title": "England Women confirm Sri Lanka white-ball tour for 2027",
+      "title": "‘A complete threat’: Rio Ngumoha’s electric display excites Van Dijk and Liverpool",
       "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13601792/england-womens-cricket-charlotte-edwards-side-confirm-white-ball-tour-of-sri-lanka-and-red-ball-training-camp-in-india",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-21T09:04:00+00:00",
-      "score": 34.0,
-      "keywords": [
-        "March",
-        "England",
-        "Women",
-        "confirm",
-        "Lanka",
-        "white"
-      ],
-      "summary": "England Women have confirmed a white-ball tour of Sri Lanka with a T20I and ODI series set to take place in February and March 2027.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ex-Fulham goalkeeper Sergio Rico tied up by armed robbers and wife threatened in front of kids during terrifying raid",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40755087/sergio-rico-fulham-armed-robbers/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-21T08:04:20+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Fulham",
-        "Silva",
-        "goalkeeper",
-        "Sergio",
-        "Rico",
-        "tied"
-      ],
-      "summary": "FORMER Fulham goalie Sergio Rico and his family have suffered a terrifying armed robbery while they were having dinner at home. The 33-year-old was tied up after five masked raiders smashed down the front door of the footballer’s property near Seville and threatened his influencer wife Alba Silva in",
-      "summary_cn": ""
-    },
-    {
-      "title": "EFL managers involved in furious touchline spat at full-time as reason behind what sparked chaos revealed",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40754978/wolves-portsmouth-manager-touchline-clash-championship/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-21T08:00:30+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Wolves",
-        "Terry",
-        "managers",
-        "involved",
-        "furious",
-        "touchline"
-      ],
-      "summary": "THERE were feisty scenes at the end of Wolves' Championship clash with Portsmouth as the two managers were involved in a touchline fracas at full-time. Emotions at Molineux Stadium boiled over on Tuesday night as Terry Devlin hit an 86th-minute equaliser for the visitors to snatch a point on the roa",
-      "summary_cn": ""
-    },
-    {
-      "title": "What's happened to Igor Thiago?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-21T10:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "happened",
-        "Igor",
-        "Thiago"
-      ],
-      "summary": "Igor Thiago's first season as a Premier League player, in 2024/25, was heavily disrupted by knee injuries - and he more than made up for lost time the following season.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Ten Hag on Man Utd's use of data and 'special' Mainoo",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13601791/erik-ten-hag-interview-man-utds-use-of-data-impact-of-legends-criticism-and-special-mainoo",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-21T08:08:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Man Utd",
-        "data",
-        "special",
-        "Mainoo"
-      ],
-      "summary": "A message on my phone buzzes. \"I pick you up at the station.\" It is Erik ten Hag offering a lift in his car once my train from Amsterdam arrives in Enschede, in the east of the Netherlands. It is delayed, but he doesn't seem to mind.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why Eze is struggling to find his form at Arsenal",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-21T09:22:07+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "struggling",
-        "find",
-        "form"
-      ],
-      "summary": "Eberechi Eze has been struggling for form this season for Arsenal, but there could be hope that the forward turns it around.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Alvechurch and Stafford set up tasty FA Cup ties",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crq5n0d8g2l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-21T08:39:42+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Alvechurch",
-        "Stafford",
-        "tasty",
-        "ties"
-      ],
-      "summary": "Eighth-tier Stafford Rangers will host Grimsby in the FA Cup first round after thumping National League strugglers Gateshead 5-0.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Leicester to visit Oxford City in FA Cup first round - full draw",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-21T09:15:41+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Leicester",
-        "visit",
-        "Oxford",
-        "City",
-        "first",
-        "round"
-      ],
-      "summary": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-      "summary_cn": ""
-    },
-    {
-      "title": "I used to cry in the back of the car after Chelsea training sessions – I was always playing catch-up, admits Chalobah",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40756363/trevoh-chalobah-cried-chelsea-training-como/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-21T09:58:56+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "used",
-        "back",
-        "training",
-        "sessions",
-        "always"
-      ],
-      "summary": "FORMER Chelsea defender Trevoh Chalobah has admitted he used to cry on his way home from training as a youth star. The centre-back, 27, joined Chelsea at the age of eight and went on to make 151 appearances for the club before leaving for Como this summer. But Chalobah has admitted he \"never really ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Joshua Kimmich out of Bayern Munich clash against Arsenal after withdrawing from squad due to death in family",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40756637/joshua-kimmich-bayern-munich-arsenal-champions-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-21T09:28:47+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Joshua",
-        "Kimmich",
-        "Bayern",
-        "Munich",
-        "clash"
-      ],
-      "summary": "JOSHUA KIMMICH is OUT of Bayern Munich's Champions League clash against Arsenal. The Germany international has withdrawn from the squad following a death in his family. Bayern host the Gunners in the tournament's league phase fixture at the Allianz Arena TONIGHT. Kimmich, 31, was missing from the Bu",
-      "summary_cn": ""
-    },
-    {
-      "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-21T09:49:23+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Kvaratskhelia",
-        "surgery",
-        "ruptured"
-      ],
-      "summary": "Paris St-Germain winger Khvicha Kvaratskhelia will undergo knee surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Coach banned until 2048 for training DR Congo kids while suspended for sexual abuse",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/oct/21/coach-banned-dr-congo-training-kids-sexual-abuse-2048",
+      "url": "https://www.theguardian.com/football/2026/oct/21/rio-ngumoha-progress-liverpool-villarreal-champions-league",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-10-21T09:20:42+00:00",
-      "score": 20.0,
+      "published": "2026-10-21T13:59:31+00:00",
+      "score": 31.0,
       "keywords": [
-        "Coach",
-        "banned",
-        "until",
-        "training",
-        "Congo",
-        "kids"
+        "Liverpool",
+        "Salah",
+        "complete",
+        "threat",
+        "Ngumoha",
+        "electric"
       ],
-      "summary": "Jonathan Bukabakwa gets extra five-year ban from Fifa DRC’s FA ordered to improve education and compliance A coach in the Democratic Republic of the Congo who was banned from football for 20 years by Fifa for sexual abuse of a minor has had his ban extended by five years to 2048 by the world governi",
+      "summary": "Teenager produced man-of-the-match performance against Villarreal and has learned from Salah, says Reds captain The shot sailed wide of Peter Gulacsi’s top corner and into the Kop, affording Villarreal much-needed respite at 4-2, but for Andoni Iraola it was a standout moment in a scintillating Cham",
       "summary_cn": ""
     },
     {
-      "title": "PSG star Khvicha Kvaratskhelia ‘out for season’ after rupturing ACL during Barcelona clash",
+      "title": "England World Cup tormentor’s son, 17, scores worldie against Championship club as celebration leaves fans fuming",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40756608/psg-khvicha-kvaratskhelia-acl-injury-out-for-season/",
+      "url": "https://www.thesun.co.uk/sport/40759826/claudio-marchisio-son-scores-southampton-juventus/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-21T09:26:24+00:00",
+      "published": "2026-10-21T13:10:35+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Southampton",
+        "March",
+        "England",
+        "World",
+        "tormentor",
+        "scores"
+      ],
+      "summary": "THE SON of a former Italy and Juventus icon made a statement on Tuesday evening when he scored a stunner against Southampton's youth team. Davide Marchisio, son of Juve legend Claudio Marchisio, came off the bench for the Italian giants' U21 team in the Premier League International Cup. And it didn'",
+      "summary_cn": ""
+    },
+    {
+      "title": "England star Kildunne dropped for Canada rematch",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13601856/englands-red-roses-ellie-kildunne-benched-as-part-of-four-changes-to-starting-xv-in-search-for-victory-in-canada-rematch",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-21T14:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "dunne",
+        "England",
+        "star",
+        "Kildunne",
+        "dropped",
+        "Canada"
+      ],
+      "summary": "Ellie Kildunne has been dropped to the bench in the England Red Roses squad to face Canada on Friday, a week on from suffering defeat in Toronto which ended a 41-match unbeaten run.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Why do Man City fans boo pre-match anthems?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvx28yk1j6z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-21T13:57:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Man City",
+        "City",
+        "fans",
+        "match",
+        "anthems"
+      ],
+      "summary": "The cacophony of boos that greet the Premier League and Champions League anthems before kick-off have now become a fixture at Etihad Stadium.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ipswich on 'inevitable' path to WSL - Boswell",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdjvr3mn0yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-21T13:18:35+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "inevitable",
+        "path",
+        "Boswell"
+      ],
+      "summary": "Ipswich Town Women are on an \"inevitable\" trajectory to promotion to the Women's Super League, believes club captain Maria Boswell.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Lisandro Martinez ‘set to leave Man Utd’ following controversial transfer rant at sporting director",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40761765/lisandro-martinez-manchester-united-argentina-ajax/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T14:53:16+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Lisandro",
+        "Martinez",
+        "leave",
+        "following"
+      ],
+      "summary": "LISANDRO MARTINEZ could be heading for the Manchester United exit door this summer as the club prepare for a major defensive overhaul. The Argentine World Cup winner, 28, faces an uncertain future at Old Trafford according to a report in the Mail. And his potential departure comes just days after he",
+      "summary_cn": ""
+    },
+    {
+      "title": "Get a CASH winnings bonus of up to 100% on your first winning 3+ leg Bet Builder on Bayern vs Arsenal, plus our 10/1 tip",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40743429/bayern-arsenal-bet-builder-cash-bonus/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T14:30:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "CASH",
+        "winnings",
+        "bonus",
+        "first",
+        "winning"
+      ],
+      "summary": "ARSENAL head to Munich on Wednesday for a glamour tie with Bayern in the Champions League. To mark another massive midweek of action, Betfred are offering customers a cash winnings bonus of up to 100% on winning Bet Builder bets! And brand-new Betfred customers who sign up today can also get their h",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ten crazy rules football bosses banned including sex positions and gravy as De Zerbi makes Spurs players hide phones",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40749154/football-bosses-crazy-ban-sex-gravy-phones/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T14:25:19+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "crazy",
+        "rules",
+        "football",
+        "bosses"
+      ],
+      "summary": "THE top bosses in football want the very best from their players on and off the pitch.&nbsp; Roberto De Zerbi revealed that he BANNED his Tottenham stars from using their phones during meal times at their Marbella training camp. And it may well have helped turn things around after securing their fir",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd add academy kid to squad for Champions League clash with Como… despite already playing for youth team today",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40760312/man-utd-add-academy-star-champions-league-como/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T14:00:22+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "academy",
+        "squad",
+        "Champions",
+        "League"
+      ],
+      "summary": "MANCHESTER UNITED have added a youth prospect to their Champions League squad for their Como clash - despite him playing hours earlier. Albert Mills, 18, started and played 72 minutes for the United U19 side as they took on Como's youth set-up in the Uefa Youth League on Wednesday afternoon. But he ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wardley offered route back to world title after 'rest and recovery'",
+      "title_cn": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13601892/fabio-wardley-offered-route-back-to-world-title-after-rest-and-recovery-well-see-where-we-go-hes-a-dangerous-man",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-21T13:20:00+00:00",
       "score": 20.0,
       "keywords": [
-        "star",
-        "Khvicha",
-        "Kvaratskhelia",
-        "season",
-        "rupturing",
-        "during"
+        "Wardley",
+        "offered",
+        "route",
+        "back",
+        "world",
+        "title"
       ],
-      "summary": "​​PARIS SAINT-GERMAIN star Khvicha Kvaratskhelia is set to miss the remainder of the season after suffering an ACL rupture against Barcelona. The winger was carried off the pitch just before the hour mark of the thrilling Champions League contest. PSG emerged as 4-2 victors over their Spanish rivals",
+      "summary": "Fabio Wardley will be offered a route back to another world heavyweight title fight after his rematch defeat to Daniel Dubois.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Barca condemn PSG tifo inciting 'violence and hatred'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1jwp9827o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-21T13:12:20+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Barca",
+        "condemn",
+        "tifo",
+        "inciting",
+        "violence",
+        "hatred"
+      ],
+      "summary": "Barcelona report Paris Saint-Germain to Uefa after a tifo featuring a message which they say \"incites violence and hatred in sport\" was displayed ahead of Tuesday's Champions League match.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Inside football’s most glam couple Diletta Leotta and Loris Karius’ lavish life with yacht trips and luxury holidays",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40757061/diletta-leotta-loris-karius-glam-lifestyle-yacht-holiday/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T15:01:35+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Inside",
+        "football",
+        "most",
+        "glam",
+        "couple",
+        "Diletta"
+      ],
+      "summary": "DAZN queen Diletta Leotta has her king in husband Loris Karius. The pair, who began dating in 2022 after meeting at Paris Fashion Week, are football's most glam couple. Not only are they blessed with good looks, they've been successful in their careers. Delightful Leotta, 35, has established herself",
+      "summary_cn": ""
+    },
+    {
+      "title": "Differential options for Gameweek 8: Josh King and Pedro Neto among alternative transfer targets",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40759791/differential-options-gameweek-8-josh-king-pedro-neto/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T14:46:27+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Differential",
+        "options",
+        "Gameweek",
+        "Josh",
+        "King",
+        "Pedro"
+      ],
+      "summary": "GAMEWEEK 7 rumbles on but it's time for Dream Team managers to start planning for Gameweek 8. Allow us to present out latest differential options, players who feature in a a slim minority of teams and therefore have the potential to make a big impact. Josh King (£2.9m) Let's start with a one-week pu",
+      "summary_cn": ""
+    },
+    {
+      "title": "Barcelona report PSG to Uefa for ‘overly aggressive and offensive’ tifo in Champions League blockbuster",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40760144/barcelona-report-psg-uefa-tifo-offensive-champions-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-21T14:02:02+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Barcelona",
+        "report",
+        "Uefa",
+        "overly",
+        "aggressive",
+        "offensive"
+      ],
+      "summary": "BARCELONA have reported Paris Saint-Germain to Uefa over an \"overly aggressive and offensive\" tifo during their Champions League clash. The LaLiga side were beaten 4-2 by the reigning European champions in the French capital on Tuesday night. And before kick-off, a giant banner was held up by the ho",
       "summary_cn": ""
     }
   ]
