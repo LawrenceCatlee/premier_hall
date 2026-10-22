@@ -1,212 +1,345 @@
 {
-  "updated_at": "2026-10-22T19:56:31.468467+00:00",
+  "updated_at": "2026-10-22T23:12:48.489806+00:00",
   "items": [
     {
-      "title": "Fernandes has home burgled while in Italy with Man Utd",
+      "title": "PL Predictions: Delap's Ipswich reunion to get feisty",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq9vz19p41x8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.skysports.com/football/news/12040/13602410/premier-league-predictions-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-22T23:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Ipswich",
+        "Delap",
+        "Jones",
+        "Predictions",
+        "reunion",
+        "feisty"
+      ],
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd chief keen on Howe - Friday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-22T18:04:21+00:00",
+      "published": "2026-10-22T21:53:52+00:00",
       "score": 31.0,
       "keywords": [
         "Manchester United",
         "Man Utd",
-        "Fernandes",
-        "Bruno Fernandes",
-        "home",
-        "burgled"
-      ],
-      "summary": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Next in line? Main contenders for the Manchester United hot seat",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/oct/22/contenders-manchester-united-next-manager-michael-carrick",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-10-22T18:32:32+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Manchester United",
         "Michael Carrick",
         "Carrick",
-        "Next",
-        "line"
+        "Antonio",
+        "chief"
       ],
-      "summary": "With Michael Carrick’s future at Old Trafford a matter of some debate, we examine the credentials of those who could succeed him The German was of interest to Manchester City while Omar Berrada was part of the hierarchy on the other side of town. He is highly thought of and would come with an impres",
+      "summary": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
       "summary_cn": ""
     },
     {
-      "title": "Ruben Amorim has touchline meltdown as AC Milan keeper is given bizarre red card against Bournemouth",
+      "title": "Premier League: 10 things to look out for this weekend",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40779653/ruben-amorim-mike-maignan-red-card-bournemouth-ac-milan/",
-      "source": "The Sun",
+      "url": "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
+      "source": "The Guardian",
       "tier": 2,
-      "published": "2026-10-22T19:38:10+00:00",
+      "published": "2026-10-22T23:01:52+00:00",
       "score": 31.0,
       "keywords": [
-        "Manchester United",
-        "Bournemouth",
-        "given",
-        "Ruben",
-        "Amorim",
-        "touchline"
+        "Nottingham Forest",
+        "Spurs",
+        "Forest",
+        "Bridge",
+        "Premier",
+        "League"
       ],
-      "summary": "FORMER Manchester United chief Ruben Amorim made a nightmare return to England - as AC Milan keeper Mike Maignan saw red following a moment of madness. The Italian giants had jetted into Bournemouth for a crunch clash in the Europa League. And, with the Cherries already leading through Justin Kluive",
+      "summary": "Max Dowman may get a chance, Spurs need to find balance at Stamford Bridge and Axel Disasi must make amends Premier League top scorers After seven games, Nottingham Forest’s record is eerily similar to last season: five points, five goals scored. A year ago Forest’s eighth game was a 3-0 home loss t",
       "summary_cn": ""
     },
     {
-      "title": "How Bruno Fernandes went rogue by ignoring Michael Carrick’s tactics in Man Utd’s 4-1 mauling at Como",
+      "title": "Backtracking Kyle Walker vows to KEEP ‘four in a row’ Prem champions tattoo after backlash from furious Man City fans",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40779022/bruno-fernandes-rogue-michael-carrick-tactics-como-man-utd/",
+      "url": "https://www.thesun.co.uk/sport/40780690/kyle-walker-keeps-tattoo-fan-backlash/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-22T18:47:57+00:00",
+      "published": "2026-10-22T22:43:46+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man City",
+        "Kyle Walker",
+        "Walker",
+        "Backtracking",
+        "Kyle",
+        "vows"
+      ],
+      "summary": "FOOTIE ace Kyle Walker has vowed to keep his “four in a row” Premier League champions tattoo after a backlash from outraged Man City fans.&nbsp; We told yesterday that he said he would “probably” have it lasered off if City are stripped of titles.&nbsp; But fans accused the former skipper of throwin",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wayne Rooney blasts ‘selfish BABIES’ Bruno Fernandes and Lisandro Martinez after public Man Utd tantrums",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40780233/wayne-rooney-blasts-selfish-man-utd-stars/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-22T22:07:59+00:00",
       "score": 31.0,
       "keywords": [
         "Manchester United",
         "Man Utd",
         "Fernandes",
-        "Michael Carrick",
-        "Bruno Fernandes",
-        "Carrick"
-      ],
-      "summary": "BRUNO FERNANDES called out Michael Carrick's tactics after Manchester United suffered a humiliating 4-1 loss to Como last night. The United captain, who was hauled off in the second half, appeared to put the loss down to the head coach's approach as the club's winless run extended to seven games. Me",
-      "summary_cn": ""
-    },
-    {
-      "title": "‘Any chance of doing your job, lads?’ – Man Utd rebels Bruno Fernandes and Lisandro Martinez slammed by Prem legend",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40778972/man-utd-bruno-fernandes-lisandro-martinez-alan-shearer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-22T18:28:58+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "ALAN SHEARER",
-        "Fernandes",
+        "Wayne Rooney",
         "Michael Carrick",
         "Bruno Fernandes"
       ],
-      "summary": "ALAN SHEARER lambasted Manchester United rebels Bruno Fernandes and Lisandro Martinez after they slammed club chiefs and under-fire manager Michael Carrick amid another turbulent season. United are enduring their worst start to a campaign in 40 years as they have only won two out of their first 11 m",
+      "summary": "MANCHESTER UNITED legend Wayne Rooney says Bruno Fernandes and Lisandro Martinez are \"selfish babies\" following their attacks on Michael Carrick and the club hierarchy. The 40-year-old also urged the players to \"look at themselves in the mirror\" following a seven-game winless run. Martinez was first",
       "summary_cn": ""
     },
     {
-      "title": "What cost England in epic as 'box office' Brook's 'genius' goes to waste?",
+      "title": "How contenders to be next Man Utd boss compare as Eddie Howe, Julian Nagelsmann and Antonio Conte all in running",
       "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13602444/what-cost-england-in-odi-run-fest-vs-sri-lanka-as-harry-brooks-genius-double-century-has-no-value-whatsoever",
+      "url": "https://www.thesun.co.uk/sport/40775098/eddie-howe-nagelsmann-conte-hurzeler-man-utd-boss/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-22T21:32:04+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "Antonio",
+        "contenders"
+      ],
+      "summary": "THE prized Manchester United job could be back on LinkedIn very soon. Michael Carrick's side can lay claim to just one Premire League so far this season win as they pitch up in 13th, making it their worst league start in 40 years. Cesc Fabregas’ Como delivered the heaviest blow of the season so far.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'A lot of points to play for' | Celtic's O'Neill still confident of EL progession",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13602514/celtic-martin-oneill-confident-of-europa-league-progression-despite-celta-vigo-defeat-a-lot-of-points-to-play-for",
       "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-10-22T20:00:00+00:00",
+      "published": "2026-10-22T22:44:00+00:00",
       "score": 26.0,
       "keywords": [
-        "given",
-        "cost",
-        "England",
-        "epic",
-        "office",
-        "Brook"
+        "Neill",
+        "points",
+        "play",
+        "Celtic",
+        "still",
+        "confident"
       ],
-      "summary": "At the halfway stage, most people would have given Sri Lanka no chance.",
+      "summary": "Celtic manager Martin O'Neill believes they can still progress in the Europa League despite Celta Vigo inflicting their third straight defeat in this season's tournament.",
       "summary_cn": ""
     },
     {
-      "title": "Bournemouth v Milan, Celtic v Celta Vigo, and more: Europa League – live",
+      "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-22T19:54:55+00:00",
+      "published": "2026-10-22T22:52:52+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Neill",
+        "bemoans",
+        "marginal",
+        "moments",
+        "Celtic",
+        "good"
+      ],
+      "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bournemouth seal historic win over Amorim's 10-man Milan",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/bournemouth-vs-ac-milan/report/577779",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-22T22:00:00+00:00",
       "score": 25.0,
       "keywords": [
         "Bournemouth",
+        "seal",
+        "historic",
+        "Amorim",
+        "Milan"
+      ],
+      "summary": "Amine Adli scored a fine free-kick to cap Bournemouth's historic 3-0 win over 10-man AC Milan, which continues their brilliant start to their first-ever European campaign.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mateta on target as Palace draw with Besiktas in Istanbul",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/besiktas-vs-crystal-palace/report/577778",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-22T22:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Mateta",
+        "target",
+        "Palace",
+        "draw",
+        "Besiktas"
+      ],
+      "summary": "Jean-Philippe Mateta scored his first goal since last season's UEFA Conference League final but Crystal Palace had to settle for a 2-2 draw away at 10-man Besiktas.",
+      "summary_cn": ""
+    },
+    {
+      "title": "'Night they'll never forget!' - Bournemouth breeze past European giants AC Milan",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13602520/bournemouth-breeze-past-european-giants-ac-milan",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-22T23:19:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Bournemouth",
+        "Night",
+        "never",
+        "forget",
+        "breeze",
+        "past"
+      ],
+      "summary": "Sky Sports News' Mark McAdam reflects on Bournemouth's historical 3-0 victory over AC Milan in the Europa League.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-22T21:30:31+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Bournemouth",
+        "Dream",
+        "night",
         "Milan",
+        "sign",
+        "Premier"
+      ],
+      "summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Superman at Como & is Conte right for Man Utd?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pj4zqk?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-22T21:58:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Man United",
+        "Man Utd",
+        "Superman",
+        "Como",
+        "Conte",
+        "right"
+      ],
+      "summary": "Como gets some love after that scoreline against Man United midweek",
+      "summary_cn": ""
+    },
+    {
+      "title": "Lisandro Martinez ‘lined up for Barcelona free transfer with star expected to leave Man Utd in summer’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40780651/lisandro-martinez-barcelona-free-transfer-man-utd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-22T23:02:41+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Lisandro",
+        "Martinez",
+        "lined",
+        "Barcelona"
+      ],
+      "summary": "BARCELONA could attempt to sign Lisandro Martinez in a free transfer next summer, according to reports. The 28-year-old's Manchester United contract expires next summer and his future at Old Trafford is currently uncertain. Martinez publicly criticised the board last week, claiming they failed to ma",
+      "summary_cn": ""
+    },
+    {
+      "title": "Palace latest: Sage chuffed for Mateta after goal on return to line-up",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-22T23:30:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Palace",
+        "latest",
+        "Sage",
+        "chuffed",
+        "Mateta",
+        "goal"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Celtic stunned by quick double in Europa League defeat to Celta Vigo",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/celtic-vs-celta-vigo/report/577781",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-22T22:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
         "Celtic",
-        "Celta",
-        "Vigo",
-        "Europa"
+        "stunned",
+        "quick",
+        "double",
+        "Europa",
+        "League"
       ],
-      "summary": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel That took 78 seconds – and remember, Sunderland scored at 90+3 of 90+5 in their last game against Torreense. The Prem, problems, but in Europe they’re flying! Poznan are bottom of th",
+      "summary": "Celtic's Europa League hopes took another blow as Celta Vigo came from behind to inflict their third straight defeat in the competition.",
       "summary_cn": ""
     },
     {
-      "title": "Dominant Sunderland punished as Bengtsson earns Lech draw",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/lech-poznan-vs-sunderland/report/577787",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-22T19:45:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Dominant",
-        "Sunderland",
-        "punished",
-        "Bengtsson",
-        "earns",
-        "Lech"
-      ],
-      "summary": "Timur Tutierov's first Sunderland goal was not enough to earn them the victory they deserved in Poland as their wastefulness was punished in a 1-1 draw at lowly Lech Poznan.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'It's not over yet!'- Antonelli assesses World Champion prospects!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13602480/united-states-gp-kimi-antonelli-on-world-champion-prospects",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-22T20:32:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Antonelli",
-        "assesses",
-        "World",
-        "Champion",
-        "prospects"
-      ],
-      "summary": "Ahead of the United States Grand Prix, which could see Kimi Antonelli crowned World Champion, the Mercedes driver shares how he feels about the possibility of claiming the title!",
-      "summary_cn": ""
-    },
-    {
-      "title": "Europa League: Sunderland held in Poznan as Juventus denied comeback win",
+      "title": "Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw",
       "title_cn": "",
       "url": "https://www.theguardian.com/football/2026/oct/22/europa-league-sunderland-held-in-poznan-as-juventus-denied-comeback-win",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-10-22T19:14:48+00:00",
+      "published": "2026-10-22T21:41:11+00:00",
       "score": 20.0,
       "keywords": [
         "Europa",
         "League",
-        "Sunderland",
-        "held",
-        "Poznan",
-        "Juventus"
+        "Celtic",
+        "lose",
+        "Celta",
+        "leading"
       ],
-      "summary": "Sunderland drop points in 1-1 draw but stay unbeaten VAR rules out Juventus winner in draw with Rennes Sunderland ’s winning start in the Europa League was ended with a 1-1 draw away to Lech Poznan . The point keeps Sunderland unbeaten in Europe this season but ends their winning start, which saw th",
+      "summary": "Sunderland drop points in 1-1 draw but stay unbeaten VAR rules out Juventus winner in draw with Rennes Celtic suffered more Europa League pain as Spanish side Celta Vigo came from behind to win 2-1 at Parkhead. After defeats by Ferencvaros and Benfica in their first two league phase fixtures, Martin",
       "summary_cn": ""
     },
     {
-      "title": "See Lionel Messi play match for Inter Miami and then enjoy Caribbean cruise from just £1,799pp",
+      "title": "Lech Poznan 1 Sunderland 1: Ukrainian Timur Tutierov denied dream night in Europa League despite extending unbeaten run",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/39491917/lionel-messi-inter-miami-match-cruise-tickets-flights-holiday/",
+      "url": "https://www.thesun.co.uk/sport/40780754/lech-poznan-tutierov-sunderland/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-22T18:43:06+00:00",
+      "published": "2026-10-22T22:53:16+00:00",
       "score": 20.0,
       "keywords": [
-        "Lionel",
-        "Messi",
-        "play",
-        "match",
-        "Inter",
-        "Miami"
+        "Lech",
+        "Poznan",
+        "Sunderland",
+        "Ukrainian",
+        "Timur",
+        "Tutierov"
       ],
-      "summary": "DON'T miss out on this unbelievable trip of a lifetime — watch the GOAT Lionel Messi and then enjoy a luxury cruise on the Caribbean. Our travel partners have come up with an incredible collection of cruise-and-stay travel packages that include tickets to see Messi in action for Inter Miami. Messi &",
+      "summary": "CRIMEAN CANNONBALL Timur Tutierov was denied a dream night as Lech Poznan ended Sunderland’s rampant start to the Europa League. The Ukrainian forward’s goal after just 78 SECONDS looked to be enough to earn a third-straight win in the competition. But substitute Leo Bengtsson came to the Polish sid",
       "summary_cn": ""
     }
   ]
