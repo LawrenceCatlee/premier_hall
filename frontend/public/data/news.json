@@ -1,4 +1,365 @@
 {
-  "updated_at": "2026-10-23T04:29:27.975535+00:00",
-  "items": []
+  "updated_at": "2026-10-23T09:54:40.170758+00:00",
+  "items": [
+    {
+      "title": "Man Utd stadium update as fans asked for input on designs for £2bn 100,000-seat Old Trafford replacement",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40782994/man-utd-new-stadium-old-trafford/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T09:46:19+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "stadium",
+        "update",
+        "fans",
+        "asked"
+      ],
+      "summary": "MANCHESTER UNITED have launched a fan survey seeking feedback on their proposed 100,000-seater stadium design.&nbsp; Fans have been invited to take part in a series of focus groups to explore key themes and concepts before settling on a final stadium design. United sources say the sessions will help",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ipswich latest: Davis on impressive start and lessons learned from last PL season",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T09:20:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Ipswich",
+        "Davis",
+        "latest",
+        "impressive",
+        "start",
+        "lessons"
+      ],
+      "summary": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Merson: Brighton are one million per cent title contenders – if they win next two",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602288/brighton-will-be-in-premier-league-title-race-if-they-beat-liverpool-and-man-city-says-paul-merson",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brighton",
+        "Merson",
+        "Paul Merson",
+        "million",
+        "cent",
+        "title"
+      ],
+      "summary": "Sky Sports' Paul Merson says Brighton will enter the Premier League title race if they win their next two games.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Should Man Utd boss Carrick drop captain Fernandes?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-23T08:28:21+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Bournemouth",
+        "Man Utd",
+        "Carrick",
+        "Bruno Fernandes",
+        "Michael Carrick"
+      ],
+      "summary": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-23T09:17:38+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Carrick",
+        "Wilcox",
+        "wants",
+        "Howe",
+        "Manchester"
+      ],
+      "summary": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom In Spain, it’s the Clásico on Sunday at the Camp Nou, with leaders Barcelona having made the better start to the season, though Real Madrid – six points behind – have begun to hit their straps. But is it",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham fans say ‘just take my money’ as 27/28 home and away kits are ‘leaked’ with unique design and new colour",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40781730/tottenham-fans-demand-new-leaked-kits/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T08:51:13+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "given",
+        "fans",
+        "take",
+        "money"
+      ],
+      "summary": "TOTTENHAM fans are in love with the potential kits for the 2027/28 season after they were 'leaked' online. The North London club has given supporters little to cheer about on the pitch in the Premier League over the past three years. Spurs did lift the Europa League in 2025 but have suffered consecu",
+      "summary_cn": ""
+    },
+    {
+      "title": "O'Neill challenges Celtic to 'find a way' to win in Europe",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602587/martin-oneill-challenges-celtic-to-find-a-way-in-europe-but-are-they-just-not-good-enough",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Neill",
+        "challenges",
+        "Celtic",
+        "find",
+        "Europe"
+      ],
+      "summary": "Martin O'Neill wants Celtic to find a way to win in Europe, but after a third straight defeat is the step up from domestic dominance too big for them?",
+      "summary_cn": ""
+    },
+    {
+      "title": "Is El Clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-23T09:00:05+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "still",
+        "world",
+        "biggest",
+        "match"
+      ],
+      "summary": "The fixture’s relevance waned as the Messi-Ronaldo rivalry faded. Can Lamine Yamal and Mbappé lift it into a new era? For the best part of a decade, El Clásico was more than just soccer’s biggest fixture. It was the defining narrative. At the peak of the Lionel Messi v Cristiano Ronaldo era, there w",
+      "summary_cn": ""
+    },
+    {
+      "title": "Glamorous footballer Madelene Wright shows off her toned figure in gym gear as fans say ‘beautiful’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40781225/madelene-wright-toned-figure-glam-football/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T08:08:07+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Charlton",
+        "Wright",
+        "Glamorous",
+        "footballer",
+        "Madelene",
+        "shows"
+      ],
+      "summary": "MADELENE WRIGHT has stunned fans by showing off her toned figure in gym gear. The glamorous footballer made her name playing for the likes of Charlton and Leyton Orient. Madelene, 28, is still in the game after joining Chatham Town last summer and was retained for the 2026/27 season. The star has a ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Jaissle needs some wins to quieten down the noise at Newcastle",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602481/newcastle-united-reporter-notebook-matthias-jaissle-needs-some-wins-to-quieten-down-the-noise-on-tyneside",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T08:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Jaissle",
+        "needs",
+        "some",
+        "wins",
+        "quieten"
+      ],
+      "summary": "In his latest Reporter Notebook, Sky Sports News' Keith Downie looks into what is going wrong at Newcastle United.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Reporter Notebook: No panic stations at Sunderland despite tough start",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T08:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Reporter",
+        "Notebook",
+        "panic",
+        "stations",
+        "Sunderland",
+        "despite"
+      ],
+      "summary": "It's certainly been a different start to the season for Sunderland compared to last year, when they flew out of the traps on their Premier League return and went months without a home league defeat.",
+      "summary_cn": ""
+    },
+    {
+      "title": "New Victor Moses? How Alonso has transformed Neto",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvrkkjv0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-23T07:57:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Victor",
+        "Moses",
+        "Alonso",
+        "transformed",
+        "Neto"
+      ],
+      "summary": "Those following Chelsea closely may feel history is repeating itself as Pedro Neto excels at wing-back, much like Victor Moses did a decade ago.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Forest's start raises questions - but belief in Glasner remains",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw3djpg15045o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-23T08:14:50+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "Nottingham Forest",
+        "Forest",
+        "start",
+        "raises",
+        "questions"
+      ],
+      "summary": "Nottingham Forest go to Ipswich in the bottom three of the Premier League, but boss Oliver Glasner believes they have deserved more this season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Failure on the field, unrest in stands - Burnley's horror 12 months",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6qxnzyx77vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-23T09:24:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Failure",
+        "field",
+        "unrest",
+        "stands",
+        "Burnley",
+        "horror"
+      ],
+      "summary": "Burnley have failed to win a home league game in 12 months as they continue to struggle after relegation from the Premier League.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ruben Amorim can’t resist smiling as Bournemouth fans shower AC Milan manager with hilarious chant about Man Utd days",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40782556/ruben-amorim-laughs-chant-bournemouth-fans-man-utd-milan/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T09:40:20+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Bournemouth",
+        "Man Utd",
+        "Ruben",
+        "Amorim",
+        "resist"
+      ],
+      "summary": "RUBEN AMORIM couldn't help but smile after Bournemouth fans goaded him during their thrashing of AC Milan. The former Manchester United boss watched on as his side suffered a shock 3-0 defeat to the Cherries in the Europa League on Thursday night. It continued his woeful run against Bournemouth afte",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd goalkeeper Andre Onana cheats death after being involved in terrifying car crash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40782859/man-utd-andre-onana-car-crash/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T09:18:50+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "goalkeeper",
+        "Andre",
+        "Onana",
+        "cheats"
+      ],
+      "summary": "ANDRE ONANA has cheated death in a terrifying road accident - with the Manchester United keeper's car involved in a multi-vehicle pile-up. Cameroon international Onana is currently on loan to Turkish Super Lig club Trabzonspor. He kept a clean sheet as they defeated Hearts 2-0 in the Uefa Conference",
+      "summary_cn": ""
+    },
+    {
+      "title": "Former Premier League winners served secret transfer ban as club plunges to new depths",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40781682/leicester-premier-league-champions-secret-transfer-ban/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T09:18:47+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Leicester",
+        "Former",
+        "Premier",
+        "League",
+        "winners",
+        "served"
+      ],
+      "summary": "LEICESTER spent five weeks of the summer transfer window under an embargo that prevented them from making signings. The Foxes suffered a second straight relegation at the end of last season that condemned the side to League One football. But their misery was compounded after the BBC revealed that th",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd vs Bournemouth: Our 4/1 bet builder tip, plus get £50 in free bets | Paddy Power",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40771542/man-utd-bournemouth-paddy-power-bet-builder-tips-free/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T08:45:14+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Bournemouth",
+        "Man Utd",
+        "builder",
+        "plus",
+        "free"
+      ],
+      "summary": "MANCHESTER UNITED will hope to prevent a bad week from getting worse when Bournemouth visit Old Trafford in Sunday's Premier League showdown. Brand-new Paddy Power customers who register and place a £10 football bet builder at odds of 1/2 or greater will be rewarded with £50 in Free Football Bet Bui",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rugby League World Cup 2026: Latest results and schedule",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13598071/rugby-league-world-cup-2026-schedule-dates-format-results-from-mens-womens-and-wheelchair-tournaments",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Rugby",
+        "League",
+        "World",
+        "Latest",
+        "results",
+        "schedule"
+      ],
+      "summary": "Latest scores and results from the 2026 Rugby League World Cup, with Australia, New Zealand, and Papua New Guinea playing host to the men's, women's and wheelchair tournaments.",
+      "summary_cn": ""
+    }
+  ]
 }

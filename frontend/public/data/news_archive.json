@@ -1,6 +1,385 @@
 {
   "items": [
     {
+      "title": "Man Utd stadium update as fans asked for input on designs for £2bn 100,000-seat Old Trafford replacement",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40782994/man-utd-new-stadium-old-trafford/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T09:46:19+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "stadium",
+        "update",
+        "fans",
+        "asked"
+      ],
+      "summary": "MANCHESTER UNITED have launched a fan survey seeking feedback on their proposed 100,000-seater stadium design.&nbsp; Fans have been invited to take part in a series of focus groups to explore key themes and concepts before settling on a final stadium design. United sources say the sessions will help",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Ipswich latest: Davis on impressive start and lessons learned from last PL season",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T09:20:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Ipswich",
+        "Davis",
+        "latest",
+        "impressive",
+        "start",
+        "lessons"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Merson: Brighton are one million per cent title contenders – if they win next two",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602288/brighton-will-be-in-premier-league-title-race-if-they-beat-liverpool-and-man-city-says-paul-merson",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brighton",
+        "Merson",
+        "Paul Merson",
+        "million",
+        "cent",
+        "title"
+      ],
+      "summary": "Sky Sports' Paul Merson says Brighton will enter the Premier League title race if they win their next two games.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Should Man Utd boss Carrick drop captain Fernandes?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-23T08:28:21+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Bournemouth",
+        "Man Utd",
+        "Carrick",
+        "Bruno Fernandes",
+        "Michael Carrick"
+      ],
+      "summary": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-23T09:17:38+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Carrick",
+        "Wilcox",
+        "wants",
+        "Howe",
+        "Manchester"
+      ],
+      "summary": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom In Spain, it’s the Clásico on Sunday at the Camp Nou, with leaders Barcelona having made the better start to the season, though Real Madrid – six points behind – have begun to hit their straps. But is it",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Tottenham fans say ‘just take my money’ as 27/28 home and away kits are ‘leaked’ with unique design and new colour",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40781730/tottenham-fans-demand-new-leaked-kits/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T08:51:13+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "given",
+        "fans",
+        "take",
+        "money"
+      ],
+      "summary": "TOTTENHAM fans are in love with the potential kits for the 2027/28 season after they were 'leaked' online. The North London club has given supporters little to cheer about on the pitch in the Premier League over the past three years. Spurs did lift the Europa League in 2025 but have suffered consecu",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "O'Neill challenges Celtic to 'find a way' to win in Europe",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602587/martin-oneill-challenges-celtic-to-find-a-way-in-europe-but-are-they-just-not-good-enough",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Neill",
+        "challenges",
+        "Celtic",
+        "find",
+        "Europe"
+      ],
+      "summary": "Martin O'Neill wants Celtic to find a way to win in Europe, but after a third straight defeat is the step up from domestic dominance too big for them?",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Is El Clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-23T09:00:05+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "still",
+        "world",
+        "biggest",
+        "match"
+      ],
+      "summary": "The fixture’s relevance waned as the Messi-Ronaldo rivalry faded. Can Lamine Yamal and Mbappé lift it into a new era? For the best part of a decade, El Clásico was more than just soccer’s biggest fixture. It was the defining narrative. At the peak of the Lionel Messi v Cristiano Ronaldo era, there w",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Glamorous footballer Madelene Wright shows off her toned figure in gym gear as fans say ‘beautiful’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40781225/madelene-wright-toned-figure-glam-football/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T08:08:07+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Charlton",
+        "Wright",
+        "Glamorous",
+        "footballer",
+        "Madelene",
+        "shows"
+      ],
+      "summary": "MADELENE WRIGHT has stunned fans by showing off her toned figure in gym gear. The glamorous footballer made her name playing for the likes of Charlton and Leyton Orient. Madelene, 28, is still in the game after joining Chatham Town last summer and was retained for the 2026/27 season. The star has a ",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Jaissle needs some wins to quieten down the noise at Newcastle",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602481/newcastle-united-reporter-notebook-matthias-jaissle-needs-some-wins-to-quieten-down-the-noise-on-tyneside",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T08:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newcastle",
+        "Jaissle",
+        "needs",
+        "some",
+        "wins",
+        "quieten"
+      ],
+      "summary": "In his latest Reporter Notebook, Sky Sports News' Keith Downie looks into what is going wrong at Newcastle United.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Reporter Notebook: No panic stations at Sunderland despite tough start",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T08:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Reporter",
+        "Notebook",
+        "panic",
+        "stations",
+        "Sunderland",
+        "despite"
+      ],
+      "summary": "It's certainly been a different start to the season for Sunderland compared to last year, when they flew out of the traps on their Premier League return and went months without a home league defeat.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "New Victor Moses? How Alonso has transformed Neto",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvrkkjv0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-23T07:57:27+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Victor",
+        "Moses",
+        "Alonso",
+        "transformed",
+        "Neto"
+      ],
+      "summary": "Those following Chelsea closely may feel history is repeating itself as Pedro Neto excels at wing-back, much like Victor Moses did a decade ago.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Forest's start raises questions - but belief in Glasner remains",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw3djpg15045o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-23T08:14:50+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "Nottingham Forest",
+        "Forest",
+        "start",
+        "raises",
+        "questions"
+      ],
+      "summary": "Nottingham Forest go to Ipswich in the bottom three of the Premier League, but boss Oliver Glasner believes they have deserved more this season.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Failure on the field, unrest in stands - Burnley's horror 12 months",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6qxnzyx77vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-23T09:24:10+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Failure",
+        "field",
+        "unrest",
+        "stands",
+        "Burnley",
+        "horror"
+      ],
+      "summary": "Burnley have failed to win a home league game in 12 months as they continue to struggle after relegation from the Premier League.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Ruben Amorim can’t resist smiling as Bournemouth fans shower AC Milan manager with hilarious chant about Man Utd days",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40782556/ruben-amorim-laughs-chant-bournemouth-fans-man-utd-milan/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T09:40:20+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Bournemouth",
+        "Man Utd",
+        "Ruben",
+        "Amorim",
+        "resist"
+      ],
+      "summary": "RUBEN AMORIM couldn't help but smile after Bournemouth fans goaded him during their thrashing of AC Milan. The former Manchester United boss watched on as his side suffered a shock 3-0 defeat to the Cherries in the Europa League on Thursday night. It continued his woeful run against Bournemouth afte",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Man Utd goalkeeper Andre Onana cheats death after being involved in terrifying car crash",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40782859/man-utd-andre-onana-car-crash/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T09:18:50+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "goalkeeper",
+        "Andre",
+        "Onana",
+        "cheats"
+      ],
+      "summary": "ANDRE ONANA has cheated death in a terrifying road accident - with the Manchester United keeper's car involved in a multi-vehicle pile-up. Cameroon international Onana is currently on loan to Turkish Super Lig club Trabzonspor. He kept a clean sheet as they defeated Hearts 2-0 in the Uefa Conference",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Former Premier League winners served secret transfer ban as club plunges to new depths",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40781682/leicester-premier-league-champions-secret-transfer-ban/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T09:18:47+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Leicester",
+        "Former",
+        "Premier",
+        "League",
+        "winners",
+        "served"
+      ],
+      "summary": "LEICESTER spent five weeks of the summer transfer window under an embargo that prevented them from making signings. The Foxes suffered a second straight relegation at the end of last season that condemned the side to League One football. But their misery was compounded after the BBC revealed that th",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Man Utd vs Bournemouth: Our 4/1 bet builder tip, plus get £50 in free bets | Paddy Power",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40771542/man-utd-bournemouth-paddy-power-bet-builder-tips-free/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-23T08:45:14+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Bournemouth",
+        "Man Utd",
+        "builder",
+        "plus",
+        "free"
+      ],
+      "summary": "MANCHESTER UNITED will hope to prevent a bad week from getting worse when Bournemouth visit Old Trafford in Sunday's Premier League showdown. Brand-new Paddy Power customers who register and place a £10 football bet builder at odds of 1/2 or greater will be rewarded with £50 in Free Football Bet Bui",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
+      "title": "Rugby League World Cup 2026: Latest results and schedule",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13598071/rugby-league-world-cup-2026-schedule-dates-format-results-from-mens-womens-and-wheelchair-tournaments",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Rugby",
+        "League",
+        "World",
+        "Latest",
+        "results",
+        "schedule"
+      ],
+      "summary": "Latest scores and results from the 2026 Rugby League World Cup, with Australia, New Zealand, and Papua New Guinea playing host to the men's, women's and wheelchair tournaments.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-23T09:54:40.136145+00:00"
+    },
+    {
       "title": "PL Predictions: Delap's Ipswich reunion to get feisty",
       "title_cn": "",
       "url": "https://www.skysports.com/football/news/12040/13602410/premier-league-predictions-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
@@ -39357,385 +39736,6 @@
       "summary": "Leicestershire County Cricket Club have been&#160;deducted 27 points and fined &#163;5,000 for breaching pitch regulations in their victory over Glamorgan in August.",
       "summary_cn": "",
       "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Abraham double helps Villa cruise past Coventry into fourth round",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/coventry-city-vs-aston-villa/report/577573",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-16T21:35:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Aston Villa",
-        "Abraham",
-        "double",
-        "helps",
-        "Villa",
-        "cruise"
-      ],
-      "summary": "Tammy Abraham scored twice as Aston Villa won 3-1 at Coventry City to book their place in the fourth round of the Carabao Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Everton strike late to beat much-changed Wolves in Carabao Cup",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/report/577575",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-16T22:10:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Everton",
-        "Wolves",
-        "strike",
-        "late",
-        "beat",
-        "much"
-      ],
-      "summary": "Substitute Charly Alcaraz hit a late winner to give Everton a 1-0 home win over much-changed Wolves in the third round of the Carabao Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Brighton complete SHOCK comeback to beat Man Utd",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13588753/manchester-united-2-3-brighton-carabao-cup-third-round-highlights",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-16T22:04:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Man Utd",
-        "complete",
-        "SHOCK",
-        "comeback"
-      ],
-      "summary": "Highlights from the third round of the Carabao Cup match between Manchester United and Brighton.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "League Two Fleetwood host Arsenal in Carabao Cup",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-16T21:57:04+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "League",
-        "Fleetwood",
-        "host",
-        "Carabao"
-      ],
-      "summary": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the Carabao Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Arsenal land lowest-ranked Fleetwood in Carabao Cup draw as Liverpool draw Chelsea in monster fourth-round tie",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40403969/arsenal-fleetwood-carabao-cup-draw-liverpool-chelsea-brighton/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T21:38:13+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Chelsea",
-        "Liverpool",
-        "Manchester United",
-        "Tottenham",
-        "Spurs"
-      ],
-      "summary": "THE CARABAO CUP draw has set up a monster fourth-round clash between Liverpool and Chelsea. The competition has already seen some favourites getting knocked out already following Tottenham and Manchester United's exits. The Reds eliminated Spurs on Tuesday following a 3-1 win at Anfield to pile on R",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Sunderland 1 AZ Alkmaar 0: Enzo Le Fee the hero as Black Cats win on return to Europe after 53-YEAR absence",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40403749/sunderland-1-az-alkmaar-0-enzo-le-fee-hero/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T21:37:48+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Sunderland",
-        "Alkmaar",
-        "Enzo",
-        "hero",
-        "Black"
-      ],
-      "summary": "ENZO LE FEE wrote his name into Wearside folklore as Sunderland returned to European football with a bang. The Frenchman had a penalty saved four days earlier against Arsenal. But he was the coolest man in the North East as his spot-kick secured this 1-0 Europa League win over AZ Alkmaar from the sp",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Fans convinced Carabao Cup draw ‘RIGGED’ after Arsenal land easiest tie while Liverpool and Chelsea go toe-to-toe",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40402687/carabao-cup-draw-rigged-arsenal-easy-fleetwood-liverpool-chelsea/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T21:37:28+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Fans",
-        "convinced"
-      ],
-      "summary": "FUMING football fans claimed the Carabao Cup fourth-round draw was RIGGED. There are 17 sides remaining in this year's competition - Manchester City play Norwich tomorrow in the last of this round's games. That includes big boys Arsenal, Chelsea and Liverpool, who booked their spots in the hat with ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Man Utd player ratings: Lacey a shining light on dark evening as Heaven and Yoro ripped apart in Carabao Cup KO",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40402492/man-utd-player-ratings-lacey-heaven-yoro/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T20:57:30+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Man Utd",
-        "player",
-        "ratings",
-        "Lacey"
-      ],
-      "summary": "MANCHESTER UNITED suffered a humiliating Carabao Cup exit at Old Trafford as Brighton came from two goals down to reach the last 16. It is the first time in 50 years that United have held a 2-0 lead at Old Trafford and lost the game. The Red Devils were in dreamland after early goals from...",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Man Utd kid Shea Lacey aims cryptic swipe at JJ Gabriel’s wish to leave Old Trafford as he makes first senior start",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40402993/man-utd-shea-lacey-aims-cryptic-swipe-jj-gabriel/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T20:26:58+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Shea",
-        "Lacey",
-        "aims",
-        "cryptic"
-      ],
-      "summary": "SHEA LACEY appeared to aim a cryptic swipe at Manchester United wonderkid JJ Gabriel after the 15-year-old asked to leave Old Trafford. The highly-rated winger posted a picture of himself wearing United colours on X on Tuesday night alongside a simple red heart emoji. Lacey’s seemingly innocuous pos",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Painful endgame for Gray as stale Hibs slump",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-16T20:53:10+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Painful",
-        "endgame",
-        "Gray",
-        "stale",
-        "Hibs",
-        "slump"
-      ],
-      "summary": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-16T21:05:50+00:00",
-      "score": 20.0,
-      "keywords": [
-        "scar",
-        "Tuchel",
-        "stands",
-        "England",
-        "semi",
-        "final"
-      ],
-      "summary": "Coach says Argentina’s gung-ho approach forced hand ‘No one is more hurt than me, no one wanted it more’ Thomas Tuchel stands by his heavily criticised defensive substitutions in the World Cup semi-final defeat against Argentina this summer, but the England head coach accepts he made them too early.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T22:02:19.615037+00:00"
-    },
-    {
-      "title": "Mount, Rashford, Lacey and Sesko start for Man Utd vs Brighton LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/live/577581",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-16T18:30:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brighton",
-        "Man Utd",
-        "Rashford",
-        "Mount",
-        "Lacey",
-        "Sesko"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T18:06:44.689963+00:00"
-    },
-    {
-      "title": "Grealish starts for Everton with Jimenez up front for Wolves LIVE!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/live/577575",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-16T18:15:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Everton",
-        "Wolves",
-        "Grealish",
-        "starts",
-        "Jimenez",
-        "front"
-      ],
-      "summary": "",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T18:06:44.689963+00:00"
-    },
-    {
-      "title": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-16T18:05:05+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Brighton",
-        "Manchester United",
-        "Mikel",
-        "Manchester",
-        "United"
-      ],
-      "summary": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Max Dowman continues to be good. Mikel Merino can similarities to a certain Lamine Yamal, which is high praise. The PM has arrived for the Big Match. Cont",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T18:06:44.689963+00:00"
-    },
-    {
-      "title": "JJ Gabriel SNUBBED from Man Utd squad for Carabao Cup game having been set for debut before transfer bombshell",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40401432/jj-gabriel-snubbed-man-utd-carabao-cup-debut-bombshell/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T17:50:13+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brighton",
-        "Manchester United",
-        "Man Utd",
-        "young",
-        "Gabriel",
-        "SNUBBED"
-      ],
-      "summary": "JJ GABRIEL is OUT of Manchester United's squad to face Brighton tonight. The teenager, 15, was tipped to be involved in the Carabao Cup. And should he have made his debut, he would have become the club's youngest-ever player. However, news broke yesterday that he sensationally wants to QUIT Old Traf",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T18:06:44.689963+00:00"
-    },
-    {
-      "title": "Charlie Austin reveals his childhood idol – despite Premier League cult hero sensationally claiming he’s overrated",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40396394/goat-charlie-austin-alan-shearer-yakubu-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T17:46:59+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Tim Sherwood",
-        "Sherwood",
-        "Charlie",
-        "Austin",
-        "reveals",
-        "childhood"
-      ],
-      "summary": "CHARLIE AUSTIN revealed his childhood idol - even though a Premier League cult hero didn't rate him. Austin joined Tim Sherwood and StevoTheMadman in the studio for the latest episode of The Sun’s brilliant new show&nbsp;Greatest Of All Teams, brought to you by&nbsp;Sun Vegas. Austin, 37, made 111 t",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T18:06:44.689963+00:00"
-    },
-    {
-      "title": "Mikel Merino reveals secret to keeping Arsenal wonderkid Max Dowman, 16, grounded after running game against Ipswich",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40399002/mikel-merino-secret-arsenal-max-dowman/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T16:10:39+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Ipswich",
-        "MIKEL ARTETA",
-        "ARTETA",
-        "Mikel",
-        "Merino"
-      ],
-      "summary": "MIKEL ARTETA is well aware it will be hard to control the hype around teen stars Marli Salmon and Max Dowman. But the Arsenal boss can at least rest easy knowing the “veterans” in his dressing room are keeping the pair grounded. Dowman, 16, continued his remarkable rise on Tuesday night and scored t",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T18:06:44.689963+00:00"
-    },
-    {
-      "title": "Sunderland v AZ, Milan v Benfica and more: Europa League clockwatch – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-16T17:48:34+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Granit Xhaka",
-        "Xhaka",
-        "Sunderland",
-        "Milan",
-        "Benfica",
-        "Europa"
-      ],
-      "summary": "⚽ Live updates from the 8pm BST kick-offs ⚽ Xhaka promises ‘fire’ | Live scoreboard ⚽ Get in touch! Email Niall with any thoughts The Sunderland captain, Granit Xhaka, has fired an incendiary warning to tonight’s visitors: The stadium will be on fire. And I want to see our players on fire, on and of",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T18:06:44.689963+00:00"
-    },
-    {
-      "title": "‘Landmark moment’ – Wrexham chief ecstatic after taking major step in £70million stadium redevelopment",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40401638/wrexham-stadium-redevelopment-kop-racecourse-michael-williamson/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-16T17:03:01+00:00",
-      "score": 26.0,
-      "keywords": [
-        "stone",
-        "Landmark",
-        "moment",
-        "Wrexham",
-        "chief",
-        "ecstatic"
-      ],
-      "summary": "WREXHAM have achieved a major milestone in their redevelopment plans for the Racecourse ground. The Hollywood-backed promotion specialists are edging closer to completing a new 7,750 capacity Kop stand. Construction on the stand only started last December, but the North Waleans are confident of havi",
-      "summary_cn": "",
-      "fetched_at": "2026-09-16T18:06:44.689963+00:00"
     }
   ]
 }
