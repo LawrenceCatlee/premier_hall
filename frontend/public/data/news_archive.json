@@ -1,6 +1,579 @@
 {
   "items": [
     {
+      "title": "Championship roundup: Southampton beat West Ham; QPR put five past Swansea",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-24T16:36:57+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Southampton",
+        "West Ham",
+        "James",
+        "Championship",
+        "roundup",
+        "beat"
+      ],
+      "summary": "Hammers humbled at home; Swansea thrashed 5-0 Burnley fans turn on manager after 4-1 loss at Lincoln Southampton announced themselves in the promotion race with a statement 3-2 win at pre-season title-favourites West Ham . Kuryu Matsuki, James Bree and Lewis Dobbin were all on target in a chaotic fi",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Southampton win thriller at West Ham",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/west-ham-united-vs-southampton/report/560640",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T17:15:00+00:00",
+      "score": 33.0,
+      "keywords": [
+        "Southampton",
+        "West Ham",
+        "thriller",
+        "West"
+      ],
+      "summary": "Southampton announced themselves in the Sky Bet Championship promotion race with a statement 3-2 win at pre-season title-favourites West Ham.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "'It was comfortable' - Merse on Gunners' straightforward win over Everton",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13603258/arsenal-vs-everton-paul-merson-gives-his-view-on-arsenals-comfortable-win-over-evertonon",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T17:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Everton",
+        "Merson",
+        "Paul Merson",
+        "comfortable",
+        "Merse"
+      ],
+      "summary": "Paul Merson gives his views on Arsenal's comfortable 2-0 win over Everton in the Premier League.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Armstrong fires Wolves past Watford",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-watford/report/560641",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T17:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Wolves",
+        "stone",
+        "Armstrong",
+        "fires",
+        "past",
+        "Watford"
+      ],
+      "summary": "Adam Armstrong ended his goal drought with a milestone strike to give dominant Wolves a 1-0 win against Watford in the Sky Bet Championship at Molineux.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Konsa and Gabriel on target as Arsenal top Everton",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13603221/arsenal-2-0-everton-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T17:15:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Everton",
+        "Konsa",
+        "Gabriel",
+        "target"
+      ],
+      "summary": "Highlights from the Premier League match between Arsenal and Everton.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-24T16:58:27+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Chelsea",
+        "Manchester City",
+        "Watkins",
+        "reject",
+        "upgrade"
+      ],
+      "summary": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Arteta 'delighted' with Arsenal win after 'tough week'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck05486e1l53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-24T17:00:15+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Everton",
+        "Mikel Arteta",
+        "Arteta",
+        "Mikel",
+        "delighted"
+      ],
+      "summary": "Arsenal manager Mikel Arteta is \"delighted\" with his sides performance after making five changes in their 2-0 victory over Everton.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/24/arsenal-everton-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-24T16:03:49+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Everton",
+        "Ezri Konsa",
+        "Konsa",
+        "Clinical",
+        "earn"
+      ],
+      "summary": "The wait goes on for David Moyes. The Scot must have been hoping that, on his 14th visit to this stadium as Everton’s manager, his luck would finally change. Yet from the moment Ezri Konsa slammed home his first goal for Arsenal as the Premier League champions rediscovered their knack of scoring fro",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Arsenal ratings: Gabriel Magalhaes puts in monster display alongside partner Ezri Konsa as Merino quiet on first start",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40796501/arsenal-player-ratings-gabriel-magalheaes-ezri-konsa-merino/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T16:04:53+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Everton",
+        "Manchester City",
+        "Ezri Konsa",
+        "Konsa",
+        "ratings"
+      ],
+      "summary": "ARSENAL picked up a crucial Premier League win over Everton thanks to goals from their centre-back duo. The Gunners moved level on points with Manchester City at the top of the table thanks to a 2-0 victory at the Emirates after Enzo Maresca's highfliers suffered their first league defeat of the sea",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Arsenal 2 Everton 0: Konsa and Gabriel pivotal at both ends of the pitch as Gunners capitalise on Man City slip-up",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40796289/arsenal-everton-2-0-gabriel-ezri-konsa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T15:57:03+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Everton",
+        "Man City",
+        "EZRI KONSA",
+        "Konsa",
+        "Gabriel"
+      ],
+      "summary": "EZRI KONSA was all smiles after scoring his first goal for Arsenal although the celebrations were just as wild on the bench. The unhappiest bloke at the reigning champions this season will have been set piece coach Nicholas Jover as his team had yet to score from a corner or a free-kick. Yet Jover w",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Fulham and Brighton monitoring Celta Vigo’s ‘Mini Rodri’ ahead of January transfer window but Atletico also circling",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40796388/fulham-and-brighton-monitoring-celta-vigos-miguel-roman/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T15:38:44+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brighton",
+        "Fulham",
+        "Bournemouth",
+        "Rodri",
+        "monitoring",
+        "Celta"
+      ],
+      "summary": "FULHAM and Brighton are monitoring Celta Vigo's \"Mini Rodri\" ahead of the January window. The two Premier League clubs are keen on midfielder Miguel Roman, who has been compared to Spain's World Cup winning captain. Roman, 23, has been watched by a number of Premier League sides, with Bournemouth ha",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Non-league clash abandoned after 14 minutes as fans make 500-mile round trip for nothing",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40796065/non-league-forest-green-rovers-barrow-abandoned-14-minutes/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T15:37:29+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Forest",
+        "GREEN",
+        "league",
+        "clash",
+        "abandoned",
+        "minutes"
+      ],
+      "summary": "FOREST GREEN'S visit to National League rivals Barrow was abandoned after just 14 minutes. Fans have been sent back on their 500-mile round trip as Storm Boelo made the surface at Barrow's Holker Street unplayable. Hosts Barrow made a fast start to the match as summer signing Isaac Marriott put them",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Gudjohnsen double steers Blackburn past Wrexham",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/blackburn-rovers-vs-wrexham/report/560630",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T17:15:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "johnsen",
+        "Gudjohnsen",
+        "double",
+        "steers",
+        "Blackburn",
+        "past"
+      ],
+      "summary": "Andri Gudjohnsen's second brace in a week earned Blackburn a clinical 2-0 win over Wrexham.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Iqbal gets first goal as Dundee United edge Aberdeen in thriller",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/dundee-united-vs-aberdeen/report/558387",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T16:50:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "matic",
+        "Iqbal",
+        "gets",
+        "first",
+        "goal",
+        "Dundee"
+      ],
+      "summary": "Dundee United came out on top in a dramatic five-goal thriller to edge Aberdeen 3-2 at Tannadice in the Scottish Premiership.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Kelsy scores two as Rangers put four past St Johnstone",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/rangers-vs-st-johnstone/report/558391",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T16:50:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Kelsy",
+        "scores",
+        "Rangers",
+        "four",
+        "past"
+      ],
+      "summary": "Kevin Kelsy scored twice on his return to the starting line-up as Rangers beat St Johnstone 4-0 to make it seven wins in eight league matches.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Scottish Premiership: Kelsy fires Rangers to emphatic win; Dundee United pip Aberdeen",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-24T16:52:06+00:00",
+      "score": 26.0,
+      "keywords": [
+        "stone",
+        "Scottish",
+        "Premiership",
+        "Kelsy",
+        "fires",
+        "Rangers"
+      ],
+      "summary": "Rangers 4-0 St Johnstone; Dundee United 3-2 Aberdeen Kevin Kelsy scores two to sink 10-man Saints Kevin Kelsy grabbed a double as Rangers reasserted themselves with a comprehensive 4-0 win over St Johnstone at a rain-swept Ibrox that moved them within a point of Celtic at the top. After sloppily dro",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Gary Lineker reveals Barcelona stars would drink bottle of wine before El Clasico and admits ‘imagine that in England’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40796710/gary-lineker-barcelona-wine-el-clasico-england/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T16:16:57+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Rashford",
+        "Marcus Rashford",
+        "Gary",
+        "Lineker",
+        "reveals",
+        "Barcelona"
+      ],
+      "summary": "ANTHONY GORDON is not likely to be knocking back a glass of Rioja to prepare for his El Clasico debut this evening. But, short of sinking some red, this rare English export to Camp Nou has impressed his last truly successful predecessor. Until Marcus Rashford's loan last season, Gary Lineker was the",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Spurs on top and threatening vs Chelsea LIVE! & highlights",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/live/559516",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T16:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Spurs",
+        "threatening",
+        "LIVE",
+        "highlights"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "West Ham 2-3 Southampton",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13603175/west-ham-united-2-3-southampton-championship-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T17:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "West Ham",
+        "West"
+      ],
+      "summary": "Highlights from the Sky Bet Championship match between West Ham United and Southampton.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Bobb stunner earns Fulham back-to-back PL wins",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13603205/coventry-city-0-1-fulham-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T17:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fulham",
+        "Bobb",
+        "stunner",
+        "earns",
+        "back",
+        "wins"
+      ],
+      "summary": "Highlights from the Premier League match between Coventry City and Fulham.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Villa end Man City's perfect start with Jackson double",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-24T17:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester City",
+        "Man City",
+        "Villa",
+        "City",
+        "perfect"
+      ],
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Aston Villa and Manchester City.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-24T15:40:01+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Tottenham",
+        "Spurs",
+        "relieve",
+        "pressure",
+        "kick"
+      ],
+      "summary": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Spurs boss Ho wants 'more support and training' for WSL referees",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd7q47dd0e7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-24T16:27:59+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Tottenham",
+        "Spurs",
+        "boss",
+        "wants",
+        "support"
+      ],
+      "summary": "Tottenham manager Martin Ho was frustrated by a penalty decision in their defeat by Arsenal and says Women's Super League referees \"need more support\".",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Chelsea v Tottenham: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-24T17:15:13+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Chelsea",
+        "Tottenham",
+        "Man City",
+        "Spurs",
+        "Premier"
+      ],
+      "summary": "⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Aston Villa 2-1 Man City | Live scores | Table | Mail Scott The teams take to the pitch. Chelsea in blue, Spurs in white, and it won’t be long before every shirt is soaking wet. Has the signature work of the Harry J All Stars ever been so appos",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Fulham climb out of drop zone after Oscar Bobb’s late show sinks Coventry",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/24/coventry-fulham-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-24T16:11:49+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fulham",
+        "climb",
+        "drop",
+        "zone",
+        "Oscar",
+        "Bobb"
+      ],
+      "summary": "Oscar Bobb’s first Premier League goal for Fulham earned a win against Coventry that lifted Álvaro Arbeloa’s side clear of the relegation zone. Bobb produced a fine bit of individual skill to score in the 80th minute, twisting his way into the area and bending a shot into the far corner. It was his ",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Jadon Sancho ‘offered contract by LaLiga side Getafe’ worth £240k-a-week LESS than Man Utd deal",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40797230/jadon-sancho-offered-contract-laliga-side-getafe-man-utd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T17:17:47+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Jadon",
+        "Sancho",
+        "offered",
+        "contract"
+      ],
+      "summary": "JADON SANCHO could be heading to La Liga side Getafe after reportedly being offered a shock deal. The former Manchester United star was earning a whopping £250,000-a-week wage at his old club. But the 26-year-old's alleged fresh contract would see him earn £10,000 - meaning he would see a 96 per cen",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Bryan Mbeumo shows off remarkable piano skills after Man Utd star taught himself how to play by watching YouTube videos",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40796321/bryan-mbeumo-piano-man-utd-simi-awujo-brentford/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T17:11:17+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Bryan",
+        "Mbeumo",
+        "shows",
+        "remarkable"
+      ],
+      "summary": "MANCHESTER UNITED star Bryan Mbeumo showcased his sensational piano skills, which are remarkably self taught thanks to YouTube. Mbeumo, 27, is a man of many talents with four goals in seven Premier League appearances this season, but the creative forward's artistry extends beyond the football pitch.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Coventry 0 Fulham 1: Oscar Bobb’s moment of magic lifts Cottagers clear of relegation zone in huge Alvaro Arbeloa boost",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40796327/oscar-bobb-magic-lifts-fulham-clear-relegation-zone/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T16:11:54+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fulham",
+        "Manchester City",
+        "Coventry",
+        "Oscar",
+        "Bobb",
+        "moment"
+      ],
+      "summary": "OSCAR Bobb chose exactly the right moment to score his first Premier League goal for Fulham. The ex-Manchester City attacker was about to be subbed by boss Alvaro Arbeloa with 11 minutes to go. Fulham had laboured all day against a stubborn Coventry defence - until Bobb produced the game’s one momen",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
+      "title": "Ivan Toney scores with ‘strangest penalty kick technique I have ever seen’ leaving goalkeeper motionless",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40797320/ivan-toney-scores-with-new-penalty-kick-technique/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-24T17:11:54+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Ivan",
+        "Toney",
+        "scores",
+        "strangest",
+        "penalty",
+        "kick"
+      ],
+      "summary": "IVAN TONEY left a goalkeeper rooted to the spot after producing one of the strangest penalty techniques ever seen. The England striker, 30, stunned fans with his bizarre spot-kick during Al-Ahli’s 4-1 victory over Al-Khaleej in the Saudi Pro League on Friday night. With his side leading 3-1 deep int",
+      "summary_cn": "",
+      "fetched_at": "2026-10-24T17:20:17.929393+00:00"
+    },
+    {
       "title": "Aston Villa ticket and hotel deals for Premier League and Champions League games at Villa Park",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/39504960/aston-villa-tickets-hotel-premier-league-villa-park/",
@@ -39155,582 +39728,6 @@
       "summary": "Spurs are getting into attacking areas but failing to make or take chances as Roberto De Zerbi tries to forge a settled side Tottenham have failed to score in their opening four league games for the first time. Two decades have passed since they last drew blanks in four consecutive Premier League ma",
       "summary_cn": "",
       "fetched_at": "2026-09-18T12:54:32.304494+00:00"
-    },
-    {
-      "title": "Tuchel: 99.9 per cent of fans I meet don't ask me about Argentina subs",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13589252/thomas-tuchel-england-fans-dont-ask-me-about-my-substitutions-against-argentina-in-the-world-cup-semi-final",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-18T11:59:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Tuchel",
-        "cent",
-        "fans",
-        "meet",
-        "Argentina",
-        "subs"
-      ],
-      "summary": "Thomas Tuchel says &#8220;99.9 per cent&#8221; of England fans do not talk about substitutions or tactical decisions when reflecting on their World Cup experience.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T12:54:32.304494+00:00"
-    },
-    {
-      "title": "Italy make history with shock national team call-up for SECOND DIVISION striker, 22, who has amazing goal record",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40420018/italy-call-second-division-striker-mohamed-ali-zoma/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-18T12:43:23+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Italy",
-        "make",
-        "history",
-        "shock",
-        "national",
-        "team"
-      ],
-      "summary": "ROBERTO MANCINI's plans to overhaul the failing Italian national team appear to include calling up a German second division striker. Mancini's team, although Euro 2020 champions, will face Belgium, France, and Turkey in this international break after missing out on three World Cups in a row. To help",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T12:54:32.304494+00:00"
-    },
-    {
-      "title": "World Cup’s sexiest fan Gabriela Moura leaves fans sweating in busty outfit as she steals the show at fashion event",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40420454/gabriela-moura-busty-outfit-world-cup-sexiest-fan/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-18T12:21:33+00:00",
-      "score": 20.0,
-      "keywords": [
-        "World",
-        "sexiest",
-        "Gabriela",
-        "Moura",
-        "leaves",
-        "fans"
-      ],
-      "summary": "GABRIELA MOURA wowed fans in a busty outfit after appearing at a fashion event. The brunette influencer, 22, made a name for herself at the World Cup after cheering on Brazil this summer. And she was later dubbed 'the World Cup's sexiest fan' after getting huge attention while watching Brazil's 1-1 ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T12:54:32.304494+00:00"
-    },
-    {
-      "title": "Will Carrick navigate choppy waters to steer Man Utd ship back on course?",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13589079/michael-carrick-man-utd-boss-aiming-to-steer-ship-back-on-course-at-fulham-after-back-to-back-defeats",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-18T08:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Carrick",
-        "navigate",
-        "choppy",
-        "waters"
-      ],
-      "summary": "Manchester United's Carabao Cup second-round loss at Grimsby last season was a result that many will remember.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Merson: 'Huge game' between Spurs and Aston Villa is a 'momentum swinger'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13589087/tottenham-vs-aston-villa-paul-merson-believes-saturdays-huge-premier-league-match-is-a-momentum-swinger",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-18T08:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Aston Villa",
-        "Tottenham",
-        "Spurs",
-        "Paul Merson",
-        "Merson",
-        "Huge"
-      ],
-      "summary": "In his latest Sky Sports column, Paul Merson looks ahead to Saturday's \"huge\" game between Tottenham and Aston Villa.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "David Beckham snubs Harry Kane and Jude Bellingham when picking who should win Ballon d’Or",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40415689/beckham-snubs-kane-bellingham-ballon-dor-messi/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-18T06:58:04+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Beckham",
-        "Harry Kane",
-        "David Beckham",
-        "Ronaldo",
-        "Cristiano Ronaldo",
-        "David"
-      ],
-      "summary": "ENGLAND legend David Beckham has snubbed the Three Lions as the battle for the Ballon d'Or heats up. Harry Kane is one of the favourites for the award after bagging 73 goals for Bayern Munich in one of the most prolific seasons by a man not named Cristiano Ronaldo or Lionel Messi in recent memory...",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Why Coventry are not a hopeless case despite miserable start",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13588558/nottingham-forest-vs-coventry-city-why-unusually-tough-start-should-not-be-used-to-measure-frank-lampards-side",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-18T08:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Coventry",
-        "hopeless",
-        "case",
-        "despite",
-        "miserable",
-        "start"
-      ],
-      "summary": "Coventry have been dealt an extraordinarily tough opening hand, playing four of the current top five as introduction to their first Premier League campaign for 25 years, the top two away from home.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "From depression after Chelsea injury to playing non-league at 37",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-18T07:10:13+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "depression",
-        "injury",
-        "playing",
-        "league"
-      ],
-      "summary": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Keep or sell Cherki? FPL gameweek five dilemmas",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69qr50nynqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-18T06:44:29+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Keep",
-        "sell",
-        "Cherki",
-        "gameweek",
-        "five",
-        "dilemmas"
-      ],
-      "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek five.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Todd Boehly exits Chelsea diminished after having his fingers burned",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-18T07:00:12+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Todd",
-        "Boehly",
-        "exits",
-        "diminished",
-        "having"
-      ],
-      "summary": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as a diminished figure ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Ex-Arsenal star, 30, unveils incredible tattoo paying tribute to Gunners despite just joining new club",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40415602/arsenal-dani-ceballos-tattoo-tribute-gunners/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-18T06:08:05+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "star",
-        "unveils",
-        "incredible",
-        "tattoo",
-        "paying"
-      ],
-      "summary": "FORMER Arsenal star Dani Ceballos has shown off an incredible tattoo dedicated to the Gunners. The 30-year-old spent two years on loan at Arsenal from Real Madrid and made 77 appearances. During that time, he won the FA Cup and the Community Shield. Ceballos returned to Los Blancos in 2021 and went ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Brentford vs Chelsea preview: Betting tips, odds and free bets (Premier League predictions)",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40382611/brentford-chelsea-preview-betting-tips-predictions/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-18T06:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "Chelsea",
-        "preview",
-        "Betting",
-        "tips",
-        "odds"
-      ],
-      "summary": "BRENTFORD host Chelsea in tonight's Premier League showdown as the Bees look to extend their unbeaten start to the season, while Xabi Alonso seeks a response following their surprise draw with Hull. SunSport’s betting experts have previewed the clash and picked out the best betting tips, odds and ex",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Flex your football brain with our daily quizzes",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glvy3413xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-18T05:41:33+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Flex",
-        "football",
-        "brain",
-        "daily",
-        "quizzes"
-      ],
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Spiders still climbing - watch Queen's Park v Ayr on BBC",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyexny15q2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-18T06:02:37+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Spiders",
-        "still",
-        "climbing",
-        "watch",
-        "Queen",
-        "Park"
-      ],
-      "summary": "Sportscene's Jonathan Sutherland previews Friday's live BBC Scotland TV match as Queen's Park host Ayr United.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T07:19:49.537610+00:00"
-    },
-    {
-      "title": "Leaden, stale, disheartening - where do Celtic & O'Neill go from here?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-17T23:51:07+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Neill",
-        "Leaden",
-        "stale",
-        "disheartening",
-        "Celtic"
-      ],
-      "summary": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T01:12:00.109513+00:00"
-    },
-    {
-      "title": "From -17 points to dream European start for Bournemouth",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-17T23:30:34+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Bournemouth",
-        "points",
-        "dream",
-        "European",
-        "start"
-      ],
-      "summary": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-18T01:12:00.109513+00:00"
-    },
-    {
-      "title": "Gary O’Neil shares heartbreaking statement announcing death of his ‘incredible’ dad as Ipswich lead tributes",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40414515/gary-oneil-dad-dead-heartbreaking-tribute-ipswich/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-17T20:56:36+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Ipswich",
-        "Gary",
-        "Neil",
-        "shares",
-        "heartbreaking",
-        "statement"
-      ],
-      "summary": "GARY O'NEIL has announced the tragic news that his father, Graham, has died. The Ipswich boss released an emotional statement on Instagram paying tribute. O'Neil shared a picture as a child of himself and his late father. He said: \"Thanks for everything Dad! \"I couldn’t have done any of it without y",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Xabi Alonso hints Joao Pedro could play for Chelsea vs Brentford despite being withdrawn from Brazil squad",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40413992/xabi-alonso-joao-pedro-chelsea-brentford-danny-welbeck/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-17T20:04:47+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Brentford",
-        "Chelsea",
-        "Xabi",
-        "Alonso",
-        "hints",
-        "Joao"
-      ],
-      "summary": "JOAO PEDRO could play for Chelsea at Brentford on Friday night – despite being ruled out of Brazil’s squad through injury. Boss Xabi Alonso only added to the mystery over the 24-year-old forward’s issue after Samba chiefs announced he will miss their two friendlies with Australia and India. But Alon",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "PL Predictions: Brentford to expose 'soft' Chelsea",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13588821/premier-league-predictions-jones-knows-best-bets-brentford-to-expose-soft-chelsea-underbelly",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-17T22:00:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Brentford",
-        "Chelsea",
-        "Jones",
-        "Predictions",
-        "expose",
-        "soft"
-      ],
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight ahead of the weekend's Premier League action.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Junior Kroupi on Arsenal radar - Friday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-17T20:41:05+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Chelsea",
-        "Everton",
-        "Bournemouth",
-        "young",
-        "Williams"
-      ],
-      "summary": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for Everton's Jarrad Branthwaite, Chelsea are interested in Nico Williams, plus more.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Crystal Palace 4 Lech Poznan 0: Eagles storm to win on Europa League debut through chaotic first-half blitz",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40414435/crystal-palace-europa-league-debut-lech-poznan-adam-wharton/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-17T20:53:59+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Crystal Palace",
-        "Terry",
-        "Crystal",
-        "Palace",
-        "Lech",
-        "Poznan"
-      ],
-      "summary": "YEREMY PINO helped Palace to a dream Europa League debut - as did the worst long throw you will ever see. Poznan’s Terry Yegbe launched an awful throw-in towards his own box - and away from any team-mates - to allow World Cup winner Pino to steal in and notch a tenth-minute opener. Chris Richards...",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Tuchel talking to wrong fan-base about scars… England boss must be bold with squad AND tactics, not just Southgate 2.0",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40414885/thomas-tuchel-england-world-cup-scars-bold-southgate/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-17T21:52:47+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Southgate",
-        "Tuchel",
-        "talking",
-        "wrong",
-        "base",
-        "scars"
-      ],
-      "summary": "DID Thomas Tuchel make a major tactical balls-up against Argentina? Is water wet? The Pope Catholic? We finally got the answer to one of these imponderables from the man himself this week during an hour-long interview with Daniel Sturridge.Tuchel, that is, not the Pope. During a sit-down chat titled",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Chris Samba's son Floyd shines on debut as Man City ease past Norwich",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-17T21:21:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Chris",
-        "Samba",
-        "Floyd",
-        "shines"
-      ],
-      "summary": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Palace power past Lech Poznan to win on Europa League debut",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/crystal-palace-vs-lech-poznan/report/577752",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-17T22:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Palace",
-        "power",
-        "past",
-        "Lech",
-        "Poznan"
-      ],
-      "summary": "Crystal Palace cruised to victory in their first-ever Europa League game with a 4-0 win over Polish champions Lech Poznan at Selhurst Park.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Bournemouth enjoy winning start to Europa League campaign at Sociedad",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-17T22:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Bournemouth",
-        "enjoy",
-        "winning",
-        "start",
-        "Europa",
-        "League"
-      ],
-      "summary": "First-half goals by Justin Kluivert and Rayan helped Bournemouth start their maiden European campaign with a memorable 2-1 win at Real Sociedad.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Papers: Arsenal eyeing Kroupi and Schade in January",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13589073/arsenal-transfer-news-eli-junior-kroupi-and-kevin-schade-on-mikel-artetas-target-list-ahead-of-january-paper-talk",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-17T22:39:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Papers",
-        "eyeing",
-        "Kroupi",
-        "Schade",
-        "January"
-      ],
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Samba show! Chris celebrates as son Floyd scores twice for Man City!",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13589100/floyd-samba-scores-man-city-opener-on-his-debut-against-norwich",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-17T20:10:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Man City",
-        "Samba",
-        "show",
-        "Chris",
-        "celebrates",
-        "Floyd"
-      ],
-      "summary": "Floyd Samba, son of former Premier League defender Chris, scores Man City double on his debut against Norwich in Carabao Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/17/real-sociedad-bournemouth-europa-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-17T21:14:08+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Bournemouth",
-        "Kluivert",
-        "Rayan",
-        "rock",
-        "Real",
-        "Sociedad"
-      ],
-      "summary": "The first goal that AFC Bournemouth ever scored in Europe could be heard out on the Bay of Biscay. The second sounded around San Sebastián soon after. A tradition from Real Sociedad’s old Atotxa ground, recovered at Anoeta in 2009, dictates that a single firework is set off every time the visitors s",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
-    },
-    {
-      "title": "Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-17T21:03:55+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Crystal Palace",
-        "Pino",
-        "kickstarts",
-        "Crystal",
-        "Palace",
-        "Europa"
-      ],
-      "summary": "It was worth the wait for Crystal Palace. After being denied their rightful place in the Europa League last season, Pierre Sage’s side made the perfect debut by brushing aside Lech Poznan with a victory that will take some of the heat off their new manager. The Frenchman has big shoes to fill in rep",
-      "summary_cn": "",
-      "fetched_at": "2026-09-17T22:02:39.834718+00:00"
     }
   ]
 }
