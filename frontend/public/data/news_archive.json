@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Love leads Packers past Panthers in vital win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/nfl/news/12040/13605642/carolina-panthers-19-27-green-bay-packers-jordan-love-throws-three-touchdown-passes-in-vital-win",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-30T06:30:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Green",
+        "Love",
+        "leads",
+        "Packers",
+        "past",
+        "Panthers"
+      ],
+      "summary": "Jordan Love threw three touchdown passes, Josh Jacobs scored twice and the Green Bay Packers withstood three turnovers and the Carolina Panthers' late comeback attempt to win 27-19 at Lambeau Field.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-30T06:58:03.525065+00:00"
+    },
+    {
+      "title": "How talking about Man Utd's cycle of doom became an industry",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-30T06:14:19+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "talking",
+        "cycle",
+        "doom",
+        "became"
+      ],
+      "summary": "Manchester United's struggles are pored over more than ever before - not least by former players.",
+      "summary_cn": "",
+      "fetched_at": "2026-10-30T06:58:03.525065+00:00"
+    },
+    {
+      "title": "England face Samoa in winner-takes-all World Cup clash LIVE!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13605266/rugby-league-world-cup-live-latest-score-updates-as-england-women-face-samoa-before-englands-men-play-papua-new-guinea",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-30T06:25:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "England",
+        "face",
+        "Samoa",
+        "winner",
+        "takes",
+        "World"
+      ],
+      "summary": "",
+      "summary_cn": "",
+      "fetched_at": "2026-10-30T06:58:03.525065+00:00"
+    },
+    {
       "title": "Glazers ‘in Sir Jim Ratcliffe rift with Man Utd owners convinced Ineos chief couldn’t have engineered a worse situation’",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40853330/glazers-upset-jim-ratcliffe-man-utd-management/",
@@ -39682,63 +39742,6 @@
         "terrifying"
       ],
       "summary": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
-      "summary_cn": "",
-      "fetched_at": "2026-09-21T23:10:04.055150+00:00"
-    },
-    {
-      "title": "Liverpool eye in-demand right-back Read - Tuesday's gossip",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gqv6m9278o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-21T21:43:10+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "demand",
-        "right",
-        "back",
-        "Read",
-        "Tuesday"
-      ],
-      "summary": "Liverpool are on the hunt for a new right-back, setting their sights on Dutchman Givairo Read.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-21T23:10:04.055150+00:00"
-    },
-    {
-      "title": "Football Daily",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pbt6j0?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-21T21:32:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Brentford",
-        "Brighton",
-        "Football",
-        "Daily"
-      ],
-      "summary": "What is stopping Brentford & Brighton reaching the next level?",
-      "summary_cn": "",
-      "fetched_at": "2026-09-21T23:10:04.055150+00:00"
-    },
-    {
-      "title": "Papers: Dowman to link up with England squad",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13590534/arsenal-starlet-max-dowman-to-link-up-with-england-senior-squad-after-mass-withdrawals-paper-talk",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-21T22:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Papers",
-        "Dowman",
-        "link",
-        "England",
-        "squad"
-      ],
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
       "summary_cn": "",
       "fetched_at": "2026-09-21T23:10:04.055150+00:00"
     }
