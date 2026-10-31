@@ -1,135 +1,454 @@
 {
-  "updated_at": "2026-10-31T12:07:37.487624+00:00",
+  "updated_at": "2026-10-31T17:37:06.975649+00:00",
   "items": [
     {
-      "title": "Fernandes restored to Man Utd line-up as Estevao starts for Chelsea LIVE!",
+      "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
       "title_cn": "",
-      "url": "https://www.skysports.com/football/chelsea-vs-manchester-united/live/559527",
-      "source": "Sky Sports",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-10-31T10:35:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Man Utd",
-        "Fernandes",
-        "restored",
-        "line",
-        "Estevao"
-      ],
-      "summary": "",
-      "summary_cn": ""
-    },
-    {
-      "title": "Alan Shearer reveals he turned down Championship manager job before becoming BBC pundit on MOTD",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40867021/alan-shearer-newcastle-manager-job-cardiff-city-bbc/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-31T12:02:58+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Newcastle",
-        "Alan Shearer",
-        "Shearer",
-        "Alan",
-        "reveals",
-        "turned"
-      ],
-      "summary": "NEWCASTLE legend and BBC pundit Alan Shearer has spilled the beans on a job he turned down after getting relegated with Newcastle. The ex-striker decided enough was enough after he watched his boyhood club relegated from the dugout in 2009. Shearer, whose daughters both got married recently, came in",
-      "summary_cn": ""
-    },
-    {
-      "title": "Why is Cole Palmer not suspended for Chelsea vs Man Utd?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40831420/why-cole-palmer-not-suspended-chelsea-vs-man-utd/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-31T11:12:00+00:00",
+      "published": "2026-10-31T17:27:06+00:00",
       "score": 31.0,
       "keywords": [
         "Chelsea",
         "Manchester United",
-        "Tottenham",
         "Man Utd",
-        "Palmer",
-        "Cole"
+        "Bridge",
+        "Carrick",
+        "Martinez"
       ],
-      "summary": "CHELSEA fans will be jumping for joy after finding out that Cole Palmer has dodged a suspension for this afternoon's clash against Manchester United. The Blues talisman picked up the first red card of his senior career during last weekend's 2-0 defeat to Tottenham. CHELSEA VS MAN UTD LIVE Referee Ch",
+      "summary": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea v Manchester United: Premier League – live",
+      "title": "Returning Estevao brings X-factor to strikerless Chelsea",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-10-31T16:34:42+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Willian",
+        "Returning",
+        "Estevao",
+        "brings",
+        "factor"
+      ],
+      "summary": "Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Evanilson profits from costly Trafford blunder as Bournemouth punish Leeds",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/31/bournemouth-leeds-premier-league-match-report",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-10-31T11:51:07+00:00",
+      "published": "2026-10-31T17:16:21+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Bournemouth",
+        "James",
+        "Evanilson",
+        "profits",
+        "costly",
+        "Trafford"
+      ],
+      "summary": "Accidents will happen. They also have consequences. Leeds were playing well, certainly better than Bournemouth for the first 30 minutes until James Trafford committed a grievous error. The goalkeeper made a horrible mess of a pass to an unwitting Ao Tanaka. In stole Justin Kluivert to set up Evanils",
+      "summary_cn": ""
+    },
+    {
+      "title": "James Trafford makes horror error as England keeper left red-faced in Leeds’ painful 2-0 loss to Bournemouth",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40870435/james-trafford-horror-error-bournemouth-defeat/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-31T17:09:43+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Bournemouth",
+        "James",
+        "Trafford",
+        "makes",
+        "horror",
+        "error"
+      ],
+      "summary": "WEREWOLF costumes are in short supply at this time of year - but James Trafford served up an even bigger Halloween howler. The Leeds goalkeeper’s short pass out towards Ao Tanaka in the 31st minute truly was a shocking misjudgment. And he was powerless to prevent interceptor Justin Kluivert squaring",
+      "summary_cn": ""
+    },
+    {
+      "title": "Michael Carrick gives blunt update on future as he faces Man Utd sack after setting unwanted record with Chelsea defeat",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40870168/michael-carrick-man-utd-future-chelsea-loss/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-31T16:55:30+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "Michael"
+      ],
+      "summary": "MICHAEL CARRICK is confident he will remain in charge of Manchester United on Tuesday despite his nightmare run continuing. The Red Devils are now nine games without a win after a desperate defeat at Chelsea, which saw Lisandro Martinez sent off for a reckless elbow. It is United's worst start to a ",
+      "summary_cn": ""
+    },
+    {
+      "title": "‘Absolute disgrace’ – Peter Schmeichel savages Martinez over Chelsea red card as Man Utd legend gasps ‘I have no words’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40869380/peter-schmeichel-savages-martinez-red-card-chelsea/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-31T16:08:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "given",
+        "savage"
+      ],
+      "summary": "PETER SCHMEICHEL slammed Lisandro Martinez after Manchester United's loss to Chelsea. The Argentine defender was given the nod alongside Harry Maguire in the Red Devils' defence as Michael Carrick tried to get the side's nightmare season back on track. But there was no escape from the misery to be f",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man Utd’s horror run laid bare as Michael Carrick breaks awful 38-year record after brutal Chelsea defeat and faces chop",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40868996/michael-carrick-chelsea-defeat-record-nine-games-man-utd/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-31T15:43:58+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "horror"
+      ],
+      "summary": "MICHAEL CARRICK suffered his third loss in a row on Saturday, but it was also his NINTH successive game without a win as Manchester United manager. It is the first time United have gone nine games without victory for nearly 40 YEARS, as the pressure piles on the ex-midfielder. You have to trace all ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Lankshear scores twice in Boro win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/middlesbrough-vs-charlton-athletic/report/560645",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T17:15:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Charlton",
+        "Lankshear",
+        "scores",
+        "twice",
+        "Boro"
+      ],
+      "summary": "In-form Will Lankshear bagged a brace as Middlesbrough maintained their position at the Championship summit with a comprehensive 3-0 victory over Charlton at the Riverside.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea capitalise on second-half implosion to defeat 10-man Man Utd",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T17:15:00+00:00",
       "score": 25.0,
       "keywords": [
         "Chelsea",
         "Manchester United",
-        "Manchester",
-        "United",
+        "Man Utd",
+        "capitalise",
+        "second",
+        "half"
+      ],
+      "summary": "FREE TO WATCH: Highlights from Chelsea&#8217;s match against Manchester United in the Premier League.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fans turn on Nuno after West Ham lose at home to West Brom",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/west-ham-united-vs-west-bromwich-albion/report/560652",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T17:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "West Ham",
+        "Fans",
+        "turn",
+        "Nuno",
+        "West",
+        "lose"
+      ],
+      "summary": "West Ham head coach Nuno Espirito Santo was feeling the heat after West Brom's stylish 3-1 win at the London Stadium left the Sky Bet Championship promotion favourites six points off the pace in eighth place.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fer Lopez strikes in Wolves win",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-cardiff-city/report/560653",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T17:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "Lopez",
+        "strikes"
+      ],
+      "summary": "Headed goals from Fer Lopez, Adam Armstrong and Ladislav Krejci helped Wolves beat Cardiff 3-0 in the Sky Bet Championship at Molineux.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Enciso stunner earns Ipswich a draw in a thriller at Hull",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/hull-city-vs-ipswich-town/report/559529",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T17:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Ipswich",
+        "Enciso",
+        "stunner",
+        "earns",
+        "draw",
+        "thriller"
+      ],
+      "summary": "Julio Enciso produced a moment of magic to rescue Ipswich a point in a thrilling 2-2 draw at Hull, whose wait for a Premier League victory stretched to seven games despite a spirited second-half fightback.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bournemouth punish Trafford horror error to sink Leeds",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/bournemouth-vs-leeds-united/report/559525",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T17:00:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Bournemouth",
+        "punish",
+        "Trafford",
+        "horror",
+        "error",
+        "sink"
+      ],
+      "summary": "Bournemouth made it six wins on the spin in all competitions without conceding as they beat toothless Leeds 2-0.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Southampton thump four past QPR",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/southampton-vs-queens-park-rangers/report/560649",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T17:15:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Southampton",
+        "thump",
+        "four",
+        "past"
+      ],
+      "summary": "Cameron Bragg scored the first Championship goal of his career as Southampton made it 17 home league matches in a row without losing with a 4-1 victory over QPR.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ayari on target as Brighton stun Manchester City to close gap on leaders",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/oct/31/manchester-city-brighton-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-31T16:59:12+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Manchester City",
+        "Ayari",
+        "target",
+        "stun",
+        "Manchester"
+      ],
+      "summary": "Manchester City have lost two consecutive league games but no alarm should be sounded. Enzo Maresca’s fast-passing team were defeated on Saturday because Yasin Ayari took one of Brighton’s rare chances, the 11th-minute winner deriving from what appeared a wrongly awarded free-kick for Elliot Anderso",
+      "summary_cn": ""
+    },
+    {
+      "title": "Tottenham v Crystal Palace: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/oct/31/tottenham-v-crystal-palace-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-10-31T17:21:49+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Crystal Palace",
+        "Tottenham",
+        "Crystal",
+        "Palace",
         "Premier",
         "League"
       ],
-      "summary": "⚽ Updates on the 12.30pm GMT kick-off in west London ⚽ Football Daily | Goalscorers | Live Scores | Email Scott Chelsea can reclaim fourth spot with a win this afternoon. Things are possibly not quite as bad as I painted them in the preamble. Erm. But vibes are vibes, and you get the gist. Meanwhile",
+      "summary": "⚽ Updates on the 5.30pm GMT kick-off in north London ⚽ Football Daily | Premier League table | Email Niall This is a north-south London derby, but Google Maps tells me it takes an hour and a half to go from Selhurst Park to here on public transport. Are there any longer away trips to a venue in the ",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live",
+      "title": "Brentford capitalise as Nottingham Forest’s attacking struggles continue",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-buildup-premier-league-wsl-and-more-matchday-live",
+      "url": "https://www.theguardian.com/football/2026/oct/31/brentford-nottingham-forest-premier-league-match-report",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-10-31T11:54:44+00:00",
+      "published": "2026-10-31T17:09:34+00:00",
       "score": 25.0,
       "keywords": [
-        "Chelsea",
-        "Manchester United",
-        "Manchester",
-        "United",
-        "buildup",
-        "Premier"
+        "Brentford",
+        "Nottingham Forest",
+        "Forest",
+        "capitalise",
+        "Nottingham",
+        "attacking"
       ],
-      "summary": "⚽ All the latest as we build up to Saturday’s games ⚽ Ten things to look out for | Fixtures | Mail Billy Here is the article in question and a snippet of Andy’s stat action … Mac Allister’s sense of responsibility extends to implementing Iraola’s instructions for his new team. Figures from Opta show",
+      "summary": "Poor Nottingham Forest. And, especially, poor Nikola Milenkovic. It would be unfair to say that Brentford fluked a win in the 100th Premier League game at the Getch Community Stadium but Forest had 15 shots to their six and have every right to wonder why luck has deserted them so absolutely this sea",
       "summary_cn": ""
     },
     {
-      "title": "Why is there only one Premier League match on Sunday?",
+      "title": "Hull 2 Ipswich 2: Oli McBurnie and Julio Enciso on target again as plucky pair trade timely blows to share points",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40846252/why-one-premier-league-match-sunday/",
+      "url": "https://www.thesun.co.uk/sport/40870804/oli-mcburnie-julio-enciso-hull-ipswich-draw-result/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-31T11:30:00+00:00",
+      "published": "2026-10-31T17:24:47+00:00",
       "score": 25.0,
       "keywords": [
-        "Arsenal",
-        "Liverpool",
-        "only",
-        "Premier",
-        "League",
-        "match"
+        "Ipswich",
+        "Hull",
+        "McBurnie",
+        "Julio",
+        "Enciso",
+        "target"
       ],
-      "summary": "THIS Sunday is not so super with just one Premier League fixture scheduled. That said, it is a big one as champions Arsenal make the trip to Liverpool. The Gunners will be looking to bounce back from their humiliating Carabao Cup exit to League Two Fleetwood on Tuesday night. Arsenal have not won at",
+      "summary": "Hull showed fight to avoid another fright and pick up a fifth Premier League draw in seven winless games. It looked to be another horror show for the Tigers when Florentino’s first goal in English football put Ipswich ahead. With 13 defeats on Halloween they have the most of any side in Football Lea",
       "summary_cn": ""
     },
     {
-      "title": "Listen to Off The Ball with Gary Innes",
+      "title": "Brentford 2 Nottingham Forest 0: Pressure grows for Oliver Glasner as new club suffer fourth defeat in five outings",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "url": "https://www.thesun.co.uk/sport/40870818/oliver-glasner-nottingham-forest-brentford-nikola-milenkovic/",
+      "source": "The Sun",
       "tier": 2,
-      "published": "2026-10-31T14:00:00+00:00",
+      "published": "2026-10-31T17:20:13+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brentford",
+        "Nottingham Forest",
+        "Forest",
+        "Nottingham",
+        "Pressure",
+        "grows"
+      ],
+      "summary": "NIKOLA MILENKOVIC became only the sixth different Forest player to score a Premier League goal this season - but sadly it was into his own net. And the Serbian defender’s day went downhill from there as he also got the final touch before Brentford sealed a precious home win that keeps them in touch ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Man City 0 Brighton 1: City stunned as Yasin Ayari’s winner blows Premier League title race wide open",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40870231/enzo-maresca-frustrated-arsenal-brighton-city/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-31T16:53:17+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "Man City",
+        "City",
+        "stunned",
+        "Yasin",
+        "Ayari"
+      ],
+      "summary": "FABIAN HURZELER and Yasin Ayari enjoyed sweet revenge in this battling victory less than 72 hours after suffering Etihad heartache. Brighton departed late on Wednesday night on the wrong end of a Carabao Cup shoot-out after leading twice, Ayari missing one of the penalties. But if they had no luck i",
+      "summary_cn": ""
+    },
+    {
+      "title": "Championship game halted as medics urgently summoned by players to attend fan in stands",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40870206/championship-medics-fan-wolves-cardiff-jose-sa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-31T16:45:48+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Wolves",
+        "Championship",
+        "game",
+        "halted",
+        "medics",
+        "urgently"
+      ],
+      "summary": "THE CHAMPIONSHIP match between Wolves and Cardiff was suddenly halted due to a medical emergency at the Molineux stands. Medical personnel from both EFL sides rushed to attend to a fan located behind the home side's keeper Jose Sa's goalposts. Play was stopped on 28 minutes by the referee as medics ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Zaman century propels Pakistan to win against Sri Lanka in tri-series final",
+      "title_cn": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13606240/pakistan-vs-sri-lanka-fakhar-zaman-century-propels-hosts-to-three-wicket-win-in-tri-series-final",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T16:59:00+00:00",
       "score": 20.0,
       "keywords": [
-        "Listen",
-        "Ball",
-        "Gary",
-        "Innes"
+        "Zaman",
+        "century",
+        "propels",
+        "Pakistan",
+        "against",
+        "Lanka"
       ],
-      "summary": "The most petty and ill-informed football show on radio.",
+      "summary": "Opener Fakhar Zaman overcame a bruised knee and a lean run to score 127 and lead Pakistan past Sri Lanka by three wickets in the final of the one-day international cricket tri-series on Saturday.&#160;",
+      "summary_cn": ""
+    },
+    {
+      "title": "Celestini earns a point in first Burnley game",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/burnley-vs-portsmouth/report/560643",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-10-31T17:15:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Celestini",
+        "earns",
+        "point",
+        "first",
+        "Burnley",
+        "game"
+      ],
+      "summary": "Fabio Celestini's tenure as Burnley head coach began with a disappointing 0-0 Championship draw against Portsmouth at Turf Moor as the Clarets failed to capitalise on their first-half advantage.",
+      "summary_cn": ""
+    },
+    {
+      "title": "World Cup’s sexiest fan Ivana Knoll puts on busty display during DJ set before posing in tiny black bikini",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40869033/ivana-knoll-dj-tiny-bikini-world-cup-croatia/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-10-31T15:42:57+00:00",
+      "score": 20.0,
+      "keywords": [
+        "World",
+        "sexiest",
+        "Ivana",
+        "Knoll",
+        "puts",
+        "busty"
+      ],
+      "summary": "IVANA KNOLL took social media by storm once more with another series of glam pics following her latest DJ set. Ivana, 34, went viral during the 2022 World Cup when she attended her beloved Croatia's matches with a series of busty displays in Qatar. That led to her being dubbed the World Cup's Sexies",
       "summary_cn": ""
     }
   ]
