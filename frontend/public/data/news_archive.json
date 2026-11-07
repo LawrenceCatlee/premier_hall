@@ -1,6 +1,523 @@
 {
   "items": [
     {
+      "title": "Delightful Delap stars as Forest shock Man City",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13609523/nottingham-forest-3-1-manchester-city-premier-league-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-07T19:37:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Delap",
+        "Delightful"
+      ],
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Manchester City.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Forest end goal drought to make it three defeats in a row for Man City",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/report/559542",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-07T19:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Delap",
+        "goal"
+      ],
+      "summary": "Liam Delap scored two as Nottingham Forest ended their goal drought in style to beat Manchester City 3-1 at the City Ground.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "'That one was a BELTER!' - Delap makes it THREE for Forest",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13609517/goal-l-delap-73-nottm-forest-2-1-manchester-city",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-07T19:10:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Forest",
+        "Delap",
+        "BELTER",
+        "makes"
+      ],
+      "summary": "Liam Delap puts the home side 3-1 up against Manchester City - with Forest boss Oliver Glasner running to join the goalscorer for the celebrations.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Cherki pulls one back for City with THUNDERBOLT!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13609511/goal-r-cherki-52-nottm-forest-2-1-manchester-city",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-07T18:48:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Man City",
+        "Forest",
+        "Matz Sels",
+        "Cherki",
+        "pulls",
+        "back"
+      ],
+      "summary": "Man City pull one back as Rayan Cherki fires a superb shot past Forest stopper Matz Sels.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Delap double inspires Forest to stunning win over Man City",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T20:02:25+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Delap",
+        "double"
+      ],
+      "summary": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T19:59:37+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Fulham",
+        "Newcastle",
+        "Rodri",
+        "Muniz",
+        "strike",
+        "denies"
+      ],
+      "summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T19:26:31+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Delap",
+        "Anderson"
+      ],
+      "summary": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Bates double earns Dover upset win over Wealdstone",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T18:49:14+00:00",
+      "score": 31.0,
+      "keywords": [
+        "stone",
+        "Bates",
+        "double",
+        "earns",
+        "Dover",
+        "upset"
+      ],
+      "summary": "Jack Bates' first-half brace gives National League South side Dover Athletic a 2-0 win over the National League's Wealdstone in the first round of the FA Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-11-07T19:30:43+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Forest",
+        "Delap",
+        "Nottingham",
+        "stunners"
+      ],
+      "summary": "Wait long enough, and results will come to reflect performances. Manchester City may have won their first seven games of the season, but they always looked vulnerable, and now have lost three in a row. Nottingham Forest may have been second bottom but, other than the twin curses of missing chances a",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Nottingham Forest 3 Man City 1: Liam Delap shows brilliance to seal huge win and send Man Utd into relegation zone",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40954472/nottingham-forest-man-city-liam-delap/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T19:25:47+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Nottingham Forest",
+        "Man City",
+        "Man Utd",
+        "Forest",
+        "Delap",
+        "Nottingham"
+      ],
+      "summary": "JUST when we thought City would be out of the title with a Premier League points deduction, they have turned the gun on themselves. After a third successive defeat in the top-flight - and a deserved one - City’s season is in danger of imploding. That is before things get even worse with an expected.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Mikel Arteta baffled by Arsenal penalty decision with Premier League rule applied differently in previous situations",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40953896/arsenal-hull-penalty-var-kai-havertz-mikel-arteta/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T19:16:43+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Mendy",
+        "Mikel",
+        "Arteta",
+        "Mikel Arteta",
+        "baffled"
+      ],
+      "summary": "MIKEL ARTETA was left “confused” and “surprised” by the decision not to award Arsenal a penalty during their win over Hull. Referee Farai Hallam was told by VAR to go to the pitchside monitor towards the end of the first half after Nobel Mendy grabbed Kai Havertz’s shirt. But the spot-kick was not g",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Furious West Ham fans yell ‘you’re not fit to wear the shirt’ after dismal defeat in Scott Parker’s second game",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40953830/west-ham-fans-blast-players-after-defeat/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T18:56:49+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Parker",
+        "Scott Parker",
+        "johnsen",
+        "Furious",
+        "West"
+      ],
+      "summary": "FURIOUS West Ham fans sang cutting chants informing their players that they are \"not fit to wear the shirt\". The Hammers suffered a humiliating 2-1 defeat at Blackburn as they slipped to ninth in the Championship. Andri Guijohnsen put the hosts ahead in the second-half before Dapo Afolayan doubled i",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Camara crashes on F1 debut, stopping Q2 session short!",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13609538/sao-paulo-rafael-camara-crashes-on-f1-debut-stopping-q2-session-short",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-07T20:09:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Rafael",
+        "Camara",
+        "crashes",
+        "debut",
+        "stopping",
+        "session"
+      ],
+      "summary": "Rafael Camara ended his F1 debut in the barriers during Qualifying at the Sao Paulo Grand Prix.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Hibs hammer Aberdeen as fans turn on Robinson",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/aberdeen-vs-hibernian/report/558405",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-07T19:40:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Robinson",
+        "Hibs",
+        "hammer",
+        "Aberdeen",
+        "fans",
+        "turn"
+      ],
+      "summary": "Aberdeen supporters turned on head coach Stephen Robinson as their side were hammered 4-0 by Hibernian, who climbed off the foot of the Scottish Premiership table and above their hosts on goal difference.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Arsenal beat Hull to extend lead at top of the table",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T19:59:31+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "beat",
+        "Hull",
+        "extend",
+        "lead",
+        "table"
+      ],
+      "summary": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Leeds beat Spurs to end five-game winless run",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T19:59:34+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "Leeds",
+        "beat",
+        "five",
+        "game"
+      ],
+      "summary": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T19:34:32+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Another",
+        "relentless",
+        "Odegaard",
+        "spare",
+        "blushes"
+      ],
+      "summary": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Altrincham take shock lead against Notts County",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T19:08:23+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Altrincham",
+        "take",
+        "shock",
+        "lead",
+        "against",
+        "Notts"
+      ],
+      "summary": "Lewis Banks scores from close range to put the National League's Altrincham 2-1 up against League One side Notts County in the first round of the FA Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Former winners Wigan progress to second round of FA Cup",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekz29k2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T19:23:57+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Former",
+        "winners",
+        "Wigan",
+        "progress",
+        "second",
+        "round"
+      ],
+      "summary": "Wigan live up to their pedigree as FA Cup winners as they sweep aside Boreham Wood with goals from Jon Mellish and Morgan Fox, who strikes twice.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Maresca looking to understand Man City's 'lack of intensity'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T20:42:23+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Maresca",
+        "looking"
+      ],
+      "summary": "Enzo Maresca feels his side \"lacked intensity\" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Newport cup tie halted by alleged homophobic chants",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T19:47:03+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Newport",
+        "halted",
+        "alleged",
+        "homophobic",
+        "chants"
+      ],
+      "summary": "Newport manager Hayden Mullins condemns alleged abusive chants during Saturday's FA Cup tie against Walsall.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Tottenham ‘to submit formal complaint over Jayden Bogle red card decision’ that forced Mathys Tel off injured",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40954486/tottenham-complaint-jayden-bogle-red-card-mathys-tel-injury/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T20:39:48+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Tottenham",
+        "Spurs",
+        "submit",
+        "formal",
+        "complaint",
+        "Jayden"
+      ],
+      "summary": "TOTTENHAM are set to lodge a formal complaint after Leeds' Jayden Bogle was NOT sent for an early shower. The 26-year-old defender escaped unpunished after colliding with Mathys Tel, catching the forward's ankle with his studs. Spurs reportedly view the first-half clip as cause for a red card and wi",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Brits would happily sacrifice World Cup and Euros to get rid of dreaded international breaks, study finds",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40954137/football-fans-sacrifice-world-cup-euros-international-break/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T19:41:05+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brits",
+        "happily",
+        "sacrifice",
+        "World",
+        "Euros",
+        "dreaded"
+      ],
+      "summary": "BRIT footie fans would happily sacrifice World Cups and European Championships to get rid of the dreaded international breaks, a study finds. With another pause in Premier League football arriving next week, 37% would ditch seeing their national teams play on the world stage to keep the domestic gam",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "FA Cup clash rocked by thick fog with TNT Sports commentators having no idea what’s going on",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40954601/fa-cup-fog-tnt-commentators-blind/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T19:37:35+00:00",
+      "score": 25.0,
+      "keywords": [
+        "clash",
+        "rocked",
+        "thick",
+        "Sports",
+        "commentators",
+        "having"
+      ],
+      "summary": "THERE were fireworks on and off the pitch as League Two Notts County survived at scare against Altrincham at Moss Lane. Unfortunately, viewers couldn't see much off it as a thick shroud of fog rendered the cameras all-but useless. TNT Sports commentator Adam Summerton was left in the dark alongside ",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Secrets of Zion Suzuki’s stunning rise from turning Man Utd down to masterminding 70m long throws",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40954219/zion-suzuki-man-utd-rise-long-throws-aston-villa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T19:21:33+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester United",
+        "Man Utd",
+        "Secrets",
+        "Zion",
+        "Suzuki"
+      ],
+      "summary": "ZION SUZUKI could have been playing for opponents Manchester United today. The Aston Villa keeper was close to joining the Red Devils in 2023 but turned them down in favour of a move to Belgian club Sint-Truiden on loan from Japanese side Urawa Red Diamonds. Suzuki, 24, wanted to play regular footba",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
+      "title": "Kane bags two assists in Bayern’s win over Mainz",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13609514/mainz-vs-bayern-munich-bundesliga-highlights",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-07T18:59:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Kane",
+        "bags",
+        "assists",
+        "Bayern",
+        "Mainz"
+      ],
+      "summary": "Highlights of the Bundesliga match between Mainz and Bayern Munich.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-07T20:46:09.780299+00:00"
+    },
+    {
       "title": "Leeds 1 Tottenham 0: Daniel Farke’s double sub pays off in an instant after TWO controversial VAR decisions",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/40949044/leeds-tottenham-noah-okafor-daniel-farke-var/",
@@ -39237,525 +39754,6 @@
       "summary": "SCOTLAND welcome Switzerland tonight for their second Nations League clash - and it can all be watched for FREE! The Tartan Army, under new manager Sébastien Pocognoli, drew 0-0 to Slovenia in their opener on Saturday. After an unentertaining first-half, Oli McBurnie and the Scottish attack threw ev",
       "summary_cn": "",
       "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Rio Ferdinand hits back at Roy Keane and Thomas Tuchel over brutal Cole Palmer blasts amid England squad debate",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40523611/chelsea-news-cole-palmer-england-squad-keane-ferdinand/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T06:06:14+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Roy Keane",
-        "Ferdinand",
-        "Rio Ferdinand",
-        "Keane",
-        "Palmer"
-      ],
-      "summary": "RIO FERDINAND has leapt to Cole Palmer's defence following public criticism from England boss Thomas Tuchel. The Chelsea winger was one of the major omissions from Tuchel's squad for last summer's World Cup. He was recalled to the fold for this round of international fixtures but withdrew with a min",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T06:46:04.685293+00:00"
-    },
-    {
-      "title": "History, drama & change - How Warrington and Wakefield helped Grand Final enter a new era",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13592702/history-drama-change-how-warrington-wolves-and-wakefield-trinity-helped-super-league-grand-final-enter-a-new-era",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-29T07:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Wolves",
-        "History",
-        "drama",
-        "change",
-        "Warrington",
-        "Wakefield"
-      ],
-      "summary": "With Warrington Wolves and Wakefield Trinity making it to the Super League Grand Final, the competition has definitively entered a new era.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T06:46:04.685293+00:00"
-    },
-    {
-      "title": "Whyte wants Fisher after injury hell - 'I fought Itauma with a broken foot!'",
-      "title_cn": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13592926/dillian-whyte-was-suffering-from-a-broken-foot-in-moses-itauma-defeat-but-wants-to-return-in-british-battle-with-johnny-fisher",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-29T06:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Whyte",
-        "wants",
-        "Fisher",
-        "injury",
-        "hell",
-        "fought"
-      ],
-      "summary": "Dillian Whyte provided a gruesome description while explaining the agonising injury that he suffered, just weeks before his last fight against Moses Itauma.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T06:46:04.685293+00:00"
-    },
-    {
-      "title": "Flex your football brain with our daily quizzes",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjwyz0yevp40o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-29T06:07:51+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Flex",
-        "football",
-        "brain",
-        "daily",
-        "quizzes"
-      ],
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T06:46:04.685293+00:00"
-    },
-    {
-      "title": "Spain vs Croatia: Get £20 in Nations League free bets when you stake £5 with Tote",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40514311/spain-vs-croatia-tote-free-bets-offer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T06:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Spain",
-        "Croatia",
-        "Nations",
-        "League",
-        "free",
-        "bets"
-      ],
-      "summary": "WORLD champions Spain renew hostilities with Croatia in tonight's Nations League showdown at Sevilla's Ramon Sanchez-Pizjuan Stadium. Brand new Tote customers who register an account and stake a fiver on any sport this week - including tonight's international contest - will receive a terrific £20 in",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T06:46:04.685293+00:00"
-    },
-    {
-      "title": "Hart trusts Man City chair Al Mubarak over ruling",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-28T19:24:40+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Joe Hart",
-        "Hart",
-        "trusts",
-        "City"
-      ],
-      "summary": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-28T20:09:33+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ireland",
-        "Belgium",
-        "France",
-        "Northern",
-        "Hungary",
-        "Nations"
-      ],
-      "summary": "⚽ Updates from 7.45pm (BST) kick-offs across Europe ⚽ Get in touch: email Michael about the action The teams are out! We’ll have the anthems now. There really is nothing that holds a candle to Il Canto degli Italiani , in my book. There is some sort of delay in Brussels, where neither Belgium or Fra",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Thomas Tuchel resists change against Czechia despite England defensive errors",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-czechia-england-nations-league-spain",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-28T20:00:43+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Ezri Konsa",
-        "Konsa",
-        "Thomas",
-        "Tuchel",
-        "resists",
-        "change"
-      ],
-      "summary": "‘We defended well [v Spain] but had individual mistakes’ Nico O’Reilly and Ezri Konsa are injury doubts for match Thomas Tuchel will resist making drastic changes to his defence despite England going six games without a clean sheet before facing Czechia in the Nations League on Tuesday. Although Tuc",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Michael Wynn-Jones, husband of Delia Smith, dies aged 85",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/28/michael-wynn-jones-dies-aged-85-delia-smith-husband",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-28T19:07:45+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Jones",
-        "Smith",
-        "Michael",
-        "Wynn",
-        "husband",
-        "Delia"
-      ],
-      "summary": "Former journalist and honorary life president of Norwich City FC died peacefully at home on Monday Michael Wynn-Jones, the journalist and husband of the TV chef Delia Smith, has died at the age of 85. Wynn-Jones was honorary life president of Norwich City football club, which said everyone at the cl",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Man City chief refuses to answer questions on 115 charges",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13593041/manchester-city-chief-executive-ferran-soriano-declines-to-answer-questions",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-28T20:46:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "chief",
-        "refuses",
-        "answer"
-      ],
-      "summary": "Manchester City chief executive Ferran Soriano declined to answer questions from Sky News as he left a meeting of the executive board of the European Football Clubs' body in Copenhagen.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Man City CEO says fight against Premier League could take years to conclude",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13593034/man-city-ceo-ferran-soriano-says-fight-against-premier-league-could-take-years-to-conclude-amid-reports-of-decision-in-115-charges-case",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-28T20:06:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "fight",
-        "against",
-        "Premier"
-      ],
-      "summary": "Manchester City chief executive Ferran Soriano has told a meeting of fellow club chiefs their fight against the Premier League could take years to conclude, Sky News understands.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Man City CEO defiant over Premier League charges",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-28T18:53:30+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "defiant",
-        "Premier",
-        "League"
-      ],
-      "summary": "Manchester City chief executive Ferran Soriano issues a defiant message to the executives of other teams about the club being found guilty of a majority of Premier League charges, BBC Sport has been told.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Scale of City’s punishment is the only story but Premier League must bear some responsibility | Barney Ronay",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-28T19:30:19+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Scale",
-        "City",
-        "punishment",
-        "only",
-        "story"
-      ],
-      "summary": "Khaldoon al-Mubarak has come out fighting yet the Premier League failed completely to regulate his club Nothing is over, nothing is done. Or at least not judging by the bravura, balls-out confidence of Manchester City’s chair, Khaldoon al-Mubarak, who remains convinced the past three days of whiplas",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "How Man City could be banished into non-league with EFL under no obligation to accept them if they’re expelled",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40521504/man-city-non-league-efl-reject-premier-league-guilty/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T19:55:25+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "banished",
-        "league",
-        "under"
-      ],
-      "summary": "MANCHESTER CITY could be banished into non-league if the EFL refuse them entry. The Etihad giants are staring at an uncertain future after being found guilty by an independent panel on virtually all of the 130 Premier League charges for financial rule breaches. City insist they are innocent and will",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Real Madrid star ‘rejected shock Chelsea transfer offer after receiving lucrative contract to reunite with Xabi Alonso’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40521658/real-madrid-raul-asencio-rejected-chelsea-offer-xabi-alonso/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T19:41:05+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "Real",
-        "Madrid",
-        "star",
-        "rejected",
-        "shock"
-      ],
-      "summary": "REAL MADRID centre-back Raul Asencio reportedly rejected a reunion with Xabi Alonso at Chelsea over the summer. The 23-year-old was allegedly made available for a transfer at the end of last season. He was on the radar of several clubs, including two Premier League giants. Spanish outlet Marca repor",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Premier League cult icon who infamously scored two own goals in one game, 28, completes shock Dubai transfer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40521411/leicester-wout-faes-dubai-shabab-al-ahli/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T19:02:51+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Leicester",
-        "Premier",
-        "League",
-        "cult",
-        "icon",
-        "infamously"
-      ],
-      "summary": "EX-PREMIER LEAGUE ace Wout Faes has left Leicester for a shock move to Dubai after the fallen giants' collapse to League One. The Foxes dropped to the third tier after finishing second from bottom last season in the Championship. This marked a tragic fall from grace for the historic club, just ten y",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Mallorca goalkeeper Iván Cuéllar injured after ‘large structure’ in canteen falls on him",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/28/mallorca-goalkeeper-ivan-cuellar-injured-structure-canteen",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-28T18:35:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Mallorca",
-        "goalkeeper",
-        "injured",
-        "large",
-        "structure",
-        "canteen"
-      ],
-      "summary": "42-year-old suffers ‘serious head injury’ at training base Cuéllar recovering in hospital after alarming accident The Real Mallorca goalkeeper Iván “Pichu” Cuéllar suffered a serious head injury when “a large structure” at the club’s ⁠training ground canteen collapsed on him. The club said Cuéllar w",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Ex-Atletico Madrid star rushed to hospital with severe head injury after decor at club canteen collapses on him",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40521988/atletico-madrid-goalkeeper-hospitalised-head-injury-ivan-cuellar/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T20:18:19+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Atletico",
-        "Madrid",
-        "star",
-        "rushed",
-        "hospital",
-        "severe"
-      ],
-      "summary": "FORMER Atletico Madrid goalkeeper Ivan Cuellar has been hospitalised after a freak accident left him with a severe head injury. Cuellar, 42, plays for Mallorca as the second-choice keeper behind Arnau Tenas. According to The Athletic, the ex-Spain youth international was taken to hospital for treatm",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T20:29:16.573225+00:00"
-    },
-    {
-      "title": "Man Utd poach wonderkid Isaac Konde from hated rivals Liverpool as trio of young signings is complete",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40518295/man-utd-transfer-news-issac-konde-deal-liverpool/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T13:12:37+00:00",
-      "score": 39.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester United",
-        "Man Utd",
-        "young",
-        "poach",
-        "wonderkid"
-      ],
-      "summary": "MANCHESTER UNITED have announced the signing of starlet Issac Konde. Konde, 16, has joined the Red Devils' academy following his recent departure from their bitter rivals Liverpool. A club statement read: \"Manchester United have agreed the signing of winger Isaac Konde. \"The talented youngster has j",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T13:38:44.460320+00:00"
-    },
-    {
-      "title": "The Manchester City verdict and England run world champions close | Football Weekly",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/video/2026/sep/28/the-manchester-city-verdict-and-england-run-world-champions-close-football-weekly",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-28T13:00:13+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Maguire",
-        "Barry",
-        "Manchester",
-        "City",
-        "verdict"
-      ],
-      "summary": "Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against them by the Premier League. Continue reading...",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T13:38:44.460320+00:00"
-    },
-    {
-      "title": "Barcelona ‘keeping tabs’ on Chelsea star Estevao with Brazilian ‘increasingly frustrated’ at lack of game time",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40518020/barcelona-chelsea-estevao-brazil-xabi-alonso-carabao-cup/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T13:19:29+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Bridge",
-        "Willian",
-        "Barcelona",
-        "keeping",
-        "tabs"
-      ],
-      "summary": "BARCELONA are reportedly keeping tabs on Chelsea wonderkid Estevao Willian amid growing frustration over his lack of game time. The Brazilian sensation, 19, has found opportunities hard to come by since Xabi Alonso took charge at Stamford Bridge. Estevao has played just 23 MINUTES across Chelsea's o",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T13:38:44.460320+00:00"
-    },
-    {
-      "title": "Nobody knows this but I brought his family here and he picked out a house, says Besiktas chief about Newcastle star",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40517770/besiktas-newcastle-transfer-joe-willock/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T12:31:17+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "James",
-        "Nobody",
-        "knows",
-        "brought"
-      ],
-      "summary": "BESIKTAS president Serdal Adali has vowed to sign Newcastle’s Joe Willock in January after just missing out this summer. The ex-Arsenal midfielder, 27, barely featured under Eddie Howe last term and looked set to leave St James’ Park after entering the final 12 months of his contract. Willock appear",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T13:38:44.460320+00:00"
-    },
-    {
-      "title": "Man City fans say ‘we are cooked’ as worrying video emerges of Haaland and Dias chatting after bombshell verdict",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40517026/man-city-haaland-dias-premier-league-charges-barcelona/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T12:20:01+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Erling Haaland",
-        "Haaland",
-        "City",
-        "fans"
-      ],
-      "summary": "MANCHESTER CITY fans fear the worst after footage emerged of Erling Haaland locked in conversation with Ruben Dias following the bombshell verdict over the club's Premier League charges. The City superstars were spotted chatting while away on international duty, just days after reports claimed the c",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T13:38:44.460320+00:00"
-    },
-    {
-      "title": "Man Utd identify JJ Gabriel transfer ‘replacement’ with Lens sensation Mezian Mesloub, 16, targeted by Michael Carrick",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40515199/man-utd-jj-gabriel-mezian-mesloub-transfer-replacement-lens/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T12:17:11+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Michael Carrick",
-        "Carrick",
-        "identify",
-        "Gabriel"
-      ],
-      "summary": "MANCHESTER UNITED are among a host of clubs tracking Lens teenager Mezian Mesloub. Mesloub, 16, scored the winner seconds into his Ligue 1 debut in May and he made his full bow in the 2-1 defeat to Monaco earlier this month. Attacking midfielder Mesloub, who signed his first professional contract in",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T13:38:44.460320+00:00"
-    },
-    {
-      "title": "The glamorous Man City Wags facing a mass exodus if club’s superstars jump ship after bombshell verdict",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40513925/man-city-wags-exodus-relegation-verdict/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-28T11:50:21+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Man City",
-        "Erling Haaland",
-        "Haaland",
-        "glamorous",
-        "City",
-        "Wags"
-      ],
-      "summary": "MAN CITY's top stars could leave, after the club were found guilty of 114 charges relating to breaches of the Premier League’s financial regulations. The likes of Erling Haaland, Enzo Fernandez, and Rayan Cherki are unlikely to stick around if the club are expelled from the top flight. City are set ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T13:38:44.460320+00:00"
-    },
-    {
-      "title": "England Women name Rugby League World Cup squad",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13592874/england-women-name-2026-rugby-league-world-cup-squad-with-four-potential-debutants-included",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-28T13:55:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Stuart",
-        "England",
-        "Women",
-        "name",
-        "Rugby",
-        "League"
-      ],
-      "summary": "England Women head coach Stuart Barrow has named his 23-player squad for the 2026 Rugby League World Cup.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-28T13:38:44.460320+00:00"
     }
   ]
 }
