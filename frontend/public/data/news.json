@@ -1,402 +1,97 @@
 {
-  "updated_at": "2026-11-08T00:22:04.172110+00:00",
+  "updated_at": "2026-11-08T07:08:26.530916+00:00",
   "items": [
     {
-      "title": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
+      "title": "The oldest club in London making FA Cup history",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
-      "source": "The Guardian",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
       "tier": 2,
-      "published": "2026-11-07T22:30:08+00:00",
-      "score": 34.0,
+      "published": "2026-11-08T06:28:56+00:00",
+      "score": 25.0,
       "keywords": [
-        "Valencia",
-        "European",
-        "football",
-        "eases",
-        "Real",
-        "Madrid"
+        "oldest",
+        "club",
+        "London",
+        "making",
+        "history"
       ],
-      "summary": "Valverde opens scoring in 3-0 victory for Real Madrid Bayern beat Mainz but Neuer’s record-breaking day turns sour Kylian Mbappé scored for the seventh match running as Real Madrid pulled provisionally level on points with La Liga leaders Barcelona after a 3-0 win at 10-man Valencia on Saturday. Rei",
+      "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
       "summary_cn": ""
     },
     {
-      "title": "Valencia vs Real Madrid suspended as players carry stretcher across pitch after medical emergency in stands",
+      "title": "Why unique Brighton defence is so tricky to unpick",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40955834/valencia-real-madrid-suspended-stretcher/",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T06:41:37+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brighton",
+        "unique",
+        "defence",
+        "tricky",
+        "unpick"
+      ],
+      "summary": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Get a CASH winnings bonus of up to 100% on your Man Utd vs Aston Villa Bet Builder, plus our 12/1 tip",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40925221/man-utd-aston-villa-bet-builder-bonus/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-11-07T22:33:13+00:00",
-      "score": 34.0,
-      "keywords": [
-        "Valencia",
-        "Real",
-        "Madrid",
-        "suspended",
-        "players",
-        "carry"
-      ],
-      "summary": "REAL MADRID'S clash with Valencia was temporarily halted following a medical emergency in the stands. The match referee stopped the game so that medical attention could be brought to the spectator. Players from both teams had the situation explained to them by the official in charge. Valencia stars ",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-07T22:44:20+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Bruno Fernandes",
-        "Michael Carrick",
-        "Carrick",
-        "Fernandes"
-      ],
-      "summary": "Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is \"undoubted\" and the midfielder is \"as good as ever\".",
-      "summary_cn": ""
-    },
-    {
-      "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:13:34+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Robbie Savage",
-        "Savage",
-        "junior",
-        "night",
-        "Charlie",
-        "scores"
-      ],
-      "summary": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:07:11+00:00",
-      "score": 31.0,
-      "keywords": [
-        "McNeil",
-        "Neill",
-        "Wonderful",
-        "goal",
-        "Crewe",
-        "McNeill"
-      ],
-      "summary": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "York score after 10 seconds against Northampton following unique kick-off",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-07T23:38:38+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Pearce",
-        "York",
-        "score",
-        "seconds",
-        "against",
-        "Northampton"
-      ],
-      "summary": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0 win to reach the second round of the FA Cup.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Forest win over Man City 'a turning point' - Murphy",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:00:14+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Nottingham Forest",
-        "Man City",
-        "Forest",
-        "Murphy",
-        "Danny Murphy"
-      ],
-      "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Was Leeds' Bogle lucky to escape red card?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:00:26+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Tottenham",
-        "Murphy",
-        "Danny Murphy",
-        "Leeds",
-        "Bogle",
-        "lucky"
-      ],
-      "summary": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
-      "summary_cn": ""
-    },
-    {
-      "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-07T23:05:36+00:00",
-      "score": 31.0,
-      "keywords": [
-        "McNeil",
-        "Neill",
-        "McNeill",
-        "superb",
-        "halfway",
-        "goal"
-      ],
-      "summary": "Charlie McNeill's strike from the halfway line helps League Two frontrunners Crewe progress to the second round of the FA Cup, with a 2-1 win over League One AFC Wimbledon.",
-      "summary_cn": ""
-    },
-    {
-      "title": "FA Cup roundup: Charlie Savage gets one over dad Robbie as Reading thrash Peterborough",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-11-07T23:11:27+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Savage",
-        "roundup",
-        "Charlie",
-        "gets",
-        "Robbie",
-        "Reading"
-      ],
-      "summary": "Non-league Kidderminster stun Doncaster Exeter upset Huddersfield in first round Charlie Savage scored against his father’s team as Reading eased into the second round of the FA Cup with a 5-0 rout of Peterborough at the Weston Homes Stadium. This all-League One tie turned out to be one of the most ",
-      "summary_cn": ""
-    },
-    {
-      "title": "Michael Carrick has no idea whether he’ll still be Man Utd boss after Aston Villa clash with sacking season approaching",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40950241/michael-carrick-unsure-man-utd-future-aston-villa/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-11-07T22:30:00+00:00",
-      "score": 31.0,
+      "published": "2026-11-08T07:00:00+00:00",
+      "score": 25.0,
       "keywords": [
         "Aston Villa",
         "Manchester United",
         "Man Utd",
-        "Michael Carrick",
-        "Carrick",
-        "Michael"
+        "CASH",
+        "winnings",
+        "bonus"
       ],
-      "summary": "MICHAEL CARRICK has not been told he is certain to be in charge of Manchester United after their Premier League fixture with Aston Villa on Sunday. United could be in the relegation zone at kick-off after one win and four defeats from their nine league matches. Carrick’s position remains in serious ",
+      "summary": "MANCHESTER UNITED welcome Aston Villa on Sunday, looking to build on Tuesday night's incredible European comeback. To mark the weekend showdown, Betfred are offering customers a cash winnings bonus of up to 100% on winning Bet Builder bets! And brand-new Betfred customers who sign up today can also ",
       "summary_cn": ""
     },
     {
-      "title": "Youri Tielemans’ Man Utd boast has massively backfired as Red Devils host Aston Villa sitting 11 points adrift of them",
+      "title": "Man Utd vs Aston Villa: Get £30 in free bets for football when you sign up and stake £10 with Midnite",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40955138/youri-tielemans-man-utd-boast-backfires-aston-villa/",
+      "url": "https://www.thesun.co.uk/sport/40925772/man-utd-aston-villa-free-bets-midnite/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-11-07T22:30:00+00:00",
-      "score": 31.0,
+      "published": "2026-11-08T07:00:00+00:00",
+      "score": 25.0,
       "keywords": [
         "Aston Villa",
         "Manchester United",
         "Man Utd",
-        "Tielemans",
-        "Michael Carrick",
-        "Carrick"
+        "Aston",
+        "Villa",
+        "free"
       ],
-      "summary": "YOURI TIELEMANS said after his £35million arrival at Old Trafford three months ago: “There are still clubs above Aston Villa and Manchester United is one of them.” The Belgium captain’s new side are five points below his former employers Villa in the Premier League, with Michael Carrick’s outfit als",
+      "summary": "MANCHESTER UNITED welcome Aston Villa to Old Trafford this afternoon, looking to end their seven-game Premier League winless run. Midnite are offering new customers a whopping £30 in free bets to spend on football when signing up today! That's right, simply sign-up as a brand new customer with Midni",
       "summary_cn": ""
     },
     {
-      "title": "Regis Le Bris admits Granit Xhaka may be battling a hangover after Xabi Alonso and Chelsea’s failed transfer bid",
+      "title": "Sunderland vs Chelsea: Our 7/1 bet builder tip, plus get £50 in free bets | Paddy Power",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40942754/chelsea-lebris-xhaka-henderson-sunderland/",
+      "url": "https://www.thesun.co.uk/sport/40915368/sunderland-chelsea-bet-builder-tip-paddy-power/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-11-07T22:30:00+00:00",
-      "score": 31.0,
+      "published": "2026-11-08T06:00:00+00:00",
+      "score": 25.0,
       "keywords": [
         "Chelsea",
-        "Granit Xhaka",
-        "Xhaka",
-        "Bridge",
-        "Regis",
-        "Bris"
+        "Sunderland",
+        "builder",
+        "plus",
+        "free",
+        "bets"
       ],
-      "summary": "REGIS LE BRIS concedes Granit Xhaka may be battling a hangover after Xabi Alonso’s failed bid to lure him to Chelsea. But Sunderland’s boss insists his Swiss Superman’s warrior spirit remains intact. Xhaka, 34, was top of Alonso’s Stamford Bridge wishlist following the Spaniard’s arrival in West Lon",
-      "summary_cn": ""
-    },
-    {
-      "title": "Clarke STUNS Billam-Smith with sensational seventh-round stoppage",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13609602/chev-clarke-stuns-chris-billam-smith-with-sensational-seventh-round-stoppage",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-11-07T23:05:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Smith",
-        "Clarke",
-        "STUNS",
-        "Billam",
-        "sensational",
-        "seventh"
-      ],
-      "summary": "Highlights of the Zuffa Boxing 12 cruiserweight main event between Chev Clarke and Chris Billam-Smith.",
-      "summary_cn": ""
-    },
-    {
-      "title": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:04:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Robinson",
-        "Curtains",
-        "floundering",
-        "Aberdeen",
-        "boss",
-        "survive"
-      ],
-      "summary": "Will the \"unacceptable\" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Listen: Premiership reaction as pressure mounts on Robinson",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sounds/play/p0plvx32?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-07T23:15:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Robinson",
-        "stone",
-        "Listen",
-        "Premiership",
-        "reaction",
-        "pressure"
-      ],
-      "summary": "Big wins for Rangers, St Johnstone and Hibs as Robinson's Aberdeen ship 4 goals at home.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Match of the Day",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:00:56+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Fulham",
-        "Newcastle",
-        "Man City",
-        "Spurs",
-        "Forest"
-      ],
-      "summary": "With Arsenal v Hull, Forest v Man City, Leeds v Spurs and Fulham v Newcastle",
-      "summary_cn": ""
-    },
-    {
-      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:17:56+00:00",
-      "score": 25.0,
-      "keywords": [
-        "worst",
-        "conditions",
-        "year",
-        "career",
-        "commentating"
-      ],
-      "summary": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Arsenal should have been awarded penalty against Hull - Cann",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:00:09+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "awarded",
-        "penalty",
-        "against",
-        "Hull",
-        "Cann"
-      ],
-      "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Fylde beat Harrogate Town in all-National League clash",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqp8g3xkvdk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-08T00:04:58+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Fylde",
-        "beat",
-        "Harrogate",
-        "Town",
-        "National",
-        "League"
-      ],
-      "summary": "Two late goals secure a 4-1 win for Fylde against Harrogate Town in an all-National League FA Cup first round tie.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Highlights: Exeter shock League One leaders Huddersfield",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-07T23:08:32+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Highlights",
-        "Exeter",
-        "shock",
-        "League",
-        "leaders",
-        "Huddersfield"
-      ],
-      "summary": "League Two Exeter City pull off an upset 2-1 win away to League One leaders Huddersfield Town to progress into the second round of the FA Cup.",
+      "summary": "CHELSEA head to bottom-of-the-pile Sunderland on Sunday in the final league matches before the international break. Brand-new Paddy Power customers who register and place a £10 football bet builder at odds of 1/2 or greater will be rewarded with £50 in Free Football Bet Builders! Our team of betting",
       "summary_cn": ""
     }
   ]
