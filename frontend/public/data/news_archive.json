@@ -1,6 +1,425 @@
 {
   "items": [
     {
+      "title": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-11-07T22:30:08+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Valencia",
+        "European",
+        "football",
+        "eases",
+        "Real",
+        "Madrid"
+      ],
+      "summary": "Valverde opens scoring in 3-0 victory for Real Madrid Bayern beat Mainz but Neuer’s record-breaking day turns sour Kylian Mbappé scored for the seventh match running as Real Madrid pulled provisionally level on points with La Liga leaders Barcelona after a 3-0 win at 10-man Valencia on Saturday. Rei",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Valencia vs Real Madrid suspended as players carry stretcher across pitch after medical emergency in stands",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40955834/valencia-real-madrid-suspended-stretcher/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T22:33:13+00:00",
+      "score": 34.0,
+      "keywords": [
+        "Valencia",
+        "Real",
+        "Madrid",
+        "suspended",
+        "players",
+        "carry"
+      ],
+      "summary": "REAL MADRID'S clash with Valencia was temporarily halted following a medical emergency in the stands. The match referee stopped the game so that medical attention could be brought to the spectator. Players from both teams had the situation explained to them by the official in charge. Valencia stars ",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T22:44:20+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "Bruno Fernandes",
+        "Michael Carrick",
+        "Carrick",
+        "Fernandes"
+      ],
+      "summary": "Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is \"undoubted\" and the midfielder is \"as good as ever\".",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:13:34+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Robbie Savage",
+        "Savage",
+        "junior",
+        "night",
+        "Charlie",
+        "scores"
+      ],
+      "summary": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:07:11+00:00",
+      "score": 31.0,
+      "keywords": [
+        "McNeil",
+        "Neill",
+        "Wonderful",
+        "goal",
+        "Crewe",
+        "McNeill"
+      ],
+      "summary": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "York score after 10 seconds against Northampton following unique kick-off",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T23:38:38+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Pearce",
+        "York",
+        "score",
+        "seconds",
+        "against",
+        "Northampton"
+      ],
+      "summary": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0 win to reach the second round of the FA Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Forest win over Man City 'a turning point' - Murphy",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:00:14+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Man City",
+        "Forest",
+        "Murphy",
+        "Danny Murphy"
+      ],
+      "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Was Leeds' Bogle lucky to escape red card?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:00:26+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Tottenham",
+        "Murphy",
+        "Danny Murphy",
+        "Leeds",
+        "Bogle",
+        "lucky"
+      ],
+      "summary": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T23:05:36+00:00",
+      "score": 31.0,
+      "keywords": [
+        "McNeil",
+        "Neill",
+        "McNeill",
+        "superb",
+        "halfway",
+        "goal"
+      ],
+      "summary": "Charlie McNeill's strike from the halfway line helps League Two frontrunners Crewe progress to the second round of the FA Cup, with a 2-1 win over League One AFC Wimbledon.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "FA Cup roundup: Charlie Savage gets one over dad Robbie as Reading thrash Peterborough",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-11-07T23:11:27+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Savage",
+        "roundup",
+        "Charlie",
+        "gets",
+        "Robbie",
+        "Reading"
+      ],
+      "summary": "Non-league Kidderminster stun Doncaster Exeter upset Huddersfield in first round Charlie Savage scored against his father’s team as Reading eased into the second round of the FA Cup with a 5-0 rout of Peterborough at the Weston Homes Stadium. This all-League One tie turned out to be one of the most ",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Michael Carrick has no idea whether he’ll still be Man Utd boss after Aston Villa clash with sacking season approaching",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40950241/michael-carrick-unsure-man-utd-future-aston-villa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T22:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester United",
+        "Man Utd",
+        "Michael Carrick",
+        "Carrick",
+        "Michael"
+      ],
+      "summary": "MICHAEL CARRICK has not been told he is certain to be in charge of Manchester United after their Premier League fixture with Aston Villa on Sunday. United could be in the relegation zone at kick-off after one win and four defeats from their nine league matches. Carrick’s position remains in serious ",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Youri Tielemans’ Man Utd boast has massively backfired as Red Devils host Aston Villa sitting 11 points adrift of them",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40955138/youri-tielemans-man-utd-boast-backfires-aston-villa/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T22:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Aston Villa",
+        "Manchester United",
+        "Man Utd",
+        "Tielemans",
+        "Michael Carrick",
+        "Carrick"
+      ],
+      "summary": "YOURI TIELEMANS said after his £35million arrival at Old Trafford three months ago: “There are still clubs above Aston Villa and Manchester United is one of them.” The Belgium captain’s new side are five points below his former employers Villa in the Premier League, with Michael Carrick’s outfit als",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Regis Le Bris admits Granit Xhaka may be battling a hangover after Xabi Alonso and Chelsea’s failed transfer bid",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/40942754/chelsea-lebris-xhaka-henderson-sunderland/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-07T22:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Granit Xhaka",
+        "Xhaka",
+        "Bridge",
+        "Regis",
+        "Bris"
+      ],
+      "summary": "REGIS LE BRIS concedes Granit Xhaka may be battling a hangover after Xabi Alonso’s failed bid to lure him to Chelsea. But Sunderland’s boss insists his Swiss Superman’s warrior spirit remains intact. Xhaka, 34, was top of Alonso’s Stamford Bridge wishlist following the Spaniard’s arrival in West Lon",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Clarke STUNS Billam-Smith with sensational seventh-round stoppage",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13609602/chev-clarke-stuns-chris-billam-smith-with-sensational-seventh-round-stoppage",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-07T23:05:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Smith",
+        "Clarke",
+        "STUNS",
+        "Billam",
+        "sensational",
+        "seventh"
+      ],
+      "summary": "Highlights of the Zuffa Boxing 12 cruiserweight main event between Chev Clarke and Chris Billam-Smith.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:04:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Robinson",
+        "Curtains",
+        "floundering",
+        "Aberdeen",
+        "boss",
+        "survive"
+      ],
+      "summary": "Will the \"unacceptable\" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Listen: Premiership reaction as pressure mounts on Robinson",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0plvx32?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T23:15:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Robinson",
+        "stone",
+        "Listen",
+        "Premiership",
+        "reaction",
+        "pressure"
+      ],
+      "summary": "Big wins for Rangers, St Johnstone and Hibs as Robinson's Aberdeen ship 4 goals at home.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Match of the Day",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:00:56+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "Fulham",
+        "Newcastle",
+        "Man City",
+        "Spurs",
+        "Forest"
+      ],
+      "summary": "With Arsenal v Hull, Forest v Man City, Leeds v Spurs and Fulham v Newcastle",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:17:56+00:00",
+      "score": 25.0,
+      "keywords": [
+        "worst",
+        "conditions",
+        "year",
+        "career",
+        "commentating"
+      ],
+      "summary": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Arsenal should have been awarded penalty against Hull - Cann",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:00:09+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Arsenal",
+        "awarded",
+        "penalty",
+        "against",
+        "Hull",
+        "Cann"
+      ],
+      "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Fylde beat Harrogate Town in all-National League clash",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqp8g3xkvdk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-08T00:04:58+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Fylde",
+        "beat",
+        "Harrogate",
+        "Town",
+        "National",
+        "League"
+      ],
+      "summary": "Two late goals secure a 4-1 win for Fylde against Harrogate Town in an all-National League FA Cup first round tie.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
+      "title": "Highlights: Exeter shock League One leaders Huddersfield",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-07T23:08:32+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Highlights",
+        "Exeter",
+        "shock",
+        "League",
+        "leaders",
+        "Huddersfield"
+      ],
+      "summary": "League Two Exeter City pull off an upset 2-1 win away to League One leaders Huddersfield Town to progress into the second round of the FA Cup.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-08T00:22:04.142656+00:00"
+    },
+    {
       "title": "Delightful Delap stars as Forest shock Man City",
       "title_cn": "",
       "url": "https://www.skysports.com/watch/video/13609523/nottingham-forest-3-1-manchester-city-premier-league-highlights",
@@ -39332,426 +39751,6 @@
         "aged"
       ],
       "summary": "RENATO SANCHES is on the brink of signing for Brazilian side Corinthians, according to reports. The former wonderkid, now 29, has been a free agent since having his Paris Saint-Germain contract terminated earlier this month. Sanches was once considered one of Europe's hottest properties, and became ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Man Utd do not deserve Man City titles - Rooney",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-29T12:36:50+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Manchester United",
-        "Man City",
-        "Man Utd",
-        "Wayne Rooney",
-        "Rooney"
-      ],
-      "summary": "Wayne Rooney says former club Manchester United do not \"deserve\" to be awarded Premier League titles if rivals Manchester City are stripped of them for breaching financial rules.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "David Squires on … the Manchester City verdict and Nations League tensions",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-29T12:45:10+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Ireland",
-        "David",
-        "Squires",
-        "Manchester",
-        "City"
-      ],
-      "summary": "Our cartoonist on the Premier League’s ruling finally being revealed and Israel v Republic of Ireland Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Virgil van Dijk ‘lined up for Trent Alexander-Arnold and Konate Real Madrid reunion in ANOTHER Liverpool free transfer’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40529416/virgil-van-dijk-liverpool-real-madrid-transfer/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T13:54:47+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Trent Alexander-Arnold",
-        "Alexander-Arnold",
-        "Virgil van Dijk",
-        "Virgil",
-        "Dijk"
-      ],
-      "summary": "VIRGIL VAN DIJK is reportedly being lined up on a free transfer by Real Madrid. The LaLiga giants have already taken Trent Alexander-Arnold and Ibrahima Konate from Anfield for nothing. Real have added both of the defenders to their ranks on free transfer after their contracts expired at Liverpool. ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Ashley Cole’s No2 reveals why Chelsea and Arsenal legend QUIT Italian second-tier club after just eight games",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40528918/ashley-cole-reason-quit-italian-club-revealed-assistant/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T13:48:25+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Chelsea",
-        "Everton",
-        "Ashley Cole",
-        "Ashley",
-        "Cole"
-      ],
-      "summary": "ASHLEY COLE'S former assistant has revealed why the Chelsea icon left his job at an Italian second-tier club just eight games in. Cole, 45, took on posts as coaches at Derby, England Under-21s, Everton, Birmingham and England senior team before he became head coach of Cesena. He took the role in Mar",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Chelsea vs Bournemouth tickets: Where can I buy them and how much do they cost for huge clash at Stamford Bridge?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40528416/chelsea-vs-bournemouth-tickets-premier-league-buy-cost/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T13:40:45+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Chelsea",
-        "Bournemouth",
-        "Bridge",
-        "tickets",
-        "them"
-      ],
-      "summary": "CHELSEA welcome Bournemouth to Stamford Bridge next weekend as the Premier League returns from the international break! Xabi Alonso has had a turbulent start to his first season at the Blues, losing their last two games. After suffering a 2-1 defeat away to champions Arsenal, Chelsea were thrashed 3",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "‘It’s very worrying’ – Chelsea star Cole Palmer is ‘victim of sick system’ says PFA chief",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40528956/cole-palmer-england-chelsea-maheta-malongo-pfa-football-calendar/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T13:29:11+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Chelsea",
-        "Palmer",
-        "very",
-        "worrying",
-        "star",
-        "Cole"
-      ],
-      "summary": "CHELSEA star Cole Palmer is the “victim” of a packed football calendar created by a “sick” system. That is the verdict of PFA chief Maheta Malongo after Palmer and four other players pulled out of the current England squad. Malongo, chief executive of the players’ union, said: “When we in England se",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Arsenal legend Patrick Vieira admits to secret Man Utd transfer meeting with Fergie and incredible super midfield plan",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40528412/arsenal-patrick-vieira-admits-man-utd-transfer-meeting-fergie/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T12:38:16+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Arsenal",
-        "Manchester United",
-        "Man Utd",
-        "Ferguson",
-        "Beckham",
-        "David Beckham"
-      ],
-      "summary": "PATRICK VIEIRA has admitted he held secret talks to join Manchester United from Arsenal. The 50-year-old Arsenal legend was wanted by Sir Alex Ferguson to complete an all-star midfield alongside David Beckham and Ryan Giggs. Former Arsenal captain Vieira has explained that he was offered several mov",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Australia go down fighting to Brazil in fiery 4-2 friendly defeat",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/29/australia-go-down-fighting-to-brazil-in-fiery-4-2-friendly-defeat",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-29T12:31:50+00:00",
-      "score": 26.0,
-      "keywords": [
-        "anderson",
-        "Australia",
-        "down",
-        "fighting",
-        "Brazil",
-        "fiery"
-      ],
-      "summary": "Socceroos led 2-1 with goals from Metcalfe and Circati Two late goals sealed win for five-times world champions His first touch taking the ball goalward, Vanderson felt the pressure from Australian defenders closing in and laced a shot goalward, burying it in the top corner of Patrick Beach’s net an",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Valencia coach Javier Aguirre reveals Anthony Gordon request after viral ‘f*** you’ moment vs England at World Cup",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40528883/anthony-gordon-javier-aguirre-barcelona-valencia/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T13:08:56+00:00",
-      "score": 26.0,
-      "keywords": [
-        "matic",
-        "Valencia",
-        "coach",
-        "Javier",
-        "Aguirre",
-        "reveals"
-      ],
-      "summary": "JAVIER AGUIRRE wants Anthony Gordon to sign a picture of their viral exchange when they reunite in January. Aguirre, 67, jokingly told Gordon \"f***you\" during England's dramatic 3-2 win over Mexico at the Azteca during the World Cup. Gordon, 25, laughed off Aguirre's barb and went on to call it a \"b",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Why Salisbury are 'bigger than many Premier League teams' in Kuwait",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/articles/cmx2z78p654yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-09-29T13:49:53+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Salisbury",
-        "bigger",
-        "many",
-        "Premier",
-        "League",
-        "teams"
-      ],
-      "summary": "Sixth-tier Salisbury FC have a unique relationship with Kuwait, where they are regarded as \"bigger than many Premier League\" clubs.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "How important is a fast start for teams chasing the Premier League title?",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/sep/29/premier-league-fast-start-teams-manchester-city",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-29T12:41:56+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "important",
-        "fast",
-        "start",
-        "teams",
-        "chasing"
-      ],
-      "summary": "Manchester City have kicked off the campaign with five victories in a row but the title race is a marathon not a sprint By Opta Analyst The first international window gives us time to take stock and make sense of what has happened in the early weeks of the Premier League season. Manchester City are ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "The Manchester City case shows us how the global mega-rich now expect to operate with impunity | Jonathan Liew",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-09-29T13:30:10+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Manchester",
-        "City",
-        "case",
-        "shows",
-        "global"
-      ],
-      "summary": "When transnational alliances have scarcely been weaker, the way the club was allegedly run offers a bleak vision of a world driven by brute power and wealth The cache of leaked emails and documents that would eventually lead to the crisis in which Manchester City are now embroiled was published by D",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Ex-Premier League star, 41, becomes new boss of former World Cup team… just one WEEK after managerial debut",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40524036/premier-league-news-brian-ruiz-costa-rica-manager/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T13:00:42+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Fulham",
-        "Premier",
-        "League",
-        "star",
-        "becomes",
-        "boss"
-      ],
-      "summary": "EX-PREMIER LEAGUE star Bryan Ruiz has been appointed Costa Rica's national boss - barely a WEEK after making his senior management debut. The attacking midfielder spent four seasons with Fulham, scoring 13 goals in 108 games. A £10million buy from Dutch club Twente, Ruiz left to join Sporting Lisbon",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Ex-Chelsea star, 26, ‘can’t wait to return’ just one year after transfer exit despite contributing 52 goals at new club",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40528474/chelsea-transfer-joao-felix-al-nassr/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T12:42:51+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "star",
-        "wait",
-        "return",
-        "year",
-        "transfer"
-      ],
-      "summary": "JOAO FELIX has admitted that he is desperate to return to European football. The former Chelsea star has excelled in Saudi Arabia since his 2025 switch to Al-Nassr. Felix, 26, has scored 30 times and assisted 22 goals in his 55 appearances for the club. Despite his success on the pitch the Portugal ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Ex-World Cup finalist showers in pitch black and wears light-blocking glasses to help him sleep after anxiety battle",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40487558/world-cup-finalist-anxiety-battle-sleep-van-der-wiel/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T12:42:34+00:00",
-      "score": 25.0,
-      "keywords": [
-        "World",
-        "finalist",
-        "showers",
-        "pitch",
-        "black",
-        "wears"
-      ],
-      "summary": "BRAVE ex-PSG and Netherlands right-back Gregory Van Der Wiel once suffered from such bad anxiety that he was experiencing&nbsp;frequent sleepless nights and panic attacks.&nbsp; Now he’s using his experience to help others who are struggling. Van der Wiel had an excellent footballing career, making ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Arsenal vs Leeds tickets: Where can I buy them and how much do they cost for huge Premier League clash at the Emirates?",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40528203/arsenal-leeds-tickets-buy-cost-premier-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T12:27:02+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Brighton",
-        "Leeds",
-        "tickets",
-        "them",
-        "much"
-      ],
-      "summary": "AS the Premier League returns in October, Arsenal host Leeds in a huge clash at the Emirates Stadium - and there are still tickets available! The reigning champions are looking to bounce back after their 3-0 loss to Brighton before the international break. It was the first time the Gunners were beat",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "24th season in F1! Alonso extends Aston Martin deal for 2027",
-      "title_cn": "",
-      "url": "https://www.skysports.com/f1/news/12040/13571663/fernando-alonso-aston-martin-confirm-unchanged-line-up-for-2027-f1-season-with-spaniard-and-lance-stroll-extending-contracts",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-09-29T12:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "season",
-        "Alonso",
-        "extends",
-        "Aston",
-        "Martin",
-        "deal"
-      ],
-      "summary": "Fernando Alonso will race on in Formula 1 with Aston Martin into the 2027 season after extending his contract with the team.",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Meet the glamorous Czech Wags ahead of England clash, from glitzy breast-lift tape queen to stunning former footballer",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40525887/glam-czech-wags-england-nations-league-match/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T12:34:05+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Meet",
-        "glamorous",
-        "Czech",
-        "Wags",
-        "ahead",
-        "England"
-      ],
-      "summary": "ENGLAND are back in action again and face Czech Republic in Prague in the Nations League with all to play for. Both teams lost their openers, with the Three Lions falling to a 3-2 defeat to world champions Spain and the Czechs losing to Croatia 2-1. Watching the action avidly will be the home team's",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Unrecognisable Champions League winner, 30, now playing in ninth division and in brand new role as a GOALKEEPER",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40528192/niklas-sule-ninth-division-goalkeeper/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T12:23:31+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Unrecognisable",
-        "Champions",
-        "League",
-        "winner",
-        "playing",
-        "ninth"
-      ],
-      "summary": "NIKLAS SULE has begun playing in goal for German ninth division side SV Tiefenbach. The former Champions League winner retired from professional football aged just 30 earlier this year, but just a few months later popped back up in the German lower leagues. A towering defender at Bayern Munich and B",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Czechia vs England: Get £50 in free bets, plus 5/1 Bet Builder tips | Sky Bet",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40524699/czechia-vs-england-sky-bet-builder-tips/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T12:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Czechia",
-        "England",
-        "free",
-        "bets",
-        "plus",
-        "Builder"
-      ],
-      "summary": "ENGLAND travel to Prague for tonight's Nations League showdown with Czechia as Thomas Tuchel's side look to bounce back from their previous defeat to world champions Spain. New customers who sign up and stake just £10 on football, including today's international encounter, will be credited with £30 ",
-      "summary_cn": "",
-      "fetched_at": "2026-09-29T13:56:51.264566+00:00"
-    },
-    {
-      "title": "Scotland vs Switzerland TV channel and FREE live stream: How to watch Tartan Army’s Nations League clash without paying",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40511630/scotland-vs-switzerland-tv-channel-free-live-stream-nations-league/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-09-29T12:00:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Scotland",
-        "Switzerland",
-        "channel",
-        "FREE",
-        "live",
-        "stream"
-      ],
-      "summary": "SCOTLAND welcome Switzerland tonight for their second Nations League clash - and it can all be watched for FREE! The Tartan Army, under new manager Sébastien Pocognoli, drew 0-0 to Slovenia in their opener on Saturday. After an unentertaining first-half, Oli McBurnie and the Scottish attack threw ev",
       "summary_cn": "",
       "fetched_at": "2026-09-29T13:56:51.264566+00:00"
     }
