@@ -1,79 +1,136 @@
 {
-  "updated_at": "2026-11-20T02:57:24.821125+00:00",
+  "updated_at": "2026-11-20T11:19:53.741128+00:00",
   "items": [
     {
-      "title": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
+      "title": "Will Frank turn things around at Crystal Palace?",
       "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
+      "url": "https://www.skysports.com/football/news/12040/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-20T10:00:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Crystal Palace",
+        "matic",
+        "Frank",
+        "turn",
+        "things",
+        "around"
+      ],
+      "summary": "One of the Premier League's most charismatic managers is back.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Guimaraes growing at Arsenal - but Arteta still wants more",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/news/12040/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-20T09:38:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Newcastle",
+        "Arteta",
+        "Guimaraes",
+        "growing",
+        "still"
+      ],
+      "summary": "It's all eyes on Bruno Guimaraes this Saturday. The Newcastle hero who captained the team to cup success returns in Arsenal colours. And he returns as a growing cog in the Gunners' system.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-11-20T01:31:38+00:00",
-      "score": 20.0,
+      "published": "2026-11-20T10:46:32+00:00",
+      "score": 31.0,
       "keywords": [
-        "Socceroos",
-        "future",
-        "looks",
-        "bright",
-        "Australia",
-        "stun"
+        "Arsenal",
+        "Newcastle",
+        "Arteta",
+        "Mikel",
+        "Bukayo Saka",
+        "Mikel Arteta"
       ],
-      "summary": "Akol Akon sealed a 2-0 win over football powerhouse in Qatar Joeys mark return to tournament for first time in seven years Sydney FC prodigy Akol Akon has demonstrated why he’s one of the most exciting talents in Australian football, leading the Joeys to a shock 2-0 victory over Argentina to launch ",
+      "summary": "Zubimendi also out of Saturday’s game at Newcastle Arteta imposes Fantasy Premier League ban after leak Mikel Arteta has said Bukayo Saka may not return before Christmas as the Arsenal forward continues his rehabilitation from a thigh injury . Saka has been out since limping off against Bayern Munic",
       "summary_cn": ""
     },
     {
-      "title": "Predicting the rest of the Premier League season: How all 20 teams will finish",
+      "title": "Wayne Rooney forced Man Utd to keep promise about son Kai, 17, that could have seen academy ace RELEASED",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-11-20T02:05:27+00:00",
-      "score": 15.0,
+      "url": "https://www.thesun.co.uk/sport/41079643/wayne-rooney-man-utd-son-kai-release-academy/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-20T10:33:44+00:00",
+      "score": 31.0,
       "keywords": [
-        "Predicting",
-        "rest",
-        "Premier",
-        "League",
-        "season",
-        "teams"
+        "Manchester United",
+        "Man Utd",
+        "Wayne Rooney",
+        "Rooney",
+        "Wayne",
+        "forced"
       ],
-      "summary": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+      "summary": "WAYNE ROONEY has revealed he urged Manchester United staff to treat son Kai the same as every other academy prospect. The Manchester United legend is hoping to see his son follow in his footsteps but wants him to succeed off his own back. Kai, 17, joined the Red Devils academy aged six back in 2016.",
       "summary_cn": ""
     },
     {
-      "title": "Reranked: Who is the MVP for each of the top Premier League clubs?",
+      "title": "Pochettino’s first session leaked on drone footage; Nations League draw updates – football live",
       "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-11-20T02:05:27+00:00",
-      "score": 15.0,
+      "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-11-20T11:02:37+00:00",
+      "score": 25.0,
       "keywords": [
-        "Reranked",
-        "each",
-        "Premier",
-        "League",
-        "clubs"
-      ],
-      "summary": "Based on ability and tactical importance, we've reranked the best players at the top Premier League clubs.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Pochettino gets a fitting, emotional send-off from USMNT",
-      "title_cn": "",
-      "url": "https://www.espn.com/soccer/story/_/id/50516323/mauricio-pochettino-emotional-send-usmnt-manchester-united",
-      "source": "ESPN FC",
-      "tier": 1,
-      "published": "2026-11-20T02:05:20+00:00",
-      "score": 10.0,
-      "keywords": [
+        "Liverpool",
+        "Manchester City",
         "Pochettino",
-        "gets",
-        "fitting",
-        "emotional",
-        "send",
-        "USMNT"
+        "first",
+        "session",
+        "leaked"
       ],
-      "summary": "No United States men's national team coach has ever left quite like this. Loved by players, celebrated by fans, and gone on his own terms.",
+      "summary": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Simon A Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support for the prosecution, reports the Press Asso",
+      "summary_cn": ""
+    },
+    {
+      "title": "What shock drone spying footage reveals about Pochettino’s line-up and tactics for Man Utd’s visit to Liverpool",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41079054/man-utd-pochettino-training-spying-footage-reveal-liverpool/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-20T10:11:32+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester United",
+        "Man Utd",
+        "shock",
+        "drone",
+        "spying"
+      ],
+      "summary": "MAURICIO POCHETTINO has a lot of leaks to plug at Manchester United, and drone footage publicly revealing his first training session isn't the best way to get started. The Argentine coach flew in to Manchester after the curtain came down on his time with the USA, and got straight to work with his Re",
+      "summary_cn": ""
+    },
+    {
+      "title": "Liverpool vs Manchester United: Get 50/1 for hosts to win with Sky Bet",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41072859/liverpool-manchester-united-sky-bet-odds/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-20T09:35:06+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester United",
+        "Manchester",
+        "United",
+        "hosts"
+      ],
+      "summary": "LIVERPOOL play host to Mauricio Pochettino's Manchester United on Sunday as two great rivals collide once again. It's a seismic contest in the English football calendar so Sky Bet have pulled out the stops, offering odds of 50/1 for Liverpool to win the game at Anfield - boosted from 8/11! Don't wor",
       "summary_cn": ""
     }
   ]
