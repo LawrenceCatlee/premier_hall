@@ -1,192 +1,322 @@
 {
-  "updated_at": "2026-11-21T09:33:14.469197+00:00",
+  "updated_at": "2026-11-21T17:17:40.528628+00:00",
   "items": [
     {
-      "title": "Newcastle vs Arsenal | Premier League predictions, preview and free bets",
+      "title": "‘More jerseys than wins’ – Man Utd fans fume as club release limited edition Blackout kit",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/41046143/newcastle-arsenal-predictions-free-bets-preview/",
+      "url": "https://www.thesun.co.uk/sport/41094431/more-jerseys-than-wins-man-utd-fans-fuming/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-11-21T08:00:00+00:00",
+      "published": "2026-11-21T15:57:01+00:00",
       "score": 33.0,
       "keywords": [
-        "Arsenal",
-        "Newcastle",
-        "Premier",
-        "League",
-        "predictions",
-        "preview"
+        "Manchester United",
+        "Man Utd",
+        "jerseys",
+        "wins",
+        "fans",
+        "fume"
       ],
-      "summary": "LEAGUE leaders Arsenal can extend their advantage at the top of the Premier League when heading to Newcastle for the Saturday teatime game. SunSport’s betting experts have previewed the game and selected the best betting tips, odds and exclusive sign-up bonuses from our leading bookmaker partners. N",
+      "summary": "MANCHESTER UNITED fans have been left fuming after the club unveiled a new limited-edition Blackout kit - with one supporter joking they have \"more jerseys than wins\". The Red Devils announced the release of the special all-black shirt on Saturday, despite their disastrous start to the Premier Leagu",
       "summary_cn": ""
     },
     {
-      "title": "Newcastle vs Arsenal: Get money back as free bets if your Bet Builder loses, plus our 11/1 tip | Betfred",
+      "title": "Parker still winless as West Ham held by Preston",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/41071576/newcastle-arsenal-betfred-free-bet-builder/",
-      "source": "The Sun",
+      "url": "https://www.skysports.com/football/west-ham-united-vs-preston-north-end/report/560688",
+      "source": "Sky Sports",
       "tier": 2,
-      "published": "2026-11-21T09:00:00+00:00",
+      "published": "2026-11-21T17:15:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "West Ham",
+        "Scott Parker",
+        "Parker",
+        "still",
+        "winless",
+        "West"
+      ],
+      "summary": "Scott Parker's stuttering start as West Ham manager continued in his first match at the London Stadium as bottom club Preston battled their way to a 1-1 draw.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wolves see off Charlton to climb to third",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-charlton-athletic/report/560689",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-21T17:15:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Wolves",
+        "Charlton",
+        "climb",
+        "third"
+      ],
+      "summary": "Adam Armstrong scored his fourth goal in five games and Rafiki Said his first for the club as Wolves beat Charlton 2-1 in the Sky Bet Championship at Molineux.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Teenager Williams-Barnett scores and assists in Spurs' win over Ipswich",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/report/559553",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-21T16:45:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Ipswich",
+        "Tottenham",
+        "Spurs",
+        "Williams",
+        "Teenager",
+        "Barnett"
+      ],
+      "summary": "Teenager Luca Williams-Barnett scored and assisted on his first Tottenham start to make history in Spurs&#8217; 2-0 home win over Ipswich.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-21T16:07:19+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Anderson",
+        "Fernandez",
+        "dropped",
+        "scores"
+      ],
+      "summary": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+      "summary_cn": ""
+    },
+    {
+      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-21T15:34:35+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Fulham",
+        "Manchester City",
+        "Erling Haaland",
+        "Haaland",
+        "quite",
+        "clear"
+      ],
+      "summary": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Newcastle United v Arsenal: Premier League – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-11-21T17:07:05+00:00",
       "score": 31.0,
       "keywords": [
         "Arsenal",
         "Newcastle",
-        "James",
-        "money",
-        "back",
-        "free"
+        "Mikel Arteta",
+        "Arteta",
+        "Mikel",
+        "United"
       ],
-      "summary": "ARSENAL head to St James' Park on Saturday, looking to extend their lead at the top when facing Newcastle. To celebrate the return of the Premier League this weekend, Betfred are offering money back on Bet Builders - up to a £5 maximum - if your bet on the North East showdown loses! Newcastle vs...",
+      "summary": "⚽️ Premier League updates from the 5.30pm GMT kick-off ⚽️ Live scores | Latest table | Follow us on TikTok | Mail Rob Mikel Arteta on Bruno Guimaraes’s inclusion He’s prepared emotionally; he knows to accept. We have to be very dominant emotionally to attack Newcastle in the way we want, and he’s re",
       "summary_cn": ""
     },
     {
-      "title": "The Chelsea loanee turning heads and Championship defenders at 17",
+      "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
       "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-11-21T08:05:46+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Chelsea",
-        "loanee",
-        "turning",
-        "heads",
-        "Championship",
-        "defenders"
-      ],
-      "summary": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
+      "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
       "source": "The Guardian",
       "tier": 2,
-      "published": "2026-11-21T09:16:00+00:00",
-      "score": 25.0,
+      "published": "2026-11-21T16:58:31+00:00",
+      "score": 31.0,
       "keywords": [
-        "Premier",
-        "League",
-        "resumes",
-        "Kane",
-        "facing",
-        "spell"
+        "Ipswich",
+        "Tottenham",
+        "Harry Kane",
+        "Williams",
+        "young",
+        "Gareth Bale"
       ],
-      "summary": "All the latest match news and buildup for today’s games Today’s games | Tables | Kane injury news | And mail us An email has hit my inbox ‘re the lack of fancy Dan wingers', from Patrick Morgan: I don’t think you’re talking nonsense, but I’d say it’s tactical rather than a lack of talent. Look at Ar",
+      "summary": "Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why as the 18-year-old became their youngest Premier League goalscorer since Gareth Bale in 2007 before teeing up ",
       "summary_cn": ""
     },
     {
-      "title": "Chelsea vs Leeds: Get £50 in free bets, plus our 9/1 Bet Builder tip | Sky Bet",
+      "title": "Chelsea 1 Leeds 4: Pressure piles on Xabi Alonso as furious Blues fans storm out early during Stamford Bridge mauling",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/41070069/chelsea-leeds-free-bets-bet-builder/",
+      "url": "https://www.thesun.co.uk/sport/41098432/chelsea-1-leeds-4-noah-okafor-dominic-calvert-lewin/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-11-21T09:21:42+00:00",
+      "published": "2026-11-21T16:58:05+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Bridge",
+        "Leeds",
+        "Pressure",
+        "piles",
+        "Xabi"
+      ],
+      "summary": "BILLIONS cannot buy you a backbone. Chelsea started the season with the Premier League’s most fearsome forward line, but now look like one of the softest sides in the top flight - torn apart by Leeds for a third Prem defeat in four. Xabi Alonso, pressure growing around him, insisted his boys were re",
+      "summary_cn": ""
+    },
+    {
+      "title": "BBC MOTD pundit, 57, fumes as he’s forced to sit on FLOOR of train to London",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41097367/dion-dublin-fumes-forced-to-sit-on-train-floor/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-21T16:56:35+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester United",
+        "DION DUBLIN",
+        "DUBLIN",
+        "MOTD",
+        "pundit",
+        "fumes"
+      ],
+      "summary": "DION DUBLIN has been left fuming after being forced to sit on the floor of a train during a journey to London. The former Manchester United and England striker, 57, was left without a seat as he travelled to the capital, prompting him to share his frustration on Instagram. The BBC Match of the Day..",
+      "summary_cn": ""
+    },
+    {
+      "title": "Bournemouth make more history with comfortable win against Forest",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/report/559545",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-21T17:05:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Nottingham Forest",
+        "Bournemouth",
+        "Forest",
+        "make",
+        "history",
+        "comfortable"
+      ],
+      "summary": "Bournemouth continued their unstoppable form with a comfortable 2-0 victory against Nottingham Forest and created two bits of history in the process.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – live",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-11-21T17:04:01+00:00",
       "score": 25.0,
       "keywords": [
         "Chelsea",
-        "Leeds",
-        "free",
-        "bets",
-        "plus",
-        "Builder"
+        "Ipswich",
+        "Southampton",
+        "Tottenham",
+        "West Ham",
+        "Leeds"
       ],
-      "summary": "CHELSEA host old rivals Leeds on Saturday as the Premier League makes its return. New customers who sign up and stake just £10 on football, including today's international encounter, will be credited with £30 in free BuildABets and £20 in free accumulator bets! 🏆 Get £50 in Free Bets | Sky Bet 🏆 Che",
+      "summary": "⚽️ Follow updates from the Premier League and beyond ⚽️ Live scores | Table | Follow on TikTok | And mail Emillia Championship fixtures Millwall 0-1 QPR Norwich City 2-1 Cardiff City Southampton 2-0 Derby County West Ham v Preston North End Bolton Wanderers v Portsmouth Middlesbrough v Bristol City ",
       "summary_cn": ""
     },
     {
-      "title": "Man City vs Fulham: Our 6/1 bet builder tip, plus get £50 in free bets | Paddy Power",
+      "title": "Premier League star suffers freak injury coming out of TUNNEL in bizarre scenes during Coventry’s 3-2 win over Palace",
       "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/41069182/man-city-fulham-bet-builder-tip-free-bets/",
+      "url": "https://www.thesun.co.uk/sport/41097680/coventry-palace-liove-taiwo-awoniyi-freak-injury-tunnel/",
       "source": "The Sun",
       "tier": 2,
-      "published": "2026-11-21T09:00:00+00:00",
+      "published": "2026-11-21T16:21:53+00:00",
       "score": 25.0,
       "keywords": [
-        "Fulham",
-        "Manchester City",
-        "Man City",
-        "City",
-        "builder",
-        "plus"
-      ],
-      "summary": "MANCHESTER CITY are looking to avoid FOUR defeats in a row when welcoming Fulham in Saturday's early kick-off. Brand-new Paddy Power customers who register and place a £10 football bet builder at odds of 1/2 or greater will be rewarded with £50 in Free Football Bet Builders! Our team of betting expe",
-      "summary_cn": ""
-    },
-    {
-      "title": "Betting column: SunSport picks for Liverpool vs Man Utd and more in huge Prem weekend",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/41083352/sunsport-picks-spain-england-efl/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-11-21T08:00:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Man Utd",
-        "Betting",
-        "column",
-        "SunSport",
-        "picks"
-      ],
-      "summary": "YOU’D think Mauricio Pochettino would have to install 20 trampolines on pogo sticks at Carrington if he wanted to get a new manager bounce out of the side he’s inherited at Old Trafford. I know he’s sent his fitness coach over early and has been watching the Prem on the box in the US, but...",
-      "summary_cn": ""
-    },
-    {
-      "title": "Scorecard: Australia vs England, first T20 international, Melbourne",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/australia-v-england/scorecard/64cb29f3-b7f6-5052-b3a8-13b6c7fe514f",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-11-21T08:10:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Scorecard",
-        "Australia",
-        "England",
-        "first",
-        "international",
-        "Melbourne"
-      ],
-      "summary": "Latest score from the first T20 international between England at the Melbourne Cricket Ground.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Lehmann denies knowledge of sandpaper use",
-      "title_cn": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13614628/sandpapergate-former-australia-head-coach-darren-lehmann-denies-knowledge-of-sandpaper-use-after-cameron-bancroft-allegations",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-11-21T07:44:00+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Lehmann",
-        "denies",
-        "knowledge",
-        "sandpaper"
-      ],
-      "summary": "Former Australia head coach Darren Lehmann has denied knowledge of the use of sandpaper to alter the ball during his side's Test series against South Africa in 2018.",
-      "summary_cn": ""
-    },
-    {
-      "title": "Former Champions League winners score astonishing own goal as defender bursts into tears and asks to be subbed",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/41089850/porto-own-goal-francisco-moura-tears-subbed-request/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-11-21T08:03:42+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Former",
-        "Champions",
+        "Crystal Palace",
+        "Premier",
         "League",
-        "winners",
-        "score",
-        "astonishing"
+        "star",
+        "suffers",
+        "freak"
       ],
-      "summary": "EX-CHAMPIONS LEAGUE winners Porto scored one of the most remarkable own goals you are likely to see, as the offending player was left in tears and asked to be subbed off. Porto were in action against third-tier minnows Paredes in the fourth round of the Portuguese Cup on Friday night. Any thought of",
+      "summary": "TAIWO AWONIYI was forced off after injuring himself while JOGGING OUT for the second half. Awoniyi, 29, emerged from the tunnel with his Coventry teammates ahead of the second half against Crystal Palace. But after running onto the pitch, the striker was soon in a heap on the floor, pointing at his ",
+      "summary_cn": ""
+    },
+    {
+      "title": "Moises Caicedo limps off injured after sickening fall in Chelsea’s clash vs Leeds as fans say ‘this is scary to watch’",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41095418/moises-caicedo-injury-chelsea-clash-vs-leeds-updates/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-21T15:27:54+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Chelsea",
+        "Moises",
+        "Caicedo",
+        "limps",
+        "injured",
+        "sickening"
+      ],
+      "summary": "MOISES CAICEDO suffered a brutal injury in Chelsea's clash with Leeds. The midfielder went up for a header and was knocked to the ground, landing awkwardly on his back. Caicedo immediately showed his discomfort and pulled his shirt over his head as he lay on the turf. One Chelsea fan posted: \"This i",
+      "summary_cn": ""
+    },
+    {
+      "title": "Alcaraz defeats Shelton to reach championship match at ATP Finals",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13614778/carlos-alcaraz-seven-time-grand-slam-champion-sinks-ben-shelton-to-reach-championship-match-at-atp-finals",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-21T15:55:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Alcaraz",
+        "defeats",
+        "Shelton",
+        "reach",
+        "championship",
+        "match"
+      ],
+      "summary": "Carlos Alcaraz made it a lucky 13 wins in a row against Ben Shelton to reach Sunday's showpiece of the ATP Finals in Turin.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Boro ease past Bristol City to go top of Championship",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/middlesbrough-vs-bristol-city/report/560681",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-21T17:15:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Boro",
+        "ease",
+        "past",
+        "Bristol",
+        "City",
+        "Championship"
+      ],
+      "summary": "Middlesbrough scored a goal either side of half-time to climb top of the Sky Bet Championship with a 2-0 win that piled further pressure on Bristol City boss Michael Skubala.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Watch Open All Mics",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-21T17:30:00+00:00",
+      "score": 20.0,
+      "keywords": [
+        "Watch",
+        "Open",
+        "Mics"
+      ],
+      "summary": "Join the Sportsound team for all the latest Scottish football scores.",
       "summary_cn": ""
     }
   ]
