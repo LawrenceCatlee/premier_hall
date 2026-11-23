@@ -1,6 +1,562 @@
 {
   "items": [
     {
+      "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-11-23T22:09:41+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Brentford",
+        "Everton",
+        "James",
+        "Tarkowski",
+        "James Tarkowski",
+        "Lewis"
+      ],
+      "summary": "It was a record-breaking occasion in more ways than one. David Moyes made history for Everton, edging clear of Harry Catterick by overseeing his 593rd game in charge of the club, but calamitous defending ruined the Scot’s evening and defeat to Brentford was inevitable after James Tarkowski received ",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Brentford 4 Everton 0: Oleksandr Usyk watches on as David Moyes hit with sucker punch on record-breaking evening",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41121472/brentford-everton-oleksandr-usyk-david-moyes-punch/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-23T22:02:19+00:00",
+      "score": 39.0,
+      "keywords": [
+        "Brentford",
+        "Everton",
+        "James",
+        "Tarkowski",
+        "James Tarkowski",
+        "Oleksandr"
+      ],
+      "summary": "DAVID MOYES has been around long enough to know football would deliver him a gut-punch on his big night. With heavyweight champion Oleksandr Usyk watching on, Brentford delivered a quick one-two with two goals in as many minutes before the knockout blow of James Tarkowski’s first-half red card. Moye",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
+      "title_cn": "",
+      "url": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-23T21:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brentford",
+        "Everton",
+        "Keane",
+        "Lewis",
+        "Potter",
+        "scores"
+      ],
+      "summary": "Keane Lewis-Potter&#8217;s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "RED CARD! VAR controversy as Tarkowski sent off after review",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13615787/off-j-tarkowski-40-brentford-2-0-everton",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-23T20:46:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brentford",
+        "Everton",
+        "Tarkowski",
+        "CARD",
+        "controversy",
+        "sent"
+      ],
+      "summary": "VAR controversy as Tarkowski sent off after review during Everton's Premier League match against Brentford.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "De Bruyne's feelings for Man City will 'never change'",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-23T21:05:23+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "Kevin de Bruyne",
+        "Bruyne",
+        "feelings",
+        "City"
+      ],
+      "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-23T21:41:52+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool",
+        "Antonio",
+        "Alisson Becker",
+        "Becker"
+      ],
+      "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Ethan Nwaneri was supposed to be Arsenal’s starboy but returns to Emirates in all too familiar situation with Dortmund",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41121292/ethan-nwaneri-arsenal-return-borussia-dortmund-loan/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-23T22:30:00+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Arsenal",
+        "young",
+        "Ethan",
+        "Nwaneri",
+        "supposed",
+        "starboy"
+      ],
+      "summary": "ETHAN NWANERI was supposed to be the Arsenal starboy. Nwaneri had been discussed as one of Hale End’s brightest sparks when he first broke onto the scene, becoming the Premier League’s youngest-ever player aged just 15 years and 181 days in 2022. And his breakout 2024/25 campaign showed even more pr",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "De Bruyne knows fans will call Man City a ‘DISGRACE’ over cheating – but he’ll still be proud even if stripped of titles",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41121284/kevin-de-bruyne-man-city-napoli-champions-league/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-23T22:01:39+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Manchester City",
+        "Man City",
+        "KEVIN DE BRUYNE",
+        "Bruyne",
+        "knows",
+        "fans"
+      ],
+      "summary": "KEVIN DE BRUYNE knows&nbsp;people might call Manchester City&nbsp;a ‘disgrace’ after the&nbsp;Premier League’s guilty verdict. But the Etihad legend, 35, says his feelings about “his club” will not change as he&nbsp;returns with Napoli in the Champions League on Tuesday. KDB enjoyed a trophy-laden d",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Xabi Alonso needs to turn Chelsea around before things snowball out of control – just ask Potter, Lampard and Rosenior",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41120587/xabi-alonso-must-fix-chelsea/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-23T21:34:37+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Chelsea",
+        "Lampard",
+        "Bridge",
+        "Xabi",
+        "Alonso",
+        "needs"
+      ],
+      "summary": "XABI ALONSO isn’t hearing ‘Chelsea Dagger’ to celebrate his side scoring at home nearly enough. But the Blues boss might now be starting to worry about a real one being plunged in his back. The bright early season mood at the Bridge, when Chelsea’s defensive deficiencies were being glossed over by t",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Man Utd legend claims Ngumoha is massive Red Devils fan and was given personal tour of facilities before Liverpool move",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41120694/man-utd-rio-ngumoha-liverpool-nicky-butt/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-23T21:11:34+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester United",
+        "Man Utd",
+        "Nicky Butt",
+        "given",
+        "legend"
+      ],
+      "summary": "MANCHESTER UNITED failed to sign Rio Ngumoha, even though he is a “massive” fan of the club and was given a personal tour of the facilities before joining Liverpool. That's according to United legend Nicky Butt, who blasted his former club for letting such a talent slip through their fingers. Ngumoh",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "David Moyes lets referee know exactly how he feels about James Tarkowski red card as Everton capitulate at Brentford",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41120929/james-tarkowski-red-card-everton-derby-collapse/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-23T20:44:56+00:00",
+      "score": 31.0,
+      "keywords": [
+        "Brentford",
+        "Everton",
+        "James",
+        "Tarkowski",
+        "James Tarkowski",
+        "Keane"
+      ],
+      "summary": "DAVID MOYES appeared to fire an X-rated gesture at referee Craig Pawson after he brandished a red card to defender James Tarkowski. Moyes and Co made the journey to West London on Monday night to take on Keith Andrews' Bees. But they found themselves up against it early on as Keane Lewis-Potter's de",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Patten ends Grand Slam-winning doubles pairing to partner fellow Brit Skupski",
+      "title_cn": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13615831/henry-patten-ends-partnership-with-harri-heliovaara-to-team-up-with-fellow-briton-neal-skupski",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-23T22:00:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Henry",
+        "Patten",
+        "ends",
+        "Grand",
+        "Slam",
+        "winning"
+      ],
+      "summary": "Henry Patten has ended his world No 1 doubles partnership with Harri Heliovaara in shock fashion in favour of teaming up with British compatriot Neal Skupski for 2027.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "MNC: Leeds dreaming of Europe and when's the right time to start a young player?",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppk3nb?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-23T21:48:00+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Sutton",
+        "Chris Sutton",
+        "young",
+        "Smith",
+        "Leeds",
+        "dreaming"
+      ],
+      "summary": "Mark Chapman is joined by Conor Coady, Chris Sutton and Rory Smith.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Hosting World Cup means decade of excitement - Weir",
+      "title_cn": "",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "tier": 2,
+      "published": "2026-11-23T21:03:42+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "Hosting",
+        "World",
+        "means",
+        "decade",
+        "excitement"
+      ],
+      "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
+      "title_cn": "",
+      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
+      "source": "The Guardian",
+      "tier": 2,
+      "published": "2026-11-23T21:02:10+00:00",
+      "score": 26.0,
+      "keywords": [
+        "Ireland",
+        "Women",
+        "World",
+        "huge",
+        "potential",
+        "women"
+      ],
+      "summary": "Maximising the societal impact of the tournament, especially combating misogyny, should be a top priority The announcement that the 2035 Women’s World Cup will be hosted in England, Scotland, Wales and Northern Ireland has finally come and, if we aim high enough, it could have a massive societal imp",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "WHAT A STRIKE! Janelt rifles rocket for Brentford’s third",
+      "title_cn": "",
+      "url": "https://www.skysports.com/watch/video/13615825/goal-v-janelt-67-brentford-3-0-everton",
+      "source": "Sky Sports",
+      "tier": 2,
+      "published": "2026-11-23T21:41:00+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Brentford",
+        "Everton",
+        "STRIKE",
+        "Janelt",
+        "rifles",
+        "rocket"
+      ],
+      "summary": "Janelt rifles rocket for Brentford&#8217;s third against Everton in the Premier League",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "No amount of history or trophies will save Man Utd if they carry on like this – they’re sleepwalking towards relegation",
+      "title_cn": "",
+      "url": "https://www.thesun.co.uk/sport/41121126/man-utd-news-mauricio-pochettino-relegation/",
+      "source": "The Sun",
+      "tier": 2,
+      "published": "2026-11-23T21:42:04+00:00",
+      "score": 25.0,
+      "keywords": [
+        "Manchester United",
+        "Man Utd",
+        "amount",
+        "history",
+        "trophies",
+        "save"
+      ],
+      "summary": "MANCHESTER UNITED are not too big to go down. And if they think a new manager alone will save them, they are sleepwalking towards the unthinkable. No amount of history or trophies in the cabinet will save them if they carry on defending like a pub team. A January spending spree after nine games of..",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Raya won't require surgery, Arsenal's Mikel Arteta confirms",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50572706/david-raya-arsenal-injury-update",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Arsenal",
+        "David Raya",
+        "Arteta",
+        "Mikel",
+        "Mikel Arteta",
+        "Raya"
+      ],
+      "summary": "Mikel Arteta has said David Raya's shoulder injury is better than first feared and that the goalkeeper will not require surgery.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "🟥VAR review: Explaining Yoro's early red card vs. Liverpool",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 21.0,
+      "keywords": [
+        "Liverpool",
+        "Davies",
+        "review",
+        "Explaining",
+        "Yoro",
+        "early"
+      ],
+      "summary": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "U.S. to co-host Women's World Cup in 2031; U.K. wins bid for 2035",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50571732/womens-world-cup-united-states-united-kindgom",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 18.0,
+      "keywords": [
+        "host",
+        "Women",
+        "World",
+        "wins"
+      ],
+      "summary": "The United States has been confirmed as co-hosts of the 2031 Women's World Cup, before the United Kingdom hosts the tournament four years later.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Yamal out of Barcelona's Champions League game at Sabah",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50571569/lamine-yamal-barcelona-champions-league-sabah",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 18.0,
+      "keywords": [
+        "Yamal",
+        "Barcelona",
+        "Champions",
+        "League",
+        "game",
+        "Sabah"
+      ],
+      "summary": "Lamine Yamal will miss Barcelona's Champions League game in Azerbaijan against Sabah this week with an ankle injury, the Spanish champions have confirmed.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Champions League Power Rankings before MD5: Who's No. 1?",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50563236/uefa-champions-league-power-rankings-matchday-five",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:10+00:00",
+      "score": 16.0,
+      "keywords": [
+        "speed",
+        "Champions",
+        "League",
+        "Power",
+        "Rankings"
+      ],
+      "summary": "The UEFA Champions League is going at full speed, and we're beyond the halfway point of the league phase. Injuries are starting to pile up. Where does your club rank?",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Philadelphia's Cavan Sullivan wins MLS Young Player of the Year award",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50573882/philadelphia-cavan-sullivan-mls-young-player-year",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Sullivan",
+        "Young",
+        "Philadelphia",
+        "Cavan",
+        "wins",
+        "Player"
+      ],
+      "summary": "Philadelphia Union midfielder Cavan Sullivan has been selected as the MLS Young Player of the Year for his breakthrough performance as a 17-year-old.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Son Heung-Min: Thomas Müller spot-on about lack of pressure in MLS",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50574293/son-heung-min-thomas-muller-mls-no-pressure-relegation",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 16.0,
+      "keywords": [
+        "Son Heung-Min",
+        "Heung-Min",
+        "Heung",
+        "Thomas",
+        "spot",
+        "lack"
+      ],
+      "summary": "LAFC forward Son Heung-Min has backed Thomas Müller's comments about the \"careless\" playing style in the MLS and the lack of pressure that players feel due to the absence of a promotion/relegation system.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Sources: Man Utd to appeal Yoro red card against Liverpool",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50572590/man-united-leny-yoro-red-card-liverpool-premier-league",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 15.0,
+      "keywords": [
+        "Liverpool",
+        "Manchester United",
+        "Man Utd",
+        "Sources",
+        "appeal",
+        "Yoro"
+      ],
+      "summary": "Manchester United have notified the Football Association of their intention to appeal Leny Yoro's red card in the 4-0 defeat to Liverpool, sources have told ESPN.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Spirit fire González after losing NWSL Championship for 3rd straight season",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50575099/spirit-fire-gonzalez-nwsl-championship-third-straight",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Spirit",
+        "fire",
+        "losing",
+        "NWSL",
+        "Championship",
+        "straight"
+      ],
+      "summary": "The Washington Spirit have fired head coach Adrián González following the team's loss in Saturday's NWSL Championship.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Real Madrid's Mourinho: Vinícius Jr. 'doesn't have to be MVP' to deliver",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50573054/real-madrid-mourinho-vinicius-jr-does-not-mvp",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:34:14+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Real",
+        "Madrid",
+        "Mourinho",
+        "doesn",
+        "deliver"
+      ],
+      "summary": "Mourinho has backed Vinícius Júnior to \"return to his maximum potential\" as Real Madrid face PSV Eindhoven in Champions League play.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
+      "title": "Women's World Cup returning to U.S. shows how the game has grown since 1999",
+      "title_cn": "",
+      "url": "https://www.espn.com/soccer/story/_/id/50576097/us-host-2031-womens-world-cup",
+      "source": "ESPN FC",
+      "tier": 1,
+      "published": "2026-11-23T20:53:44+00:00",
+      "score": 10.0,
+      "keywords": [
+        "Women",
+        "World",
+        "returning",
+        "shows",
+        "game",
+        "grown"
+      ],
+      "summary": "Women's soccer was forever changed when the U.S. hosted the 1999 World Cup. With it returning in 2031, ESPN charts the game's explosive growth.",
+      "summary_cn": "",
+      "fetched_at": "2026-11-23T22:31:26.461384+00:00"
+    },
+    {
       "title": "Man Utd hire Arsenal coach who helped Mikel Arteta transform Gunners into title winners",
       "title_cn": "",
       "url": "https://www.thesun.co.uk/sport/41112718/man-utd-arsenal-coach-mikel-aretata-sam-wilson/",
@@ -39188,566 +39744,6 @@
       "summary": "Aston Villa are looking at signing Real Madrid striker Endrick, Liverpool are weighing up a move for Barcelona's Marc Bernal, Everton are leading the chase for Rennes striker Esteban Lepaul, plus more.",
       "summary_cn": "",
       "fetched_at": "2026-10-11T22:46:05.982805+00:00"
-    },
-    {
-      "title": "Anfield hit fever pitch in outpouring of anger with chants & banners.. but ruthless Man City left Kop choking on insults",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40651470/man-city-liverpool-banners-charges-insults-anfield/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T21:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Man City",
-        "Anfield",
-        "fever",
-        "pitch",
-        "outpouring"
-      ],
-      "summary": "IT WAS the day Anfield was going to speak. Not, this time, just for Liverpool. But for many, many others. With the Oasis-inspired banners that spelt out accusation after accusation. The jeers and boos. The raucous blasts of “cheats”. A visceral, guttural, raucous, fever-pitched outpouring of righteo",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T22:46:05.982805+00:00"
-    },
-    {
-      "title": "‘Most powerful goal ever’ – Fans in awe as Arsenal flop unleashes rocket but some say ‘you’ve clearly forgotten Hulk’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40652032/lazio-nuno-tavares-monza-arsenal/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T21:04:33+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Arsenal",
-        "Most",
-        "powerful",
-        "goal",
-        "ever",
-        "Fans"
-      ],
-      "summary": "NUNO TAVARES has left fans in awe with his rocket strike in Lazio's win over Monza. The former Arsenal flop has rebuilt his career with the Italian giants since his arrival in 2025. Tavares, 26, has become a regular for Lazio as a left-wing back and netted his first goal in the 3-1 victory. The...",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T22:46:05.982805+00:00"
-    },
-    {
-      "title": "European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-10-11T21:15:26+00:00",
-      "score": 20.0,
-      "keywords": [
-        "European",
-        "football",
-        "Freiburg",
-        "move",
-        "Bundesliga",
-        "while"
-      ],
-      "summary": "Goto seals late 2-1 win over Schalke for 10-man Freiburg Lazio join Inter at top of Serie A as Roma held at Como Ten-man Freiburg scored an 85th-minute winner ⁠through Keisuke Goto to snatch a 2-1 home victory over ⁠ Schalke 04 ⁠on ​Sunday and move top of the Bundesliga. Freiburg, who had ⁠already m",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T22:46:05.982805+00:00"
-    },
-    {
-      "title": "Police officer injured as Saints and Pompey fans tear down fences after fierce derby clash – as four arrested",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40652222/police-injured-arrests-southampton-portsmouth-derby/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T22:03:13+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Police",
-        "officer",
-        "injured",
-        "Saints",
-        "Pompey",
-        "fans"
-      ],
-      "summary": "A POLICE officer has been injured and four arrests made after disorder broke out between rival fans at the south coast derby clash. Riot police and officers on horseback were brought in as part of a huge operation to disperse crowds outside St Mary’s Stadium when fans started taunting each other. Su",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T22:46:05.982805+00:00"
-    },
-    {
-      "title": "Bizarre moment Celtic star almost strangled as neck gets tangled in rival fan’s flag just 15 minutes into return to club",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40651614/celtic-jota-motherwell-scottish-premiership-injury/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T20:47:24+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Bizarre",
-        "moment",
-        "Celtic",
-        "star",
-        "almost",
-        "strangled"
-      ],
-      "summary": "CELTIC star Jota suffered a bizarre accident as a fan's flag got tangled around his neck on his FIRST MATCH back from injury. The winger had been sidelined since May 2025 with a knee injury that required surgery on his ligaments. And thus the ex-Portugal youth international missed the entirety of th",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T22:46:05.982805+00:00"
-    },
-    {
-      "title": "Tension, ‘cheat’ banners and inflatable bananas: Manchester City’s welcome to Anfield",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/oct/11/tension-banners-and-inflatable-bananas-manchester-citys-welcome-to-anfield",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-10-11T16:50:12+00:00",
-      "score": 33.0,
-      "keywords": [
-        "Manchester City",
-        "Tension",
-        "cheat",
-        "banners",
-        "inflatable",
-        "bananas"
-      ],
-      "summary": "An incendiary atmosphere greeted the former Premier League champions for their first game since being found guilty of breaking financial fair play rules Fans lined the streets of Anfield in preparation for the arrival of the Manchester City team bus, with pyrotechnics and pure vitriol adding to the ",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Fans love Man Utd legend Roy Keane’s priceless reaction to learning Hull star missed match because he was ‘TIRED’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40651089/fans-love-roy-keane-reaction-hull-star-missed-match/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T18:44:23+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Everton",
-        "Manchester United",
-        "Man Utd",
-        "Roy Keane",
-        "Keane",
-        "Fans"
-      ],
-      "summary": "FANS were cracking up at Roy Keane's reaction to a Hull star being left out of the line-up for being \"tired.\" The Manchester United legend joined fellow pundits Micah Richards and Daniel Sturridge in the Sky Sports studio ahead of the Tigers' clash with Everton on Sunday. But he was the target of a ",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Gary Neville cracks joke about Erling Haaland’s dad ‘distancing himself from Man City chiefs’ after he sits with FANS",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40650806/gary-neville-erling-haaland-alf-inge-man-city-liverpool/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T18:15:48+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Man City",
-        "Gary Neville",
-        "Haaland"
-      ],
-      "summary": "GARY NEVILLE cracked a joke about Alf-Inge Haaland after he was spotted sitting among the Manchester City fans at Anfield. The Manchester United legend was on pundit duty for Sky Sports as City took on Liverpool in the Premier League. It was the first time Enzo Maresca's players had taken to the pit",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Liverpool 0 Man City 3: Visitors survive fiery Anfield to win first game since verdict as controversial red changes game",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40650329/man-city-win-fiery-anfield-clash-liverpool/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T17:21:38+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Man City",
-        "Haaland",
-        "Erling Haaland",
-        "City",
-        "Visitors"
-      ],
-      "summary": "BUSINESS as usual, Erling Haaland had promised. And business as usual it was, as City ignored all the noise to make it six out of six in the Prem - and send Liverpool’s mocking taunts back into Merseyside throats. An afternoon that was supposed to be about a national judgement on City for their fina",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Jamie Carragher seething on Sky Sports after Ryan Gravenberch SENT OFF with ref ‘so quick to get the yellow card out’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40650581/jamie-carragher-sky-sports-ryan-gravenberch-liverpool-man-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T16:58:48+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester City",
-        "Carragher",
-        "Jamie Carragher",
-        "march",
-        "given"
-      ],
-      "summary": "JAMIE CARRAGHER was left seething on Sky Sports commentary after Ryan Gravenberch was SENT OFF against Manchester City. The Liverpool midfielder saw red after picking up two yellow cards in the Premier League fixture at Anfield. Gravenberch was given his marching orders in the second half after a ta",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "How Antonelli could win F1 world title as soon as the next race",
-      "title_cn": "",
-      "url": "https://www.skysports.com/f1/news/12040/13597654/kimi-antonelli-f1-title-permutations-how-mercedes-driver-could-clinch-world-championship-at-united-states-gp",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-11T19:20:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "young",
-        "Antonelli",
-        "world",
-        "title",
-        "soon",
-        "next"
-      ],
-      "summary": "Kimi Antonelli could become Formula 1's youngest world champion as early as the next race - the United States Grand Prix - on October 25.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Smith vows 'karma' will get Suljovic after antics at Swiss Darts Trophy",
-      "title_cn": "",
-      "url": "https://www.skysports.com/darts/news/12040/13597882/swiss-darts-trophy-ross-smith-vows-karma-will-catch-up-with-mensur-suljovic-after-austrian-encourages-boos",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-11T16:54:00+00:00",
-      "score": 26.0,
-      "keywords": [
-        "Smith",
-        "vows",
-        "karma",
-        "Suljovic",
-        "antics",
-        "Swiss"
-      ],
-      "summary": "Ross Smith has vowed that \"karma\" will catch up with opponent Mensur Suljovic after the Austrian encouraged the crowd to boo the Englishman during a last-leg decider in round three of the Swiss Darts Trophy.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Man City defiant and top of the table - but Anfield delivers its own verdict",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/news/12040/13593871/liverpool-0-3-man-city-anfield-delivers-own-verdict-on-premier-league-ruling-but-city-are-defiant-and-top-of-the-table",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-11T18:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "City",
-        "defiant",
-        "table",
-        "Anfield"
-      ],
-      "summary": "The chant from The Kop went up early. \"You haven't won a trophy since 1976.\" It was a reference to Manchester City's League Cup triumph, the last major honour that the club picked up prior to the period of ownership that now finds itself under such scrutiny.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Man City issue on-field statement by beating 10-man Liverpool",
-      "title_cn": "",
-      "url": "https://www.skysports.com/football/liverpool-vs-manchester-city/report/559501",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-11T18:25:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester City",
-        "Man City",
-        "City",
-        "issue",
-        "field"
-      ],
-      "summary": "Manchester City shut out all the noise and controversy to overcome a hostile Anfield atmosphere and beat 10-man Liverpool 3-0 on their return to Premier League action.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Miracle in London as Jaguars beat Eagles with field goal as time expires",
-      "title_cn": "",
-      "url": "https://www.skysports.com/nfl/news/12040/13597513/nfl-in-london-cam-little-kicks-game-winning-field-goal-as-jacksonville-jaguars-beat-philadelphia-eagles-19-17-in-tottenham-hotspur-stadium-thriller",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-11T18:30:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Tottenham",
-        "Miracle",
-        "London",
-        "Jaguars",
-        "beat",
-        "Eagles"
-      ],
-      "summary": "Cam Little kicked a 57-yard field goal as time expired to give the Jacksonville Jaguars a 19-17 win over the Philadelphia Eagles in a miraculous ending at the Tottenham Hotspur Stadium.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Exeter hold on against Newcastle as Sale extend Harlequins woes",
-      "title_cn": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13597898/gallagher-prem-exeter-chiefs-hold-on-for-narrow-victory-against-newcastle-jets-as-sale-sharks-edge-harlequins-round-up",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-11T17:10:00+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Newcastle",
-        "Exeter",
-        "hold",
-        "against",
-        "Sale",
-        "extend"
-      ],
-      "summary": "A hat-trick from Newcastle wing Christian Wade was not enough to stop Exeter claiming their first Gallagher Prem win of the season as they edged a topsy-turvy game at Sandy Park 34-28.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Burnham to release details of Man City meetings",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-11T18:01:13+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Burnham",
-        "release",
-        "details",
-        "City"
-      ],
-      "summary": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Who 'simply has to do better'? Liverpool v Man City player ratings",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-11T17:30:19+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Man City",
-        "simply",
-        "better",
-        "City",
-        "player"
-      ],
-      "summary": "How Liverpool and Man City's players rated following their Premier League match.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "'We deal with the noise' - Maresca 'proud' after Man City win",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-11T18:38:31+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester City",
-        "Man City",
-        "deal",
-        "noise",
-        "Maresca"
-      ],
-      "summary": "Manchester City manager Enzo Maresca says his squad 'dealt with the noise' after they beat Liverpool 3-0 at Anfield in their first match since being found guilty of breaching Premier League financial rules.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-10-11T17:42:02+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Manchester City",
-        "Cherki",
-        "cracker",
-        "caps",
-        "Manchester"
-      ],
-      "summary": "It is a soundtrack that Manchester City have heard before but never for such sustained bursts during a match. It came from the Liverpool support, first ringing out around Anfield before kick-off and coming at regular intervals thereafter. It was always going to be like this as City feel their way in",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Burnham to publish ALL details of dealings with Man City amid pressure to come clean over defence of UAE owners",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40651202/andy-burnham-publish-all-details-dealings-manchester-city/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T18:15:57+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Man City",
-        "Burnham",
-        "publish",
-        "details",
-        "dealings",
-        "City"
-      ],
-      "summary": "ANDY Burnham has finally bowed to pressure to publish all his meetings with Man City’s owners following fury at his defence of the UAE tycoons. The Prime Minister had been feeling the heat to come clean about his dealings after the club was found guilty of widespread cheating. The PM’s City links go",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Konstantis Tzolakis suitors to hold talks with Hull NEXT MONTH as Liverpool target £40m Alisson transfer replacement",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40650472/konstantis-tzolakis-hull-liverpool-alisson-tottenham-transfer-news/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T17:47:11+00:00",
-      "score": 25.0,
-      "keywords": [
-        "Liverpool",
-        "Konstantis",
-        "Tzolakis",
-        "suitors",
-        "hold",
-        "talks"
-      ],
-      "summary": "HULL are braced for transfer talks with suitors of star goalkeeper Konstantis Tzolakis NEXT MONTH amid his stunning start to life in the Premier League. So impressive has he been there have been links with Liverpool. Tzolakis, 23, became the Tigers' most expensive keeper of all time this past summer",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Jota comeback helps Celtic lift gloom in strong response",
-      "title_cn": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "tier": 2,
-      "published": "2026-10-11T16:55:21+00:00",
-      "score": 20.0,
-      "keywords": [
-        "Jota",
-        "comeback",
-        "helps",
-        "Celtic",
-        "lift",
-        "gloom"
-      ],
-      "summary": "Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T18:46:09.047529+00:00"
-    },
-    {
-      "title": "Keane asked if Micah should lose his Man City title",
-      "title_cn": "",
-      "url": "https://www.skysports.com/watch/video/13597749/roy-keane-asked-if-micah-richards-should-lose-his-man-city-title",
-      "source": "Sky Sports",
-      "tier": 2,
-      "published": "2026-10-11T13:37:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Keane",
-        "Roy Keane",
-        "asked",
-        "Micah"
-      ],
-      "summary": "Roy Keane shares his thoughts on Manchester City following the club being found guilty of all charges related to serious breaches of Premier League financial rules by an independent commission; City have lodged their appeal against the verdict.",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T13:56:51.024069+00:00"
-    },
-    {
-      "title": "Crystal Palace v Nottingham Forest, Hull v Everton, Southampton 1-0 Portsmouth: football – live",
-      "title_cn": "",
-      "url": "https://www.theguardian.com/football/live/2026/oct/11/crystal-palace-v-nottingham-forest-hull-v-everton-and-more-football-live",
-      "source": "The Guardian",
-      "tier": 2,
-      "published": "2026-10-11T13:48:41+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Crystal Palace",
-        "Everton",
-        "Nottingham Forest",
-        "Southampton",
-        "Forest",
-        "given"
-      ],
-      "summary": "⚽ Get match updates from the Premier League and beyond ⚽ Live scores | Tables | Mail John | And follow us on TikTok Southampton 1-0 Portsmouth Leo Scienza is the creative threat for Saints, and when he’s given space down the left, Portsmouth begin to struggle. One hell of a melee occurs when Larin b",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T13:56:51.024069+00:00"
-    },
-    {
-      "title": "‘Impossible’ – Liam Delap horror show with ‘miss of season’ as Forest striker volleys at keeper’s face from three yards",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40648683/liam-delap-miss-nottingham-forest-crystal-palace/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T13:51:29+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Crystal Palace",
-        "Nottingham Forest",
-        "Forest",
-        "Delap",
-        "Impossible",
-        "Liam"
-      ],
-      "summary": "LIAM DELAP wasted a golden chance to score as he blasted the ball straight at goalkeeper Walter Benitez from barely three yards. The Nottingham Forest striker was in action as his side took on Crystal Palace at Selhurst Park. Oliver Glasner's visitors got off to a perfect start against his former si",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T13:56:51.024069+00:00"
-    },
-    {
-      "title": "‘Seen enough’ – Gary Neville says Man Utd duo can’t play together and blasts ‘get a grip’ ahead of scary run of fixtures",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40647560/gary-neville-man-utd-tielemans-mainoo-cant-play/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T12:48:00+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester United",
-        "Man Utd",
-        "Carrick",
-        "Neville",
-        "Michael Carrick",
-        "Gary Neville"
-      ],
-      "summary": "GARY NEVILLE has questioned a pair of Manchester United stars following a run of disappointing matches. The United legend has not been pleased by what he has seen from Michael Carrick's men this season. And that feeling only grew stronger as he watched the Red Devils concede a 92nd-minute equaliser ",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T13:56:51.024069+00:00"
-    },
-    {
-      "title": "‘Bad look’ – Alan Shearer slams Premier League over Man City punishment delay and warns of Anfield ‘hostility’",
-      "title_cn": "",
-      "url": "https://www.thesun.co.uk/sport/40647610/shearer-slams-premier-league-man-city-punishment/",
-      "source": "The Sun",
-      "tier": 2,
-      "published": "2026-10-11T12:06:51+00:00",
-      "score": 31.0,
-      "keywords": [
-        "Manchester City",
-        "Man City",
-        "Shearer",
-        "Alan Shearer",
-        "look",
-        "Alan"
-      ],
-      "summary": "ALAN SHEARER slammed the Premier League for delaying the decision to punish Manchester City following their guilty verdict, saying: That is a bad look for English football. And the football legend warned Enzo Maresca’s under-fire side that “the level of hostility” among rival fans towards them will ",
-      "summary_cn": "",
-      "fetched_at": "2026-10-11T13:56:51.024069+00:00"
     }
   ]
 }
