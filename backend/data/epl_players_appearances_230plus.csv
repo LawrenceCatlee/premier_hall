@@ -19,8 +19,8 @@
 3062,appearances,,485,True
 1634,appearances,Manchester United,481,True
 2125,appearances,,469,True
+3712,appearances,"Chelsea, Brentford",469,False
 1629,appearances,,468,True
-3712,appearances,"Chelsea, Brentford",468,False
 1230,appearances,Melbourne City FC,455,True
 1420,appearances,Tottenham Hotspur,450,True
 851,appearances,,450,True
@@ -41,8 +41,8 @@
 725,appearances,,414,True
 3014,appearances,,414,True
 332,appearances,,411,True
+3452,appearances,"Chelsea, Brighton",409,False
 2122,appearances,Blackburn Rovers,408,True
-3452,appearances,"Chelsea, Brighton",408,False
 2040,appearances,Notts County,401,True
 321,appearances,,400,True
 2516,appearances,Colorado Rapids,399,True
@@ -85,17 +85,17 @@
 720,appearances,,351,True
 2417,appearances,,350,True
 8143,appearances,"Everton, Brentford",350,False
+5140,appearances,"Liverpool, Southampton",350,False
 4496,appearances,Atlético Madrid,349,True
 1692,appearances,,349,True
-5140,appearances,"Liverpool, Southampton",349,False
 1515,appearances,,347,True
 706,appearances,,346,True
 3206,appearances,Reading,344,True
 1,appearances,,344,True
 569,appearances,Hull City,342,True
+10458,appearances,"Spurs, Liverpool",342,False
 8979,appearances,Burnley,342,True
 1943,appearances,Stoke City,341,True
-10458,appearances,"Spurs, Liverpool",341,False
 78,appearances,Coventry City,341,True
 3143,appearances,Celtic,340,True
 2078,appearances,Lyon,336,True
@@ -103,7 +103,7 @@
 4999,appearances,,333,True
 1371,appearances,Coventry City,332,True
 1005,appearances,Accrington Stanley,331,True
-4717,appearances,"Fulham, Everton",330,False
+4717,appearances,"Fulham, Everton",331,False
 528,appearances,Brighton & Hove Albion,329,True
 315,appearances,,328,True
 5178,appearances,Trabzonspor,328,True
@@ -117,9 +117,9 @@
 238,appearances,,325,True
 2542,appearances,Swindon Town,325,True
 3285,appearances,Manchester United,325,True
+15202,appearances,"Arsenal, West Ham",324,False
 14,appearances,,323,True
 4224,appearances,Crystal Palace,323,True
-15202,appearances,"Arsenal, West Ham",323,False
 2622,appearances,Aston Villa,322,True
 2053,appearances,Leicester City,322,True
 2054,appearances,,321,True
@@ -131,8 +131,8 @@
 4408,appearances,"Spurs, Swansea",318,False
 1710,appearances,Liverpool,318,True
 4421,appearances,Vikingur Reykjavík,318,True
+4115,appearances,"Aston Villa, Chelsea",316,False
 3158,appearances,Stoke City,316,True
-4115,appearances,"Aston Villa, Chelsea",315,False
 991,appearances,Arsenal,315,True
 1458,appearances,Reading,315,True
 1934,appearances,,315,True
@@ -144,10 +144,10 @@
 3564,appearances,West Bromwich Albion,310,True
 4845,appearances,VfL Wolfsburg,310,True
 307,appearances,,310,True
+8163,appearances,Brighton,309,False
 4145,appearances,,309,True
 3929,appearances,Swansea City,309,True
 1211,appearances,Blackburn Rovers,308,True
-8163,appearances,Brighton,308,False
 1132,appearances,,307,True
 2423,appearances,,306,True
 326,appearances,,306,True
@@ -162,10 +162,10 @@
 1775,appearances,Fulham,303,True
 4198,appearances,,303,True
 13565,appearances,Man Utd,303,False
+9566,appearances,"Man Utd, Leicester",302,False
 1597,appearances,Hartlepool United,302,True
 3654,appearances,West Ham United,302,True
 300,appearances,,301,True
-9566,appearances,"Man Utd, Leicester",301,False
 1042,appearances,,301,True
 4608,appearances,"Man Utd, Southampton",301,False
 1962,appearances,Fleetwood Town,298,True
@@ -194,14 +194,14 @@
 41,appearances,Coventry City,288,True
 1131,appearances,MK Dons,288,True
 2574,appearances,Racing Murcia,287,True
+3756,appearances,"Nott'm Forest, Newcastle",287,False
 2805,appearances,Hull City,286,True
 488,appearances,Sunderland,286,True
 519,appearances,,286,True
 4489,appearances,Charlotte FC,286,True
-3756,appearances,"Nott'm Forest, Newcastle",286,False
+9576,appearances,"Leeds, Everton",285,False
 1412,appearances,MK Dons,285,True
 2704,appearances,,284,True
-9576,appearances,"Leeds, Everton",284,False
 2075,appearances,Reading,284,True
 8983,appearances,,284,True
 1677,appearances,,284,True
@@ -256,11 +256,11 @@
 1595,appearances,,268,True
 1627,appearances,Tottenham Hotspur,268,True
 3311,appearances,Montreal Impact,267,True
+3512,appearances,"Bournemouth, Derby",267,False
 243,appearances,,266,True
+20559,appearances,"Liverpool, Roma",266,False
 937,appearances,,266,True
 2758,appearances,Chelsea,266,True
-3512,appearances,"Bournemouth, Derby",266,False
-20559,appearances,"Liverpool, Roma",265,False
 331,appearances,,265,True
 1881,appearances,Everton,265,True
 2274,appearances,,265,True
@@ -274,34 +274,34 @@
 1768,appearances,,263,True
 406,appearances,,263,True
 2886,appearances,,262,True
+4985,appearances,"Fulham, Arsenal",262,False
 3548,appearances,Cardiff City,262,True
-4985,appearances,"Fulham, Arsenal",261,False
 320,appearances,,261,True
 497,appearances,,261,True
 3604,appearances,Manchester United,260,True
 2847,appearances,,260,True
 14732,appearances,Real Madrid,259,True
 2636,appearances,,259,True
+22542,appearances,"Brighton, Borussia Dortmund",258,False
 1659,appearances,,258,True
 3851,appearances,Wrexham,258,True
-22542,appearances,"Brighton, Borussia Dortmund",257,False
 2013,appearances,,257,True
 4505,appearances,Internazionale,257,True
 228,appearances,,257,True
 13511,appearances,,256,True
 2537,appearances,Leicester City,256,True
+24797,appearances,"Crystal Palace, Everton",256,False
 3,appearances,,255,True
 4481,appearances,Lille,255,True
 4030,appearances,Bordeaux,255,True
-24797,appearances,"Crystal Palace, Everton",255,False
 390,appearances,,255,True
 2662,appearances,Phoenix Rising,254,True
 12582,appearances,,254,True
 5272,appearances,Marseille,254,True
+5865,appearances,"Man Utd, Aston Villa",254,False
 4499,appearances,Fenerbahçe,253,True
 5758,appearances,Paris Saint Germain,253,True
 154,appearances,Millwall,253,True
-5865,appearances,"Man Utd, Aston Villa",253,False
 2553,appearances,Coventry City,252,True
 1429,appearances,,252,True
 2603,appearances,Brighton & Hove Albion,252,True
@@ -312,10 +312,10 @@
 958,appearances,Exeter City,251,True
 304,appearances,,250,True
 3102,appearances,Stoke City,249,True
+14716,appearances,"Newcastle, Leicester",248,False
 3175,appearances,,248,True
 670,appearances,,248,True
 10079,appearances,"Newcastle, Charlton",248,False
-14716,appearances,"Newcastle, Leicester",247,False
 3137,appearances,,247,True
 583,appearances,Doncaster Rovers,247,True
 847,appearances,Derby County,247,True
@@ -325,32 +325,32 @@
 2928,appearances,,245,True
 4179,appearances,Club Brugge,245,True
 598,appearances,,244,True
+51423,appearances,Aston Villa,244,False
 1565,appearances,Middlesbrough,244,True
 523,appearances,,243,True
 19680,appearances,FC Barcelona,243,True
 4123,appearances,Guangzhou R&F,243,True
 1335,appearances,,243,True
-51423,appearances,Aston Villa,243,False
 245,appearances,Darlington,243,True
+8707,appearances,"Newcastle, Brighton",242,False
 3448,appearances,Watford,242,True
 2289,appearances,Leeds United,242,True
 2991,appearances,Hull City,242,True
 3404,appearances,Istanbul Basaksehir,242,True
 2845,appearances,Istanbul Basaksehir,241,True
-8707,appearances,"Newcastle, Brighton",241,False
 3807,appearances,Reading,241,True
+13274,appearances,"Arsenal, Aston Villa",241,False
 1497,appearances,,241,True
 4403,appearances,Bristol City,241,True
+23396,appearances,"Man Utd, Sporting",240,False
 8245,appearances,Sheffield United,240,True
-13274,appearances,"Arsenal, Aston Villa",240,False
 79,appearances,,240,True
 1505,appearances,Bolton Wanderers,240,True
 1909,appearances,,240,True
-23396,appearances,"Man Utd, Sporting",239,False
+14164,appearances,"Aston Villa, West Ham",240,False
 3982,appearances,,239,True
 4286,appearances,Southampton,239,True
 20486,appearances,Besiktas,239,True
-14164,appearances,"Aston Villa, West Ham",239,False
 8868,appearances,West Ham United,238,True
 329,appearances,,238,True
 3394,appearances,,238,True
@@ -361,21 +361,21 @@
 2072,appearances,Portsmouth,236,True
 1253,appearances,Sheffield Wednesday,235,True
 293,appearances,,235,True
+4245,appearances,"Chelsea, Aston Villa",235,False
 4252,appearances,Celtic,235,True
 1217,appearances,Manchester United,235,True
 1558,appearances,Rangers,235,True
-4245,appearances,"Chelsea, Aston Villa",234,False
+14805,appearances,Man City,234,False
 2980,appearances,Huddersfield Town,234,True
-14805,appearances,Man City,233,False
 11071,appearances,Wolverhampton Wanderers,233,True
 2024,appearances,,233,True
 49481,appearances,Arsenal,233,False
 2047,appearances,Burnley,233,True
+8456,appearances,"Spurs, Leicester",232,False
 2012,appearances,FC København,232,True
 4666,appearances,RSC Anderlecht,232,True
 128,appearances,,231,True
 4487,appearances,,231,True
-8456,appearances,"Spurs, Leicester",231,False
 448,appearances,,231,True
 1495,appearances,,231,True
 4148,appearances,,230,True
